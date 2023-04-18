@@ -28,15 +28,15 @@ export const tagsData = {
       },
       {
         "displayName": "Dot Art",
-        "langName": "点艺术"
+        "langName": "点彩画"
       },
       {
         "displayName": "Line Art",
-        "langName": "线条艺术"
+        "langName": "线描画"
       },
       {
         "displayName": "Stipple",
-        "langName": "点画"
+        "langName": "点画法"
       },
       {
         "displayName": "Hand-Drawn",
@@ -44,7 +44,7 @@ export const tagsData = {
       },
       {
         "displayName": "Illuminated Manuscript",
-        "langName": "照明手稿"
+        "langName": "彩绘手稿"
       },
       {
         "displayName": "Crosshatch",
@@ -56,7 +56,7 @@ export const tagsData = {
       },
       {
         "displayName": "Graphic Novel",
-        "langName": "图画小说"
+        "langName": "绘本小说"
       },
       {
         "displayName": "Visual Novel",
@@ -64,11 +64,11 @@ export const tagsData = {
       },
       {
         "displayName": "Illustrated-Booklet",
-        "langName": "图解小册子"
+        "langName": "插图小册子"
       },
       {
         "displayName": "Assembly Drawing",
-        "langName": "装配图纸"
+        "langName": "装配图"
       },
       {
         "displayName": "Anatomical Drawing",
@@ -76,13 +76,13 @@ export const tagsData = {
       },
       {
         "displayName": "Cartographic",
-        "langName": "制图"
+        "langName": "制图的"
       }
     ],
     "铅笔": [
       {
         "displayName": "Pencil Art",
-        "langName": "铅笔艺术"
+        "langName": "铅笔画"
       },
       {
         "displayName": "Graphite",
@@ -94,7 +94,7 @@ export const tagsData = {
       },
       {
         "displayName": "Charcoal Art",
-        "langName": "木炭艺术"
+        "langName": "炭笔画"
       }
     ],
     "墨水": [
@@ -116,7 +116,7 @@ export const tagsData = {
       },
       {
         "displayName": "Fountain Pen Art",
-        "langName": "钢笔艺术"
+        "langName": "钢笔画"
       },
       {
         "displayName": "Calligraphy",
@@ -124,15 +124,15 @@ export const tagsData = {
       },
       {
         "displayName": "Marker Art",
-        "langName": "标记艺术"
+        "langName": "马克笔艺术"
       },
       {
         "displayName": "Dry-Erase Marker",
-        "langName": "干擦标记"
+        "langName": "白板笔"
       },
       {
         "displayName": "Wet-Erase Marker",
-        "langName": "湿擦除标记"
+        "langName": "可擦记号笔"
       },
       {
         "displayName": "Whiteboard",
@@ -146,7 +146,7 @@ export const tagsData = {
       },
       {
         "displayName": "Conte",
-        "langName": "Conte 粉笔"
+        "langName": "康熙笔"
       },
       {
         "displayName": "Chalk",
@@ -154,7 +154,7 @@ export const tagsData = {
       },
       {
         "displayName": "Pastel Art",
-        "langName": "粉彩艺术"
+        "langName": "粉彩画"
       },
       {
         "displayName": "Blackboard",
@@ -200,19 +200,19 @@ export const tagsData = {
       },
       {
         "displayName": "Scroll Painting",
-        "langName": "画卷"
+        "langName": "卷轴画"
       },
       {
         "displayName": "Paper-Marbling",
-        "langName": "土耳其湿拓画"
+        "langName": "水粉画"
       },
       {
         "displayName": "Hydro-Dipping",
-        "langName": "水转印技术"
+        "langName": "水转印"
       },
       {
         "displayName": "Hydrodipped",
-        "langName": "曲面水披覆技术"
+        "langName": "曲面水披覆"
       },
       {
         "displayName": "Easter Egg",
@@ -220,15 +220,15 @@ export const tagsData = {
       },
       {
         "displayName": "Egg Decorating",
-        "langName": "鸡蛋装饰"
+        "langName": "彩绘蛋"
       },
       {
         "displayName": "Rock Art",
-        "langName": "摇滚艺术"
+        "langName": "岩画"
       },
       {
         "displayName": "Cave Art",
-        "langName": "洞穴艺术"
+        "langName": "洞窟艺术"
       },
       {
         "displayName": "Street Art",
@@ -252,11 +252,11 @@ export const tagsData = {
       },
       {
         "displayName": "Airbrush",
-        "langName": "喷枪"
+        "langName": "喷笔"
       },
       {
         "displayName": "Paint",
-        "langName": "画"
+        "langName": "油漆"
       },
       {
         "displayName": "Acrylic Paint",
@@ -288,7 +288,7 @@ export const tagsData = {
       },
       {
         "displayName": "Puffy Paint",
-        "langName": "蓬松油漆"
+        "langName": "立体颜料"
       },
       {
         "displayName": "Glass Paint",
@@ -318,7 +318,7 @@ export const tagsData = {
       },
       {
         "displayName": "Letters",
-        "langName": "信件"
+        "langName": "字母"
       },
       {
         "displayName": "Graphemes",
@@ -326,11 +326,11 @@ export const tagsData = {
       },
       {
         "displayName": "Written Letters",
-        "langName": "书面信件"
+        "langName": "书写字母"
       },
       {
         "displayName": "Words",
-        "langName": "字"
+        "langName": "单词"
       },
       {
         "displayName": "Lexemes",
@@ -338,7 +338,7 @@ export const tagsData = {
       },
       {
         "displayName": "Written Words",
-        "langName": "书面文字"
+        "langName": "书面单词"
       },
       {
         "displayName": "Caption",
@@ -348,7 +348,7 @@ export const tagsData = {
     "打印": [
       {
         "displayName": "Logo",
-        "langName": "标识"
+        "langName": "商标"
       },
       {
         "displayName": "Stamp",
@@ -368,19 +368,19 @@ export const tagsData = {
       },
       {
         "displayName": "Photocollage",
-        "langName": "照片拼贴"
+        "langName": "照片拼贴画"
       },
       {
         "displayName": "Fotocollage",
-        "langName": "照片拼贴"
+        "langName": "照片拼贴画"
       },
       {
         "displayName": "Lithography",
-        "langName": "光刻"
+        "langName": "平版印刷术"
       },
       {
         "displayName": "Block Printing",
-        "langName": "雕版印刷"
+        "langName": "印版画"
       },
       {
         "displayName": "Magazine",
@@ -416,7 +416,7 @@ export const tagsData = {
       },
       {
         "displayName": "Barcode",
-        "langName": "条码"
+        "langName": "条形码"
       },
       {
         "displayName": "QR Code",
@@ -476,7 +476,7 @@ export const tagsData = {
       },
       {
         "displayName": "Micromosaic",
-        "langName": "微马赛克"
+        "langName": "微缩马赛克"
       },
       {
         "displayName": "Glass Mosaic",
@@ -494,19 +494,19 @@ export const tagsData = {
     "框架": [
       {
         "displayName": "Frame",
-        "langName": "框架"
+        "langName": "相框"
       },
       {
         "displayName": "Framed",
-        "langName": "装裱"
+        "langName": "装裱的"
       },
       {
         "displayName": "Wooden Frame",
-        "langName": "木制框"
+        "langName": "木质相框"
       },
       {
         "displayName": "Wooden Framed",
-        "langName": "木框"
+        "langName": "木制相框"
       }
     ],
     "雕刻、蚀刻和建模": [
@@ -528,7 +528,7 @@ export const tagsData = {
       },
       {
         "displayName": "Whittling",
-        "langName": "削牙"
+        "langName": "刻刀雕刻"
       },
       {
         "displayName": "Wood-Carving",
@@ -536,7 +536,7 @@ export const tagsData = {
       },
       {
         "displayName": "Chip-Carving",
-        "langName": "芯片雕刻"
+        "langName": "花刻"
       },
       {
         "displayName": "Relief-Carving",
@@ -548,7 +548,7 @@ export const tagsData = {
       },
       {
         "displayName": "Lacquer",
-        "langName": "漆"
+        "langName": "漆艺"
       },
       {
         "displayName": "String-Art",
@@ -556,7 +556,7 @@ export const tagsData = {
       },
       {
         "displayName": "Paper-Mache",
-        "langName": "纸机"
+        "langName": "纸浆塑形"
       },
       {
         "displayName": "Paper Model",
@@ -572,11 +572,11 @@ export const tagsData = {
       },
       {
         "displayName": "Fretwork",
-        "langName": "镂空"
+        "langName": "镂空工艺"
       },
       {
         "displayName": "Intaglio",
-        "langName": "凹版"
+        "langName": "凹版印刷"
       },
       {
         "displayName": "Mezzotint",
@@ -584,15 +584,15 @@ export const tagsData = {
       },
       {
         "displayName": "Aquatint",
-        "langName": "浅绿色"
+        "langName": "凹印"
       },
       {
         "displayName": "Linocut",
-        "langName": "林诺克"
+        "langName": "丝网印刷"
       },
       {
         "displayName": "Pyrography",
-        "langName": "烙画"
+        "langName": "焊点画"
       },
       {
         "displayName": "Puppet",
@@ -600,15 +600,15 @@ export const tagsData = {
       },
       {
         "displayName": "Balloon Modelling",
-        "langName": "气球造型"
+        "langName": "气球模型"
       },
       {
         "displayName": "Balloon Twisting",
-        "langName": "气球扭动"
+        "langName": "扎各种形状的气球"
       },
       {
         "displayName": "Circuit",
-        "langName": "电路"
+        "langName": "线路图"
       },
       {
         "displayName": "Circuitry",
@@ -618,7 +618,7 @@ export const tagsData = {
     "陶器和玻璃": [
       {
         "displayName": "Glaze",
-        "langName": "釉"
+        "langName": "釉料"
       },
       {
         "displayName": "Overglaze",
@@ -626,11 +626,11 @@ export const tagsData = {
       },
       {
         "displayName": "Inglaze",
-        "langName": "上釉"
+        "langName": "下釉"
       },
       {
         "displayName": "Azulejo",
-        "langName": "阿苏莱霍"
+        "langName": "Azulejo"
       },
       {
         "displayName": "Paleolithic Pottery",
@@ -670,7 +670,7 @@ export const tagsData = {
       },
       {
         "displayName": "Wall Decal",
-        "langName": "墙贴花"
+        "langName": "墙贴"
       },
       {
         "displayName": "Banner",
@@ -682,11 +682,11 @@ export const tagsData = {
       },
       {
         "displayName": "Arts and Crafts",
-        "langName": "美术和工艺"
+        "langName": "工艺美术"
       },
       {
         "displayName": "Resin",
-        "langName": "树脂"
+        "langName": "环氧树脂"
       },
       {
         "displayName": "Enamel Pin",
@@ -694,11 +694,11 @@ export const tagsData = {
       },
       {
         "displayName": "Bejeweled",
-        "langName": "宝石迷阵"
+        "langName": "镶嵌宝石"
       },
       {
         "displayName": "Latte Art",
-        "langName": "拉花艺术"
+        "langName": "拿铁拉花"
       },
       {
         "displayName": "Coffee Stain",
@@ -722,7 +722,7 @@ export const tagsData = {
       },
       {
         "displayName": "Puzzle",
-        "langName": "谜"
+        "langName": "拼图玩具"
       },
       {
         "displayName": "Maze",
@@ -778,23 +778,23 @@ export const tagsData = {
       },
       {
         "displayName": "Mixed Media",
-        "langName": "混合媒体"
+        "langName": "混合媒介"
       },
       {
         "displayName": "Frottage",
-        "langName": "抹灰"
+        "langName": "踩印画"
       },
       {
         "displayName": "Outlined",
-        "langName": "概述"
+        "langName": "轮廓"
       },
       {
         "displayName": "Glitter",
-        "langName": "闪光"
+        "langName": "闪粉"
       },
       {
         "displayName": "Sparkly",
-        "langName": "闪闪发光"
+        "langName": "闪亮的"
       },
       {
         "displayName": "Indian Art",
@@ -810,7 +810,7 @@ export const tagsData = {
     "人体": [
       {
         "displayName": "detailed gorgeous face",
-        "langName": "细节华丽的脸"
+        "langName": "精细的面容"
       },
       {
         "displayName": "delicate features",
@@ -826,7 +826,7 @@ export const tagsData = {
       },
       {
         "displayName": "Googly Eyes",
-        "langName": "呆呆的眼睛"
+        "langName": "水绿色的眼睛"
       },
       {
         "displayName": "big tits",
@@ -850,7 +850,7 @@ export const tagsData = {
       },
       {
         "displayName": "full blush",
-        "langName": "整张脸泛红"
+        "langName": "脸红"
       },
       {
         "displayName": "bone",
@@ -1078,11 +1078,11 @@ export const tagsData = {
       },
       {
         "displayName": "Cinematic",
-        "langName": "电影般的"
+        "langName": "电影感"
       },
       {
         "displayName": "Color Grading",
-        "langName": "颜色分级"
+        "langName": "色彩分级"
       },
       {
         "displayName": "Dashcam-Footage",
@@ -1098,15 +1098,15 @@ export const tagsData = {
       },
       {
         "displayName": "Filmic",
-        "langName": "电影式的"
+        "langName": "电影质感"
       },
       {
         "displayName": "Film Grain",
-        "langName": "薄膜纹路"
+        "langName": "胶片颗粒"
       },
       {
         "displayName": "Glamor Shot",
-        "langName": "魅力射击"
+        "langName": "迷人镜头"
       },
       {
         "displayName": "Golden Hour",
@@ -1156,7 +1156,7 @@ export const tagsData = {
     "镜头": [
       {
         "displayName": "Macro",
-        "langName": "宏观"
+        "langName": "微距"
       },
       {
         "displayName": "Telephoto",
@@ -1196,7 +1196,7 @@ export const tagsData = {
       },
       {
         "displayName": "360 Angle",
-        "langName": "360 度"
+        "langName": "360 度视角"
       },
       {
         "displayName": "Fisheye Lens",
@@ -1208,7 +1208,7 @@ export const tagsData = {
       },
       {
         "displayName": "Miniature Faking",
-        "langName": "合成微缩"
+        "langName": "微缩模型效果"
       },
       {
         "displayName": "Brenizer Method",
@@ -1220,15 +1220,15 @@ export const tagsData = {
       },
       {
         "displayName": "Orthographic",
-        "langName": "正字法"
+        "langName": "正投影"
       },
       {
         "displayName": "Isometric",
-        "langName": "等距"
+        "langName": "等角投影"
       },
       {
         "displayName": "DOF",
-        "langName": "自由度"
+        "langName": "景深"
       },
       {
         "displayName": "Sharp Focus",
@@ -1246,7 +1246,7 @@ export const tagsData = {
     "视角": [
       {
         "displayName": "Aerial View",
-        "langName": "鸟瞰图"
+        "langName": "俯视图"
       },
       {
         "displayName": "Top-View",
@@ -1254,7 +1254,7 @@ export const tagsData = {
       },
       {
         "displayName": "Side-View",
-        "langName": "侧面图"
+        "langName": "侧视图"
       },
       {
         "displayName": "Satellite-View",
@@ -1262,7 +1262,7 @@ export const tagsData = {
       },
       {
         "displayName": "Macro View",
-        "langName": "宏观视图"
+        "langName": "微观视图"
       },
       {
         "displayName": "Product-View",
@@ -1326,7 +1326,7 @@ export const tagsData = {
     "相机设置": [
       {
         "displayName": "Exposure",
-        "langName": "接触"
+        "langName": "曝光"
       },
       {
         "displayName": "Short Exposure",
@@ -1334,11 +1334,11 @@ export const tagsData = {
       },
       {
         "displayName": "Long Exposure",
-        "langName": "长期接触"
+        "langName": "长曝光"
       },
       {
         "displayName": "Double-Exposure",
-        "langName": "双重接触"
+        "langName": "双重曝光"
       },
       {
         "displayName": "Shutter Speed 1/1000",
@@ -1368,7 +1368,7 @@ export const tagsData = {
     "电影类型": [
       {
         "displayName": "Schlieren",
-        "langName": "纹影"
+        "langName": "光波干涉"
       },
       {
         "displayName": "Night Vision",
@@ -1392,7 +1392,7 @@ export const tagsData = {
       },
       {
         "displayName": "Polaroid",
-        "langName": "拍立得"
+        "langName": "宝丽来"
       },
       {
         "displayName": "35mm",
@@ -1408,7 +1408,7 @@ export const tagsData = {
       },
       {
         "displayName": "Ektachrome",
-        "langName": "Ektachrome"
+        "langName": "柯达 Ektachrome"
       },
       {
         "displayName": "Fujifilm Superia",
@@ -1420,7 +1420,7 @@ export const tagsData = {
       },
       {
         "displayName": "Kodak Ektar",
-        "langName": "柯达爱克达"
+        "langName": "柯达 Ektar"
       },
       {
         "displayName": "Kodak Gold 200",
@@ -1440,19 +1440,19 @@ export const tagsData = {
       },
       {
         "displayName": "Provia",
-        "langName": "Provia"
+        "langName": "富士 Provia"
       },
       {
         "displayName": "Shot on 70mm",
-        "langName": "70mm 拍摄"
+        "langName": "70 毫米胶片拍摄"
       },
       {
         "displayName": "Velvia",
-        "langName": "Velvia"
+        "langName": "富士 Velvia"
       },
       {
         "displayName": "Vintage",
-        "langName": "Vintage"
+        "langName": "复古拍摄"
       },
       {
         "displayName": "Pinhole Photography",
@@ -1464,7 +1464,7 @@ export const tagsData = {
       },
       {
         "displayName": "Daguerrotype",
-        "langName": "银版"
+        "langName": "达盖尔银版"
       },
       {
         "displayName": "Ambrotype",
@@ -1472,33 +1472,33 @@ export const tagsData = {
       },
       {
         "displayName": "Calotype",
-        "langName": "排版"
+        "langName": "光力摄影法"
       },
       {
         "displayName": "Tintype",
-        "langName": "锡字"
+        "langName": "锡版摄影"
       }
     ],
     "其他摄影形式": [
       {
         "displayName": "Lens Flare",
-        "langName": "镜头光晕"
+        "langName": "逆光"
       },
       {
         "displayName": "Vignette",
-        "langName": "小插图"
+        "langName": "晕影"
       },
       {
         "displayName": "Split Toning",
-        "langName": "分裂色调"
+        "langName": "分离调色"
       },
       {
         "displayName": "Rephotography",
-        "langName": "补影"
+        "langName": "重摄影"
       },
       {
         "displayName": "Scanography",
-        "langName": "扫描仪"
+        "langName": "扫描摄影"
       },
       {
         "displayName": "Slit-Scan Photography",
@@ -1555,32 +1555,12 @@ export const tagsData = {
   "光线/灯光": {
     "照明": [
       {
-        "displayName": "Natural light",
-        "langName": "自然光"
-      },
-      {
-        "displayName": "Fluorescent light",
-        "langName": "荧光灯"
-      },
-      {
-        "displayName": "LED light",
-        "langName": "LED 灯"
-      },
-      {
-        "displayName": "Incandescent light",
-        "langName": "白炽灯"
-      },
-      {
-        "displayName": "Spotlight",
-        "langName": "聚光灯"
-      },
-      {
         "displayName": "Frontlight",
-        "langName": "前灯"
+        "langName": "顶光"
       },
       {
         "displayName": "Halfrear Lighting",
-        "langName": "半后照明"
+        "langName": "半侧背光"
       },
       {
         "displayName": "Backlight",
@@ -1588,15 +1568,23 @@ export const tagsData = {
       },
       {
         "displayName": "Rim Lights",
-        "langName": "边缘灯"
+        "langName": "轮廓灯"
       },
       {
         "displayName": "Rim Lighting",
-        "langName": "边缘照明"
+        "langName": "轮廓光"
       },
       {
         "displayName": "Floodlight",
         "langName": "泛光灯"
+      },
+      {
+        "displayName": "LED light",
+        "langName": "LED 灯"
+      },
+      {
+        "displayName": "Spotlight",
+        "langName": "聚光灯"
       },
       {
         "displayName": "Marquee",
@@ -1604,15 +1592,15 @@ export const tagsData = {
       },
       {
         "displayName": "Strobe",
-        "langName": "频闪"
+        "langName": "闪光灯"
       },
       {
         "displayName": "Strobe Light",
-        "langName": "频闪灯"
+        "langName": "闪光灯光"
       },
       {
         "displayName": "Stroboscope",
-        "langName": "频闪仪"
+        "langName": "频闪灯"
       },
       {
         "displayName": "Bright",
@@ -1624,11 +1612,11 @@ export const tagsData = {
       },
       {
         "displayName": "Crepuscular Rays",
-        "langName": "黄昏射线"
+        "langName": "昏暗光线"
       },
       {
         "displayName": "Rays of Shimmering Light",
-        "langName": "闪耀光芒"
+        "langName": "闪烁光线"
       },
       {
         "displayName": "Artificial Lighting",
@@ -1652,11 +1640,11 @@ export const tagsData = {
       },
       {
         "displayName": "Fluorescent Lamp",
-        "langName": "日光灯"
+        "langName": "日光灯管"
       },
       {
         "displayName": "Glow Stick",
-        "langName": "发光棒"
+        "langName": "荧光棒"
       },
       {
         "displayName": "Plasma Globe",
@@ -1672,7 +1660,7 @@ export const tagsData = {
       },
       {
         "displayName": "Crackle Tube",
-        "langName": "裂纹管"
+        "langName": "火花管"
       },
       {
         "displayName": "Edison Bulb",
@@ -1684,7 +1672,7 @@ export const tagsData = {
       },
       {
         "displayName": "Nixie Tube",
-        "langName": "数码管"
+        "langName": "辉光管"
       },
       {
         "displayName": "Halogen",
@@ -1696,35 +1684,35 @@ export const tagsData = {
       },
       {
         "displayName": "Neon Lamp",
-        "langName": "氖灯"
+        "langName": "霓虹灯"
       },
       {
         "displayName": "Xenon Lamp",
-        "langName": "氙灯"
+        "langName": "氙气灯"
       },
       {
         "displayName": "Krypton Lamp",
-        "langName": "氪灯"
+        "langName": "氪气灯"
       },
       {
         "displayName": "Argon Lamp",
-        "langName": "氩灯"
+        "langName": "氩气灯"
       },
       {
         "displayName": "Helium Lamp",
-        "langName": "氦灯"
+        "langName": "氦气灯"
       },
       {
         "displayName": "Carbide Lamp",
-        "langName": "硬质合金灯"
+        "langName": "碳化钙灯"
       },
       {
         "displayName": "Argand Lamp",
-        "langName": "摩洛哥坚果灯"
+        "langName": "阿尔干灯"
       },
       {
         "displayName": "Diya Lamp",
-        "langName": "地牙灯"
+        "langName": "酥油灯"
       },
       {
         "displayName": "Lantern",
@@ -1732,7 +1720,7 @@ export const tagsData = {
       },
       {
         "displayName": "Schwarz Lantern",
-        "langName": "黑灯笼"
+        "langName": "黑兰特灯笼"
       },
       {
         "displayName": "Nightlight",
@@ -1748,7 +1736,7 @@ export const tagsData = {
       },
       {
         "displayName": "Electroluminescent Wire",
-        "langName": "电致发光线"
+        "langName": "发光导线"
       },
       {
         "displayName": "Laser",
@@ -1772,7 +1760,7 @@ export const tagsData = {
       },
       {
         "displayName": "UV",
-        "langName": "紫外线"
+        "langName": "UV"
       },
       {
         "displayName": "X-Ray",
@@ -1790,23 +1778,23 @@ export const tagsData = {
       },
       {
         "displayName": "LED",
-        "langName": "引领"
+        "langName": "LED 显示器"
       },
       {
         "displayName": "OLED",
-        "langName": "有机发光二极管"
+        "langName": "OLED 显示器"
       },
       {
         "displayName": "AMOLED",
-        "langName": "有机发光二极管"
+        "langName": "AMOLED 显示器"
       },
       {
         "displayName": "7 Segment Display",
-        "langName": "7 段显示"
+        "langName": "七段显示器"
       },
       {
         "displayName": "Dot Matrix Display",
-        "langName": "点阵显示"
+        "langName": "点阵显示器"
       },
       {
         "displayName": "Electroluminescent Display",
@@ -1830,13 +1818,13 @@ export const tagsData = {
       },
       {
         "displayName": "Quantum Dot Display",
-        "langName": "量子点显示"
+        "langName": "量子点显示器"
       }
     ],
     "样式": [
       {
         "displayName": "Moody Lighting",
-        "langName": "穆迪灯饰"
+        "langName": "情感光线"
       },
       {
         "displayName": "Cinematic Lighting",
@@ -1844,7 +1832,7 @@ export const tagsData = {
       },
       {
         "displayName": "Studio Lighting",
-        "langName": "演播室灯光"
+        "langName": "摄影棚灯光"
       },
       {
         "displayName": "Soft Lighting",
@@ -1918,7 +1906,7 @@ export const tagsData = {
       },
       {
         "displayName": "Cool Color Palette",
-        "langName": "酷调色板"
+        "langName": "冷色调"
       },
       {
         "displayName": "Colorful",
@@ -1934,7 +1922,7 @@ export const tagsData = {
       },
       {
         "displayName": "Inverted Colors",
-        "langName": "反转颜色"
+        "langName": "反色"
       },
       {
         "displayName": "Chroma",
@@ -1942,7 +1930,7 @@ export const tagsData = {
       },
       {
         "displayName": "Dichromatism",
-        "langName": "二色性"
+        "langName": "双色性"
       },
       {
         "displayName": "Tetrachromacy",
@@ -1950,15 +1938,15 @@ export const tagsData = {
       },
       {
         "displayName": "Saturated",
-        "langName": "饱和的"
+        "langName": "饱和"
       },
       {
         "displayName": "Neon",
-        "langName": "霓虹色"
+        "langName": "霓虹"
       },
       {
         "displayName": "Electric Colors",
-        "langName": "电色"
+        "langName": "电子色"
       },
       {
         "displayName": "Tonal Colors",
@@ -1978,11 +1966,11 @@ export const tagsData = {
       },
       {
         "displayName": "Supplementary-Colors",
-        "langName": "补色"
+        "langName": "补充色"
       },
       {
         "displayName": "Analogous-Colors",
-        "langName": "类似色"
+        "langName": "相似色"
       },
       {
         "displayName": "Triadic-Colors",
@@ -1994,19 +1982,19 @@ export const tagsData = {
       },
       {
         "displayName": "Polychromatic-Colors",
-        "langName": "多色"
+        "langName": "多色彩"
       },
       {
         "displayName": "Light",
-        "langName": "光"
+        "langName": "明亮"
       },
       {
         "displayName": "Dark",
-        "langName": "黑暗的"
+        "langName": "黑暗"
       },
       {
         "displayName": "Light Mode",
-        "langName": "灯光模式"
+        "langName": "浅色模式"
       },
       {
         "displayName": "Dark Mode",
@@ -2040,7 +2028,7 @@ export const tagsData = {
       },
       {
         "displayName": "Black and White",
-        "langName": "黑与白"
+        "langName": "黑白"
       },
       {
         "displayName": "Desaturated",
@@ -2068,11 +2056,11 @@ export const tagsData = {
       },
       {
         "displayName": "CMYK",
-        "langName": "三色"
+        "langName": "CMYK"
       },
       {
         "displayName": "VGA",
-        "langName": "显卡"
+        "langName": "VGA"
       },
       {
         "displayName": "EGA",
@@ -2084,7 +2072,7 @@ export const tagsData = {
       },
       {
         "displayName": "HDR",
-        "langName": "高动态范围"
+        "langName": "HDR"
       },
       {
         "displayName": "Atari Graphics",
@@ -2136,7 +2124,7 @@ export const tagsData = {
       },
       {
         "displayName": "Coloroid",
-        "langName": "色体"
+        "langName": "Coloroid"
       },
       {
         "displayName": "Pantone",
@@ -2200,7 +2188,7 @@ export const tagsData = {
     "电影制作": [
       {
         "displayName": "Technicolor",
-        "langName": "彩色"
+        "langName": "技术色彩"
       },
       {
         "displayName": "Kinemacolor",
@@ -2208,11 +2196,11 @@ export const tagsData = {
       },
       {
         "displayName": "Kodachrome",
-        "langName": "柯达彩色胶卷"
+        "langName": "柯达彩"
       },
       {
         "displayName": "Cinecolor",
-        "langName": "彩色电影"
+        "langName": "电影色"
       },
       {
         "displayName": "Agfacolor",
@@ -2224,7 +2212,7 @@ export const tagsData = {
     "不透明度": [
       {
         "displayName": "Transparent",
-        "langName": "透明的"
+        "langName": "透明"
       },
       {
         "displayName": "Translucent",
@@ -2242,7 +2230,7 @@ export const tagsData = {
       },
       {
         "displayName": "Materiality",
-        "langName": "重要性"
+        "langName": "材质性"
       },
       {
         "displayName": "Ambient Occlusion",
@@ -2256,11 +2244,11 @@ export const tagsData = {
     "发光": [
       {
         "displayName": "Glowing",
-        "langName": "发光的"
+        "langName": "发光"
       },
       {
         "displayName": "Glow-In-The-Dark",
-        "langName": "在黑暗中发光"
+        "langName": "夜光"
       },
       {
         "displayName": "Bioluminescence",
@@ -2296,7 +2284,7 @@ export const tagsData = {
       },
       {
         "displayName": "Thermoluminescence",
-        "langName": "热释光"
+        "langName": "热发光"
       },
       {
         "displayName": "Electrochemiluminescence",
@@ -2328,7 +2316,7 @@ export const tagsData = {
       },
       {
         "displayName": "Fractoluminescence",
-        "langName": "分形发光"
+        "langName": "碎片发光"
       },
       {
         "displayName": "Sonoluminescence",
@@ -2354,7 +2342,7 @@ export const tagsData = {
       },
       {
         "displayName": "Glossy",
-        "langName": "光滑"
+        "langName": "光泽"
       },
       {
         "displayName": "smooth",
@@ -2366,7 +2354,7 @@ export const tagsData = {
       },
       {
         "displayName": "Reflective",
-        "langName": "反光的"
+        "langName": "反光"
       },
       {
         "displayName": "Polished",
@@ -2378,7 +2366,7 @@ export const tagsData = {
       },
       {
         "displayName": "Refractive",
-        "langName": "折射式"
+        "langName": "折射"
       },
       {
         "displayName": "Shimmer",
@@ -2392,19 +2380,19 @@ export const tagsData = {
     "颜色": [
       {
         "displayName": "Iridescent",
-        "langName": "彩虹色"
+        "langName": "异彩"
       },
       {
         "displayName": "Dispersion",
-        "langName": "分散"
+        "langName": "色散"
       },
       {
         "displayName": "Chromatic",
-        "langName": "半音阶"
+        "langName": "色度"
       },
       {
         "displayName": "Prismatic",
-        "langName": "棱柱形"
+        "langName": "棱镜"
       }
     ],
     "地图": [
@@ -2414,11 +2402,11 @@ export const tagsData = {
       },
       {
         "displayName": "Bump Mapped",
-        "langName": "凹凸贴图"
+        "langName": "带凹凸贴图"
       },
       {
         "displayName": "Bump Mapping",
-        "langName": "凹凸贴图"
+        "langName": "凹凸映射"
       },
       {
         "displayName": "Normal Map",
@@ -2432,7 +2420,7 @@ export const tagsData = {
     "柔体": [
       {
         "displayName": "Soft Body",
-        "langName": "柔体"
+        "langName": "软体"
       },
       {
         "displayName": "Squishy",
@@ -2450,7 +2438,7 @@ export const tagsData = {
       },
       {
         "displayName": "Effervescent",
-        "langName": "泡腾片"
+        "langName": "起泡"
       },
       {
         "displayName": "Icy",
@@ -2458,11 +2446,11 @@ export const tagsData = {
       },
       {
         "displayName": "Charred",
-        "langName": "烧焦的"
+        "langName": "炭化"
       },
       {
         "displayName": "Corrugated",
-        "langName": "瓦楞"
+        "langName": "起皱的"
       },
       {
         "displayName": "Perforated",
@@ -2472,7 +2460,7 @@ export const tagsData = {
     "木材和纸张": [
       {
         "displayName": "Wooden",
-        "langName": "木制的"
+        "langName": "木质"
       },
       {
         "displayName": "Lumber",
@@ -2532,7 +2520,7 @@ export const tagsData = {
       },
       {
         "displayName": "Wooden Planks",
-        "langName": "木板"
+        "langName": "木质板"
       },
       {
         "displayName": "Nailed-Wood",
@@ -2540,11 +2528,11 @@ export const tagsData = {
       },
       {
         "displayName": "Wooden Fence",
-        "langName": "木围栏"
+        "langName": "木栅栏"
       },
       {
         "displayName": "Cardboard",
-        "langName": "纸板"
+        "langName": "硬纸板"
       },
       {
         "displayName": "Corrugated Fiberboard",
@@ -2556,7 +2544,7 @@ export const tagsData = {
       },
       {
         "displayName": "Cardstock",
-        "langName": "卡片纸"
+        "langName": "卡纸"
       },
       {
         "displayName": "Paper",
@@ -2584,7 +2572,7 @@ export const tagsData = {
       },
       {
         "displayName": "Wasli",
-        "langName": "瓦斯里语"
+        "langName": "瓦斯里纸"
       },
       {
         "displayName": "Papyrus",
@@ -2604,7 +2592,7 @@ export const tagsData = {
       },
       {
         "displayName": "Parchment Paper",
-        "langName": "羊皮纸"
+        "langName": "烤肉纸"
       },
       {
         "displayName": "Medieval Parchment",
@@ -2620,7 +2608,7 @@ export const tagsData = {
       },
       {
         "displayName": "Manila Paper",
-        "langName": "马尼拉纸业"
+        "langName": "马尼拉纸"
       },
       {
         "displayName": "Manila Folder",
@@ -2636,7 +2624,7 @@ export const tagsData = {
       },
       {
         "displayName": "Rolling Paper",
-        "langName": "卷纸"
+        "langName": "卷烟纸"
       },
       {
         "displayName": "Cotton Paper",
@@ -2644,7 +2632,7 @@ export const tagsData = {
       },
       {
         "displayName": "Hemp Fiber",
-        "langName": "大麻纤维"
+        "langName": "麻纤维"
       },
       {
         "displayName": "Hemp Paper",
@@ -2656,11 +2644,11 @@ export const tagsData = {
       },
       {
         "displayName": "Plastic-Coated Paper",
-        "langName": "涂塑纸"
+        "langName": "塑料涂层纸"
       },
       {
         "displayName": "Tar Paper",
-        "langName": "焦油纸"
+        "langName": "沥青纸"
       }
     ],
     "土壤": [
@@ -2670,11 +2658,11 @@ export const tagsData = {
       },
       {
         "displayName": "Dirt",
-        "langName": "污垢"
+        "langName": "尘土"
       },
       {
         "displayName": "Mud",
-        "langName": "泥"
+        "langName": "泥浆"
       },
       {
         "displayName": "Mud Brick",
@@ -2686,7 +2674,7 @@ export const tagsData = {
       },
       {
         "displayName": "Sand",
-        "langName": "沙"
+        "langName": "沙子"
       },
       {
         "displayName": "Gravel",
@@ -2702,11 +2690,11 @@ export const tagsData = {
       },
       {
         "displayName": "Spodosol",
-        "langName": "斯多索"
+        "langName": "针叶林土"
       },
       {
         "displayName": "Podzol",
-        "langName": "灰化土"
+        "langName": "针叶林土壤"
       },
       {
         "displayName": "Sandpaper",
@@ -2724,7 +2712,7 @@ export const tagsData = {
       },
       {
         "displayName": "Pebbles",
-        "langName": "鹅卵石"
+        "langName": "卵石"
       },
       {
         "displayName": "Rock",
@@ -2732,7 +2720,7 @@ export const tagsData = {
       },
       {
         "displayName": "Rocky",
-        "langName": "洛基"
+        "langName": "多岩"
       },
       {
         "displayName": "Bedrock",
@@ -2776,7 +2764,7 @@ export const tagsData = {
       },
       {
         "displayName": "Sulfur",
-        "langName": "硫"
+        "langName": "硫黄"
       },
       {
         "displayName": "Graphene",
@@ -2792,7 +2780,7 @@ export const tagsData = {
       },
       {
         "displayName": "Concrete",
-        "langName": "具体的"
+        "langName": "混凝土"
       },
       {
         "displayName": "Sidewalk",
@@ -2804,11 +2792,11 @@ export const tagsData = {
       },
       {
         "displayName": "Road",
-        "langName": "路"
+        "langName": "道路"
       },
       {
         "displayName": "Hempcrete",
-        "langName": "大麻混凝土"
+        "langName": "麻絮混凝土"
       },
       {
         "displayName": "Brick",
@@ -2816,7 +2804,7 @@ export const tagsData = {
       },
       {
         "displayName": "Terracotta",
-        "langName": "红陶"
+        "langName": "红陶土"
       },
       {
         "displayName": "Pottery",
@@ -2832,7 +2820,7 @@ export const tagsData = {
       },
       {
         "displayName": "Tile",
-        "langName": "瓦"
+        "langName": "瓷砖"
       },
       {
         "displayName": "Sheetrock",
@@ -2840,7 +2828,7 @@ export const tagsData = {
       },
       {
         "displayName": "Plaster",
-        "langName": "石膏"
+        "langName": "灰泥"
       },
       {
         "displayName": "Asbestos",
@@ -2866,7 +2854,7 @@ export const tagsData = {
     "金属": [
       {
         "displayName": "Metallic",
-        "langName": "金属的"
+        "langName": "金属质的"
       },
       {
         "displayName": "Metal",
@@ -2878,7 +2866,7 @@ export const tagsData = {
       },
       {
         "displayName": "Foil",
-        "langName": "挫败"
+        "langName": "箔"
       },
       {
         "displayName": "Rusty",
@@ -2954,7 +2942,7 @@ export const tagsData = {
       },
       {
         "displayName": "Sterling",
-        "langName": "英镑"
+        "langName": "标准银"
       },
       {
         "displayName": "Gold",
@@ -2962,7 +2950,7 @@ export const tagsData = {
       },
       {
         "displayName": "Rose-Gold",
-        "langName": "玫瑰金色"
+        "langName": "玫瑰金"
       },
       {
         "displayName": "Platinum",
@@ -2974,7 +2962,7 @@ export const tagsData = {
       },
       {
         "displayName": "Chrome",
-        "langName": "铬合金"
+        "langName": "镀铬"
       },
       {
         "displayName": "Mercury",
@@ -3006,7 +2994,7 @@ export const tagsData = {
       },
       {
         "displayName": "Lead",
-        "langName": "带领"
+        "langName": "铅"
       },
       {
         "displayName": "Tungsten",
@@ -3018,7 +3006,7 @@ export const tagsData = {
       },
       {
         "displayName": "Cubic Zirconium",
-        "langName": "立方锆"
+        "langName": "立方锆石"
       },
       {
         "displayName": "Cobalt",
@@ -3038,11 +3026,11 @@ export const tagsData = {
       },
       {
         "displayName": "Constantan",
-        "langName": "康斯坦"
+        "langName": "康铜"
       },
       {
         "displayName": "Hepatizon",
-        "langName": "肝素"
+        "langName": "赫帕铜"
       },
       {
         "displayName": "Nichrome",
@@ -3062,7 +3050,7 @@ export const tagsData = {
       },
       {
         "displayName": "Solder",
-        "langName": "焊接"
+        "langName": "焊锡"
       },
       {
         "displayName": "Metallic Fiber",
@@ -3070,7 +3058,7 @@ export const tagsData = {
       },
       {
         "displayName": "Armature Wire",
-        "langName": "电枢线"
+        "langName": "铠装线"
       },
       {
         "displayName": "Metal Foam",
@@ -3082,15 +3070,15 @@ export const tagsData = {
       },
       {
         "displayName": "Screw",
-        "langName": "拧紧"
+        "langName": "螺丝"
       },
       {
         "displayName": "Nail",
-        "langName": "指甲"
+        "langName": "钉子"
       },
       {
         "displayName": "Paper Clips",
-        "langName": "曲别针"
+        "langName": "回形针"
       },
       {
         "displayName": "Chain",
@@ -3098,25 +3086,25 @@ export const tagsData = {
       },
       {
         "displayName": "Chain-link",
-        "langName": "链环"
+        "langName": "链条"
       },
       {
         "displayName": "Fence",
-        "langName": "栅栏"
+        "langName": "围栏"
       },
       {
         "displayName": "Chicken Wire",
-        "langName": "鸡丝"
+        "langName": "铁丝网"
       },
       {
         "displayName": "Chain-link Fence",
-        "langName": "铁丝网"
+        "langName": "链式围栏"
       }
     ],
     "玻璃和水晶": [
       {
         "displayName": "Glassy",
-        "langName": "玻璃状"
+        "langName": "玻璃质"
       },
       {
         "displayName": "Stained Glass",
@@ -3148,7 +3136,7 @@ export const tagsData = {
       },
       {
         "displayName": "Crystalline",
-        "langName": "晶莹剔透"
+        "langName": "晶体"
       },
       {
         "displayName": "Diamond",
@@ -3164,7 +3152,7 @@ export const tagsData = {
       },
       {
         "displayName": "Smoky Quartz",
-        "langName": "烟晶"
+        "langName": "烟熏石英"
       },
       {
         "displayName": "Rose Quartz",
@@ -3176,11 +3164,11 @@ export const tagsData = {
       },
       {
         "displayName": "Rutilated Quartz",
-        "langName": "发晶"
+        "langName": "钛晶石英"
       },
       {
         "displayName": "Sceptred Quartz",
-        "langName": "权杖石英"
+        "langName": "节晶石英"
       },
       {
         "displayName": "Herkimer Diamond",
@@ -3196,7 +3184,7 @@ export const tagsData = {
       },
       {
         "displayName": "Emerald",
-        "langName": "翠"
+        "langName": "祖母绿"
       },
       {
         "displayName": "Pearl",
@@ -3204,7 +3192,7 @@ export const tagsData = {
       },
       {
         "displayName": "Citrine",
-        "langName": "茶晶"
+        "langName": "黄水晶"
       },
       {
         "displayName": "Fluorite",
@@ -3224,11 +3212,11 @@ export const tagsData = {
       },
       {
         "displayName": "Selenite",
-        "langName": "亚硒酸盐"
+        "langName": "透明石膏"
       },
       {
         "displayName": "Jasper",
-        "langName": "碧玉"
+        "langName": "红玉髓"
       },
       {
         "displayName": "Opal",
@@ -3236,7 +3224,7 @@ export const tagsData = {
       },
       {
         "displayName": "Opalite",
-        "langName": "蛋白石"
+        "langName": "蛋白石玛瑙"
       },
       {
         "displayName": "Topaz",
@@ -3248,7 +3236,7 @@ export const tagsData = {
       },
       {
         "displayName": "Carnelian",
-        "langName": "玛瑙"
+        "langName": "红玛瑙"
       },
       {
         "displayName": "Ametrine",
@@ -3256,7 +3244,7 @@ export const tagsData = {
       },
       {
         "displayName": "Aventurine",
-        "langName": "东陵"
+        "langName": "绿碧玺"
       },
       {
         "displayName": "Borax Crystals",
@@ -3271,10 +3259,10 @@ export const tagsData = {
         "langName": "胶体晶体"
       }
     ],
-    "布": [
+    "布料": [
       {
         "displayName": "Cloth",
-        "langName": "布"
+        "langName": "布料"
       },
       {
         "displayName": "Cotton",
@@ -3286,7 +3274,7 @@ export const tagsData = {
       },
       {
         "displayName": "Twine",
-        "langName": "缠绕"
+        "langName": "麻线"
       },
       {
         "displayName": "Silk",
@@ -3302,7 +3290,7 @@ export const tagsData = {
       },
       {
         "displayName": "Khaki",
-        "langName": "卡其色"
+        "langName": "卡其布"
       },
       {
         "displayName": "Leather",
@@ -3314,7 +3302,7 @@ export const tagsData = {
       },
       {
         "displayName": "Felt Cloth",
-        "langName": "毡布"
+        "langName": "毛毡布"
       },
       {
         "displayName": "Cashmere",
@@ -3370,7 +3358,7 @@ export const tagsData = {
       },
       {
         "displayName": "Lurex",
-        "langName": "卢勒克斯"
+        "langName": "金银丝"
       },
       {
         "displayName": "Nomex",
@@ -3406,7 +3394,7 @@ export const tagsData = {
       },
       {
         "displayName": "Yarn",
-        "langName": "纱"
+        "langName": "纱线"
       },
       {
         "displayName": "Knitted",
@@ -3422,7 +3410,7 @@ export const tagsData = {
       },
       {
         "displayName": "Crochet",
-        "langName": "钩编"
+        "langName": "钩针"
       },
       {
         "displayName": "Cross Stich",
@@ -3430,15 +3418,15 @@ export const tagsData = {
       },
       {
         "displayName": "Needle Point",
-        "langName": "针尖"
+        "langName": "针织"
       },
       {
         "displayName": "Patch",
-        "langName": "修补"
+        "langName": "补丁"
       },
       {
         "displayName": "Sewen",
-        "langName": "塞文"
+        "langName": "缝制"
       },
       {
         "displayName": "Sewing",
@@ -3470,7 +3458,7 @@ export const tagsData = {
       },
       {
         "displayName": "Netting",
-        "langName": "净额"
+        "langName": "网布"
       },
       {
         "displayName": "Band-Aid",
@@ -3489,14 +3477,14 @@ export const tagsData = {
         "langName": "蜘蛛网"
       }
     ],
-    "塑料和泡沫": [
+    "塑料/泡沫膜": [
       {
         "displayName": "Plastic",
         "langName": "塑料"
       },
       {
         "displayName": "Shrink Wrap",
-        "langName": "收缩包装"
+        "langName": "收缩膜"
       },
       {
         "displayName": "Plastic Wrap",
@@ -3504,7 +3492,7 @@ export const tagsData = {
       },
       {
         "displayName": "Cling Wrap",
-        "langName": "保鲜膜"
+        "langName": "粘包装膜"
       },
       {
         "displayName": "Teflon",
@@ -3543,10 +3531,10 @@ export const tagsData = {
         "langName": "泡沫"
       }
     ],
-    "橡皮": [
+    "橡胶": [
       {
         "displayName": "Rubber",
-        "langName": "橡皮"
+        "langName": "橡胶"
       },
       {
         "displayName": "Rubber Band",
@@ -3570,7 +3558,7 @@ export const tagsData = {
       },
       {
         "displayName": "Silicone",
-        "langName": "硅酮"
+        "langName": "硅胶"
       },
       {
         "displayName": "Vinyl",
@@ -3578,11 +3566,11 @@ export const tagsData = {
       },
       {
         "displayName": "Linoleum",
-        "langName": "油布"
+        "langName": "油毡"
       },
       {
         "displayName": "Silly Band",
-        "langName": "傻乐队"
+        "langName": "橡皮筋"
       }
     ],
     "蜡": [
@@ -3637,14 +3625,14 @@ export const tagsData = {
         "langName": "雪花"
       }
     ],
-    "头发和毛皮": [
+    "头发/毛皮": [
       {
         "displayName": "Hairy",
-        "langName": "毛茸茸"
+        "langName": "毛茸茸的"
       },
       {
         "displayName": "Furry",
-        "langName": "毛茸茸的"
+        "langName": "毛绒的"
       },
       {
         "displayName": "Fuzz",
@@ -3656,7 +3644,7 @@ export const tagsData = {
       },
       {
         "displayName": "Mustache",
-        "langName": "胡子"
+        "langName": "八字须"
       },
       {
         "displayName": "Feathers",
@@ -3672,7 +3660,7 @@ export const tagsData = {
       },
       {
         "displayName": "Dust-Bunny",
-        "langName": "尘兔"
+        "langName": "灰兔子"
       }
     ],
     "液体": [
@@ -3690,11 +3678,11 @@ export const tagsData = {
       },
       {
         "displayName": "Magma",
-        "langName": "岩浆"
+        "langName": "熔岩"
       },
       {
         "displayName": "Molten Rock",
-        "langName": "熔化的岩石"
+        "langName": "熔化岩石"
       },
       {
         "displayName": "Ferro Fluid",
@@ -3726,7 +3714,7 @@ export const tagsData = {
       },
       {
         "displayName": "Sea Foam",
-        "langName": "海水泡沫"
+        "langName": "海沫"
       },
       {
         "displayName": "Waterfall",
@@ -3734,11 +3722,11 @@ export const tagsData = {
       },
       {
         "displayName": "River",
-        "langName": "河"
+        "langName": "河流"
       },
       {
         "displayName": "Lake",
-        "langName": "湖"
+        "langName": "湖泊"
       },
       {
         "displayName": "Ocean",
@@ -3746,7 +3734,7 @@ export const tagsData = {
       },
       {
         "displayName": "Emulsion",
-        "langName": "乳液"
+        "langName": "乳化"
       },
       {
         "displayName": "Lipid",
@@ -3756,11 +3744,11 @@ export const tagsData = {
     "黏液": [
       {
         "displayName": "Slime",
-        "langName": "黏液"
+        "langName": "粘液"
       },
       {
         "displayName": "Flubber",
-        "langName": "粘性、弹性的人造高分子材料"
+        "langName": "弹力布"
       },
       {
         "displayName": "Putty",
@@ -3768,7 +3756,7 @@ export const tagsData = {
       },
       {
         "displayName": "Poster Tack",
-        "langName": "贴海报的黏合剂"
+        "langName": "海报胶"
       }
     ],
     "黏稠度": [
@@ -3812,15 +3800,15 @@ export const tagsData = {
     "粘合剂": [
       {
         "displayName": "Tape",
-        "langName": "磁带"
+        "langName": "胶带"
       },
       {
         "displayName": "Duct Tape",
-        "langName": "布基胶带"
+        "langName": "胶布"
       },
       {
         "displayName": "Scotch Tape",
-        "langName": "透明胶带"
+        "langName": "透明胶"
       },
       {
         "displayName": "Clear Tape",
@@ -3828,7 +3816,7 @@ export const tagsData = {
       },
       {
         "displayName": "Packing Tape",
-        "langName": "包装胶布"
+        "langName": "封箱胶带"
       },
       {
         "displayName": "Masking Tape",
@@ -3855,24 +3843,24 @@ export const tagsData = {
         "langName": "环氧树脂"
       }
     ],
-    "作品": [
+    "聚合物": [
       {
         "displayName": "Polymer",
         "langName": "聚合物"
       },
       {
         "displayName": "Orbeez",
-        "langName": "奥尔贝兹"
+        "langName": "水珠"
       },
       {
         "displayName": "Oobleck",
-        "langName": "欧不裂（非牛顿流体）"
+        "langName": "混合淀粉溶液"
       }
     ],
-    "蒸气": [
+    "气体/粉末": [
       {
         "displayName": "Vapor",
-        "langName": "汽"
+        "langName": "蒸汽"
       },
       {
         "displayName": "Clouds",
@@ -3880,7 +3868,7 @@ export const tagsData = {
       },
       {
         "displayName": "Fog",
-        "langName": "多雾路段"
+        "langName": "雾"
       },
       {
         "displayName": "Mist",
@@ -3892,31 +3880,29 @@ export const tagsData = {
       },
       {
         "displayName": "Aerosol",
-        "langName": "气雾剂"
-      }
-    ],
-    "粉末": [
+        "langName": "气溶胶"
+      },
       {
         "displayName": "Powder",
         "langName": "粉末"
       },
       {
         "displayName": "Smoke",
-        "langName": "抽烟"
+        "langName": "烟"
       }
     ],
     "等离子与能源": [
       {
         "displayName": "Plasma",
-        "langName": "等离子体"
+        "langName": "等离子"
       },
       {
         "displayName": "Electric",
-        "langName": "电的"
+        "langName": "电"
       },
       {
         "displayName": "Electricity",
-        "langName": "电"
+        "langName": "电力"
       },
       {
         "displayName": "Lightning",
@@ -3928,7 +3914,7 @@ export const tagsData = {
       },
       {
         "displayName": "Burn",
-        "langName": "烧伤"
+        "langName": "燃烧"
       },
       {
         "displayName": "Inferno",
@@ -3940,7 +3926,7 @@ export const tagsData = {
       },
       {
         "displayName": "Firework",
-        "langName": "焰火"
+        "langName": "烟花"
       }
     ],
     "食品和消耗品": [
@@ -3962,7 +3948,7 @@ export const tagsData = {
       },
       {
         "displayName": "Tallow",
-        "langName": "脂"
+        "langName": "动物脂"
       },
       {
         "displayName": "Butter",
@@ -3994,11 +3980,11 @@ export const tagsData = {
       },
       {
         "displayName": "Marconi and Cheese",
-        "langName": "马可尼和奶酪"
+        "langName": "马克龙奶酪"
       },
       {
         "displayName": "Pretzel",
-        "langName": "椒盐卷饼"
+        "langName": "椒盐脆饼"
       },
       {
         "displayName": "Churros",
@@ -4022,7 +4008,7 @@ export const tagsData = {
       },
       {
         "displayName": "Sauce",
-        "langName": "酱"
+        "langName": "酱汁"
       },
       {
         "displayName": "Pasta Sauce",
@@ -4062,7 +4048,7 @@ export const tagsData = {
       },
       {
         "displayName": "Lollipop",
-        "langName": "棒糖"
+        "langName": "棒棒糖"
       },
       {
         "displayName": "Chocolate",
@@ -4082,7 +4068,7 @@ export const tagsData = {
       },
       {
         "displayName": "Honeycomb",
-        "langName": "蜂窝"
+        "langName": "蜂巢糖"
       },
       {
         "displayName": "Edible Ink",
@@ -4098,7 +4084,7 @@ export const tagsData = {
       },
       {
         "displayName": "Sprinkles",
-        "langName": "小雨"
+        "langName": "糖果碎片"
       },
       {
         "displayName": "Fondant Icing",
@@ -4110,7 +4096,7 @@ export const tagsData = {
       },
       {
         "displayName": "Wedding Cake",
-        "langName": "结婚蛋糕"
+        "langName": "婚礼蛋糕"
       },
       {
         "displayName": "Cake Decorating",
@@ -4118,11 +4104,11 @@ export const tagsData = {
       },
       {
         "displayName": "Shortcrust-Pastry",
-        "langName": "脆皮糕点"
+        "langName": "酥皮"
       },
       {
         "displayName": "Flaky-Pastry",
-        "langName": "酥皮糕点"
+        "langName": "千层酥皮"
       },
       {
         "displayName": "Puff-Pastry",
@@ -4134,7 +4120,7 @@ export const tagsData = {
       },
       {
         "displayName": "Cannoli",
-        "langName": "香炸奶酪卷"
+        "langName": "甜甜圈卷"
       },
       {
         "displayName": "Fruit-Tart",
@@ -4146,7 +4132,7 @@ export const tagsData = {
       },
       {
         "displayName": "Gum",
-        "langName": "胶"
+        "langName": "口香糖"
       },
       {
         "displayName": "Toothpaste",
@@ -4162,7 +4148,7 @@ export const tagsData = {
       },
       {
         "displayName": "Soda",
-        "langName": "苏打"
+        "langName": "苏打水"
       },
       {
         "displayName": "Coffee",
@@ -4188,11 +4174,11 @@ export const tagsData = {
       },
       {
         "displayName": "Flowers",
-        "langName": "花朵"
+        "langName": "花"
       },
       {
         "displayName": "Floral",
-        "langName": "花的"
+        "langName": "花卉"
       },
       {
         "displayName": "Vines",
@@ -4204,7 +4190,7 @@ export const tagsData = {
       },
       {
         "displayName": "Branches",
-        "langName": "分支机构"
+        "langName": "树枝"
       },
       {
         "displayName": "Leaves",
@@ -4262,7 +4248,7 @@ export const tagsData = {
       },
       {
         "displayName": "Mycelium",
-        "langName": "菌丝体"
+        "langName": "菌丝"
       },
       {
         "displayName": "Moldy",
@@ -4270,59 +4256,59 @@ export const tagsData = {
       },
       {
         "displayName": "Lactarius-Indigo",
-        "langName": "乳菇 - 靛蓝"
+        "langName": "靛青乳菇"
       },
       {
         "displayName": "Latticed-Stinkhorn",
-        "langName": "格状臭角"
+        "langName": "格子柄灯盏菌"
       },
       {
         "displayName": "Clathrus-Ruber",
-        "langName": "笼形橡胶"
+        "langName": "红笼菌"
       },
       {
         "displayName": "Laccaria-Amethystina",
-        "langName": "Laccaria-Amethystina"
+        "langName": "紫蘑"
       },
       {
         "displayName": "Entoloma-Hochstetteri",
-        "langName": "蝴蝶兰"
+        "langName": "霍氏粉褶菌"
       },
       {
         "displayName": "Clavaria-Zollingeri",
-        "langName": "Clavaria-Zollingeri"
+        "langName": "紫红珊瑚菌"
       },
       {
         "displayName": "Chlorociboria",
-        "langName": "绿藻"
+        "langName": "青绿木耳"
       },
       {
         "displayName": "Golden-Scruffy-Collybia",
-        "langName": "金 - 邋-Collybia"
+        "langName": "金丝乌鸦脚蘑菇"
       },
       {
         "displayName": "Cyptotrama-Asprata",
-        "langName": "Cyptotrama-Asprata"
+        "langName": "隐色锯脚蘑"
       },
       {
         "displayName": "Mycena Acicula",
-        "langName": "Mycena Acicula"
+        "langName": "尖锐鬼笔菌"
       },
       {
         "displayName": "Hygrocybe-Cantharellus",
-        "langName": "潮菇 - 鸡油菌"
+        "langName": "黄褐红脚灯蘑"
       },
       {
         "displayName": "Amanita-Muscaria",
-        "langName": "毒蝇伞"
+        "langName": "红白鹅膏菌"
       },
       {
         "displayName": "Favolaschia-Calocera",
-        "langName": "Favolaschia-Calocera"
+        "langName": "红猩猩手指菌"
       },
       {
         "displayName": "Marasmius-Haematocephalus",
-        "langName": "Marasmius-Haematocephalus"
+        "langName": "红头发菌"
       },
       {
         "displayName": "Cystoagaricus-Trisulphuratus",
@@ -4330,7 +4316,7 @@ export const tagsData = {
       },
       {
         "displayName": "Tremella-Mesenterica",
-        "langName": "银耳 - 肠系膜"
+        "langName": "黄脑菌"
       },
       {
         "displayName": "Tremella-Fuciformis",
@@ -4364,7 +4350,7 @@ export const tagsData = {
       },
       {
         "displayName": "Cage",
-        "langName": "笼"
+        "langName": "笼子"
       },
       {
         "displayName": "Cheese Grater",
@@ -4372,7 +4358,7 @@ export const tagsData = {
       },
       {
         "displayName": "Slinky",
-        "langName": "紧身的"
+        "langName": "弹簧玩具"
       },
       {
         "displayName": "Bracelet",
@@ -4388,11 +4374,11 @@ export const tagsData = {
     "概念": [
       {
         "displayName": "Gorgeous",
-        "langName": "华丽的"
+        "langName": "华丽"
       },
       {
         "displayName": "Refreshing",
-        "langName": "清爽"
+        "langName": "清新"
       },
       {
         "displayName": "Divine",
@@ -4400,35 +4386,35 @@ export const tagsData = {
       },
       {
         "displayName": "Infused",
-        "langName": "注入"
+        "langName": "融入"
       },
       {
         "displayName": "Essence",
-        "langName": "本质"
+        "langName": "精华"
       },
       {
         "displayName": "Ineffable",
-        "langName": "不可言说"
+        "langName": "无法言喻"
       },
       {
         "displayName": "Strong",
-        "langName": "强的"
+        "langName": "强大"
       },
       {
         "displayName": "Powerful",
-        "langName": "强大的"
+        "langName": "有力的"
       },
       {
         "displayName": "Weak",
-        "langName": "虚弱的"
+        "langName": "虚弱"
       },
       {
         "displayName": "Thin",
-        "langName": "薄的"
+        "langName": "细"
       },
       {
         "displayName": "Thick",
-        "langName": "厚的"
+        "langName": "厚"
       },
       {
         "displayName": "Massive Scale",
@@ -4444,7 +4430,7 @@ export const tagsData = {
       },
       {
         "displayName": "Large",
-        "langName": "大的"
+        "langName": "大"
       },
       {
         "displayName": "Big",
@@ -4452,15 +4438,15 @@ export const tagsData = {
       },
       {
         "displayName": "Mini",
-        "langName": "小型的"
+        "langName": "迷你"
       },
       {
         "displayName": "Tiny",
-        "langName": "微小的"
+        "langName": "微小"
       },
       {
         "displayName": "Micro",
-        "langName": "微"
+        "langName": "微观"
       },
       {
         "displayName": "Nano",
@@ -4468,11 +4454,11 @@ export const tagsData = {
       },
       {
         "displayName": "Flexible",
-        "langName": "灵活的"
+        "langName": "柔韧"
       },
       {
         "displayName": "Upside-Down",
-        "langName": "倒挂"
+        "langName": "颠倒"
       },
       {
         "displayName": "Paradox",
@@ -4492,7 +4478,7 @@ export const tagsData = {
       },
       {
         "displayName": "Array",
-        "langName": "大批"
+        "langName": "一系列"
       },
       {
         "displayName": "Muted",
@@ -4514,7 +4500,7 @@ export const tagsData = {
       },
       {
         "displayName": "Amber",
-        "langName": "琥珀色"
+        "langName": "琥珀"
       },
       {
         "displayName": "Inlay",
@@ -4542,7 +4528,7 @@ export const tagsData = {
       },
       {
         "displayName": "Transistor",
-        "langName": "三极管"
+        "langName": "晶体管"
       },
       {
         "displayName": "Diode",
@@ -4554,7 +4540,7 @@ export const tagsData = {
     "形状": [
       {
         "displayName": "Point",
-        "langName": "观点"
+        "langName": "点"
       },
       {
         "displayName": "Dot",
@@ -4582,7 +4568,7 @@ export const tagsData = {
       },
       {
         "displayName": "Pentagon",
-        "langName": "五角大楼"
+        "langName": "五边形"
       },
       {
         "displayName": "Hexagon",
@@ -4648,11 +4634,11 @@ export const tagsData = {
       },
       {
         "displayName": "Sphere",
-        "langName": "领域"
+        "langName": "球体"
       },
       {
         "displayName": "Cone",
-        "langName": "锥体"
+        "langName": "圆锥"
       },
       {
         "displayName": "Cylinder",
@@ -4664,7 +4650,7 @@ export const tagsData = {
       },
       {
         "displayName": "Torus",
-        "langName": "环面"
+        "langName": "圆环体"
       },
       {
         "displayName": "Rectangular Prism",
@@ -4676,11 +4662,11 @@ export const tagsData = {
       },
       {
         "displayName": "Wedge",
-        "langName": "楔"
+        "langName": "楔形"
       },
       {
         "displayName": "Zonohedron",
-        "langName": "带面体"
+        "langName": "多面棱体"
       },
       {
         "displayName": "Tetrahedron",
@@ -4700,7 +4686,7 @@ export const tagsData = {
       },
       {
         "displayName": "Kepler-Poinsot Polyhedra",
-        "langName": "开普勒 - 点多面体"
+        "langName": "开普勒点多面体"
       },
       {
         "displayName": "Cuboctahedron",
@@ -4720,15 +4706,15 @@ export const tagsData = {
       },
       {
         "displayName": "Trapezohedron",
-        "langName": "梯形"
+        "langName": "梯形体"
       },
       {
         "displayName": "Cupola",
-        "langName": "冲天炉"
+        "langName": "圆顶"
       },
       {
         "displayName": "Anticupola",
-        "langName": "反冲天炉"
+        "langName": "反圆顶"
       },
       {
         "displayName": "Hypercupolae",
@@ -4752,7 +4738,7 @@ export const tagsData = {
       },
       {
         "displayName": "Birotunda",
-        "langName": "比罗通达"
+        "langName": "双圆形大厅"
       },
       {
         "displayName": "Prismatoid",
@@ -4760,7 +4746,7 @@ export const tagsData = {
       },
       {
         "displayName": "Scutoid",
-        "langName": "盾牌"
+        "langName": "鳞片状多面体"
       },
       {
         "displayName": "Bipyramid",
@@ -4772,19 +4758,19 @@ export const tagsData = {
       },
       {
         "displayName": "Antiprism",
-        "langName": "反棱镜"
+        "langName": "反棱柱"
       },
       {
         "displayName": "Anti-Prism",
-        "langName": "反棱镜"
+        "langName": "反棱柱体"
       },
       {
         "displayName": "Trapezohedra",
-        "langName": "梯形"
+        "langName": "梯形锥体"
       },
       {
         "displayName": "Star Trapezohedron",
-        "langName": "星形梯形"
+        "langName": "星形梯形锥体"
       },
       {
         "displayName": "Spherical polyhedron",
@@ -4792,15 +4778,15 @@ export const tagsData = {
       },
       {
         "displayName": "Mobius strip",
-        "langName": "莫比乌斯带"
+        "langName": "莫比乌斯环"
       },
       {
         "displayName": "Hexaflexagon",
-        "langName": "六角形"
+        "langName": "六边形纸盒"
       },
       {
         "displayName": "Miura fold",
-        "langName": "三浦褶皱"
+        "langName": "三浦折叠"
       }
     ],
     "超形状": [
@@ -4818,7 +4804,7 @@ export const tagsData = {
       },
       {
         "displayName": "Hypertorus",
-        "langName": "巨轮"
+        "langName": "超圆环体"
       },
       {
         "displayName": "Hypersphere",
@@ -4826,7 +4812,7 @@ export const tagsData = {
       },
       {
         "displayName": "Hypercone",
-        "langName": "超锥"
+        "langName": "超圆锥"
       },
       {
         "displayName": "Hypercylinder",
@@ -4834,7 +4820,7 @@ export const tagsData = {
       },
       {
         "displayName": "Hyperzonohedron",
-        "langName": "超地带面体"
+        "langName": "超多面棱体"
       },
       {
         "displayName": "Hypertetrahedron",
@@ -4854,7 +4840,7 @@ export const tagsData = {
       },
       {
         "displayName": "Flexible Polyhedron",
-        "langName": "柔性多面体"
+        "langName": "弹性多面体"
       },
       {
         "displayName": "Klein bottle",
@@ -4924,7 +4910,7 @@ export const tagsData = {
       },
       {
         "displayName": "Underdimensional",
-        "langName": "次元"
+        "langName": "次维"
       },
       {
         "displayName": "Hyperdimensional",
@@ -4932,15 +4918,15 @@ export const tagsData = {
       },
       {
         "displayName": "Subdimensional",
-        "langName": "次元"
+        "langName": "次维度"
       },
       {
         "displayName": "Omnidimensional",
-        "langName": "全方位"
+        "langName": "全维度"
       },
       {
         "displayName": "Everdimensional",
-        "langName": "万维"
+        "langName": "永维度"
       },
       {
         "displayName": "Extradimensional",
@@ -4952,11 +4938,11 @@ export const tagsData = {
       },
       {
         "displayName": "Excessively-dimensional",
-        "langName": "维数过大"
+        "langName": "过分维数"
       },
       {
         "displayName": "Alldimensional",
-        "langName": "全方位"
+        "langName": "全维度"
       },
       {
         "displayName": "Multiverse",
@@ -4970,7 +4956,7 @@ export const tagsData = {
       },
       {
         "displayName": "Geometric",
-        "langName": "几何的"
+        "langName": "几何"
       },
       {
         "displayName": "Non-Euclidian",
@@ -4986,7 +4972,7 @@ export const tagsData = {
       },
       {
         "displayName": "Polygonal",
-        "langName": "多边形"
+        "langName": "多边"
       },
       {
         "displayName": "Polyhedron",
@@ -4994,7 +4980,7 @@ export const tagsData = {
       },
       {
         "displayName": "Polyhedral",
-        "langName": "多面体"
+        "langName": "多面"
       },
       {
         "displayName": "Platonic Solids",
@@ -5002,7 +4988,7 @@ export const tagsData = {
       },
       {
         "displayName": "Archimedean Solids",
-        "langName": "阿基米德固体"
+        "langName": "阿基米德立体"
       },
       {
         "displayName": "Catalan solids",
@@ -5040,7 +5026,7 @@ export const tagsData = {
       },
       {
         "displayName": "Equiangular",
-        "langName": "等角线"
+        "langName": "等角"
       },
       {
         "displayName": "Equilateral",
@@ -5052,47 +5038,47 @@ export const tagsData = {
       },
       {
         "displayName": "Tangential",
-        "langName": "切向"
+        "langName": "切线"
       },
       {
         "displayName": "Rectilinear",
-        "langName": "直线型"
+        "langName": "直线"
       },
       {
         "displayName": "Traverse",
-        "langName": "遍历"
+        "langName": "横跨"
       },
       {
         "displayName": "Quasi",
-        "langName": "准"
+        "langName": "拟"
       },
       {
         "displayName": "Quasi-Regular",
-        "langName": "准正规"
+        "langName": "拟规则"
       },
       {
         "displayName": "Uniform",
-        "langName": "制服"
+        "langName": "均匀"
       },
       {
         "displayName": "Isogonal",
-        "langName": "等角线"
+        "langName": "等角"
       },
       {
         "displayName": "Isotoxal",
-        "langName": "等毒物"
+        "langName": "等毒"
       },
       {
         "displayName": "Isohedral",
-        "langName": "等面体"
+        "langName": "等面"
       },
       {
         "displayName": "Stellation",
-        "langName": "星座"
+        "langName": "星状"
       },
       {
         "displayName": "Ehrhart Polynomial",
-        "langName": "埃尔哈特多项式"
+        "langName": "Ehrhart 多项式"
       },
       {
         "displayName": "Ideal polyhedron",
@@ -5158,7 +5144,7 @@ export const tagsData = {
       },
       {
         "displayName": "Diffraction Grading",
-        "langName": "衍射分级"
+        "langName": "衍射光栅"
       }
     ],
     "过滤器": [
@@ -5172,7 +5158,7 @@ export const tagsData = {
       },
       {
         "displayName": "Anaglyph",
-        "langName": "浮雕"
+        "langName": "立体画"
       },
       {
         "displayName": "Multiscopy",
@@ -5184,7 +5170,7 @@ export const tagsData = {
       },
       {
         "displayName": "Stereoscopy",
-        "langName": "立体视觉"
+        "langName": "立体摄影"
       },
       {
         "displayName": "Parallax",
@@ -5196,7 +5182,7 @@ export const tagsData = {
       },
       {
         "displayName": "Posterization",
-        "langName": "分色"
+        "langName": "色调分割"
       },
       {
         "displayName": "Quantization",
@@ -5204,7 +5190,7 @@ export const tagsData = {
       },
       {
         "displayName": "Sobel Operator",
-        "langName": "索贝尔算子"
+        "langName": "Sobel 算子"
       },
       {
         "displayName": "Edge Detection",
@@ -5228,15 +5214,15 @@ export const tagsData = {
       },
       {
         "displayName": "Ripple",
-        "langName": "波纹"
+        "langName": "涟漪"
       },
       {
         "displayName": "Whirl",
-        "langName": "旋转"
+        "langName": "旋涡"
       },
       {
         "displayName": "Squiggly",
-        "langName": "波浪形"
+        "langName": "波纹"
       },
       {
         "displayName": "Morph",
@@ -5244,7 +5230,7 @@ export const tagsData = {
       },
       {
         "displayName": "Spiraling",
-        "langName": "盘旋"
+        "langName": "螺旋"
       },
       {
         "displayName": "Twisted Rays",
@@ -5252,7 +5238,7 @@ export const tagsData = {
       },
       {
         "displayName": "Starburst",
-        "langName": "星爆"
+        "langName": "星芒"
       },
       {
         "displayName": "Emboss",
@@ -5300,11 +5286,11 @@ export const tagsData = {
       },
       {
         "displayName": "Distortion",
-        "langName": "失真"
+        "langName": "畸变失真"
       },
       {
         "displayName": "Lenticular",
-        "langName": "双凸的"
+        "langName": "透镜状"
       },
       {
         "displayName": "Cropped",
@@ -5320,11 +5306,11 @@ export const tagsData = {
       },
       {
         "displayName": "Sabattier Effect",
-        "langName": "萨巴蒂尔效应"
+        "langName": "Sabattier 效果"
       },
       {
         "displayName": "Smudged",
-        "langName": "弄脏的"
+        "langName": "模糊"
       },
       {
         "displayName": "Sharpened",
@@ -5340,7 +5326,7 @@ export const tagsData = {
       },
       {
         "displayName": "Harris Shutter",
-        "langName": "哈里斯快门"
+        "langName": "Harris 快门"
       },
       {
         "displayName": "Mordancage",
@@ -5414,7 +5400,7 @@ export const tagsData = {
       },
       {
         "displayName": "VFX",
-        "langName": "特效"
+        "langName": "视觉特效"
       },
       {
         "displayName": "SFX",
@@ -5506,7 +5492,7 @@ export const tagsData = {
       },
       {
         "displayName": "Pre-Raphaelite Brotherhood",
-        "langName": "前拉斐尔派兄弟会"
+        "langName": "先拉斐尔派"
       },
       {
         "displayName": "Pop art",
@@ -5532,11 +5518,11 @@ export const tagsData = {
       },
       {
         "displayName": "professional",
-        "langName": "专业的"
+        "langName": "专业"
       },
       {
         "displayName": "breathtaking",
-        "langName": "惊人的"
+        "langName": "惊艳"
       },
       {
         "displayName": "groundbreaking",
@@ -5554,7 +5540,7 @@ export const tagsData = {
     "进阶": [
       {
         "displayName": "in a symbolic and meaningful style",
-        "langName": "具有象征意义的风格"
+        "langName": "象征性且有意义的风格"
       },
       {
         "displayName": "insanely detailed and intricate",
