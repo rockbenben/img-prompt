@@ -1,11 +1,10 @@
 import React, { useState, useEffect } from "react";
 import { Helmet } from "react-helmet";
-import { Layout, Row, Col, Typography, Menu } from "antd";
+import { Layout, Row, Col, Typography, Menu, Grid } from "antd";
 import {
   BgColorsOutlined,
   ExperimentOutlined,
   ThunderboltOutlined,
-  SettingOutlined,
   GithubOutlined,
 } from "@ant-design/icons";
 
@@ -16,6 +15,7 @@ import AttributeSection from "./components/AttributeSection";
 import TagSection from "./components/TagSection";
 import SelectedTagsSection from "./components/SelectedTagsSection";
 import ResultSection from "./components/ResultSection";
+const { useBreakpoint } = Grid;
 const { Title } = Typography;
 
 const App = () => {
@@ -27,7 +27,8 @@ const App = () => {
   const getAttributes = (currentObject) => {
     return Object.keys(tagsData[currentObject]);
   };
-  
+  const screens = useBreakpoint();
+
   useEffect(() => {
     const attributes = getAttributes(activeObject);
     setActiveAttribute(attributes[0]);
@@ -55,46 +56,65 @@ const App = () => {
     <Layout>
       <Helmet>
         <title>IMGPrompt</title>
-        <meta name="description" content="用于 Stable Diffusion 和 Midjourney 的图像提示词生成" />
+        <meta
+          name="description"
+          content="用于 Stable Diffusion 和 Midjourney 的图像提示词生成"
+        />
         <meta name="keywords" content="prompt, ai prompt, 提示词" />
       </Helmet>
       <Layout.Header>
-      <Row justify="space-between" align="middle">
-        <Col>
-        <Menu mode="horizontal" theme="dark" selectedKeys={["1"]}>
-          <Menu.Item key="1" icon={<BgColorsOutlined />}>
-            IMGPrompt
-          </Menu.Item>
-          <Menu.Item key="2" icon={<ThunderboltOutlined />}>
-            <a
-              href="https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Stable Diffusion 入门教程
-            </a>
-          </Menu.Item>
-          <Menu.Item key="3" icon={<ExperimentOutlined />}>
-            <a
-              href="https://www.aishort.top"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              ChatGPT Shortcut
-            </a>
-          </Menu.Item>
-        </Menu>
-        </Col>
-        <Col>
-          <a
-            href="https://github.com/rockbenben/img-prompt"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <GithubOutlined style={{ color: "white", fontSize: "24px" }} />
-          </a>
-        </Col>
-      </Row>
+        <Row justify="space-between" align="middle" gutter={16}>
+          <Col xs={20} sm={18} md={16}>
+            <Menu mode="horizontal" theme="dark" selectedKeys={["1"]}>
+              <Menu.Item key="1" icon={<BgColorsOutlined />}>
+                IMGPrompt
+              </Menu.Item>
+              <Menu.Item key="2" icon={<ThunderboltOutlined />}>
+                <a
+                  href="https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Stable Diffusion 入门教程
+                </a>
+              </Menu.Item>
+              <Menu.Item key="3" icon={<ExperimentOutlined />}>
+                <a
+                  href="https://www.aishort.top"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  ChatGPT Shortcut
+                </a>
+              </Menu.Item>
+            </Menu>
+          </Col>
+          <Col>
+            <Row gutter={16} wrap={false}>
+              {screens.md && (
+                <Col style={{ display: "flex", alignItems: "center" }}>
+                  <a href="https://discord.gg/PZTQfJ4GjX">
+                    <img
+                      src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge"
+                      alt="chat on Discord"
+                    />
+                  </a>
+                </Col>
+              )}
+              <Col>
+                <a
+                  href="https://github.com/rockbenben/img-prompt"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <GithubOutlined
+                    style={{ color: "white", fontSize: "24px" }}
+                  />
+                </a>
+              </Col>
+            </Row>
+          </Col>
+        </Row>
       </Layout.Header>
       <Layout.Content
         style={{ maxWidth: "1200px", margin: "0 auto", padding: "24px" }}
