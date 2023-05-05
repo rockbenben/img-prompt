@@ -9,28 +9,31 @@ import {
 } from "@ant-design/icons";
 
 import "antd/dist/reset.css";
-import { tagsData } from "./data";
+import tagsData from "./prompt.json";
 import ObjectSection from "./components/ObjectSection";
 import AttributeSection from "./components/AttributeSection";
 import TagSection from "./components/TagSection";
 import SelectedTagsSection from "./components/SelectedTagsSection";
 import ResultSection from "./components/ResultSection";
+
 const { useBreakpoint } = Grid;
 const { Title } = Typography;
+
+const getAttributes = (currentObject, data) => {
+  return Object.keys(data[currentObject]);
+};
 
 const App = () => {
   const objects = Object.keys(tagsData);
   const [activeObject, setActiveObject] = useState(objects[0]);
-  const attributes = Object.keys(tagsData[activeObject]);
+  const attributes = getAttributes(activeObject, tagsData);
+
   const [activeAttribute, setActiveAttribute] = useState(attributes[0]);
   const [selectedTags, setSelectedTags] = useState([]);
-  const getAttributes = (currentObject) => {
-    return Object.keys(tagsData[currentObject]);
-  };
   const screens = useBreakpoint();
 
   useEffect(() => {
-    const attributes = getAttributes(activeObject);
+    const attributes = getAttributes(activeObject, tagsData);
     setActiveAttribute(attributes[0]);
   }, [activeObject]);
 
@@ -41,15 +44,20 @@ const App = () => {
   const handleAttributeClick = (attribute) => {
     setActiveAttribute(attribute);
   };
+  const updateSelectedTags = (tag, attribute) => {
+    const isSelected = selectedTags.some(
+      (t) => t.displayName === tag.displayName
+    );
+
+    if (isSelected) {
+      return selectedTags.filter((t) => t.displayName !== tag.displayName);
+    } else {
+      return [...selectedTags, { ...tag, attribute }];
+    }
+  };
 
   const handleTagClick = (tag, attribute) => {
-    if (selectedTags.some((t) => t.displayName === tag.displayName)) {
-      setSelectedTags(
-        selectedTags.filter((t) => t.displayName !== tag.displayName)
-      );
-    } else {
-      setSelectedTags([...selectedTags, { ...tag, attribute }]);
-    }
+    setSelectedTags(updateSelectedTags(tag, attribute));
   };
 
   return (

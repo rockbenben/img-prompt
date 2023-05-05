@@ -96,9 +96,9 @@ const ResultSection = ({ selectedTags = [], setSelectedTags, tagsData }) => {
 
     // 去除重复项
     const displayNames = replacedText.split(", ");
-    const uniqueDisplayNames = [
-      ...new Set(displayNames.map((displayName) => displayName.toLowerCase())),
-    ];
+    const uniqueDisplayNames = Array.from(
+      new Set(displayNames.map((displayName) => displayName.toLowerCase()))
+    );
     const uniqueSelectedTags = uniqueDisplayNames.map((displayName) => {
       const { attribute, langName, displayName: foundDisplayName } = findTagData(displayName);
       return { displayName: foundDisplayName || displayName, attribute, langName };

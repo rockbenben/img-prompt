@@ -1,5 +1,4 @@
-// src/data.js
-export const tagsData = {
+{
   "图像种类/媒介": {
     "绘画": [
       {
@@ -5552,4 +5551,4 @@ export const tagsData = {
       }
     ]
   }
-};
+}
