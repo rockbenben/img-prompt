@@ -95,6 +95,15 @@ const App = () => {
                   ChatGPT Shortcut
                 </a>
               </Menu.Item>
+              <Menu.Item key="4" >
+                <a
+                  href="https://tools.newzone.top/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  批量文本处理
+                </a>
+              </Menu.Item>
             </Menu>
           </Col>
           <Col>
