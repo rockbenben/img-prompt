@@ -1,0 +1,8054 @@
+[
+  {
+    "displayName": "Illustration",
+    "langName": "插图",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Sketch",
+    "langName": "素描",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Drawing",
+    "langName": "绘画",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Realistic Painting",
+    "langName": "写实画",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Doodle",
+    "langName": "涂鸦",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Children's Drawing",
+    "langName": "儿童画",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Dot Art",
+    "langName": "点彩画",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Line Art",
+    "langName": "线描画",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Stipple",
+    "langName": "点画法",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Hand-Drawn",
+    "langName": "手绘",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Illuminated Manuscript",
+    "langName": "彩绘手稿",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Crosshatch",
+    "langName": "交叉影线",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Storybook Illustration",
+    "langName": "故事书插图",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Graphic Novel",
+    "langName": "绘本小说",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Visual Novel",
+    "langName": "视觉小说",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Illustrated-Booklet",
+    "langName": "插图小册子",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Assembly Drawing",
+    "langName": "装配图",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Anatomical Drawing",
+    "langName": "解剖图",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Cartographic",
+    "langName": "制图的",
+    "object": "图像种类/媒介",
+    "attribute": "绘画"
+  },
+  {
+    "displayName": "Pencil Art",
+    "langName": "铅笔画",
+    "object": "图像种类/媒介",
+    "attribute": "铅笔"
+  },
+  {
+    "displayName": "Graphite",
+    "langName": "石墨",
+    "object": "图像种类/媒介",
+    "attribute": "铅笔"
+  },
+  {
+    "displayName": "Colored Pencil",
+    "langName": "彩色铅笔",
+    "object": "图像种类/媒介",
+    "attribute": "铅笔"
+  },
+  {
+    "displayName": "Charcoal Art",
+    "langName": "炭笔画",
+    "object": "图像种类/媒介",
+    "attribute": "铅笔"
+  },
+  {
+    "displayName": "Ink",
+    "langName": "墨水",
+    "object": "图像种类/媒介",
+    "attribute": "墨水"
+  },
+  {
+    "displayName": "Ballpoint Pen",
+    "langName": "圆珠笔",
+    "object": "图像种类/媒介",
+    "attribute": "墨水"
+  },
+  {
+    "displayName": "Gel Pen",
+    "langName": "中性笔",
+    "object": "图像种类/媒介",
+    "attribute": "墨水"
+  },
+  {
+    "displayName": "Fountain Pen",
+    "langName": "钢笔",
+    "object": "图像种类/媒介",
+    "attribute": "墨水"
+  },
+  {
+    "displayName": "Fountain Pen Art",
+    "langName": "钢笔画",
+    "object": "图像种类/媒介",
+    "attribute": "墨水"
+  },
+  {
+    "displayName": "Calligraphy",
+    "langName": "书法",
+    "object": "图像种类/媒介",
+    "attribute": "墨水"
+  },
+  {
+    "displayName": "Marker Art",
+    "langName": "马克笔艺术",
+    "object": "图像种类/媒介",
+    "attribute": "墨水"
+  },
+  {
+    "displayName": "Dry-Erase Marker",
+    "langName": "白板笔",
+    "object": "图像种类/媒介",
+    "attribute": "墨水"
+  },
+  {
+    "displayName": "Wet-Erase Marker",
+    "langName": "可擦记号笔",
+    "object": "图像种类/媒介",
+    "attribute": "墨水"
+  },
+  {
+    "displayName": "Whiteboard",
+    "langName": "白板",
+    "object": "图像种类/媒介",
+    "attribute": "墨水"
+  },
+  {
+    "displayName": "Crayon",
+    "langName": "蜡笔",
+    "object": "图像种类/媒介",
+    "attribute": "粉笔"
+  },
+  {
+    "displayName": "Conte",
+    "langName": "康熙笔",
+    "object": "图像种类/媒介",
+    "attribute": "粉笔"
+  },
+  {
+    "displayName": "Chalk",
+    "langName": "粉笔",
+    "object": "图像种类/媒介",
+    "attribute": "粉笔"
+  },
+  {
+    "displayName": "Pastel Art",
+    "langName": "粉彩画",
+    "object": "图像种类/媒介",
+    "attribute": "粉笔"
+  },
+  {
+    "displayName": "Blackboard",
+    "langName": "黑板",
+    "object": "图像种类/媒介",
+    "attribute": "粉笔"
+  },
+  {
+    "displayName": "Chalkboard",
+    "langName": "黑板",
+    "object": "图像种类/媒介",
+    "attribute": "粉笔"
+  },
+  {
+    "displayName": "Painting",
+    "langName": "绘画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Oil Paint",
+    "langName": "油画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Watercolor",
+    "langName": "水彩画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Canvas",
+    "langName": "帆布画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Still-Life",
+    "langName": "静物画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Fine Art",
+    "langName": "美术绘画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Color Field Painting",
+    "langName": "色域绘画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Hard Edge Painting",
+    "langName": "硬边绘画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Scroll Painting",
+    "langName": "卷轴画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Paper-Marbling",
+    "langName": "水粉画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Hydro-Dipping",
+    "langName": "水转印",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Hydrodipped",
+    "langName": "曲面水披覆",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Easter Egg",
+    "langName": "复活节彩蛋",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Egg Decorating",
+    "langName": "彩绘蛋",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Rock Art",
+    "langName": "岩画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Cave Art",
+    "langName": "洞窟艺术",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Street Art",
+    "langName": "街头艺术",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Mural",
+    "langName": "壁画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Artwork",
+    "langName": "艺术品",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Chinese Painting",
+    "langName": "中国画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Tibetan Painting",
+    "langName": "西藏绘画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Airbrush",
+    "langName": "喷笔",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Paint",
+    "langName": "油漆",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Acrylic Paint",
+    "langName": "丙烯颜料",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Tempera Paint",
+    "langName": "蛋彩画",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Gouache Paint",
+    "langName": "水粉颜料",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Wet Paint",
+    "langName": "湿画化",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Dripping Paint",
+    "langName": "滴漆",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Splatter Paint",
+    "langName": "泼漆",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Spray Paint",
+    "langName": "喷漆",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Puffy Paint",
+    "langName": "立体颜料",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Glass Paint",
+    "langName": "玻璃漆",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Coffee Paint",
+    "langName": "咖啡漆",
+    "object": "图像种类/媒介",
+    "attribute": "画画"
+  },
+  {
+    "displayName": "Text",
+    "langName": "文本",
+    "object": "图像种类/媒介",
+    "attribute": "文本"
+  },
+  {
+    "displayName": "Typeface",
+    "langName": "字体",
+    "object": "图像种类/媒介",
+    "attribute": "文本"
+  },
+  {
+    "displayName": "Font",
+    "langName": "字体",
+    "object": "图像种类/媒介",
+    "attribute": "文本"
+  },
+  {
+    "displayName": "Says",
+    "langName": "说",
+    "object": "图像种类/媒介",
+    "attribute": "文本"
+  },
+  {
+    "displayName": "Letters",
+    "langName": "字母",
+    "object": "图像种类/媒介",
+    "attribute": "文本"
+  },
+  {
+    "displayName": "Graphemes",
+    "langName": "字素",
+    "object": "图像种类/媒介",
+    "attribute": "文本"
+  },
+  {
+    "displayName": "Written Letters",
+    "langName": "书写字母",
+    "object": "图像种类/媒介",
+    "attribute": "文本"
+  },
+  {
+    "displayName": "Words",
+    "langName": "单词",
+    "object": "图像种类/媒介",
+    "attribute": "文本"
+  },
+  {
+    "displayName": "Lexemes",
+    "langName": "词素",
+    "object": "图像种类/媒介",
+    "attribute": "文本"
+  },
+  {
+    "displayName": "Written Words",
+    "langName": "书面单词",
+    "object": "图像种类/媒介",
+    "attribute": "文本"
+  },
+  {
+    "displayName": "Caption",
+    "langName": "标题",
+    "object": "图像种类/媒介",
+    "attribute": "文本"
+  },
+  {
+    "displayName": "Logo",
+    "langName": "商标",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Stamp",
+    "langName": "邮票",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Postage Stamp",
+    "langName": "邮票",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Business Card",
+    "langName": "名片",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Collage",
+    "langName": "拼贴画",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Photocollage",
+    "langName": "照片拼贴画",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Fotocollage",
+    "langName": "照片拼贴画",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Lithography",
+    "langName": "平版印刷术",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Block Printing",
+    "langName": "印版画",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Magazine",
+    "langName": "杂志",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Newspaper",
+    "langName": "报纸",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Newsprint",
+    "langName": "新闻纸",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Blueprint",
+    "langName": "蓝图",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Comic Book",
+    "langName": "漫画书",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Booklet",
+    "langName": "小册子",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Poster",
+    "langName": "海报",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Sticker",
+    "langName": "贴纸",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Barcode",
+    "langName": "条形码",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "QR Code",
+    "langName": "二维码",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Pokemon",
+    "langName": "宝可梦",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Pokemon Card",
+    "langName": "口袋妖怪卡片",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Pokémon",
+    "langName": "宝可梦",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Pokémon Card",
+    "langName": "宝可梦卡片",
+    "object": "图像种类/媒介",
+    "attribute": "打印"
+  },
+  {
+    "displayName": "Origami",
+    "langName": "折纸",
+    "object": "图像种类/媒介",
+    "attribute": "折纸"
+  },
+  {
+    "displayName": "Modular Origami",
+    "langName": "模块化折纸",
+    "object": "图像种类/媒介",
+    "attribute": "折纸"
+  },
+  {
+    "displayName": "Rigid Origami",
+    "langName": "刚性折纸",
+    "object": "图像种类/媒介",
+    "attribute": "折纸"
+  },
+  {
+    "displayName": "Sonobe",
+    "langName": "折纸花球",
+    "object": "图像种类/媒介",
+    "attribute": "折纸"
+  },
+  {
+    "displayName": "Kirigami",
+    "langName": "剪纸",
+    "object": "图像种类/媒介",
+    "attribute": "折纸"
+  },
+  {
+    "displayName": "Moneygami",
+    "langName": "钞票折纸",
+    "object": "图像种类/媒介",
+    "attribute": "折纸"
+  },
+  {
+    "displayName": "Wet-Folding",
+    "langName": "湿折",
+    "object": "图像种类/媒介",
+    "attribute": "折纸"
+  },
+  {
+    "displayName": "Mosaic",
+    "langName": "马赛克",
+    "object": "图像种类/媒介",
+    "attribute": "马赛克"
+  },
+  {
+    "displayName": "Micromosaic",
+    "langName": "微缩马赛克",
+    "object": "图像种类/媒介",
+    "attribute": "马赛克"
+  },
+  {
+    "displayName": "Glass Mosaic",
+    "langName": "玻璃马赛克",
+    "object": "图像种类/媒介",
+    "attribute": "马赛克"
+  },
+  {
+    "displayName": "Photographic Mosaic",
+    "langName": "照片马赛克",
+    "object": "图像种类/媒介",
+    "attribute": "马赛克"
+  },
+  {
+    "displayName": "Impressionist Mosaic",
+    "langName": "印象派马赛克",
+    "object": "图像种类/媒介",
+    "attribute": "马赛克"
+  },
+  {
+    "displayName": "Frame",
+    "langName": "相框",
+    "object": "图像种类/媒介",
+    "attribute": "框架"
+  },
+  {
+    "displayName": "Framed",
+    "langName": "装裱的",
+    "object": "图像种类/媒介",
+    "attribute": "框架"
+  },
+  {
+    "displayName": "Wooden Frame",
+    "langName": "木质相框",
+    "object": "图像种类/媒介",
+    "attribute": "框架"
+  },
+  {
+    "displayName": "Wooden Framed",
+    "langName": "木制相框",
+    "object": "图像种类/媒介",
+    "attribute": "框架"
+  },
+  {
+    "displayName": "Carving",
+    "langName": "雕刻",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Etching",
+    "langName": "蚀刻",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Sculpture",
+    "langName": "雕塑",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Papercutting",
+    "langName": "剪纸",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Whittling",
+    "langName": "刻刀雕刻",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Wood-Carving",
+    "langName": "木雕",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Chip-Carving",
+    "langName": "花刻",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Relief-Carving",
+    "langName": "浮雕",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Ice-Carving",
+    "langName": "冰雕",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Lacquer",
+    "langName": "漆艺",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "String-Art",
+    "langName": "弦乐艺术",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Paper-Mache",
+    "langName": "纸浆塑形",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Paper Model",
+    "langName": "纸模型",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Card",
+    "langName": "卡片",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Carved Lacquer",
+    "langName": "雕漆",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Fretwork",
+    "langName": "镂空工艺",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Intaglio",
+    "langName": "凹版印刷",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Mezzotint",
+    "langName": "铜版漆",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Aquatint",
+    "langName": "凹印",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Linocut",
+    "langName": "丝网印刷",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Pyrography",
+    "langName": "焊点画",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Puppet",
+    "langName": "木偶",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Balloon Modelling",
+    "langName": "气球模型",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Balloon Twisting",
+    "langName": "扎各种形状的气球",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Circuit",
+    "langName": "线路图",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Circuitry",
+    "langName": "电路",
+    "object": "图像种类/媒介",
+    "attribute": "雕刻、蚀刻和建模"
+  },
+  {
+    "displayName": "Glaze",
+    "langName": "釉料",
+    "object": "图像种类/媒介",
+    "attribute": "陶器和玻璃"
+  },
+  {
+    "displayName": "Overglaze",
+    "langName": "上釉",
+    "object": "图像种类/媒介",
+    "attribute": "陶器和玻璃"
+  },
+  {
+    "displayName": "Inglaze",
+    "langName": "下釉",
+    "object": "图像种类/媒介",
+    "attribute": "陶器和玻璃"
+  },
+  {
+    "displayName": "Azulejo",
+    "langName": "Azulejo",
+    "object": "图像种类/媒介",
+    "attribute": "陶器和玻璃"
+  },
+  {
+    "displayName": "Paleolithic Pottery",
+    "langName": "旧石器时代的陶器",
+    "object": "图像种类/媒介",
+    "attribute": "陶器和玻璃"
+  },
+  {
+    "displayName": "Neolithic Pottery",
+    "langName": "新石器时代的陶器",
+    "object": "图像种类/媒介",
+    "attribute": "陶器和玻璃"
+  },
+  {
+    "displayName": "Bone China",
+    "langName": "骨瓷",
+    "object": "图像种类/媒介",
+    "attribute": "陶器和玻璃"
+  },
+  {
+    "displayName": "Ornament",
+    "langName": "装饰品",
+    "object": "图像种类/媒介",
+    "attribute": "陶器和玻璃"
+  },
+  {
+    "displayName": "Light Art",
+    "langName": "灯光艺术",
+    "object": "图像种类/媒介",
+    "attribute": "光"
+  },
+  {
+    "displayName": "Light Painting",
+    "langName": "光绘",
+    "object": "图像种类/媒介",
+    "attribute": "光"
+  },
+  {
+    "displayName": "Lightpainting",
+    "langName": "光绘",
+    "object": "图像种类/媒介",
+    "attribute": "光"
+  },
+  {
+    "displayName": "Cartoon",
+    "langName": "卡通片",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Wall Decal",
+    "langName": "墙贴",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Banner",
+    "langName": "横幅",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Signage",
+    "langName": "指示牌",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Arts and Crafts",
+    "langName": "工艺美术",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Resin",
+    "langName": "环氧树脂",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Enamel Pin",
+    "langName": "珐琅别针",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Bejeweled",
+    "langName": "镶嵌宝石",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Latte Art",
+    "langName": "拿铁拉花",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Coffee Stain",
+    "langName": "咖啡渍",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Smoke Art",
+    "langName": "烟雾艺术",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Tattoo",
+    "langName": "纹身",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Sticker Bomb",
+    "langName": "贴纸炸弹",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Jigsaw",
+    "langName": "拼图",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Puzzle",
+    "langName": "拼图玩具",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Maze",
+    "langName": "迷宫",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Toy",
+    "langName": "玩具",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Site-Specific art",
+    "langName": "特定地点的艺术",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Public Art",
+    "langName": "公共艺术",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Diorama",
+    "langName": "西洋镜",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Hedge Trimming",
+    "langName": "绿篱修剪",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Shoe",
+    "langName": "鞋",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Shoes",
+    "langName": "鞋",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Hat",
+    "langName": "帽子",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Hatmaking",
+    "langName": "制帽",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Stencil",
+    "langName": "模版",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Negative Space",
+    "langName": "负空间",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Scrapbooking",
+    "langName": "剪贴簿",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Mixed Media",
+    "langName": "混合媒介",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Frottage",
+    "langName": "踩印画",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Outlined",
+    "langName": "轮廓",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Glitter",
+    "langName": "闪粉",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Sparkly",
+    "langName": "闪亮的",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Indian Art",
+    "langName": "印度艺术",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "Soviet Art",
+    "langName": "苏联艺术",
+    "object": "图像种类/媒介",
+    "attribute": "其他媒介"
+  },
+  {
+    "displayName": "detailed gorgeous face",
+    "langName": "精细的面容",
+    "object": "人物",
+    "attribute": "人体"
+  },
+  {
+    "displayName": "delicate features",
+    "langName": "精致五官",
+    "object": "人物",
+    "attribute": "人体"
+  },
+  {
+    "displayName": "gradient eyes",
+    "langName": "渐变瞳色",
+    "object": "人物",
+    "attribute": "人体"
+  },
+  {
+    "displayName": "aqua eyes",
+    "langName": "水汪汪大眼",
+    "object": "人物",
+    "attribute": "人体"
+  },
+  {
+    "displayName": "Googly Eyes",
+    "langName": "水绿色的眼睛",
+    "object": "人物",
+    "attribute": "人体"
+  },
+  {
+    "displayName": "big tits",
+    "langName": "巨乳",
+    "object": "人物",
+    "attribute": "人体"
+  },
+  {
+    "displayName": "olive skin",
+    "langName": "橄榄色皮肤",
+    "object": "人物",
+    "attribute": "人体"
+  },
+  {
+    "displayName": "mini smile",
+    "langName": "微笑",
+    "object": "人物",
+    "attribute": "人体"
+  },
+  {
+    "displayName": "grin",
+    "langName": "露齿而笑",
+    "object": "人物",
+    "attribute": "人体"
+  },
+  {
+    "displayName": "evil smile",
+    "langName": "坏笑",
+    "object": "人物",
+    "attribute": "人体"
+  },
+  {
+    "displayName": "full blush",
+    "langName": "脸红",
+    "object": "人物",
+    "attribute": "人体"
+  },
+  {
+    "displayName": "bone",
+    "langName": "骨",
+    "object": "人物",
+    "attribute": "人体"
+  },
+  {
+    "displayName": "blonde hair",
+    "langName": "金发",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "silver hair",
+    "langName": "银发",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "grey hair",
+    "langName": "灰发",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "white hair",
+    "langName": "白发",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "black hair",
+    "langName": "黑发",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "gradient hair",
+    "langName": "渐变发色",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "bangs",
+    "langName": "刘海",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "blunt bangs",
+    "langName": "齐刘海",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "braid",
+    "langName": "辫子",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "braided ponytail",
+    "langName": "编织马尾辫",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "long braid",
+    "langName": "侧马尾",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "twintails",
+    "langName": "双马尾",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "double bun",
+    "langName": "双团子头",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "drill hair",
+    "langName": "钻头卷/公主卷",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "curly hair",
+    "langName": "卷发",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "straight hair",
+    "langName": "直发",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "buzz cut",
+    "langName": "寸头",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "crew cut",
+    "langName": "平头/板寸头",
+    "object": "人物",
+    "attribute": "头发"
+  },
+  {
+    "displayName": "joyful",
+    "langName": "喜悦的",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "cheerful",
+    "langName": "开朗的",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "enchanting",
+    "langName": "迷人的",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "happy",
+    "langName": "快乐的",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "happy accidents",
+    "langName": "意外之喜",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "vibrant",
+    "langName": "充满活力的",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "dynamic",
+    "langName": "有活力",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "energetic",
+    "langName": "充满活力",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "bustling",
+    "langName": "忙碌",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "lively",
+    "langName": "活泼",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "excited",
+    "langName": "兴奋的",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "nose blush",
+    "langName": "害羞",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "peaceful",
+    "langName": "平和的",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "serene",
+    "langName": "宁静",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "soothing",
+    "langName": "舒缓",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "calming",
+    "langName": "平静",
+    "object": "人物",
+    "attribute": "积极情绪"
+  },
+  {
+    "displayName": "melancholic",
+    "langName": "忧郁",
+    "object": "人物",
+    "attribute": "负面情绪"
+  },
+  {
+    "displayName": "eerie",
+    "langName": "怪异",
+    "object": "人物",
+    "attribute": "负面情绪"
+  },
+  {
+    "displayName": "ominous",
+    "langName": "不祥",
+    "object": "人物",
+    "attribute": "负面情绪"
+  },
+  {
+    "displayName": "gloom",
+    "langName": "阴郁",
+    "object": "人物",
+    "attribute": "负面情绪"
+  },
+  {
+    "displayName": "unsettling",
+    "langName": "令人不安",
+    "object": "人物",
+    "attribute": "负面情绪"
+  },
+  {
+    "displayName": "Sad",
+    "langName": "伤心",
+    "object": "人物",
+    "attribute": "负面情绪"
+  },
+  {
+    "displayName": "Lonely",
+    "langName": "孤独",
+    "object": "人物",
+    "attribute": "负面情绪"
+  },
+  {
+    "displayName": "Angry",
+    "langName": "生气的",
+    "object": "人物",
+    "attribute": "负面情绪"
+  },
+  {
+    "displayName": "Elegant",
+    "langName": "优雅的",
+    "object": "人物",
+    "attribute": "气质"
+  },
+  {
+    "displayName": "Angelic",
+    "langName": "天使般的",
+    "object": "人物",
+    "attribute": "气质"
+  },
+  {
+    "displayName": "Good",
+    "langName": "好的",
+    "object": "人物",
+    "attribute": "气质"
+  },
+  {
+    "displayName": "mysterious",
+    "langName": "神秘的",
+    "object": "人物",
+    "attribute": "气质"
+  },
+  {
+    "displayName": "enigmatic",
+    "langName": "谜一般的",
+    "object": "人物",
+    "attribute": "气质"
+  },
+  {
+    "displayName": "cryptic",
+    "langName": "秘密的",
+    "object": "人物",
+    "attribute": "气质"
+  },
+  {
+    "displayName": "Evil",
+    "langName": "邪恶的",
+    "object": "人物",
+    "attribute": "气质"
+  },
+  {
+    "displayName": "Portrait Photogram",
+    "langName": "肖像照",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Photorealistic",
+    "langName": "相片拟真",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Bokeh",
+    "langName": "背景虚化",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Cinematic",
+    "langName": "电影感",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Color Grading",
+    "langName": "色彩分级",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Dashcam-Footage",
+    "langName": "行车记录仪录像",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Dramatic",
+    "langName": "戏剧性",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Editorial Photography",
+    "langName": "社论摄影",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Filmic",
+    "langName": "电影质感",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Film Grain",
+    "langName": "胶片颗粒",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Glamor Shot",
+    "langName": "迷人镜头",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Golden Hour",
+    "langName": "黄金时段",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "High-Speed Photograph",
+    "langName": "高速摄影",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Intentional camera movement",
+    "langName": "故意的相机移动",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Paparazzi Photography",
+    "langName": "狗仔摄影",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Photography",
+    "langName": "摄影",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Photoshoot",
+    "langName": "照片拍摄",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Photojournalism",
+    "langName": "新闻摄影",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Time-Lapse",
+    "langName": "延时摄影",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Satellite Imagery",
+    "langName": "卫星图像",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "War Photography",
+    "langName": "战争摄影",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Wildlife Photography",
+    "langName": "野生动物摄影",
+    "object": "摄影",
+    "attribute": "场景"
+  },
+  {
+    "displayName": "Macro",
+    "langName": "微距",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Telephoto",
+    "langName": "长焦",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Magnification",
+    "langName": "放大",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Microscopic",
+    "langName": "微观的",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Electron Microscope",
+    "langName": "电子显微镜",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Super-Resolution Microscopy",
+    "langName": "超分辨率显微镜",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Wide Angle",
+    "langName": "广角",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Ultra-Wide Angle",
+    "langName": "超广角",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Panorama",
+    "langName": "全景",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "360 Panorama",
+    "langName": "360 全景",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "360 Angle",
+    "langName": "360 度视角",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Fisheye Lens",
+    "langName": "鱼眼镜头",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Fisheye Lens Effect",
+    "langName": "鱼眼镜头效果",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Miniature Faking",
+    "langName": "微缩模型效果",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Brenizer Method",
+    "langName": "螺旋拍摄",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Panini Projection",
+    "langName": "帕尼尼投影",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Orthographic",
+    "langName": "正投影",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Isometric",
+    "langName": "等角投影",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "DOF",
+    "langName": "景深",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Sharp Focus",
+    "langName": "锐聚焦",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Zoom",
+    "langName": "变焦",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Dolly Zoom",
+    "langName": "多莉变焦",
+    "object": "摄影",
+    "attribute": "镜头"
+  },
+  {
+    "displayName": "Aerial View",
+    "langName": "俯视图",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "Top-View",
+    "langName": "顶视图",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "Side-View",
+    "langName": "侧视图",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "Satellite-View",
+    "langName": "卫星视图",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "Macro View",
+    "langName": "微观视图",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "Product-View",
+    "langName": "产品视图",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "Closeup",
+    "langName": "特写",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "Closeup-View",
+    "langName": "特写视图",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "First-Person",
+    "langName": "第一人称",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "First-Person view",
+    "langName": "第一人称视角",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "Third-Person",
+    "langName": "第三人称",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "Third-Person View",
+    "langName": "第三人称视角",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "Perspective",
+    "langName": "透视图",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "Depth of Field",
+    "langName": "景深",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "Field of View",
+    "langName": "视场",
+    "object": "摄影",
+    "attribute": "视角"
+  },
+  {
+    "displayName": "Blurry",
+    "langName": "模糊",
+    "object": "摄影",
+    "attribute": "模糊/失真"
+  },
+  {
+    "displayName": "Blur Effect",
+    "langName": "模糊效果",
+    "object": "摄影",
+    "attribute": "模糊/失真"
+  },
+  {
+    "displayName": "Tilt Blur",
+    "langName": "倾斜模糊",
+    "object": "摄影",
+    "attribute": "模糊/失真"
+  },
+  {
+    "displayName": "Lens Distortion",
+    "langName": "镜头畸变",
+    "object": "摄影",
+    "attribute": "模糊/失真"
+  },
+  {
+    "displayName": "Exposure",
+    "langName": "曝光",
+    "object": "摄影",
+    "attribute": "相机设置"
+  },
+  {
+    "displayName": "Short Exposure",
+    "langName": "短曝光",
+    "object": "摄影",
+    "attribute": "相机设置"
+  },
+  {
+    "displayName": "Long Exposure",
+    "langName": "长曝光",
+    "object": "摄影",
+    "attribute": "相机设置"
+  },
+  {
+    "displayName": "Double-Exposure",
+    "langName": "双重曝光",
+    "object": "摄影",
+    "attribute": "相机设置"
+  },
+  {
+    "displayName": "Shutter Speed 1/1000",
+    "langName": "快门速度 1/1000",
+    "object": "摄影",
+    "attribute": "相机设置"
+  },
+  {
+    "displayName": "Shutter Speed 1/2",
+    "langName": "快门速度 1/2",
+    "object": "摄影",
+    "attribute": "相机设置"
+  },
+  {
+    "displayName": "F/2.8",
+    "langName": "光圈/2.8",
+    "object": "摄影",
+    "attribute": "相机设置"
+  },
+  {
+    "displayName": "F/22",
+    "langName": "F/22",
+    "object": "摄影",
+    "attribute": "相机设置"
+  },
+  {
+    "displayName": "Gamma",
+    "langName": "伽马",
+    "object": "摄影",
+    "attribute": "相机设置"
+  },
+  {
+    "displayName": "White Balance",
+    "langName": "白平衡",
+    "object": "摄影",
+    "attribute": "相机设置"
+  },
+  {
+    "displayName": "Schlieren",
+    "langName": "光波干涉",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Night Vision",
+    "langName": "微光摄像",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Hyperspectral Imaging",
+    "langName": "高光谱成像",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Multispectral Imaging",
+    "langName": "多光谱成像",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Camcorder Effect",
+    "langName": "摄像机效果",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "DSLR",
+    "langName": "单反",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Polaroid",
+    "langName": "宝丽来",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "35mm",
+    "langName": "35mm",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Tri-X 400 TX",
+    "langName": "Tri-X 400 TX",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Instax",
+    "langName": "拍立得",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Ektachrome",
+    "langName": "柯达 Ektachrome",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Fujifilm Superia",
+    "langName": "富士胶片",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Ilford HP5",
+    "langName": "伊尔福 HP5",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Kodak Ektar",
+    "langName": "柯达 Ektar",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Kodak Gold 200",
+    "langName": "柯达金 200",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Kodak Portra",
+    "langName": "柯达 Portra",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Lomo",
+    "langName": "Lomo",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Nikon D750",
+    "langName": "尼康 D750",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Provia",
+    "langName": "富士 Provia",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Shot on 70mm",
+    "langName": "70 毫米胶片拍摄",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Velvia",
+    "langName": "富士 Velvia",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Vintage",
+    "langName": "复古拍摄",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Pinhole Photography",
+    "langName": "针孔摄影",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Photogram",
+    "langName": "相片",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Daguerrotype",
+    "langName": "达盖尔银版",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Ambrotype",
+    "langName": "旧式照相",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Calotype",
+    "langName": "光力摄影法",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Tintype",
+    "langName": "锡版摄影",
+    "object": "摄影",
+    "attribute": "电影类型"
+  },
+  {
+    "displayName": "Lens Flare",
+    "langName": "逆光",
+    "object": "摄影",
+    "attribute": "其他摄影形式"
+  },
+  {
+    "displayName": "Vignette",
+    "langName": "晕影",
+    "object": "摄影",
+    "attribute": "其他摄影形式"
+  },
+  {
+    "displayName": "Split Toning",
+    "langName": "分离调色",
+    "object": "摄影",
+    "attribute": "其他摄影形式"
+  },
+  {
+    "displayName": "Rephotography",
+    "langName": "重摄影",
+    "object": "摄影",
+    "attribute": "其他摄影形式"
+  },
+  {
+    "displayName": "Scanography",
+    "langName": "扫描摄影",
+    "object": "摄影",
+    "attribute": "其他摄影形式"
+  },
+  {
+    "displayName": "Slit-Scan Photography",
+    "langName": "狭缝扫描摄影",
+    "object": "摄影",
+    "attribute": "其他摄影形式"
+  },
+  {
+    "displayName": "Unary",
+    "langName": "一元",
+    "object": "摄影",
+    "attribute": "数字系统"
+  },
+  {
+    "displayName": "Binary",
+    "langName": "二进制",
+    "object": "摄影",
+    "attribute": "数字系统"
+  },
+  {
+    "displayName": "Ternary",
+    "langName": "三进制",
+    "object": "摄影",
+    "attribute": "数字系统"
+  },
+  {
+    "displayName": "Quaternary",
+    "langName": "四进制",
+    "object": "摄影",
+    "attribute": "数字系统"
+  },
+  {
+    "displayName": "Quinary",
+    "langName": "五进制",
+    "object": "摄影",
+    "attribute": "数字系统"
+  },
+  {
+    "displayName": "Senary",
+    "langName": "六进制",
+    "object": "摄影",
+    "attribute": "数字系统"
+  },
+  {
+    "displayName": "Septenary",
+    "langName": "七进制",
+    "object": "摄影",
+    "attribute": "数字系统"
+  },
+  {
+    "displayName": "Octal",
+    "langName": "八进制",
+    "object": "摄影",
+    "attribute": "数字系统"
+  },
+  {
+    "displayName": "Nonary",
+    "langName": "九进制",
+    "object": "摄影",
+    "attribute": "数字系统"
+  },
+  {
+    "displayName": "Decimal",
+    "langName": "十进制",
+    "object": "摄影",
+    "attribute": "数字系统"
+  },
+  {
+    "displayName": "Hexadecimal",
+    "langName": "十六进制",
+    "object": "摄影",
+    "attribute": "数字系统"
+  },
+  {
+    "displayName": "Frontlight",
+    "langName": "顶光",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Halfrear Lighting",
+    "langName": "半侧背光",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Backlight",
+    "langName": "背光",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Rim Lights",
+    "langName": "轮廓灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Rim Lighting",
+    "langName": "轮廓光",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Floodlight",
+    "langName": "泛光灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "LED light",
+    "langName": "LED 灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Spotlight",
+    "langName": "聚光灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Marquee",
+    "langName": "跑马灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Strobe",
+    "langName": "闪光灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Strobe Light",
+    "langName": "闪光灯光",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Stroboscope",
+    "langName": "频闪灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Bright",
+    "langName": "明亮的",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Ultrabright",
+    "langName": "超亮",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Crepuscular Rays",
+    "langName": "昏暗光线",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Rays of Shimmering Light",
+    "langName": "闪烁光线",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Artificial Lighting",
+    "langName": "人工照明",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Natural Lighting",
+    "langName": "自然采光",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Sunlight",
+    "langName": "阳光",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Incandescent",
+    "langName": "白炽灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Fluorescent",
+    "langName": "荧光的",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Fluorescent Lamp",
+    "langName": "日光灯管",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Glow Stick",
+    "langName": "荧光棒",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Plasma Globe",
+    "langName": "等离子球",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Tesla Coil",
+    "langName": "特斯拉线圈",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Electric Arc",
+    "langName": "电弧",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Crackle Tube",
+    "langName": "火花管",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Edison Bulb",
+    "langName": "爱迪生灯泡",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Vacuum Tube Lamp",
+    "langName": "真空管灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Nixie Tube",
+    "langName": "辉光管",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Halogen",
+    "langName": "卤素",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Halogen Lamp",
+    "langName": "卤素灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Neon Lamp",
+    "langName": "霓虹灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Xenon Lamp",
+    "langName": "氙气灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Krypton Lamp",
+    "langName": "氪气灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Argon Lamp",
+    "langName": "氩气灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Helium Lamp",
+    "langName": "氦气灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Carbide Lamp",
+    "langName": "碳化钙灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Argand Lamp",
+    "langName": "阿尔干灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Diya Lamp",
+    "langName": "酥油灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Lantern",
+    "langName": "灯笼",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Schwarz Lantern",
+    "langName": "黑兰特灯笼",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Nightlight",
+    "langName": "小夜灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Christmas Lights",
+    "langName": "圣诞彩灯",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Optical Fiber",
+    "langName": "光纤",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Electroluminescent Wire",
+    "langName": "发光导线",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Laser",
+    "langName": "激光",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Flare",
+    "langName": "耀斑",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Electromagnetic Spectrum",
+    "langName": "电磁频谱",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Infrared",
+    "langName": "红外线的",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "Ultraviolet",
+    "langName": "紫外线",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "UV",
+    "langName": "UV",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "X-Ray",
+    "langName": "X 射线",
+    "object": "光线/灯光",
+    "attribute": "照明"
+  },
+  {
+    "displayName": "CRT",
+    "langName": "阴极射线管",
+    "object": "光线/灯光",
+    "attribute": "显示器"
+  },
+  {
+    "displayName": "LCD",
+    "langName": "液晶显示器",
+    "object": "光线/灯光",
+    "attribute": "显示器"
+  },
+  {
+    "displayName": "LED",
+    "langName": "LED 显示器",
+    "object": "光线/灯光",
+    "attribute": "显示器"
+  },
+  {
+    "displayName": "OLED",
+    "langName": "OLED 显示器",
+    "object": "光线/灯光",
+    "attribute": "显示器"
+  },
+  {
+    "displayName": "AMOLED",
+    "langName": "AMOLED 显示器",
+    "object": "光线/灯光",
+    "attribute": "显示器"
+  },
+  {
+    "displayName": "7 Segment Display",
+    "langName": "七段显示器",
+    "object": "光线/灯光",
+    "attribute": "显示器"
+  },
+  {
+    "displayName": "Dot Matrix Display",
+    "langName": "点阵显示器",
+    "object": "光线/灯光",
+    "attribute": "显示器"
+  },
+  {
+    "displayName": "Electroluminescent Display",
+    "langName": "电致发光显示器",
+    "object": "光线/灯光",
+    "attribute": "显示器"
+  },
+  {
+    "displayName": "Vacuum Fluorescent Display",
+    "langName": "真空荧光显示器",
+    "object": "光线/灯光",
+    "attribute": "显示器"
+  },
+  {
+    "displayName": "Phosphor Display",
+    "langName": "荧光显示器",
+    "object": "光线/灯光",
+    "attribute": "显示器"
+  },
+  {
+    "displayName": "Plasma Display",
+    "langName": "等离子显示器",
+    "object": "光线/灯光",
+    "attribute": "显示器"
+  },
+  {
+    "displayName": "Quantum Dot",
+    "langName": "量子点",
+    "object": "光线/灯光",
+    "attribute": "显示器"
+  },
+  {
+    "displayName": "Quantum Dot Display",
+    "langName": "量子点显示器",
+    "object": "光线/灯光",
+    "attribute": "显示器"
+  },
+  {
+    "displayName": "Moody Lighting",
+    "langName": "情感光线",
+    "object": "光线/灯光",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Cinematic Lighting",
+    "langName": "电影灯光",
+    "object": "光线/灯光",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Studio Lighting",
+    "langName": "摄影棚灯光",
+    "object": "光线/灯光",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Soft Lighting",
+    "langName": "柔光",
+    "object": "光线/灯光",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Hard Lighting",
+    "langName": "强光",
+    "object": "光线/灯光",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "volumetric Light",
+    "langName": "体积光",
+    "object": "光线/灯光",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Volumetric Lighting",
+    "langName": "体积光照",
+    "object": "光线/灯光",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Volumetric",
+    "langName": "容积式",
+    "object": "光线/灯光",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Contre-Jour",
+    "langName": "反白日",
+    "object": "光线/灯光",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Rembrandt Lighting",
+    "langName": "伦勃朗灯光",
+    "object": "光线/灯光",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Split Lighting",
+    "langName": "分体照明",
+    "object": "光线/灯光",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Beautiful Lighting",
+    "langName": "美丽的灯光",
+    "object": "光线/灯光",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Accent Lighting",
+    "langName": "重点照明",
+    "object": "光线/灯光",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Global Illumination",
+    "langName": "全局光照",
+    "object": "光线/灯光",
+    "attribute": "全局照明"
+  },
+  {
+    "displayName": "Lumen Global Illumination",
+    "langName": "流明全局照明",
+    "object": "光线/灯光",
+    "attribute": "全局照明"
+  },
+  {
+    "displayName": "Screen Space Global Illumination",
+    "langName": "屏幕空间全局光照",
+    "object": "光线/灯光",
+    "attribute": "全局照明"
+  },
+  {
+    "displayName": "Ray Tracing Global Illumination",
+    "langName": "光线追踪全局光照",
+    "object": "光线/灯光",
+    "attribute": "全局照明"
+  },
+  {
+    "displayName": "yellow color scheme",
+    "langName": "黄色主色调",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Warm Color Palette",
+    "langName": "暖色调",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Cool Color Palette",
+    "langName": "冷色调",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Colorful",
+    "langName": "丰富多彩的",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Rainbow",
+    "langName": "彩虹",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Spectral Color",
+    "langName": "光谱颜色",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Inverted Colors",
+    "langName": "反色",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Chroma",
+    "langName": "色度",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Dichromatism",
+    "langName": "双色性",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Tetrachromacy",
+    "langName": "四色视觉",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Saturated",
+    "langName": "饱和",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Neon",
+    "langName": "霓虹",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Electric Colors",
+    "langName": "电子色",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Tonal Colors",
+    "langName": "色调颜色",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Vivid Colors",
+    "langName": "艳丽色彩",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Complimentary-Colors",
+    "langName": "互补色",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Split-Complementary-Colors",
+    "langName": "分裂互补色",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Supplementary-Colors",
+    "langName": "补充色",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Analogous-Colors",
+    "langName": "相似色",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Triadic-Colors",
+    "langName": "三元色",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Tetradic-Colors",
+    "langName": "四色（矩形配色）",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Polychromatic-Colors",
+    "langName": "多色彩",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Light",
+    "langName": "明亮",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Dark",
+    "langName": "黑暗",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Light Mode",
+    "langName": "浅色模式",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Dark Mode",
+    "langName": "深色模式",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Tones of Black",
+    "langName": "黑色调",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Tones of Black in Background",
+    "langName": "背景黑色调",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Light Blue Background",
+    "langName": "浅蓝色背景",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Light Blue Foreground",
+    "langName": "浅蓝色前景",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Light Blue",
+    "langName": "浅蓝色",
+    "object": "颜色",
+    "attribute": "彩色调色板"
+  },
+  {
+    "displayName": "Monochrome",
+    "langName": "单色",
+    "object": "颜色",
+    "attribute": "单色调色板"
+  },
+  {
+    "displayName": "Black and White",
+    "langName": "黑白",
+    "object": "颜色",
+    "attribute": "单色调色板"
+  },
+  {
+    "displayName": "Desaturated",
+    "langName": "去饱和",
+    "object": "颜色",
+    "attribute": "单色调色板"
+  },
+  {
+    "displayName": "Sepia",
+    "langName": "棕褐色",
+    "object": "颜色",
+    "attribute": "单色调色板"
+  },
+  {
+    "displayName": "High Contrast",
+    "langName": "高对比度",
+    "object": "颜色",
+    "attribute": "对比度"
+  },
+  {
+    "displayName": "Low Contrast",
+    "langName": "低对比度",
+    "object": "颜色",
+    "attribute": "对比度"
+  },
+  {
+    "displayName": "RGB",
+    "langName": "红绿蓝",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "CMYK",
+    "langName": "CMYK",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "VGA",
+    "langName": "VGA",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "EGA",
+    "langName": "EGA",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "CGA",
+    "langName": "CGA",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "HDR",
+    "langName": "HDR",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "Atari Graphics",
+    "langName": "雅达利图形",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "IIGS Graphics",
+    "langName": "IIGS 图形",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "Amiga OCS Graphics",
+    "langName": "Amiga OCS 图形",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "sRGB",
+    "langName": "sRGB",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "Adobe RGB",
+    "langName": "Adobe RGB",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "DCI-P3",
+    "langName": "DCI-P3",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "HSV",
+    "langName": "色相、饱和度、明度",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "HSL",
+    "langName": "色相、饱和度、亮度",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "HCL",
+    "langName": "色相、色度、照度",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "YCbCr",
+    "langName": "YCbCr",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "YPbPr",
+    "langName": "YPbPr",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "scRGB",
+    "langName": "单色 RGB",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "Coloroid",
+    "langName": "Coloroid",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "Pantone",
+    "langName": "潘通",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "ProPhoto RGB",
+    "langName": "ProPhoto RGB",
+    "object": "颜色",
+    "attribute": "显示器调色板"
+  },
+  {
+    "displayName": "1-bit",
+    "langName": "1 位",
+    "object": "颜色",
+    "attribute": "Bit"
+  },
+  {
+    "displayName": "2-bit",
+    "langName": "2 位",
+    "object": "颜色",
+    "attribute": "Bit"
+  },
+  {
+    "displayName": "3-bit",
+    "langName": "3 位",
+    "object": "颜色",
+    "attribute": "Bit"
+  },
+  {
+    "displayName": "4-bit",
+    "langName": "4 位",
+    "object": "颜色",
+    "attribute": "Bit"
+  },
+  {
+    "displayName": "6-bit",
+    "langName": "6 位",
+    "object": "颜色",
+    "attribute": "Bit"
+  },
+  {
+    "displayName": "8-bit",
+    "langName": "8 位",
+    "object": "颜色",
+    "attribute": "Bit"
+  },
+  {
+    "displayName": "12-bit",
+    "langName": "12 位",
+    "object": "颜色",
+    "attribute": "Bit"
+  },
+  {
+    "displayName": "16-bit",
+    "langName": "16 位",
+    "object": "颜色",
+    "attribute": "Bit"
+  },
+  {
+    "displayName": "4-bit RGB",
+    "langName": "4 位 RGB",
+    "object": "颜色",
+    "attribute": "Bit"
+  },
+  {
+    "displayName": "8-bit RGB",
+    "langName": "8 位 RGB",
+    "object": "颜色",
+    "attribute": "Bit"
+  },
+  {
+    "displayName": "12-bit RGB",
+    "langName": "12 位 RGB",
+    "object": "颜色",
+    "attribute": "Bit"
+  },
+  {
+    "displayName": "16-bit RGB",
+    "langName": "16 位 RGB",
+    "object": "颜色",
+    "attribute": "Bit"
+  },
+  {
+    "displayName": "Technicolor",
+    "langName": "技术色彩",
+    "object": "颜色",
+    "attribute": "电影制作"
+  },
+  {
+    "displayName": "Kinemacolor",
+    "langName": "电影色彩",
+    "object": "颜色",
+    "attribute": "电影制作"
+  },
+  {
+    "displayName": "Kodachrome",
+    "langName": "柯达彩",
+    "object": "颜色",
+    "attribute": "电影制作"
+  },
+  {
+    "displayName": "Cinecolor",
+    "langName": "电影色",
+    "object": "颜色",
+    "attribute": "电影制作"
+  },
+  {
+    "displayName": "Agfacolor",
+    "langName": "爱克发彩",
+    "object": "颜色",
+    "attribute": "电影制作"
+  },
+  {
+    "displayName": "Transparent",
+    "langName": "透明",
+    "object": "素材",
+    "attribute": "不透明度"
+  },
+  {
+    "displayName": "Translucent",
+    "langName": "半透明",
+    "object": "素材",
+    "attribute": "不透明度"
+  },
+  {
+    "displayName": "Opaque",
+    "langName": "不透明",
+    "object": "素材",
+    "attribute": "不透明度"
+  },
+  {
+    "displayName": "Optics",
+    "langName": "光学",
+    "object": "素材",
+    "attribute": "光"
+  },
+  {
+    "displayName": "Materiality",
+    "langName": "材质性",
+    "object": "素材",
+    "attribute": "光"
+  },
+  {
+    "displayName": "Ambient Occlusion",
+    "langName": "环境光遮蔽",
+    "object": "素材",
+    "attribute": "光"
+  },
+  {
+    "displayName": "Scattering",
+    "langName": "散射",
+    "object": "素材",
+    "attribute": "光"
+  },
+  {
+    "displayName": "Glowing",
+    "langName": "发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Glow-In-The-Dark",
+    "langName": "夜光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Bioluminescence",
+    "langName": "生物发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Photoluminescence",
+    "langName": "光致发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Chemiluminescence",
+    "langName": "化学发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Cathodoluminescence",
+    "langName": "阴极发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Electroluminescence",
+    "langName": "电致发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Radioluminescence",
+    "langName": "放射发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Fluorescence",
+    "langName": "荧光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Phosphorescence",
+    "langName": "磷光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Thermoluminescence",
+    "langName": "热发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Electrochemiluminescence",
+    "langName": "电化学发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Crystalloluminescence",
+    "langName": "晶体发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Piezoluminescence",
+    "langName": "压电发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Triboluminescence",
+    "langName": "摩擦发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Mechanoluminescence",
+    "langName": "机械发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Lyoluminescence",
+    "langName": "光致发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Candoluminescence",
+    "langName": "烛光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Fractoluminescence",
+    "langName": "碎片发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Sonoluminescence",
+    "langName": "声致发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Translucidluminescence",
+    "langName": "半透明发光",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Shadows",
+    "langName": "阴影",
+    "object": "素材",
+    "attribute": "发光"
+  },
+  {
+    "displayName": "Rough",
+    "langName": "粗糙的",
+    "object": "素材",
+    "attribute": "反射和折射"
+  },
+  {
+    "displayName": "Matte",
+    "langName": "哑光的",
+    "object": "素材",
+    "attribute": "反射和折射"
+  },
+  {
+    "displayName": "Glossy",
+    "langName": "光泽",
+    "object": "素材",
+    "attribute": "反射和折射"
+  },
+  {
+    "displayName": "smooth",
+    "langName": "光滑的",
+    "object": "素材",
+    "attribute": "反射和折射"
+  },
+  {
+    "displayName": "Shiny",
+    "langName": "闪亮的",
+    "object": "素材",
+    "attribute": "反射和折射"
+  },
+  {
+    "displayName": "Reflective",
+    "langName": "反光",
+    "object": "素材",
+    "attribute": "反射和折射"
+  },
+  {
+    "displayName": "Polished",
+    "langName": "抛光",
+    "object": "素材",
+    "attribute": "反射和折射"
+  },
+  {
+    "displayName": "Caustics",
+    "langName": "焦散",
+    "object": "素材",
+    "attribute": "反射和折射"
+  },
+  {
+    "displayName": "Refractive",
+    "langName": "折射",
+    "object": "素材",
+    "attribute": "反射和折射"
+  },
+  {
+    "displayName": "Shimmer",
+    "langName": "微光",
+    "object": "素材",
+    "attribute": "反射和折射"
+  },
+  {
+    "displayName": "Shimmering",
+    "langName": "闪闪发光",
+    "object": "素材",
+    "attribute": "反射和折射"
+  },
+  {
+    "displayName": "Iridescent",
+    "langName": "异彩",
+    "object": "素材",
+    "attribute": "颜色"
+  },
+  {
+    "displayName": "Dispersion",
+    "langName": "色散",
+    "object": "素材",
+    "attribute": "颜色"
+  },
+  {
+    "displayName": "Chromatic",
+    "langName": "色度",
+    "object": "素材",
+    "attribute": "颜色"
+  },
+  {
+    "displayName": "Prismatic",
+    "langName": "棱镜",
+    "object": "素材",
+    "attribute": "颜色"
+  },
+  {
+    "displayName": "Bump Map",
+    "langName": "凹凸贴图",
+    "object": "素材",
+    "attribute": "地图"
+  },
+  {
+    "displayName": "Bump Mapped",
+    "langName": "带凹凸贴图",
+    "object": "素材",
+    "attribute": "地图"
+  },
+  {
+    "displayName": "Bump Mapping",
+    "langName": "凹凸映射",
+    "object": "素材",
+    "attribute": "地图"
+  },
+  {
+    "displayName": "Normal Map",
+    "langName": "法线贴图",
+    "object": "素材",
+    "attribute": "地图"
+  },
+  {
+    "displayName": "Depth Map",
+    "langName": "深度图",
+    "object": "素材",
+    "attribute": "地图"
+  },
+  {
+    "displayName": "Soft Body",
+    "langName": "软体",
+    "object": "素材",
+    "attribute": "柔体"
+  },
+  {
+    "displayName": "Squishy",
+    "langName": "松软的",
+    "object": "素材",
+    "attribute": "柔体"
+  },
+  {
+    "displayName": "Anisotropy",
+    "langName": "各向异性",
+    "object": "素材",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Carbonated",
+    "langName": "碳酸的",
+    "object": "素材",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Effervescent",
+    "langName": "起泡",
+    "object": "素材",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Icy",
+    "langName": "冰冷的",
+    "object": "素材",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Charred",
+    "langName": "炭化",
+    "object": "素材",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Corrugated",
+    "langName": "起皱的",
+    "object": "素材",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Perforated",
+    "langName": "穿孔",
+    "object": "素材",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Wooden",
+    "langName": "木质",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Lumber",
+    "langName": "木材",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Plywood",
+    "langName": "胶合板",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Particle-Board",
+    "langName": "刨花板",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Sawdust",
+    "langName": "锯末",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Cork",
+    "langName": "软木",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Cherry-Wood",
+    "langName": "樱桃木",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Maple-Wood",
+    "langName": "枫木",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Pine-Wood",
+    "langName": "松林",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Oak-Wood",
+    "langName": "橡木",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Birch-Wood",
+    "langName": "桦木",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Acacia-Wood",
+    "langName": "相思木",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Cedar-Wood",
+    "langName": "雪松木",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Wood-Stain",
+    "langName": "木材染色",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Planks",
+    "langName": "木板",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Wooden Planks",
+    "langName": "木质板",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Nailed-Wood",
+    "langName": "钉木",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Wooden Fence",
+    "langName": "木栅栏",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Cardboard",
+    "langName": "硬纸板",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Corrugated Fiberboard",
+    "langName": "瓦楞纸板",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Paperboard",
+    "langName": "纸板",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Cardstock",
+    "langName": "卡纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Paper",
+    "langName": "纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Construction Paper",
+    "langName": "施工图纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Tissue Paper",
+    "langName": "卫生纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Graph Paper",
+    "langName": "方格纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Kraft Paper",
+    "langName": "牛皮纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Washi",
+    "langName": "和纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Wasli",
+    "langName": "瓦斯里纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Papyrus",
+    "langName": "莎草纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Manuscript Paper",
+    "langName": "手稿纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Wrapping Paper",
+    "langName": "包装纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Parchment",
+    "langName": "羊皮纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Parchment Paper",
+    "langName": "烤肉纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Medieval Parchment",
+    "langName": "中世纪的羊皮纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Toilet Paper",
+    "langName": "卫生纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Paper Towel",
+    "langName": "纸巾",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Manila Paper",
+    "langName": "马尼拉纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Manila Folder",
+    "langName": "马尼拉文件夹",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Envelope",
+    "langName": "信封",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Security Paper",
+    "langName": "防伪纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Rolling Paper",
+    "langName": "卷烟纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Cotton Paper",
+    "langName": "棉纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Hemp Fiber",
+    "langName": "麻纤维",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Hemp Paper",
+    "langName": "麻纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Cellulose",
+    "langName": "纤维素",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Plastic-Coated Paper",
+    "langName": "塑料涂层纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Tar Paper",
+    "langName": "沥青纸",
+    "object": "素材",
+    "attribute": "木材和纸张"
+  },
+  {
+    "displayName": "Soil",
+    "langName": "土壤",
+    "object": "素材",
+    "attribute": "土壤"
+  },
+  {
+    "displayName": "Dirt",
+    "langName": "尘土",
+    "object": "素材",
+    "attribute": "土壤"
+  },
+  {
+    "displayName": "Mud",
+    "langName": "泥浆",
+    "object": "素材",
+    "attribute": "土壤"
+  },
+  {
+    "displayName": "Mud Brick",
+    "langName": "泥砖",
+    "object": "素材",
+    "attribute": "土壤"
+  },
+  {
+    "displayName": "Clay",
+    "langName": "黏土",
+    "object": "素材",
+    "attribute": "土壤"
+  },
+  {
+    "displayName": "Sand",
+    "langName": "沙子",
+    "object": "素材",
+    "attribute": "土壤"
+  },
+  {
+    "displayName": "Gravel",
+    "langName": "碎石",
+    "object": "素材",
+    "attribute": "土壤"
+  },
+  {
+    "displayName": "Silt",
+    "langName": "淤泥",
+    "object": "素材",
+    "attribute": "土壤"
+  },
+  {
+    "displayName": "Dust",
+    "langName": "灰尘",
+    "object": "素材",
+    "attribute": "土壤"
+  },
+  {
+    "displayName": "Spodosol",
+    "langName": "针叶林土",
+    "object": "素材",
+    "attribute": "土壤"
+  },
+  {
+    "displayName": "Podzol",
+    "langName": "针叶林土壤",
+    "object": "素材",
+    "attribute": "土壤"
+  },
+  {
+    "displayName": "Sandpaper",
+    "langName": "砂纸",
+    "object": "素材",
+    "attribute": "土壤"
+  },
+  {
+    "displayName": "Stone",
+    "langName": "石头",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Cobblestone",
+    "langName": "鹅卵石",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Pebbles",
+    "langName": "卵石",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Rock",
+    "langName": "岩石",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Rocky",
+    "langName": "多岩",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Bedrock",
+    "langName": "基岩",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Flint",
+    "langName": "燧石",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Sandstone",
+    "langName": "砂岩",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Basalt",
+    "langName": "玄武岩",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Marble",
+    "langName": "大理石",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Granite",
+    "langName": "花岗岩",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Diorite",
+    "langName": "闪长岩",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Andesite",
+    "langName": "安山岩",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Gypsum",
+    "langName": "石膏",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Coal",
+    "langName": "煤炭",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Sulfur",
+    "langName": "硫黄",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Graphene",
+    "langName": "石墨烯",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Carbon Nanotubes",
+    "langName": "碳纳米管",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Carbon Fiber",
+    "langName": "碳纤维",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Concrete",
+    "langName": "混凝土",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Sidewalk",
+    "langName": "人行道",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Asphalt",
+    "langName": "沥青",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Road",
+    "langName": "道路",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Hempcrete",
+    "langName": "麻絮混凝土",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Brick",
+    "langName": "砖",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Terracotta",
+    "langName": "红陶土",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Pottery",
+    "langName": "陶器",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Ceramic",
+    "langName": "陶瓷制品",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Enamel",
+    "langName": "搪瓷",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Tile",
+    "langName": "瓷砖",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Sheetrock",
+    "langName": "石膏板",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Plaster",
+    "langName": "灰泥",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Asbestos",
+    "langName": "石棉",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Slag",
+    "langName": "矿渣",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Vermiculite",
+    "langName": "蛭石",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Perlite",
+    "langName": "珍珠岩",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Borax",
+    "langName": "硼砂",
+    "object": "素材",
+    "attribute": "石头和矿物"
+  },
+  {
+    "displayName": "Metallic",
+    "langName": "金属质的",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Metal",
+    "langName": "金属",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Liquid Metal",
+    "langName": "液态金属",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Foil",
+    "langName": "箔",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Rusty",
+    "langName": "生锈的",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Pewter",
+    "langName": "白镴",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Copper",
+    "langName": "铜",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Tin",
+    "langName": "锡",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Aluminum",
+    "langName": "铝",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Brushed Aluminum",
+    "langName": "拉丝铝",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Bronze",
+    "langName": "青铜",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Brass",
+    "langName": "黄铜",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Iron",
+    "langName": "铁",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Wrought Iron",
+    "langName": "锻铁",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Steel",
+    "langName": "钢",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Stainless Steel",
+    "langName": "不锈钢",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Damascus Steel",
+    "langName": "大马士革钢",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Titanium",
+    "langName": "钛",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Anodized Titanium",
+    "langName": "阳极氧化钛",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Damascus Titanium",
+    "langName": "大马士革钛",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Silver",
+    "langName": "银",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Sterling Silver",
+    "langName": "纯银",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Sterling",
+    "langName": "标准银",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Gold",
+    "langName": "金子",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Rose-Gold",
+    "langName": "玫瑰金",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Platinum",
+    "langName": "铂",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Chromium",
+    "langName": "铬",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Chrome",
+    "langName": "镀铬",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Mercury",
+    "langName": "汞",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Mercury Metal",
+    "langName": "汞金属",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Molten Mercury",
+    "langName": "熔融水银",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Molten Mercury Metal",
+    "langName": "熔融汞金属",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Gallium",
+    "langName": "镓",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Magnesium",
+    "langName": "镁",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Zinc",
+    "langName": "锌",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Lead",
+    "langName": "铅",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Tungsten",
+    "langName": "钨",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Zirconium",
+    "langName": "锆",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Cubic Zirconium",
+    "langName": "立方锆石",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Cobalt",
+    "langName": "钴",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Uranium",
+    "langName": "铀",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Sodium",
+    "langName": "钠",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Potassium",
+    "langName": "钾",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Constantan",
+    "langName": "康铜",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Hepatizon",
+    "langName": "赫帕铜",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Nichrome",
+    "langName": "镍铬合金",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Damascus",
+    "langName": "大马士革",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Iron Filings",
+    "langName": "铁屑",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Copper-Sulfate",
+    "langName": "硫酸铜",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Solder",
+    "langName": "焊锡",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Metallic Fiber",
+    "langName": "金属纤维",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Armature Wire",
+    "langName": "铠装线",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Metal Foam",
+    "langName": "金属泡沫",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Needle",
+    "langName": "针",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Screw",
+    "langName": "螺丝",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Nail",
+    "langName": "钉子",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Paper Clips",
+    "langName": "回形针",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Chain",
+    "langName": "链",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Chain-link",
+    "langName": "链条",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Fence",
+    "langName": "围栏",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Chicken Wire",
+    "langName": "铁丝网",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Chain-link Fence",
+    "langName": "链式围栏",
+    "object": "素材",
+    "attribute": "金属"
+  },
+  {
+    "displayName": "Glassy",
+    "langName": "玻璃质",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Stained Glass",
+    "langName": "彩绘玻璃",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Stained Glass Windows",
+    "langName": "彩色玻璃窗",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Seaglass",
+    "langName": "海玻璃",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Mirror",
+    "langName": "镜子",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Fiberglass",
+    "langName": "玻璃纤维",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Glass Fiber",
+    "langName": "玻璃纤维",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Glass and Crystals",
+    "langName": "玻璃和水晶",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Crystalline",
+    "langName": "晶体",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Diamond",
+    "langName": "钻石",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Amethyst",
+    "langName": "紫晶",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Quartz",
+    "langName": "石英",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Smoky Quartz",
+    "langName": "烟熏石英",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Rose Quartz",
+    "langName": "玫瑰石英",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Milky Quartz",
+    "langName": "乳白石英",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Rutilated Quartz",
+    "langName": "钛晶石英",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Sceptred Quartz",
+    "langName": "节晶石英",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Herkimer Diamond",
+    "langName": "赫基默钻石",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Ruby",
+    "langName": "红宝石",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Sapphire",
+    "langName": "蓝宝石",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Emerald",
+    "langName": "祖母绿",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Pearl",
+    "langName": "珍珠",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Citrine",
+    "langName": "黄水晶",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Fluorite",
+    "langName": "萤石",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Onyx",
+    "langName": "玛瑙",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Lapis Lazuli",
+    "langName": "青金石",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Obsidian",
+    "langName": "黑曜石",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Selenite",
+    "langName": "透明石膏",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Jasper",
+    "langName": "红玉髓",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Opal",
+    "langName": "蛋白石",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Opalite",
+    "langName": "蛋白石玛瑙",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Topaz",
+    "langName": "黄玉",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Agate",
+    "langName": "玛瑙",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Carnelian",
+    "langName": "红玛瑙",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Ametrine",
+    "langName": "紫黄晶",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Aventurine",
+    "langName": "绿碧玺",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Borax Crystals",
+    "langName": "硼砂晶体",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Jewelry",
+    "langName": "珠宝",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Colloidal Crystal",
+    "langName": "胶体晶体",
+    "object": "素材",
+    "attribute": "玻璃和水晶"
+  },
+  {
+    "displayName": "Cloth",
+    "langName": "布料",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Cotton",
+    "langName": "棉布",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Polyester",
+    "langName": "聚酯纤维",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Twine",
+    "langName": "麻线",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Silk",
+    "langName": "丝绸",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Denim",
+    "langName": "牛仔布",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Jeans",
+    "langName": "牛仔裤",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Khaki",
+    "langName": "卡其布",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Leather",
+    "langName": "皮革",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Felt",
+    "langName": "毛毡",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Felt Cloth",
+    "langName": "毛毡布",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Cashmere",
+    "langName": "羊绒",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Linen",
+    "langName": "亚麻布",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Velvet",
+    "langName": "天鹅绒",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Corduroy",
+    "langName": "灯心绒",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Nylon",
+    "langName": "尼龙",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Polyamide",
+    "langName": "聚酰胺",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Kevlar",
+    "langName": "芳纶",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Spandex",
+    "langName": "氨纶",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Rayon",
+    "langName": "人造丝",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Microfiber",
+    "langName": "超细纤维",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Fibers",
+    "langName": "纤维",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Lyocell",
+    "langName": "莱赛尔",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Cordura",
+    "langName": "考杜拉",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Lurex",
+    "langName": "金银丝",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Nomex",
+    "langName": "诺梅克斯",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Quilt",
+    "langName": "被子",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Memory Foam",
+    "langName": "记忆泡沫",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Lint",
+    "langName": "皮棉",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Blanket",
+    "langName": "毯子",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Pillow",
+    "langName": "枕头",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Cushion",
+    "langName": "软垫",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Pin Cushion",
+    "langName": "针垫",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Yarn",
+    "langName": "纱线",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Knitted",
+    "langName": "针织的",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Rug",
+    "langName": "小地毯",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Carpet",
+    "langName": "地毯",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Crochet",
+    "langName": "钩针",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Cross Stich",
+    "langName": "十字绣",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Needle Point",
+    "langName": "针织",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Patch",
+    "langName": "补丁",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Sewen",
+    "langName": "缝制",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Sewing",
+    "langName": "缝纫",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Applique",
+    "langName": "贴花",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Lace",
+    "langName": "蕾丝",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Embroidery",
+    "langName": "刺绣",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Macrame",
+    "langName": "花边",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Weave",
+    "langName": "编织",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Net",
+    "langName": "网",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Netting",
+    "langName": "网布",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Band-Aid",
+    "langName": "创可贴",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Bandage",
+    "langName": "绷带",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Gauze",
+    "langName": "纱布",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Spider Web",
+    "langName": "蜘蛛网",
+    "object": "素材",
+    "attribute": "布料"
+  },
+  {
+    "displayName": "Plastic",
+    "langName": "塑料",
+    "object": "素材",
+    "attribute": "塑料/泡沫膜"
+  },
+  {
+    "displayName": "Shrink Wrap",
+    "langName": "收缩膜",
+    "object": "素材",
+    "attribute": "塑料/泡沫膜"
+  },
+  {
+    "displayName": "Plastic Wrap",
+    "langName": "保鲜膜",
+    "object": "素材",
+    "attribute": "塑料/泡沫膜"
+  },
+  {
+    "displayName": "Cling Wrap",
+    "langName": "粘包装膜",
+    "object": "素材",
+    "attribute": "塑料/泡沫膜"
+  },
+  {
+    "displayName": "Teflon",
+    "langName": "铁氟龙",
+    "object": "素材",
+    "attribute": "塑料/泡沫膜"
+  },
+  {
+    "displayName": "Lego",
+    "langName": "乐高",
+    "object": "素材",
+    "attribute": "塑料/泡沫膜"
+  },
+  {
+    "displayName": "Polyurethane",
+    "langName": "聚氨酯",
+    "object": "素材",
+    "attribute": "塑料/泡沫膜"
+  },
+  {
+    "displayName": "Polyethylene",
+    "langName": "聚乙烯",
+    "object": "素材",
+    "attribute": "塑料/泡沫膜"
+  },
+  {
+    "displayName": "Polyvinyl",
+    "langName": "聚乙烯",
+    "object": "素材",
+    "attribute": "塑料/泡沫膜"
+  },
+  {
+    "displayName": "Polypropylene",
+    "langName": "聚丙烯",
+    "object": "素材",
+    "attribute": "塑料/泡沫膜"
+  },
+  {
+    "displayName": "Polyimide",
+    "langName": "聚酰亚胺",
+    "object": "素材",
+    "attribute": "塑料/泡沫膜"
+  },
+  {
+    "displayName": "Styrofoam",
+    "langName": "保丽龙",
+    "object": "素材",
+    "attribute": "塑料/泡沫膜"
+  },
+  {
+    "displayName": "Foam",
+    "langName": "泡沫",
+    "object": "素材",
+    "attribute": "塑料/泡沫膜"
+  },
+  {
+    "displayName": "Rubber",
+    "langName": "橡胶",
+    "object": "素材",
+    "attribute": "橡胶"
+  },
+  {
+    "displayName": "Rubber Band",
+    "langName": "橡皮筋",
+    "object": "素材",
+    "attribute": "橡胶"
+  },
+  {
+    "displayName": "Rubber Band Ball",
+    "langName": "橡皮筋球",
+    "object": "素材",
+    "attribute": "橡胶"
+  },
+  {
+    "displayName": "Balloon",
+    "langName": "气球",
+    "object": "素材",
+    "attribute": "橡胶"
+  },
+  {
+    "displayName": "Latex",
+    "langName": "乳胶",
+    "object": "素材",
+    "attribute": "橡胶"
+  },
+  {
+    "displayName": "Nitrile",
+    "langName": "丁腈橡胶",
+    "object": "素材",
+    "attribute": "橡胶"
+  },
+  {
+    "displayName": "Silicone",
+    "langName": "硅胶",
+    "object": "素材",
+    "attribute": "橡胶"
+  },
+  {
+    "displayName": "Vinyl",
+    "langName": "乙烯基塑料",
+    "object": "素材",
+    "attribute": "橡胶"
+  },
+  {
+    "displayName": "Linoleum",
+    "langName": "油毡",
+    "object": "素材",
+    "attribute": "橡胶"
+  },
+  {
+    "displayName": "Silly Band",
+    "langName": "橡皮筋",
+    "object": "素材",
+    "attribute": "橡胶"
+  },
+  {
+    "displayName": "Wax",
+    "langName": "蜡",
+    "object": "素材",
+    "attribute": "蜡"
+  },
+  {
+    "displayName": "Wax Paper",
+    "langName": "蜡纸",
+    "object": "素材",
+    "attribute": "蜡"
+  },
+  {
+    "displayName": "Carnauba Wax",
+    "langName": "巴西棕榈蜡",
+    "object": "素材",
+    "attribute": "蜡"
+  },
+  {
+    "displayName": "Candelilla Wax",
+    "langName": "小烛树蜡",
+    "object": "素材",
+    "attribute": "蜡"
+  },
+  {
+    "displayName": "Paraffin Wax",
+    "langName": "石蜡",
+    "object": "素材",
+    "attribute": "蜡"
+  },
+  {
+    "displayName": "Shellac",
+    "langName": "虫胶",
+    "object": "素材",
+    "attribute": "蜡"
+  },
+  {
+    "displayName": "Lipstick",
+    "langName": "口红",
+    "object": "素材",
+    "attribute": "蜡"
+  },
+  {
+    "displayName": "Ice",
+    "langName": "冰",
+    "object": "素材",
+    "attribute": "冰雪"
+  },
+  {
+    "displayName": "Blue-Ice",
+    "langName": "蓝冰",
+    "object": "素材",
+    "attribute": "冰雪"
+  },
+  {
+    "displayName": "Dry Ice",
+    "langName": "干冰",
+    "object": "素材",
+    "attribute": "冰雪"
+  },
+  {
+    "displayName": "Snow",
+    "langName": "雪",
+    "object": "素材",
+    "attribute": "冰雪"
+  },
+  {
+    "displayName": "Snowflake",
+    "langName": "雪花",
+    "object": "素材",
+    "attribute": "冰雪"
+  },
+  {
+    "displayName": "Hairy",
+    "langName": "毛茸茸的",
+    "object": "素材",
+    "attribute": "头发/毛皮"
+  },
+  {
+    "displayName": "Furry",
+    "langName": "毛绒的",
+    "object": "素材",
+    "attribute": "头发/毛皮"
+  },
+  {
+    "displayName": "Fuzz",
+    "langName": "绒毛",
+    "object": "素材",
+    "attribute": "头发/毛皮"
+  },
+  {
+    "displayName": "Beard",
+    "langName": "胡须",
+    "object": "素材",
+    "attribute": "头发/毛皮"
+  },
+  {
+    "displayName": "Mustache",
+    "langName": "八字须",
+    "object": "素材",
+    "attribute": "头发/毛皮"
+  },
+  {
+    "displayName": "Feathers",
+    "langName": "羽毛",
+    "object": "素材",
+    "attribute": "头发/毛皮"
+  },
+  {
+    "displayName": "Zebra",
+    "langName": "斑马",
+    "object": "素材",
+    "attribute": "头发/毛皮"
+  },
+  {
+    "displayName": "Tiger",
+    "langName": "老虎",
+    "object": "素材",
+    "attribute": "头发/毛皮"
+  },
+  {
+    "displayName": "Dust-Bunny",
+    "langName": "灰兔子",
+    "object": "素材",
+    "attribute": "头发/毛皮"
+  },
+  {
+    "displayName": "Liquid",
+    "langName": "液体",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Water",
+    "langName": "水",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Lava",
+    "langName": "岩浆",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Magma",
+    "langName": "熔岩",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Molten Rock",
+    "langName": "熔化岩石",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Ferro Fluid",
+    "langName": "铁磁流体",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Liquid Crystal",
+    "langName": "液晶",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Oil",
+    "langName": "油",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Gasoline",
+    "langName": "汽油",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Turpentine",
+    "langName": "松节油",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Mineral Oil",
+    "langName": "矿物油",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Motor Oil",
+    "langName": "机油",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Sea Foam",
+    "langName": "海沫",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Waterfall",
+    "langName": "瀑布",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "River",
+    "langName": "河流",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Lake",
+    "langName": "湖泊",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Ocean",
+    "langName": "海洋",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Emulsion",
+    "langName": "乳化",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Lipid",
+    "langName": "脂质",
+    "object": "素材",
+    "attribute": "液体"
+  },
+  {
+    "displayName": "Slime",
+    "langName": "粘液",
+    "object": "素材",
+    "attribute": "黏液"
+  },
+  {
+    "displayName": "Flubber",
+    "langName": "弹力布",
+    "object": "素材",
+    "attribute": "黏液"
+  },
+  {
+    "displayName": "Putty",
+    "langName": "密封和填充空隙的黏合剂",
+    "object": "素材",
+    "attribute": "黏液"
+  },
+  {
+    "displayName": "Poster Tack",
+    "langName": "海报胶",
+    "object": "素材",
+    "attribute": "黏液"
+  },
+  {
+    "displayName": "Gel",
+    "langName": "凝胶",
+    "object": "素材",
+    "attribute": "黏稠度"
+  },
+  {
+    "displayName": "Aerogel",
+    "langName": "气凝胶",
+    "object": "素材",
+    "attribute": "黏稠度"
+  },
+  {
+    "displayName": "Softgel",
+    "langName": "软胶囊",
+    "object": "素材",
+    "attribute": "黏稠度"
+  },
+  {
+    "displayName": "Silica Gel",
+    "langName": "硅胶",
+    "object": "素材",
+    "attribute": "黏稠度"
+  },
+  {
+    "displayName": "Ballistic Gel",
+    "langName": "弹道凝胶",
+    "object": "素材",
+    "attribute": "黏稠度"
+  },
+  {
+    "displayName": "Jellyfish",
+    "langName": "海蜇",
+    "object": "素材",
+    "attribute": "黏稠度"
+  },
+  {
+    "displayName": "Ballistic Foam",
+    "langName": "弹道泡沫",
+    "object": "素材",
+    "attribute": "黏稠度"
+  },
+  {
+    "displayName": "Sponge",
+    "langName": "海绵",
+    "object": "素材",
+    "attribute": "黏稠度"
+  },
+  {
+    "displayName": "Spongy",
+    "langName": "海绵状",
+    "object": "素材",
+    "attribute": "黏稠度"
+  },
+  {
+    "displayName": "Tape",
+    "langName": "胶带",
+    "object": "素材",
+    "attribute": "粘合剂"
+  },
+  {
+    "displayName": "Duct Tape",
+    "langName": "胶布",
+    "object": "素材",
+    "attribute": "粘合剂"
+  },
+  {
+    "displayName": "Scotch Tape",
+    "langName": "透明胶",
+    "object": "素材",
+    "attribute": "粘合剂"
+  },
+  {
+    "displayName": "Clear Tape",
+    "langName": "透明胶带",
+    "object": "素材",
+    "attribute": "粘合剂"
+  },
+  {
+    "displayName": "Packing Tape",
+    "langName": "封箱胶带",
+    "object": "素材",
+    "attribute": "粘合剂"
+  },
+  {
+    "displayName": "Masking Tape",
+    "langName": "美纹纸胶带",
+    "object": "素材",
+    "attribute": "粘合剂"
+  },
+  {
+    "displayName": "Kapton",
+    "langName": "卡普顿",
+    "object": "素材",
+    "attribute": "粘合剂"
+  },
+  {
+    "displayName": "Kapton Tape",
+    "langName": "卡普顿胶带",
+    "object": "素材",
+    "attribute": "粘合剂"
+  },
+  {
+    "displayName": "Adhesive",
+    "langName": "粘合剂",
+    "object": "素材",
+    "attribute": "粘合剂"
+  },
+  {
+    "displayName": "Glue",
+    "langName": "胶水",
+    "object": "素材",
+    "attribute": "粘合剂"
+  },
+  {
+    "displayName": "Epoxy",
+    "langName": "环氧树脂",
+    "object": "素材",
+    "attribute": "粘合剂"
+  },
+  {
+    "displayName": "Polymer",
+    "langName": "聚合物",
+    "object": "素材",
+    "attribute": "聚合物"
+  },
+  {
+    "displayName": "Orbeez",
+    "langName": "水珠",
+    "object": "素材",
+    "attribute": "聚合物"
+  },
+  {
+    "displayName": "Oobleck",
+    "langName": "混合淀粉溶液",
+    "object": "素材",
+    "attribute": "聚合物"
+  },
+  {
+    "displayName": "Vapor",
+    "langName": "蒸汽",
+    "object": "素材",
+    "attribute": "气体/粉末"
+  },
+  {
+    "displayName": "Clouds",
+    "langName": "云",
+    "object": "素材",
+    "attribute": "气体/粉末"
+  },
+  {
+    "displayName": "Fog",
+    "langName": "雾",
+    "object": "素材",
+    "attribute": "气体/粉末"
+  },
+  {
+    "displayName": "Mist",
+    "langName": "薄雾",
+    "object": "素材",
+    "attribute": "气体/粉末"
+  },
+  {
+    "displayName": "Gas",
+    "langName": "气体",
+    "object": "素材",
+    "attribute": "气体/粉末"
+  },
+  {
+    "displayName": "Aerosol",
+    "langName": "气溶胶",
+    "object": "素材",
+    "attribute": "气体/粉末"
+  },
+  {
+    "displayName": "Powder",
+    "langName": "粉末",
+    "object": "素材",
+    "attribute": "气体/粉末"
+  },
+  {
+    "displayName": "Smoke",
+    "langName": "烟",
+    "object": "素材",
+    "attribute": "气体/粉末"
+  },
+  {
+    "displayName": "Plasma",
+    "langName": "等离子",
+    "object": "素材",
+    "attribute": "等离子与能源"
+  },
+  {
+    "displayName": "Electric",
+    "langName": "电",
+    "object": "素材",
+    "attribute": "等离子与能源"
+  },
+  {
+    "displayName": "Electricity",
+    "langName": "电力",
+    "object": "素材",
+    "attribute": "等离子与能源"
+  },
+  {
+    "displayName": "Lightning",
+    "langName": "闪电",
+    "object": "素材",
+    "attribute": "等离子与能源"
+  },
+  {
+    "displayName": "Fire",
+    "langName": "火",
+    "object": "素材",
+    "attribute": "等离子与能源"
+  },
+  {
+    "displayName": "Burn",
+    "langName": "燃烧",
+    "object": "素材",
+    "attribute": "等离子与能源"
+  },
+  {
+    "displayName": "Inferno",
+    "langName": "地狱火",
+    "object": "素材",
+    "attribute": "等离子与能源"
+  },
+  {
+    "displayName": "Explosion",
+    "langName": "爆炸",
+    "object": "素材",
+    "attribute": "等离子与能源"
+  },
+  {
+    "displayName": "Firework",
+    "langName": "烟花",
+    "object": "素材",
+    "attribute": "等离子与能源"
+  },
+  {
+    "displayName": "Jelly",
+    "langName": "果冻",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Gelatin",
+    "langName": "明胶",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Agar",
+    "langName": "琼脂",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Wagyu",
+    "langName": "和牛",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Tallow",
+    "langName": "动物脂",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Butter",
+    "langName": "黄油",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Margarine",
+    "langName": "人造黄油",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Cheese",
+    "langName": "奶酪",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Egg",
+    "langName": "蛋",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Egg Yolk",
+    "langName": "蛋黄",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Beans",
+    "langName": "豆子",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Macaroni",
+    "langName": "通心粉",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Marconi and Cheese",
+    "langName": "马克龙奶酪",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Pretzel",
+    "langName": "椒盐脆饼",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Churros",
+    "langName": "油条",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Bread",
+    "langName": "面包",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Made of Bread",
+    "langName": "面包做的",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Cake",
+    "langName": "蛋糕",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Sour Cream",
+    "langName": "酸奶油",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Sauce",
+    "langName": "酱汁",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Pasta Sauce",
+    "langName": "意大利面酱",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Ketchup",
+    "langName": "番茄酱",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Mustard",
+    "langName": "芥末",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Mayonnaise",
+    "langName": "蛋黄酱",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Syrup",
+    "langName": "糖浆",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Maple Syrup",
+    "langName": "枫糖浆",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Cream",
+    "langName": "奶油",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Whipped Cream",
+    "langName": "鲜奶油",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Candy",
+    "langName": "糖果",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Lollipop",
+    "langName": "棒棒糖",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Chocolate",
+    "langName": "巧克力",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Cinnamon",
+    "langName": "肉桂",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Caramel",
+    "langName": "焦糖",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Taffy",
+    "langName": "太妃糖",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Honeycomb",
+    "langName": "蜂巢糖",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Edible Ink",
+    "langName": "食用墨水",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Food Coloring",
+    "langName": "食用色素",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Ice Cream",
+    "langName": "冰淇淋",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Sprinkles",
+    "langName": "糖果碎片",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Fondant Icing",
+    "langName": "翻糖糖衣",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Royal Icing",
+    "langName": "蛋白糖霜",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Wedding Cake",
+    "langName": "婚礼蛋糕",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Cake Decorating",
+    "langName": "蛋糕装饰",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Shortcrust-Pastry",
+    "langName": "酥皮",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Flaky-Pastry",
+    "langName": "千层酥皮",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Puff-Pastry",
+    "langName": "泡芙糕点",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Eclair",
+    "langName": "泡芙",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Cannoli",
+    "langName": "甜甜圈卷",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Fruit-Tart",
+    "langName": "水果挞",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Creme Brule",
+    "langName": "焦糖布丁",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Gum",
+    "langName": "口香糖",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Toothpaste",
+    "langName": "牙膏",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Vegetable Oil",
+    "langName": "植物油",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Olive Oil",
+    "langName": "橄榄油",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Soda",
+    "langName": "苏打水",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Coffee",
+    "langName": "咖啡",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Tea",
+    "langName": "茶",
+    "object": "素材",
+    "attribute": "食品和消耗品"
+  },
+  {
+    "displayName": "Plant",
+    "langName": "植物",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Grass",
+    "langName": "草",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Grassy",
+    "langName": "草地",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Flowers",
+    "langName": "花",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Floral",
+    "langName": "花卉",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Vines",
+    "langName": "藤蔓",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Tree Bark",
+    "langName": "树皮",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Branches",
+    "langName": "树枝",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Leaves",
+    "langName": "树叶",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Pinecone",
+    "langName": "松果",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Acorn",
+    "langName": "橡子",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Moss",
+    "langName": "苔藓",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Bamboo",
+    "langName": "竹子",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Cactus",
+    "langName": "仙人掌",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Straw",
+    "langName": "稻草",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Straw-Bale",
+    "langName": "稻草捆",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Hay",
+    "langName": "干草",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Hay-Bale",
+    "langName": "干草捆",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Hemp",
+    "langName": "麻",
+    "object": "素材",
+    "attribute": "植物"
+  },
+  {
+    "displayName": "Fungi",
+    "langName": "菌类",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Mushrooms",
+    "langName": "蘑菇",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Mycelium",
+    "langName": "菌丝",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Moldy",
+    "langName": "发霉的",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Lactarius-Indigo",
+    "langName": "靛青乳菇",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Latticed-Stinkhorn",
+    "langName": "格子柄灯盏菌",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Clathrus-Ruber",
+    "langName": "红笼菌",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Laccaria-Amethystina",
+    "langName": "紫蘑",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Entoloma-Hochstetteri",
+    "langName": "霍氏粉褶菌",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Clavaria-Zollingeri",
+    "langName": "紫红珊瑚菌",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Chlorociboria",
+    "langName": "青绿木耳",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Golden-Scruffy-Collybia",
+    "langName": "金丝乌鸦脚蘑菇",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Cyptotrama-Asprata",
+    "langName": "隐色锯脚蘑",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Mycena Acicula",
+    "langName": "尖锐鬼笔菌",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Hygrocybe-Cantharellus",
+    "langName": "黄褐红脚灯蘑",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Amanita-Muscaria",
+    "langName": "红白鹅膏菌",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Favolaschia-Calocera",
+    "langName": "红猩猩手指菌",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Marasmius-Haematocephalus",
+    "langName": "红头发菌",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Cystoagaricus-Trisulphuratus",
+    "langName": "三硫囊菇",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Tremella-Mesenterica",
+    "langName": "黄脑菌",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Tremella-Fuciformis",
+    "langName": "银耳",
+    "object": "素材",
+    "attribute": "菌"
+  },
+  {
+    "displayName": "Piano",
+    "langName": "钢琴",
+    "object": "素材",
+    "attribute": "对象"
+  },
+  {
+    "displayName": "Accordion",
+    "langName": "手风琴",
+    "object": "素材",
+    "attribute": "对象"
+  },
+  {
+    "displayName": "Saxophone",
+    "langName": "萨克斯管",
+    "object": "素材",
+    "attribute": "对象"
+  },
+  {
+    "displayName": "Seashell",
+    "langName": "贝壳",
+    "object": "素材",
+    "attribute": "对象"
+  },
+  {
+    "displayName": "Toilet",
+    "langName": "洗手间",
+    "object": "素材",
+    "attribute": "对象"
+  },
+  {
+    "displayName": "Tornado",
+    "langName": "龙卷风",
+    "object": "素材",
+    "attribute": "对象"
+  },
+  {
+    "displayName": "Cage",
+    "langName": "笼子",
+    "object": "素材",
+    "attribute": "对象"
+  },
+  {
+    "displayName": "Cheese Grater",
+    "langName": "奶酪刨丝器",
+    "object": "素材",
+    "attribute": "对象"
+  },
+  {
+    "displayName": "Slinky",
+    "langName": "弹簧玩具",
+    "object": "素材",
+    "attribute": "对象"
+  },
+  {
+    "displayName": "Bracelet",
+    "langName": "手镯",
+    "object": "素材",
+    "attribute": "对象"
+  },
+  {
+    "displayName": "Yin Yang",
+    "langName": "阴阳",
+    "object": "素材",
+    "attribute": "符号"
+  },
+  {
+    "displayName": "Gorgeous",
+    "langName": "华丽",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Refreshing",
+    "langName": "清新",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Divine",
+    "langName": "神圣的",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Infused",
+    "langName": "融入",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Essence",
+    "langName": "精华",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Ineffable",
+    "langName": "无法言喻",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Strong",
+    "langName": "强大",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Powerful",
+    "langName": "有力的",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Weak",
+    "langName": "虚弱",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Thin",
+    "langName": "细",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Thick",
+    "langName": "厚",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Massive Scale",
+    "langName": "大规模",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Massive",
+    "langName": "大量的",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Huge",
+    "langName": "巨大的",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Large",
+    "langName": "大",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Big",
+    "langName": "大的",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Mini",
+    "langName": "迷你",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Tiny",
+    "langName": "微小",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Micro",
+    "langName": "微观",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Nano",
+    "langName": "纳米",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Flexible",
+    "langName": "柔韧",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Upside-Down",
+    "langName": "颠倒",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Paradox",
+    "langName": "悖论",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Feng Shui",
+    "langName": "风水",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Perfectionism",
+    "langName": "完美主义",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "OCD",
+    "langName": "强迫症",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Array",
+    "langName": "一系列",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Muted",
+    "langName": "静音",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Visual Perception",
+    "langName": "视觉感知",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Visual Agnosia",
+    "langName": "视觉失认症",
+    "object": "素材",
+    "attribute": "概念"
+  },
+  {
+    "displayName": "Ivory",
+    "langName": "象牙",
+    "object": "素材",
+    "attribute": "其他素材"
+  },
+  {
+    "displayName": "Amber",
+    "langName": "琥珀",
+    "object": "素材",
+    "attribute": "其他素材"
+  },
+  {
+    "displayName": "Inlay",
+    "langName": "镶嵌",
+    "object": "素材",
+    "attribute": "其他素材"
+  },
+  {
+    "displayName": "Soap",
+    "langName": "肥皂",
+    "object": "素材",
+    "attribute": "其他素材"
+  },
+  {
+    "displayName": "Wires",
+    "langName": "电线",
+    "object": "素材",
+    "attribute": "其他素材"
+  },
+  {
+    "displayName": "Cables",
+    "langName": "电缆",
+    "object": "素材",
+    "attribute": "其他素材"
+  },
+  {
+    "displayName": "Cells",
+    "langName": "细胞",
+    "object": "素材",
+    "attribute": "其他素材"
+  },
+  {
+    "displayName": "Cellular",
+    "langName": "网状的",
+    "object": "素材",
+    "attribute": "其他素材"
+  },
+  {
+    "displayName": "Transistor",
+    "langName": "晶体管",
+    "object": "素材",
+    "attribute": "其他素材"
+  },
+  {
+    "displayName": "Diode",
+    "langName": "二极管",
+    "object": "素材",
+    "attribute": "其他素材"
+  },
+  {
+    "displayName": "Point",
+    "langName": "点",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Dot",
+    "langName": "点",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Line",
+    "langName": "线",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Curve",
+    "langName": "曲线",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Bezier Curve",
+    "langName": "贝塞尔曲线",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Triangle",
+    "langName": "三角形",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Square",
+    "langName": "正方形",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Pentagon",
+    "langName": "五边形",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Hexagon",
+    "langName": "六边形",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Hexagonal",
+    "langName": "六角形",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Heptagon",
+    "langName": "七边形",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Octagon",
+    "langName": "八角形",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Nonagon",
+    "langName": "九边形",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Decagon",
+    "langName": "十边形",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Rectangle",
+    "langName": "长方形",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Rectangular",
+    "langName": "矩形的",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Parallelogram",
+    "langName": "平行四边形",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Rhombus",
+    "langName": "菱形",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Star",
+    "langName": "星星",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Heart",
+    "langName": "心",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Spirangle",
+    "langName": "螺旋形",
+    "object": "几何形状",
+    "attribute": "形状"
+  },
+  {
+    "displayName": "Cube",
+    "langName": "立方体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Cuboid",
+    "langName": "长方体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Sphere",
+    "langName": "球体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Cone",
+    "langName": "圆锥",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Cylinder",
+    "langName": "圆柱",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Pyramid",
+    "langName": "金字塔",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Torus",
+    "langName": "圆环体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Rectangular Prism",
+    "langName": "直角棱镜",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Star Prism",
+    "langName": "星棱镜",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Wedge",
+    "langName": "楔形",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Zonohedron",
+    "langName": "多面棱体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Tetrahedron",
+    "langName": "四面体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Octahedron",
+    "langName": "八面体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Dodecahedron",
+    "langName": "十二面体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Icosahedron",
+    "langName": "二十面体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Kepler-Poinsot Polyhedra",
+    "langName": "开普勒点多面体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Cuboctahedron",
+    "langName": "立方八面体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Rhombicuboctahedron",
+    "langName": "菱形立方八面体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Icosidodecahedron",
+    "langName": "二十面体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Rhombicosidodecahedron",
+    "langName": "菱形二十面体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Trapezohedron",
+    "langName": "梯形体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Cupola",
+    "langName": "圆顶",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Anticupola",
+    "langName": "反圆顶",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Hypercupolae",
+    "langName": "超圆顶",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Bicupola",
+    "langName": "双圆顶",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Frustum",
+    "langName": "截锥体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Bifrustum",
+    "langName": "双截头台",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Rotunda",
+    "langName": "圆形大厅",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Birotunda",
+    "langName": "双圆形大厅",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Prismatoid",
+    "langName": "棱柱体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Scutoid",
+    "langName": "鳞片状多面体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Bipyramid",
+    "langName": "双锥体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Star Bipyramid",
+    "langName": "星形双锥",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Antiprism",
+    "langName": "反棱柱",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Anti-Prism",
+    "langName": "反棱柱体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Trapezohedra",
+    "langName": "梯形锥体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Star Trapezohedron",
+    "langName": "星形梯形锥体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Spherical polyhedron",
+    "langName": "球形多面体",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Mobius strip",
+    "langName": "莫比乌斯环",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Hexaflexagon",
+    "langName": "六边形纸盒",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Miura fold",
+    "langName": "三浦折叠",
+    "object": "几何形状",
+    "attribute": "物体"
+  },
+  {
+    "displayName": "Hypercube",
+    "langName": "超立方体",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Hyperprism",
+    "langName": "超棱镜",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Hyperpyramid",
+    "langName": "超金字塔",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Hypertorus",
+    "langName": "超圆环体",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Hypersphere",
+    "langName": "超球体",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Hypercone",
+    "langName": "超圆锥",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Hypercylinder",
+    "langName": "超圆柱体",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Hyperzonohedron",
+    "langName": "超多面棱体",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Hypertetrahedron",
+    "langName": "超四面体",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Hyperoctahedron",
+    "langName": "超八面体",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Hyperdodecahedron",
+    "langName": "超十二面体",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Hypericosahedron",
+    "langName": "超二十面体",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Flexible Polyhedron",
+    "langName": "弹性多面体",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Klein bottle",
+    "langName": "克莱因瓶",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Monogon",
+    "langName": "一面体",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "Digon",
+    "langName": "二面体",
+    "object": "几何形状",
+    "attribute": "超形状"
+  },
+  {
+    "displayName": "AR",
+    "langName": "增强现实",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "VR",
+    "langName": "虚拟现实",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "2-Dimensional",
+    "langName": "二维",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "2D",
+    "langName": "2D",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "2.5-Dimensional",
+    "langName": "2.5 维",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "2.5D",
+    "langName": "2.5D",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "3-Dimensional",
+    "langName": "三维",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "3D",
+    "langName": "3D",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "4-Dimensional",
+    "langName": "四维",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "4D",
+    "langName": "4D",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "5-Dimensional",
+    "langName": "五维",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "5D",
+    "langName": "5D",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "Overdimensional",
+    "langName": "超维",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "Underdimensional",
+    "langName": "次维",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "Hyperdimensional",
+    "langName": "超维度",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "Subdimensional",
+    "langName": "次维度",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "Omnidimensional",
+    "langName": "全维度",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "Everdimensional",
+    "langName": "永维度",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "Extradimensional",
+    "langName": "异次元",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "Beyond-Dimensional",
+    "langName": "超越维度",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "Excessively-dimensional",
+    "langName": "过分维数",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "Alldimensional",
+    "langName": "全维度",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "Multiverse",
+    "langName": "多元宇宙",
+    "object": "几何形状",
+    "attribute": "多元宇宙"
+  },
+  {
+    "displayName": "Low Poly",
+    "langName": "低面建模",
+    "object": "几何形状",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Geometric",
+    "langName": "几何",
+    "object": "几何形状",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Non-Euclidian",
+    "langName": "非欧几里得",
+    "object": "几何形状",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Poly",
+    "langName": "Poly",
+    "object": "几何形状",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Polygon",
+    "langName": "多边形",
+    "object": "几何形状",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Polygonal",
+    "langName": "多边",
+    "object": "几何形状",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Polyhedron",
+    "langName": "多面体",
+    "object": "几何形状",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Polyhedral",
+    "langName": "多面",
+    "object": "几何形状",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Platonic Solids",
+    "langName": "柏拉图立体",
+    "object": "几何形状",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Archimedean Solids",
+    "langName": "阿基米德立体",
+    "object": "几何形状",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Catalan solids",
+    "langName": "加泰罗尼亚立体",
+    "object": "几何形状",
+    "attribute": "样式"
+  },
+  {
+    "displayName": "Vertex",
+    "langName": "顶点",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Edge",
+    "langName": "边缘",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Surface",
+    "langName": "表面",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Interior",
+    "langName": "内部的",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Exterior",
+    "langName": "外部的",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Convex",
+    "langName": "凸的",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Concave",
+    "langName": "凹",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Equiangular",
+    "langName": "等角",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Equilateral",
+    "langName": "等边的",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Cyclic",
+    "langName": "循环的",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Tangential",
+    "langName": "切线",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Rectilinear",
+    "langName": "直线",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Traverse",
+    "langName": "横跨",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Quasi",
+    "langName": "拟",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Quasi-Regular",
+    "langName": "拟规则",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Uniform",
+    "langName": "均匀",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Isogonal",
+    "langName": "等角",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Isotoxal",
+    "langName": "等毒",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Isohedral",
+    "langName": "等面",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Stellation",
+    "langName": "星状",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Ehrhart Polynomial",
+    "langName": "Ehrhart 多项式",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Ideal polyhedron",
+    "langName": "理想多面体",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "Polytope",
+    "langName": "多胞体",
+    "object": "几何形状",
+    "attribute": "特性"
+  },
+  {
+    "displayName": "4k",
+    "langName": "4k",
+    "object": "后期处理",
+    "attribute": "分辨率"
+  },
+  {
+    "displayName": "8K",
+    "langName": "8K",
+    "object": "后期处理",
+    "attribute": "分辨率"
+  },
+  {
+    "displayName": "16k",
+    "langName": "16k",
+    "object": "后期处理",
+    "attribute": "分辨率"
+  },
+  {
+    "displayName": "32k",
+    "langName": "32k",
+    "object": "后期处理",
+    "attribute": "分辨率"
+  },
+  {
+    "displayName": "HD",
+    "langName": "高清",
+    "object": "后期处理",
+    "attribute": "分辨率"
+  },
+  {
+    "displayName": "Full-HD",
+    "langName": "全高清",
+    "object": "后期处理",
+    "attribute": "分辨率"
+  },
+  {
+    "displayName": "Ultra-HD",
+    "langName": "超高清",
+    "object": "后期处理",
+    "attribute": "分辨率"
+  },
+  {
+    "displayName": "Super-Resolution",
+    "langName": "超分辨率",
+    "object": "后期处理",
+    "attribute": "分辨率"
+  },
+  {
+    "displayName": "Megapixel",
+    "langName": "百万像素",
+    "object": "后期处理",
+    "attribute": "分辨率"
+  },
+  {
+    "displayName": "Ray Tracing Reflections",
+    "langName": "光线追踪反射",
+    "object": "后期处理",
+    "attribute": "反射"
+  },
+  {
+    "displayName": "Lumen Reflections",
+    "langName": "流明反射",
+    "object": "后期处理",
+    "attribute": "反射"
+  },
+  {
+    "displayName": "Screen Space Reflections",
+    "langName": "屏幕空间反射",
+    "object": "后期处理",
+    "attribute": "反射"
+  },
+  {
+    "displayName": "Diffraction Grading",
+    "langName": "衍射光栅",
+    "object": "后期处理",
+    "attribute": "反射"
+  },
+  {
+    "displayName": "Chromatic Aberration",
+    "langName": "色差",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "RGB Displacement",
+    "langName": "RGB 位移",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Anaglyph",
+    "langName": "立体画",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Multiscopy",
+    "langName": "多视镜",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Autostereoscopy",
+    "langName": "自动立体",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Stereoscopy",
+    "langName": "立体摄影",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Parallax",
+    "langName": "视差",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Scan Lines",
+    "langName": "扫描线",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Posterization",
+    "langName": "色调分割",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Quantization",
+    "langName": "量化",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Sobel Operator",
+    "langName": "Sobel 算子",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Edge Detection",
+    "langName": "边缘检测",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Interlaced",
+    "langName": "隔行扫描",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Moire Patterns",
+    "langName": "云纹图案",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Rounded",
+    "langName": "圆形",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Wavy",
+    "langName": "波浪状的",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Ripple",
+    "langName": "涟漪",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Whirl",
+    "langName": "旋涡",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Squiggly",
+    "langName": "波纹",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Morph",
+    "langName": "变形",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Spiraling",
+    "langName": "螺旋",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Twisted Rays",
+    "langName": "扭曲的光线",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Starburst",
+    "langName": "星芒",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Emboss",
+    "langName": "浮雕",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Tessellated",
+    "langName": "镶嵌",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Blobby",
+    "langName": "斑点",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Blobs",
+    "langName": "斑点",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Cracks",
+    "langName": "裂缝",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Textured",
+    "langName": "纹理",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Convolution Matrix",
+    "langName": "卷积矩阵",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Dilate",
+    "langName": "膨胀",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Erode",
+    "langName": "侵蚀",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Dirty",
+    "langName": "肮脏的",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "With Imperfections",
+    "langName": "有瑕疵",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Distortion",
+    "langName": "畸变失真",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Lenticular",
+    "langName": "透镜状",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Cropped",
+    "langName": "裁剪",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Quantum-Wavetracing",
+    "langName": "量子波追踪",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Tornadic",
+    "langName": "龙卷风",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Sabattier Effect",
+    "langName": "Sabattier 效果",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Smudged",
+    "langName": "模糊",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Sharpened",
+    "langName": "锐化",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Glowing Edges",
+    "langName": "发光的边缘",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Spherize",
+    "langName": "球化",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Harris Shutter",
+    "langName": "Harris 快门",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Mordancage",
+    "langName": "魔笼",
+    "object": "后期处理",
+    "attribute": "过滤器"
+  },
+  {
+    "displayName": "Ray Traced",
+    "langName": "光线追踪",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "Ray Tracing Ambient Occlusion",
+    "langName": "光线追踪环境遮挡",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "Anti-Aliasing",
+    "langName": "抗锯齿",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "FXAA",
+    "langName": "FXAA",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "TXAA",
+    "langName": "TXAA",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "RTX",
+    "langName": "实时传输",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "SSAO",
+    "langName": "SSAO",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "De-Noise",
+    "langName": "降噪",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "Shaders",
+    "langName": "着色器",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "OpenGL-Shaders",
+    "langName": "OpenGL 着色器",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "GLSL-Shaders",
+    "langName": "GLSL 着色器",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "Post Processing",
+    "langName": "后期处理",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "Post-Production",
+    "langName": "后期制作",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "Cel Shading",
+    "langName": "元着色",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "Tone Mapping",
+    "langName": "色调映射",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "CGI",
+    "langName": "电脑影像",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "VFX",
+    "langName": "视觉特效",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "SFX",
+    "langName": "音效",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "Unreal Engine",
+    "langName": "虚幻引擎",
+    "object": "后期处理",
+    "attribute": "着色器"
+  },
+  {
+    "displayName": "Trending on ArtStation",
+    "langName": "ArtStation",
+    "object": "后期处理",
+    "attribute": "参考平台"
+  },
+  {
+    "displayName": "Trending on Facebook",
+    "langName": "Facebook",
+    "object": "后期处理",
+    "attribute": "参考平台"
+  },
+  {
+    "displayName": "Trending on Pixiv",
+    "langName": "Pixiv",
+    "object": "后期处理",
+    "attribute": "参考平台"
+  },
+  {
+    "displayName": "Trending on Pixbay",
+    "langName": "Pixbay",
+    "object": "后期处理",
+    "attribute": "参考平台"
+  },
+  {
+    "displayName": "Hyperrealistic",
+    "langName": "超写实",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Surrealistic",
+    "langName": "超现实主义",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Modern Art",
+    "langName": "现代艺术",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Concept Art",
+    "langName": "概念艺术",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Digital Art",
+    "langName": "数字艺术",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Futurism",
+    "langName": "未来主义",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Social realism",
+    "langName": "社会现实主义",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "chiaroscuro",
+    "langName": "明暗对比",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Minimalism",
+    "langName": "极简主义",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Romanticism",
+    "langName": "浪漫主义",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Renaissance",
+    "langName": "文艺复兴",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Classicism",
+    "langName": "古典主义",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Neoclassicism",
+    "langName": "新古典主义",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Gothic art",
+    "langName": "哥特式艺术",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Baroque",
+    "langName": "巴洛克",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Pre-Raphaelite Brotherhood",
+    "langName": "先拉斐尔派",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Pop art",
+    "langName": "波普艺术",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Ukiyo-e",
+    "langName": "浮世绘",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "Ghibli-like colours",
+    "langName": "吉卜力色彩",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "3D Item Rende",
+    "langName": "三维渲染",
+    "object": "后期处理",
+    "attribute": "风格"
+  },
+  {
+    "displayName": "award winning",
+    "langName": "获奖作品",
+    "object": "后期处理",
+    "attribute": "质量"
+  },
+  {
+    "displayName": "professional",
+    "langName": "专业",
+    "object": "后期处理",
+    "attribute": "质量"
+  },
+  {
+    "displayName": "breathtaking",
+    "langName": "惊艳",
+    "object": "后期处理",
+    "attribute": "质量"
+  },
+  {
+    "displayName": "groundbreaking",
+    "langName": "开创性的",
+    "object": "后期处理",
+    "attribute": "质量"
+  },
+  {
+    "displayName": "superb",
+    "langName": "一流的",
+    "object": "后期处理",
+    "attribute": "质量"
+  },
+  {
+    "displayName": "outstanding",
+    "langName": "杰出的",
+    "object": "后期处理",
+    "attribute": "质量"
+  },
+  {
+    "displayName": "in a symbolic and meaningful style",
+    "langName": "象征性且有意义的风格",
+    "object": "后期处理",
+    "attribute": "进阶"
+  },
+  {
+    "displayName": "insanely detailed and intricate",
+    "langName": "极其细致而复杂",
+    "object": "后期处理",
+    "attribute": "进阶"
+  },
+  {
+    "displayName": "very coherent symmetrical artwork",
+    "langName": "连贯且对称的结构",
+    "object": "后期处理",
+    "attribute": "进阶"
+  }
+]
