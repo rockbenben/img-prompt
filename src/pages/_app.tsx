@@ -9,8 +9,9 @@ import {
 import { Menu, Row, Col } from "antd";
 import { useRouter } from "next/router";
 import Link from "next/link";
+import Head from "next/head";
 import { AppProps } from "next/app";
-import '../app/globals.css';
+import "../app/globals.css";
 
 const App: React.FC<AppProps> = ({ Component, pageProps }) => {
   const router = useRouter();
@@ -23,6 +24,24 @@ const App: React.FC<AppProps> = ({ Component, pageProps }) => {
 
   return (
     <>
+      <Head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+                var _paq = window._paq = window._paq || [];
+                _paq.push(['trackPageView']);
+                _paq.push(['enableLinkTracking']);
+                (function() {
+                    var u="https://piwik.seoipo.com/";
+                    _paq.push(['setTrackerUrl', u+'matomo.php']);
+                    _paq.push(['setSiteId', '10']);
+                    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+                })();
+            `,
+          }}
+        />
+      </Head>
       <Row justify="space-between" align="middle" gutter={16}>
         <Col xs={20} sm={18} md={16}>
           <Menu mode="horizontal" selectedKeys={[current]} onClick={onClick}>
