@@ -13,7 +13,7 @@ IMGPrompt 是一个极简的图像提示词编辑器，专注于提示词文本�
 - 标签与文本关联，点击插入文本，再次点击即可删除文本。
 - 提示词字符统计，建议限制在 380 个以内。
 
-提示词的中文翻译来自 Google Translate API，欢迎抓虫。
+提示词的中文翻译来自 Google/DeepL Translate API，欢迎抓虫。
 
 ## Deploy
 
