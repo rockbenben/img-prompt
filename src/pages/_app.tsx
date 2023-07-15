@@ -6,6 +6,7 @@ import {
   GithubOutlined,
   ToolOutlined,
 } from "@ant-design/icons";
+import type { MenuProps } from "antd";
 import { Menu, Row, Col } from "antd";
 import { useRouter } from "next/router";
 import Link from "next/link";
@@ -13,13 +14,57 @@ import Head from "next/head";
 import { AppProps } from "next/app";
 import "../app/globals.css";
 
+const items: MenuProps["items"] = [
+  {
+    label: <Link href='/'>IMGPrompt</Link>,
+    key: "/",
+    icon: <BgColorsOutlined />,
+  },
+  {
+    label: (
+      <a
+        href='https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html'
+        target='_blank'
+        rel='noopener noreferrer'>
+        Stable Diffusion 入门教程
+      </a>
+    ),
+    key: "LearnData",
+    icon: <ThunderboltOutlined />,
+  },
+  {
+    label: (
+      <a
+        href='https://www.aishort.top/'
+        target='_blank'
+        rel='noopener noreferrer'>
+        ChatGPT Shortcut
+      </a>
+    ),
+    key: "aishort",
+    icon: <ExperimentOutlined />,
+  },
+  {
+    label: (
+      <a
+        href='https://tools.newzone.top/'
+        target='_blank'
+        rel='noopener noreferrer'>
+        文本处理工具
+      </a>
+    ),
+    key: "Tools",
+    icon: <ToolOutlined />,
+  },
+];
+
 const App: React.FC<AppProps> = ({ Component, pageProps }) => {
   const router = useRouter();
   const [current, setCurrent] = useState(router.pathname);
-  type MenuInfo = Parameters<typeof Menu>[0];
-  const onClick = (e: MenuInfo) => {
+
+  const onClick: MenuProps["onClick"] = (e) => {
     console.log("click ", e);
-    setCurrent(e.key as string);
+    setCurrent(e.key);
   };
 
   return (
@@ -44,35 +89,12 @@ const App: React.FC<AppProps> = ({ Component, pageProps }) => {
       </Head>
       <Row justify='space-between' align='middle' gutter={16}>
         <Col xs={20} sm={18} md={16}>
-          <Menu mode='horizontal' selectedKeys={[current]} onClick={onClick}>
-            <Menu.Item key='/' icon={<BgColorsOutlined />}>
-              <Link href='/'>IMGPrompt</Link>
-            </Menu.Item>
-            <Menu.Item key='LearnData' icon={<ThunderboltOutlined />}>
-              <a
-                href='https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html'
-                target='_blank'
-                rel='noopener noreferrer'>
-                Stable Diffusion 入门教程
-              </a>
-            </Menu.Item>
-            <Menu.Item key='aishort' icon={<ExperimentOutlined />}>
-              <a
-                href='https://www.aishort.top/'
-                target='_blank'
-                rel='noopener noreferrer'>
-                ChatGPT Shortcut
-              </a>
-            </Menu.Item>
-            <Menu.Item key='Tools' icon={<ToolOutlined />}>
-              <a
-                href='https://tools.newzone.top/'
-                target='_blank'
-                rel='noopener noreferrer'>
-                文本处理工具
-              </a>
-            </Menu.Item>
-          </Menu>
+          <Menu
+            onClick={onClick}
+            selectedKeys={[current]}
+            mode='horizontal'
+            items={items}
+          />
         </Col>
         <Col>
           <Row gutter={16} wrap={false}>
