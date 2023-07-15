@@ -10,6 +10,7 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
+          <script async src="https://oss.newzone.top/instantpage.min.js" type="module"></script>
         </body>
       </Html>
     );
