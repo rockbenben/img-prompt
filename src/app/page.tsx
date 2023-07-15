@@ -1,3 +1,4 @@
+"use client"
 import { useState, useEffect, FC } from "react";
 import Head from "next/head";
 import { Layout, Row, Col, Typography, Grid } from "antd";
