@@ -18,6 +18,7 @@ export default function RootLayout({
   return (
     <html lang='zh-Hans'>
       <Script
+        id="piwik"
         dangerouslySetInnerHTML={{
           __html: `
             var _paq = window._paq = window._paq || [];
