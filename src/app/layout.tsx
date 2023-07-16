@@ -17,10 +17,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang='zh-Hans'>
-      <Script
-        id="piwik"
-        dangerouslySetInnerHTML={{
-          __html: `
+      <body>
+        <Navigation />
+        {children}
+        <Script
+          id='piwik'
+          dangerouslySetInnerHTML={{
+            __html: `
             var _paq = window._paq = window._paq || [];
             _paq.push(['trackPageView']);
             _paq.push(['enableLinkTracking']);
@@ -32,11 +35,8 @@ export default function RootLayout({
               g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
             })();
           `,
-        }}
-      />
-      <body>
-        <Navigation />
-        {children}
+          }}
+        />
         <Script
           src='https://oss.newzone.top/instantpage.min.js'
           type='module'
