@@ -30,8 +30,12 @@ IMGPrompt 是一个极简的图像提示词编辑器，专注于提示词文本�
 yarn
 
 # Local Development
-yarn start
+yarn dev
 
-# Build: This command generates static content into the `build` directory
-yarn build
+# build and start
+yarn build && yarn start
 ```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `app/index.tsx`. The page auto-updates as you edit the file.
