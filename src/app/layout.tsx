@@ -19,6 +19,7 @@ export default function RootLayout({
     <html lang='zh-Hans'>
       <body>
         <Navigation />
+        <script data-ad-client="ca-pub-7585955822109216" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         {children}
         <Script
           id='piwik'
