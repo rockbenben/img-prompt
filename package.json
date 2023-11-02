@@ -1,6 +1,6 @@
 {
   "name": "img-prompt",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -12,11 +12,11 @@
     "@types/node": "20.3.1",
     "@types/react": "18.2.14",
     "@types/react-dom": "18.2.6",
-    "antd": "^5.10.1",
+    "antd": "^5.10.3",
     "autoprefixer": "10.4.14",
     "eslint": "8.43.0",
-    "eslint-config-next": "^13.5.5",
-    "next": "^13.5.5",
+    "eslint-config-next": "^14.0.1",
+    "next": "^14.0.1",
     "postcss": "8.4.24",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
