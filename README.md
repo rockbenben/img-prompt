@@ -17,11 +17,16 @@ IMGPrompt 是一个极简的图像提示词编辑器，专注于提示词文本�
 
 ## Deploy
 
+System Requirements:
+
+- [Node.js 18.17](https://nodejs.org/) or later.
+- macOS, Windows (including WSL), and Linux are supported.
+
 ### Deploy With Vercel
 
 [![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2Fimg-prompt%2Ftree%2Fgh-pages)
 
-2023.06.18，项目框架迁移到 Next.js。如果在此之前已经在 Vercel 上进行了部署，请进入 Vercel 项目页面，选择「Settings」>「Build & Development Settings」，将 Framework Preset 调整为 Next.js。
+项目框架于 2023.06.18 迁移到 Next.js。如果你之前已在 Vercel 上进行部署，请前往 Vercel 项目页面，选择「Settings」>「Build & Development Settings」，然后将 Framework Preset 更改为 Next.js。
 
 ### Installation
 
