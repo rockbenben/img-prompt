@@ -1,6 +1,6 @@
 {
   "name": "img-prompt",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
@@ -9,8 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/nextjs-registry": "^1.0.0",
     "@vercel/speed-insights": "^1.0.9",
-    "antd": "^5.13.3",
+    "antd": "^5.14.0",
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18"

@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { Navigation } from "./ui/Navigation";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import { AntdRegistry } from "@ant-design/nextjs-registry";
 
 export const metadata: Metadata = {
   title: "IMGPrompt - Stable Diffusion 和 Midjourney 的图像提示词生成工具",
@@ -18,7 +19,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <Navigation />
         <script data-ad-client="ca-pub-7585955822109216" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        {children}
+        <AntdRegistry>{children}</AntdRegistry>
         <SpeedInsights />
         <Script
           id="piwik"
