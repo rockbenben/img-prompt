@@ -7,19 +7,17 @@ interface ObjectSectionProps {
   onObjectClick: (object: string) => void;
 }
 
-const ObjectSection: FC<ObjectSectionProps> = ({
-  objects = [],
-  activeObject,
-  onObjectClick,
-}) => {
+const ObjectSection: FC<ObjectSectionProps> = ({ objects = [], activeObject, onObjectClick }) => {
   return (
     <div className="object-section">
       {objects.map((object, index) => (
         <Button
           key={index}
-          className={`m-1 ${activeObject === object ? "bg-blue-500" : ""}`}
           onClick={() => onObjectClick(object)}
-        >
+          style={{
+            margin: "5px",
+            backgroundColor: activeObject === object ? "#70c282" : undefined,
+          }}>
           {object}
         </Button>
       ))}
