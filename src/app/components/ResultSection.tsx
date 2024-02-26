@@ -169,7 +169,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
         onChange={handleResultTextChange}
         onBlur={handleBlur}
         rows={10}
-        className="w-full h-96 mt-4"
+        className="w-full mt-2"
         style={{ backgroundColor: "black", color: "#68D391" }}
       />
       <Typography.Text style={{ color: charCount > 380 ? "red" : "inherit" }} className="mt-2">

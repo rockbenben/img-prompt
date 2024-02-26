@@ -24,5 +24,26 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+} */
+
+/* 全局滚动条样式 */
+::-webkit-scrollbar {
+  width: 5px; /* 对于垂直滚动条，设置滚动条的宽度 */
+  height: 5px; /* 对于横向滚动条，设置滚动条的高度 */
 }
- */
+
+/* 滚动条轨道样式 */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* 淡灰色背景，与白色页面背景形成对比 */
+}
+
+/* 滚动条滑块样式 */
+::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 10px; /* 圆角效果 */
+}
+
+/* 滑块悬停效果 */
+::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
