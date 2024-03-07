@@ -1,5 +1,4 @@
 import React, { FC } from "react";
-import { Button } from "antd";
 
 interface ObjectSectionProps {
   objects: string[];
@@ -9,17 +8,16 @@ interface ObjectSectionProps {
 
 const ObjectSection: FC<ObjectSectionProps> = ({ objects = [], activeObject, onObjectClick }) => {
   return (
-    <div className="object-section">
+    <div className="flex flex-wrap">
       {objects.map((object, index) => (
-        <Button
+        <button
           key={index}
           onClick={() => onObjectClick(object)}
-          style={{
-            margin: "5px",
-            backgroundColor: activeObject === object ? "#70c282" : undefined,
-          }}>
+          className={`m-1 px-3 py-1 text-sm font-medium leading-5 transition-colors duration-150 rounded-lg focus:outline-none border ${
+            activeObject === object ? "bg-teal-500 text-white border-teal-500" : "text-gray-500 border-gray-300 hover:bg-gray-50"
+          }`}>
           {object}
-        </Button>
+        </button>
       ))}
     </div>
   );

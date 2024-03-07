@@ -1,5 +1,4 @@
 import React, { FC } from "react";
-import { Button } from "antd";
 
 interface AttributeSectionProps {
   attributes: string[];
@@ -9,17 +8,16 @@ interface AttributeSectionProps {
 
 const AttributeSection: FC<AttributeSectionProps> = ({ attributes = [], selectedAttribute, onAttributeClick }) => {
   return (
-    <div className="attribute-section">
+    <div className="flex flex-wrap">
       {attributes.map((attribute) => (
-        <Button
+        <button
           key={attribute}
           onClick={() => onAttributeClick(attribute)}
-          style={{
-            margin: "2px",
-            backgroundColor: attribute === selectedAttribute ? "#a8a8a8" : undefined,
-          }}>
+          className={`m-1 px-3 py-1 text-sm font-medium leading-5 transition-colors duration-150 rounded-lg focus:outline-none border ${
+            attribute === selectedAttribute ? "bg-blue-500 text-white border-blue-500" : "text-gray-500 border-gray-300 hover:bg-gray-50"
+          }`}>
           {attribute}
-        </Button>
+        </button>
       ))}
     </div>
   );

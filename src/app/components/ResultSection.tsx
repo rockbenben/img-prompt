@@ -1,5 +1,5 @@
 import React, { FC, useState, useEffect } from "react";
-import { Button, Input, message, Tooltip, Typography } from "antd";
+import { Button, Input, message, Tooltip, Typography, Flex } from "antd";
 
 interface Tag {
   attribute: string | undefined;
@@ -17,7 +17,8 @@ interface ResultSectionProps {
 const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedTags, tagsData }) => {
   // 常量
   const NEGATIVE_TEXT =
-    "lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, out of frame, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy";
+    "(worst quality:2), (low quality:2), (normal quality:2), lowres, jpeg artifacts, blurry, ((monochrome)), ((grayscale)), ugly, duplicate, morbid, mutilated, mutation, deformed, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, missing fingers, extra digit, fewer digits, fused fingers, too many fingers, bad anatomy, bad hands, bad feet, malformed limbs, extra limbs, extra arms, extra legs, missing arms, missing legs, extra foot, bad body, bad proportions, gross proportions, facing away, looking away, tilted head, long neck, cross-eyed, skin spots, acnes, skin blemishes, (fat:1.2), polar lowres, teethcropped, dehydrated, text, error, cropped, out of frame, signature, watermark, username,";
+
   const CONSTANT_TEXT_1 = "Natural Lighting, Studio lighting, Cinematic Lighting, Crepuscular Rays, X-Ray, Backlight";
   const CONSTANT_TEXT_2 =
     "insanely detailed and intricate, gorgeous, Surrealistic, smooth, sharp focus, Painting, Digital Art, Concept Art, Illustration, Trending on ArtStation, in a symbolic and meaningful style, 8K";
@@ -140,29 +141,28 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
   };
 
   return (
-    <div className="result-section">
-      <Tooltip title="插入肖像常用光线">
-        <Button className="m-1" onClick={() => handleConstantText(CONSTANT_TEXT_1)}>
-          肖像光线
+    <>
+      <Flex wrap="wrap" gap="small">
+        <Tooltip title="插入肖像常用光线">
+          <Button type="primary" onClick={() => handleConstantText(CONSTANT_TEXT_1)}>
+            肖像光线
+          </Button>
+        </Tooltip>
+        <Tooltip title="插入常用图像润色词">
+          <Button type="primary" onClick={() => handleConstantText(CONSTANT_TEXT_2)}>
+            常用润色
+          </Button>
+        </Tooltip>
+        <Tooltip title="复制 Negative prompt 否定提示">
+          <Button type="dashed" onClick={handleNegativeCopy}>
+            否定提示
+          </Button>
+        </Tooltip>
+        <Button onClick={handleCopy}>复制</Button>
+        <Button danger onClick={handleClear}>
+          清空
         </Button>
-      </Tooltip>
-      <Tooltip title="插入常用图像润色词">
-        <Button className="m-1" onClick={() => handleConstantText(CONSTANT_TEXT_2)}>
-          常用润色
-        </Button>
-      </Tooltip>
-      <Tooltip title="复制 Negative prompt 否定提示">
-        <Button className="m-1" onClick={handleNegativeCopy}>
-          否定提示
-        </Button>
-      </Tooltip>
-
-      <Button className="m-1" onClick={handleCopy}>
-        复制
-      </Button>
-      <Button className="m-1" onClick={handleClear}>
-        清空
-      </Button>
+      </Flex>
       <Input.TextArea
         value={resultText}
         readOnly={false}
@@ -170,18 +170,18 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
         onBlur={handleBlur}
         rows={10}
         className="w-full mt-2"
-        style={{ backgroundColor: "black", color: "#68D391" }}
+        style={{ backgroundColor: "#333", color: "#d3d3d3" }}
       />
-      <Typography.Text style={{ color: charCount > 380 ? "red" : "inherit" }} className="mt-2">
+      <Typography.Text style={{ display: "block", color: charCount > 380 ? "#ff4d4f" : "#d3d3d3" }} className="mt-2">
         {charCount}/380
       </Typography.Text>
-      <Typography.Paragraph type="secondary">
+      <Typography.Paragraph style={{ color: "#d3d3d3" }}>
         Tips：Prompt 中的词语顺序代表其权重，越靠前权重越大。物体不要太多，两到三个就好。若要特别强调某个元素，可以加很多括号或者惊叹号，比如 beautiful forest background, desert!!, (((sunset)))
         中会优先体现「desert」和「sunset」元素。
         <br />
         假设你在提示词中使用了 mountain，生成的图像很可能会有树。但如果你想要生成没有树的山的图像，可以使用 mountain | tree:-10。其中 tree:-10 表示对于树的权重非常负，因此生成的图像中不会出现树。
       </Typography.Paragraph>
-    </div>
+    </>
   );
 };
 
