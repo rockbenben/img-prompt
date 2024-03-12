@@ -1,19 +1,27 @@
 # IMGPrompt
 
-IMGPrompt 是一个极简的图像提示词编辑器，专注于提示词文本组合，可用于 Stable Diffusion 和 Midjourney。它没有预设提示词效果图片，也不需要第三方支持。提示词来自网络收集和 [promptoMANIA](https://promptomania.com/midjourney-prompt-builder/)，标签样式参考了 [OpenPromptStudio](https://moonvy.com/apps/ops/)。
+IMGPrompt 是专为 Stable Diffusion 和 Midjourney 打造的 AI 图像提示词编辑器，界面简洁直观，使用户能够轻松地查看并组合所需的提示词文本。每个提示词都附有中文翻译，用户仅需通过点击操作即可快速选取或组合，从而大大简化了文本组合的过程。
 
-即用链接：<https://prompt.newzone.top/>
+本工具完全本地化，无需依赖任何数据库或第三方服务。
 
-![image](https://user-images.githubusercontent.com/28252913/232390795-9e359df3-5775-49d8-88d2-d6025ae5624b.png)
+立即体验：<https://prompt.newzone.top/>
 
-特点：
+![image](https://github.com/rockbenben/img-prompt/assets/28252913/5e455cc2-2184-4d7e-ac51-f960e6aaa3d1)
 
-- 将提示词以逗号分隔并标签化。
-- 支持标签的自动去重和自动匹配。
-- 标签与文本关联，点击插入文本，再次点击即可删除文本。
-- 提示词字符统计，建议限制在 380 个以内。
+核心特点：
 
-提示词的中文翻译来自 Google/DeepL Translate API，欢迎抓虫。
+- **提示词标签化：** 通过逗号分隔将提示词标签化，支持标签的自动去重和匹配，以及提示词的中文翻译显示，便于用户理解和应用。
+- **互动式编辑：** 点击标签，即可快速插入或删除对应提示词文本。
+- **分类标签展示：** 选定的标签会根据类别进行展示，提高查找和编辑的效率。
+- **字符统计：** 内置提示词字符统计，建议用户将提示词长度控制在 380 字符以内，以获得最佳效果。
+
+IMGPrompt 的提示词翻译采用 DeepL/Google Translate API，欢迎抓虫。
+
+此外，IMGPrompt 适用于多种数据编辑场景。通过使用 [IMGPrompt 数据转换器](https://tools.newzone.top/data-parser/img-prompt)，用户可以轻松实现数据的批量导入和转换。
+
+## 提示词来源
+
+IMGPrompt 的提示词资源来源于网络搜集以及 [promptoMANIA](https://promptomania.com/midjourney-prompt-builder/)，同时在标签样式设计上借鉴了 [OpenPromptStudio](https://moonvy.com/apps/ops/)。
 
 ## Deploy
 
