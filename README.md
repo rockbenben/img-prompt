@@ -32,7 +32,7 @@ System Requirements:
 
 ### Deploy With Vercel
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2Fimg-prompt%2Ftree%2Fgh-pages)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2Fimg-prompt%2Ftree%2Fmain)
 
 项目框架于 2023.06.18 迁移到 Next.js。如果你之前已在 Vercel 上进行部署，请前往 Vercel 项目页面，选择「Settings」>「Build & Development Settings」，然后将 Framework Preset 更改为 Next.js。
 
