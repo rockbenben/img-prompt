@@ -3,7 +3,6 @@ import Script from "next/script";
 import type { Metadata } from "next";
 import "./globals.css";
 import { Navigation } from "./ui/Navigation";
-import { SpeedInsights } from "@vercel/speed-insights/next";
 import { AntdRegistry } from "@ant-design/nextjs-registry";
 
 export const metadata: Metadata = {
@@ -20,7 +19,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Navigation />
         <script data-ad-client="ca-pub-7585955822109216" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <AntdRegistry>{children}</AntdRegistry>
-        <SpeedInsights />
         <Script
           id="piwik"
           dangerouslySetInnerHTML={{
