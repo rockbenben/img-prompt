@@ -1,6 +1,6 @@
 "use client";
 import { useState, useEffect, FC } from "react";
-import { Layout, Row, Col, Typography } from "antd";
+import { Row, Col, Typography } from "antd";
 
 import tagsData from "./prompt.json";
 import ObjectSection from "./components/ObjectSection";
@@ -62,7 +62,7 @@ const Home: FC = () => {
   };
 
   return (
-    <Layout.Content style={{ maxWidth: "1200px", margin: "0 auto", padding: "24px" }}>
+    <>
       <Title
         level={2}
         style={{
@@ -89,7 +89,7 @@ const Home: FC = () => {
           <ResultSection selectedTags={selectedTags} setSelectedTags={setSelectedTags} tagsData={tagsData} />
         </Col>
       </Row>
-    </Layout.Content>
+    </>
   );
 };
 
