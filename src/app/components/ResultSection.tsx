@@ -1,5 +1,6 @@
 import React, { FC, useState, useEffect } from "react";
 import { Button, Input, message, Tooltip, Typography, Flex } from "antd";
+import { copyToClipboard } from "./copyToClipboard";
 
 interface Tag {
   attribute: string | undefined;
@@ -35,20 +36,10 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
   const [resultText, setResultText] = useState(selectedTags.map((tag) => tag.displayName).join(", "));
   const [charCount, setCharCount] = useState(resultText.length);
 
-  const handleCopy = () => {
-    navigator.clipboard.writeText(selectedTags.map((tag) => tag.displayName).join(", "));
-    message.success("已复制到剪贴板");
-  };
-
   const handleClear = () => {
     setSelectedTags([]);
     setCharCount(0);
     message.success("已清空结果框");
-  };
-
-  const handleNegativeCopy = () => {
-    navigator.clipboard.writeText(NEGATIVE_TEXT);
-    message.success("已复制否定提示");
   };
 
   // 更新 findTagData 函数
@@ -153,12 +144,12 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
             常用润色
           </Button>
         </Tooltip>
-        <Tooltip title="复制 Negative prompt 否定提示">
-          <Button type="dashed" onClick={handleNegativeCopy}>
+        <Tooltip title="复制 Negative prompt 常用否定提示词">
+          <Button type="dashed" onClick={() => copyToClipboard(NEGATIVE_TEXT, "常用否定提示词")}>
             否定提示
           </Button>
         </Tooltip>
-        <Button onClick={handleCopy}>复制</Button>
+        <Button onClick={() => copyToClipboard(selectedTags.map((tag) => tag.displayName).join(", "), "结果提示词")}>复制结果</Button>
         <Button danger onClick={handleClear}>
           清空
         </Button>
