@@ -166,7 +166,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
       <Typography.Text style={{ display: "block", color: charCount > 380 ? "#ff4d4f" : "#d3d3d3" }} className="mt-2">
         {charCount}/380
       </Typography.Text>
-      <Typography.Paragraph style={{ color: "#d3d3d3" }}>
+      <Typography.Paragraph style={{ color: "#b0b0b0" }}>
         Tips：Prompt 中的词语顺序代表其权重，越靠前权重越大。物体不要太多，两到三个就好。若要特别强调某个元素，可以加很多括号或者惊叹号，比如 beautiful forest background, desert!!, (((sunset)))
         中会优先体现「desert」和「sunset」元素。
         <br />

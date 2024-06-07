@@ -2,6 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+/* 全局样式 */
+body {
+  background-color: #f0f2f5;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 24px;
+}
+
 /* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
