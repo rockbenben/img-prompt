@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect, FC } from "react";
+import { useState, useEffect, FC, useMemo, useCallback } from "react";
 import { Row, Col, Typography } from "antd";
 
 import tagsData from "./prompt.json";
@@ -18,48 +18,45 @@ interface Tag {
 
 const { Title } = Typography;
 
-const getObjects = (data: Tag[]) => {
+const getObjects = (data: Tag[]): string[] => {
   const objectsSet = new Set(data.map((tag) => tag.object));
   return Array.from(objectsSet);
 };
 
-const getAttributes = (currentObject: string, data: Tag[]) => {
+const getAttributes = (currentObject: string, data: Tag[]): string[] => {
   const attributesSet = new Set(data.filter((tag) => tag.object === currentObject).map((tag) => tag.attribute));
   return Array.from(attributesSet);
 };
 
 const Home: FC = () => {
-  const objects = getObjects(tagsData) || [];
+  const objects = useMemo(() => getObjects(tagsData), []);
   const [activeObject, setActiveObject] = useState(objects[0]);
-  const attributes = getAttributes(activeObject, tagsData) || [];
-  const [activeAttribute, setActiveAttribute] = useState(attributes[0]);
   const [selectedTags, setSelectedTags] = useState<Tag[]>([]);
 
+  const attributes = useMemo(() => getAttributes(activeObject, tagsData), [activeObject]);
+
   useEffect(() => {
-    const attributes = getAttributes(activeObject, tagsData);
-    setActiveAttribute(attributes[0]);
-  }, [activeObject]);
-
-  const handleObjectClick = (object: string) => {
-    setActiveObject(object);
-  };
-
-  const handleAttributeClick = (attribute: string) => {
-    setActiveAttribute(attribute);
-  };
-  const updateSelectedTags = (tag: Tag) => {
-    const isSelected = selectedTags.some((t) => t.displayName === tag.displayName);
-
-    if (isSelected) {
-      return selectedTags.filter((t) => t.displayName !== tag.displayName);
-    } else {
-      return [...selectedTags, tag];
+    if (attributes.length > 0) {
+      setActiveAttribute(attributes[0]);
     }
-  };
+  }, [attributes]);
 
-  const handleTagClick = (tag: Tag) => {
-    setSelectedTags(updateSelectedTags(tag));
-  };
+  const [activeAttribute, setActiveAttribute] = useState(attributes[0]);
+
+  const handleObjectClick = useCallback((object: string) => {
+    setActiveObject(object);
+  }, []);
+
+  const handleAttributeClick = useCallback((attribute: string) => {
+    setActiveAttribute(attribute);
+  }, []);
+
+  const handleTagClick = useCallback((tag: Tag) => {
+    setSelectedTags((prevSelectedTags) => {
+      const isSelected = prevSelectedTags.some((t) => t.displayName === tag.displayName);
+      return isSelected ? prevSelectedTags.filter((t) => t.displayName !== tag.displayName) : [...prevSelectedTags, tag];
+    });
+  }, []);
 
   return (
     <>
@@ -75,13 +72,12 @@ const Home: FC = () => {
       </Title>
       <Row gutter={[16, 16]}>
         <Col xs={24} lg={18}>
-          <h3 className="m-2 font-bold">对象选择区</h3>
+          <h3 className="m-2 font-bold">1️⃣选择对象</h3>
           <ObjectSection objects={objects} activeObject={activeObject} onObjectClick={handleObjectClick} />
-          <h3 className="m-2 font-bold">属性选择区</h3>
-          <AttributeSection attributes={getAttributes(activeObject, tagsData)} selectedAttribute={activeAttribute} onAttributeClick={handleAttributeClick} />
-          <h3 className="m-2 font-bold">标签选择区</h3>
+          <h3 className="m-2 font-bold">2️⃣选择属性</h3>
+          <AttributeSection attributes={attributes} selectedAttribute={activeAttribute} onAttributeClick={handleAttributeClick} />
+          <h3 className="m-2 font-bold">3️⃣选择标签</h3>
           <TagSection tags={tagsData.filter((tag) => tag.object === activeObject && tag.attribute === activeAttribute)} selectedTags={selectedTags} onTagClick={handleTagClick} />
-
           <h3 className="m-2 font-bold">当前选中</h3>
           <SelectedTagsSection selectedTags={selectedTags} onTagClick={handleTagClick} />
         </Col>
