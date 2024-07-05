@@ -1,6 +1,6 @@
 # IMGPrompt
 
-IMGPrompt 是专为 Stable Diffusion、Midjourney  和 DALL·E 打造的 AI 图像提示词编辑器，界面简洁直观，使用户能够轻松地查看并组合所需的提示词文本。每个提示词都附有中文翻译，用户仅需通过点击操作即可快速选取或组合，从而大大简化了文本组合的过程。
+IMGPrompt 是专为 Stable Diffusion、Midjourney 和 DALL·E 打造的 AI 图像提示词编辑器，界面简洁直观，使用户能够轻松地查看并组合所需的提示词文本。每个提示词都附有中文翻译，用户仅需通过点击操作即可快速选取或组合，从而大大简化了文本组合的过程。
 
 本工具完全本地化，无需依赖任何数据库或第三方服务。
 
@@ -19,9 +19,32 @@ IMGPrompt 的提示词翻译采用 DeepL/Google Translate API，欢迎抓虫。
 
 此外，IMGPrompt 适用于多种数据编辑场景。通过使用 [IMGPrompt 数据转换器](https://tools.newzone.top/data-parser/img-prompt)，用户可以轻松实现数据的批量导入和转换。
 
+## 自定义提示词
+
+建议不要修改 `prompt.json` 文件内容，因为本文件作者可能会不定期更新，如果修改了本文件，可能会导致更新时出现冲突。
+
+如需要自定义提示词，请按下方样例修改 `src/app/prompt-custom.json` 文件。
+
+```json
+[
+  {
+    "displayName": "prompt1",
+    "langName": "提示词1翻译",
+    "object": "1定制对象",
+    "attribute": "2定制属性"
+  },
+  {
+    "displayName": "prompt2",
+    "langName": "提示词2翻译",
+    "object": "1定制对象",
+    "attribute": "2定制属性"
+  }
+]
+```
+
 ## 提示词来源
 
-IMGPrompt 的提示词资源来源于网络搜集以及 [promptoMANIA](https://promptomania.com/midjourney-prompt-builder/)，同时在标签样式设计上借鉴了 [OpenPromptStudio](https://moonvy.com/apps/ops/)。
+IMGPrompt 的提示词资源来源于网络搜集、[promptoMANIA](https://promptomania.com/midjourney-prompt-builder/) 以及 [sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one/blob/main/group_tags/zh_CN.yaml)，同时在标签样式设计上借鉴了 [OpenPromptStudio](https://moonvy.com/apps/ops/)。
 
 ## Deploy
 
