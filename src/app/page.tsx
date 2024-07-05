@@ -2,7 +2,8 @@
 import { useState, useEffect, FC, useMemo, useCallback } from "react";
 import { Row, Col, Typography } from "antd";
 
-import tagsData from "./prompt.json";
+import tagsData1 from "./prompt.json";
+import tagsData2 from "./prompt-custom.json";
 import ObjectSection from "./components/ObjectSection";
 import AttributeSection from "./components/AttributeSection";
 import TagSection from "./components/TagSection";
@@ -29,11 +30,12 @@ const getAttributes = (currentObject: string, data: Tag[]): string[] => {
 };
 
 const Home: FC = () => {
-  const objects = useMemo(() => getObjects(tagsData), []);
+  const combinedTagsData: Tag[] = useMemo(() => [...tagsData1, ...tagsData2], []);
+  const objects = useMemo(() => getObjects(combinedTagsData), []);
   const [activeObject, setActiveObject] = useState(objects[0]);
   const [selectedTags, setSelectedTags] = useState<Tag[]>([]);
 
-  const attributes = useMemo(() => getAttributes(activeObject, tagsData), [activeObject]);
+  const attributes = useMemo(() => getAttributes(activeObject, combinedTagsData), [activeObject]);
 
   useEffect(() => {
     if (attributes.length > 0) {
@@ -77,12 +79,12 @@ const Home: FC = () => {
           <h3 className="m-2 font-bold">2️⃣选择属性</h3>
           <AttributeSection attributes={attributes} selectedAttribute={activeAttribute} onAttributeClick={handleAttributeClick} />
           <h3 className="m-2 font-bold">3️⃣选择标签</h3>
-          <TagSection tags={tagsData.filter((tag) => tag.object === activeObject && tag.attribute === activeAttribute)} selectedTags={selectedTags} onTagClick={handleTagClick} />
+          <TagSection tags={combinedTagsData.filter((tag) => tag.object === activeObject && tag.attribute === activeAttribute)} selectedTags={selectedTags} onTagClick={handleTagClick} />
           <h3 className="m-2 font-bold">当前选中</h3>
           <SelectedTagsSection selectedTags={selectedTags} onTagClick={handleTagClick} />
         </Col>
         <Col xs={24} lg={6}>
-          <ResultSection selectedTags={selectedTags} setSelectedTags={setSelectedTags} tagsData={tagsData} />
+          <ResultSection selectedTags={selectedTags} setSelectedTags={setSelectedTags} tagsData={combinedTagsData} />
         </Col>
       </Row>
     </>
