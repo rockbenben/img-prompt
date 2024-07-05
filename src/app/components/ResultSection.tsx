@@ -1,4 +1,4 @@
-import React, { FC, useState, useEffect, useCallback, useMemo } from "react";
+import React, { FC, useState, useEffect, useCallback } from "react";
 import { Button, Input, message, Tooltip, Typography, Space } from "antd";
 import { copyToClipboard } from "./copyToClipboard";
 
@@ -43,7 +43,11 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
 
   const findTagData = useCallback(
     (displayName: string) => {
-      const foundTag = tagsData.find((tag) => tag.displayName?.toLowerCase() === displayName.toLowerCase());
+      let foundTag = tagsData.find((tag) => tag.displayName?.toLowerCase() === displayName.toLowerCase());
+      if (!foundTag) {
+        const modifiedDisplayName = displayName.replace(/ /g, "_");
+        foundTag = tagsData.find((tag) => tag.displayName?.toLowerCase() === modifiedDisplayName.toLowerCase());
+      }
       if (foundTag) {
         return {
           object: foundTag.object,
