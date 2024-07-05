@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@ant-design/nextjs-registry": "^1.0.0",
-    "antd": "^5.19.0",
+    "antd": "^5.19.1",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18"
