@@ -112,8 +112,15 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
 
   const handleSuggestTagClick = (tag: Tag) => {
     const newSelectedTags = [...selectedTags];
-    newSelectedTags[newSelectedTags.length - 1] = tag;
+    const lastTagIndex = newSelectedTags.length - 1;
+    if (lastTagIndex >= 0) {
+      newSelectedTags[lastTagIndex] = tag;
+    } else {
+      newSelectedTags.push(tag);
+    }
+
     setSelectedTags(newSelectedTags);
+    setResultText(newSelectedTags.map((t) => t.displayName).join(", "));
   };
 
   const handleBlur = useCallback(() => {
@@ -262,7 +269,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
         ))}
       </Flex>
       <Space.Compact style={{ width: "100%" }}>
-        <Input value={inputText} onChange={(e) => setInputText(e.target.value)} placeholder="输入要翻译的文本" />
+        <Input value={inputText} onChange={(e) => setInputText(e.target.value)} onPressEnter={handleTranslate} placeholder="输入要翻译的文本" />
         <Button type="primary" onClick={handleTranslate}>
           翻译
         </Button>
