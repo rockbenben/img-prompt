@@ -5,7 +5,7 @@ with open('prompt.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # 定义优先属性值
-priority_value = "袜子"
+priority_value = "看"
 
 # 使用字典来记录每个 displayName 出现的次数和对象，忽略大小写和下划线
 display_names = {}

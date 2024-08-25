@@ -31,10 +31,12 @@ const getAttributes = (currentObject: string, data: Tag[]): string[] => {
 
 const Home: FC = () => {
   const combinedTagsData: Tag[] = useMemo(() => [...tagsData1, ...tagsData2], []);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const objects = useMemo(() => getObjects(combinedTagsData), []);
   const [activeObject, setActiveObject] = useState(objects[0]);
   const [selectedTags, setSelectedTags] = useState<Tag[]>([]);
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const attributes = useMemo(() => getAttributes(activeObject, combinedTagsData), [activeObject]);
 
   useEffect(() => {

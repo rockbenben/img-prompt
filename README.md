@@ -13,6 +13,8 @@ IMGPrompt 是专为 Stable Diffusion、Midjourney 和 DALL·E 打造的 AI 图�
 - **提示词标签化：** 通过逗号分隔将提示词标签化，支持标签的自动去重和匹配，以及提示词的中文翻译显示，便于用户理解和应用。
 - **互动式编辑：** 点击标签，即可快速插入或删除对应提示词文本。
 - **分类标签展示：** 选定的标签会根据类别进行展示，提高查找和编辑的效率。
+- **相关标签推荐：** 根据最后一个标签的输入词，支持中文推荐，自动推荐相关的 10 个标签。
+- **提示词翻译：** 将任意提示词翻译为英文，便于输入到图像生成器中。
 - **字符统计：** 内置提示词字符统计，建议用户将提示词长度控制在 380 字符以内，以获得最佳效果。
 
 IMGPrompt 的提示词翻译采用 DeepL/Google Translate API，欢迎抓虫。
@@ -21,23 +23,23 @@ IMGPrompt 的提示词翻译采用 DeepL/Google Translate API，欢迎抓虫。
 
 ## 自定义提示词
 
-建议不要修改 `prompt.json` 文件内容，因为本文件作者可能会不定期更新，如果修改了本文件，可能会导致更新时出现冲突。
+建议不要修改 prompt.json 文件内容，因为本文件作者可能会不定期更新，如果修改了本文件，可能会导致更新时出现冲突。
 
-如需要自定义提示词，请按下方样例修改 `src/app/prompt-custom.json` 文件。
+如需要自定义提示词，请按下方样例修改 `src/app/prompt-custom.json`。
 
 ```json
 [
   {
     "displayName": "prompt1",
     "langName": "提示词1翻译",
-    "object": "1定制对象",
-    "attribute": "2定制属性"
+    "object": "定制对象 1",
+    "attribute": "定制属性"
   },
   {
     "displayName": "prompt2",
     "langName": "提示词2翻译",
-    "object": "1定制对象",
-    "attribute": "2定制属性"
+    "object": "定制对象 1",
+    "attribute": "定制属性"
   }
 ]
 ```
