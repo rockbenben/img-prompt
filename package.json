@@ -1,6 +1,6 @@
 {
   "name": "img-prompt",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
@@ -11,9 +11,8 @@
   },
   "dependencies": {
     "@ant-design/nextjs-registry": "^1.0.1",
-    "@next/third-parties": "14.2.6",
-    "antd": "^5.20.2",
-    "next": "14.2.6",
+    "antd": "^5.20.4",
+    "next": "14.2.7",
     "react": "^18",
     "react-dom": "^18"
   },
@@ -23,7 +22,7 @@
     "@types/react-dom": "^18",
     "autoprefixer": "^10.4.20",
     "eslint": "^8",
-    "eslint-config-next": "14.2.6",
+    "eslint-config-next": "14.2.7",
     "postcss": "^8",
     "tailwindcss": "^3.4.10",
     "typescript": "^5.5.4"
