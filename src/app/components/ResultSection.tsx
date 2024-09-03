@@ -2,7 +2,7 @@ import React, { FC, useState, useEffect, useCallback } from "react";
 import { Button, Input, message, Tooltip, Typography, Space, Flex, Tag } from "antd";
 import { copyToClipboard } from "./copyToClipboard";
 import { translateText } from "./translateAPI";
-import { CONSTANT_TEXT_1, CONSTANT_TEXT_2, NEGATIVE_TEXT, TIPS_TEXT_1, TIPS_TEXT_2 } from "../constants";
+import { CONSTANT_TEXT_1, CONSTANT_TEXT_2, NEGATIVE_TEXT, TIPS_TEXT_1, TIPS_TEXT_2, colorArray } from "../constants";
 
 interface Tag {
   attribute: string | undefined;
@@ -19,6 +19,10 @@ interface ResultSectionProps {
 
 const normalizeText = (text: string) => {
   return text.toLowerCase().replace(/[_-\s]+/g, " ");
+};
+
+const getRandomColor = () => {
+  return colorArray[Math.floor(Math.random() * colorArray.length)];
 };
 
 const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedTags, tagsData }) => {
@@ -111,10 +115,11 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
   );
 
   const handleSuggestTagClick = (tag: Tag) => {
+    setIsComposing(false); // 强制结束当前的输入法状态，避免中文输入法兼容问题
+
     const newSelectedTags = [...selectedTags];
-    const lastTagIndex = newSelectedTags.length - 1;
-    if (lastTagIndex >= 0) {
-      newSelectedTags[lastTagIndex] = tag;
+    if (newSelectedTags.length > 0) {
+      newSelectedTags[newSelectedTags.length - 1] = tag;
     } else {
       newSelectedTags.push(tag);
     }
@@ -126,7 +131,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
   const handleBlur = useCallback(() => {
     let replacedText = resultText
       .replace(/，/g, ", ")
-      .replace(/\s*,\s*/g, ", ")
+      //.replace(/\s*,\s*/g, ", ") //避免组合标签被拆分
       .replace(/\s+/g, " ");
 
     const displayNames = replacedText.split(", ").filter((name) => name.trim() !== "");
@@ -216,6 +221,20 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
     }
   };
 
+  const handleColorReplace = () => {
+    let updatedText = resultText;
+
+    const combinedColorRegex = new RegExp(`\\b(${colorArray.join("|")})\\b`, "gi");
+
+    updatedText = updatedText.replace(combinedColorRegex, (match) => {
+      const newColor = getRandomColor();
+      console.log(`Replacing ${match} with ${newColor}`);
+      return newColor;
+    });
+
+    setResultText(updatedText);
+  };
+
   return (
     <>
       <Space wrap>
@@ -279,6 +298,9 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
         <br />
         {TIPS_TEXT_2}
       </Typography.Paragraph>
+      <Tooltip title="随机替换描述中的颜色">
+        <Button onClick={handleColorReplace}>随机换色</Button>
+      </Tooltip>
     </>
   );
 };
