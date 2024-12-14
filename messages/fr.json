@@ -1,0 +1,35 @@
+{
+  "Metadata": {
+    "title": "IMGPrompt - Générateur d'images optimisé par l'IA pour la diffusion stable, Midjourney, DALL·E et FLUX",
+    "description": "Outil intuitif de génération d'images, conçu pour être utilisé avec des plateformes d'IA telles que Stable Diffusion, Midjourney, DALL·E et FLUX. Il simplifie le processus de création d'images efficaces et créatives, permettant aux utilisateurs de générer de meilleurs résultats sans effort. Avec IMGPrompt, vous pouvez rechercher des invites pertinentes dans votre langue maternelle, les traduire en anglais et transformer vos idées créatives en résultats visuels époustouflants.",
+    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, générateur d'invite d'image, invite d'image IA, outil de créativité visuelle, traduction d'invite, art IA, invites de génération d'image, activateur de créativité"
+  },
+  "ToolPage": {
+    "section1": "Sélectionner un objet",
+    "section2": "Sélectionner un attribut",
+    "section3": "Sélectionner une balise",
+    "section4": "Actuellement sélectionné"
+  },
+  "ResultSection": {
+    "tooltip-light": "Insérer un éclairage de portrait couramment utilisé",
+    "prompt-light": "Lumière de portrait",
+    "tooltip-polish": "Insérer des invites d'amélioration d'image fréquemment utilisées",
+    "prompt-polish": "Invites en polonais",
+    "insertSuccess": "Inséré la description spécifiée",
+    "tooltip-negative": "Copiez les invites négatives fréquemment utilisées",
+    "prompt-negative": "Invites négatives",
+    "button-copy": "Copier le résultat",
+    "clearSuccess": "Effacer la boîte de dialogue",
+    "button-clear": "Clair",
+    "placeholder-translate": "Entrez le texte à traduire",
+    "button-translate": "Traduire",
+    "translateSuccess": "Traduction réussie et ajoutée à la boîte de dialogue",
+    "translateEmptyError": "Le contenu de la traduction ne peut pas être vide",
+    "translateFailError": "La traduction a échoué, veuillez réessayer",
+    "title-other": "Autres fonctions :",
+    "tooltip-randomColor": "Remplacer aléatoirement les couleurs dans la description",
+    "button-randomcolor": "Remplacement de couleur aléatoire",
+    "copySuccess": "Copié avec succès dans le presse-papiers",
+    "manualCopy": "La copie a échoué, veuillez copier manuellement"
+  }
+}

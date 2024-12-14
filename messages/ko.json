@@ -1,0 +1,35 @@
+{
+  "Metadata": {
+    "title": "IMGPrompt - 안정적 확산, 중간 여정, DALL·E 및 FLUX 를 위한 AI 기반 이미지 프롬프트 생성기",
+    "description": "Stable Diffusion, Midjourney, DALL·E, FLUX 와 같은 AI 플랫폼에서 사용하도록 설계된 직관적인 이미지 프롬프트 생성 도구입니다. 효과적이고 창의적인 이미지 프롬프트를 만드는 과정을 간소화하여 사용자가 손쉽게 더 나은 결과를 생성할 수 있도록 합니다. IMGPrompt 를 사용하면 모국어로 관련 프롬프트를 검색하고 영어로 번역하고 창의적인 아이디어를 놀라운 시각적 출력으로 전환할 수 있습니다.",
+    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, 이미지 프롬프트 생성기, AI 이미지 프롬프트, 시각적 창의성 도구, 프롬프트 번역, AI 아트, 이미지 생성 프롬프트, 창의성 향상기"
+  },
+  "ToolPage": {
+    "section1": "객체 선택",
+    "section2": "속성 선택",
+    "section3": "태그 선택",
+    "section4": "현재 선택됨"
+  },
+  "ResultSection": {
+    "tooltip-light": "일반적으로 사용되는 초상화 조명을 삽입하세요",
+    "prompt-light": "인물 조명",
+    "tooltip-polish": "자주 사용되는 이미지 향상 프롬프트 삽입",
+    "prompt-polish": "폴란드어 프롬프트",
+    "insertSuccess": "지정된 설명을 삽입했습니다",
+    "tooltip-negative": "자주 사용되는 부정적인 프롬프트를 복사하세요",
+    "prompt-negative": "부정적인 프롬프트",
+    "button-copy": "결과 복사",
+    "clearSuccess": "프롬프트 상자를 지웠습니다",
+    "button-clear": "분명한",
+    "placeholder-translate": "번역할 텍스트를 입력하세요",
+    "button-translate": "번역하다",
+    "translateSuccess": "번역이 성공하여 프롬프트 상자에 추가되었습니다.",
+    "translateEmptyError": "번역 내용은 비어 있을 수 없습니다.",
+    "translateFailError": "번역에 실패했습니다. 다시 시도해 주세요.",
+    "title-other": "다른 기능:",
+    "tooltip-randomColor": "설명에서 색상을 무작위로 바꿉니다.",
+    "button-randomcolor": "무작위 색상 교체",
+    "copySuccess": "클립보드에 성공적으로 복사되었습니다",
+    "manualCopy": "복사에 실패했습니다. 수동으로 복사해 주세요."
+  }
+}

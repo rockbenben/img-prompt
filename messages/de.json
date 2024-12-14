@@ -1,0 +1,35 @@
+{
+  "Metadata": {
+    "title": "IMGPrompt - KI-gestützter Bildaufforderungsgenerator für stabile Diffusion, Midjourney, DALL·E und FLUX",
+    "description": "Intuitives Tool zur Generierung von Bildaufforderungen, das für die Verwendung mit KI-Plattformen wie Stable Diffusion, Midjourney, DALL·E und FLUX entwickelt wurde. Es vereinfacht den Prozess der Erstellung effektiver und kreativer Bildaufforderungen und ermöglicht es Benutzern, mühelos bessere Ergebnisse zu erzielen. Mit IMGPrompt können Sie in Ihrer Muttersprache nach relevanten Aufforderungen suchen, diese ins Englische übersetzen und Ihre kreativen Ideen in beeindruckende visuelle Ergebnisse verwandeln.",
+    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, Bildaufforderungsgenerator, KI-Bildaufforderung, visuelles Kreativitätstool, Aufforderungsübersetzung, KI-Kunst, Bildgenerierungsaufforderungen, Kreativitätsverstärker"
+  },
+  "ToolPage": {
+    "section1": "Objekt auswählen",
+    "section2": "Attribut auswählen",
+    "section3": "Tag auswählen",
+    "section4": "Zurzeit ausgewählt"
+  },
+  "ResultSection": {
+    "tooltip-light": "Einfügen häufig verwendeter Porträtbeleuchtung",
+    "prompt-light": "Porträtlicht",
+    "tooltip-polish": "Einfügen häufig verwendeter Eingabeaufforderungen zur Bildverbesserung",
+    "prompt-polish": "Polnische Eingabeaufforderungen",
+    "insertSuccess": "Die angegebene Beschreibung eingefügt",
+    "tooltip-negative": "Häufig verwendete negative Eingabeaufforderungen kopieren",
+    "prompt-negative": "Negative Eingabeaufforderungen",
+    "button-copy": "Ergebnis kopieren",
+    "clearSuccess": "Das Eingabefeld wurde gelöscht",
+    "button-clear": "Klar",
+    "placeholder-translate": "Geben Sie den zu übersetzenden Text ein",
+    "button-translate": "Übersetzen",
+    "translateSuccess": "Übersetzung erfolgreich und zum Eingabefeld hinzugefügt",
+    "translateEmptyError": "Der Übersetzungsinhalt darf nicht leer sein",
+    "translateFailError": "Die Übersetzung ist fehlgeschlagen. Bitte versuchen Sie es erneut.",
+    "title-other": "Weitere Funktionen:",
+    "tooltip-randomColor": "Farben in der Beschreibung nach dem Zufallsprinzip ersetzen",
+    "button-randomcolor": "Zufällige Farbersetzung",
+    "copySuccess": "Erfolgreich in die Zwischenablage kopiert",
+    "manualCopy": "Kopieren fehlgeschlagen, bitte manuell kopieren"
+  }
+}

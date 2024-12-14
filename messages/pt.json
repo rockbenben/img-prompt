@@ -1,0 +1,35 @@
+{
+  "Metadata": {
+    "title": "IMGPrompt - Gerador de prompt de imagem com tecnologia de IA para difusão estável, meio da jornada, DALL·E e FLUX",
+    "description": "Ferramenta intuitiva de geração de prompts de imagem projetada para uso com plataformas de IA como Stable Diffusion, Midjourney, DALL·E e FLUX. Ela simplifica o processo de criação de prompts de imagem eficazes e criativos, permitindo que os usuários gerem melhores resultados sem esforço. Com o IMGPrompt, você pode pesquisar prompts relevantes em seu idioma nativo, traduzi-los para o inglês e transformar suas ideias criativas em resultados visuais impressionantes.",
+    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, gerador de prompt de imagem, prompt de imagem de IA, ferramenta de criatividade visual, tradução de prompt, arte de IA, prompts de geração de imagem, intensificador de criatividade"
+  },
+  "ToolPage": {
+    "section1": "Selecionar objeto",
+    "section2": "Selecionar Atributo",
+    "section3": "Selecionar Tag",
+    "section4": "Atualmente selecionado"
+  },
+  "ResultSection": {
+    "tooltip-light": "Insira iluminação de retrato comumente usada",
+    "prompt-light": "Luz de retrato",
+    "tooltip-polish": "Insira prompts de aprimoramento de imagem comumente usados",
+    "prompt-polish": "Prompts em polonês",
+    "insertSuccess": "Inseriu a descrição especificada",
+    "tooltip-negative": "Copie os prompts negativos comumente usados",
+    "prompt-negative": "Prompts negativos",
+    "button-copy": "Copiar resultado",
+    "clearSuccess": "Limpou a caixa de prompt",
+    "button-clear": "Claro",
+    "placeholder-translate": "Digite o texto para traduzir",
+    "button-translate": "Traduzir",
+    "translateSuccess": "Tradução bem-sucedida e adicionada à caixa de prompt",
+    "translateEmptyError": "O conteúdo da tradução não pode estar vazio",
+    "translateFailError": "A tradução falhou, tente novamente",
+    "title-other": "Outras funções:",
+    "tooltip-randomColor": "Substituir cores aleatoriamente na descrição",
+    "button-randomcolor": "Substituição aleatória de cores",
+    "copySuccess": "Copiado com sucesso para a área de transferência",
+    "manualCopy": "A cópia falhou, copie manualmente"
+  }
+}

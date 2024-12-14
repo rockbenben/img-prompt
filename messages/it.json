@@ -1,0 +1,35 @@
+{
+  "Metadata": {
+    "title": "IMGPrompt - Generatore di prompt di immagini basato sull'intelligenza artificiale per diffusione stabile, Midjourney, DALL·E e FLUX",
+    "description": "Strumento intuitivo di generazione di prompt di immagini progettato per l'uso con piattaforme AI come Stable Diffusion, Midjourney, DALL·E e FLUX. Semplifica il processo di creazione di prompt di immagini efficaci e creativi, consentendo agli utenti di generare risultati migliori senza sforzo. Con IMGPrompt, puoi cercare prompt pertinenti nella tua lingua madre, tradurli in inglese e trasformare le tue idee creative in straordinari output visivi.",
+    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, generatore di prompt di immagini, prompt di immagini AI, strumento di creatività visiva, traduzione di prompt, arte AI, prompt di generazione di immagini, potenziatore della creatività"
+  },
+  "ToolPage": {
+    "section1": "Seleziona oggetto",
+    "section2": "Seleziona attributo",
+    "section3": "Seleziona tag",
+    "section4": "Attualmente selezionato"
+  },
+  "ResultSection": {
+    "tooltip-light": "Inserisci l'illuminazione per ritratti comunemente utilizzata",
+    "prompt-light": "Luce ritratto",
+    "tooltip-polish": "Inserisci richieste di miglioramento delle immagini comunemente utilizzate",
+    "prompt-polish": "Suggerimenti polacchi",
+    "insertSuccess": "Inserita la descrizione specificata",
+    "tooltip-negative": "Copia le richieste negative comunemente utilizzate",
+    "prompt-negative": "Richieste negative",
+    "button-copy": "Copia il risultato",
+    "clearSuccess": "Ho cancellato la casella del prompt",
+    "button-clear": "Chiaro",
+    "placeholder-translate": "Inserisci il testo da tradurre",
+    "button-translate": "Tradurre",
+    "translateSuccess": "Traduzione riuscita e aggiunta alla casella di richiesta",
+    "translateEmptyError": "Il contenuto della traduzione non può essere vuoto",
+    "translateFailError": "Traduzione fallita, riprova.",
+    "title-other": "Altre funzioni:",
+    "tooltip-randomColor": "Sostituisci casualmente i colori nella descrizione",
+    "button-randomcolor": "Sostituzione colore casuale",
+    "copySuccess": "Copiato correttamente negli appunti",
+    "manualCopy": "Copia non riuscita, si prega di copiare manualmente"
+  }
+}

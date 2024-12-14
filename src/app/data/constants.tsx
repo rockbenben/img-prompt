@@ -6,12 +6,6 @@ export const CONSTANT_TEXT_1 = "Natural Lighting, Studio lighting, Cinematic Lig
 export const CONSTANT_TEXT_2 =
   "insanely detailed and intricate, masterpiece, high_contrast, best quality, best aesthetic, stunning, Gorgeous, Surrealistic, Elegant, luxurious, subtle, delicate, captivating, in a symbolic and meaningful style, 8K";
 
-export const TIPS_TEXT_1 =
-  "Tips：Prompt 中的词语顺序代表其权重，越靠前权重越大。物体不要太多，两到三个就好。若要特别强调某个元素，可以加很多括号或者惊叹号，比如 beautiful forest background, desert!!, (((sunset))) 中会优先体现「desert」和「sunset」元素。";
-
-export const TIPS_TEXT_2 =
-  "假设你在提示词中使用了 mountain，生成的图像很可能会有树。但如果你想要生成没有树的山的图像，可以使用 mountain | tree:-10。其中 tree:-10 表示对于树的权重非常负，因此生成的图像中不会出现树。";
-
 export const colorArray = [
   "white",
   "black",

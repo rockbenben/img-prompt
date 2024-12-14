@@ -1,0 +1,36 @@
+{
+  "Metadata": {
+    "title": "IMGPrompt - Stable Diffusion、Midjourney、DALL·E 和 FLUX 的图像提示词生成工具",
+    "description":
+      "IMGPrompt 是一个直观的图像提示词生成工具，可以方便地在 Stable Diffusion、Midjourney、DALL·E 和 FLUX 的流程中使用，使图像提示词的创建变得简单而有效，轻松激发创意并获得更好的图片结果。通过 IMGPrompt，你可以使用英文或母语搜索相关提示词，将提示词翻译为英语，轻易将自己的创意想法转化为视觉现实。",
+    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, Image prompt generation, Visual creativity toolprompt,ai,prompt, 提示词推荐，翻译提示词，图像提示词"
+  },
+  "ToolPage":{
+    "section1": "选择对象",
+    "section2": "选择属性",
+    "section3": "选择标签",
+    "section4": "当前选中"
+  },
+  "ResultSection":{
+    "tooltip-light": "插入肖像常用光线",
+    "prompt-light": "肖像光线",
+    "tooltip-polish": "插入常用图像润色词",
+    "prompt-polish": "常用润色",
+    "insertSuccess": "已插入指定描述",
+    "tooltip-negative": "复制常用否定提示词",
+    "prompt-negative": "否定提示词",
+    "button-copy": "复制结果",
+    "clearSuccess": "已清空提示词框",
+    "button-clear": "清空",
+    "placeholder-translate": "输入要翻译的文本",
+    "button-translate": "翻译",
+    "translateSuccess": "翻译成功并添加到提示词框中",
+    "translateEmptyError": "翻译内容不能为空",
+    "translateFailError": "翻译失败，请重试",
+    "tooltip-randomColor": "随机替换描述中的颜色",
+    "title-other":"其他功能：",
+    "button-randomcolor": "随机换色",
+    "copySuccess": "文本已成功复制到剪贴板",
+    "manualCopy": "复制失败，请手动复制内容"
+  }
+}

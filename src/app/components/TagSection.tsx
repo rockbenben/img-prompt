@@ -1,16 +1,14 @@
 import React, { FC, useCallback, useMemo } from "react";
+import { Typography } from "antd";
+import { normalizeString } from "@/app/utils/normalizeString";
+import { TagItem } from "./types";
 
-interface Tag {
-  object: string;
-  attribute: string;
-  displayName: string;
-  langName: string;
-}
+const { Text } = Typography;
 
 interface TagSectionProps {
-  tags?: Tag[];
-  selectedTags: Tag[];
-  onTagClick: (tag: Tag) => void;
+  tags?: TagItem[];
+  selectedTags: TagItem[];
+  onTagClick: (tag: TagItem) => void;
 }
 
 const colors = [
@@ -26,7 +24,7 @@ const colors = [
 
 const TagSection: FC<TagSectionProps> = ({ tags = [], selectedTags, onTagClick }) => {
   const handleClick = useCallback(
-    (tag: Tag) => {
+    (tag: TagItem) => {
       onTagClick(tag);
     },
     [onTagClick]
@@ -44,16 +42,16 @@ const TagSection: FC<TagSectionProps> = ({ tags = [], selectedTags, onTagClick }
         <div key={`row-${i}`} className="flex flex-wrap">
           {group.map((tag) => {
             const isSelected = selectedTags.some((t) => t.displayName === tag.displayName);
-            const truncatedDisplayName = tag.displayName.length > 20 ? tag.displayName.slice(0, 20) + "..." : tag.displayName;
-
+            const tagDisplayName = tag.displayName.length > 20 ? `${tag.displayName.slice(0, 20)}...` : tag.displayName;
+            const tagLangName = normalizeString(tag.langName) !== normalizeString(tag.displayName) ? tag.langName : "";
             return (
               <div
                 key={`${tag.object}-${tag.attribute}-${tag.displayName}`}
                 className={`inline-block m-2 rounded cursor-pointer shadow transition-all duration-150 ease-in-out transform hover:scale-105 hover:shadow-lg ${isSelected ? "opacity-50" : ""}`}
                 onClick={() => handleClick(tag)}
                 style={{ transition: "background-color 0.3s" }}>
-                <span className={`${dark} text-white px-2 py-1 rounded-l`}>{truncatedDisplayName}</span>
-                <span className={`${light} text-white px-2 py-1 rounded-r`}>{tag.langName}</span>
+                <Text className={`${dark} text-white px-2 py-1 rounded-l`}>{tagDisplayName}</Text>
+                <Text className={`${light} text-white px-2 py-1 rounded-r`}>{tagLangName}</Text>
               </div>
             );
           })}

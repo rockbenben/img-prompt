@@ -1,21 +1,22 @@
 import React, { FC, useMemo } from "react";
+import { Tag, Typography, Space, theme } from "antd";
+import { normalizeString } from "@/app/utils/normalizeString";
+import { TagItem } from "./types";
 
-interface Tag {
-  object: string;
-  attribute: string;
-  displayName: string;
-  langName: string;
-}
+const { Title, Text } = Typography;
 
 interface SelectedTagsSectionProps {
-  selectedTags: Tag[];
-  onTagClick: (tag: Tag) => void;
+  selectedTags: TagItem[];
+  onTagClick: (tag: TagItem) => void;
 }
 
 const SelectedTagsSection: FC<SelectedTagsSectionProps> = ({ selectedTags = [], onTagClick }) => {
-  // 按对象和属性对标签进行分组
+  // Get the current theme token
+  const { token } = theme.useToken();
+
+  // Group tags by object and attribute
   const tagsByObjectAndAttribute = useMemo(() => {
-    return selectedTags.reduce<Record<string, Record<string, Tag[]>>>((acc, tag) => {
+    return selectedTags.reduce<Record<string, Record<string, TagItem[]>>>((acc, tag) => {
       if (!acc[tag.object]) {
         acc[tag.object] = {};
       }
@@ -27,28 +28,57 @@ const SelectedTagsSection: FC<SelectedTagsSectionProps> = ({ selectedTags = [], 
     }, {});
   }, [selectedTags]);
 
+  // If no tags, return null
+  if (selectedTags.length === 0) {
+    return null;
+  }
+
   return (
-    <>
-      {Object.entries(tagsByObjectAndAttribute).flatMap(([object, tagsByAttribute]) =>
-        Object.entries(tagsByAttribute).map(([attribute, tags]) => (
-          <React.Fragment key={`${object}-${attribute}`}>
-            <span className="text-gray-500 ml-2">{object}</span>
-            <span className="text-gray-500 ml-1">{attribute}</span>
-            {tags.map((tag, index) => (
-              <React.Fragment key={tag.displayName}>
-                <div className="inline-block m-2 rounded cursor-pointer shadow-md transition duration-150 ease-in-out transform hover:scale-105" onClick={() => onTagClick(tag)}>
-                  <span className="bg-gradient-to-r from-teal-700 to-teal-800 text-white px-2 py-1 rounded-l">
-                    {tag.displayName.length > 20 ? tag.displayName.slice(0, 20) + "..." : tag.displayName}
-                  </span>
-                  <span className="bg-gradient-to-r from-teal-800 to-teal-900 text-white px-2 py-1 rounded-r">{tag.langName}</span>
-                </div>
-                {index === tags.length - 1 && <br />}
-              </React.Fragment>
-            ))}
-          </React.Fragment>
-        ))
-      )}
-    </>
+    <div className="p-4 bg-gray-50 dark:bg-gray-800 rounded-lg">
+      {Object.entries(tagsByObjectAndAttribute).map(([object, tagsByAttribute]) => (
+        <div key={object} className="mb-4">
+          <Title level={5} className="mb-2 text-gray-600 dark:text-gray-300">
+            {object}
+          </Title>
+          {Object.entries(tagsByAttribute).map(([attribute, tags]) => (
+            <div key={`${object}-${attribute}`} className="mb-3">
+              <Text type="secondary" className="mr-2 dark:text-gray-400">
+                {attribute}:
+              </Text>
+              <Space size={[8, 8]} wrap>
+                {tags.map((tag) => {
+                  // Truncate display name if too long
+                  const tagDisplayName = tag.displayName.length > 20 ? `${tag.displayName.slice(0, 20)}...` : tag.displayName;
+                  const tagLangName = normalizeString(tag.langName) !== normalizeString(tag.displayName) ? tag.langName : "";
+
+                  return (
+                    <Tag
+                      key={tag.displayName}
+                      color="geekblue"
+                      onClick={() => onTagClick(tag)}
+                      className="flex items-center cursor-pointer hover:opacity-80 transition-opacity"
+                      style={{
+                        display: "inline-flex",
+                        alignItems: "center",
+                        backgroundColor: token.colorPrimaryBg,
+                        borderColor: token.colorPrimaryBorder,
+                        color: token.colorPrimaryText,
+                      }}>
+                      <Space size={4} align="center">
+                        <span className="font-medium">{tagDisplayName}</span>
+                        <Text type="secondary" className="text-xs">
+                          {tagLangName}
+                        </Text>
+                      </Space>
+                    </Tag>
+                  );
+                })}
+              </Space>
+            </div>
+          ))}
+        </div>
+      ))}
+    </div>
   );
 };
 

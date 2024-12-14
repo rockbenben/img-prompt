@@ -1,8 +1,9 @@
 export const translateText = async (text: string, sourceLanguage: string, targetLanguage: string) => {
-  if (text.trim() === "") {
-    return text;
+  const trimmedText = text.trim();
+  if (!/[a-zA-Z\p{L}]/u.test(trimmedText)) {
+    return trimmedText;
   }
-  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sourceLanguage}&tl=${targetLanguage}&dt=t&q=${encodeURIComponent(text)}`;
+  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sourceLanguage}&tl=${targetLanguage}&dt=t&q=${encodeURIComponent(trimmedText)}`;
   const response = await fetch(url);
 
   if (!response.ok) {

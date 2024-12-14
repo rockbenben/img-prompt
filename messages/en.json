@@ -1,0 +1,35 @@
+{
+  "Metadata": {
+    "title": "IMGPrompt - AI-Powered Image Prompt Generator for Stable Diffusion, Midjourney, DALL·E, and FLUX",
+    "description": "Intuitive image prompt generation tool designed for use with AI platforms like Stable Diffusion, Midjourney, DALL·E, and FLUX. It simplifies the process of creating effective and creative image prompts, enabling users to generate better results effortlessly. With IMGPrompt, you can search for relevant prompts in your native language, translate them into English, and turn your creative ideas into stunning visual outputs.",
+    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, image prompt generator, AI image prompt, visual creativity tool, prompt translation, AI art, image generation prompts, creativity enhancer"
+  },
+  "ToolPage": {
+    "section1": "Select Object",
+    "section2": "Select Attribute",
+    "section3": "Select Tag",
+    "section4": "Currently Selected"
+  },
+  "ResultSection": {
+    "tooltip-light": "Insert commonly used portrait lighting",
+    "prompt-light": "Portrait Light",
+    "tooltip-polish": "Insert commonly used image enhancement prompts",
+    "prompt-polish": "Polish Prompts",
+    "insertSuccess": "Inserted the specified description",
+    "tooltip-negative": "Copy commonly used negative prompts",
+    "prompt-negative": "Negative Prompts",
+    "button-copy": "Copy Result",
+    "clearSuccess": "Cleared the prompt box",
+    "button-clear": "Clear",
+    "placeholder-translate": "Enter text to translate",
+    "button-translate": "Translate",
+    "translateSuccess": "Translation successful and added to the prompt box",
+    "translateEmptyError": "Translation content cannot be empty",
+    "translateFailError": "Translation failed, please try again",
+    "title-other":"Other functions:",
+    "tooltip-randomColor": "Randomly replace colors in the description",
+    "button-randomcolor": "Random Color Replace",
+    "copySuccess": "Successfully copied to clipboard",
+    "manualCopy": "Copy failed, please copy manually"
+  }
+}

@@ -1,14 +1,13 @@
-import Link from "next/link";
 import { BgColorsOutlined, ExperimentOutlined, ThunderboltOutlined, ToolOutlined } from "@ant-design/icons";
-
-export const GITHUB_LINK = "https://github.com/rockbenben/img-prompt";
-export const DISCORD_LINK = "https://discord.gg/PZTQfJ4GjX";
-export const DISCORD_BADGE_SRC = "https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge";
 
 export const MENU_ITEMS = [
   {
-    label: <Link href="/">IMGPrompt</Link>,
-    key: "/",
+    label: (
+      <a href="https://prompt.newzone.top/guide/" target="_blank" rel="noopener noreferrer">
+        使用指南
+      </a>
+    ),
+    key: "guide",
     icon: <BgColorsOutlined />,
   },
   {

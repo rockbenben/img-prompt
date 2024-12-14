@@ -1,20 +1,23 @@
 {
   "name": "img-prompt",
-  "version": "1.2.2",
+  "version": "2.0.0",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "update": "ncu -u --reject @types/node,eslint && yarn install"
+    "update": "ncu -u --reject @types/node,eslint,@next/third-parties,eslint-config-next,next && yarn install"
   },
   "dependencies": {
-    "@ant-design/nextjs-registry": "^1.0.1",
-    "antd": "^5.20.4",
-    "next": "14.2.7",
+    "@ant-design/nextjs-registry": "^1.0.2",
+    "antd": "^5.22.4",
+    "next": "14.2.20",
+    "next-intl": "^3.26.1",
+    "next-themes": "^0.4.4",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "rtl-detect": "^1.1.2"
   },
   "devDependencies": {
     "@types/node": "^20",
@@ -22,12 +25,12 @@
     "@types/react-dom": "^18",
     "autoprefixer": "^10.4.20",
     "eslint": "^8",
-    "eslint-config-next": "14.2.7",
+    "eslint-config-next": "14.2.20",
     "postcss": "^8",
-    "tailwindcss": "^3.4.10",
-    "typescript": "^5.5.4"
+    "tailwindcss": "^3.4.16",
+    "typescript": "^5.7.2"
   },
   "engines": {
-    "node": "20.x"
+    "node": ">=20.x"
   }
 }
