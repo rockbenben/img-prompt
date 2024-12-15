@@ -2245,7 +2245,7 @@
   },
   {
     "displayName": "curled_horns",
-    "langName": "Ecke",
+    "langName": "gekrümmte Hörner",
     "object": "Abbildung",
     "attribute": "Ohr"
   },
@@ -13863,7 +13863,7 @@
     "displayName": "wide_sleeves",
     "langName": "weite Ärmel",
     "object": "Kleidung",
-    "attribute": null
+    "attribute": "Arm"
   },
   {
     "displayName": "single_sleeve",
@@ -14115,7 +14115,7 @@
     "displayName": "tiara",
     "langName": "Krone",
     "object": "Zubehör",
-    "attribute": null
+    "attribute": "Kopfbedeckung"
   },
   {
     "displayName": "diadem",

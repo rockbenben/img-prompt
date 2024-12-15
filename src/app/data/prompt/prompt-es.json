@@ -2245,7 +2245,7 @@
   },
   {
     "displayName": "curled_horns",
-    "langName": "esquina",
+    "langName": "cuernos rizados",
     "object": "Figura",
     "attribute": "Oído"
   },
@@ -28905,13 +28905,13 @@
     "displayName": "album cover",
     "langName": "portada del álbum",
     "object": "Estilo artístico",
-    "attribute": null
+    "attribute": "Publicación"
   },
   {
     "displayName": "magazine scan",
     "langName": "Páginas interiores de la revista",
     "object": "Estilo artístico",
-    "attribute": null
+    "attribute": "Publicación"
   },
   {
     "displayName": "magazine cover",
@@ -29103,43 +29103,43 @@
     "displayName": "incredibly absurdres",
     "langName": "resolución extremadamente alta",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Resolución"
   },
   {
     "displayName": "huge filesize",
     "langName": "Archivos de alta resolución y gran tamaño",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Resolución"
   },
   {
     "displayName": "Anaglyph",
     "langName": "Pintura 3D",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Postprocesamiento de visión estereoscópica"
   },
   {
     "displayName": "Multiscopy",
     "langName": "multivisor",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Postprocesamiento de visión estereoscópica"
   },
   {
     "displayName": "Autostereoscopy",
     "langName": "autoestereoscópico",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Postprocesamiento de visión estereoscópica"
   },
   {
     "displayName": "Stereoscopy",
     "langName": "Estereofotografía",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Postprocesamiento de visión estereoscópica"
   },
   {
     "displayName": "Parallax",
     "langName": "Parallax",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Postprocesamiento de visión estereoscópica"
   },
   {
     "displayName": "Anti-Aliasing",
@@ -29181,61 +29181,61 @@
     "displayName": "Shaders",
     "langName": "sombreador",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Shader"
   },
   {
     "displayName": "OpenGL-Shaders",
     "langName": "Sombreadores OpenGL",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Shader"
   },
   {
     "displayName": "GLSL-Shaders",
     "langName": "Sombreadores GLSL",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Shader"
   },
   {
     "displayName": "Post Processing",
     "langName": "postprocesamiento",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Shader"
   },
   {
     "displayName": "Post-Production",
     "langName": "Postproducción",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Shader"
   },
   {
     "displayName": "Cel Shading",
     "langName": "meta coloración",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Shader"
   },
   {
     "displayName": "Tone Mapping",
     "langName": "Asignación de tonos",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Shader"
   },
   {
     "displayName": "CGI",
     "langName": "imágenes por ordenador",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Shader"
   },
   {
     "displayName": "VFX",
     "langName": "efectos visuales",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Shader"
   },
   {
     "displayName": "SFX",
     "langName": "Efectos sonoros",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Shader"
   },
   {
     "displayName": "Unreal Engine",
@@ -29371,7 +29371,7 @@
   },
   {
     "displayName": "Convolution Matrix",
-    "langName": null,
+    "langName": "matriz de convolución",
     "object": "Tratamiento posterior",
     "attribute": "Tratamiento de imágenes"
   },
@@ -29499,25 +29499,25 @@
     "displayName": "breathtaking",
     "langName": "Impresionante",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Calidad"
   },
   {
     "displayName": "groundbreaking",
     "langName": "Innovador",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Calidad"
   },
   {
     "displayName": "superb",
     "langName": "primera clase",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Calidad"
   },
   {
     "displayName": "outstanding",
     "langName": "Destacado",
     "object": "Tratamiento posterior",
-    "attribute": null
+    "attribute": "Calidad"
   },
   {
     "displayName": "best quality",

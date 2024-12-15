@@ -1975,7 +1975,7 @@
   },
   {
     "displayName": "bruise_on_face",
-    "langName": null,
+    "langName": "hematomas no rosto",
     "object": "Figura",
     "attribute": "Rosto"
   },
@@ -2155,7 +2155,7 @@
   },
   {
     "displayName": "mouse_ears",
-    "langName": null,
+    "langName": "orejas de ratón",
     "object": "Figura",
     "attribute": "Orelha"
   },
@@ -2245,19 +2245,19 @@
   },
   {
     "displayName": "curled_horns",
-    "langName": null,
+    "langName": "chifres enrolados",
     "object": "Figura",
     "attribute": "Orelha"
   },
   {
     "displayName": "hair_on_horn",
-    "langName": null,
+    "langName": "Pelos nos chifres",
     "object": "Figura",
     "attribute": "Orelha"
   },
   {
     "displayName": "deer ears",
-    "langName": null,
+    "langName": "Orelhas de cervo",
     "object": "Figura",
     "attribute": "Orelha"
   },
