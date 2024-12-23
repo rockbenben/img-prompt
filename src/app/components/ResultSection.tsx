@@ -1,7 +1,8 @@
-import React, { FC, useState, useEffect, useCallback } from "react";
+import React, { FC, useState, useEffect, useCallback, useMemo } from "react";
 import { Button, Input, message, Tooltip, Typography, Space, Flex, Tag } from "antd";
+import { CheckCircleOutlined } from "@ant-design/icons";
 import { useTranslations } from "next-intl";
-import { CONSTANT_TEXT_1, CONSTANT_TEXT_2, NEGATIVE_TEXT, colorArray } from "@/app/data/constants";
+import { CONSTANT_BUTTONS, NEGATIVE_TEXT, colorArray } from "@/app/data/constants";
 import { copyToClipboard } from "@/app/utils/copyToClipboard";
 import { translateText } from "@/app/utils/translateAPI";
 import { normalizeString } from "@/app/utils/normalizeString";
@@ -15,45 +16,29 @@ interface ResultSectionProps {
   tagsData: TagItem[];
 }
 
-const getRandomColor = () => {
-  return colorArray[Math.floor(Math.random() * colorArray.length)];
-};
+const getRandomColor = () => colorArray[Math.floor(Math.random() * colorArray.length)];
 
 const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedTags, tagsData }) => {
   const [messageApi, contextHolder] = message.useMessage();
   const t = useTranslations("ResultSection");
-  const [resultText, setResultText] = useState(selectedTags.map((tag) => tag.displayName).join(", "));
+  const [resultText, setResultText] = useState("");
   const [suggestedTags, setSuggestedTags] = useState<TagItem[]>([]);
-  const [isComposing, setIsComposing] = useState(false);
+  const [exactMatchTag, setExactMatchTag] = useState<TagItem | null>(null);
   const [inputText, setInputText] = useState("");
+  const [isComposing, setIsComposing] = useState(false); // 中、日、韩输入法状态
 
-  useEffect(() => {
-    if (!isComposing) {
-      const newText = selectedTags
-        .map((tag) => tag.displayName)
-        .filter((displayName) => displayName && displayName.trim() !== "")
-        .join(", ");
-      setResultText(newText);
-    }
-  }, [selectedTags, isComposing]);
+  const findTagData = useMemo(() => {
+    const tagMap = new Map(tagsData.map((tag) => [normalizeString(tag.displayName || ""), tag]));
 
-  const handleClear = useCallback(() => {
-    setSelectedTags([]);
-    setResultText("");
-    messageApi.open({
-      type: "success",
-      content: t("clearSuccess"),
-    });
-  }, [setSelectedTags, t]);
-
-  const findTagData = useCallback(
-    (displayName: string) => {
+    return (displayName: string) => {
       const normalizedDisplayName = normalizeString(displayName);
-      let foundTag = tagsData.find((tag) => normalizeString(tag.displayName || "") === normalizedDisplayName);
+      let foundTag = tagMap.get(normalizedDisplayName);
+
       if (!foundTag) {
         const modifiedDisplayName = normalizedDisplayName.replace(/ /g, "_");
-        foundTag = tagsData.find((tag) => normalizeString(tag.displayName || "") === modifiedDisplayName);
+        foundTag = tagMap.get(modifiedDisplayName);
       }
+
       return (
         foundTag || {
           object: undefined,
@@ -62,10 +47,123 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
           displayName: undefined,
         }
       );
+    };
+  }, [tagsData]);
+
+  // 仅在文字输入时触发
+  const handleResultTextChange = useCallback(
+    (e: React.ChangeEvent<HTMLTextAreaElement>) => {
+      let newText = e.target.value;
+      if (newText.endsWith(",") || newText.endsWith("，")) {
+        newText = newText.slice(0, -1).replace(/,\s*$/g, "") + ", ";
+      }
+
+      setResultText(newText);
+
+      const newSelectedTags = newText
+        .split(", ")
+        .filter((displayName) => displayName?.trim())
+        .map((displayName) => ({
+          ...findTagData(displayName),
+          displayName,
+        }));
+
+      setSelectedTags(newSelectedTags);
     },
-    [tagsData]
+    [findTagData, setSelectedTags]
   );
 
+  // 仅在失去焦点时触发（直接选择标签不会触发）
+  const handleBlur = useCallback(() => {
+    let replacedText = resultText
+      .replace(/，/g, ", ")
+      .replace(/\s+,\s*/g, ", ") //仅去除逗号前空格，避免组合标签被拆分
+      .replace(/\s+/g, " ");
+
+    const displayNames = replacedText.split(", ").filter((name) => name.trim() !== "");
+    const uniqueDisplayNames = Array.from(new Set(displayNames.map((displayName) => normalizeString(displayName))));
+
+    const selectedTags = uniqueDisplayNames.map((displayName) => {
+      const { object, attribute, langName, displayName: foundDisplayName } = findTagData(displayName);
+      return {
+        object,
+        displayName: foundDisplayName || displayName,
+        attribute,
+        langName,
+      };
+    });
+
+    setSelectedTags(selectedTags);
+    setResultText(selectedTags.map((tag) => tag.displayName).join(", "));
+    setIsComposing(false);
+  }, [resultText, findTagData, setSelectedTags]);
+
+  const handleSuggestTagClick = (tag: TagItem) => {
+    // setIsComposing(false); // 强制结束当前的输入法状态，避免中文输入法兼容问题
+    const newSelectedTags = [...selectedTags];
+    if (newSelectedTags.length > 0) {
+      newSelectedTags[newSelectedTags.length - 1] = tag;
+    } else {
+      newSelectedTags.push(tag);
+    }
+
+    setSelectedTags(newSelectedTags);
+    setResultText(newSelectedTags.map((t) => t.displayName).join(", "));
+  };
+
+  useEffect(() => {
+    if (!isComposing && selectedTags.length > 0) {
+      const newText = selectedTags
+        .map((tag) => tag.displayName)
+        .filter(Boolean)
+        .join(", ");
+      setResultText(newText);
+    }
+  }, [selectedTags, isComposing]);
+
+  // 推荐标签：随着输入的变化而变化
+  useEffect(() => {
+    const lastTagName = normalizeString(resultText.split(", ").pop()?.trim() || "");
+    if (!lastTagName) {
+      setSuggestedTags([]);
+      setExactMatchTag(null);
+      return;
+    }
+
+    const getRecommendedTags = (searchField: keyof TagItem) =>
+      tagsData
+        .filter((tag) => {
+          const normalizedField = normalizeString((tag[searchField] as string) || "");
+          // 如果完全匹配，则不包含在推荐列表中
+          if (normalizedField === lastTagName) {
+            setExactMatchTag(tag);
+            return false;
+          }
+          return normalizedField.includes(lastTagName);
+        })
+        .sort((a, b) => {
+          const aNormalized = normalizeString((a[searchField] as string) || "");
+          const bNormalized = normalizeString((b[searchField] as string) || "");
+          const aStartsWithTag = aNormalized.startsWith(lastTagName);
+          const bStartsWithTag = bNormalized.startsWith(lastTagName);
+
+          if (aStartsWithTag !== bStartsWithTag) {
+            return aStartsWithTag ? -1 : 1;
+          }
+          return aNormalized.localeCompare(bNormalized);
+        });
+
+    let recommendedTags = getRecommendedTags("displayName");
+    // 如果没有找到 displayName 的推荐标签，尝试用 langName 查找
+    if (recommendedTags.length === 0) {
+      recommendedTags = getRecommendedTags("langName");
+    }
+
+    // 否则显示最多 10 个推荐标签
+    setSuggestedTags(recommendedTags.slice(0, 10));
+  }, [resultText, tagsData]);
+
+  // functions
   const handleConstantText = useCallback(
     (constantText: string) => {
       const newText = resultText ? resultText + ", " + constantText : constantText;
@@ -92,121 +190,14 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
     [resultText, findTagData, setSelectedTags, t]
   );
 
-  const handleResultTextChange = useCallback(
-    (e: React.ChangeEvent<HTMLTextAreaElement>) => {
-      let newText = e.target.value;
-
-      if (newText.endsWith(",") || newText.endsWith("，")) {
-        newText = newText.slice(0, -1) + ", ";
-        setResultText(newText);
-        return;
-      }
-
-      setResultText(newText);
-
-      const newSelectedTags = newText
-        .split(", ")
-        .filter((displayName) => displayName && displayName.trim() !== "")
-        .map((displayName) => {
-          const { object, attribute, langName } = findTagData(displayName);
-          return { object, displayName, attribute, langName };
-        });
-      setSelectedTags(newSelectedTags);
-    },
-    [findTagData, setSelectedTags]
-  );
-
-  const handleSuggestTagClick = (tag: TagItem) => {
-    setIsComposing(false); // 强制结束当前的输入法状态，避免中文输入法兼容问题
-
-    const newSelectedTags = [...selectedTags];
-    if (newSelectedTags.length > 0) {
-      newSelectedTags[newSelectedTags.length - 1] = tag;
-    } else {
-      newSelectedTags.push(tag);
-    }
-
-    setSelectedTags(newSelectedTags);
-    setResultText(newSelectedTags.map((t) => t.displayName).join(", "));
-  };
-
-  const handleBlur = useCallback(() => {
-    let replacedText = resultText
-      .replace(/，/g, ", ")
-      //.replace(/\s*,\s*/g, ", ") //避免组合标签被拆分
-      .replace(/\s+/g, " ");
-
-    const displayNames = replacedText.split(", ").filter((name) => name.trim() !== "");
-    const uniqueDisplayNames = Array.from(new Set(displayNames.map((displayName) => normalizeString(displayName))));
-
-    const uniqueSelectedTags = uniqueDisplayNames.map((displayName) => {
-      const { object, attribute, langName, displayName: foundDisplayName } = findTagData(displayName);
-      return {
-        object,
-        displayName: foundDisplayName || displayName,
-        attribute,
-        langName,
-      };
+  const handleClear = useCallback(() => {
+    setSelectedTags([]);
+    setResultText("");
+    messageApi.open({
+      type: "success",
+      content: t("clearSuccess"),
     });
-
-    const filteredSelectedTags = uniqueSelectedTags.filter((tag) => tag.displayName && tag.displayName.trim() !== "");
-
-    setSelectedTags(filteredSelectedTags);
-
-    const newText = filteredSelectedTags.map((tag) => tag.displayName).join(", ");
-    setResultText(newText);
-  }, [resultText, findTagData, setSelectedTags]);
-
-  useEffect(() => {
-    const lastTagName = normalizeString(resultText.split(", ").pop()?.trim() || "");
-    if (lastTagName) {
-      let recommendedTags = tagsData
-        .filter((tag) => normalizeString(tag.displayName || "").includes(lastTagName))
-        .sort((a, b) => {
-          const aNormalized = normalizeString(a.displayName || "");
-          const bNormalized = normalizeString(b.displayName || "");
-          if (aNormalized.startsWith(lastTagName) && !bNormalized.startsWith(lastTagName)) {
-            return -1;
-          }
-          if (!aNormalized.startsWith(lastTagName) && bNormalized.startsWith(lastTagName)) {
-            return 1;
-          }
-          return aNormalized.localeCompare(bNormalized);
-        });
-
-      // 如果没有找到推荐标签，使用 langName 搜索
-      if (recommendedTags.length === 0) {
-        recommendedTags = tagsData
-          .filter((tag) => normalizeString(tag.langName || "").includes(lastTagName))
-          .sort((a, b) => {
-            const aNormalized = normalizeString(a.langName || "");
-            const bNormalized = normalizeString(b.langName || "");
-            if (aNormalized.startsWith(lastTagName) && !bNormalized.startsWith(lastTagName)) {
-              return -1;
-            }
-            if (!aNormalized.startsWith(lastTagName) && bNormalized.startsWith(lastTagName)) {
-              return 1;
-            }
-            return aNormalized.localeCompare(bNormalized);
-          });
-      }
-
-      // 只保留前 10 个最相关的标签
-      recommendedTags = recommendedTags.slice(0, 10);
-      setSuggestedTags(recommendedTags);
-    } else {
-      setSuggestedTags([]);
-    }
-  }, [resultText, tagsData]);
-
-  const handleCompositionStart = () => {
-    setIsComposing(true);
-  };
-
-  const handleCompositionEnd = (e: React.CompositionEvent<HTMLTextAreaElement>) => {
-    setIsComposing(false);
-    handleResultTextChange(e as unknown as React.ChangeEvent<HTMLTextAreaElement>);
-  };
+  }, [setSelectedTags, t]);
 
   const handleTranslate = async () => {
     try {
@@ -235,32 +226,31 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
   const handleColorReplace = () => {
     let updatedText = resultText;
     const combinedColorRegex = new RegExp(`\\b(${colorArray.join("|")})\\b`, "gi");
-    updatedText = updatedText.replace(combinedColorRegex, (match) => {
-      const newColor = getRandomColor();
-      console.log(`Replacing ${match} with ${newColor}`);
-      return newColor;
-    });
-    setResultText(updatedText);
+    const matches = updatedText.match(combinedColorRegex);
+    if (matches && matches.length > 0) {
+      updatedText = updatedText.replace(combinedColorRegex, (match) => {
+        const newColor = getRandomColor();
+        console.log(`Replacing ${match} with ${newColor}`);
+        return newColor;
+      });
+      setResultText(updatedText);
+      messageApi.open({
+        type: "success",
+        content: `Successfully replaced ${matches.length} color matches.`,
+      });
+    } else {
+      messageApi.open({
+        type: "info",
+        content: "No color matches found to replace.",
+      });
+    }
   };
 
   return (
     <>
       {contextHolder}
       <Space wrap>
-        {[
-          {
-            text: CONSTANT_TEXT_1,
-            type: "primary",
-            tooltipKey: "tooltip-light",
-            promptKey: "prompt-light",
-          },
-          {
-            text: CONSTANT_TEXT_2,
-            type: "primary",
-            tooltipKey: "tooltip-polish",
-            promptKey: "prompt-polish",
-          },
-        ].map(({ text, type, tooltipKey, promptKey }) => (
+        {CONSTANT_BUTTONS.map(({ text, type, tooltipKey, promptKey }) => (
           <Tooltip key={tooltipKey} title={t(tooltipKey)}>
             <Button type={type as "primary"} onClick={() => handleConstantText(text)}>
               {t(promptKey)}
@@ -285,8 +275,8 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
         }}
         onChange={handleResultTextChange}
         onBlur={handleBlur}
-        onCompositionStart={handleCompositionStart}
-        onCompositionEnd={handleCompositionEnd}
+        onCompositionStart={() => setIsComposing(true)}
+        onCompositionEnd={() => setIsComposing(false)}
         rows={10}
         className="w-full mt-2 mb-5"
         style={{
@@ -295,6 +285,16 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
         }}
       />
       <Flex gap="4px 0" wrap>
+        {exactMatchTag && (
+          <Tag icon={<CheckCircleOutlined />} color="success" style={{ pointerEvents: "none" }}>
+            <Text ellipsis={{ tooltip: exactMatchTag.displayName }} className="max-w-[200px] truncate">
+              {exactMatchTag.displayName}
+            </Text>
+            <Text type="secondary" className="ml-1">
+              {exactMatchTag.langName}{" "}
+            </Text>
+          </Tag>
+        )}
         {suggestedTags.map((tag, index) => {
           const tagLangName = normalizeString(tag.langName) !== normalizeString(tag.displayName) ? tag.langName : "";
           return (

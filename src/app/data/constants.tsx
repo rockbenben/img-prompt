@@ -1,10 +1,25 @@
+const CONSTANT_TEXT_1 = "Natural Lighting, Studio lighting, Cinematic Lighting, Crepuscular Rays, X-Ray, Backlight";
+
+const CONSTANT_TEXT_2 =
+  "insanely detailed and intricate, masterpiece, high_contrast, best quality, best aesthetic, stunning, Gorgeous, Surrealistic, Elegant, luxurious, subtle, delicate, captivating, in a symbolic and meaningful style, 8K";
+
+export const CONSTANT_BUTTONS = [
+  {
+    text: CONSTANT_TEXT_1,
+    type: "primary",
+    tooltipKey: "tooltip-light",
+    promptKey: "prompt-light",
+  },
+  {
+    text: CONSTANT_TEXT_2,
+    type: "primary",
+    tooltipKey: "tooltip-polish",
+    promptKey: "prompt-polish",
+  },
+];
+
 export const NEGATIVE_TEXT =
   "(normal aesthetic,bad aesthetic,worst quality,low quality,medium quality,illustration,3d,2d,painting,cartoons,sketch:1.4),(blurry:1.4),(depth of field,bokeh,blurred foreground),ugly,bad anatomy,poorly drawn face,poorly drawn hands,deformed,mutation,mutated hands,malformed limbs,extra fingers,extra arms,extra legs,extra limbs,missing fingers,fused fingers,missing arms,missing legs,bad proportions,extra digit,extra foot,bad body,bad feet,duplicate,long neck,tilted head,cross-eyed,looking away,facing away,gross proportions,fewer digits,morbid,mutilated,skin blemishes,skin spots,acnes,(fat:1.2),dehydrated,monochrome,grayscale,polar lowres,lowres,jpeg artifacts,cropped,teethcropped,text,error,signature,watermark,username,out of frame";
-
-export const CONSTANT_TEXT_1 = "Natural Lighting, Studio lighting, Cinematic Lighting, Crepuscular Rays, X-Ray, Backlight";
-
-export const CONSTANT_TEXT_2 =
-  "insanely detailed and intricate, masterpiece, high_contrast, best quality, best aesthetic, stunning, Gorgeous, Surrealistic, Elegant, luxurious, subtle, delicate, captivating, in a symbolic and meaningful style, 8K";
 
 export const colorArray = [
   "white",

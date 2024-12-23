@@ -34,7 +34,7 @@ const SelectedTagsSection: FC<SelectedTagsSectionProps> = ({ selectedTags = [], 
   }
 
   return (
-    <div className="p-4 bg-gray-50 dark:bg-gray-800 rounded-lg">
+    <div className="p-4 bg-gray-800 light:bg-gray-600 rounded-lg">
       {Object.entries(tagsByObjectAndAttribute).map(([object, tagsByAttribute]) => (
         <div key={object} className="mb-4">
           <Title level={5} className="mb-2 text-gray-600 dark:text-gray-300">
