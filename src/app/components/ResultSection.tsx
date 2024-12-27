@@ -122,6 +122,8 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
         .filter(Boolean)
         .join(", ");
       setResultText(newText);
+    } else if (selectedTags.length === 0) {
+      setResultText("");
     }
   }, [selectedTags, isComposing]);
 
