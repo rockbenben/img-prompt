@@ -1,6 +1,7 @@
 import React, { FC, useState, useEffect, useCallback, useMemo } from "react";
 import { Button, Input, message, Tooltip, Typography, Space, Flex, Tag } from "antd";
 import { CheckCircleOutlined } from "@ant-design/icons";
+import { useTheme } from "next-themes";
 import { useTranslations } from "next-intl";
 import { CONSTANT_BUTTONS, NEGATIVE_TEXT, colorArray } from "@/app/data/constants";
 import { copyToClipboard } from "@/app/utils/copyToClipboard";
@@ -26,6 +27,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
   const [exactMatchTag, setExactMatchTag] = useState<TagItem | null>(null);
   const [inputText, setInputText] = useState("");
   const [isComposing, setIsComposing] = useState(false); // 中、日、韩输入法状态
+  const { theme } = useTheme();
 
   const findTagData = useMemo(() => {
     const tagMap = new Map(tagsData.map((tag) => [normalizeString(tag.displayName || ""), tag]));
@@ -56,6 +58,8 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
       let newText = e.target.value;
       if (newText.endsWith(",") || newText.endsWith("，")) {
         newText = newText.slice(0, -1).replace(/,\s*$/g, "") + ", ";
+        setResultText(newText);
+        return;
       }
 
       setResultText(newText);
@@ -128,6 +132,9 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
       setSuggestedTags([]);
       setExactMatchTag(null);
       return;
+    }
+    if (exactMatchTag) {
+      setExactMatchTag(null);
     }
 
     const getRecommendedTags = (searchField: keyof TagItem) =>
@@ -278,11 +285,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
         onCompositionStart={() => setIsComposing(true)}
         onCompositionEnd={() => setIsComposing(false)}
         rows={10}
-        className="w-full mt-2 mb-5"
-        style={{
-          backgroundColor: "#333",
-          color: "#d3d3d3",
-        }}
+        className={`w-full mt-2 mb-5 ${theme === "light" ? "bg-gray-50 text-gray-600" : "bg-gray-800 text-gray-300"}`}
       />
       <Flex gap="4px 0" wrap>
         {exactMatchTag && (
