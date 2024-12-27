@@ -2,8 +2,9 @@ import React, { FC, useMemo } from "react";
 import { Tag, Typography, Space, theme } from "antd";
 import { normalizeString } from "@/app/utils/normalizeString";
 import { TagItem } from "./types";
+import { useTheme } from "next-themes";
 
-const { Title, Text } = Typography;
+const { Text } = Typography;
 
 interface SelectedTagsSectionProps {
   selectedTags: TagItem[];
@@ -12,7 +13,7 @@ interface SelectedTagsSectionProps {
 
 const SelectedTagsSection: FC<SelectedTagsSectionProps> = ({ selectedTags = [], onTagClick }) => {
   // Get the current theme token
-  const { token } = theme.useToken();
+  const { theme } = useTheme();
 
   // Group tags by object and attribute
   const tagsByObjectAndAttribute = useMemo(() => {
@@ -34,15 +35,15 @@ const SelectedTagsSection: FC<SelectedTagsSectionProps> = ({ selectedTags = [], 
   }
 
   return (
-    <div className="p-4 bg-gray-800 light:bg-gray-600 rounded-lg">
+    <div className={`p-3 rounded-lg ${theme === "light" ? "bg-gray-50" : "bg-gray-800"}`}>
       {Object.entries(tagsByObjectAndAttribute).map(([object, tagsByAttribute]) => (
         <div key={object} className="mb-4">
-          <Title level={5} className="mb-2 text-gray-600 dark:text-gray-300">
+          <Text strong className={`mb-2 text-gray-400`}>
             {object}
-          </Title>
+          </Text>
           {Object.entries(tagsByAttribute).map(([attribute, tags]) => (
             <div key={`${object}-${attribute}`} className="mb-3">
-              <Text type="secondary" className="mr-2 dark:text-gray-400">
+              <Text type="secondary" className="mr-2 text-gray-400">
                 {attribute}:
               </Text>
               <Space size={[8, 8]} wrap>
@@ -54,15 +55,12 @@ const SelectedTagsSection: FC<SelectedTagsSectionProps> = ({ selectedTags = [], 
                   return (
                     <Tag
                       key={tag.displayName}
-                      color="geekblue"
+                      color="blue"
                       onClick={() => onTagClick(tag)}
                       className="flex items-center cursor-pointer hover:opacity-80 transition-opacity"
                       style={{
                         display: "inline-flex",
                         alignItems: "center",
-                        backgroundColor: token.colorPrimaryBg,
-                        borderColor: token.colorPrimaryBorder,
-                        color: token.colorPrimaryText,
                       }}>
                       <Space size={4} align="center">
                         <span className="font-medium">{tagDisplayName}</span>
