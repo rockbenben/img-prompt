@@ -1,16 +1,16 @@
 "use client";
 import { useState, useEffect, useContext, FC, useMemo, useCallback } from "react";
-import { Row, Col, Typography } from "antd";
+import { Row, Col, Tooltip, Typography } from "antd";
 
-import { DataContext } from "../utils/DataContext";
-import tagsData2 from "../data/prompt-custom.json";
+import { DataContext } from "@/app/utils/DataContext";
+import tagsData2 from "@/app/data/prompt-custom.json";
 
-import ObjectSection from "../components/ObjectSection";
-import AttributeSection from "../components/AttributeSection";
-import TagSection from "../components/TagSection";
-import SelectedTagsSection from "../components/SelectedTagsSection";
-import ResultSection from "../components/ResultSection";
-import { TagItem } from "../components/types";
+import ObjectSection from "@/app/components/ObjectSection";
+import AttributeSection from "@/app/components/AttributeSection";
+import TagSection from "@/app/components/TagSection";
+import SelectedTagsSection from "@/app/components/SelectedTagsSection";
+import ResultSection from "@/app/components/ResultSection";
+import { TagItem } from "@/app/components/types";
 
 import { useTranslations } from "next-intl";
 
@@ -69,19 +69,19 @@ const Home: FC = () => {
       <Row gutter={[16, 16]}>
         <Col xs={24} lg={18}>
           <Title level={5} className="m-2">
-            1️⃣{t("section1")}
+            <Tooltip title={t("hierarchyTip")}>1️⃣{t("section1")}</Tooltip>
           </Title>
           <ObjectSection objects={objects} activeObject={activeObject} onObjectClick={handleObjectClick} />
           <Title level={5} className="m-2">
-            2️⃣{t("section2")}
+            <Tooltip title={t("hierarchyTip")}>2️⃣{t("section2")}</Tooltip>
           </Title>
           <AttributeSection attributes={attributes} selectedAttribute={activeAttribute} onAttributeClick={handleAttributeClick} />
           <Title level={5} className="m-2">
-            3️⃣{t("section3")}
+            <Tooltip title={t("hierarchyTip")}>3️⃣{t("section3")}</Tooltip>
           </Title>
           <TagSection tags={combinedTagsData.filter((tag) => tag.object === activeObject && tag.attribute === activeAttribute)} selectedTags={selectedTags} onTagClick={handleTagClick} />
           <Title level={5} className="m-2">
-            {t("section4")}
+            ▣ {t("currentSelection")}
           </Title>
           <SelectedTagsSection selectedTags={selectedTags} onTagClick={handleTagClick} />
         </Col>
