@@ -1,35 +1,52 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - Générateur d'images optimisé par l'IA pour la diffusion stable, Midjourney, DALL·E et FLUX",
-    "description": "Outil intuitif de génération d'images, conçu pour être utilisé avec des plateformes d'IA telles que Stable Diffusion, Midjourney, DALL·E et FLUX. Il simplifie le processus de création d'images efficaces et créatives, permettant aux utilisateurs de générer de meilleurs résultats sans effort. Avec IMGPrompt, vous pouvez rechercher des invites pertinentes dans votre langue maternelle, les traduire en anglais et transformer vos idées créatives en résultats visuels époustouflants.",
-    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, générateur d'invite d'image, invite d'image IA, outil de créativité visuelle, traduction d'invite, art IA, invites de génération d'image, activateur de créativité"
+    "title": "IMGPrompt - Générateur d'invite de peinture intelligent AI | Prend en charge la diffusion stable/Midjourney/DALL·E/FLUX",
+    "description": "IMGPrompt est un outil professionnel de génération d'invite de peinture IA compatible avec Stable Diffusion, Midjourney, DALL·E et FLUX. Il prend en charge les systèmes de traduction intelligente et de recommandation créative multilingue, offrant une gestion du vocabulaire visuel, des paramètres de style prédéfinis et des modèles d'effets d'éclairage pour aider les créateurs à réaliser rapidement une visualisation créative. Grâce à des outils intelligents d'association sémantique et de randomisation des couleurs, il suscite l'inspiration créative et optimise les effets de génération.",
+    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, Génération d'invite d'image, Outil de créativité visuelle, invite, IA, recommandation d'invite, invite de traduction, invite d'image"
   },
   "ToolPage": {
-    "section1": "Sélectionner un objet",
-    "section2": "Sélectionner un attribut",
-    "section3": "Sélectionner une balise",
-    "section4": "Actuellement sélectionné"
+    "section1": "Sélectionnez le sujet",
+    "section2": "Affiner la catégorie",
+    "section3": "Ajouter des balises",
+    "currentSelection": "Questions sélectionnées",
+    "hierarchyTip": "Séquence d'opérations : Sélectionner un sujet → Affiner la catégorie → Ajouter des balises"
   },
   "ResultSection": {
-    "tooltip-light": "Insérer un éclairage de portrait couramment utilisé",
-    "prompt-light": "Lumière de portrait",
-    "tooltip-polish": "Insérer des invites d'amélioration d'image fréquemment utilisées",
-    "prompt-polish": "Invites en polonais",
-    "insertSuccess": "Inséré la description spécifiée",
-    "tooltip-negative": "Copiez les invites négatives fréquemment utilisées",
-    "prompt-negative": "Invites négatives",
-    "button-copy": "Copier le résultat",
-    "clearSuccess": "Effacer la boîte de dialogue",
+    "tooltip-light": "Appliquer un modèle d’éclairage de portrait (y compris l’éclairage du film, les rayons du crépuscule et autres)",
+    "prompt-light": "Éclairage de portrait",
+    "tooltip-polish": "Charger les paramètres d’optimisation de l’image (amélioration de la résolution/amélioration du style artistique)",
+    "prompt-polish": "Optimisation de la qualité",
+    "insertSuccess": "Des paramètres d'optimisation ont été ajoutés à l'invite",
+    "tooltip-negative": "Copiez les invites négatives courantes (pour éviter les défauts courants)",
+    "prompt-negative": "Invite négative",
+    "prompt": "Rapide",
+    "button-copy": "Copie",
+    "clearSuccess": "Les invites ont été effacées",
     "button-clear": "Clair",
-    "placeholder-translate": "Entrez le texte à traduire",
+    "tooltip-translate": "Saisissez du texte dans n'importe quelle langue pour le traduire en anglais",
     "button-translate": "Traduire",
-    "translateSuccess": "Traduction réussie et ajoutée à la boîte de dialogue",
-    "translateEmptyError": "Le contenu de la traduction ne peut pas être vide",
+    "translateSuccess": "Traduction réussie et ajoutée à l'invite",
+    "translateEmptyError": "Veuillez saisir le contenu à traduire",
     "translateFailError": "La traduction a échoué, veuillez réessayer",
-    "title-other": "Autres fonctions :",
-    "tooltip-randomColor": "Remplacer aléatoirement les couleurs dans la description",
-    "button-randomcolor": "Remplacement de couleur aléatoire",
-    "copySuccess": "Copié avec succès dans le presse-papiers",
-    "manualCopy": "La copie a échoué, veuillez copier manuellement"
+    "title-other": "Fonctionnalités avancées :",
+    "tooltip-randomColor": "Changer de couleur de manière aléatoire",
+    "button-randomcolor": "Couleur aléatoire"
+  },
+  "CopyToClipboard": {
+    "empty": "Le contenu est vide, rien à copier",
+    "unsupported": "Votre navigateur ne prend pas en charge les opérations du presse-papiers, veuillez essayer de copier manuellement ou d'utiliser un autre navigateur",
+    "success": "Copié avec succès, vous pouvez le coller dans l'outil de peinture AI",
+    "failure": "La copie a échoué, veuillez copier manuellement"
+  },
+  "feedback": {
+    "feedback1": "Commentaires et suggestions",
+    "feedback2": "Si vous rencontrez des problèmes lors de l'utilisation ou si vous avez des suggestions et des idées, n'hésitez pas à me le faire savoir ! Vos commentaires influenceront directement le développement et l'amélioration des fonctionnalités futures, nous aidant à créer un outil qui répond mieux aux besoins de chacun.",
+    "feedback3": "Veuillez décrire en détail votre cas d'utilisation ou le problème rencontré, ou partager vos idées créatives. J'examinerai attentivement chaque commentaire et procéderai aux ajustements et optimisations dès que possible.",
+    "reaction0": "En haut",
+    "reaction1": "Soutien",
+    "reaction2": "Cool",
+    "reaction3": "Quoi?",
+    "reaction4": "Puzzle",
+    "placeholder": "Merci de laisser un message, aucune connexion requise (entrez votre email pour recevoir les notifications de réponse)"
   }
 }

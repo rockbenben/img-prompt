@@ -1,35 +1,52 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - KI-gestützter Bildaufforderungsgenerator für stabile Diffusion, Midjourney, DALL·E und FLUX",
-    "description": "Intuitives Tool zur Generierung von Bildaufforderungen, das für die Verwendung mit KI-Plattformen wie Stable Diffusion, Midjourney, DALL·E und FLUX entwickelt wurde. Es vereinfacht den Prozess der Erstellung effektiver und kreativer Bildaufforderungen und ermöglicht es Benutzern, mühelos bessere Ergebnisse zu erzielen. Mit IMGPrompt können Sie in Ihrer Muttersprache nach relevanten Aufforderungen suchen, diese ins Englische übersetzen und Ihre kreativen Ideen in beeindruckende visuelle Ergebnisse verwandeln.",
-    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, Bildaufforderungsgenerator, KI-Bildaufforderung, visuelles Kreativitätstool, Aufforderungsübersetzung, KI-Kunst, Bildgenerierungsaufforderungen, Kreativitätsverstärker"
+    "title": "IMGPrompt - Intelligenter Eingabeaufforderungsgenerator für KI-Malerei | Unterstützt stabile Diffusion/Midjourney/DALL·E/FLUX",
+    "description": "IMGPrompt ist ein professionelles KI-Tool zur Generierung von Malaufforderungen, das mit Stable Diffusion, Midjourney, DALL·E und FLUX kompatibel ist. Es unterstützt intelligente Übersetzungssysteme für mehrere Sprachen und kreative Empfehlungssysteme und bietet visuelles Vokabularmanagement, voreingestellte Stilparameter und Lichteffektvorlagen, damit Kreative schnell kreative Visualisierungen erstellen können. Durch intelligente semantische Assoziations- und Farbrandomisierungstools weckt es kreative Inspiration und optimiert Generierungseffekte.",
+    "keywords": "IMGPrompt, Stabile Diffusion, Midjourney, DALL·E, FLUX, Bildeingabeaufforderungsgenerierung, Visuelles Kreativitätstool, Eingabeaufforderung, KI, Eingabeaufforderungsempfehlung, Übersetzungseingabeaufforderung, Bildeingabeaufforderung"
   },
   "ToolPage": {
-    "section1": "Objekt auswählen",
-    "section2": "Attribut auswählen",
-    "section3": "Tag auswählen",
-    "section4": "Zurzeit ausgewählt"
+    "section1": "Thema auswählen",
+    "section2": "Kategorie verfeinern",
+    "section3": "Tags hinzufügen",
+    "currentSelection": "Ausgewählte Eingabeaufforderungen",
+    "hierarchyTip": "Bedienfolge: Thema auswählen → Kategorie verfeinern → Tags hinzufügen"
   },
   "ResultSection": {
-    "tooltip-light": "Einfügen häufig verwendeter Porträtbeleuchtung",
-    "prompt-light": "Porträtlicht",
-    "tooltip-polish": "Einfügen häufig verwendeter Eingabeaufforderungen zur Bildverbesserung",
-    "prompt-polish": "Polnische Eingabeaufforderungen",
-    "insertSuccess": "Die angegebene Beschreibung eingefügt",
-    "tooltip-negative": "Häufig verwendete negative Eingabeaufforderungen kopieren",
-    "prompt-negative": "Negative Eingabeaufforderungen",
-    "button-copy": "Ergebnis kopieren",
-    "clearSuccess": "Das Eingabefeld wurde gelöscht",
+    "tooltip-light": "Porträtbeleuchtungsvorlage anwenden (einschließlich Filmbeleuchtung, Dämmerungsstrahlen und andere)",
+    "prompt-light": "Porträtbeleuchtung",
+    "tooltip-polish": "Bildoptimierungsparameter laden (Auflösungsverbesserung/Verbesserung des künstlerischen Stils)",
+    "prompt-polish": "Qualitätsoptimierung",
+    "insertSuccess": "Optimierungsparameter wurden zur Eingabeaufforderung hinzugefügt",
+    "tooltip-negative": "Kopieren Sie häufige negative Eingabeaufforderungen (um häufige Fehler zu vermeiden)",
+    "prompt-negative": "Negative Eingabeaufforderung",
+    "prompt": "Prompt",
+    "button-copy": "Kopie",
+    "clearSuccess": "Eingabeaufforderungen wurden gelöscht",
     "button-clear": "Klar",
-    "placeholder-translate": "Geben Sie den zu übersetzenden Text ein",
+    "tooltip-translate": "Geben Sie Text in einer beliebigen Sprache ein, um ihn ins Englische zu übersetzen",
     "button-translate": "Übersetzen",
-    "translateSuccess": "Übersetzung erfolgreich und zum Eingabefeld hinzugefügt",
-    "translateEmptyError": "Der Übersetzungsinhalt darf nicht leer sein",
+    "translateSuccess": "Übersetzung erfolgreich und zur Eingabeaufforderung hinzugefügt",
+    "translateEmptyError": "Bitte geben Sie den zu übersetzenden Inhalt ein",
     "translateFailError": "Die Übersetzung ist fehlgeschlagen. Bitte versuchen Sie es erneut.",
-    "title-other": "Weitere Funktionen:",
-    "tooltip-randomColor": "Farben in der Beschreibung nach dem Zufallsprinzip ersetzen",
-    "button-randomcolor": "Zufällige Farbersetzung",
-    "copySuccess": "Erfolgreich in die Zwischenablage kopiert",
-    "manualCopy": "Kopieren fehlgeschlagen, bitte manuell kopieren"
+    "title-other": "Erweiterte Funktionen:",
+    "tooltip-randomColor": "Eingabeaufforderung zum zufälligen Farbwechsel",
+    "button-randomcolor": "Zufällige Farbe"
+  },
+  "CopyToClipboard": {
+    "empty": "Der Inhalt ist leer, nichts zu kopieren",
+    "unsupported": "Ihr Browser unterstützt keine Zwischenablage-Operationen. Bitte versuchen Sie es manuell oder verwenden Sie einen anderen Browser",
+    "success": "Erfolgreich kopiert, Sie können es in das AI-Malwerkzeug einfügen",
+    "failure": "Kopieren fehlgeschlagen, bitte manuell kopieren"
+  },
+  "feedback": {
+    "feedback1": "Feedback und Vorschläge",
+    "feedback2": "Wenn Sie bei der Verwendung auf Probleme stoßen oder Vorschläge und Ideen haben, lassen Sie es mich gerne wissen! Ihr Feedback wird sich direkt auf die Entwicklung und Verbesserung zukünftiger Funktionen auswirken und uns dabei helfen, ein Tool zu erstellen, das den Anforderungen aller besser gerecht wird.",
+    "feedback3": "Bitte beschreiben Sie Ihren Anwendungsfall oder das aufgetretene Problem ausführlich oder teilen Sie Ihre kreativen Ideen mit. Ich werde jedes Feedback sorgfältig prüfen und so schnell wie möglich Anpassungen und Optimierungen vornehmen.",
+    "reaction0": "Hoch",
+    "reaction1": "Unterstützung",
+    "reaction2": "Cool",
+    "reaction3": "Was?",
+    "reaction4": "Puzzle",
+    "placeholder": "Bitte hinterlassen Sie eine Nachricht, kein Login erforderlich (geben Sie Ihre E-Mail-Adresse ein, um Antwortbenachrichtigungen zu erhalten)"
   }
 }

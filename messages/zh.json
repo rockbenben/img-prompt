@@ -1,36 +1,52 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - Stable Diffusion、Midjourney、DALL·E 和 FLUX 的图像提示词生成工具",
-    "description":
-      "IMGPrompt 是一个直观的图像提示词生成工具，可以方便地在 Stable Diffusion、Midjourney、DALL·E 和 FLUX 的流程中使用，使图像提示词的创建变得简单而有效，轻松激发创意并获得更好的图片结果。通过 IMGPrompt，你可以使用英文或母语搜索相关提示词，将提示词翻译为英语，轻易将自己的创意想法转化为视觉现实。",
+    "title": "IMGPrompt - AI 绘画智能提示词生成器 | 支持 Stable Diffusion/Midjourney/DALL·E/FLUX",
+    "description": "IMGPrompt 是专业的 AI 绘画提示词生成工具，适配 Stable Diffusion、Midjourney、DALL·E 和 FLUX。支持多语言智能翻译与创意推荐系统，提供可视化词库管理、风格参数预设和光影效果模板，帮助创作者快速实现创意视觉化。通过智能语义联想和色彩随机化工具，激发创作灵感，优化生成效果。",
     "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, Image prompt generation, Visual creativity toolprompt,ai,prompt, 提示词推荐，翻译提示词，图像提示词"
   },
   "ToolPage":{
-    "section1": "选择对象",
-    "section2": "选择属性",
-    "section3": "选择标签",
-    "section4": "当前选中"
+    "section1": "选择主体",
+    "section2": "细化类别",
+    "section3": "添加标签",
+    "currentSelection": "已选提示词",
+    "hierarchyTip": "操作顺序：选择主体 → 细化类别 → 添加标签"
   },
   "ResultSection":{
-    "tooltip-light": "插入肖像常用光线",
-    "prompt-light": "肖像光线",
-    "tooltip-polish": "插入常用图像润色词",
-    "prompt-polish": "常用润色",
-    "insertSuccess": "已插入指定描述",
-    "tooltip-negative": "复制常用否定提示词",
+    "tooltip-light": "应用人像光影模板（包含电影光效、暮光射线等专布光方案）",
+    "prompt-light": "人像布光",
+    "tooltip-polish": "加载图像优化参数（分辨率增强/细节锐化/艺术风格强化）",
+    "prompt-polish": "画质优化",
+    "insertSuccess": "优化参数已添加到提示词",
+    "tooltip-negative": "复制常用否定提示词（避免常见瑕疵要素）",
     "prompt-negative": "否定提示词",
-    "button-copy": "复制结果",
-    "clearSuccess": "已清空提示词框",
+    "prompt": "提示词",
+    "button-copy": "复制",
+    "clearSuccess": "提示词已清空",
     "button-clear": "清空",
-    "placeholder-translate": "输入要翻译的文本",
+    "tooltip-translate": "输入任意语言文本，自动翻译为英文",
     "button-translate": "翻译",
-    "translateSuccess": "翻译成功并添加到提示词框中",
-    "translateEmptyError": "翻译内容不能为空",
+    "translateSuccess": "翻译成功并已添加到提示词",
+    "translateEmptyError": "请输入要翻译的内容",
     "translateFailError": "翻译失败，请重试",
-    "tooltip-randomColor": "随机替换描述中的颜色",
-    "title-other":"其他功能：",
-    "button-randomcolor": "随机换色",
-    "copySuccess": "文本已成功复制到剪贴板",
-    "manualCopy": "复制失败，请手动复制内容"
+    "title-other":"高级功能：",
+    "tooltip-randomColor": "随机更换颜色提示词",
+    "button-randomcolor": "随机颜色"
+  },
+  "CopyToClipboard": {
+    "empty": "内容为空，无需复制",
+    "unsupported": "当前浏览器不支持剪贴板操作，请尝试手动复制或使用其他浏览器",
+    "success": "已复制，可粘贴至 AI 绘画工具",
+    "failure": "复制失败，请手动复制"
+  },
+  "feedback":{
+    "feedback1": "反馈与建议",
+    "feedback2": "如果你在使用过程中遇到了问题，或者有任何建议和想法，欢迎随时告诉我！你的反馈将直接影响到未来功能的开发和改进，帮助我们一起打造更符合大家需求的工具。",
+    "feedback3": "请详细描述一下你的使用场景或遇到的问题，或者分享你的创意想法。我会认真看每一条反馈，并尽快做出调整和优化。",
+    "reaction0": "赞一个",
+    "reaction1": "支持下",
+    "reaction2": "有点酷",
+    "reaction3": "啥玩意",
+    "reaction4": "看不懂",
+    "placeholder": "请留言，无需登录（填写邮箱可获回复提醒）"
   }
 }

@@ -1,35 +1,52 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - 安定拡散、中間旅程、DALL·E、FLUX 用の AI 搭載画像プロンプト ジェネレーター",
-    "description": "Stable Diffusion、Midjourney、DALL·E、FLUX などの AI プラットフォームで使用するために設計された直感的な画像プロンプト生成ツール。効果的でクリエイティブな画像プロンプトを作成するプロセスを簡素化し、ユーザーが簡単に優れた結果を生成できるようにします。IMGPrompt を使用すると、関連するプロンプトを母国語で検索し、英語に翻訳して、クリエイティブなアイデアを魅力的なビジュアル出力に変換できます。",
-    "keywords": "IMGPrompt、Stable Diffusion、Midjourney、DALL·E、FLUX、画像プロンプト ジェネレーター、AI 画像プロンプト、ビジュアル クリエイティビティ ツール、プロンプト翻訳、AI アート、画像生成プロンプト、クリエイティビティ エンハンサー"
+    "title": "IMGPrompt - AI ペインティング インテリジェント プロンプト ジェネレーター | 安定した拡散/中間旅程/DALL·E/FLUX をサポート",
+    "description": "IMGPrompt は、Stable Diffusion、Midjourney、DALL·E、FLUX と互換性のあるプロフェッショナルな AI ペイントプロンプト生成ツールです。多言語のインテリジェント翻訳とクリエイティブ推奨システムをサポートし、ビジュアル語彙管理、プリセット スタイル パラメーター、照明効果テンプレートを提供して、クリエイターがクリエイティブな視覚化を迅速に実現できるようにします。インテリジェントなセマンティック関連付けとカラーランダム化ツールを通じて、クリエイティブなインスピレーションを刺激し、生成効果を最適化します。",
+    "keywords": "IMGPrompt、安定した拡散、Midjourney、DALL·E、FLUX、画像プロンプト生成、ビジュアルクリエイティビティツール、プロンプト、AI、プロンプト推奨、プロンプトの翻訳、画像プロンプト"
   },
   "ToolPage": {
-    "section1": "オブジェクトを選択",
-    "section2": "属性を選択",
-    "section3": "タグを選択",
-    "section4": "現在選択中"
+    "section1": "件名を選択",
+    "section2": "カテゴリを絞り込む",
+    "section3": "タグを追加",
+    "currentSelection": "選択されたプロンプト",
+    "hierarchyTip": "操作手順: 件名を選択 → カテゴリを絞り込む → タグを追加"
   },
   "ResultSection": {
-    "tooltip-light": "よく使われるポートレート照明を挿入する",
-    "prompt-light": "ポートレートライト",
-    "tooltip-polish": "よく使用される画像強調プロンプトを挿入する",
-    "prompt-polish": "ポーランド語プロンプト",
-    "insertSuccess": "指定された説明を挿入しました",
-    "tooltip-negative": "よく使われる否定的なプロンプトをコピーする",
-    "prompt-negative": "否定的なプロンプト",
-    "button-copy": "結果をコピー",
-    "clearSuccess": "プロンプトボックスをクリアしました",
+    "tooltip-light": "ポートレート照明テンプレートを適用する（フィルム照明、夕暮れの光線などを含む）",
+    "prompt-light": "ポートレート照明",
+    "tooltip-polish": "画像最適化パラメータ（解像度向上/芸術的スタイル向上）を読み込む",
+    "prompt-polish": "品質の最適化",
+    "insertSuccess": "最適化パラメータがプロンプトに追加されました",
+    "tooltip-negative": "よくある否定的なプロンプトをコピーする（よくある欠陥を避けるため）",
+    "prompt-negative": "否定プロンプト",
+    "prompt": "プロンプト",
+    "button-copy": "コピー",
+    "clearSuccess": "プロンプトはクリアされました",
     "button-clear": "クリア",
-    "placeholder-translate": "翻訳するテキストを入力してください",
+    "tooltip-translate": "任意の言語でテキストを入力すると英語に翻訳されます",
     "button-translate": "翻訳する",
-    "translateSuccess": "翻訳が成功し、プロンプトボックスに追加されました",
-    "translateEmptyError": "翻訳内容は空欄にできません",
+    "translateSuccess": "翻訳が成功し、プロンプトに追加されました",
+    "translateEmptyError": "翻訳するコンテンツを入力してください",
     "translateFailError": "翻訳に失敗しました。もう一度お試しください",
-    "title-other": "その他の機能：",
-    "tooltip-randomColor": "説明内の色をランダムに置き換える",
-    "button-randomcolor": "ランダムカラー置換",
-    "copySuccess": "クリップボードにコピーされました",
-    "manualCopy": "コピーに失敗しました。手動でコピーしてください。"
+    "title-other": "高度な機能:",
+    "tooltip-randomColor": "ランダムに色を変更するプロンプト",
+    "button-randomcolor": "ランダムカラー"
+  },
+  "CopyToClipboard": {
+    "empty": "コンテンツが空なのでコピーするものがありません",
+    "unsupported": "お使いのブラウザはクリップボード操作をサポートしていません。手動でコピーするか、別のブラウザを使用してください。",
+    "success": "コピーに成功しました。AIペイントツールに貼り付けることができます。",
+    "failure": "コピーに失敗しました。手動でコピーしてください。"
+  },
+  "feedback": {
+    "feedback1": "フィードバックと提案",
+    "feedback2": "使用中に問題が発生した場合や、ご提案やアイデアがある場合は、お気軽にお知らせください。皆様のフィードバックは、将来の機能の開発と改善に直接影響し、皆様のニーズをよりよく満たすツールの作成に役立ちます。",
+    "feedback3": "使用事例や発生した問題を詳しく記述するか、独創的なアイデアを共有してください。フィードバックを一つ一つ慎重に検討し、できるだけ早く調整と最適化を行います。",
+    "reaction0": "上",
+    "reaction1": "サポート",
+    "reaction2": "いいね",
+    "reaction3": "何？",
+    "reaction4": "パズル",
+    "placeholder": "メッセージを残してください。ログインは必要ありません（返信通知を受け取るにはメールアドレスを入力してください）"
   }
 }

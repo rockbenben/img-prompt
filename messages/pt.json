@@ -1,35 +1,52 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - Gerador de prompt de imagem com tecnologia de IA para difusão estável, meio da jornada, DALL·E e FLUX",
-    "description": "Ferramenta intuitiva de geração de prompts de imagem projetada para uso com plataformas de IA como Stable Diffusion, Midjourney, DALL·E e FLUX. Ela simplifica o processo de criação de prompts de imagem eficazes e criativos, permitindo que os usuários gerem melhores resultados sem esforço. Com o IMGPrompt, você pode pesquisar prompts relevantes em seu idioma nativo, traduzi-los para o inglês e transformar suas ideias criativas em resultados visuais impressionantes.",
-    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, gerador de prompt de imagem, prompt de imagem de IA, ferramenta de criatividade visual, tradução de prompt, arte de IA, prompts de geração de imagem, intensificador de criatividade"
+    "title": "IMGPrompt - Gerador de Prompt Inteligente de Pintura de IA | Suporta Difusão Estável/Midjourney/DALL·E/FLUX",
+    "description": "IMGPrompt é uma ferramenta profissional de geração de prompt de pintura de IA compatível com Stable Diffusion, Midjourney, DALL·E e FLUX. Ele suporta sistemas de tradução inteligente multilíngue e recomendação criativa, oferecendo gerenciamento de vocabulário visual, parâmetros de estilo predefinidos e modelos de efeitos de iluminação para ajudar os criadores a obter rapidamente a visualização criativa. Por meio de ferramentas inteligentes de associação semântica e randomização de cores, ele desperta inspiração criativa e otimiza os efeitos de geração.",
+    "keywords": "IMGPrompt, Difusão Estável, Midjourney, DALL·E, FLUX, Geração de prompt de imagem, Ferramenta de criatividade visual, prompt, IA, recomendação de prompt, prompt de tradução, prompt de imagem"
   },
   "ToolPage": {
-    "section1": "Selecionar objeto",
-    "section2": "Selecionar Atributo",
-    "section3": "Selecionar Tag",
-    "section4": "Atualmente selecionado"
+    "section1": "Selecione o assunto",
+    "section2": "Refinar categoria",
+    "section3": "Adicionar tags",
+    "currentSelection": "Prompts selecionados",
+    "hierarchyTip": "Sequência de operações: Selecione Assunto → Refinar categoria → Adicionar tags"
   },
   "ResultSection": {
-    "tooltip-light": "Insira iluminação de retrato comumente usada",
-    "prompt-light": "Luz de retrato",
-    "tooltip-polish": "Insira prompts de aprimoramento de imagem comumente usados",
-    "prompt-polish": "Prompts em polonês",
-    "insertSuccess": "Inseriu a descrição especificada",
-    "tooltip-negative": "Copie os prompts negativos comumente usados",
-    "prompt-negative": "Prompts negativos",
-    "button-copy": "Copiar resultado",
-    "clearSuccess": "Limpou a caixa de prompt",
+    "tooltip-light": "Aplicar modelo de iluminação de retrato (incluindo iluminação de filme, raios crepusculares e outros)",
+    "prompt-light": "Iluminação de retrato",
+    "tooltip-polish": "Carregar parâmetros de otimização de imagem (melhoria de resolução/melhoria de estilo artístico)",
+    "prompt-polish": "Otimização da Qualidade",
+    "insertSuccess": "Parâmetros de otimização foram adicionados ao prompt",
+    "tooltip-negative": "Copie prompts negativos comuns (para evitar falhas comuns)",
+    "prompt-negative": "Prompt negativo",
+    "prompt": "Incitar",
+    "button-copy": "Cópia",
+    "clearSuccess": "Os prompts foram limpos",
     "button-clear": "Claro",
-    "placeholder-translate": "Digite o texto para traduzir",
+    "tooltip-translate": "Insira o texto em qualquer idioma para traduzir para o inglês",
     "button-translate": "Traduzir",
-    "translateSuccess": "Tradução bem-sucedida e adicionada à caixa de prompt",
-    "translateEmptyError": "O conteúdo da tradução não pode estar vazio",
+    "translateSuccess": "Tradução bem-sucedida e adicionada ao prompt",
+    "translateEmptyError": "Por favor, insira o conteúdo para traduzir",
     "translateFailError": "A tradução falhou, tente novamente",
-    "title-other": "Outras funções:",
-    "tooltip-randomColor": "Substituir cores aleatoriamente na descrição",
-    "button-randomcolor": "Substituição aleatória de cores",
-    "copySuccess": "Copiado com sucesso para a área de transferência",
-    "manualCopy": "A cópia falhou, copie manualmente"
+    "title-other": "Recursos avançados:",
+    "tooltip-randomColor": "Alterar prompt de cor aleatoriamente",
+    "button-randomcolor": "Cor aleatória"
+  },
+  "CopyToClipboard": {
+    "empty": "O conteúdo está vazio, nada para copiar",
+    "unsupported": "Seu navegador não suporta operações de área de transferência, tente copiar manualmente ou use um navegador diferente",
+    "success": "Copiado com sucesso, você pode colá-lo na ferramenta de pintura de IA",
+    "failure": "A cópia falhou, copie manualmente"
+  },
+  "feedback": {
+    "feedback1": "Comentários e sugestões",
+    "feedback2": "Se você encontrar algum problema durante o uso ou tiver alguma sugestão ou ideia, sinta-se à vontade para me avisar! Seu feedback influenciará diretamente o desenvolvimento e a melhoria de recursos futuros, nos ajudando a criar uma ferramenta que atenda melhor às necessidades de todos.",
+    "feedback3": "Por favor, descreva seu caso de uso ou o problema que você encontrou em detalhes, ou compartilhe suas ideias criativas. Considerarei cuidadosamente cada feedback e farei ajustes e otimizações o mais rápido possível.",
+    "reaction0": "Acima",
+    "reaction1": "Apoiar",
+    "reaction2": "Legal",
+    "reaction3": "O que?",
+    "reaction4": "Quebra-cabeça",
+    "placeholder": "Por favor, deixe uma mensagem, não é necessário fazer login (digite seu e-mail para receber notificações de resposta)"
   }
 }

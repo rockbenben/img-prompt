@@ -1,35 +1,52 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - Generatore di prompt di immagini basato sull'intelligenza artificiale per diffusione stabile, Midjourney, DALL·E e FLUX",
-    "description": "Strumento intuitivo di generazione di prompt di immagini progettato per l'uso con piattaforme AI come Stable Diffusion, Midjourney, DALL·E e FLUX. Semplifica il processo di creazione di prompt di immagini efficaci e creativi, consentendo agli utenti di generare risultati migliori senza sforzo. Con IMGPrompt, puoi cercare prompt pertinenti nella tua lingua madre, tradurli in inglese e trasformare le tue idee creative in straordinari output visivi.",
-    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, generatore di prompt di immagini, prompt di immagini AI, strumento di creatività visiva, traduzione di prompt, arte AI, prompt di generazione di immagini, potenziatore della creatività"
+    "title": "IMGPrompt - Generatore di prompt intelligenti per la pittura AI | Supporta diffusione stabile/metà viaggio/DALL·E/FLUX",
+    "description": "IMGPrompt è uno strumento professionale di generazione di prompt di pittura AI compatibile con Stable Diffusion, Midjourney, DALL·E e FLUX. Supporta sistemi di traduzione intelligente multi-lingua e di raccomandazione creativa, offrendo gestione del vocabolario visivo, parametri di stile preimpostati e modelli di effetti di illuminazione per aiutare i creatori a ottenere rapidamente una visualizzazione creativa. Attraverso strumenti intelligenti di associazione semantica e randomizzazione del colore, stimola l'ispirazione creativa e ottimizza gli effetti di generazione.",
+    "keywords": "IMGPrompt, diffusione stabile, midjourney, DALL·E, FLUX, generazione di prompt di immagini, strumento di creatività visiva, prompt, IA, raccomandazione di prompt, prompt di traduzione, prompt di immagini"
   },
   "ToolPage": {
-    "section1": "Seleziona oggetto",
-    "section2": "Seleziona attributo",
-    "section3": "Seleziona tag",
-    "section4": "Attualmente selezionato"
+    "section1": "Seleziona argomento",
+    "section2": "Affina categoria",
+    "section3": "Aggiungi tag",
+    "currentSelection": "Richieste selezionate",
+    "hierarchyTip": "Sequenza delle operazioni: Seleziona argomento → Affina categoria → Aggiungi tag"
   },
   "ResultSection": {
-    "tooltip-light": "Inserisci l'illuminazione per ritratti comunemente utilizzata",
-    "prompt-light": "Luce ritratto",
-    "tooltip-polish": "Inserisci richieste di miglioramento delle immagini comunemente utilizzate",
-    "prompt-polish": "Suggerimenti polacchi",
-    "insertSuccess": "Inserita la descrizione specificata",
-    "tooltip-negative": "Copia le richieste negative comunemente utilizzate",
-    "prompt-negative": "Richieste negative",
-    "button-copy": "Copia il risultato",
-    "clearSuccess": "Ho cancellato la casella del prompt",
+    "tooltip-light": "Applicare il modello di illuminazione per ritratti (inclusa l'illuminazione cinematografica, i raggi del crepuscolo e altri)",
+    "prompt-light": "Illuminazione ritratto",
+    "tooltip-polish": "Carica i parametri di ottimizzazione dell'immagine (miglioramento della risoluzione/miglioramento dello stile artistico)",
+    "prompt-polish": "Ottimizzazione della qualità",
+    "insertSuccess": "Sono stati aggiunti parametri di ottimizzazione al prompt",
+    "tooltip-negative": "Copiare le richieste negative più comuni (per evitare difetti comuni)",
+    "prompt-negative": "Richiesta negativa",
+    "prompt": "Richiesta",
+    "button-copy": "Copia",
+    "clearSuccess": "I prompt sono stati cancellati",
     "button-clear": "Chiaro",
-    "placeholder-translate": "Inserisci il testo da tradurre",
+    "tooltip-translate": "Inserisci il testo in qualsiasi lingua da tradurre in inglese",
     "button-translate": "Tradurre",
-    "translateSuccess": "Traduzione riuscita e aggiunta alla casella di richiesta",
-    "translateEmptyError": "Il contenuto della traduzione non può essere vuoto",
+    "translateSuccess": "Traduzione riuscita e aggiunta al prompt",
+    "translateEmptyError": "Inserisci il contenuto da tradurre",
     "translateFailError": "Traduzione fallita, riprova.",
-    "title-other": "Altre funzioni:",
-    "tooltip-randomColor": "Sostituisci casualmente i colori nella descrizione",
-    "button-randomcolor": "Sostituzione colore casuale",
-    "copySuccess": "Copiato correttamente negli appunti",
-    "manualCopy": "Copia non riuscita, si prega di copiare manualmente"
+    "title-other": "Funzionalità avanzate:",
+    "tooltip-randomColor": "Richiesta di modifica casuale del colore",
+    "button-randomcolor": "Colore casuale"
+  },
+  "CopyToClipboard": {
+    "empty": "Il contenuto è vuoto, niente da copiare",
+    "unsupported": "Il tuo browser non supporta le operazioni negli appunti, prova a copiare manualmente o usa un altro browser",
+    "success": "Copiato correttamente, puoi incollarlo nello strumento di pittura AI",
+    "failure": "Copia non riuscita, si prega di copiare manualmente"
+  },
+  "feedback": {
+    "feedback1": "Feedback e suggerimenti",
+    "feedback2": "Se riscontri problemi durante l'uso o hai suggerimenti e idee, non esitare a farmelo sapere! Il tuo feedback influenzerà direttamente lo sviluppo e il miglioramento delle funzionalità future, aiutandoci a creare uno strumento che soddisfi meglio le esigenze di tutti.",
+    "feedback3": "Descrivi in dettaglio il tuo caso d'uso o il problema riscontrato, oppure condividi le tue idee creative. Valuterò attentamente ogni feedback e apporterò modifiche e ottimizzazioni il prima possibile.",
+    "reaction0": "Su",
+    "reaction1": "Supporto",
+    "reaction2": "Freddo",
+    "reaction3": "Che cosa?",
+    "reaction4": "Puzzle",
+    "placeholder": "Lascia un messaggio, non è necessario effettuare l'accesso (inserisci la tua email per ricevere le notifiche di risposta)"
   }
 }

@@ -1,35 +1,52 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - Generador de avisos de imagen con IA para Stable Diffusion, Midjourney, DALL-E y FLUX",
-    "description": "Herramienta intuitiva de generación de avisos de imagen diseñada para su uso con plataformas de IA como Stable Diffusion, Midjourney, DALL-E y FLUX. Simplifica el proceso de creación de mensajes de imagen eficaces y creativos, permitiendo a los usuarios generar mejores resultados sin esfuerzo. Con IMGPrompt, puede buscar mensajes relevantes en su lengua materna, traducirlos al inglés y convertir sus ideas creativas en resultados visuales sorprendentes.",
-    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL-E, FLUX, generador de avisos de imágenes, avisos de imágenes AI, herramienta de creatividad visual, traducción de avisos, arte AI, generación de avisos de imágenes, potenciador de la creatividad"
+    "title": "IMGPrompt - Generador inteligente de indicaciones para pintura con IA | Admite difusión estable, midjourney, DALL·E y FLUX",
+    "description": "IMGPrompt es una herramienta profesional de generación de indicaciones para pintar con IA compatible con Stable Diffusion, Midjourney, DALL·E y FLUX. Admite sistemas de traducción inteligente y recomendación creativa en varios idiomas, y ofrece gestión de vocabulario visual, parámetros de estilo preestablecidos y plantillas de efectos de iluminación para ayudar a los creadores a lograr rápidamente una visualización creativa. A través de herramientas inteligentes de asociación semántica y aleatorización de colores, genera inspiración creativa y optimiza los efectos de generación.",
+    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, Generación de indicaciones de imágenes, Herramienta de creatividad visual, Indicaciones, IA, Recomendación de indicaciones, Indicaciones de traducción, Indicaciones de imágenes"
   },
   "ToolPage": {
-    "section1": "Seleccionar objeto",
-    "section2": "Seleccionar atributo",
-    "section3": "Seleccionar etiqueta",
-    "section4": "Actualmente seleccionado"
+    "section1": "Seleccionar tema",
+    "section2": "Refinar categoría",
+    "section3": "Agregar etiquetas",
+    "currentSelection": "Indicaciones seleccionadas",
+    "hierarchyTip": "Secuencia de operaciones: Seleccionar tema → Refinar categoría → Agregar etiquetas"
   },
   "ResultSection": {
-    "tooltip-light": "Insertar iluminación para retratos de uso común",
-    "prompt-light": "Luz de retrato",
-    "tooltip-polish": "Insertar indicaciones de mejora de imagen de uso común",
-    "prompt-polish": "Prompts polacos",
-    "insertSuccess": "Inserta la descripción especificada",
-    "tooltip-negative": "Copie los mensajes negativos más utilizados",
-    "prompt-negative": "Preguntas negativas",
-    "button-copy": "Copiar Resultado",
-    "clearSuccess": "Borrado del cuadro de diálogo",
+    "tooltip-light": "Aplicar plantilla de iluminación de retrato (incluida iluminación de película, rayos crepusculares y otros)",
+    "prompt-light": "Iluminación de retratos",
+    "tooltip-polish": "Cargar parámetros de optimización de imagen (mejora de la resolución/mejora del estilo artístico)",
+    "prompt-polish": "Optimización de la calidad",
+    "insertSuccess": "Se han añadido parámetros de optimización al mensaje.",
+    "tooltip-negative": "Copiar indicaciones negativas comunes (para evitar errores comunes)",
+    "prompt-negative": "Indicación negativa",
+    "prompt": "Inmediato",
+    "button-copy": "Copiar",
+    "clearSuccess": "Se han borrado los mensajes",
     "button-clear": "Claro",
-    "placeholder-translate": "Introducir texto para traducir",
+    "tooltip-translate": "Introduzca texto en cualquier idioma para traducir al inglés",
     "button-translate": "Traducir",
-    "translateSuccess": "Traducción correcta y añadida al cuadro de diálogo",
-    "translateEmptyError": "El contenido de la traducción no puede estar vacío",
-    "translateFailError": "Error de traducción, inténtelo de nuevo",
-    "title-other": "Otras funciones:",
-    "tooltip-randomColor": "Sustituir aleatoriamente los colores en la descripción",
-    "button-randomcolor": "Sustitución aleatoria de colores",
-    "copySuccess": "Copiado correctamente en el portapapeles",
-    "manualCopy": "Error de copia, por favor copie manualmente"
+    "translateSuccess": "La traducción se realizó correctamente y se agregó al mensaje",
+    "translateEmptyError": "Por favor, introduzca el contenido a traducir",
+    "translateFailError": "La traducción falló, por favor intente nuevamente",
+    "title-other": "Funciones avanzadas:",
+    "tooltip-randomColor": "Indicación de cambio de color aleatorio",
+    "button-randomcolor": "Color aleatorio"
+  },
+  "CopyToClipboard": {
+    "empty": "El contenido está vacío, nada que copiar.",
+    "unsupported": "Su navegador no admite operaciones de portapapeles; intente copiar manualmente o utilice un navegador diferente",
+    "success": "Copiado exitosamente, puedes pegarlo en la herramienta de pintura AI",
+    "failure": "Error en la copia, cópiela manualmente"
+  },
+  "feedback": {
+    "feedback1": "Comentarios y sugerencias",
+    "feedback2": "Si encuentra algún problema durante el uso o tiene alguna sugerencia o idea, ¡no dude en hacérmelo saber! Sus comentarios influirán directamente en el desarrollo y la mejora de funciones futuras, lo que nos ayudará a crear una herramienta que satisfaga mejor las necesidades de todos.",
+    "feedback3": "Describa su caso de uso o el problema que encontró en detalle, o comparta sus ideas creativas. Analizaré atentamente cada comentario y realizaré ajustes y optimizaciones lo antes posible.",
+    "reaction0": "Arriba",
+    "reaction1": "Apoyo",
+    "reaction2": "Fresco",
+    "reaction3": "¿Qué?",
+    "reaction4": "Rompecabezas",
+    "placeholder": "Por favor deje un mensaje, no es necesario iniciar sesión (ingrese su correo electrónico para recibir notificaciones de respuesta)"
   }
 }

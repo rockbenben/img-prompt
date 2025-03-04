@@ -1,35 +1,52 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - 안정적 확산, 중간 여정, DALL·E 및 FLUX 를 위한 AI 기반 이미지 프롬프트 생성기",
-    "description": "Stable Diffusion, Midjourney, DALL·E, FLUX 와 같은 AI 플랫폼에서 사용하도록 설계된 직관적인 이미지 프롬프트 생성 도구입니다. 효과적이고 창의적인 이미지 프롬프트를 만드는 과정을 간소화하여 사용자가 손쉽게 더 나은 결과를 생성할 수 있도록 합니다. IMGPrompt 를 사용하면 모국어로 관련 프롬프트를 검색하고 영어로 번역하고 창의적인 아이디어를 놀라운 시각적 출력으로 전환할 수 있습니다.",
-    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, 이미지 프롬프트 생성기, AI 이미지 프롬프트, 시각적 창의성 도구, 프롬프트 번역, AI 아트, 이미지 생성 프롬프트, 창의성 향상기"
+    "title": "IMGPrompt - AI 페인팅 지능형 프롬프트 생성기 | 안정적인 확산/중간 여정/DALL·E/FLUX 지원",
+    "description": "IMGPrompt는 Stable Diffusion, Midjourney, DALL·E, FLUX와 호환되는 전문적인 AI 페인팅 프롬프트 생성 도구입니다. 다국어 지능형 번역 및 크리에이티브 추천 시스템을 지원하여 시각적 어휘 관리, 사전 설정 스타일 매개변수 및 조명 효과 템플릿을 제공하여 제작자가 신속하게 크리에이티브 시각화를 달성할 수 있도록 돕습니다. 지능형 의미 연관 및 색상 무작위 도구를 통해 크리에이티브 영감을 불러일으키고 생성 효과를 최적화합니다.",
+    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, 이미지 프롬프트 생성, 시각적 창의성 도구, 프롬프트, AI, 프롬프트 추천, 번역 프롬프트, 이미지 프롬프트"
   },
   "ToolPage": {
-    "section1": "객체 선택",
-    "section2": "속성 선택",
-    "section3": "태그 선택",
-    "section4": "현재 선택됨"
+    "section1": "과목 선택",
+    "section2": "카테고리 정제",
+    "section3": "태그 추가",
+    "currentSelection": "선택된 프롬프트",
+    "hierarchyTip": "작업 순서: 주제 선택 → 카테고리 세분화 → 태그 추가"
   },
   "ResultSection": {
-    "tooltip-light": "일반적으로 사용되는 초상화 조명을 삽입하세요",
+    "tooltip-light": "인물 사진 조명 템플릿 적용(필름 조명, 황혼 광선 등 포함)",
     "prompt-light": "인물 조명",
-    "tooltip-polish": "자주 사용되는 이미지 향상 프롬프트 삽입",
-    "prompt-polish": "폴란드어 프롬프트",
-    "insertSuccess": "지정된 설명을 삽입했습니다",
-    "tooltip-negative": "자주 사용되는 부정적인 프롬프트를 복사하세요",
+    "tooltip-polish": "이미지 최적화 매개변수 로드(해상도 향상/예술적 스타일 향상)",
+    "prompt-polish": "품질 최적화",
+    "insertSuccess": "프롬프트에 최적화 매개변수가 추가되었습니다.",
+    "tooltip-negative": "일반적인 부정적인 프롬프트를 복사하세요(일반적인 결함을 피하기 위해)",
     "prompt-negative": "부정적인 프롬프트",
-    "button-copy": "결과 복사",
-    "clearSuccess": "프롬프트 상자를 지웠습니다",
+    "prompt": "즉각적인",
+    "button-copy": "복사",
+    "clearSuccess": "프롬프트가 지워졌습니다",
     "button-clear": "분명한",
-    "placeholder-translate": "번역할 텍스트를 입력하세요",
+    "tooltip-translate": "원하는 언어로 텍스트를 입력하여 영어로 번역하세요",
     "button-translate": "번역하다",
-    "translateSuccess": "번역이 성공하여 프롬프트 상자에 추가되었습니다.",
-    "translateEmptyError": "번역 내용은 비어 있을 수 없습니다.",
+    "translateSuccess": "번역이 성공하여 프롬프트에 추가되었습니다.",
+    "translateEmptyError": "번역할 내용을 입력하세요",
     "translateFailError": "번역에 실패했습니다. 다시 시도해 주세요.",
-    "title-other": "다른 기능:",
-    "tooltip-randomColor": "설명에서 색상을 무작위로 바꿉니다.",
-    "button-randomcolor": "무작위 색상 교체",
-    "copySuccess": "클립보드에 성공적으로 복사되었습니다",
-    "manualCopy": "복사에 실패했습니다. 수동으로 복사해 주세요."
+    "title-other": "고급 기능:",
+    "tooltip-randomColor": "무작위로 색상 프롬프트 변경",
+    "button-randomcolor": "무작위 색상"
+  },
+  "CopyToClipboard": {
+    "empty": "내용이 비어 있습니다. 복사할 것이 없습니다.",
+    "unsupported": "귀하의 브라우저는 클립보드 작업을 지원하지 않습니다. 수동으로 복사해 보시거나 다른 브라우저를 사용해 보세요.",
+    "success": "성공적으로 복사되었습니다. AI 페인팅 도구에 붙여넣을 수 있습니다.",
+    "failure": "복사에 실패했습니다. 수동으로 복사해 주세요."
+  },
+  "feedback": {
+    "feedback1": "피드백 및 제안",
+    "feedback2": "사용 중에 문제가 발생하거나 제안이나 아이디어가 있으면 언제든지 알려주세요! 귀하의 피드백은 향후 기능의 개발 및 개선에 직접 영향을 미쳐 모든 사람의 요구를 더 잘 충족하는 도구를 만드는 데 도움이 됩니다.",
+    "feedback3": "사용 사례나 발생한 문제를 자세히 설명하거나 창의적인 아이디어를 공유해 주세요. 각 피드백을 신중하게 고려하고 가능한 한 빨리 조정 및 최적화를 수행하겠습니다.",
+    "reaction0": "위로",
+    "reaction1": "지원하다",
+    "reaction2": "시원한",
+    "reaction3": "무엇?",
+    "reaction4": "퍼즐",
+    "placeholder": "메시지를 남겨주세요. 로그인이 필요하지 않습니다. (답변 알림을 받으려면 이메일을 입력하세요)"
   }
 }

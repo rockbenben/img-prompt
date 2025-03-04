@@ -1,35 +1,52 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - AI-Powered Image Prompt Generator for Stable Diffusion, Midjourney, DALL·E, and FLUX",
-    "description": "Intuitive image prompt generation tool designed for use with AI platforms like Stable Diffusion, Midjourney, DALL·E, and FLUX. It simplifies the process of creating effective and creative image prompts, enabling users to generate better results effortlessly. With IMGPrompt, you can search for relevant prompts in your native language, translate them into English, and turn your creative ideas into stunning visual outputs.",
-    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, image prompt generator, AI image prompt, visual creativity tool, prompt translation, AI art, image generation prompts, creativity enhancer"
+    "title": "IMGPrompt - AI Painting Intelligent Prompt Generator | Supports Stable Diffusion/Midjourney/DALL·E/FLUX",
+    "description": "IMGPrompt is a professional AI painting prompt generation tool compatible with Stable Diffusion, Midjourney, DALL·E, and FLUX. It supports multi-language intelligent translation and creative recommendation systems, offering visual vocabulary management, preset style parameters, and lighting effect templates to help creators quickly achieve creative visualization. Through intelligent semantic association and color randomization tools, it sparks creative inspiration and optimizes generation effects.",
+    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, Image prompt generation, Visual creativity tool, prompt, AI, prompt recommendation, translate prompt, image prompt"
   },
   "ToolPage": {
-    "section1": "Select Object",
-    "section2": "Select Attribute",
-    "section3": "Select Tag",
-    "section4": "Currently Selected"
+    "section1": "Select Subject",
+    "section2": "Refine Category",
+    "section3": "Add Tags",
+    "currentSelection": "Selected Prompts",
+    "hierarchyTip": "Operation sequence: Select Subject → Refine Category → Add Tags"
   },
   "ResultSection": {
-    "tooltip-light": "Insert commonly used portrait lighting",
-    "prompt-light": "Portrait Light",
-    "tooltip-polish": "Insert commonly used image enhancement prompts",
-    "prompt-polish": "Polish Prompts",
-    "insertSuccess": "Inserted the specified description",
-    "tooltip-negative": "Copy commonly used negative prompts",
-    "prompt-negative": "Negative Prompts",
-    "button-copy": "Copy Result",
-    "clearSuccess": "Cleared the prompt box",
+    "tooltip-light": "Apply portrait lighting template (including film lighting, twilight rays, and others)",
+    "prompt-light": "Portrait Lighting",
+    "tooltip-polish": "Load image optimization parameters (resolution enhancement/artistic style enhancement)",
+    "prompt-polish": "Quality Optimization",
+    "insertSuccess": "Optimization parameters have been added to the prompt",
+    "tooltip-negative": "Copy common negative prompts (to avoid common flaws)",
+    "prompt-negative": "Negative Prompt",
+    "prompt": "Prompt",
+    "button-copy": "Copy",
+    "clearSuccess": "Prompts have been cleared",
     "button-clear": "Clear",
-    "placeholder-translate": "Enter text to translate",
+    "tooltip-translate": "Enter text in any language to translate into English",
     "button-translate": "Translate",
-    "translateSuccess": "Translation successful and added to the prompt box",
-    "translateEmptyError": "Translation content cannot be empty",
+    "translateSuccess": "Translation successful and added to the prompt",
+    "translateEmptyError": "Please enter content to translate",
     "translateFailError": "Translation failed, please try again",
-    "title-other":"Other functions:",
-    "tooltip-randomColor": "Randomly replace colors in the description",
-    "button-randomcolor": "Random Color Replace",
-    "copySuccess": "Successfully copied to clipboard",
-    "manualCopy": "Copy failed, please copy manually"
+    "title-other": "Advanced Features:",
+    "tooltip-randomColor": "Randomly change color prompt",
+    "button-randomcolor": "Random Color"
+  },
+  "CopyToClipboard": {
+    "empty": "Content is empty, nothing to copy",
+    "unsupported": "Your browser does not support clipboard operations, please try copying manually or use a different browser",
+    "success": "Copied successfully, you can paste it into the AI painting tool",
+    "failure": "Copy failed, please copy manually"
+  },
+  "feedback": {
+    "feedback1": "Feedback and Suggestions",
+    "feedback2": "If you encounter any issues during use or have any suggestions and ideas, feel free to let me know! Your feedback will directly influence the development and improvement of future features, helping us create a tool that better meets everyone's needs.",
+    "feedback3": "Please describe your use case or the issue you encountered in detail, or share your creative ideas. I will carefully consider each piece of feedback and make adjustments and optimizations as soon as possible.",
+    "reaction0": "Up",
+    "reaction1": "Support",
+    "reaction2": "Cool",
+    "reaction3": "What?",
+    "reaction4": "Puzzle",
+    "placeholder": "Please leave a message, no login required (enter your email to receive reply notifications)"
   }
 }
