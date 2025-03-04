@@ -3,121 +3,115 @@
     "displayName": "female",
     "langName": "মহিলা",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "male",
     "langName": "পুরুষ",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "mature_female",
     "langName": "পরিণত নারী",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "mature",
     "langName": "পরিপক্ক",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "little_girl",
     "langName": "ছোট মেয়ে",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "little_boy",
     "langName": "ছোট ছেলে",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "1girl",
     "langName": "১টি মেয়ে",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "1boy",
     "langName": "1 ছেলে",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "2girls",
     "langName": "২টি মেয়ে",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "2boys",
     "langName": "2 ছেলে",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "sisters",
     "langName": "বোন",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "multiple_girls",
     "langName": "একাধিক মেয়ে",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "solo",
     "langName": "একক",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "ojousama",
     "langName": "মিস",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "bishoujo",
     "langName": "সুন্দর মেয়ে",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
-  },
-  {
-    "displayName": "kawaii",
-    "langName": "সুন্দর",
-    "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "adorable_girl",
     "langName": "সুন্দর মেয়ে",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "female_pervert",
     "langName": "স্লাট",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "milf",
     "langName": "MILF",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "a beautiful korean idol",
     "langName": "কোরিয়ান মূর্তি",
     "object": "চিত্র",
-    "attribute": "প্রধান শরীর"
+    "attribute": "মৌলিক"
   },
   {
     "displayName": "lifeguard",
@@ -4562,6 +4556,12 @@
   {
     "displayName": "elegant",
     "langName": "মার্জিত",
+    "object": "অভিব্যক্তি",
+    "attribute": "মেজাজ"
+  },
+  {
+    "displayName": "kawaii",
+    "langName": "সুন্দর",
     "object": "অভিব্যক্তি",
     "attribute": "মেজাজ"
   },

@@ -3,121 +3,115 @@
     "displayName": "female",
     "langName": "femelle",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "male",
     "langName": "mâle",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "mature_female",
     "langName": "femmes mûres",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "mature",
     "langName": "Mature",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "little_girl",
     "langName": "petite fille",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "little_boy",
     "langName": "petit garçon",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "1girl",
     "langName": "1 fille",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "1boy",
     "langName": "1 garçon",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "2girls",
     "langName": "2 filles",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "2boys",
     "langName": "2 garçons",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "sisters",
     "langName": "sœurs",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "multiple_girls",
     "langName": "plusieurs filles",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "solo",
     "langName": "unique",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "ojousama",
     "langName": "Mademoiselle",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "bishoujo",
     "langName": "belle fille",
     "object": "Chiffre",
-    "attribute": "Corps principal"
-  },
-  {
-    "displayName": "kawaii",
-    "langName": "mignon",
-    "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "adorable_girl",
     "langName": "jolie fille",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "female_pervert",
     "langName": "Salope",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "milf",
     "langName": "MILF",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "a beautiful korean idol",
     "langName": "idole coréenne",
     "object": "Chiffre",
-    "attribute": "Corps principal"
+    "attribute": "Basique"
   },
   {
     "displayName": "lifeguard",
@@ -4562,6 +4556,12 @@
   {
     "displayName": "elegant",
     "langName": "élégant",
+    "object": "Expression",
+    "attribute": "Le tempérament"
+  },
+  {
+    "displayName": "kawaii",
+    "langName": "mignon",
     "object": "Expression",
     "attribute": "Le tempérament"
   },

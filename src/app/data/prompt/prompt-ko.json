@@ -3,121 +3,115 @@
     "displayName": "female",
     "langName": "여성",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "male",
     "langName": "남성",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "mature_female",
     "langName": "성숙한 여성",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "mature",
     "langName": "성숙한",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "little_girl",
     "langName": "어린 소녀",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "little_boy",
     "langName": "어린 소년",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "1girl",
     "langName": "1 여자아이",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "1boy",
     "langName": "1 소년",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "2girls",
     "langName": "2 명의 소녀",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "2boys",
     "langName": "2 명의 소년",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "sisters",
     "langName": "자매들",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "multiple_girls",
     "langName": "여러 여자애들",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "solo",
     "langName": "하나의",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "ojousama",
     "langName": "놓치다",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "bishoujo",
     "langName": "아름다운 소녀",
     "object": "수치",
-    "attribute": "본체"
-  },
-  {
-    "displayName": "kawaii",
-    "langName": "귀여운",
-    "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "adorable_girl",
     "langName": "귀여운 소녀",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "female_pervert",
     "langName": "암캐",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "milf",
     "langName": "밀프",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "a beautiful korean idol",
     "langName": "한국 아이돌",
     "object": "수치",
-    "attribute": "본체"
+    "attribute": "기본"
   },
   {
     "displayName": "lifeguard",
@@ -4562,6 +4556,12 @@
   {
     "displayName": "elegant",
     "langName": "우아한",
+    "object": "표현",
+    "attribute": "기질"
+  },
+  {
+    "displayName": "kawaii",
+    "langName": "귀여운",
     "object": "표현",
     "attribute": "기질"
   },

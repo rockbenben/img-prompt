@@ -3,121 +3,115 @@
     "displayName": "female",
     "langName": "女性",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "male",
     "langName": "男性",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "mature_female",
     "langName": "成熟女性",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "mature",
     "langName": "成熟",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "little_girl",
     "langName": "小女孩",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "little_boy",
     "langName": "小男孩",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "1girl",
     "langName": "1个女孩",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "1boy",
     "langName": "1个男孩",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "2girls",
     "langName": "2个女孩",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "2boys",
     "langName": "2个男孩",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "sisters",
     "langName": "姐妹",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "multiple_girls",
     "langName": "多个女孩",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "solo",
     "langName": "单人",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "ojousama",
     "langName": "大小姐",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "bishoujo",
     "langName": "美少女",
     "object": "人物",
-    "attribute": "主体"
-  },
-  {
-    "displayName": "kawaii",
-    "langName": "可爱",
-    "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "adorable_girl",
     "langName": "可爱的女孩",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "female_pervert",
     "langName": "痴女",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "milf",
     "langName": "熟女",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "a beautiful korean idol",
     "langName": "韩国偶像",
     "object": "人物",
-    "attribute": "主体"
+    "attribute": "基础"
   },
   {
     "displayName": "lifeguard",
@@ -4566,6 +4560,12 @@
     "attribute": "气质"
   },
   {
+    "displayName": "kawaii",
+    "langName": "可爱",
+    "object": "表情",
+    "attribute": "气质"
+  },
+  {
     "displayName": "angelic",
     "langName": "天使般的",
     "object": "表情",
@@ -4573,7 +4573,7 @@
   },
   {
     "displayName": "Good",
-    "langName": "好的",
+    "langName": "美好的",
     "object": "表情",
     "attribute": "气质"
   },

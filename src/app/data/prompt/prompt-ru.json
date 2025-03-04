@@ -3,121 +3,115 @@
     "displayName": "female",
     "langName": "женский",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "male",
     "langName": "мужской",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "mature_female",
     "langName": "зрелые женщины",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "mature",
     "langName": "зрелый",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "little_girl",
     "langName": "маленькая девочка",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "little_boy",
     "langName": "маленький мальчик",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "1girl",
     "langName": "1 девушка",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "1boy",
     "langName": "1 мальчик",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "2girls",
     "langName": "2 девочки",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "2boys",
     "langName": "2 мальчика",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "sisters",
     "langName": "сестры",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "multiple_girls",
     "langName": "несколько девушек",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "solo",
     "langName": "одинокий",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "ojousama",
     "langName": "Скучать",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "bishoujo",
     "langName": "красивая девушка",
     "object": "Фигура",
-    "attribute": "Основная часть"
-  },
-  {
-    "displayName": "kawaii",
-    "langName": "милый",
-    "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "adorable_girl",
     "langName": "милая девушка",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "female_pervert",
     "langName": "Шлюха",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "milf",
     "langName": "МИЛФ",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "a beautiful korean idol",
     "langName": "корейский идол",
     "object": "Фигура",
-    "attribute": "Основная часть"
+    "attribute": "Базовый"
   },
   {
     "displayName": "lifeguard",
@@ -4562,6 +4556,12 @@
   {
     "displayName": "elegant",
     "langName": "элегантный",
+    "object": "Выражение",
+    "attribute": "Темперамент"
+  },
+  {
+    "displayName": "kawaii",
+    "langName": "милый",
     "object": "Выражение",
     "attribute": "Темперамент"
   },

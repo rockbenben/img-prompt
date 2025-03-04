@@ -3,121 +3,115 @@
     "displayName": "female",
     "langName": "feminino",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "male",
     "langName": "masculino",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "mature_female",
     "langName": "mulheres maduras",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "mature",
     "langName": "Maduro",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "little_girl",
     "langName": "menina",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "little_boy",
     "langName": "menino",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "1girl",
     "langName": "1 rapariga",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "1boy",
     "langName": "1 rapaz",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "2girls",
     "langName": "2 raparigas",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "2boys",
     "langName": "2 rapazes",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "sisters",
     "langName": "irmãs",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "multiple_girls",
     "langName": "várias raparigas",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "solo",
     "langName": "único",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "ojousama",
     "langName": "Menina",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "bishoujo",
     "langName": "rapariga bonita",
     "object": "Figura",
-    "attribute": "Corpo principal"
-  },
-  {
-    "displayName": "kawaii",
-    "langName": "giro",
-    "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "adorable_girl",
     "langName": "rapariga bonita",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "female_pervert",
     "langName": "Puta",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "milf",
     "langName": "MILF",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "a beautiful korean idol",
     "langName": "ídolo coreano",
     "object": "Figura",
-    "attribute": "Corpo principal"
+    "attribute": "Básico"
   },
   {
     "displayName": "lifeguard",
@@ -4562,6 +4556,12 @@
   {
     "displayName": "elegant",
     "langName": "elegante",
+    "object": "Expressão",
+    "attribute": "Temperamento"
+  },
+  {
+    "displayName": "kawaii",
+    "langName": "giro",
     "object": "Expressão",
     "attribute": "Temperamento"
   },

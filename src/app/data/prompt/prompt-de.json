@@ -3,121 +3,115 @@
     "displayName": "female",
     "langName": "weiblich",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "male",
     "langName": "männlich",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "mature_female",
     "langName": "reife Frauen",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "mature",
     "langName": "Ausgereift",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "little_girl",
     "langName": "kleines Mädchen",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "little_boy",
     "langName": "kleiner Junge",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "1girl",
     "langName": "1 Mädchen",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "1boy",
     "langName": "1 Junge",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "2girls",
     "langName": "2 Mädchen",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "2boys",
     "langName": "2 Jungen",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "sisters",
     "langName": "Schwestern",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "multiple_girls",
     "langName": "mehrere Mädchen",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "solo",
     "langName": "einzeln",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "ojousama",
     "langName": "Fräulein",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "bishoujo",
     "langName": "schönes Mädchen",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
-  },
-  {
-    "displayName": "kawaii",
-    "langName": "niedlich",
-    "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "adorable_girl",
     "langName": "süßes Mädchen",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "female_pervert",
     "langName": "Schlampe",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "milf",
     "langName": "MILF",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "a beautiful korean idol",
     "langName": "koreanisches Idol",
     "object": "Abbildung",
-    "attribute": "Hauptteil"
+    "attribute": "Grundlegend"
   },
   {
     "displayName": "lifeguard",
@@ -4562,6 +4556,12 @@
   {
     "displayName": "elegant",
     "langName": "elegant",
+    "object": "Ausdruck",
+    "attribute": "Temperament"
+  },
+  {
+    "displayName": "kawaii",
+    "langName": "niedlich",
     "object": "Ausdruck",
     "attribute": "Temperament"
   },

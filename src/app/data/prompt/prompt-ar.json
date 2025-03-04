@@ -3,121 +3,115 @@
     "displayName": "female",
     "langName": "أنثى",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "male",
     "langName": "ذكر",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "mature_female",
     "langName": "المرأة الناضجة",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "mature",
     "langName": "ناضجة",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "little_girl",
     "langName": "فتاة صغيرة",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "little_boy",
     "langName": "الولد الصغير",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "1girl",
     "langName": "1 فتاة",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "1boy",
     "langName": "1 صبي",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "2girls",
     "langName": "2 فتيات",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "2boys",
     "langName": "2 أولاد",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "sisters",
     "langName": "الأخوات",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "multiple_girls",
     "langName": "فتيات متعددات",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "solo",
     "langName": "أعزب",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "ojousama",
     "langName": "يفتقد",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "bishoujo",
     "langName": "فتاة جميلة",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
-  },
-  {
-    "displayName": "kawaii",
-    "langName": "لطيف",
-    "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "adorable_girl",
     "langName": "فتاة لطيفة",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "female_pervert",
     "langName": "وقحة",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "milf",
     "langName": "جبهة تحرير مورو الإسلامية",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "a beautiful korean idol",
     "langName": "المعبود الكوري",
     "object": "شكل",
-    "attribute": "الجسم الرئيسي"
+    "attribute": "أساسي"
   },
   {
     "displayName": "lifeguard",
@@ -4562,6 +4556,12 @@
   {
     "displayName": "elegant",
     "langName": "رائع",
+    "object": "تعبير",
+    "attribute": "مزاج"
+  },
+  {
+    "displayName": "kawaii",
+    "langName": "لطيف",
     "object": "تعبير",
     "attribute": "مزاج"
   },

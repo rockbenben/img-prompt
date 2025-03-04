@@ -3,121 +3,115 @@
     "displayName": "female",
     "langName": "女性",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "male",
     "langName": "男",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "mature_female",
     "langName": "成熟した女性",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "mature",
     "langName": "成熟した",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "little_girl",
     "langName": "少女",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "little_boy",
     "langName": "小さな男の子",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "1girl",
     "langName": "女の子 1 人",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "1boy",
     "langName": "男の子 1 人",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "2girls",
     "langName": "女の子 2 人",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "2boys",
     "langName": "男の子 2 人",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "sisters",
     "langName": "姉妹",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "multiple_girls",
     "langName": "複数の女の子",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "solo",
     "langName": "シングル",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "ojousama",
     "langName": "逃す",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "bishoujo",
     "langName": "美少女",
     "object": "形",
-    "attribute": "本体"
-  },
-  {
-    "displayName": "kawaii",
-    "langName": "かわいい",
-    "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "adorable_girl",
     "langName": "かわいい女の子",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "female_pervert",
     "langName": "痴女",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "milf",
     "langName": "熟女",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "a beautiful korean idol",
     "langName": "韓国アイドル",
     "object": "形",
-    "attribute": "本体"
+    "attribute": "基本"
   },
   {
     "displayName": "lifeguard",
@@ -4562,6 +4556,12 @@
   {
     "displayName": "elegant",
     "langName": "エレガント",
+    "object": "表現",
+    "attribute": "気質"
+  },
+  {
+    "displayName": "kawaii",
+    "langName": "かわいい",
     "object": "表現",
     "attribute": "気質"
   },

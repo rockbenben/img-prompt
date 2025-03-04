@@ -3,121 +3,115 @@
     "displayName": "female",
     "langName": "महिला",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "male",
     "langName": "पुरुष",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "mature_female",
     "langName": "प्रौढ महिलाएं",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "mature",
     "langName": "प्रौढ़",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "little_girl",
     "langName": "छोटी लड़की",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "little_boy",
     "langName": "छोटा लड़का",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "1girl",
     "langName": "1 लड़की",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "1boy",
     "langName": "1 लड़का",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "2girls",
     "langName": "2 लड़कियाँ",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "2boys",
     "langName": "2 लड़के",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "sisters",
     "langName": "बहन की",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "multiple_girls",
     "langName": "एकाधिक लड़कियाँ",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "solo",
     "langName": "अकेला",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "ojousama",
     "langName": "याद",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "bishoujo",
     "langName": "सुंदर लड़की",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
-  },
-  {
-    "displayName": "kawaii",
-    "langName": "प्यारा",
-    "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "adorable_girl",
     "langName": "सुंदर लड़की",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "female_pervert",
     "langName": "फूहड़",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "milf",
     "langName": "मिल्फ़",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "a beautiful korean idol",
     "langName": "कोरियाई मूर्ति",
     "object": "आकृति",
-    "attribute": "मुख्य भाग"
+    "attribute": "बुनियादी"
   },
   {
     "displayName": "lifeguard",
@@ -4562,6 +4556,12 @@
   {
     "displayName": "elegant",
     "langName": "सुरुचिपूर्ण",
+    "object": "अभिव्यक्ति",
+    "attribute": "स्वभाव"
+  },
+  {
+    "displayName": "kawaii",
+    "langName": "प्यारा",
     "object": "अभिव्यक्ति",
     "attribute": "स्वभाव"
   },

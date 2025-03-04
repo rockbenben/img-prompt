@@ -3,121 +3,115 @@
     "displayName": "female",
     "langName": "female",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "male",
     "langName": "male",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "mature_female",
     "langName": "mature women",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "mature",
     "langName": "Mature",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "little_girl",
     "langName": "little girl",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "little_boy",
     "langName": "little boy",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "1girl",
     "langName": "1 girl",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "1boy",
     "langName": "1 boy",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "2girls",
     "langName": "2 girls",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "2boys",
     "langName": "2 boys",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "sisters",
     "langName": "sisters",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "multiple_girls",
     "langName": "multiple girls",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "solo",
     "langName": "single",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "ojousama",
     "langName": "Miss",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "bishoujo",
     "langName": "beautiful girl",
     "object": "Figure",
-    "attribute": "Main body"
-  },
-  {
-    "displayName": "kawaii",
-    "langName": "cute",
-    "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "adorable_girl",
     "langName": "cute girl",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "female_pervert",
     "langName": "Slut",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "milf",
     "langName": "MILF",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "a beautiful korean idol",
     "langName": "korean idol",
     "object": "Figure",
-    "attribute": "Main body"
+    "attribute": "Basic"
   },
   {
     "displayName": "lifeguard",
@@ -4562,6 +4556,12 @@
   {
     "displayName": "elegant",
     "langName": "elegant",
+    "object": "Expression",
+    "attribute": "Temperament"
+  },
+  {
+    "displayName": "kawaii",
+    "langName": "cute",
     "object": "Expression",
     "attribute": "Temperament"
   },
