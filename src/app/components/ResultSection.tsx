@@ -175,7 +175,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
 
   // functions
   const handleConstantText = useCallback(
-    (constantText: string) => {
+    (constantText: string, successMessageKey: string) => {
       const newText = resultText ? resultText + ", " + constantText : constantText;
       const displayNames = newText.split(", ").filter(Boolean);
       const uniqueDisplayNames = Array.from(new Set(displayNames));
@@ -192,7 +192,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
 
       setSelectedTags(newSelectedTags);
       setResultText(uniqueDisplayNames.join(", "));
-      messageApi.success(t("insertSuccess"));
+      messageApi.success(t(successMessageKey));
     },
     [resultText, findTagData, setSelectedTags, t]
   );
@@ -210,12 +210,8 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
     try {
       const translatedText = await translateText(inputText, "auto", "en");
       if (translatedText.trim()) {
-        handleConstantText(translatedText);
+        handleConstantText(translatedText, "translateSuccess");
         setInputText("");
-        messageApi.open({
-          type: "success",
-          content: t("translateSuccess"),
-        });
       } else {
         messageApi.open({
           type: "error",
@@ -259,7 +255,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
       <Space wrap>
         {CONSTANT_BUTTONS.map(({ text, type, tooltipKey, promptKey }) => (
           <Tooltip key={tooltipKey} title={t(tooltipKey)}>
-            <Button type={type as "primary"} onClick={() => handleConstantText(text)}>
+            <Button type={type as "primary"} onClick={() => handleConstantText(text, "insertSuccess")}>
               {t(promptKey)}
             </Button>
           </Tooltip>
