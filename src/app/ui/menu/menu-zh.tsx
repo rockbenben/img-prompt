@@ -30,7 +30,7 @@ export const MENU_ITEMS = [
   },
   {
     label: (
-      <a href="https://tools.newzone.top/subtitle-translator" target="_blank" rel="noopener noreferrer">
+      <a href="https://tools.newzone.top/zh" target="_blank" rel="noopener noreferrer">
         文本处理工具
       </a>
     ),

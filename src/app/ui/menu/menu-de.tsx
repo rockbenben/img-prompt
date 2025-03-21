@@ -1,4 +1,4 @@
-import { BgColorsOutlined, ExperimentOutlined } from "@ant-design/icons";
+import { BgColorsOutlined, ExperimentOutlined, ToolOutlined } from "@ant-design/icons";
 
 export const MENU_ITEMS = [
   {
@@ -18,5 +18,14 @@ export const MENU_ITEMS = [
     ),
     key: "aishort",
     icon: <ExperimentOutlined />,
+  },
+  {
+    label: (
+      <a href="https://tools.newzone.top/de" target="_blank" rel="noopener noreferrer">
+        AI Toolset
+      </a>
+    ),
+    key: "Tools",
+    icon: <ToolOutlined />,
   },
 ];
