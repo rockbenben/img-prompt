@@ -33,15 +33,12 @@ export default async function LocaleLayout({ children, params: { locale } }: { c
   const direction = getLangDir(locale);
   const messages = await getMessages();
   const tagsData = await import(`@/app/data/prompt/prompt-${locale}.json`);
-  const { MENU_ITEMS } = await import(`@/app/ui/menu/menu-${locale}`);
   return (
     <html lang={locale} dir={direction}>
       <body>
         <NextIntlClientProvider messages={messages}>
           <ThemesProvider>
-            <DataProvider data={MENU_ITEMS}>
-              <Navigation />
-            </DataProvider>
+            <Navigation />
             <div className="max-w-7xl mt-2 mx-auto p-4">
               <DataProvider data={tagsData.default}>{children}</DataProvider>
             </div>

@@ -1,11 +1,12 @@
 "use client";
-import React, { useState, useEffect, useContext } from "react";
+import React, { useState, useEffect } from "react";
 import { usePathname, useRouter } from "next/navigation";
 import { Layout, Menu, Space, ConfigProvider, theme as antTheme, Button, Dropdown } from "antd";
 import type { MenuProps } from "antd";
 import { GithubOutlined, QqOutlined, DiscordOutlined, GlobalOutlined, SunOutlined, MoonOutlined } from "@ant-design/icons";
 import { useTheme } from "next-themes";
-import { DataContext } from "../utils/DataContext";
+import { useLocale } from "next-intl";
+import { AppMenu } from "@/app/components/projects";
 
 const { Header } = Layout;
 
@@ -33,25 +34,20 @@ const SOCIAL_LINKS = {
 } as const;
 
 export function Navigation() {
-  const menuItems = useContext(DataContext);
+  const menuItems = AppMenu();
   const pathname = usePathname();
   const router = useRouter();
   const [mounted, setMounted] = useState(false);
   const { theme, setTheme } = useTheme();
   const { token } = antTheme.useToken();
+  const locale = useLocale();
 
-  const extractLanguageFromPath = (path: string) => {
-    const match = path.match(/^\/([a-z]{2}(-[a-z]+)?)/);
-    return match ? match[1] : "en";
-  };
-
-  const [language, setLanguage] = useState(() => extractLanguageFromPath(pathname));
   const [current, setCurrent] = useState(pathname);
+  const isChineseLocale = locale === "zh" || locale === "zh-hant";
 
   useEffect(() => {
     setMounted(true);
-    setLanguage(extractLanguageFromPath(pathname));
-  }, [pathname]);
+  }, []);
 
   if (!mounted) return null;
 
@@ -61,7 +57,6 @@ export function Navigation() {
   const handleLanguageChange = (key: string) => {
     const newPath = pathname.replace(/^\/[a-z]{2}(-[a-z]+)?/, `/${key}`);
     router.push(newPath);
-    setLanguage(key);
   };
 
   const getSocialIconStyle = () => ({
@@ -127,14 +122,16 @@ export function Navigation() {
           <Space size={token.marginSM}>
             <Dropdown menu={{ items: languageItems }} placement="bottomRight">
               <Button type="text" icon={<GlobalOutlined />}>
-                {LANGUAGES.find((l) => l.key === language)?.label || "English"}
+                {LANGUAGES.find((l) => l.key === locale)?.label || "English"}
               </Button>
             </Dropdown>
 
             <Space size={token.marginXS}>
-              <a href={SOCIAL_LINKS.qq} target="_blank" rel="noopener noreferrer">
-                <QqOutlined style={getSocialIconStyle()} />
-              </a>
+              {isChineseLocale && (
+                <a href={SOCIAL_LINKS.qq} target="_blank" rel="noopener noreferrer">
+                  <QqOutlined style={getSocialIconStyle()} />
+                </a>
+              )}
               <a href={SOCIAL_LINKS.discord} target="_blank" rel="noopener noreferrer">
                 <DiscordOutlined style={getSocialIconStyle()} />
               </a>
