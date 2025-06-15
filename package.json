@@ -13,7 +13,7 @@
   "dependencies": {
     "@ant-design/nextjs-registry": "^1.0.2",
     "antd": "^5.24.6",
-    "next": "14.2.26",
+    "next": "14.2.30",
     "next-intl": "^4.0.2",
     "next-themes": "^0.4.6",
     "react": "^18",
