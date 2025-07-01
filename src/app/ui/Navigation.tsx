@@ -26,7 +26,6 @@ const LANGUAGES = [
   { key: "ar", label: "العربية" },
   { key: "bn", label: "বাংলা" },
 ] as const;
-
 const SOCIAL_LINKS = {
   github: "https://github.com/rockbenben/img-prompt",
   discord: "https://discord.gg/PZTQfJ4GjX",
