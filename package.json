@@ -1,20 +1,22 @@
 {
   "name": "img-prompt",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "build:lang": "node scripts/buildWithLang.js",
+    "postbuild": "next-sitemap",
     "start": "next start",
     "lint": "next lint",
     "update": "ncu -u --reject @types/node,eslint,@next/third-parties,eslint-config-next,next && yarn install"
   },
   "dependencies": {
     "@ant-design/nextjs-registry": "^1.0.2",
-    "antd": "^5.24.6",
+    "antd": "^5.26.3",
     "next": "14.2.30",
-    "next-intl": "^4.0.2",
+    "next-intl": "^4.3.1",
+    "next-sitemap": "^4.2.3",
     "next-themes": "^0.4.6",
     "react": "^18",
     "react-dom": "^18",
@@ -26,7 +28,7 @@
     "@types/react-dom": "^18",
     "autoprefixer": "^10.4.21",
     "eslint": "^8",
-    "eslint-config-next": "14.2.25",
+    "eslint-config-next": "14.2.30",
     "postcss": "^8",
     "tailwindcss": "^3.4.17",
     "typescript": "^5.8.2"
