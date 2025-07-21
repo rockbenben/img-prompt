@@ -15,15 +15,14 @@ const ObjectSection: FC<ObjectSectionProps> = ({ objects = [], activeObject, onO
     [onObjectClick]
   );
 
+  if (objects.length === 0) {
+    return null;
+  }
+
   return (
-    <div className="flex flex-wrap">
+    <div className="flex flex-wrap gap-2">
       {objects.map((object) => (
-        <Button
-          key={object}
-          onClick={() => handleClick(object)}
-          className={`m-1 px-3 py-1 text-sm font-medium leading-5 transition-colors duration-150 rounded-lg focus:outline-none border ${
-            activeObject === object ? "bg-teal-500 text-white border-teal-500" : ""
-          }`}>
+        <Button key={object} type={activeObject === object ? "primary" : "default"} onClick={() => handleClick(object)} className="transition-all duration-200">
           {object}
         </Button>
       ))}

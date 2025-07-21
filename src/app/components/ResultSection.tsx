@@ -171,6 +171,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
 
     // 否则显示最多 10 个推荐标签
     setSuggestedTags(recommendedTags.slice(0, 10));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [resultText, tagsData]);
 
   // functions
@@ -194,7 +195,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
       setResultText(uniqueDisplayNames.join(", "));
       messageApi.success(t(successMessageKey));
     },
-    [resultText, findTagData, setSelectedTags, t]
+    [resultText, findTagData, setSelectedTags, t, messageApi]
   );
 
   const handleClear = useCallback(() => {
@@ -204,7 +205,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
       type: "success",
       content: t("clearSuccess"),
     });
-  }, [setSelectedTags, t]);
+  }, [setSelectedTags, t, messageApi]);
 
   const handleTranslate = async () => {
     try {

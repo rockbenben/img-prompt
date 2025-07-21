@@ -15,15 +15,14 @@ const AttributeSection: FC<AttributeSectionProps> = ({ attributes = [], selected
     [onAttributeClick]
   );
 
+  if (attributes.length === 0) {
+    return null;
+  }
+
   return (
-    <div className="flex flex-wrap">
+    <div className="flex flex-wrap gap-2">
       {attributes.map((attribute) => (
-        <Button
-          key={attribute}
-          onClick={() => handleClick(attribute)}
-          className={`m-1 px-3 py-1 text-sm font-medium leading-5 transition-colors duration-150 rounded-lg focus:outline-none border ${
-            attribute === selectedAttribute ? "bg-indigo-500 text-white border-indigo-500" : ""
-          }`}>
+        <Button key={attribute} type={attribute === selectedAttribute ? "primary" : "default"} onClick={() => handleClick(attribute)} className="transition-all duration-200">
           {attribute}
         </Button>
       ))}

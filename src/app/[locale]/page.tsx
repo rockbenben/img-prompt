@@ -30,21 +30,24 @@ const Home: FC = () => {
   const tagsData1 = useContext(DataContext);
   const t = useTranslations("ToolPage");
   const combinedTagsData: TagItem[] = useMemo(() => [...tagsData1, ...tagsData2], [tagsData1]);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  const objects = useMemo(() => getObjects(combinedTagsData), []);
-  const [activeObject, setActiveObject] = useState(objects[0]);
+  const objects = useMemo(() => getObjects(combinedTagsData), [combinedTagsData]);
+  const [activeObject, setActiveObject] = useState<string>("");
+  const [activeAttribute, setActiveAttribute] = useState<string>("");
   const [selectedTags, setSelectedTags] = useState<TagItem[]>([]);
 
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  const attributes = useMemo(() => getAttributes(activeObject, combinedTagsData), [activeObject]);
+  const attributes = useMemo(() => getAttributes(activeObject, combinedTagsData), [activeObject, combinedTagsData]);
+
+  useEffect(() => {
+    if (objects.length > 0 && !activeObject) {
+      setActiveObject(objects[0]);
+    }
+  }, [objects, activeObject]);
 
   useEffect(() => {
     if (attributes.length > 0) {
       setActiveAttribute(attributes[0]);
     }
   }, [attributes]);
-
-  const [activeAttribute, setActiveAttribute] = useState(attributes[0]);
 
   const handleObjectClick = useCallback((object: string) => {
     setActiveObject(object);
