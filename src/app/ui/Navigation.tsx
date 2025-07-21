@@ -54,8 +54,21 @@ export function Navigation() {
   const handleMenuClick: MenuProps["onClick"] = (e) => setCurrent(e.key);
 
   const handleLanguageChange = (key: string) => {
-    const newPath = pathname.replace(/^\/[a-z]{2}(-[a-z]+)?/, `/${key}`);
-    router.push(newPath);
+    console.log("Language change triggered:", key, "Current locale:", locale);
+
+    // 防止重复切换到相同语言
+    if (key === locale) {
+      console.log("Same language selected, ignoring");
+      return;
+    }
+
+    try {
+      const newPath = pathname.replace(/^\/[a-z]{2}(-[a-z]+)?/, `/${key}`);
+      console.log("Navigating to:", newPath);
+      router.push(newPath);
+    } catch (error) {
+      console.error("Language change failed:", error);
+    }
   };
 
   const getSocialIconStyle = () => ({
@@ -68,16 +81,22 @@ export function Navigation() {
   const languageItems: MenuProps["items"] = LANGUAGES.map((lang) => ({
     key: lang.key,
     label: (
-      <div
+      <span
         style={{
           padding: `${token.paddingXS}px ${token.paddingLG}px`,
-          cursor: "pointer",
-        }}
-        onClick={() => handleLanguageChange(lang.key)}>
-        {lang.label}
-      </div>
+          display: "block",
+          color: lang.key === locale ? token.colorPrimary : undefined,
+          fontWeight: lang.key === locale ? "bold" : "normal",
+        }}>
+        {lang.label} {lang.key === locale && "✓"}
+      </span>
     ),
   }));
+
+  // 处理语言下拉菜单点击
+  const handleLanguageMenuClick: MenuProps["onClick"] = (e) => {
+    handleLanguageChange(e.key);
+  };
 
   const bgColor = theme === "light" ? token.colorBgContainer : token.colorBgLayout;
 
@@ -119,7 +138,12 @@ export function Navigation() {
           />
 
           <Space size={token.marginSM}>
-            <Dropdown menu={{ items: languageItems }} placement="bottomRight">
+            <Dropdown
+              menu={{
+                items: languageItems,
+                onClick: handleLanguageMenuClick,
+              }}
+              placement="bottomRight">
               <Button type="text" icon={<GlobalOutlined />}>
                 {LANGUAGES.find((l) => l.key === locale)?.label || "English"}
               </Button>
