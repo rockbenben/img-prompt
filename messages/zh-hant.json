@@ -1,17 +1,17 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - AI 繪畫智能提示詞生成器 | 支持 Stable Diffusion/Midjourney/DALL·E/FLUX",
-    "description": "IMGPrompt 是專業的 AI 繪畫提示詞生成工具，適配 Stable Diffusion、Midjourney、DALL·E 和 FLUX。支持多語言智能翻譯與創意推薦系統，提供可視化詞庫管理、風格參數預設和光影效果模板，幫助創作者快速實現創意視覺化。通過智能語義聯想和色彩隨機化工具，激發創作靈感，優化生成效果。",
+    "title": "IMGPrompt - AI繪畫智能提示詞生成器 | 支持 Midjourney、Stable Diffusion、DALL·E、FLUX",
+    "description": "還在爲AI繪畫提示詞犯愁？試試IMGPrompt智能生成器，輕鬆駕馭Midjourney、Stable Diffusion、DALL·E與FLUX，探索海量風格與藝術靈感，讓作品脫穎而出！",
     "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, Image prompt generation, Visual creativity toolprompt,ai,prompt, 提示詞推薦，翻譯提示詞，圖像提示詞"
   },
-  "ToolPage":{
+  "ToolPage": {
     "section1": "選擇主體",
     "section2": "細化類別",
     "section3": "添加標籤",
     "currentSelection": "已選提示詞",
     "hierarchyTip": "操作順序：選擇主體 → 細化類別 → 添加標籤"
   },
-  "ResultSection":{
+  "ResultSection": {
     "tooltip-light": "應用人像光影模板（包含電影光效、暮光射線等專布光方案）",
     "prompt-light": "人像布光",
     "tooltip-polish": "加載圖像優化參數（分辨率增強/細節銳化/藝術風格強化）",
@@ -23,22 +23,22 @@
     "button-copy": "複製",
     "clearSuccess": "提示詞已清空",
     "button-clear": "清空",
-    "tooltip-translate": "輸入任意語言文本，自動翻譯為英文",
+    "tooltip-translate": "輸入任意語言文本，自動翻譯爲英文",
     "button-translate": "翻譯",
     "translateSuccess": "翻譯成功並已添加到提示詞",
     "translateEmptyError": "請輸入要翻譯的內容",
     "translateFailError": "翻譯失敗，請重試",
-    "title-other":"高級功能：",
+    "title-other": "高級功能：",
     "tooltip-randomColor": "隨機更換顏色提示詞",
     "button-randomcolor": "隨機顏色"
   },
   "CopyToClipboard": {
-    "empty": "內容為空，無需複製",
+    "empty": "內容爲空，無需複製",
     "unsupported": "當前瀏覽器不支持剪貼板操作，請嘗試手動複製或使用其他瀏覽器",
     "success": "已複製，可粘貼至 AI 繪畫工具",
     "failure": "複製失敗，請手動複製"
   },
-  "feedback":{
+  "feedback": {
     "feedback1": "反饋與建議",
     "feedback2": "如果你在使用過程中遇到了問題，或者有任何建議和想法，歡迎隨時告訴我！你的反饋將直接影響到未來功能的開發和改進，幫助我們一起打造更符合大家需求的工具。",
     "feedback3": "請詳細描述一下你的使用場景或遇到的問題，或者分享你的創意想法。我會認真看每一條反饋，並儘快做出調整和優化。",

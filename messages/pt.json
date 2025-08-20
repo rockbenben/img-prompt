@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - Gerador de Prompt Inteligente de Pintura de IA | Suporta Difusão Estável/Midjourney/DALL·E/FLUX",
-    "description": "IMGPrompt é uma ferramenta profissional de geração de prompt de pintura de IA compatível com Stable Diffusion, Midjourney, DALL·E e FLUX. Ele suporta sistemas de tradução inteligente multilíngue e recomendação criativa, oferecendo gerenciamento de vocabulário visual, parâmetros de estilo predefinidos e modelos de efeitos de iluminação para ajudar os criadores a obter rapidamente a visualização criativa. Por meio de ferramentas inteligentes de associação semântica e randomização de cores, ele desperta inspiração criativa e otimiza os efeitos de geração.",
+    "title": "IMGPrompt - Gerador inteligente de prompts para arte com IA | Midjourney, Stable Diffusion, DALL·E, FLUX",
+    "description": "Dificuldade em criar prompts de arte com IA? IMGPrompt gera prompts inteligentes para Midjourney, Stable Diffusion e DALL·E, despertando inspiração ilimitada.",
     "keywords": "IMGPrompt, Difusão Estável, Midjourney, DALL·E, FLUX, Geração de prompt de imagem, Ferramenta de criatividade visual, prompt, IA, recomendação de prompt, prompt de tradução, prompt de imagem"
   },
   "ToolPage": {

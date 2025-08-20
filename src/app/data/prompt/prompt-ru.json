@@ -19998,18 +19998,6 @@
     "attribute": "Источник света"
   },
   {
-    "displayName": "volumetric Light",
-    "langName": "Объемный свет",
-    "object": "Эффекты света и тени",
-    "attribute": "Источник света"
-  },
-  {
-    "displayName": "Volumetric",
-    "langName": "Объемный",
-    "object": "Эффекты света и тени",
-    "attribute": "Источник света"
-  },
-  {
     "displayName": "Frontlight",
     "langName": "верхний свет",
     "object": "Эффекты света и тени",

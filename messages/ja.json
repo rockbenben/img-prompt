@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - AI ペインティング インテリジェント プロンプト ジェネレーター | 安定した拡散/中間旅程/DALL·E/FLUX をサポート",
-    "description": "IMGPrompt は、Stable Diffusion、Midjourney、DALL·E、FLUX と互換性のあるプロフェッショナルな AI ペイントプロンプト生成ツールです。多言語のインテリジェント翻訳とクリエイティブ推奨システムをサポートし、ビジュアル語彙管理、プリセット スタイル パラメーター、照明効果テンプレートを提供して、クリエイターがクリエイティブな視覚化を迅速に実現できるようにします。インテリジェントなセマンティック関連付けとカラーランダム化ツールを通じて、クリエイティブなインスピレーションを刺激し、生成効果を最適化します。",
+    "title": "IMGPrompt - AIアート用スマートプロンプト生成器 | Midjourney・Stable Diffusion・DALL·E・FLUX",
+    "description": "AIアートのプロンプトに困っていませんか？IMGPromptならMidjourneyやStable Diffusion、DALL·Eに対応したスマートなプロンプトを生成し、無限の創作アイデアを引き出します。",
     "keywords": "IMGPrompt、安定した拡散、Midjourney、DALL·E、FLUX、画像プロンプト生成、ビジュアルクリエイティビティツール、プロンプト、AI、プロンプト推奨、プロンプトの翻訳、画像プロンプト"
   },
   "ToolPage": {

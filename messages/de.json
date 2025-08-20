@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - Intelligenter Eingabeaufforderungsgenerator für KI-Malerei | Unterstützt stabile Diffusion/Midjourney/DALL·E/FLUX",
-    "description": "IMGPrompt ist ein professionelles KI-Tool zur Generierung von Malaufforderungen, das mit Stable Diffusion, Midjourney, DALL·E und FLUX kompatibel ist. Es unterstützt intelligente Übersetzungssysteme für mehrere Sprachen und kreative Empfehlungssysteme und bietet visuelles Vokabularmanagement, voreingestellte Stilparameter und Lichteffektvorlagen, damit Kreative schnell kreative Visualisierungen erstellen können. Durch intelligente semantische Assoziations- und Farbrandomisierungstools weckt es kreative Inspiration und optimiert Generierungseffekte.",
+    "title": "IMGPrompt - Intelligenter KI-Prompt-Generator für Kunst | Midjourney, Stable Diffusion, DALL·E, FLUX",
+    "description": "Fehlen dir die richtigen KI-Art-Prompts? Mit IMGPrompt erstellst du mühelos smarte Prompts für Midjourney, Stable Diffusion und DALL·E – entdecke grenzenlose Kreativität.",
     "keywords": "IMGPrompt, Stabile Diffusion, Midjourney, DALL·E, FLUX, Bildeingabeaufforderungsgenerierung, Visuelles Kreativitätstool, Eingabeaufforderung, KI, Eingabeaufforderungsempfehlung, Übersetzungseingabeaufforderung, Bildeingabeaufforderung"
   },
   "ToolPage": {

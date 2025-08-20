@@ -1,17 +1,17 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - AI 绘画智能提示词生成器 | 支持 Stable Diffusion/Midjourney/DALL·E/FLUX",
-    "description": "IMGPrompt 是专业的 AI 绘画提示词生成工具，适配 Stable Diffusion、Midjourney、DALL·E 和 FLUX。支持多语言智能翻译与创意推荐系统，提供可视化词库管理、风格参数预设和光影效果模板，帮助创作者快速实现创意视觉化。通过智能语义联想和色彩随机化工具，激发创作灵感，优化生成效果。",
+    "title": "IMGPrompt - AI绘画智能提示词生成器 | 支持 Midjourney、Stable Diffusion、DALL·E、FLUX",
+    "description": "还在为AI绘画提示词犯愁？试试IMGPrompt智能生成器，轻松驾驭Midjourney、Stable Diffusion、DALL·E与FLUX，探索海量风格与艺术灵感，让作品脱颖而出！",
     "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, Image prompt generation, Visual creativity toolprompt,ai,prompt, 提示词推荐，翻译提示词，图像提示词"
   },
-  "ToolPage":{
+  "ToolPage": {
     "section1": "选择主体",
     "section2": "细化类别",
     "section3": "添加标签",
     "currentSelection": "已选提示词",
     "hierarchyTip": "操作顺序：选择主体 → 细化类别 → 添加标签"
   },
-  "ResultSection":{
+  "ResultSection": {
     "tooltip-light": "应用人像光影模板（包含电影光效、暮光射线等专布光方案）",
     "prompt-light": "人像布光",
     "tooltip-polish": "加载图像优化参数（分辨率增强/细节锐化/艺术风格强化）",
@@ -28,7 +28,7 @@
     "translateSuccess": "翻译成功并已添加到提示词",
     "translateEmptyError": "请输入要翻译的内容",
     "translateFailError": "翻译失败，请重试",
-    "title-other":"高级功能：",
+    "title-other": "高级功能：",
     "tooltip-randomColor": "随机更换颜色提示词",
     "button-randomcolor": "随机颜色"
   },
@@ -38,7 +38,7 @@
     "success": "已复制，可粘贴至 AI 绘画工具",
     "failure": "复制失败，请手动复制"
   },
-  "feedback":{
+  "feedback": {
     "feedback1": "反馈与建议",
     "feedback2": "如果你在使用过程中遇到了问题，或者有任何建议和想法，欢迎随时告诉我！你的反馈将直接影响到未来功能的开发和改进，帮助我们一起打造更符合大家需求的工具。",
     "feedback3": "请详细描述一下你的使用场景或遇到的问题，或者分享你的创意想法。我会认真看每一条反馈，并尽快做出调整和优化。",

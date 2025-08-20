@@ -19998,18 +19998,6 @@
     "attribute": "আলোর উৎস"
   },
   {
-    "displayName": "volumetric Light",
-    "langName": "আয়তনের আলো",
-    "object": "আলো এবং ছায়া প্রভাব",
-    "attribute": "আলোর উৎস"
-  },
-  {
-    "displayName": "Volumetric",
-    "langName": "আয়তনের",
-    "object": "আলো এবং ছায়া প্রভাব",
-    "attribute": "আলোর উৎস"
-  },
-  {
     "displayName": "Frontlight",
     "langName": "উপরের আলো",
     "object": "আলো এবং ছায়া প্রভাব",

@@ -19998,18 +19998,6 @@
     "attribute": "Light source"
   },
   {
-    "displayName": "volumetric Light",
-    "langName": "Volumetric light",
-    "object": "Light and shadow effects",
-    "attribute": "Light source"
-  },
-  {
-    "displayName": "Volumetric",
-    "langName": "Volumetric",
-    "object": "Light and shadow effects",
-    "attribute": "Light source"
-  },
-  {
     "displayName": "Frontlight",
     "langName": "top light",
     "object": "Light and shadow effects",

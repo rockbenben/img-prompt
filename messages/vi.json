@@ -1,0 +1,52 @@
+{
+  "Metadata": {
+    "title": "IMGPrompt - Trình tạo prompt thông minh cho nghệ thuật AI | Midjourney, Stable Diffusion, DALL·E, FLUX",
+    "description": "Khó tìm prompt cho nghệ thuật AI? IMGPrompt giúp bạn tạo prompt thông minh cho Midjourney, Stable Diffusion và DALL·E, khơi nguồn cảm hứng vô tận.",
+    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, Tạo lời nhắc hình ảnh, Công cụ sáng tạo trực quan, lời nhắc, AI, đề xuất lời nhắc, lời nhắc dịch, lời nhắc hình ảnh"
+  },
+  "ToolPage": {
+    "section1": "Chọn chủ đề",
+    "section2": "Tinh chỉnh danh mục",
+    "section3": "Thêm thẻ",
+    "currentSelection": "Lời nhắc đã chọn",
+    "hierarchyTip": "Trình tự thao tác: Chọn Chủ đề → Lọc Danh mục → Thêm Thẻ"
+  },
+  "ResultSection": {
+    "tooltip-light": "Áp dụng mẫu ánh sáng chân dung (bao gồm ánh sáng phim, tia hoàng hôn và các loại khác)",
+    "prompt-light": "Ánh sáng chân dung",
+    "tooltip-polish": "Tải các thông số tối ưu hóa hình ảnh (nâng cao độ phân giải/nâng cao phong cách nghệ thuật)",
+    "prompt-polish": "Tối ưu hóa chất lượng",
+    "insertSuccess": "Các tham số tối ưu hóa đã được thêm vào lời nhắc",
+    "tooltip-negative": "Sao chép các lời nhắc tiêu cực phổ biến (để tránh các lỗi phổ biến)",
+    "prompt-negative": "Lời nhắc tiêu cực",
+    "prompt": "Nhắc nhở",
+    "button-copy": "Sao chép",
+    "clearSuccess": "Lời nhắc đã được xóa",
+    "button-clear": "Thông thoáng",
+    "tooltip-translate": "Nhập văn bản bằng bất kỳ ngôn ngữ nào để dịch sang tiếng Anh",
+    "button-translate": "Dịch",
+    "translateSuccess": "Bản dịch thành công và được thêm vào lời nhắc",
+    "translateEmptyError": "Vui lòng nhập nội dung để dịch",
+    "translateFailError": "Bản dịch không thành công, vui lòng thử lại",
+    "title-other": "Tính năng nâng cao:",
+    "tooltip-randomColor": "Nhắc nhở thay đổi màu sắc ngẫu nhiên",
+    "button-randomcolor": "Màu sắc ngẫu nhiên"
+  },
+  "CopyToClipboard": {
+    "empty": "Nội dung trống rỗng, không có gì để sao chép",
+    "unsupported": "Trình duyệt của bạn không hỗ trợ thao tác clipboard, vui lòng thử sao chép thủ công hoặc sử dụng trình duyệt khác",
+    "success": "Đã sao chép thành công, bạn có thể dán vào công cụ vẽ AI",
+    "failure": "Sao chép không thành công, vui lòng sao chép thủ công"
+  },
+  "feedback": {
+    "feedback1": "Phản hồi và Gợi ý",
+    "feedback2": "Nếu bạn gặp bất kỳ vấn đề nào trong quá trình sử dụng hoặc có bất kỳ đề xuất hay ý tưởng nào, đừng ngần ngại cho tôi biết! Phản hồi của bạn sẽ ảnh hưởng trực tiếp đến việc phát triển và cải thiện các tính năng trong tương lai, giúp chúng tôi tạo ra một công cụ đáp ứng tốt hơn nhu cầu của mọi người.",
+    "feedback3": "Vui lòng mô tả chi tiết trường hợp sử dụng hoặc vấn đề bạn gặp phải, hoặc chia sẻ ý tưởng sáng tạo của bạn. Tôi sẽ cân nhắc kỹ lưỡng từng phản hồi và thực hiện điều chỉnh và tối ưu hóa sớm nhất có thể.",
+    "reaction0": "Hướng lên",
+    "reaction1": "Ủng hộ",
+    "reaction2": "Mát mẻ",
+    "reaction3": "Cái gì?",
+    "reaction4": "Câu đố",
+    "placeholder": "Vui lòng để lại tin nhắn, không cần đăng nhập (nhập email của bạn để nhận thông báo trả lời)"
+  }
+}

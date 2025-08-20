@@ -19998,18 +19998,6 @@
     "attribute": "Fuente de luz"
   },
   {
-    "displayName": "volumetric Light",
-    "langName": "Luz volumétrica",
-    "object": "Efectos de luces y sombras",
-    "attribute": "Fuente de luz"
-  },
-  {
-    "displayName": "Volumetric",
-    "langName": "Volumétrico",
-    "object": "Efectos de luces y sombras",
-    "attribute": "Fuente de luz"
-  },
-  {
     "displayName": "Frontlight",
     "langName": "luz superior",
     "object": "Efectos de luces y sombras",

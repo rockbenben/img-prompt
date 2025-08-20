@@ -19998,18 +19998,6 @@
     "attribute": "光源"
   },
   {
-    "displayName": "volumetric Light",
-    "langName": "ボリューメトリックライト",
-    "object": "光と影の効果",
-    "attribute": "光源"
-  },
-  {
-    "displayName": "Volumetric",
-    "langName": "容積測定",
-    "object": "光と影の効果",
-    "attribute": "光源"
-  },
-  {
     "displayName": "Frontlight",
     "langName": "トップライト",
     "object": "光と影の効果",

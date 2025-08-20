@@ -1,0 +1,52 @@
+{
+  "Metadata": {
+    "title": "IMGPrompt - Generatore intelligente di prompt per arte con IA | Midjourney, Stable Diffusion, DALL·E, FLUX",
+    "description": "Cerchi prompt perfetti per l’arte con IA? IMGPrompt crea prompt intelligenti per Midjourney, Stable Diffusion e DALL·E, offrendoti ispirazione senza limiti.",
+    "keywords": "IMGPrompt, Difusi Stabil, Midjourney, DALL·E, FLUX, Pembuatan prompt gambar, Alat kreativitas visual, prompt, AI, rekomendasi prompt, prompt terjemahan, prompt gambar"
+  },
+  "ToolPage": {
+    "section1": "Pilih Subjek",
+    "section2": "Perbaiki Kategori",
+    "section3": "Tambahkan Tag",
+    "currentSelection": "Prompt yang Dipilih",
+    "hierarchyTip": "Urutan operasi: Pilih Subjek → Perbaiki Kategori → Tambahkan Tag"
+  },
+  "ResultSection": {
+    "tooltip-light": "Terapkan templat pencahayaan potret (termasuk pencahayaan film, sinar senja, dan lainnya)",
+    "prompt-light": "Pencahayaan Potret",
+    "tooltip-polish": "Memuat parameter pengoptimalan gambar (peningkatan resolusi/peningkatan gaya artistik)",
+    "prompt-polish": "Optimasi Kualitas",
+    "insertSuccess": "Parameter optimasi telah ditambahkan ke prompt",
+    "tooltip-negative": "Salin perintah negatif yang umum (untuk menghindari kesalahan umum)",
+    "prompt-negative": "Prompt Negatif",
+    "prompt": "Mengingatkan",
+    "button-copy": "Menyalin",
+    "clearSuccess": "Perintah telah dihapus",
+    "button-clear": "Jernih",
+    "tooltip-translate": "Masukkan teks dalam bahasa apa pun untuk diterjemahkan ke dalam bahasa Inggris",
+    "button-translate": "Menerjemahkan",
+    "translateSuccess": "Terjemahan berhasil dan ditambahkan ke prompt",
+    "translateEmptyError": "Silakan masukkan konten untuk diterjemahkan",
+    "translateFailError": "Terjemahan gagal, silakan coba lagi",
+    "title-other": "Fitur Lanjutan:",
+    "tooltip-randomColor": "Prompt perubahan warna secara acak",
+    "button-randomcolor": "Warna Acak"
+  },
+  "CopyToClipboard": {
+    "empty": "Konten kosong, tidak ada yang bisa disalin",
+    "unsupported": "Browser Anda tidak mendukung operasi clipboard, silakan coba menyalin secara manual atau gunakan browser lain",
+    "success": "Berhasil disalin, Anda dapat menempelkannya ke alat lukis AI",
+    "failure": "Penyalinan gagal, silakan salin secara manual"
+  },
+  "feedback": {
+    "feedback1": "Umpan Balik dan Saran",
+    "feedback2": "Jika Anda mengalami masalah selama penggunaan atau memiliki saran dan ide, jangan ragu untuk memberi tahu saya! Masukan Anda akan secara langsung memengaruhi pengembangan dan peningkatan fitur-fitur di masa mendatang, membantu kami menciptakan alat yang lebih memenuhi kebutuhan semua orang.",
+    "feedback3": "Jelaskan kasus penggunaan atau masalah yang Anda temui secara detail, atau bagikan ide-ide kreatif Anda. Saya akan mempertimbangkan setiap masukan dengan saksama dan melakukan penyesuaian serta pengoptimalan sesegera mungkin.",
+    "reaction0": "Ke atas",
+    "reaction1": "Mendukung",
+    "reaction2": "Dingin",
+    "reaction3": "Apa?",
+    "reaction4": "Membingungkan",
+    "placeholder": "Silakan tinggalkan pesan, tidak perlu login (masukkan email Anda untuk menerima pemberitahuan balasan)"
+  }
+}

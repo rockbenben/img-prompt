@@ -1,0 +1,52 @@
+{
+  "Metadata": {
+    "title": "IMGPrompt - Yapay Zekâ Sanatı için Akıllı Prompt Üretici | Midjourney, Stable Diffusion, DALL·E, FLUX",
+    "description": "Yapay zekâ sanatı için doğru promptu bulmakta zorlanıyor musunuz? IMGPrompt, Midjourney ve Stable Diffusion için akıllı promptlar üretir, sınırsız ilham sunar.",
+    "keywords": "IMGPrompt, Stable Diffusion, Midjourney, DALL·E, FLUX, Görüntü istemi oluşturma, Görsel yaratıcılık aracı, istem, AI, istem önerisi, çeviri istemi, görüntü istemi"
+  },
+  "ToolPage": {
+    "section1": "Konu Seçin",
+    "section2": "Kategoriyi İyileştir",
+    "section3": "Etiket Ekle",
+    "currentSelection": "Seçilmiş İstemler",
+    "hierarchyTip": "İşlem sırası: Konuyu Seç → Kategoriyi İyileştir → Etiket Ekle"
+  },
+  "ResultSection": {
+    "tooltip-light": "Portre aydınlatma şablonunu uygulayın (film aydınlatması, alacakaranlık ışınları ve diğerleri dahil)",
+    "prompt-light": "Portre Aydınlatması",
+    "tooltip-polish": "Görüntü optimizasyon parametrelerini yükle (çözünürlük iyileştirme/sanatsal stil iyileştirme)",
+    "prompt-polish": "Kalite Optimizasyonu",
+    "insertSuccess": "Optimizasyon parametreleri komut istemine eklendi",
+    "tooltip-negative": "Yaygın olumsuz istemleri kopyalayın (yaygın kusurlardan kaçınmak için)",
+    "prompt-negative": "Olumsuz İstem",
+    "prompt": "Çabuk",
+    "button-copy": "Kopyala",
+    "clearSuccess": "İstemler temizlendi",
+    "button-clear": "Temizlemek",
+    "tooltip-translate": "İngilizceye çevirmek için herhangi bir dilde metin girin",
+    "button-translate": "Çevir",
+    "translateSuccess": "Çeviri başarılı oldu ve komut istemine eklendi",
+    "translateEmptyError": "Lütfen çevrilecek içeriği girin",
+    "translateFailError": "Çeviri başarısız oldu, lütfen tekrar deneyin",
+    "title-other": "Gelişmiş Özellikler:",
+    "tooltip-randomColor": "Rastgele renk değiştirme istemi",
+    "button-randomcolor": "Rastgele Renk"
+  },
+  "CopyToClipboard": {
+    "empty": "İçerik boş, kopyalanacak bir şey yok",
+    "unsupported": "Tarayıcınız pano işlemlerini desteklemiyor, lütfen manuel olarak kopyalamayı deneyin veya farklı bir tarayıcı kullanın",
+    "success": "Başarıyla kopyalandı, bunu AI boyama aracına yapıştırabilirsiniz",
+    "failure": "Kopyalama başarısız oldu, lütfen manuel olarak kopyalayın"
+  },
+  "feedback": {
+    "feedback1": "Geri Bildirim ve Öneriler",
+    "feedback2": "Kullanım sırasında herhangi bir sorunla karşılaşırsanız veya herhangi bir öneriniz ve fikriniz varsa, lütfen bana bildirmekten çekinmeyin! Geri bildirimleriniz, gelecekteki özelliklerin geliştirilmesini ve iyileştirilmesini doğrudan etkileyecek ve herkesin ihtiyaçlarını daha iyi karşılayan bir araç oluşturmamıza yardımcı olacaktır.",
+    "feedback3": "Lütfen kullanım senaryonuzu veya karşılaştığınız sorunu ayrıntılı olarak açıklayın veya yaratıcı fikirlerinizi paylaşın. Her geri bildirimi dikkatlice değerlendirip en kısa sürede ayarlamalar ve iyileştirmeler yapacağım.",
+    "reaction0": "Yukarı",
+    "reaction1": "Destek",
+    "reaction2": "Serin",
+    "reaction3": "Ne?",
+    "reaction4": "Bulmaca",
+    "placeholder": "Lütfen bir mesaj bırakın, giriş yapmanıza gerek yok (cevap bildirimleri almak için e-postanızı girin)"
+  }
+}

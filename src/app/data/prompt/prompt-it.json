@@ -19998,18 +19998,6 @@
     "attribute": "Sorgente luminosa"
   },
   {
-    "displayName": "volumetric Light",
-    "langName": "Luce volumetrica",
-    "object": "Effetti di luce e ombra",
-    "attribute": "Sorgente luminosa"
-  },
-  {
-    "displayName": "Volumetric",
-    "langName": "Volumetrico",
-    "object": "Effetti di luce e ombra",
-    "attribute": "Sorgente luminosa"
-  },
-  {
     "displayName": "Frontlight",
     "langName": "luce superiore",
     "object": "Effetti di luce e ombra",

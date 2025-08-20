@@ -19998,18 +19998,6 @@
     "attribute": "प्रकाश स्रोत"
   },
   {
-    "displayName": "volumetric Light",
-    "langName": "वॉल्यूमेट्रिक प्रकाश",
-    "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "प्रकाश स्रोत"
-  },
-  {
-    "displayName": "Volumetric",
-    "langName": "बड़ा",
-    "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "प्रकाश स्रोत"
-  },
-  {
     "displayName": "Frontlight",
     "langName": "शीर्ष प्रकाश",
     "object": "प्रकाश और छाया प्रभाव",

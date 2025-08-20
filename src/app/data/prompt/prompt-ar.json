@@ -19998,18 +19998,6 @@
     "attribute": "مصدر الضوء"
   },
   {
-    "displayName": "volumetric Light",
-    "langName": "الضوء الحجمي",
-    "object": "تأثيرات الضوء والظل",
-    "attribute": "مصدر الضوء"
-  },
-  {
-    "displayName": "Volumetric",
-    "langName": "الحجمي",
-    "object": "تأثيرات الضوء والظل",
-    "attribute": "مصدر الضوء"
-  },
-  {
     "displayName": "Frontlight",
     "langName": "الضوء العلوي",
     "object": "تأثيرات الضوء والظل",

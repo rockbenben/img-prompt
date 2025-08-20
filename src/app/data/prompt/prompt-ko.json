@@ -19998,18 +19998,6 @@
     "attribute": "빛의 소스"
   },
   {
-    "displayName": "volumetric Light",
-    "langName": "체적 조명",
-    "object": "빛과 그림자 효과",
-    "attribute": "빛의 소스"
-  },
-  {
-    "displayName": "Volumetric",
-    "langName": "체적",
-    "object": "빛과 그림자 효과",
-    "attribute": "빛의 소스"
-  },
-  {
     "displayName": "Frontlight",
     "langName": "탑라이트",
     "object": "빛과 그림자 효과",
