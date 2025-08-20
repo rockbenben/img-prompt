@@ -1,5 +1,5 @@
 import React, { FC, useCallback, useMemo } from "react";
-import { Typography } from "antd";
+import { Typography, Tooltip } from "antd";
 import { normalizeString } from "@/app/utils/normalizeString";
 import { TagItem } from "./types";
 
@@ -44,7 +44,8 @@ const TagSection: FC<TagSectionProps> = ({ tags = [], selectedTags, onTagClick }
             const isSelected = selectedTags.some((t) => t.displayName === tag.displayName);
             const tagDisplayName = tag.displayName.length > 20 ? `${tag.displayName.slice(0, 20)}...` : tag.displayName;
             const tagLangName = normalizeString(tag.langName) !== normalizeString(tag.displayName) ? tag.langName : "";
-            return (
+
+            const tagElement = (
               <div
                 key={`${tag.object}-${tag.attribute}-${tag.displayName}`}
                 className={`inline-block m-2 rounded cursor-pointer shadow transition-all duration-150 ease-in-out transform hover:scale-105 hover:shadow-lg ${isSelected ? "opacity-50" : ""}`}
@@ -53,6 +54,15 @@ const TagSection: FC<TagSectionProps> = ({ tags = [], selectedTags, onTagClick }
                 <Text className={`${dark} text-white px-2 py-1 rounded-l`}>{tagDisplayName}</Text>
                 <Text className={`${light} text-white px-2 py-1 rounded-r`}>{tagLangName}</Text>
               </div>
+            );
+
+            // 如果有description，就用Tooltip包装
+            return tag.description ? (
+              <Tooltip key={`${tag.object}-${tag.attribute}-${tag.displayName}`} title={tag.description} placement="top">
+                {tagElement}
+              </Tooltip>
+            ) : (
+              tagElement
             );
           })}
         </div>

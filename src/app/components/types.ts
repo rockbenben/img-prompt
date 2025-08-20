@@ -3,4 +3,5 @@ export interface TagItem {
   attribute: string;
   displayName: string;
   langName: string;
+  description?: string;
 }
