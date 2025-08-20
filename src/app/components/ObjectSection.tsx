@@ -22,7 +22,12 @@ const ObjectSection: FC<ObjectSectionProps> = ({ objects = [], activeObject, onO
   return (
     <div className="flex flex-wrap gap-2">
       {objects.map((object) => (
-        <Button key={object} type={activeObject === object ? "primary" : "default"} onClick={() => handleClick(object)} className="transition-all duration-200">
+        <Button
+          key={object}
+          type={activeObject === object ? "primary" : "default"}
+          onClick={() => handleClick(object)}
+          className="transition-all duration-200"
+        >
           {object}
         </Button>
       ))}
