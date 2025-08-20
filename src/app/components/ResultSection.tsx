@@ -2,7 +2,7 @@ import React, { FC, useState, useEffect, useCallback, useMemo } from "react";
 import { Button, Input, message, Tooltip, Typography, Space, Flex, Tag } from "antd";
 import { CheckCircleOutlined } from "@ant-design/icons";
 import { useTheme } from "next-themes";
-import { useTranslations } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
 import { CONSTANT_BUTTONS, NEGATIVE_TEXT, colorArray } from "@/app/data/constants";
 import { translateText } from "@/app/utils/translateAPI";
 import { normalizeString } from "@/app/utils/normalizeString";
@@ -23,12 +23,52 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
   const [messageApi, contextHolder] = message.useMessage();
   const { copyToClipboard } = useCopyToClipboard();
   const t = useTranslations("ResultSection");
+  const locale = useLocale(); // 获取当前页面语言
   const [resultText, setResultText] = useState("");
+  const [translatedText, setTranslatedText] = useState(""); // 翻译后的文本
+  const [isTranslating, setIsTranslating] = useState(false); // 翻译状态
   const [suggestedTags, setSuggestedTags] = useState<TagItem[]>([]);
   const [exactMatchTag, setExactMatchTag] = useState<TagItem | null>(null);
   const [inputText, setInputText] = useState("");
   const [isComposing, setIsComposing] = useState(false); // 中、日、韩输入法状态
   const { theme } = useTheme();
+
+  // 自动翻译功能
+  const autoTranslate = useCallback(
+    async (text: string) => {
+      if (!text.trim()) {
+        setTranslatedText("");
+        return;
+      }
+
+      // 如果当前语言是英文，不需要翻译
+      if (locale === "en") {
+        setTranslatedText(text);
+        return;
+      }
+
+      try {
+        setIsTranslating(true);
+        const translated = await translateText(text, "en", locale);
+        setTranslatedText(translated);
+      } catch (error) {
+        console.warn("自动翻译失败:", error);
+        setTranslatedText(""); // 翻译失败时清空翻译文本
+      } finally {
+        setIsTranslating(false);
+      }
+    },
+    [locale]
+  );
+
+  // 监听结果文本变化，自动翻译
+  useEffect(() => {
+    const timeoutId = setTimeout(() => {
+      autoTranslate(resultText);
+    }, 500); // 500ms 防抖，避免频繁翻译
+
+    return () => clearTimeout(timeoutId);
+  }, [resultText, autoTranslate]);
 
   const findTagData = useMemo(() => {
     const tagMap = new Map(tagsData.map((tag) => [normalizeString(tag.displayName || ""), tag]));
@@ -286,7 +326,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
       />
       <Flex gap="4px 0" wrap>
         {exactMatchTag && (
-          <Tag icon={<CheckCircleOutlined />} color="success" style={{ pointerEvents: "none" }}>
+          <Tag icon={<CheckCircleOutlined />} color="success" className="cursor-pointer" onClick={() => handleSuggestTagClick(exactMatchTag)}>
             <Text ellipsis={{ tooltip: exactMatchTag.displayName }} className="max-w-[200px] truncate">
               {exactMatchTag.displayName}
             </Text>
@@ -324,6 +364,18 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
       <Tooltip title={t("tooltip-randomColor")}>
         <Button onClick={handleColorReplace}>{t("button-randomcolor")}</Button>
       </Tooltip>
+
+      {/* 翻译结果区域 */}
+      {locale !== "en" && translatedText && (
+        <div className="mt-6">
+          <Input.TextArea
+            value={translatedText}
+            readOnly
+            rows={4}
+            className={`w-full ${theme === "light" ? "bg-blue-50 text-blue-600 border-blue-200" : "bg-blue-900/20 text-blue-300 border-blue-700"}`}
+          />
+        </div>
+      )}
     </>
   );
 };
