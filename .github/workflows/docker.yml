@@ -12,9 +12,6 @@ jobs:
   docker-deploy:
     name: Build and Push Docker Image
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      packages: write
     steps:
       - name: 🚚 Get latest code
         uses: actions/checkout@v5
