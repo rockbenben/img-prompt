@@ -108,7 +108,7 @@
     "attribute": "基礎"
   },
   {
-    "displayName": "a beautiful korean idol",
+    "displayName": "beautiful Korean idol",
     "langName": "韓國偶像",
     "object": "人物",
     "attribute": "基礎"
@@ -3856,6 +3856,60 @@
     "langName": "帶翅膀的頭盔",
     "object": "人物",
     "attribute": "翅膀"
+  },
+  {
+    "displayName": "beautiful Korean idol,stylish modern outfit,fitted jeans,oversized jacket,trendy fashion accessories,(realistic detailed eyes,natural smooth skin texture,confident and charismatic expression)",
+    "langName": "韓系街拍搭配",
+    "object": "人物",
+    "attribute": "常用合集"
+  },
+  {
+    "displayName": "delicate white hair accessory,tailored long white blazer,fitted white crop top,sheer white stockings,white pointed high heels,stockings tightly wrapped,slender elegant legs,smooth curves from thigh to ankle,fashion,sensual,premium style,minimalism,clean background,soft lighting",
+    "langName": "性感白色系搭配",
+    "object": "人物",
+    "attribute": "常用合集"
+  },
+  {
+    "displayName": "beautiful asian female, 22 years old, short black hair with small braid, cream-colored mini ribbon on the right, not dressed yet, holding an un-worn unfolded school swimsuit, bare shoulders, exposed collarbone, in dormitory setting, bashful but making eye contact with camera, natural smartphone photography style, slightly messy composition, unpolished feel, natural lighting, candid moment, spontaneous expressions and actions, realistic, documentary style",
+    "langName": "宿舍換裝時刻",
+    "object": "人物",
+    "attribute": "常用合集"
+  },
+  {
+    "displayName": "beautiful asian female, 22 years old, short black hair with small braid, cream-colored mini ribbon on the right, holding an un-worn unfolded school swimsuit, wrapped in towel, bare shoulders, exposed collarbone, in dormitory setting, bashful but making eye contact with camera, natural smartphone photography style, slightly messy composition, unpolished feel, natural lighting, candid moment, spontaneous expressions and actions, realistic, documentary style",
+    "langName": "宿舍換裝時刻(浴巾款)",
+    "object": "人物",
+    "attribute": "常用合集"
+  },
+  {
+    "displayName": "fitted jeans,oversized jacket,navel",
+    "langName": "休閒搭配(牛仔+肚臍束胸)",
+    "object": "人物",
+    "attribute": "常用合集"
+  },
+  {
+    "displayName": "black hair,earrings,flash photography,jewelry,looking at viewer and facing viewer,solo,(upper body),smirk,long hair,ponytail,short sleeves,black dress,black eyes,makeup,lipstick,(cleavage visible,large breasts),face close-up,bend over,pale skin,downblouse,Arms supporting the bed,wearing necklace,(Bedroom background,bed and curtains behind her,Wardrobe,desk lamp),<lora:flash photography photoV3:0.5>,detailed hands and detailed 5 fingers and detailed 5 finger nails",
+    "langName": "私房寫真",
+    "object": "人物",
+    "attribute": "常用合集"
+  },
+  {
+    "displayName": "night park,tranquil atmosphere,soft streetlight glow,light and shadow on pathway,bright full moon,moonlight blending with street lamps,romantic mood,dreamy night scene,delicate lighting,premium aesthetic,cinematic,bokeh,shallow depth of field",
+    "langName": "夜色公園背景",
+    "object": "人物",
+    "attribute": "常用合集"
+  },
+  {
+    "displayName": "cityscape backdrop,rooftop or high-rise balcony,shallow depth of field,bokeh from city lights",
+    "langName": "城市高層背景",
+    "object": "人物",
+    "attribute": "常用合集"
+  },
+  {
+    "displayName": "Fujifilm XT3,film still,film grain,sharp focus on subject,cinematic",
+    "langName": "膠片質感",
+    "object": "人物",
+    "attribute": "常用合集"
   },
   {
     "displayName": "transparent_background",
@@ -12618,7 +12672,7 @@
     "attribute": "氣質"
   },
   {
-    "displayName": "stylish outfit",
+    "displayName": "stylish modern outfit",
     "langName": "衣着時髦",
     "object": "服飾",
     "attribute": "時尚穿搭"
@@ -28981,36 +29035,6 @@
     "langName": "純二次元風格人像",
     "object": "藝術風格",
     "attribute": "數字藝術"
-  },
-  {
-    "displayName": "a beautiful korean idol,stylish outfit,fitted jeans,oversized jacket,fashionable accessories,(realistic detailed eyes,natural skin texture,confident expression)",
-    "langName": "常用人像",
-    "object": "後期處理",
-    "attribute": "常用合集"
-  },
-  {
-    "displayName": "fitted jeans,oversized jacket,navel",
-    "langName": "休閒搭配(牛仔+肚臍束胸)",
-    "object": "後期處理",
-    "attribute": "常用合集"
-  },
-  {
-    "displayName": "black hair,earrings,flash photography,jewelry,looking at viewer and facing viewer,solo,(upper body),smirk,long hair,ponytail,short sleeves,black dress,black eyes,makeup,lipstick,(cleavage visible,large breasts),face close-up,bend over,pale skin,downblouse,Arms supporting the bed,wearing necklace,(Bedroom background,bed and curtains behind her,Wardrobe,desk lamp),<lora:flash photography photoV3:0.5>,detailed hands and detailed 5 fingers and detailed 5 finger nails",
-    "langName": "私房寫真",
-    "object": "後期處理",
-    "attribute": "常用合集"
-  },
-  {
-    "displayName": "cityscape backdrop,rooftop or high-rise balcony,shallow depth of field,bokeh from city lights",
-    "langName": "城市高層背景",
-    "object": "後期處理",
-    "attribute": "常用合集"
-  },
-  {
-    "displayName": "Fujifilm XT3,film still,film grain,sharp focus on subject,cinematic",
-    "langName": "膠片質感",
-    "object": "後期處理",
-    "attribute": "常用合集"
   },
   {
     "displayName": "Massive Scale",
