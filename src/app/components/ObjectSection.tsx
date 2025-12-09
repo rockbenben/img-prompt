@@ -1,5 +1,5 @@
-import React, { FC, useCallback } from "react";
-import { Button } from "antd";
+import React, { FC } from "react";
+import { Radio, RadioChangeEvent } from "antd";
 
 interface ObjectSectionProps {
   objects?: string[];
@@ -8,30 +8,22 @@ interface ObjectSectionProps {
 }
 
 const ObjectSection: FC<ObjectSectionProps> = ({ objects = [], activeObject, onObjectClick }) => {
-  const handleClick = useCallback(
-    (object: string) => {
-      onObjectClick(object);
-    },
-    [onObjectClick]
-  );
-
   if (objects.length === 0) {
     return null;
   }
 
+  const handleChange = (e: RadioChangeEvent) => {
+    onObjectClick(e.target.value);
+  };
+
   return (
-    <div className="flex flex-wrap gap-2">
+    <Radio.Group value={activeObject} onChange={handleChange} buttonStyle="solid" size="middle">
       {objects.map((object) => (
-        <Button
-          key={object}
-          type={activeObject === object ? "primary" : "default"}
-          onClick={() => handleClick(object)}
-          className="transition-all duration-200"
-        >
+        <Radio.Button key={object} value={object}>
           {object}
-        </Button>
+        </Radio.Button>
       ))}
-    </div>
+    </Radio.Group>
   );
 };
 

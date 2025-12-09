@@ -1,5 +1,5 @@
-import React, { FC, useCallback } from "react";
-import { Button } from "antd";
+import React, { FC } from "react";
+import { Radio, RadioChangeEvent } from "antd";
 
 interface AttributeSectionProps {
   attributes?: string[];
@@ -8,30 +8,22 @@ interface AttributeSectionProps {
 }
 
 const AttributeSection: FC<AttributeSectionProps> = ({ attributes = [], selectedAttribute, onAttributeClick }) => {
-  const handleClick = useCallback(
-    (attribute: string) => {
-      onAttributeClick(attribute);
-    },
-    [onAttributeClick]
-  );
-
   if (attributes.length === 0) {
     return null;
   }
 
+  const handleChange = (e: RadioChangeEvent) => {
+    onAttributeClick(e.target.value);
+  };
+
   return (
-    <div className="flex flex-wrap gap-2">
+    <Radio.Group value={selectedAttribute} onChange={handleChange} buttonStyle="solid" size="middle">
       {attributes.map((attribute) => (
-        <Button
-          key={attribute}
-          type={attribute === selectedAttribute ? "primary" : "default"}
-          onClick={() => handleClick(attribute)}
-          className="transition-all duration-200"
-        >
+        <Radio.Button key={attribute} value={attribute}>
           {attribute}
-        </Button>
+        </Radio.Button>
       ))}
-    </div>
+    </Radio.Group>
   );
 };
 

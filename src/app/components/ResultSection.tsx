@@ -1,7 +1,6 @@
-import React, { FC, useState, useEffect, useCallback, useMemo } from "react";
-import { Button, Input, message, Tooltip, Typography, Space, Flex, Tag } from "antd";
+import React, { FC, useState, useEffect, useMemo, useRef } from "react";
+import { App, Button, Input, Tooltip, Typography, Space, Flex, Tag, Card, Divider } from "antd";
 import { CheckCircleOutlined } from "@ant-design/icons";
-import { useTheme } from "next-themes";
 import { useTranslations, useLocale } from "next-intl";
 import { CONSTANT_BUTTONS, NEGATIVE_TEXT, colorArray } from "@/app/data/constants";
 import { translateText } from "@/app/utils/translateAPI";
@@ -9,7 +8,7 @@ import { normalizeString } from "@/app/utils/normalizeString";
 import { useCopyToClipboard } from "@/app/hooks/useCopyToClipboard";
 import { TagItem } from "./types";
 
-const { Paragraph, Text } = Typography;
+const { Text } = Typography;
 
 interface ResultSectionProps {
   selectedTags: TagItem[];
@@ -19,8 +18,11 @@ interface ResultSectionProps {
 
 const getRandomColor = () => colorArray[Math.floor(Math.random() * colorArray.length)];
 
+// 归一化文本用于翻译比较：去除前后空格和尾部逗号
+const normalizeForTranslation = (text: string) => text.trim().replace(/[,，]\s*$/, "");
+
 const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedTags, tagsData }) => {
-  const [messageApi, contextHolder] = message.useMessage();
+  const { message } = App.useApp();
   const { copyToClipboard } = useCopyToClipboard();
   const t = useTranslations("ResultSection");
   const locale = useLocale(); // 获取当前页面语言
@@ -31,41 +33,43 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
   const [exactMatchTag, setExactMatchTag] = useState<TagItem | null>(null);
   const [inputText, setInputText] = useState("");
   const [isComposing, setIsComposing] = useState(false); // 中、日、韩输入法状态
-  const { theme } = useTheme();
+  const lastTranslatedSource = useRef<string>(""); // 记录上次翻译的源文本
 
   // 自动翻译功能
-  const autoTranslate = useCallback(
-    async (text: string) => {
-      if (!text.trim()) {
-        setTranslatedText("");
-        return;
-      }
+  const autoTranslate = async (text: string) => {
+    if (!text.trim()) {
+      setTranslatedText("");
+      return;
+    }
 
-      // 如果当前语言是英文，不需要翻译
-      if (locale === "en") {
-        setTranslatedText(text);
-        return;
-      }
+    // 如果当前语言是英文，不需要翻译
+    if (locale === "en") {
+      setTranslatedText(text);
+      return;
+    }
 
-      try {
-        setIsTranslating(true);
-        const translated = await translateText(text, "en", locale);
-        setTranslatedText(translated);
-      } catch (error) {
-        console.warn("自动翻译失败:", error);
-        setTranslatedText(""); // 翻译失败时清空翻译文本
-      } finally {
-        setIsTranslating(false);
-      }
-    },
-    [locale]
-  );
+    try {
+      setIsTranslating(true);
+      const translated = await translateText(text, "en", locale);
+      setTranslatedText(translated);
+      lastTranslatedSource.current = normalizeForTranslation(text); // 记录已翻译的源文本
+    } catch (error) {
+      console.warn("自动翻译失败:", error);
+      setTranslatedText(""); // 翻译失败时清空翻译文本
+    } finally {
+      setIsTranslating(false);
+    }
+  };
 
   // 监听结果文本变化，自动翻译
   useEffect(() => {
+    const normalizedText = normalizeForTranslation(resultText);
+    // 空文本或与上次翻译相同的文本不触发翻译
+    if (!normalizedText || normalizedText === lastTranslatedSource.current) return;
+
     const timeoutId = setTimeout(() => {
       autoTranslate(resultText);
-    }, 500); // 500ms 防抖，避免频繁翻译
+    }, 5000); // 5s 防抖，避免频繁翻译
 
     return () => clearTimeout(timeoutId);
   }, [resultText, autoTranslate]);
@@ -84,42 +88,39 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
 
       return (
         foundTag || {
-          object: undefined,
-          attribute: undefined,
-          langName: undefined,
-          displayName: undefined,
+          object: "",
+          attribute: "",
+          langName: "",
+          displayName: "",
         }
       );
     };
   }, [tagsData]);
 
   // 仅在文字输入时触发
-  const handleResultTextChange = useCallback(
-    (e: React.ChangeEvent<HTMLTextAreaElement>) => {
-      let newText = e.target.value;
-      if (newText.endsWith(",") || newText.endsWith("，")) {
-        newText = newText.slice(0, -1).replace(/,\s*$/g, "") + ", ";
-        setResultText(newText);
-        return;
-      }
-
+  const handleResultTextChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
+    let newText = e.target.value;
+    if (newText.endsWith(",") || newText.endsWith("，")) {
+      newText = newText.slice(0, -1).replace(/,\s*$/g, "") + ", ";
       setResultText(newText);
+      return;
+    }
 
-      const newSelectedTags = newText
-        .split(", ")
-        .filter((displayName) => displayName?.trim())
-        .map((displayName) => ({
-          ...findTagData(displayName),
-          displayName,
-        }));
+    setResultText(newText);
 
-      setSelectedTags(newSelectedTags);
-    },
-    [findTagData, setSelectedTags]
-  );
+    const newSelectedTags = newText
+      .split(", ")
+      .filter((displayName) => displayName?.trim())
+      .map((displayName) => ({
+        ...findTagData(displayName),
+        displayName,
+      }));
+
+    setSelectedTags(newSelectedTags);
+  };
 
   // 仅在失去焦点时触发（直接选择标签不会触发）
-  const handleBlur = useCallback(() => {
+  const handleBlur = () => {
     let replacedText = resultText
       .replace(/，/g, ", ")
       .replace(/\s+,\s*/g, ", ") //仅去除逗号前空格，避免组合标签被拆分
@@ -141,7 +142,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
     setSelectedTags(selectedTags);
     setResultText(selectedTags.map((tag) => tag.displayName).join(", "));
     setIsComposing(false);
-  }, [resultText, findTagData, setSelectedTags]);
+  };
 
   const handleSuggestTagClick = (tag: TagItem) => {
     // setIsComposing(false); // 强制结束当前的输入法状态，避免中文输入法兼容问题
@@ -215,37 +216,31 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
   }, [resultText, tagsData]);
 
   // functions
-  const handleConstantText = useCallback(
-    (constantText: string, successMessageKey: string) => {
-      const newText = resultText ? resultText + ", " + constantText : constantText;
-      const displayNames = newText.split(", ").filter(Boolean);
-      const uniqueDisplayNames = Array.from(new Set(displayNames));
+  const handleConstantText = (constantText: string, successMessageKey: string) => {
+    const newText = resultText ? resultText + ", " + constantText : constantText;
+    const displayNames = newText.split(", ").filter(Boolean);
+    const uniqueDisplayNames = Array.from(new Set(displayNames));
 
-      const newSelectedTags = uniqueDisplayNames.map((displayName) => {
-        const { object, attribute, langName, displayName: foundDisplayName } = findTagData(displayName);
-        return {
-          object,
-          displayName: foundDisplayName || displayName,
-          attribute,
-          langName,
-        };
-      });
+    const newSelectedTags = uniqueDisplayNames.map((displayName) => {
+      const { object, attribute, langName, displayName: foundDisplayName } = findTagData(displayName);
+      return {
+        object,
+        displayName: foundDisplayName || displayName,
+        attribute,
+        langName,
+      };
+    });
 
-      setSelectedTags(newSelectedTags);
-      setResultText(uniqueDisplayNames.join(", "));
-      messageApi.success(t(successMessageKey));
-    },
-    [resultText, findTagData, setSelectedTags, t, messageApi]
-  );
+    setSelectedTags(newSelectedTags);
+    setResultText(uniqueDisplayNames.join(", "));
+    message.success(t(successMessageKey));
+  };
 
-  const handleClear = useCallback(() => {
+  const handleClear = () => {
     setSelectedTags([]);
     setResultText("");
-    messageApi.open({
-      type: "success",
-      content: t("clearSuccess"),
-    });
-  }, [setSelectedTags, t, messageApi]);
+    message.success(t("clearSuccess"));
+  };
 
   const handleTranslate = async () => {
     try {
@@ -254,16 +249,10 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
         handleConstantText(translatedText, "translateSuccess");
         setInputText("");
       } else {
-        messageApi.open({
-          type: "error",
-          content: t("translateEmptyError"),
-        });
+        message.error(t("translateEmptyError"));
       }
     } catch (error) {
-      messageApi.open({
-        type: "error",
-        content: t("translateFailError"),
-      });
+      message.error(t("translateFailError"));
     }
   };
 
@@ -278,105 +267,119 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
         return newColor;
       });
       setResultText(updatedText);
-      messageApi.open({
-        type: "success",
-        content: `Successfully replaced ${matches.length} color matches.`,
-      });
+      message.success(`Successfully replaced ${matches.length} color matches.`);
     } else {
-      messageApi.open({
-        type: "info",
-        content: "No color matches found to replace.",
-      });
+      message.info("No color matches found to replace.");
     }
   };
 
   return (
-    <>
-      {contextHolder}
-      <Space wrap>
-        {CONSTANT_BUTTONS.map(({ text, type, tooltipKey, promptKey }) => (
+    <Card variant="borderless" styles={{ body: { padding: 16 } }}>
+      {/* Template prompts - all use Tag style */}
+      <Flex gap="4px 8px" wrap align="center" style={{ marginBottom: 8 }}>
+        {CONSTANT_BUTTONS.map(({ text, tooltipKey, promptKey }) => (
           <Tooltip key={tooltipKey} title={t(tooltipKey)}>
-            <Button type={type as "primary"} onClick={() => handleConstantText(text, "insertSuccess")}>
+            <Tag color="blue" className="cursor-pointer" onClick={() => handleConstantText(text, "insertSuccess")} style={{ margin: 0 }}>
               {t(promptKey)}
-            </Button>
+            </Tag>
           </Tooltip>
         ))}
         <Tooltip title={t("tooltip-negative")}>
-          <Button type="dashed" onClick={() => copyToClipboard(NEGATIVE_TEXT, messageApi, t("prompt-negative"))}>
+          <Tag color="default" className="cursor-pointer" onClick={() => copyToClipboard(NEGATIVE_TEXT, t("prompt-negative"))} style={{ margin: 0 }}>
             {t("prompt-negative")}
-          </Button>
+          </Tag>
         </Tooltip>
-        <Button onClick={() => copyToClipboard(resultText, messageApi, t("prompt"))}>{t("button-copy")}</Button>
-        <Button danger onClick={handleClear}>
-          {t("button-clear")}
-        </Button>
-      </Space>
+      </Flex>
+
+      {/* Main prompt text area */}
       <Input.TextArea
         value={resultText}
-        count={{
-          show: true,
-          max: 380,
-        }}
         onChange={handleResultTextChange}
         onBlur={handleBlur}
         onCompositionStart={() => setIsComposing(true)}
         onCompositionEnd={() => setIsComposing(false)}
         rows={10}
-        className={`w-full mt-2 mb-5 ${theme === "light" ? "bg-gray-50 text-gray-600" : "bg-gray-800 text-gray-300"}`}
+        spellCheck={false}
       />
-      <Flex gap="4px 0" wrap>
+
+      {/* Character count left, copy button right - close to textarea */}
+      <Flex justify="space-between" align="center" style={{ marginTop: 4, marginBottom: 8 }}>
+        <Text type="secondary" style={{ fontSize: 12 }}>
+          {resultText.length} / 380
+        </Text>
+        <Button type="primary" size="small" onClick={() => copyToClipboard(resultText, t("prompt"))}>
+          {t("button-copy")}
+        </Button>
+      </Flex>
+
+      {/* Suggested tags with ellipsis + Tooltip */}
+      <Flex gap="4px 4px" wrap>
         {exactMatchTag && (
-          <Tag icon={<CheckCircleOutlined />} color="success" className="cursor-pointer" onClick={() => handleSuggestTagClick(exactMatchTag)}>
-            <Text ellipsis={{ tooltip: exactMatchTag.displayName }} className="max-w-[200px] truncate">
-              {exactMatchTag.displayName}
-            </Text>
-            <Text type="secondary" className="ml-1">
-              {exactMatchTag.langName}{" "}
-            </Text>
-          </Tag>
+          <Tooltip title={exactMatchTag.langName !== exactMatchTag.displayName ? `${exactMatchTag.langName} - ${exactMatchTag.displayName}` : exactMatchTag.displayName}>
+            <Tag icon={<CheckCircleOutlined />} color="success" className="cursor-pointer" onClick={() => handleSuggestTagClick(exactMatchTag)}>
+              <Text type="secondary" ellipsis style={{ maxWidth: 80, display: "inline-block", verticalAlign: "bottom" }}>
+                {exactMatchTag.langName}
+              </Text>
+              <Text ellipsis style={{ marginLeft: 4, maxWidth: 120, display: "inline-block", verticalAlign: "bottom" }}>
+                {exactMatchTag.displayName}
+              </Text>
+            </Tag>
+          </Tooltip>
         )}
         {suggestedTags.map((tag, index) => {
           const tagLangName = normalizeString(tag.langName) !== normalizeString(tag.displayName) ? tag.langName : "";
           return (
-            <Tag key={index} color="processing" className="cursor-pointer" onClick={() => handleSuggestTagClick(tag)}>
-              <Text ellipsis={{ tooltip: tag.displayName }} className="max-w-[200px] truncate">
-                {tag.displayName}
-              </Text>
-              <Text type="secondary" className="ml-1">
-                {tagLangName}
-              </Text>
-            </Tag>
+            <Tooltip key={index} title={tagLangName ? `${tagLangName} - ${tag.displayName}` : tag.displayName}>
+              <Tag color="processing" className="cursor-pointer" onClick={() => handleSuggestTagClick(tag)}>
+                {tagLangName && (
+                  <Text type="secondary" ellipsis style={{ maxWidth: 80, display: "inline-block", verticalAlign: "bottom" }}>
+                    {tagLangName}
+                  </Text>
+                )}
+                <Text ellipsis style={{ marginLeft: tagLangName ? 4 : 0, maxWidth: 120, display: "inline-block", verticalAlign: "bottom" }}>
+                  {tag.displayName}
+                </Text>
+              </Tag>
+            </Tooltip>
           );
         })}
       </Flex>
 
+      <Divider style={{ margin: "12px 0" }} />
+
+      {/* Translate input */}
       <Tooltip title={t("tooltip-translate")}>
-        <Space.Compact className="w-full mt-2">
-          <Input value={inputText} onChange={(e) => setInputText(e.target.value)} onPressEnter={handleTranslate} placeholder={t("tooltip-translate")} />
-          <Button type="primary" onClick={handleTranslate}>
-            {t("button-translate")}
-          </Button>
+        <Space.Compact className="w-full" size="small">
+          <Input value={inputText} onChange={(e: React.ChangeEvent<HTMLInputElement>) => setInputText(e.target.value)} onPressEnter={handleTranslate} placeholder={t("tooltip-translate")} />
+          <Button onClick={handleTranslate}>{t("button-translate")}</Button>
         </Space.Compact>
       </Tooltip>
-      <Paragraph type="secondary" className="mt-2">
-        {t("title-other")}
-      </Paragraph>
-      <Tooltip title={t("tooltip-randomColor")}>
-        <Button onClick={handleColorReplace}>{t("button-randomcolor")}</Button>
-      </Tooltip>
 
-      {/* 翻译结果区域 */}
+      {/* Auxiliary functions - use Tag style for consistency */}
+      <Flex align="center" gap="4px 8px" wrap style={{ marginTop: 8 }}>
+        <Text type="secondary" style={{ fontSize: 12, whiteSpace: "nowrap" }}>
+          {t("label-auxiliary")}
+        </Text>
+        <Tooltip title={t("tooltip-randomColor")}>
+          <Tag className="cursor-pointer" onClick={handleColorReplace} style={{ margin: 0 }}>
+            {t("button-randomcolor")}
+          </Tag>
+        </Tooltip>
+        <Tag color="error" className="cursor-pointer" onClick={handleClear} style={{ margin: 0 }}>
+          {t("button-clear")}
+        </Tag>
+      </Flex>
+
+      {/* Translation result area */}
       {locale !== "en" && translatedText && (
-        <div className="mt-6">
-          <Input.TextArea
-            value={translatedText}
-            readOnly
-            rows={4}
-            className={`w-full ${theme === "light" ? "bg-blue-50 text-blue-600 border-blue-200" : "bg-blue-900/20 text-blue-300 border-blue-700"}`}
-          />
+        <div style={{ marginTop: 16 }}>
+          <Text type="secondary" style={{ display: "block", marginBottom: 4, fontSize: 12 }}>
+            {t("prompt-translation")}
+          </Text>
+          <Input.TextArea value={translatedText} readOnly rows={4} variant="filled" />
         </div>
       )}
-    </>
+    </Card>
   );
 };
 
