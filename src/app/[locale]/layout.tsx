@@ -1,7 +1,6 @@
 import React from "react";
 import "@/app/globals.css";
 import { Navigation } from "@/app/ui/navigation";
-import { GoogleTagManager } from "@next/third-parties/google";
 import { getLangDir } from "rtl-detect";
 import { setRequestLocale, getTranslations, getMessages } from "next-intl/server";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
