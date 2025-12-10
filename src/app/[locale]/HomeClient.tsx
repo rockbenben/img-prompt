@@ -1,16 +1,18 @@
 "use client";
 import { useState, useEffect, FC } from "react";
-import { Row, Col, Typography, Steps, Card } from "antd";
-import { CheckSquareOutlined } from "@ant-design/icons";
+import { Row, Col, Typography, Steps, Card, Switch, Space } from "antd";
+import { CheckSquareOutlined, AppstoreOutlined, TagsOutlined } from "@ant-design/icons";
 
 import tagsData2 from "@/app/data/prompt-custom.json";
 
 import ObjectSection from "@/app/components/ObjectSection";
 import AttributeSection from "@/app/components/AttributeSection";
 import TagSection from "@/app/components/TagSection";
+import TagSectionCheckable from "@/app/components/TagSectionCheckable";
 import SelectedTagsSection from "@/app/components/SelectedTagsSection";
 import ResultSection from "@/app/components/ResultSection";
 import { TagItem } from "@/app/components/types";
+import { useLocalStorage } from "@/app/hooks/useLocalStorage";
 
 import { useTranslations } from "next-intl";
 
@@ -37,6 +39,7 @@ const HomeClient: FC<HomeClientProps> = ({ tagsData }) => {
   const [activeObject, setActiveObject] = useState<string>("");
   const [activeAttribute, setActiveAttribute] = useState<string>("");
   const [selectedTags, setSelectedTags] = useState<TagItem[]>([]);
+  const [useColorBlocks, setUseColorBlocks] = useLocalStorage<boolean>("useColorBlocks", true);
 
   const attributes = getAttributes(activeObject, combinedTagsData);
 
@@ -67,6 +70,14 @@ const HomeClient: FC<HomeClientProps> = ({ tagsData }) => {
     });
   };
 
+  const filteredTags = combinedTagsData.filter((tag) => tag.object === activeObject && tag.attribute === activeAttribute);
+
+  const tagSectionContent = useColorBlocks ? (
+    <TagSection tags={filteredTags} selectedTags={selectedTags} onTagClick={handleTagClick} />
+  ) : (
+    <TagSectionCheckable tags={filteredTags} selectedTags={selectedTags} onTagClick={handleTagClick} />
+  );
+
   const stepsItems = [
     {
       title: t("section1"),
@@ -77,8 +88,13 @@ const HomeClient: FC<HomeClientProps> = ({ tagsData }) => {
       content: <AttributeSection attributes={attributes} selectedAttribute={activeAttribute} onAttributeClick={handleAttributeClick} />,
     },
     {
-      title: t("section3"),
-      content: <TagSection tags={combinedTagsData.filter((tag) => tag.object === activeObject && tag.attribute === activeAttribute)} selectedTags={selectedTags} onTagClick={handleTagClick} />,
+      title: (
+        <Space size="small">
+          {t("section3")}
+          <Switch size="small" checked={useColorBlocks} onChange={setUseColorBlocks} checkedChildren={<AppstoreOutlined />} unCheckedChildren={<TagsOutlined />} />
+        </Space>
+      ),
+      content: tagSectionContent,
     },
   ];
 
