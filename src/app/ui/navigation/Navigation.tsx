@@ -139,7 +139,7 @@ export function Navigation() {
                         key: "qq",
                         icon: <QqOutlined />,
                         label: (
-                          <a href={SOCIAL_LINKS.qq} target="_blank" rel="noopener noreferrer">
+                          <a href={SOCIAL_LINKS.qq} target="_blank" rel="noopener noreferrer nofollow">
                             QQ 群
                           </a>
                         ),
@@ -150,7 +150,7 @@ export function Navigation() {
                   key: "discord",
                   icon: <DiscordOutlined />,
                   label: (
-                    <a href={SOCIAL_LINKS.discord} target="_blank" rel="noopener noreferrer">
+                    <a href={SOCIAL_LINKS.discord} target="_blank" rel="noopener noreferrer nofollow">
                       Discord
                     </a>
                   ),
@@ -159,7 +159,7 @@ export function Navigation() {
                   key: "telegram",
                   icon: <SendOutlined />,
                   label: (
-                    <a href={SOCIAL_LINKS.telegram} target="_blank" rel="noopener noreferrer">
+                    <a href={SOCIAL_LINKS.telegram} target="_blank" rel="noopener noreferrer nofollow">
                       Telegram
                     </a>
                   ),
