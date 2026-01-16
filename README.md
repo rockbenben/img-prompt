@@ -28,7 +28,8 @@
 <a href="https://prompt.newzone.top/app/bn">বাংলা</a> |
 <a href="https://prompt.newzone.top/app/id">Bahasa Indonesia</a> |
 <a href="https://prompt.newzone.top/app/tr">Türkçe</a> |
-<a href="https://prompt.newzone.top/app/vi">Tiếng Việt</a>
+<a href="https://prompt.newzone.top/app/vi">Tiếng Việt</a> |
+<a href="https://prompt.newzone.top/app/th">ภาษาไทย</a>
 </p>
 <p align="center">
     <em>Make AI Art Accessible in Your Native Language</em>
@@ -99,7 +100,7 @@ Prefer a desktop app? We support Windows, macOS, and Linux. Download the latest 
 
 ### 🌍 Multi-Language Support
 
-Supports 17 languages including **Chinese (Simplified/Traditional), English, Portuguese, Korean, Japanese, and more**. The interface and the prompt database adapt to your preferred language.
+Supports 18 languages including **Chinese (Simplified/Traditional), English, Portuguese, Korean, Japanese, and more**. The interface and the prompt database adapt to your preferred language.
 
 _(Note: Includes a handy translation utility for custom text inputs, supported by Google/Youdao/MyMemory)_.
 
