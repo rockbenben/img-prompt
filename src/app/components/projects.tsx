@@ -1,4 +1,4 @@
-import { ThunderboltOutlined, BgColorsOutlined, BulbOutlined, ExperimentOutlined, ToolOutlined } from "@ant-design/icons";
+import { BgColorsOutlined, BulbOutlined, ExperimentOutlined, ToolOutlined } from "@ant-design/icons";
 import Link from "next/link";
 import { useTranslations, useLocale } from "next-intl";
 
@@ -62,12 +62,23 @@ export const useAppMenu = () => {
         return `/${locale}`;
       case "guide":
         return `https://prompt.newzone.top/${isChineseLocale ? "" : "en/"}guide/`;
-      case "aishort":
-        return `https://www.aishort.top/${isChineseLocale ? "" : locale}`;
+      case "aishort": {
+        let aishortPath = "";
+        if (locale === "zh") {
+          aishortPath = "";
+        } else if (locale === "zh-hant") {
+          aishortPath = "zh-Hant";
+        } else if (locale === "id") {
+          aishortPath = "ind";
+        } else {
+          aishortPath = locale;
+        }
+        return `https://www.aishort.top/${aishortPath}`;
+      }
       case "tools":
         return `https://tools.newzone.top/${locale}`;
       case "feedback":
-        return `/${locale}/feedback`;
+        return `https://prompt.newzone.top/app/${locale}/feedback`;
       default:
         return "#";
     }

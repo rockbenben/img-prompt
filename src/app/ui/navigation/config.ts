@@ -27,6 +27,7 @@ export const LANGUAGES: readonly Language[] = [
   { key: "ko", label: "한국어" },
   { key: "ru", label: "Русский" },
   { key: "vi", label: "Tiếng Việt" },
+  { key: "th", label: "ไทย" },
   { key: "tr", label: "Türkçe" },
   { key: "zh-hant", label: "繁体中文" },
   { key: "bn", label: "বাংলা" },
