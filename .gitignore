@@ -42,3 +42,4 @@ next-env.d.ts
 
 # tauri
 src-tauri
+src/app/utils/updater.ts
