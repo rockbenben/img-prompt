@@ -35,44 +35,39 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
   const [isComposing, setIsComposing] = useState(false); // 中、日、韩输入法状态
   const lastTranslatedSource = useRef<string>(""); // 记录上次翻译的源文本
 
-  // 自动翻译功能
-  const autoTranslate = async (text: string) => {
-    if (!text.trim()) {
-      setTranslatedText("");
-      return;
-    }
-
-    // 如果当前语言是英文，不需要翻译
-    if (locale === "en") {
-      setTranslatedText(text);
-      return;
-    }
-
-    try {
-      setIsTranslating(true);
-      const translated = await translateText(text, "en", locale);
-      setTranslatedText(translated);
-      lastTranslatedSource.current = normalizeForTranslation(text); // 记录已翻译的源文本
-    } catch (error) {
-      console.warn("自动翻译失败:", error);
-      setTranslatedText(""); // 翻译失败时清空翻译文本
-    } finally {
-      setIsTranslating(false);
-    }
-  };
-
-  // 监听结果文本变化，自动翻译
+  // 监听结果文本变化，自动翻译（5s 防抖）
   useEffect(() => {
     const normalizedText = normalizeForTranslation(resultText);
     // 空文本或与上次翻译相同的文本不触发翻译
     if (!normalizedText || normalizedText === lastTranslatedSource.current) return;
 
-    const timeoutId = setTimeout(() => {
-      autoTranslate(resultText);
-    }, 5000); // 5s 防抖，避免频繁翻译
+    // 英文环境无需翻译
+    if (locale === "en") {
+      setTranslatedText(resultText);
+      return;
+    }
+
+    const timeoutId = setTimeout(async () => {
+      if (!resultText.trim()) {
+        setTranslatedText("");
+        return;
+      }
+
+      try {
+        setIsTranslating(true);
+        const translated = await translateText(resultText, "en", locale);
+        setTranslatedText(translated);
+        lastTranslatedSource.current = normalizeForTranslation(resultText);
+      } catch (error) {
+        console.warn("自动翻译失败:", error);
+        setTranslatedText("");
+      } finally {
+        setIsTranslating(false);
+      }
+    }, 5000);
 
     return () => clearTimeout(timeoutId);
-  }, [resultText, autoTranslate]);
+  }, [resultText, locale]);
 
   const findTagData = useMemo(() => {
     const tagMap = new Map(tagsData.map((tag) => [normalizeString(tag.displayName || ""), tag]));
@@ -300,6 +295,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
         onCompositionEnd={() => setIsComposing(false)}
         rows={10}
         spellCheck={false}
+        aria-label={t("prompt")}
       />
 
       {/* Character count left, copy button right - close to textarea */}
@@ -307,7 +303,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
         <Text type="secondary" style={{ fontSize: 12 }}>
           {resultText.length} / 380
         </Text>
-        <Button type="primary" size="small" onClick={() => copyToClipboard(resultText, t("prompt"))}>
+        <Button type="primary" onClick={() => copyToClipboard(resultText, t("prompt"))}>
           {t("button-copy")}
         </Button>
       </Flex>
@@ -350,7 +346,13 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
       {/* Translate input */}
       <Tooltip title={t("tooltip-translate")}>
         <Space.Compact className="w-full" size="small">
-          <Input value={inputText} onChange={(e: React.ChangeEvent<HTMLInputElement>) => setInputText(e.target.value)} onPressEnter={handleTranslate} placeholder={t("tooltip-translate")} />
+          <Input
+            value={inputText}
+            onChange={(e: React.ChangeEvent<HTMLInputElement>) => setInputText(e.target.value)}
+            onPressEnter={handleTranslate}
+            placeholder={t("tooltip-translate")}
+            aria-label={t("tooltip-translate")}
+          />
           <Button onClick={handleTranslate}>{t("button-translate")}</Button>
         </Space.Compact>
       </Tooltip>
@@ -376,7 +378,7 @@ const ResultSection: FC<ResultSectionProps> = ({ selectedTags = [], setSelectedT
           <Text type="secondary" style={{ display: "block", marginBottom: 4, fontSize: 12 }}>
             {t("prompt-translation")}
           </Text>
-          <Input.TextArea value={translatedText} readOnly rows={4} variant="filled" />
+          <Input.TextArea value={translatedText} readOnly rows={4} variant="filled" aria-label={t("prompt-translation")} />
         </div>
       )}
     </Card>

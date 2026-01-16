@@ -1,8 +1,8 @@
 import React, { FC, useMemo } from "react";
-import { Tag, Typography, Space, Collapse, Empty, CollapseProps } from "antd";
+import { Tag, Typography, Space, Collapse, CollapseProps } from "antd";
 import { normalizeString } from "@/app/utils/normalizeString";
-import { TagItem } from "./types";
 import { useTranslations } from "next-intl";
+import { TagItem } from "./types";
 
 const { Text } = Typography;
 
@@ -33,11 +33,6 @@ const SelectedTagsSection: FC<SelectedTagsSectionProps> = ({ selectedTags = [], 
   // Get all keys to keep all panels expanded
   const allKeys = Object.keys(tagsByObjectAndAttribute);
 
-  // If no tags, return empty state
-  if (selectedTags.length === 0) {
-    return <Empty description={t("empty-selected-tags")} image={Empty.PRESENTED_IMAGE_SIMPLE} />;
-  }
-
   const items: CollapseProps["items"] = Object.entries(tagsByObjectAndAttribute).map(([object, tagsByAttribute]) => ({
     key: object,
     label: (
@@ -46,7 +41,7 @@ const SelectedTagsSection: FC<SelectedTagsSectionProps> = ({ selectedTags = [], 
       </Text>
     ),
     children: (
-      <Space orientation="vertical" size="small" style={{ width: "100%" }}>
+      <Space direction="vertical" size="small" style={{ width: "100%" }}>
         {Object.entries(tagsByAttribute).map(([attribute, tags]) => (
           <div key={attribute}>
             <Text type="secondary" style={{ marginRight: 8 }}>

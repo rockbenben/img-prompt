@@ -100,7 +100,7 @@ const HomeClient: FC<HomeClientProps> = ({ tagsData }) => {
 
   return (
     <>
-      <Title level={2} style={{ textAlign: "center" }}>
+      <Title level={2} style={{ textAlign: "center" }} className="hide-on-mobile">
         IMGPrompt
       </Title>
       <Row gutter={[16, 16]}>
@@ -108,11 +108,15 @@ const HomeClient: FC<HomeClientProps> = ({ tagsData }) => {
           <Card variant="borderless">
             <Steps orientation="vertical" size="small" current={-1} items={stepsItems} />
           </Card>
-          <Title level={5} style={{ margin: "16px 8px 8px" }}>
-            <CheckSquareOutlined style={{ marginRight: 8 }} />
-            {t("currentSelection")}
-          </Title>
-          <SelectedTagsSection selectedTags={selectedTags} onTagClick={handleTagClick} />
+          {selectedTags.length > 0 && (
+            <>
+              <Title level={5} style={{ margin: "16px 8px 8px" }} className="hide-on-mobile">
+                <CheckSquareOutlined style={{ marginRight: 8 }} />
+                {t("currentSelection")}
+              </Title>
+              <SelectedTagsSection selectedTags={selectedTags} onTagClick={handleTagClick} />
+            </>
+          )}
         </Col>
         <Col xs={24} lg={6}>
           <ResultSection selectedTags={selectedTags} setSelectedTags={setSelectedTags} tagsData={combinedTagsData} />
