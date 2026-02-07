@@ -10,10 +10,11 @@ interface PromptInputProps {
   onCompositionStart: () => void;
   onCompositionEnd: () => void;
   onCopy: () => void;
+  onClear: () => void;
   t: (key: string) => string;
 }
 
-export const PromptInput: FC<PromptInputProps> = ({ value, onChange, onBlur, onCompositionStart, onCompositionEnd, onCopy, t }) => {
+export const PromptInput: FC<PromptInputProps> = ({ value, onChange, onBlur, onCompositionStart, onCompositionEnd, onCopy, onClear, t }) => {
   return (
     <>
       <Input.TextArea
@@ -31,9 +32,14 @@ export const PromptInput: FC<PromptInputProps> = ({ value, onChange, onBlur, onC
         <Text type="secondary" style={{ fontSize: 12 }}>
           {value.length} / 380
         </Text>
-        <Button type="primary" onClick={onCopy}>
-          {t("button-copy")}
-        </Button>
+        <Flex gap={8}>
+          <Button danger onClick={onClear}>
+            {t("button-clear")}
+          </Button>
+          <Button type="primary" onClick={onCopy}>
+            {t("button-copy")}
+          </Button>
+        </Flex>
       </Flex>
     </>
   );

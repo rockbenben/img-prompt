@@ -68,6 +68,7 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
         onCompositionStart={() => setIsComposing(true)}
         onCompositionEnd={() => setIsComposing(false)}
         onCopy={() => copyToClipboard(resultText, t("prompt"))}
+        onClear={handleClear}
         t={t}
       />
 
@@ -100,9 +101,6 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
             {t("button-randomcolor")}
           </Tag>
         </Tooltip>
-        <Tag color="error" className="cursor-pointer" onClick={handleClear} style={{ margin: 0 }}>
-          {t("button-clear")}
-        </Tag>
       </Flex>
 
       {/* Logic-based Translation Result */}
