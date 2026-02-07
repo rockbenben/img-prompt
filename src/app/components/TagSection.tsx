@@ -1,4 +1,5 @@
 import React, { FC, useMemo } from "react";
+import Image from "next/image";
 import { Tooltip } from "antd";
 import { normalizeString } from "@/app/utils/normalizeString";
 import { TagItem } from "./types";
@@ -33,6 +34,22 @@ const colors = [
   { dark: "bg-indigo-600/80", light: "bg-indigo-500/80" },
 ];
 
+// 渲染 Tooltip 内容：支持图片预览和文字描述
+const renderTooltipContent = (tag: TagItem) => {
+  if (tag.preview && tag.description) {
+    return (
+      <div className="text-center">
+        <Image src={tag.preview} alt={tag.displayName} width={200} height={200} className="rounded mb-2" />
+        <p className="text-sm">{tag.description}</p>
+      </div>
+    );
+  }
+  if (tag.preview) {
+    return <Image src={tag.preview} alt={tag.displayName} width={200} height={200} className="rounded" />;
+  }
+  return tag.description;
+};
+
 const TagSection: FC<TagSectionProps> = ({ tags = [], selectedTags, onTagClick }) => {
   const renderTags = useMemo(() => {
     const tagRows: React.ReactNode[] = [];
@@ -59,16 +76,17 @@ const TagSection: FC<TagSectionProps> = ({ tags = [], selectedTags, onTagClick }
               </div>
             );
 
-            // 如果有description，就用Tooltip包装
-            return tag.description ? (
-              <Tooltip key={`${tag.object}-${tag.attribute}-${tag.displayName}`} title={tag.description} placement="top">
+            // 如果有 preview 或 description，就用 Tooltip 包装
+            const hasTooltip = tag.preview || tag.description;
+            return hasTooltip ? (
+              <Tooltip key={`${tag.object}-${tag.attribute}-${tag.displayName}`} title={renderTooltipContent(tag)} placement="top">
                 {tagElement}
               </Tooltip>
             ) : (
               tagElement
             );
           })}
-        </div>
+        </div>,
       );
     }
 

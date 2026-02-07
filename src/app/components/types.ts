@@ -4,4 +4,5 @@ export interface TagItem {
   displayName: string;
   langName: string;
   description?: string;
+  preview?: string; // Path to preview image, e.g., "/previews/xxx.webp"
 }
