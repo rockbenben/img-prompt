@@ -35,10 +35,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     },
     alternates: {
       canonical: "/",
-      languages: routing.locales.reduce((acc, lang) => {
-        acc[lang] = `/${lang}`;
-        return acc;
-      }, {} as Record<string, string>),
+      languages: routing.locales.reduce(
+        (acc, lang) => {
+          acc[lang] = `/${lang}`;
+          return acc;
+        },
+        {} as Record<string, string>,
+      ),
     },
     openGraph: {
       title: ogTitle,
@@ -78,8 +81,7 @@ export default async function LocaleLayout({ children, params }: Props) {
   // Enable static rendering
   setRequestLocale(locale);
   const direction = getLangDir(locale);
-  const messages = await getMessages();
-  const t = await getTranslations({ locale, namespace: "Metadata" });
+  const [messages, t] = await Promise.all([getMessages(), getTranslations({ locale, namespace: "Metadata" })]);
 
   const jsonLd = {
     "@context": "https://schema.org",

@@ -41,7 +41,7 @@ const SelectedTagsSection: FC<SelectedTagsSectionProps> = ({ selectedTags = [], 
       </Text>
     ),
     children: (
-      <Space direction="vertical" size="small" style={{ width: "100%" }}>
+      <Space orientation="vertical" size="small" style={{ width: "100%" }}>
         {Object.entries(tagsByAttribute).map(([attribute, tags]) => (
           <div key={attribute}>
             <Text type="secondary" style={{ marginRight: 8 }}>
