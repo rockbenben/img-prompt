@@ -1,7 +1,12 @@
 import json
+import os
+
+# Get script directory to resolve relative paths
+script_dir = os.path.dirname(os.path.abspath(__file__))
+json_path = os.path.join(script_dir, 'prompt-zh.json')
 
 # 从文件中读取 JSON 数据
-with open('prompt-zh.json', 'r', encoding='utf-8') as file:
+with open(json_path, 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # 使用字典来记录每个 displayName 出现的次数和对象，忽略大小写和下划线，并处理最后一个字符为's'的情况
@@ -28,5 +33,6 @@ print(json.dumps(duplicates, ensure_ascii=False, indent=2))
 
 # 将结果写入到 check.txt 文件中
 if duplicates:
-    with open('check.txt', 'w', encoding='utf-8') as outfile:
+    output_path = os.path.join(script_dir, 'check.txt')
+    with open(output_path, 'w', encoding='utf-8') as outfile:
         json.dump(duplicates, outfile, ensure_ascii=False, indent=2)

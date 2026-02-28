@@ -1,7 +1,12 @@
 import json
+import os
+
+# Get script directory to resolve relative paths
+script_dir = os.path.dirname(os.path.abspath(__file__))
+json_path = os.path.join(script_dir, 'prompt-zh.json')
 
 # 读取 JSON 数据
-with open('prompt-zh.json', 'r', encoding='utf-8') as file:
+with open(json_path, 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # 定义优先属性值
@@ -54,11 +59,13 @@ for key, items in duplicates.items():
 
 # 输出删除结果到 delete.txt，如果有删除项
 if deleted_objects:
-    with open('delete.txt', 'w', encoding='utf-8') as outfile:
+    delete_txt_path = os.path.join(script_dir, 'delete.txt')
+    with open(delete_txt_path, 'w', encoding='utf-8') as outfile:
         json.dump(deleted_objects, outfile, ensure_ascii=False, indent=2)
 else:
     print("No duplicates to delete.")
 
 # 将更新后的数据写回源文件
-with open('prompt.json', 'w', encoding='utf-8') as file:
+prompt_out_path = os.path.join(script_dir, 'prompt.json')
+with open(prompt_out_path, 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=2)
