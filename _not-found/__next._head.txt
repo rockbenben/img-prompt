@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/798c860069a9fd19.js"],"ViewportBoundary"]
-3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/798c860069a9fd19.js"],"MetadataBoundary"]
+2:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/05l_4j82pgh8n.js"],"ViewportBoundary"]
+3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/05l_4j82pgh8n.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/798c860069a9fd19.js"],"IconMark"]
-0:{"buildId":"D-tDu332bBAjE2JqYEtiZ","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","link","0",{"rel":"icon","href":"/icon.png?icon.7576399d.png","sizes":"32x32","type":"image/png"}],["$","link","1",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.97393c4c.png","sizes":"180x180","type":"image/png"}],["$","$L5","2",{}]]}]}]}],null]}],"loading":null,"isPartial":false}
+5:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/05l_4j82pgh8n.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","link","0",{"rel":"icon","href":"/icon.png?icon.0n5m6wo7b19p2.png","sizes":"32x32","type":"image/png"}],["$","link","1",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.0cnujttryqj1~.png","sizes":"180x180","type":"image/png"}],["$","$L5","2",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"t4I_nH4bBNtrCYPJY0cfz"}
