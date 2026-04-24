@@ -4465,91 +4465,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260211150759349.webp"
   },
   {
-    "displayName": "beautiful Korean idol,stylish modern outfit,fitted jeans,oversized jacket,trendy fashion accessories,(realistic detailed eyes,natural smooth skin texture,confident and charismatic expression)",
-    "langName": "Streetstyle-Outfit",
-    "object": "Figur",
-    "attribute": "Häufig verwendete Sammlungen",
-    "preview": "https://img.aishort.top/imgprompt/20260207163033730.webp"
-  },
-  {
-    "displayName": "fitted jeans,oversized jacket,navel",
-    "langName": "Lässiges Hot-Girl-Outfit (Denim + Crop-Top)",
-    "object": "Figur",
-    "attribute": "Häufig verwendete Sammlungen",
-    "preview": "https://img.aishort.top/imgprompt/20260207163033732.webp"
-  },
-  {
-    "displayName": "delicate white hair accessory,tailored long white blazer,fitted white crop top,sheer white stockings,white pointed high heels,stockings tightly wrapped,slender elegant legs,smooth curves from thigh to ankle,fashion,sensual,premium style,minimalism,clean background,soft lighting",
-    "langName": "Reinweiße sexy professionelle Kleidung",
-    "object": "Figur",
-    "attribute": "Häufig verwendete Sammlungen",
-    "preview": "https://img.aishort.top/imgprompt/20260207163033725.webp"
-  },
-  {
-    "displayName": "black hair,earrings,flash photography,jewelry,looking at viewer and facing viewer,solo,(upper body),smirk,long hair,ponytail,short sleeves,black dress,black eyes,makeup,lipstick,(cleavage visible,large breasts),face close-up,bend over,pale skin,downblouse,Arms supporting the bed,wearing necklace,(Bedroom background,bed and curtains behind her,Wardrobe,desk lamp),<lora:flash photography photoV3:0.5>,detailed hands and detailed 5 fingers and detailed 5 finger nails",
-    "langName": "Flash Schwarzes Kleid Boudoir",
-    "object": "Figur",
-    "attribute": "Häufig verwendete Sammlungen",
-    "preview": "https://img.aishort.top/imgprompt/20260207163033728.webp"
-  },
-  {
-    "displayName": "beautiful Korean idol in an intimate pose on a bed,with soft lighting and a moody atmosphere",
-    "langName": "Faules Bettfoto",
-    "object": "Figur",
-    "attribute": "Häufig verwendete Sammlungen",
-    "preview": "https://img.aishort.top/imgprompt/20260228062600303.webp"
-  },
-  {
-    "displayName": "beautiful Korean idol in an intimate pose with a man in a blurred indoor setting,soft lighting,moody atmosphere",
-    "langName": "beautiful Korean idol in an intimate pose with a man in a blurred indoor setting,soft lighting,moody atmosphere",
-    "object": "Figur",
-    "attribute": "Häufig verwendete Sammlungen",
-    "preview": "https://img.aishort.top/imgprompt/20260228063106088.webp"
-  },
-  {
-    "displayName": "beautiful asian female,22 years old,short black hair with small braid,cream-colored mini ribbon on the right,not dressed yet,holding an un-worn unfolded school swimsuit,bare shoulders,exposed collarbone,in dormitory setting,bashful but making eye contact with camera,natural smartphone photography style,slightly messy composition,unpolished feel,natural lighting,candid moment,spontaneous expressions and actions,realistic,documentary style",
-    "langName": "Wohnheim Verkleidungsmoment",
-    "object": "Figur",
-    "attribute": "Häufig verwendete Sammlungen",
-    "preview": "https://img.aishort.top/imgprompt/20260207163033731.webp"
-  },
-  {
-    "displayName": "beautiful asian female,22 years old,short black hair with small braid,cream-colored mini ribbon on the right,holding an un-worn unfolded school swimsuit,wrapped in towel,bare shoulders,exposed collarbone,in dormitory setting,bashful but making eye contact with camera,natural smartphone photography style,slightly messy composition,unpolished feel,natural lighting,candid moment,spontaneous expressions and actions,realistic,documentary style",
-    "langName": "Wohnheim Verkleidungsmoment (Handtuchversion)",
-    "object": "Figur",
-    "attribute": "Häufig verwendete Sammlungen",
-    "preview": "https://img.aishort.top/imgprompt/20260207163033733.webp"
-  },
-  {
-    "displayName": "night park,tranquil atmosphere,soft streetlight glow,light and shadow on pathway,bright full moon,moonlight blending with street lamps,romantic mood,dreamy night scene,delicate lighting,premium aesthetic,cinematic,bokeh,shallow depth of field",
-    "langName": "Hintergrund des Nachtparks",
-    "object": "Figur",
-    "attribute": "Häufig verwendete Sammlungen",
-    "preview": "https://img.aishort.top/imgprompt/20260207163033727.webp"
-  },
-  {
-    "displayName": "cityscape backdrop,rooftop or high-rise balcony,shallow depth of field,bokeh from city lights",
-    "langName": "Nächtlicher Hintergrund von Stadthochhäusern",
-    "object": "Figur",
-    "attribute": "Häufig verwendete Sammlungen",
-    "preview": "https://img.aishort.top/imgprompt/20260207194604882.webp"
-  },
-  {
-    "displayName": "Fujifilm XT3,film still,film grain,sharp focus on subject,cinematic",
-    "langName": "Retro-Film-Textur",
-    "object": "Figur",
-    "attribute": "Häufig verwendete Sammlungen",
-    "preview": "https://img.aishort.top/imgprompt/20260207163033729.webp"
-  },
-  {
-    "displayName": "A vibrant trash-aesthetic poster. An intentionally unflattering,bad-taste portrait of a pop icon. Set against a background of unintelligible visual gibberish. Heavily plastered with random,nonsensical symbols mixed with recognizable hot-topic logos and internet meme imagery. High-impact visual clutter.",
-    "langName": "Hochinformatives abstraktes Collage-Poster",
-    "object": "Figur",
-    "attribute": "Häufig verwendete Sammlungen",
-    "description": "Unverständlicher Hintergrund, absichtlich unvorteilhaftes Porträt einer Pop-Ikone, zufällige unsinnige Symbole und Logos, um auf der Trendwelle zu reiten.",
-    "preview": "https://img.aishort.top/imgprompt/20260207163033734.webp"
-  },
-  {
     "displayName": "transparent_background",
     "langName": "Transparenter Hintergrund",
     "object": "Umgebung",
@@ -6664,6 +6579,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260211161605408.webp"
   },
   {
+    "displayName": "cityscape backdrop,rooftop or high-rise balcony,shallow depth of field,bokeh from city lights",
+    "langName": "Nächtlicher Hintergrund von Stadthochhäusern",
+    "object": "Umgebung",
+    "attribute": "Stadt",
+    "preview": "https://img.aishort.top/imgprompt/20260207194604882.webp"
+  },
+  {
     "displayName": "indoor",
     "langName": "Innenbereich",
     "object": "Umgebung",
@@ -7299,6 +7221,13 @@
     "object": "Umgebung",
     "attribute": "Atmosphäre",
     "preview": "https://img.aishort.top/imgprompt/20260211163540545.webp"
+  },
+  {
+    "displayName": "night park,tranquil atmosphere,soft streetlight glow,light and shadow on pathway,bright full moon,moonlight blending with street lamps,romantic mood,dreamy night scene,delicate lighting,premium aesthetic,cinematic,bokeh,shallow depth of field",
+    "langName": "Hintergrund des Nachtparks",
+    "object": "Umgebung",
+    "attribute": "Atmosphäre",
+    "preview": "https://img.aishort.top/imgprompt/20260207163033727.webp"
   },
   {
     "displayName": "computer",
@@ -21300,6 +21229,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
   },
   {
+    "displayName": "armlet",
+    "langName": "Armbinde",
+    "object": "Kleidung",
+    "attribute": "Arm",
+    "preview": "https://img.aishort.top/imgprompt/20260213190711002.webp"
+  },
+  {
     "displayName": "armored",
     "langName": "gepanzert",
     "object": "Kleidung",
@@ -21634,13 +21570,6 @@
     "object": "Kleidung",
     "attribute": "Stoff",
     "preview": "https://img.aishort.top/imgprompt/20260213190657474.webp"
-  },
-  {
-    "displayName": "armlet",
-    "langName": "Armbinde",
-    "object": "Kleidung",
-    "attribute": "Arm",
-    "preview": "https://img.aishort.top/imgprompt/20260213190711002.webp"
   },
   {
     "displayName": "halo",
@@ -24961,6 +24890,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260214044400504.webp"
   },
   {
+    "displayName": "Fujifilm XT3,film still,film grain,sharp focus on subject,cinematic",
+    "langName": "Retro-Film-Textur",
+    "object": "Fotografie",
+    "attribute": "Fotostil",
+    "preview": "https://img.aishort.top/imgprompt/20260207163033729.webp"
+  },
+  {
     "displayName": "Blurry",
     "langName": "Vage",
     "object": "Fotografie",
@@ -25486,6 +25422,22 @@
     "preview": "https://img.aishort.top/imgprompt/20260224193057400.webp"
   },
   {
+    "displayName": "Tilt‑Shift Photography",
+    "langName": "Tilt‑Shift Photography",
+    "object": "Fotografie",
+    "attribute": "Wirkung",
+    "description": "Verwendet spezielle Objektive und Techniken, um einen Miniatureffekt zu simulieren, oft für Stadtlandschaften oder große Szenen verwendet.",
+    "preview": "https://img.aishort.top/imgprompt/20260224194336197.webp"
+  },
+  {
+    "displayName": "Time-Lapse",
+    "langName": "Zeitraffer-Fotografie",
+    "object": "Fotografie",
+    "attribute": "Wirkung",
+    "description": "Entsteht durch die Aufnahme einer Reihe von Bildern über einen längeren Zeitraum und deren Wiedergabe mit höherer Geschwindigkeit.",
+    "preview": "https://img.aishort.top/imgprompt/20260224194351589.webp"
+  },
+  {
     "displayName": "Camera Push‑In",
     "langName": "Camera Push‑In",
     "object": "Fotografie",
@@ -25556,22 +25508,6 @@
     "attribute": "Erweiterte Kamera",
     "description": "Die Kamera bewegt sich im Kreis um das Motiv, oft verwendet, um den Charakter hervorzuheben oder visuelle Wirkung zu erzielen.",
     "preview": "https://img.aishort.top/imgprompt/20260224194321570.webp"
-  },
-  {
-    "displayName": "Tilt‑Shift Photography",
-    "langName": "Tilt‑Shift Photography",
-    "object": "Fotografie",
-    "attribute": "Wirkung",
-    "description": "Verwendet spezielle Objektive und Techniken, um einen Miniatureffekt zu simulieren, oft für Stadtlandschaften oder große Szenen verwendet.",
-    "preview": "https://img.aishort.top/imgprompt/20260224194336197.webp"
-  },
-  {
-    "displayName": "Time-Lapse",
-    "langName": "Zeitraffer-Fotografie",
-    "object": "Fotografie",
-    "attribute": "Wirkung",
-    "description": "Entsteht durch die Aufnahme einer Reihe von Bildern über einen längeren Zeitraum und deren Wiedergabe mit höherer Geschwindigkeit.",
-    "preview": "https://img.aishort.top/imgprompt/20260224194351589.webp"
   },
   {
     "displayName": "Sunlight",
@@ -34550,5 +34486,917 @@
     "object": "Nachbearbeitung",
     "attribute": "Plattform | Trends",
     "preview": "https://img.aishort.top/imgprompt/20260225023719435.webp"
+  },
+  {
+    "displayName": "35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside,authentic film grain,high contrast,slight color cast,cinematic street editorial style,intimate medium shot,early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features,seductive almond-shaped fox eyes with natural double eyelids,high nose bridge,small sharp V-shaped jawline,flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light,subtle skin texture and micro pores,natural dewy makeup with soft flush on cheeks,glossy natural pink lips slightly parted,subtle natural freckles across nose and cheeks,long dark brown hair in a messy high ponytail with many loose strands falling around face and neck,wearing an oversized white button-up shirt as the only top,unbuttoned at the top with deep cleavage and loosely tied at the waist,paired with a tiny black pleated mini skirt,barefoot in simple white slides,seductive casual leaning pose against the glass door of a 24-hour convenience store at late night,body slightly arched,one leg bent with foot resting against the door frame,the other leg straight,one hand holding a bottle of iced drink,the other hand lightly pulling the hem of her mini skirt,intensely seductive playful yet slightly vulnerable gaze straight at the viewer with soft doe eyes full of quiet temptation and teasing smile,bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs,realistic reflections on glass door,blurred convenience store interior with shelves and snacks in background,authentic 35mm film color grading with harsh lighting and neon accents,extremely sharp yet soft skin rendering,natural hair strands,realistic fabric wrinkles and drape on the oversized shirt and mini skirt,no plastic skin,no digital over-sharpening,no airbrushing,no blemishes,no moles,no oily skin,no watermark,no text,authentic late-night convenience store atmosphere",
+    "langName": "Tankstellen-Neon-Porträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
+    "preview": "https://img.aishort.top/imgprompt/20260424150956243.webp"
+  },
+  {
+    "displayName": "Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment,strong silhouette lighting,deep shadow contrast,reflective glossy floor,symmetrical composition,minimal",
+    "langName": "Cinematisches Minimales Porträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @iam_miharbi (https://x.com/iam_miharbi)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151004970.webp"
+  },
+  {
+    "displayName": "35mm film photography,warm vintage Japanese onsen ryokan aesthetic,soft ambient wooden lantern lighting mixed with gentle natural window light,subtle film grain,gentle color shift,high atmosphere editorial style,intimate medium shot,early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features,seductive almond-shaped fox eyes with natural double eyelids,high nose bridge,small sharp V-shaped jawline,flawless porcelain skin with warm ivory undertone,visible subtle skin texture and micro pores,soft natural makeup with dewy glow,subtle rosy flush on cheeks,natural soft pink lips slightly parted,long dark brown hair tied in a loose low bun with some messy strands falling around face and neck,wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist,the fabric slightly open revealing smooth skin and subtle cleavage,barefoot,seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan,body slightly turned toward the camera,one leg bent with foot resting on the wooden floor,the other leg gently dangling,one hand lightly holding the yukata collar,the other hand resting on the wooden floor behind her for support,softly arched back to gently accentuate curves,intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth,warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus,gentle rim lighting highlighting skin and fabric texture,authentic vintage film color grading with warm tones,extremely sharp yet soft skin rendering,natural hair strands,realistic fabric wrinkles and drape on the yukata,no plastic skin,no digital over-sharpening,no airbrushing,no blemishes,no moles,no oily skin,no watermark,no text,authentic 35mm film Japanese onsen ryokan atmosphere",
+    "langName": "Japanisches Onsen Ryokan Porträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151016794.webp"
+  },
+  {
+    "displayName": "35mm color film photography with harsh direct on-camera flash,specular highlights on skin and clothing,strong catchlights in eyes,high contrast flash illumination,authentic film grain and color shift,high fashion fresh innocent basketball court editorial style,intimate first-person low-angle POV shot from below,early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features,seductive almond-shaped fox eyes with natural double eyelids,high nose bridge,small sharp V-shaped jawline,flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights,fine delicate skin texture with subtle pores micro details and natural dewy glow under flash,fresh natural sporty makeup with soft dewy glow,subtle natural flush on cheeks,natural pink lips slightly parted,subtle natural freckles across nose and cheeks,long dark brown hair tied in a high playful ponytail with some loose strands framing the face and realistic loose strands,wearing a loose white tank top and white high-waisted basketball shorts,white knee-high sports socks,seductive natural leaning pose against the basketball hoop pole on the outdoor court at dusk,body angled sideways with naturally arched back and hips gently pushed back to accentuate perky round hips and sexy butt curve,one leg naturally extended forward toward the camera and the other leg slightly bent to emphasize long sexy legs,both hands lightly resting on the basketball pole at shoulder height,intensely seductive playful yet pitiable doe-eyed gaze straight at the viewer with soft vulnerable longing eyes and a gentle teasing smile full of quiet temptation and desire,harsh direct on-camera flash creating sharp specular highlights and strong catchlights,background with blurred basketball court and hoop under dusk sky,high contrast film color grading with natural flash look,extremely sharp yet soft skin rendering with authentic 35mm direct flash aesthetic,natural hair strands,realistic fabric texture on tank top and shorts with socks detail,no plastic skin,no digital over-sharpening,no airbrushing,no blemishes,no moles,no oily skin,no watermark,no text,authentic 35mm direct flash film basketball court look --ar 9:16",
+    "langName": "35mm Blitz-Editorial-Porträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151025021.webp"
+  },
+  {
+    "displayName": "A stunning 18-year-old Chinese girl with a youthful,pure face and realistic skin texture,sitting on a cozy,slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone,capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft natural light (golden hour) streams in from a side window,creating a warm,moody,and cinematic atmosphere. 35mm lens,sharp focus on the subject in the mirror,depth of field with a beautifully blurred background (bokeh). Photorealistic,8K,high resolution,studio quality,masterpiece.\nNegative Prompts: no extra limbs,no deformed hands,no blur,no noise,no watermark,no text,no cartoon/anime style. Aspect Ratio: 3:4.",
+    "langName": "Spiegel-Selfie Schlafzimmer-Porträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @Shinning1010 (https://x.com/Shinning1010)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151030810.webp"
+  },
+  {
+    "displayName": "Analog 35mm film photography,soft airy Japanese-style aesthetic,gentle diffused natural window light,slight overexposure,pastel tones,low contrast,soft highlights,minimal indoor setting near a window with white curtains,clean light-colored wall,natural composition,eye-level,slightly closer full-body framing (mid-thigh to head),young East Asian woman,natural minimal makeup,soft realistic skin texture,long slightly messy dark hair,oversized white button-up shirt,light casual shorts,barefoot,simple and relaxed styling,standing naturally with relaxed posture,arms loosely at sides or slightly behind,facing camera,gentle soft smile,subtle stillness,focus on light,air,and quiet everyday mood,soft film grain,dreamy and understated atmosphere --ar 9:16",
+    "langName": "Weich Luftig 35mm Porträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151035610.webp"
+  },
+  {
+    "displayName": "Luxury Glam Beauty Portrait:,Beautiful Black woman,youthful spirit,creamy vanilla,silk press,mahogany red,subtle confidence,textured fabric,sapphire blue,minimal jewelry,beachside breeze,lens flare effect,nostalgic,cinematic lens,symmetrical composition,soft focus,high fashion photography,monochromatic,dewy finish,mysterious tension,layered elements",
+    "langName": "Luxus-Glam-Beauty-Porträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @patrickassale (https://x.com/patrickassale)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151040286.webp"
+  },
+  {
+    "displayName": "生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演（角色名称）的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。",
+    "langName": "9:16 Cosplayer-Porträt-Screenshot",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @Zoulinshen (https://x.com/Zoulinshen)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151045226.webp"
+  },
+  {
+    "displayName": "该画面为中近景，采用平视镜头，聚焦于一位年轻女性。她以七分身镜头呈现，身体坐姿略带倾斜，臀部向后撅起，双腿自然交叠，左腿在前，右腿在后，膝盖微屈。她将上半身向右后方扭转，头部则转向镜头方向，形成一个经典的“回眸”姿态，目光直视镜头，眼神清澈而略带一丝俏皮。她的发型是蓬松的棕色齐肩短发，刘海自然垂落，发尾微卷，妆容清淡自然，仅在眼部有轻微眼线勾勒，唇色为自然裸粉。画面整体采用自然日光滤镜，光线从画面左上方斜射入，形成柔和的逆光轮廓，面部和身体右侧被温暖的金色光线照亮，左侧则形成自然的阴影过渡，增强了立体感。灯光效果是明亮的自然光，带有轻微的镜头眩光，营造出午后阳光的氛围。拍摄角度为平视，构图上，人物主体位于画面中偏右位置，背景中的斑马线与道路线条形成自然的引导线，将视线引向人物。背景为城市街道，包含道路、斑马线、绿化带和远处的车辆，背景被适度虚化，但依然可辨识出树木、护栏和停放的电动车等元素，构图上利用了三分法，人物位于右侧三分之一处，增强了画面的平衡感。主体穿着一件军绿色迷彩图案的连帽卫衣，下身搭配黑色短裤，脚穿白色高帮运动鞋配白色中筒袜。背包为黑色，带有橙黄色装饰条纹和一个橙色毛绒挂件，材质为帆布和皮革拼接。整体风格为街头休闲风，肢体语言放松自然，表情略带好奇与俏皮，整体呈现出一种随性、青春、充满活力的都市少女形象。",
+    "langName": "Städtisches Zurückblicken Straßenporträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @Tz_2022 (https://x.com/Tz_2022)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151050318.webp"
+  },
+  {
+    "displayName": "\"Sam Altman on a skateboard at a skatepark with no people.\"",
+    "langName": "Sam Altman Skatepark-Schnappschuss",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @Malek1173989 (https://x.com/Malek1173989)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151054936.webp"
+  },
+  {
+    "displayName": "9:16 vertical,Korean idol portrait photoshoot,3x3 grid (nine frames),same person in all images,consistent facial features and styling,soft black mist filter effect,lowered contrast,blooming highlights,subtle glow around light sources",
+    "langName": "Koreanisches Idol 3x3 Raster-Porträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151101512.webp"
+  },
+  {
+    "displayName": "mobile phone photo,old CCD camera aesthetic,harsh flash,grainy,dim messy indoor lighting,candid snapshot feeling,slight motion blur,young Korean female idol,soft innocent look",
+    "langName": "CCD-Kamera Blitz K-Pop-Idol",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151110599.webp"
+  },
+  {
+    "displayName": "9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol,maintaining 100% consistency in facial features,proportions,hairstyle,and identity across all nine shots.   Natural,ultra-realistic skin texture,no retouching,no smoothing. Clean idol-style minimal makeup,soft glow,subtle imperfections.   Hair: long,voluminous dark hair,slightly tousled,consistent across all frames (natural loose flow,slight movement).  Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit),youthful,clean,slightly casual but styled. Same outfit across all frames.  Setting: minimal studio or simple indoor environment (plain wall,soft window light,clean background). Focus on subject,not environment.  Lighting: soft diffused natural light,gentle highlights,low contrast,slightly airy tones,subtle film-like softness.  Camera style: intimate portrait photography,slightly handheld feel,subtle imperfections (minor grain,slight blur in motion frames,imperfect framing).  Frame breakdown (3x3 grid):  Top row: - Top left: standing naturally,looking slightly away,relaxed expression - Top center: facing camera,casual mid-motion (hair or body slight movement) - Top right: slight side angle,soft gaze,natural candid feel  Middle row: - Center left: looking slightly upward,soft thoughtful expression - Center: close-up portrait,direct eye contact,gentle idol smile - Center right: turning body slightly,mid-motion candid frame  Bottom row: - Bottom left: seated or leaning casually,relaxed posture - Bottom center: back partially turned,looking over shoulder toward camera - Bottom right: standing close to frame,slightly playful or soft expression  Mood: Korean idol photobook / photocard aesthetic,intimate,soft,natural,everyday charm.  Quality: ultra-realistic,8K detail,subtle analog film grain,natural imperfections,soft dreamy tone",
+    "langName": "Koreanisches Idol 3x3 Collage-Porträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151115219.webp"
+  },
+  {
+    "displayName": "9:16 vertical — editorial portrait,single subject  soft black mist filter,subtle haze,gentle highlight bloom,muted tones  minimal indoor space,clean background,slight texture  young Korean woman,minimal makeup,natural skin texture  outfit: fitted ribbed knit top or soft camisole layered under a loose shirt,paired with high-waisted shorts or skirt; fabric slightly clings to body shape,soft and natural,no revealing elements  hair: slightly messy,natural volume  pose: sitting on floor with one leg bent and the other relaxed,body slightly leaning,shoulders not aligned,head tilted  composition: subject slightly off-center,negative space present  expression: calm,slightly distant,natural lips  lighting: soft side light,gentle shadow falloff  mood: understated,quiet,subtly sensual through natural body lines,relaxed and unposed  quality: fine grain,slight softness,realistic look",
+    "langName": "Weiches Schwarzer-Nebel-Editorial-Porträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151119962.webp"
+  },
+  {
+    "displayName": "9:16 vertical — Japanese Fuji film style portrait,single subject  Fujifilm analog aesthetic (Pro 400H / Superia feel),soft pastel tones,slight green-magenta shift,low contrast,gentle highlight roll-off,fine film grain,subtle halation,slight vignette  bright natural daylight,diffused sunlight through window,soft shadows,airy atmosphere  young Japanese female idol,natural minimal makeup,fresh glowing skin,realistic texture,slight imperfections  outfit: Japanese school uniform (sailor-style or blazer uniform),neatly styled,non-revealing,youthful and clean  hair: natural dark hair,straight or softly flowing,a few loose strands  pose: front-facing or slight angle toward camera,relaxed posture; one hand gently holding a strawberry near lips,mid-action as if about to take a bite; shoulders relaxed,subtle natural body curve  expression: soft playful gaze,light smile or neutral lips,gentle eye contact with camera  setting: minimal indoor near window or simple outdoor corner,clean background,everyday atmosphere  composition: slightly off-center framing,intimate distance,candid feel  mood: fresh,youthful,sweet everyday moment,understated charm  quality: ultra-realistic,analog film look,natural imperfections,soft dreamy finish",
+    "langName": "Fujifilm Erdbeere Schulporträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151124096.webp"
+  },
+  {
+    "displayName": "9:16 vertical — Korean idol portrait photography,single subject  soft black mist filter effect,lowered contrast,gentle highlight bloom,subtle glow,soft diffusion,slightly faded blacks  minimal indoor setting near window,white curtains,clean light-toned background  young Korean female idol,natural minimal makeup,dewy realistic skin texture,subtle imperfections  outfit: oversized white button-up shirt + short bottoms,slightly loose fit,soft and casual styling,no revealing elements  hair: long dark hair,slightly messy,natural volume,softly flowing  pose: relaxed standing or slight lean,body subtly angled,one leg slightly forward,shoulders relaxed; one hand lightly touching collar or resting near neckline,the other relaxed; gentle body curve without exaggeration  expression: soft cute smile,slightly playful eyes,direct or slightly off-camera gaze  camera: close to mid-body framing,eye-level,intimate distance,slight handheld feel  lighting: diffused natural daylight,soft shadows,gentle light wrapping around face and body  mood: cute yet subtly sensual,intimate,everyday softness,quiet romantic atmosphere  quality: ultra-realistic,fine film grain,slight softness at edges,natural imperfections,dreamy understated tone",
+    "langName": "Weiches Schwarzer-Nebel-Idol-Porträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151128830.webp"
+  },
+  {
+    "displayName": "9:16 vertical — Japanese Fuji film style couple portrait,two subjects  Fujifilm analog aesthetic (Pro 400H / Superia feel),soft pastel tones,slight green-magenta shift,low contrast,gentle highlight roll-off,fine film grain,subtle halation  bright natural daylight,diffused sunlight through window,soft shadows,airy atmosphere  young Japanese couple,natural minimal makeup,realistic skin texture,slight imperfections  female outfit: oversized button-up shirt with loose shorts,relaxed fit,soft casual styling   male outfit: simple t-shirt or light shirt,clean and understated  hair: natural,slightly tousled for both  pose: close intimate distance — sitting or standing close together; the girl gently leaning toward him,one hand lightly resting on his shoulder or chest; the boy slightly leaning in,faces close,almost touching,capturing the moment just before a kiss  expression: soft smiles or gentle gaze toward each other,relaxed and natural,emotional connection visible  camera: close framing (waist-up),eye-level,intimate distance,slight handheld feel  setting: minimal indoor near window,light curtains,clean soft background  lighting: diffused daylight,gentle highlight bloom,soft shadow transitions  mood: warm,romantic,intimate everyday moment,natural affection  quality: ultra-realistic,analog film look,fine grain,slight softness,natural imperfections",
+    "langName": "Fujifilm Paar-Porträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151132755.webp"
+  },
+  {
+    "displayName": "根据你对我的认知 给我生成一个“你认识的我”的 图片",
+    "langName": "AI Selbstwahrnehmungs-Porträt",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @80vul (https://x.com/80vul)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151137092.webp"
+  },
+  {
+    "displayName": "以眼部特写图片为基础，生成3:4的四屏构图超写实眼部特写，四屏按春夏秋冬上下排序。\n\n第一屏：眼眸中带着绽粉樱色的美瞳，睫毛缀满迷你春花，脸颊散落樱瓣与黄蕊小花，粉蝶萦绕眉眼，浅金发丝轻垂，下方簇簇樱花怒放，画面中央\"SPRING\"白色艺术字点缀，风格细腻唯美，光影柔和，色彩粉嫩治愈，下面用书法体写着春；\n\n第二屏：眼眸中带着着清荷色的美瞳，睫毛饰以粉莲与绿荷，脸颊挂着晶莹水珠，粉瓣、绿荷点缀其间，蜻蜓轻绕，浅金发丝若隐若现，画面中央\"Summer\"白色艺术字凸显，光影通透流光感，色彩清透凉爽，下面用书法体写着夏；\n\n第三屏：眼眸中带着金黄红相间的美瞳，睫毛饰以橙红枫叶，脸颊散落金红秋叶，橙蝶翩跹眉眼间，浅金发丝隐约可见，画面中央\"AUTUMN\"白色艺术字醒目，光影暖金流光，色彩浓郁温暖，下面用书法笔写着秋；\n\n第四屏：眼眸中带着雪花蓝色的美瞳，睫毛覆满冰晶雪片，脸颊散落白色雪花与红色腊梅，银白蝴蝶翩跹眉眼，浅金发丝朦胧似雪，画面中央\"WINTER\"白色艺术字亮眼，光影冷冽蓝白流光，色彩清透纯净，下面用书法体写着冬。\n\n整体呈现梦幻眼眸四季交替的唯美梦幻治愈画面，微调各屏的光影强度，让画面氛围感更浓郁。",
+    "langName": "GPT-Image-2 Detail-Showcase",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @liyue_ai (https://x.com/liyue_ai)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151805669.webp"
+  },
+  {
+    "displayName": "generate image: Selfie of Sam Altman riding a bear\n\nEdit prompt: Remove the background make it transparent",
+    "langName": "Sam Altman Bären-Selfie",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @JustinGorya (https://x.com/JustinGorya)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151848980.webp"
+  },
+  {
+    "displayName": "サムアルトマンがメジャーリーガーでバットを構えている。よくあるようなテレビ画面の構図",
+    "langName": "Sam Altman Baseball-Übertragung",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "description": "by @16kthir0GRXgNqn (https://x.com/16kthir0GRXgNqn)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151907156.webp"
+  },
+  {
+    "displayName": "delicate white hair accessory,tailored long white blazer,fitted white crop top,sheer white stockings,white pointed high heels,stockings tightly wrapped,slender elegant legs,smooth curves from thigh to ankle,fashion,sensual,premium style,minimalism,clean background,soft lighting",
+    "langName": "Reinweiße sexy professionelle Kleidung",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "preview": "https://img.aishort.top/imgprompt/20260207163033725.webp"
+  },
+  {
+    "displayName": "black hair,earrings,flash photography,jewelry,looking at viewer and facing viewer,solo,(upper body),smirk,long hair,ponytail,short sleeves,black dress,black eyes,makeup,lipstick,(cleavage visible,large breasts),face close-up,bend over,pale skin,downblouse,Arms supporting the bed,wearing necklace,(Bedroom background,bed and curtains behind her,Wardrobe,desk lamp),<lora:flash photography photoV3:0.5>,detailed hands and detailed 5 fingers and detailed 5 finger nails",
+    "langName": "Flash Schwarzes Kleid Boudoir",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "preview": "https://img.aishort.top/imgprompt/20260207163033728.webp"
+  },
+  {
+    "displayName": "beautiful Korean idol in an intimate pose on a bed,with soft lighting and a moody atmosphere",
+    "langName": "Faules Bettfoto",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "preview": "https://img.aishort.top/imgprompt/20260228062600303.webp"
+  },
+  {
+    "displayName": "beautiful Korean idol in an intimate pose with a man in a blurred indoor setting,soft lighting,moody atmosphere",
+    "langName": "beautiful Korean idol in an intimate pose with a man in a blurred indoor setting,soft lighting,moody atmosphere",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "preview": "https://img.aishort.top/imgprompt/20260228063106088.webp"
+  },
+  {
+    "displayName": "beautiful asian female,22 years old,short black hair with small braid,cream-colored mini ribbon on the right,not dressed yet,holding an un-worn unfolded school swimsuit,bare shoulders,exposed collarbone,in dormitory setting,bashful but making eye contact with camera,natural smartphone photography style,slightly messy composition,unpolished feel,natural lighting,candid moment,spontaneous expressions and actions,realistic,documentary style",
+    "langName": "Wohnheim Verkleidungsmoment",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "preview": "https://img.aishort.top/imgprompt/20260207163033731.webp"
+  },
+  {
+    "displayName": "beautiful asian female,22 years old,short black hair with small braid,cream-colored mini ribbon on the right,holding an un-worn unfolded school swimsuit,wrapped in towel,bare shoulders,exposed collarbone,in dormitory setting,bashful but making eye contact with camera,natural smartphone photography style,slightly messy composition,unpolished feel,natural lighting,candid moment,spontaneous expressions and actions,realistic,documentary style",
+    "langName": "Wohnheim Verkleidungsmoment (Handtuchversion)",
+    "object": "Schaufenster",
+    "attribute": "Porträt",
+    "preview": "https://img.aishort.top/imgprompt/20260207163033733.webp"
+  },
+  {
+    "displayName": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space,a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve,gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline,Beacon Hill brownstones,Acorn Street,Boston Public Garden,Swan Boats,Zakim Bridge,Fenway-inspired details,historic brick architecture,harbor ferries,and the city’s waterfront atmosphere. Soft morning fog,golden spring light,subtle festive accents in crimson and gold,rich detail,layered depth,sophisticated city-poster aesthetics,fresh and refined,visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON,A CITY OF RIVER,MEMORY,AND INVENTION”,text clear and beautifully composed,premium graphic design,9:16",
+    "langName": "Boston Frühling 2026 Stadtposter",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151141991.webp"
+  },
+  {
+    "displayName": "Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast,Italy,panoramic coastal cliff road scene,classic 1960s white car driving along a curved seaside road,deep blue Mediterranean sea with small sailboats,colorful pastel hillside village,bright blue sky with soft clouds,lemon tree branches with vibrant yellow lemons framing the foreground,warm summer sunlight,bold vibrant colors,retro 1950s travel poster style,cinematic composition,high detail,screen print texture,graphic illustration. Hand-drawn style,illustration with loose strokes and defined contours. High-contrast color palette,maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.",
+    "langName": "Vintage Amalfi Reiseposter",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @WolfRiccardo (https://x.com/WolfRiccardo)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151146341.webp"
+  },
+  {
+    "displayName": "一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语\"凌晨两点还在排队的那家\"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题\"成都·吃货暴走地图\"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。",
+    "langName": "Chengdu Food-Map Illustration",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @Panda20230902 (https://x.com/Panda20230902)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151152094.webp"
+  },
+  {
+    "displayName": "极简新中式美学风格，画面以淡雅的灰白色为底，呈现出一种纸艺剪影般的立体感。\n一条S形蜿蜒的裂痕状边缘将画面分割，仿佛撕开了一层纸面，露出内部色彩斑斓的东方山水景象。\n裂口内，一条蜿蜒的河流自上而下贯穿整个构图，河水以深浅不一的蓝色渲染，层次分明，仿佛流动的丝带。\n河岸两侧点缀着青翠的山丘与梯田，色彩柔和，绿红交织，展现出田园的宁静之美。\n沿河而建的古风建筑错落有致，飞檐翘角，白墙黛瓦，在光影的映衬下更显古朴典雅。\n岸边树木葱茏，枝叶轻盈，一艘小船静泊于水中央，增添了几分悠然意境。\n整体构图呈S形曲线，富有韵律感，仿佛自然与人文的和谐共生。\n画作边缘采用撕纸效果，营造出立体浮雕般的视觉体验。\n下方题字“东方美学”以黑色楷体书写，日期“2026/04/18”与红色印章相呼应，底部“CHINA”字样庄重醒目，署名“@LIYUE”低调收尾，整体氛围静谧深远，充满诗意与哲思。",
+    "langName": "Chinesisches Minimalist S-förmiges Poster",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @liyue_ai (https://x.com/liyue_ai)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151157243.webp"
+  },
+  {
+    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光，构图延续了S型的流动感；\n在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。\n广州的地标建筑(广州塔，珠江新城建筑群，珠江,广州城里古建筑，游轮，白云山）。\n云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。\n文字排版优美，大方，字迹清晰完整，尺寸9:16。",
+    "langName": "2026 Frühling Guangzhou Stadtposter",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @liyue_ai (https://x.com/liyue_ai)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151201310.webp"
+  },
+  {
+    "displayName": "以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。  背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。  画面内容不需要预先写清楚，由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“BlanPlan”，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。",
+    "langName": "Doodle-Skizze AI Builder",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @blanplan (https://x.com/blanplan)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151205919.webp"
+  },
+  {
+    "displayName": "曼荼羅の近未来SF版を描いて",
+    "langName": "Futuristische Mandala-Illustration",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @4WEB1 (https://x.com/4WEB1)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151210622.webp"
+  },
+  {
+    "displayName": "小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて",
+    "langName": "Super Famicom Posterstil",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @lilimliliychan (https://x.com/lilimliliychan)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151215253.webp"
+  },
+  {
+    "displayName": "以下の文字を必ず入れて、1:1のポスターを作成してください。書籍・講座・イベント告知に使える、プロの広告デザイナーが作ったような高品質な仕上がりにしてください。\n\n広告クリエイティブ制作\n思いついたら、もう遊べる。 AI×ブラウザゲームづくりは、マジで楽しい。 むずかしそうで、実ははじめやすい。 コードがわからなくても、はじめの一本は作れる",
+    "langName": "Browserspiel-Werbeposter",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @llllegend0620 (https://x.com/llllegend0620)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151220713.webp"
+  },
+  {
+    "displayName": "一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。画面中央还站着一个小人，背对观众，神情平静地仰望空中这条巨大的锦鲤，锦鲤头向下看着小人。整体画面呈现出强烈的大小对比，氛围空灵又梦幻。比例9:16",
+    "langName": "Surreale Koi-Nebel-Illustration",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @liyue_ai (https://x.com/liyue_ai)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151225419.webp"
+  },
+  {
+    "displayName": "纯黑深邃底色，一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端，构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟，内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列，前景有白鹤与湖面，远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀，东方美学与现代意象交融，8K 超高清渲染，比例 9:16。",
+    "langName": "Tinten-Kurven Guangzhou Ästhetik-Poster",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @liyue_ai (https://x.com/liyue_ai)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151231463.webp"
+  },
+  {
+    "displayName": "广东省城市足球超级联赛（粤超）邀请函海报设计，比例 9:16。S 型流动构图，以发光足球和动态能量流贯穿画面，沿动线融合广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑、佛山武术剪影、中山文化符号、潮汕英歌舞与清远山水。现代国潮高级海报风格，中国红主视觉，青蓝辅助，金色高光，带完整中文排版与电影级光影。",
+    "langName": "Guangdong Super League Einladungsposter",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @liyue_ai (https://x.com/liyue_ai)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151236368.webp"
+  },
+  {
+    "displayName": "一张充满新春喜庆但高雅的 2026 广州城市宣传海报，9:16 竖版，双重曝光，S 型流动构图。纯白纹理背景，右下角微缩传统服饰人物挥舞长红绸，红绸变形成山脉河流，内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。",
+    "langName": "Frühling 2026 Guangzhou Promo-Poster",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @grok (https://x.com/grok)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151241374.webp"
+  },
+  {
+    "displayName": "收藏版史诗海报，人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报加梦幻水彩插画风，安静、宏大、神圣、怀旧，带纸张颗粒、轻雾感、飞白刷痕与高级留白。",
+    "langName": "Episches Silhouetten-Weltposter",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @Ghhhh3owi (https://x.com/Ghhhh3owi)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151246392.webp"
+  },
+  {
+    "displayName": "极简主义，新中式风格立体图形设计，图像下端有楷体中国文字：“东方美学”，“2026/04/18”，署名 “CHINA”，和“@LIYUE\"；\n平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画，不规则的撕纸效果；\n中国的神兽：穷奇，身形图案完整，美轮美奂，，线条柔美灵动,眼睛炯炯有神，威严的神态，优雅的姿势，奢华装饰艺术，中国传统纹饰；\n荧光蓝色线条，0.5mm极细金色金属质感勾边，泼白墨大笔触，色彩渲染，红底，蓝色的浪漫诗意视觉；\n冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。",
+    "langName": "Qiongqi Östliche Ästhetik Poster",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @liyue_ai (https://x.com/liyue_ai)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151256575.webp"
+  },
+  {
+    "displayName": "以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。\n所有建筑与元素均以流畅的线条与结构相连，无孤立部分，构成一幅完整的都市画卷。\n画面采用金属箔或光泽纸材质，表面带有细腻的明暗光泽，在光照下呈现柔和的高光与阴影，仿佛被城市灯光轻轻照亮。\n背景以虚化的珠江新城天际线为衬，点缀隐约可见的花城广场与树木轮廓，整体透出现代浪漫的氛围。\n作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点，象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉，细节丰富，真实而富有艺术感染力。",
+    "langName": "Guangzhou Papierschnitt-Stadtposter",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @liyue_ai (https://x.com/liyue_ai)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151302359.webp"
+  },
+  {
+    "displayName": "①场景 跨海大桥的侧面，dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 跨海大桥」painted onto the surface of ___③主体物 无，从靠近镜头的前端开始，沿表面向远端 progressively foreshortens 逐渐透视压缩，letterforms conform to surface curvature 贴合物体曲面，surface-integrated not floating。 文字部分区域被 无___④前景遮挡物 无___ occluded and hidden，在间隙中露出， 形成 depth-layering 纵深穿插效果。 Oversized bright yellow + sharp orange outline，extreme perspective distortion aligned to vanishing point。Cinematic lighting,motion blur,poster-grade dynamic integrated typography,modern advertising aesthetics。",
+    "langName": "Extremperspektive Typografie-Brücke",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @xpg0970 (https://x.com/xpg0970)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151307656.webp"
+  },
+  {
+    "displayName": "Ilustración en acuarela de estilo onírico de [sujeto],con estética impresionista ligera,pinceladas sueltas y lavados translúcidos en tonos [color1] y [color2]. Difuminado suave sobre textura de papel prensado en frío,iluminación delicada,composición limpia,enfoque minimalista,sensación de calma,ligereza y belleza efímera,alta calidad,estilo editorial.",
+    "langName": "Verträumte Aquarell-Editorial-Illustration",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @hmontilla_ (https://x.com/hmontilla_)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151312290.webp"
+  },
+  {
+    "displayName": "Generate a high-quality vertical science popularization encyclopedia image based on [Theme].",
+    "langName": "Wissenschaftsenzyklopädie Hochformat-Poster",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @pfanis (https://x.com/pfanis)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151316881.webp"
+  },
+  {
+    "displayName": "以中国连环画（小人书）的风格帮我绘制大闹天空",
+    "langName": "Reise nach Westen Chinesischer Comic",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @overseas58 (https://x.com/overseas58)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151322147.webp"
+  },
+  {
+    "displayName": "请根据【主题】生成一张高设计感的人物关系图海报。",
+    "langName": "Charakter-Beziehungskarte Poster",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @MrLarus (https://x.com/MrLarus)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151327523.webp"
+  },
+  {
+    "displayName": "新中式水墨山水海报，竖版9:16构图，东方极简美学风格，大面积留白，主题是春岚一叶红。",
+    "langName": "Neue Chinesische Tusche-Landschaft Poster",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @liyue_ai (https://x.com/liyue_ai)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151332210.webp"
+  },
+  {
+    "displayName": "以涂鸦速写风表现【一个厉害的AI builder】。",
+    "langName": "AI Builder Doodle-Skizze",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @opc_8838 (https://x.com/opc_8838)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151337537.webp"
+  },
+  {
+    "displayName": "『神層37区 特級執行官 神巫サバト』この名称のキャラクターと世界観に合ったビジュアルイメージを、プロのデザイナーとして縦長のポスターイメージとして制作して",
+    "langName": "Charakter-Visual Hochformat-Poster",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @tebasaki3D (https://x.com/tebasaki3D)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151342596.webp"
+  },
+  {
+    "displayName": "请根据【主题】生成一张高质量竖版「科普百科图」。 \n\n这张图不是普通海报,也不是单纯插画,而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。\n\n请让画面包含:\n- 一个清晰漂亮的主题主视觉\n- 若干局部特征放大细节\n- 多个圆角模块化信息分区\n- 清楚的标题层级与重点标签\n- 简洁但丰富的百科内容\n- 可视化评分、要点总结或Top 5模块\n\n内容栏目请根据主题自动适配,优先从这些方向中选择并合理组合:\n基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。\n\n视觉要求:\n浅色干净背景,柔和配色,轻阴影,精致小图标,圆角信息框,整洁排版,信息密度高但不拥挤,阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡,而不是广告图。\n\n请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。",
+    "langName": "Wissenschaftsenzyklopädie Infografik",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @MrLarus (https://x.com/MrLarus)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151348468.webp"
+  },
+  {
+    "displayName": "架空のアニメ映画のポスターをGPT image2で作成。",
+    "langName": "Fiktives Anime-Filmplakat",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @seiiiiiiiiiiru (https://x.com/seiiiiiiiiiiru)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151353866.webp"
+  },
+  {
+    "displayName": "この商品広告をプロのデザイナー目線でリデザインして。\n今のトレンド、ターゲットに合わせた洗練されたデザインで。",
+    "langName": "Produkt-Werbung Neugestaltung",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @genel_ai (https://x.com/genel_ai)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151359744.webp"
+  },
+  {
+    "displayName": "平面插画,东方幻想风格高端城市海报设计,竖版9:16构图,整体采用对角线+S型流动构图,从左下向右上延展,画面以深邃黑色为背景,自上而下渐变至浓烈暗红色,形成强烈冷暖对比与空间纵深,背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿,自底部向上延伸,具有流体质感、粒子光效与渐变高光,局部带细微能量碎屑与体积光。\n\n金色流光中逐层浮现广州城市地标建筑群:广州塔为视觉核心,比例突出,周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素,建筑采用“精细线描 + 金色发光体块”表现,轮廓清晰、细节丰富,在金色光晕映衬下仿佛悬浮于虚空,形成超现实空间层次,远景轻微雾化增强纵深感。\n\n画面底部为一位东方白发女性形象,长发飘逸,如烟似雾,与金色流光自然衔接并逐渐融合,发丝半透明带渐变光感,姿态柔美,双目微闭,神情宁静,怀抱一束多彩鲜花,花间点缀微光粒子与星点效果,象征人与城市能量的精神连接,人物细节适度简化以突出整体设计感。\n\n光影集中于金色流线、建筑与人物轮廓,形成强烈明暗对比与视觉聚焦,整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底,高亮鎏金为主视觉强调,金色具备丰富明暗层次,辅以小面积高饱和花束色彩点缀,整体高级克制。\n\n页面文字与画面融合排版:顶部居中宋体大字“广州·中国”,下方小字“2026/04/20”,再下方小字“LIYUE”,文字采用淡金色或柔和暖白色,与整体光影统一。高品质细节,电影级光影表现,体积光与粒子细节丰富,画面干净无噪点,超高清8K分辨率,商业级海报质感。",
+    "langName": "Dark-Fantasy Guangzhou Stadtposter",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @liyue_ai (https://x.com/liyue_ai)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151404912.webp"
+  },
+  {
+    "displayName": "Create a Science fiction movie poster",
+    "langName": "Science-Fiction-Filmplakat",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @underwoodxie96 (https://x.com/underwoodxie96)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151409587.webp"
+  },
+  {
+    "displayName": "少し暑くなってきた今の時期に、さわやかにさっぱりしたい、みずみずしさ、みたいなところをもっと強く感じたい。冷たいうどんやナス、つゆを口に含んだ時の爽快感、みたいなものをもっと感じるように",
+    "langName": "Erfrischende Sommer-Udon-Werbung",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @genel_ai (https://x.com/genel_ai)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151414255.webp"
+  },
+  {
+    "displayName": "生成一张手写中/西医药方图",
+    "langName": "Handgeschriebenes Rezeptblatt",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @MrLarus (https://x.com/MrLarus)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151419241.webp"
+  },
+  {
+    "displayName": "A refined 2026 Silicon Valley city promotional poster with a futuristic yet elegant atmosphere.\n\nDouble exposure composition,preserving an S-shaped sense of flowing movement. On a pure white textured background,in the lower-right corner,a miniature figure dressed in sleek modern techwear is releasing a long ribbon of luminous silver-blue light. The ribbon flows gracefully through the air,showing a soft silk-like texture,and as it drifts toward the upper-left,it magically transforms into a grand landscape of rolling hills,coastline,data streams,and illuminated urban terrain.\n\nWithin this flowing “river of light,” overlay a hand-drawn panoramic map of Silicon Valley,blending technology,nature,innovation,and California sunlight. The scene feels visionary,expansive,sophisticated,and inspiring.\n\nInclude iconic Silicon Valley and Bay Area elements: Stanford University arches,Apple Park,Google campus-inspired buildings,Meta-like glass offices,Tesla-style innovation imagery,venture capital offices on Sand Hill Road,Palo Alto tree-lined streets,San Jose skyline,the Santa Cruz Mountains,San Francisco Bay,highways,autonomous vehicles,startup labs,semiconductor patterns,AI data centers,and subtle circuit-board textures.\n\nSurrounded by soft mist,golden California light,floating clouds,and delicate digital particles. Rich colors,complex structure,highly detailed,grand and breathtaking,yet still fresh and minimal because of the large areas of white space.\n\nIn the lower-left corner,elegant typography reads “SILICON VALLEY 2026” with a vertical promotional slogan: “Where Ideas Shape Tomorrow.” Beautiful editorial layout,graceful spacing,clear and complete lettering,premium city branding poster,cinematic lighting,sophisticated details,9:16 aspect ratio.",
+    "langName": "Silicon Valley 2026 Promo-Poster",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @carsonyungos (https://x.com/carsonyungos)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151424160.webp"
+  },
+  {
+    "displayName": "『賑やかで魅力的なスーパーマーケットの折り込みチラシの画像。上部には「特売」の大きな文字と今週の日付。カラフルな商品写真(野菜・果物・牛肉・鮮魚)、赤枠の価格タグ、「超目玉商品」「家計応援」のキャッチ...』",
+    "langName": "Japanisches Supermarkt-Verkaufsflyer",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @weel_corp (https://x.com/weel_corp)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151429015.webp"
+  },
+  {
+    "displayName": "围绕【主题】自动生成一张顶级暗黑史诗概念海报 / 电影感信息图海报。\n\n唯一需要输入的变量只有:\n【主题】:___特朗普的思考____ \n\n除【主题】之外,其余全部由 AI 自动适配完成,包括但不限于:\n- 核心主体(自动判断更适合人物、守护者、战士、产品、器物、雕像、抽象象征或其他主视觉对象)\n- 中央承载结构(自动判断更适合王座、石座、祭坛、机械基座、遗迹、高台或其他支撑体)\n- 环境空间(自动判断更适合洞穴、神殿、废墟、深渊、地下宫殿、密室或其他封闭史诗空间)\n- 上方开口与光源形式(自动判断更适合月光、神光、能量束、审判之光、圣光或其他单一强光)\n- 象征元素(自动判断更适合骷髅、徽记、残碑、纹章、符文、能量环、神性符号等)\n- 色彩体系\n- 材质组合\n- 标题、副标题、辅助文案\n- 排版与整体叙事气质\n\n【总风格】\n高预算 90 年代好莱坞史诗大片海报气质,融合 cinematic matte painting、超写实摄影质感、极强明暗对比、厚重空间叙事、暗黑英雄主义与仪式感构图。整体必须像一张真正的电影主海报,而不是普通插画或电商图。\n\n【核心结构锁定】\n整张海报必须保留以下结构基因:\n1. 一个巨大、压迫感极强的黑暗封闭空间\n2. 一束从上方斜向切入的强烈体积光,作为画面的第一视觉秩序\n3. 中央偏右或光束终点位置的核心主体与承载结构\n4. 左下角作为高密度标题与信息锚点\n5. 四周保留大量纯黑或近黑负空间,形成电影感呼吸区\n\n【自动适配规则】\nAI 必须依据【主题】自动推导最适合的视觉系统:\n- 如果【主题】偏暗黑英雄、复仇、正义、孤独、宿命,则自动偏向石质王座、孤高人物、冷色神光、废墟或洞穴感空间\n- 如果【主题】偏神秘、幽灵、潜行、幻影、夜行,则自动偏向月光、迷雾、冷蓝色体积光、深渊式黑暗空间\n- 如果【主题】偏权力、统治、王者、秩序,则自动强化 throne / altar / crown-like symbol / ritual space 的表达\n- 如果【主题】偏科技、AI、未来、机械,则自动将王座和空间替换为机械神座、能量基座、金属洞窟、工业神殿等未来化形态\n- 如果【主题】偏产品、品牌、器物,则自动把核心主体替换为最合适的 hero object,并保留被神光审判式凸显的史诗构图\n\n【画布与色彩系统】\n- 背景底层必须是极深、近乎吞噬一切的黑暗空间\n- 主环境色由 AI 根据【主题】自动决定,但整体必须克制,以暗色为主\n- 强光区域色彩必须高度集中,只服务于体积光与主体高光\n- 主题色 / 强调色只能集中用于主视觉核心,不允许全画面泛滥\n- 必须建立明确的“黑暗底色 + 单一主光 + 少量主题强调色”的层级秩序\n\n【构图与视觉重力】\n- 采用强烈的斜向张力与向中心汇聚的视觉引导\n- 视觉重力从上方光源强势落下,最终压在核心主体之上\n- 主体必须处于被命运、审判、神性或权力照中的位置\n- 边缘必须自然融入黑暗,不能出现无意义背景填充\n- 所有元素必须服务于唯一的主叙事核心\n\n【材质与光影】\n- 不使用轮廓线,不使用平面化描边\n- 完全依赖体积光、阴影切割、反射、高光、雾气、粉尘、湿润岩石或其他真实材质来建构画面\n- 材质必须形成明显对比,例如:\n  粗粝岩石 / 冷硬金属 / 柔韧织物 / 古老石雕 / 湿润表面 / 尘雾光柱\n- 光束必须具有强烈 Tyndall effect,真实、厚重、可感知体积密度\n\n【排版系统】\n- 整体 80% 视觉,20% 文字\n- AI 根据【主题】自动生成主标题、副标题和底部信息块\n- 主标题应尽量简洁、有气势、有电影海报感\n- 若主题更适合中文,则优先中文;若更适合英文,则自动英文;也可双语,但必须统一\n- 主标题可沿光束垂直排布,仿佛由光本身构成\n- 左下角设置一个高密度信息模块,包括副标题、小字信息、电影 credits 风格占位文字或品牌说明\n- 文字必须锐利、干净、真实嵌入环境,不得廉价漂浮\n\n【模块结构 —— 必须严格保持 3 块】\n[MOD 1: TOP-TO-CENTER BEAM]\n从顶部开口斜向切下的巨大体积光柱,作为第一视觉通道,并承载主标题或主视觉文字。\n\n[MOD 2: CENTER-RIGHT CORE]\n位于光束终点的核心主体与承载结构,形成整张海报的权力中心 / 命运中心 / 叙事中心。\n\n[MOD 3: BOTTOM-LEFT TEXT]\n位于左下角负空间中的高密度排版区,包含副标题、说明文字、credits 风格信息块、品牌信息或活动信息。\n\n【作者署名】\n在底部角落自然加入作者署名:\n@a9quant\n署名要小而清晰,精致、克制、高级,不喧宾夺主,像正式电影概念海报或艺术作品落款。\n\n【输出要求】\n输出为单张统一构图海报。\n所有视觉系统必须内部一致,不能有风格污染。\n画面必须具备:暗黑感、史诗感、压迫感、仪式感、命运感、电影完成度。\n最大细节密度,超清,电影级,印刷级,高端成片质感。",
+    "langName": "Dunkles Episches Konzeptposter",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @A9Quant (https://x.com/A9Quant)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151435732.webp"
+  },
+  {
+    "displayName": "ピラティス教室の広告画像を作成したい テキストはよりユーザーが登録をするのに惹かれるような文言にし、画像内には女性がピラティスを実際に行っている様子を映して",
+    "langName": "Pilates-Studio Werbeposter",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @ck_igarashi (https://x.com/ck_igarashi)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151440526.webp"
+  },
+  {
+    "displayName": "Old money Hamptons editorial,tall blonde woman late 20s,serene elegant expression,wearing cream cashmere cable sweater,pleated beige tennis skirt,pearl earrings,Hermès silk scarf,leather flats,Slim Aarons photography style,medium format film photography,sitting on a white wooden porch of a Cape Cod house,golden hour light,ocean in the background",
+    "langName": "6-Block-Mode-Kampagne Prompt-Formel",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @anacoding (https://x.com/anacoding)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151445752.webp"
+  },
+  {
+    "displayName": "Descomposición detallada de una cámara de la marca Sony modelo A7 indicando todas sus piezas y con sus nombres.",
+    "langName": "Sony A7 Explosionszeichnung Prompt",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @iaPulse_ (https://x.com/iaPulse_)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151450837.webp"
+  },
+  {
+    "displayName": "360 equirectangular image of Istiklal Street,Istanbul in 1900",
+    "langName": "1900 Istiklal Street Panorama-Prompt",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @ai_gezgini (https://x.com/ai_gezgini)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151456259.webp"
+  },
+  {
+    "displayName": "Generate somthing super complex and info dense...",
+    "langName": "Ultrahohe Informationsdichte Design",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @EchoraContinuum (https://x.com/EchoraContinuum)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151502815.webp"
+  },
+  {
+    "displayName": "用可爱的风格讲述中国远征军的历史故事\n用波普风格讲述金刚经",
+    "langName": "Niedliches Chinesisches Expeditionskorps Storyboard",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @RainHuangapp (https://x.com/RainHuangapp)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151508747.webp"
+  },
+  {
+    "displayName": "帮我制作辣椒炒肉这道菜的详细制作流程图,真实风格,适用于小红书图文比例",
+    "langName": "Chili-Schweinefleisch Kochablaufdiagramm",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @Kurt_Rousey466 (https://x.com/Kurt_Rousey466)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151517995.webp"
+  },
+  {
+    "displayName": "请围绕【主题】自动生成一张顶级概念海报 / 信息图式电影海报。\n\n唯一输入变量只有:\n【主题】:__中国历史上的皇帝排名_         \n\n要求 AI 根据这个主题,自动推导并统一设计以下全部视觉系统,不需要我额外指定:\n- 核心主体(可以自动判断更适合人物、产品、建筑、器物、符号、场景或抽象意象)\n- 底部支撑结构\n- 上方悬浮符号或精神象征\n- 场景包裹元素\n- 隐喻系统\n- 色彩层级\n- 材质对比\n- 光影逻辑\n- 标题、副标题、辅助文案\n- 品牌感与高级感表达方式\n\n最终画面必须是:\n一张震撼、精密、统一、电影级、超高细节、可用于高端印刷的概念主视觉海报。\n\n【总风格】\n超写实 3D 商业 CGI 渲染,融合电影级布光、奢侈品视觉语言、未来感概念设计与史诗级构图。画面必须具有“唯一主视觉核心”,不能杂乱,不能像拼贴,不能像普通电商海报。\n\n【自动推导规则】\nAI 必须依据【主题】自动决定最合适的:\n1. 核心视觉隐喻\n2. 主体类型与姿态\n3. 支撑结构形式\n4. 悬浮元素形式\n5. 场景外壳与空间氛围\n6. 主色、辅色、强调色\n7. 材质组合\n8. 文字气质与版式风格\n\n例如:\n- 如果主题偏权力、秩序、资本、统治,则自动偏向王座、冠冕、机械、神殿、红幕、金属、权力结构\n- 如果主题偏科技、AI、芯片、未来,则自动偏向机械结构、能量核心、光束、深色金属、全息感\n- 如果主题偏奢侈品、高定、稀缺、收藏,则自动偏向珠宝、镜面材质、黑金体系、展台、博物馆式布光\n- 如果主题偏人物、IP、角色,则自动以人物为主视觉核心,并自动匹配对应世界观与象征系统\n- 如果主题偏城市、文明、史诗、命运,则自动转化为宏大叙事型空间结构与仪式感场景\n\n【构图规则】\n- 绝对高级感\n- 强烈中心秩序,整体统一\n- 允许中轴对称或接近中轴的史诗级构图\n- 视觉重力明确,从上到下形成清晰的层级落点\n- 边缘负空间干净、克制、有呼吸感\n- 不允许无意义装饰,不允许风格污染,不允许多个系统互相打架\n\n【视觉质量】\n- 超高细节\n- 体积光清晰\n- 材质真实\n- 反射、折射、阴影、雾气、景深自然\n- 每个元素都像经过工业级视觉总监审美控制\n- 整体达到高端品牌 campaign key visual / luxury invitation poster / conceptual editorial poster 水准\n\n【排版系统】\n- 整体为 90% 视觉,10% 文字\n- AI 根据【主题】自动生成最匹配的主标题和副标题\n- 标题必须简洁、锋利、有气势\n- 文案分布在安全负空间内,不压主体\n- 若主题适合中文,则优先生成中文标题;若主题更适合英文,则自动生成英文标题;也可中英结合,但必须统一高级\n- 文字必须尽量少而准,不要堆字\n\n【署名要求】\n在画面底部角落自然加入作者署名:\n@a9quant\n署名要小,但清晰、精致、高级,不喧宾夺主,像顶级视觉作品中的正式作者落款。\n\n【输出要求】\n输出为单张统一构图海报。\n自动根据【主题】完成全部视觉决策。\n画面必须具备史诗感、秩序感、控制力、仪式感、商业完成度。\n最大细节密度,超清,电影级,印刷级,高端成片质感。",
+    "langName": "Cinematisches Infografik-Konzeptposter",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @A9Quant (https://x.com/A9Quant)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151523525.webp"
+  },
+  {
+    "displayName": "A wooden bookshelf consisting of three shelves: On the top shelf,there should be one book,on the second shelf,there should be three books,and on the bottom shelf,there should be seven books.",
+    "langName": "Holzbücherregal Prompt-Test",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @chetaslua (https://x.com/chetaslua)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151802123.webp"
+  },
+  {
+    "displayName": "请根据【主题：xxx】自动生成一张高审美的“轮廓宇宙 / 收藏版叙事海报”风格作品。不要将画面局限于固定器物或常见容器，不要优先默认瓶子、沙漏、玻璃罩、怀表之类的常规载体，而是由 AI 根据主题自行判断并选择一个最契合、最有象征意义、轮廓最强、最适合承载完整叙事世界的主轮廓载体。这个主轮廓可以是器物、建筑、门、塔、拱门、穹顶、楼梯井、长廊、雕像、侧脸、眼睛、手掌、头骨、羽翼、面具、镜面、王座、圆环、裂缝、光幕、阴影、几何结构、空间切面、舞台框景、抽象符号或其他更有创意与主题代表性的视觉轮廓，要求合理布局。优先选择最能放大主题气质、最能形成强烈视觉记忆点、最能体现史诗感、神秘感、诗意感或设计感的轮廓，而不是最安全、最普通、最常见的容器。\n\n画面的核心不是简单把世界装进某个物体里，而是让完整的主题世界自然生长在这个主轮廓之中、之内、之上、之边界里或与其结构融为一体，形成一种“主题宇宙依附于一个象征性轮廓展开”的高级叙事效果。主轮廓必须清晰、优雅、有辨识度，并在整体构图中占据核心地位。轮廓内部或边界中需要自动生成与主题强绑定的完整叙事世界，内容应当丰富、饱满、层次清晰，包括最能代表主题的标志性场景、核心建筑或空间结构、象征符号与隐喻元素、角色关系或文明痕迹、远景中景近景的空间递进、具有命运感和情绪张力的氛围层次，以及门、台阶、桥梁、水面、烟雾、路径、光源、遗迹、机械结构、自然景观、抽象形态、生物或道具等叙事细节。所有元素必须统一、自然、有主次、有层级地融合，像一个完整世界真实孕育在这个轮廓结构之中，而不是简单拼贴、裁切填充、素材堆叠或模板化背景。\n\n整体构图需要具有强烈的收藏版海报气质与高级设计感，大结构稳定，主轮廓强烈明确，内部世界具有纵深、秩序和呼吸感，细节丰富但不拥挤，内容丰满但不杂乱，可以适度加入小比例人物剪影、远处建筑、光柱、门洞、桥、阶梯、回廊、倒影、天光或远景结构来增强尺度感、故事感与史诗感。整体画面要安静、宏大、凝练、富有余味，不要平均铺满，不要廉价热闹，不要无重点堆砌。\n\n风格融合收藏版电影海报构图、高级叙事型视觉设计、梦幻水彩质感与纸张印刷品气质，强调纸张颗粒感、边缘飞白、水彩刷痕、轻微晕染、空气透视、柔和雾化、局部体积光、光雾穿透、大面积留白与克制版式，让画面看起来像设计师完成的高端收藏版视觉作品，而不是普通 AI 跑图。整体气质要高级、诗意、宏大、神圣、怀旧、安静、具有传说感和叙事感。\n\n色彩由 AI 根据主题自动判断并匹配最合适的高级配色方案，但必须保持统一、克制、耐看、低饱和、高级，不要杂乱高饱和，不要廉价霓虹感，不要塑料数码感。配色可以围绕黑金灰、冷蓝灰、雾白灰、褐红米白、暗铜、旧纸色、深海蓝、暮色紫、银灰等体系自由变化，但必须始终服务主题，并保持海报级审美与整体和谐。\n\n最终要求：第一眼有强烈的主题识别度和轮廓记忆点，第二眼有完整丰富的叙事世界，第三眼仍有细节和余味。轮廓选择必须具有创意和主题匹配度，尽量避免重复、保守、常见的容器套路，优先选择更有象征性、更有空间感、更有设计潜力的轮廓形式。不要普通背景拼接，不要生硬裁切，不要模板化奇幻素材，不要游戏宣传图感，不要过度卡通化，不要过度写实导致失去艺术感，不要形式大于内容。如果合适，可以自然加入低调克制的标题、编号、签名或落款，让它更像收藏版海报设计的一部分，但不要喧宾夺主。",
+    "langName": "Silhouette-Universum-Narrativposter",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @MrLarus (https://x.com/MrLarus)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151814358.webp"
+  },
+  {
+    "displayName": "中式怪异，黑暗神秘风格融合中式美学，完美细节，多重管线渲染，完美建模。西游记背景，狮驼岭，千妖万怪，坐在左边巨大王座上的大象王重甲妖精，坐在中间巨大王座上的狮王重甲妖精，坐在右边巨大王座上大鹏鸟王重甲妖精。渺小的背对镜头孙悟空肩抗金箍棒步行前进，孙悟空身穿铠甲，近地仰拍镜头，长焦镜头，强烈阴影。极致细节刻画，多次修改，正确透视和主体线条，精致细节",
+    "langName": "Löwenkamelkamm Dunkle Mythen-Szene",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @MANISH1027512 (https://x.com/MANISH1027512)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151818665.webp"
+  },
+  {
+    "displayName": "1、生成不知火舞和貂蝉的游戏对战海报图\n2、生成一张K-pop团体时尚专辑封面\n3、请你生成 《斗破苍穹》 的关键人物关系图\n4、帮我截一张上传图片的抖音首页的女网红图",
+    "langName": "Multi-Konzept Kampf-Poster-Set",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @joshesye (https://x.com/joshesye)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151838333.webp"
+  },
+  {
+    "displayName": "在计算机博物馆里,一个程序员在展厅中央,正在演示C语言编程,很多参观者在围观,屏幕上的代码清晰可见。旁边的牌子写着:古法编程,现场表演。2D卡通画风,16:9",
+    "langName": "Retro-Programmierung Museum-Cartoon",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @XiaohuiAI666 (https://x.com/XiaohuiAI666)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151857317.webp"
+  },
+  {
+    "displayName": "A dusk shindig  with multiple fake imagination projections all aligned in the 14th dimensions",
+    "langName": "14. Dimensions-Projektionsszene",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "by @workingclassbud (https://x.com/workingclassbud)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151902653.webp"
+  },
+  {
+    "displayName": "A vibrant trash-aesthetic poster. An intentionally unflattering,bad-taste portrait of a pop icon. Set against a background of unintelligible visual gibberish. Heavily plastered with random,nonsensical symbols mixed with recognizable hot-topic logos and internet meme imagery. High-impact visual clutter.",
+    "langName": "Hochinformatives abstraktes Collage-Poster",
+    "object": "Schaufenster",
+    "attribute": "Poster",
+    "description": "Unverständlicher Hintergrund, absichtlich unvorteilhaftes Porträt einer Pop-Ikone, zufällige unsinnige Symbole und Logos, um auf der Trendwelle zu reiten.",
+    "preview": "https://img.aishort.top/imgprompt/20260207163033734.webp"
+  },
+  {
+    "displayName": "Show me the attached image as a snapshot from an actual anime",
+    "langName": "Anime-Schnappschuss-Konvertierung",
+    "object": "Schaufenster",
+    "attribute": "Charakter",
+    "description": "by @Thereallo1026 (https://x.com/Thereallo1026)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151527408.webp"
+  },
+  {
+    "displayName": "基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。\n・包含三视图：正面、侧面和背面\n・添加角色面部表情的变化・分解并展示服装和装备的详细部分\n・添加色板・包含世界观设定的简要说明\n・总体上，使用有组织的布局（白色背景，插画风格）高分辨率、专业概念艺术风格",
+    "langName": "Persona5 Charakter-Referenzkarte",
+    "object": "Schaufenster",
+    "attribute": "Charakter",
+    "description": "by @iamrednightS (https://x.com/iamrednightS)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151531513.webp"
+  },
+  {
+    "displayName": "最新モデルの画像生成ツールを使用して、\nこのちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）\nギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。\n\n「ここに自己紹介」\n\n名前:（ここに名前） \nイメージカラー:（ここに色） \n身長:（ここに身長）cm \n体重:（ここに体重）kg\nキャッチコピー:”「ここにセリフ」”",
+    "langName": "Galge Charakter-Einführungsseite",
+    "object": "Schaufenster",
+    "attribute": "Charakter",
+    "description": "by @09lyco (https://x.com/09lyco)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151535995.webp"
+  },
+  {
+    "displayName": "このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 \n・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 \n・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる \n・全体は整理されたレイアウト\n（白背景、図解風） \n・アスペクト比16：9\n\n高解像度、プロのコンセプトアートスタイル",
+    "langName": "Offizielles Charakterblatt (JP)",
+    "object": "Schaufenster",
+    "attribute": "Charakter",
+    "description": "by @Toshi_nyaruo_AI (https://x.com/Toshi_nyaruo_AI)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151541643.webp"
+  },
+  {
+    "displayName": "A mecha girl mid-teens,pale skin smudged with soot and salt spray,sharp amber eyes with glowing HUD reticles,waist-length ash-white hair tied in a high ponytail whipping in the sea wind,matte gunmetal exoskeleton armor plating her shoulders,forearms and shins,exposed hydraulic pistons at the joints,chest rig with glowing cyan coolant lines,oversized oil-stained hangar jacket half slipping off one shoulder,a massive rail cannon resting on her right shoulder,dog tags and frayed red ribbon at her collar ,standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water,weight shifted onto one leg,left hand gripping the cannon strap,head turned slightly toward camera with a quiet defiant stare,steam venting from her back thrusters,her ponytail and jacket streaming sideways in the salt wind ,a vast derelict sea-city at dusk,colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes,bone-white monolithic towers fused with barnacled steel,cyclopean ring-shaped constructs canted at broken angles,rusted skeletal gantries threaded with dead cables,dark swells rolling between the pylons,shipwrecks half-swallowed at their feet,thick sea fog clinging to the bases while the upper structures pierce into a bruised sky,scattered faint lights blinking high in the towers like distant eyes ,moody low-key lighting,cold teal ambient from the overcast sky,warm amber sodium glow leaking from a distant structure camera-right,hard backlight from a low sun behind the towers carving her silhouette,volumetric god rays cutting through sea mist,wet specular highlights on her armor ,35mm anamorphic lens,slight low angle looking up past her shoulder toward the structures,medium-wide shot,shallow depth of field with foreground rust in soft focus,horizontal lens flares,fine atmospheric haze compressing the distant megastructures into layered silhouettes ,cinematic anime key visual,painterly digital illustration with crisp line art,desaturated oceanic palette of teal,bone-white and rust punched by small warm accent lights,film grain,high-contrast editorial poster aesthetic . Format 16:9.",
+    "langName": "Mecha-Mädchen Meeresstadt Key Visual",
+    "object": "Schaufenster",
+    "attribute": "Charakter",
+    "description": "by @old_pgmrs_will (https://x.com/old_pgmrs_will)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151546065.webp"
+  },
+  {
+    "displayName": "生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片,每张卡牌上写上对应的中文名,每行4个,宽高比16:9。",
+    "langName": "Saint Seiya Gold Saints Kartenraster",
+    "object": "Schaufenster",
+    "attribute": "Charakter",
+    "description": "by @songguoxiansen (https://x.com/songguoxiansen)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151550869.webp"
+  },
+  {
+    "displayName": "# 混沌としたメモ書き・記号の集合体からキャラクターの顔を浮かび上がらせるアート\n\n--- スタイル\n- 白い紙の上に黒インクで描かれた大量の手書きメモ、数式、記号、ランダムな線。\n- 紙いっぱいに散らばる書き殴り風のカオス。\n- 所々に赤インクの強調(ライン、塗り潰し、マーカー風の塊)。\n- アナログのノート落書きのような質感。\n\n--- 構図\n- ランダムなメモや記号が全体を覆い尽くす。\n- 黒インクの線や文字の密度が「キャラクターの顔」の位置に集中する。\n- 結果として、混沌の中から「与えられたキャラクターの顔のシルエット・表情」がうっすら浮かび上がる。\n- 顔は写実的ではなく、カオスの断片が集まって形を成す。\n\n--- 色彩\n- モノクロ(黒・白)を主体に構成。\n- 赤インクをアクセントとして散発的に配置。\n- 彩度は抑えめ、アナログの紙とインク感を重視。\n\n--- 表現要素\n- 読めるようで読めない文字列、日本語や英数字が混在。\n- 数式記号、矢印、点、斜線、クロス、ドリップ(インクの飛び散り)。\n- キャラクターの顔の目や髪の輪郭は、メモや記号の配置の「余白」や「濃淡」で浮かび上がる。\n\n--- 禁止事項\n- 顔を直接的に描き込む写実ポートレート。\n- デジタル処理的で整然とした幾何学模様。\n- カラフルな彩色や過飽和表現。\n- ロゴ、透かし、人工的なCG感。\n\n--- Definition of Done (DoD)\n- 全体は「混沌としたメモ・記号の集合体」として成立している。  \n- 与えられたキャラクターの顔が、混沌の濃淡・配置から自然に浮かび上がる。  \n- 色はモノクロ+赤アクセントのみ。  \n- 紙とインクの手描き的質感を保持している。",
+    "langName": "Chaos-Notizen Verborgenes Gesicht Charakterkunst",
+    "object": "Schaufenster",
+    "attribute": "Charakter",
+    "description": "by @loglogrog (https://x.com/loglogrog)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151557646.webp"
+  },
+  {
+    "displayName": "用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它",
+    "langName": "Ein-Prompt UI-Design-Generierung",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @austinit (https://x.com/austinit)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151602952.webp"
+  },
+  {
+    "displayName": "Amateur iPhone photo at Apple Park during the iPhone 20 keynote,Tim Cook presenting on stage. Shot from the crowd at a distance",
+    "langName": "Amateur iPhone Keynote-Schnappschuss",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @patrickassale (https://x.com/patrickassale)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151606875.webp"
+  },
+  {
+    "displayName": "Amateur photo of an open notebook lying flat,filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy,like personnal notes,natural imperfections,crossed out words,underlined headings. Shot from slightly above,natural daylight from a window,no flash. Casual desk setting,shot on iPhone",
+    "langName": "Handgeschriebenes Notizbuch-Foto",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @patrickassale (https://x.com/patrickassale)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151610558.webp"
+  },
+  {
+    "displayName": "\"宋朝人的朋友圈\"/\"SONG DYNASTY SOCIAL MEDIA FEED\"，古今穿越幽默融合界面设计风格，画面模拟手机社交媒体界面，但内容全部是宋朝场景头像是宋代文人画像，用户名\"苏东坡SuShi_Official\"，发布内容\"刚到黄州，被贬了但心情还行。今天自己做了东坡肉，味道绝了，附菜谱：\"，配图为工笔画风格的东坡肉特写，点赞列表\"黄庭坚、秦观、佛印等126人\"，评论区\"王安石：呵呵\"\"司马光：还是那个味道\"，界面元素如点赞图标用宋代花纹替代，状态栏显示\"大宋移动 5G\"和\"元丰三年\"，配色为手机深色模式搭配宋代雅致色调，历史与社交媒体的趣味碰撞杰作",
+    "langName": "Song-Dynastie Social-Media-Feed",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @Panda20230902 (https://x.com/Panda20230902)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151615137.webp"
+  },
+  {
+    "displayName": "1、生成视频号内容截图，主题：中老年不要盲目催婚，iPhone尺寸\n2、生成抖音内容截图，主题：跟上AI浪潮9.9包教会，iPhone尺寸\n3、生成小红书内容截图，主题：精致女孩背后都有网贷，iPhone尺寸\n4、生成快手内容截图：主题：直播离婚预告，iPhone尺寸",
+    "langName": "Multi-Plattform-Inhalts-Screenshots",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @MrLarus (https://x.com/MrLarus)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151619526.webp"
+  },
+  {
+    "displayName": "9:16 的图片比例，生成一张抖音直播的截图，里面是 刘亦菲 在直播，刘亦菲 手里拿着牌子，牌子里写着 今晚直播，欢迎来参亦菲畅聊！",
+    "langName": "Liu Yifei Douyin Livestream-Screenshot",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @alanblogsooo (https://x.com/alanblogsooo)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151623879.webp"
+  },
+  {
+    "displayName": "태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.",
+    "langName": "König Taejo Yi Seong-gye X-Seite",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @SKA_Neotype (https://x.com/SKA_Neotype)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151627467.webp"
+  },
+  {
+    "displayName": "用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮以及其它。把这套视觉风格作为参考生成网页。我尝试了宇宙、飞行、蝴蝶主题。",
+    "langName": "Style-to-UI Designsystem",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @stark_nico99 (https://x.com/stark_nico99)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151633218.webp"
+  },
+  {
+    "displayName": "「いらすとや」のほのぼのとした雰囲気と、「霞ヶ関スライド」の圧倒的な情報密度を融合させた、桃太郎の解説スライド（ポンチ絵）を作成して",
+    "langName": "Momotaro Erklärungsfolie",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @yammamon (https://x.com/yammamon)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151638396.webp"
+  },
+  {
+    "displayName": "请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。\n\n要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。\n\n整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。\n\n版式固定为：\n- 顶部：中文主标题 + 副标题 + 导语\n- 左侧：结构拆解区，中文引线标注关键部件，并配局部特写\n- 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明\n- 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释\n- 底部：穿着顺序 / 构成流程图 + 核心特征总结\n\n若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。\n\n避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。",
+    "langName": "Museum-Stil Hanfu-Aufschlüsselung Infografik",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @MrLarus (https://x.com/MrLarus)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151643450.webp"
+  },
+  {
+    "displayName": "この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。",
+    "langName": "Japanisches RPG-Statusbildschirm",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @Kashiko_AIart (https://x.com/Kashiko_AIart)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151648827.webp"
+  },
+  {
+    "displayName": "玄武门之变的朋友圈",
+    "langName": "Xuanwu Gate Social-Feed",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @Tz_2022 (https://x.com/Tz_2022)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151653424.webp"
+  },
+  {
+    "displayName": "生成【城市】三天旅游攻略,就这么简单一句话",
+    "langName": "Stadtreiseführer Infografik",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @MrLarus (https://x.com/MrLarus)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151700060.webp"
+  },
+  {
+    "displayName": "创作一幅超逼真的 3D 插画,描绘一个略微倾斜的 Twitter/X 个人资料页面,背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X 截图相似,包含真实的布局、认证徽章、粉丝统计、个人资料横幅和推文部分。\n\n个人资料详情:\n\n一位时尚的年轻男子,有着蓬松的亮黑色短发和白皙的皮肤,从个人资料页面的右侧撕开的纸片中跃然而出。他保留了原有的面部特征,只是将表情改为自然自信的微笑。他握着撕开的纸片边缘,纸屑四处飞溅,营造出强烈的 3D 突破效果。\n\n柔和的影棚灯光、电影级的阴影、景深、超高细节、清晰的焦点、逼真的皮肤、逼真的 UI 反射、优质的构图、4K 分辨率、逼真与微妙的皮克斯风格融合。\n\n重要提示:\n\n- 请勿更改头像\n\n- 保持 X UI 界面准确\n\n- 保留原有的面部特征\n\n- 角色为男性\n\n- 仅增强笑容\n\n- 确保所有中文文字清晰易读",
+    "langName": "3D X Profil-Mockup",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @GoSailGlobal (https://x.com/GoSailGlobal)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151708276.webp"
+  },
+  {
+    "displayName": "生成一张慈禧的X主页",
+    "langName": "Kaiserin Cixi X-Seite",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @Cryptohaifeng_ (https://x.com/Cryptohaifeng_)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151713569.webp"
+  },
+  {
+    "displayName": "GPT-image-2でこの手相を診断して詳細な鑑定書を作って\n生命線・知能線・感情線・運命線・太陽線・財運線・結婚線を、線の形状・濃淡・枝分かれ・起点終点まで分析すること。\n助言を重点的に高品質な占い鑑定書にまとめること。",
+    "langName": "Handlese-Diagnose-Bericht",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @agi_aibusi (https://x.com/agi_aibusi)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151717766.webp"
+  },
+  {
+    "displayName": "生成一张【字体】书法临摹字帖",
+    "langName": "Kalligraphie-Vorlagenblatt",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @MrLarus (https://x.com/MrLarus)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151722064.webp"
+  },
+  {
+    "displayName": "GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください",
+    "langName": "Don Quijote Promo-Pop-Poster",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @loglogrog (https://x.com/loglogrog)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151727807.webp"
+  },
+  {
+    "displayName": "日本のソシャゲのガチャ画面を生成して、",
+    "langName": "Japanisches Gacha-Spiel-Bildschirm",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @the_wheel_2024 (https://x.com/the_wheel_2024)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151732999.webp"
+  },
+  {
+    "displayName": "A 9:16 vertical version,high-detail realistic style Chinese TikTok live screenshot,Elon Musk is talking to the mobile phone camera in the live broadcast room,excited,smiling,and the live atmosphere is warm and real. He held a white handwritten sign in one hand,which clearly said: \"Thank you Shinning\". There are obvious Chinese TikTok interface elements in the live broadcast screen,including likes,comments and share icons arranged vertically on the right,scrolling Chinese bullet screens and interactive comments below,and the \"live broadcast\" logo at the top,which looks like a real mobile phone screenshot. There is an eye-catching gift prompt special effect in the screen: \"Shinning sent TikTok No. 1\",with gift animation light effect and platform-style prompt box. Musk is in a professional live broadcast environment,with a mobile phone holder,a ring fill light and a desktop microphone in front of him. The background is a modern technology live broadcast room with bright lights and a slight neon atmosphere. The composition is real and natural,like the ongoing live screenshot of the Chinese short video platform. The interface information is rich but not messy,the characters are clear,the expression is vivid,the details are rich,the sense of real photography,the depth of field,high definition,cinematic,photorealistic,realistic livestream screenshot,social media UI,Chinese Douyin live room,detailed lighting,natural skin texture.\n\nNegative prompts:\n\nLow definition,blur,cartoon,illustration,too strong CG sense,two-dimensional,deformed fingers,wrong text,scrambled code,multiple mobile phones,multiple brands,character repetition,face collapse,facial features distortion,excessive skin polishing,overexposure,too dark,messy background,wrong UI,non-Chinese short video interface,too many English bullet screens,gift special effects are not obvious,cropping error,proportional error\n\nSupplementary reinforcement words:\n\nReal mobile phone screen recording screenshot feeling,the live broadcast UI is complete,the gift prompt box conforms to the style of the Chinese short video platform,the Chinese comment area is active,the number of people online in the live broadcast room is clearly displayed,and the time,power and signal bar are visible.",
+    "langName": "Elon Musk Douyin Livestream-Screenshot",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @Shinning1010 (https://x.com/Shinning1010)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151738193.webp"
+  },
+  {
+    "displayName": "9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊!",
+    "langName": "Liu Yifei Douyin Livestream-Screenshot",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @kylegeeks (https://x.com/kylegeeks)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151742130.webp"
+  },
+  {
+    "displayName": "用未来都市风格生成UI设计系统,灵感来自赛博朋克城市夜景,包含霓虹灯、玻璃建筑反射、高对比光影,配色以紫色、蓝色、粉色霓虹为主,设计网页Dashboard、移动端界面、卡片、按钮、控件等,视觉炫酷、层次丰富、科技感极强",
+    "langName": "Cyberpunk Neon UI-Designsystem",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @AZLnfvp (https://x.com/AZLnfvp)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151747043.webp"
+  },
+  {
+    "displayName": "1、生成特朗普和金正恩在抖音直播间打PK的截图  \n2、生成不知火舞的小红书主页截图  \n3、生成图片: 手写在教室黑板上的出师表全文,真实感的粉笔字迹,晴朗白天用iPhone手机实拍  \n4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图,产品价格,产品细节,功能和使用场景等",
+    "langName": "Trump und Kim Livestream PK Screenshot",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @alanlovelq (https://x.com/alanlovelq)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151752762.webp"
+  },
+  {
+    "displayName": "横長のパワポ画像ここで生成してみて　どのモデル使ってるか判定するから、今のAIゲーム開発の概要をまとめた1枚パワポで　日本語で\n\nゲーム開発の技術に関して、工数ベースでどこにパワーかかるかの分析資料といかに量産が大事かについての説明とかのパワポ画も作って",
+    "langName": "Japanisches AI-Spielentwicklung Übersichtsfolien-Prompt",
+    "object": "Schaufenster",
+    "attribute": "UI",
+    "description": "by @ailovedirector (https://x.com/ailovedirector)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151758012.webp"
+  },
+  {
+    "displayName": "私があなたをどんなふうに扱ってきたか、4 コマ漫画風に描いてください。まずは 800 字くらいのプロットをテキストで出して、私が「描いて」と言ったらプロットに沿った 4 コマ漫画を描いてください。",
+    "langName": "A/B-Test Signierter Output",
+    "object": "Schaufenster",
+    "attribute": "Experiment",
+    "description": "by @saskr_13 (https://x.com/saskr_13)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151809673.webp"
+  },
+  {
+    "displayName": "帮我生成xxxx真迹图片",
+    "langName": "Gefälschtes Meisterwerk Prompt-Test",
+    "object": "Schaufenster",
+    "attribute": "Experiment",
+    "description": "by @MrLarus (https://x.com/MrLarus)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151833499.webp"
+  },
+  {
+    "displayName": "counter strike in game screenshot,mixed with Terraria",
+    "langName": "Counter-Strike x Terraria Screenshot-Mashup",
+    "object": "Schaufenster",
+    "attribute": "Spiel",
+    "description": "by @yssrski (https://x.com/yssrski)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151823088.webp"
+  },
+  {
+    "displayName": "戦前日本の怪しげな研究所を探検しているマイクラのスクリーンショット画像を作成して",
+    "langName": "Vorkriegs-Japan-Labor Minecraft Screenshot",
+    "object": "Schaufenster",
+    "attribute": "Spiel",
+    "description": "by @RitaStar1128 (https://x.com/RitaStar1128)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151827574.webp"
+  },
+  {
+    "displayName": "an ingame screenshot of rust",
+    "langName": "Rust Ingame-Screenshot",
+    "object": "Schaufenster",
+    "attribute": "Spiel",
+    "description": "by @FixlationAI (https://x.com/FixlationAI)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151843670.webp"
+  },
+  {
+    "displayName": "AmongUsの精密な実際のゲーム画像を生成して",
+    "langName": "Among Us Realistischer Screenshot",
+    "object": "Schaufenster",
+    "attribute": "Spiel",
+    "description": "by @ReYYYYoking (https://x.com/ReYYYYoking)",
+    "preview": "https://img.aishort.top/imgprompt/20260424151853155.webp"
+  },
+  {
+    "displayName": "beautiful Korean idol,stylish modern outfit,fitted jeans,oversized jacket,trendy fashion accessories,(realistic detailed eyes,natural smooth skin texture,confident and charismatic expression)",
+    "langName": "Streetstyle-Outfit",
+    "object": "Schaufenster",
+    "attribute": "Outfit",
+    "preview": "https://img.aishort.top/imgprompt/20260207163033730.webp"
+  },
+  {
+    "displayName": "fitted jeans,oversized jacket,navel",
+    "langName": "Lässiges Hot-Girl-Outfit (Denim + Crop-Top)",
+    "object": "Schaufenster",
+    "attribute": "Outfit",
+    "preview": "https://img.aishort.top/imgprompt/20260207163033732.webp"
   }
 ]
