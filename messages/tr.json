@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - AI Sanatı Prompt Üretici | Nano Banana/Midjourney/FLUX/SD/DALL·E",
-    "description": "Saniyeler içinde çarpıcı AI sanatı promptları oluşturun. Midjourney, SD ve FLUX için nihai prompt oluşturucu. Akıllı etiketler ve ışık ayarları. Şimdi başlayın!",
+    "title": "IMGPrompt - AI Sanatı Prompt Üretici | Nano Banana/GPT-image-2/Midjourney/FLUX/Seedance/Veo/Kling",
+    "description": "Saniyeler içinde AI görüntü ve video promptları oluşturun. Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo ve Kling desteği. Görsel etiketler, yerel çalışma, giriş gerekmez.",
     "ogTitle": "IMGPrompt - Tek Tıkla AI Sanatı Prompt Oluşturun",
-    "ogDescription": "Prompt sorunlarına elveda! Akıllı etiketlerle profesyonel promptlar oluşturun. Midjourney, SD ve FLUX uyumlu. Ücretsiz deneyin!",
+    "ogDescription": "Prompt ezberine son! İki dilli etiketlere tıklayarak AI görüntü/video için profesyonel promptlar oluşturun — Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, Kling. Ücretsiz ve yerel.",
     "ogUrl": "https://prompt.newzone.top/app/tr",
     "ogSiteName": "IMGPrompt",
     "ogLogo": "https://prompt.newzone.top/app/logo.png",
@@ -17,7 +17,9 @@
     "currentSelection": "Seçili",
     "fallback-other": "Diğer",
     "fallback-uncategorized": "Kategorisiz",
-    "empty-selected-tags": "Seçim yok"
+    "empty-selected-tags": "Seçim yok",
+    "tagMode-multicolor": "Çok Renkli",
+    "tagMode-monochrome": "Tek Renkli"
   },
   "ResultSection": {
     "tooltip-light": "Aydınlatma promptları ekle (film ışığı, alacakaranlık vb.)",
@@ -39,7 +41,13 @@
     "tooltip-randomColor": "Renkleri rastgele değiştir",
     "button-randomcolor": "Renk değiştir",
     "prompt-translation": "Çeviri",
-    "label-auxiliary": "Yardımcı"
+    "label-auxiliary": "Yardımcı",
+    "confirm-clear": "Mevcut komut istemini temizle?",
+    "confirm-yes": "Evet",
+    "confirm-no": "Hayır",
+    "translating": "Çevriliyor...",
+    "randomColor-success": "{count} renk kelimesi değiştirildi",
+    "randomColor-noMatch": "Değiştirilecek renk kelimesi yok"
   },
   "CopyToClipboard": {
     "empty": "İçerik boş, kopyalanacak bir şey yok",
@@ -57,5 +65,66 @@
     "reaction3": "Ne?",
     "reaction4": "Bulmaca",
     "placeholder": "Lütfen bir mesaj bırakın, giriş yapmanıza gerek yok (cevap bildirimleri almak için e-postanızı girin)"
+  },
+  "Home": {
+    "h1": "IMGPrompt · AI Sanat Prompt Oluşturucu",
+    "tagline": "Prompt ezberine son. Görsel etiketlere tıklayarak AI görüntü/video için profesyonel promptlar oluşturun — Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, Kling ve daha fazlası."
+  },
+  "About": {
+    "title": "IMGPrompt Hakkında",
+    "intro1": "IMGPrompt, AI görüntü ve video modelleri için ücretsiz ve açık kaynaklı görsel bir prompt oluşturucudur; Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo ve Kling'i resmi olarak destekler (Stable Diffusion ve DALL·E söz dizimiyle de uyumludur). İki dilli (İngilizce + kendi diliniz) etiketlerin görsel seçimi sayesinde her anahtar kelimeyi ezberlemeden yüksek kaliteli İngilizce promptlar yazabilirsiniz.",
+    "intro2": "Araç tamamen tarayıcınızda çalışır — arka uç veritabanı yoktur, yaratıcı çalışmalarınız hiçbir yere yüklenmez. Kayıt yok, ödeme yok; self-hosting ve denetim için tamamen açık kaynak. Ayrıca Windows, macOS ve Linux için tüm özellikleri çevrimdışı kullanılabilen masaüstü istemcileri mevcuttur."
+  },
+  "HowTo": {
+    "title": "Üç adımda profesyonel prompt oluşturun",
+    "step1": {
+      "title": "Konu (Subject) seçin",
+      "desc": "Soldaki konu listesinden görselleştirmek istediğinizi seçin — insanlar, hayvanlar, manzaralar, mimari, konsept sanat vb. Bu adım sonraki adımlarda kullanabileceğiniz etiketlerin kapsamını belirler."
+    },
+    "step2": {
+      "title": "Kategori (Category) seçin",
+      "desc": "Konunuz altındaki alt kategoriye inin; örneğin «insanlar» altında saç modeli, kıyafet, poz veya ifade. Kategoriler, promptun her boyutunu sistemli şekilde kapsamanıza yardımcı olur."
+    },
+    "step3": {
+      "title": "Etiketleri seçin ve oluşturun (Tags)",
+      "desc": "Etikete tıklayarak prompt kutusuna ekleyin; tekrar tıklayarak kaldırın. Sağdaki panel sonucu canlı olarak birleştirir — tek tıkla kopyalayın, aydınlatma veya kalite iyileştiriciler ekleyin ya da dışa aktarmadan önce negatif prompt ilave edin."
+    }
+  },
+  "Terminology": {
+    "title": "AI prompt terimleri",
+    "prompt": "Prompt. Oluşturmak istediğiniz görüntünün doğal dilde açıklaması — metinden görüntü modellerinin temel girdisi.",
+    "negative": "Negative Prompt. Görüntüde olmamasını istediğiniz ögelerin listesi (lowres, blurry, bad hands, watermark vb.); çıktı kalitesini artırır.",
+    "weight": "Weight (ağırlık). Parantez veya sayısal değerlerle anahtar kelime vurgusunu ayarlar; örneğin (masterpiece:1.2) ilgili kelimeyi daha etkili yapar; değer büyüdükçe etki güçlenir.",
+    "sampler": "Sampler. Modelin gürültüden görüntüye giden yolunu belirleyen algoritmadır; DPM++ 2M Karras, Euler a ve UniPC yaygın seçimlerdir ve hız/detay dengesi farklıdır.",
+    "seed": "Seed (tohum). Rastgele başlangıç durumunu denetler; seed ve diğer parametreler sabitse aynı prompt aynı görüntüyü yeniden üretir — hata ayıklama ve ince ayar için kullanışlıdır.",
+    "cfg": "CFG Scale (Classifier-Free Guidance). Değer yükseldikçe model promptu daha katı takip eder. Tipik aralık 7–12; çok yüksek değerler aşırı uyuma ve katı görüntüye yol açar.",
+    "style": "Style (stil). Genel sanatsal yönü belirten anahtar kelimeler — anime, photorealistic, oil painting, cyberpunk — genellikle promptun başına konur."
+  },
+  "FAQ": {
+    "title": "Sıkça sorulan sorular",
+    "q1": {
+      "question": "IMGPrompt nedir? Hangi AI sanat modellerini destekler?",
+      "answer": "IMGPrompt, metinden görüntü modelleri için bir prompt düzenleyicidir; iki dilli etiketli görsel tag'lar sayesinde İngilizce promptları hızlıca kurmanıza yardımcı olur. Resmi olarak Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo ve Kling desteklenir (görüntü ve video); üretilen promptlar Stable Diffusion, DALL·E ve uyumlu söz dizimini kabul eden herhangi bir modelde de çalışır."
+    },
+    "q2": {
+      "question": "Ücretsiz mi? Kayıt olmam gerekir mi? Verilerim yüklenir mi?",
+      "answer": "Tamamen ücretsiz, kayıt veya giriş gerektirmez. Tüm prompt oluşturma ve giriş tarayıcınızda yerel olarak yapılır — hiçbir şey sunucuya gönderilmez, arka uç veritabanı yoktur. Proje GitHub'da açık kaynaktır; kodu denetleyebilir veya kendi sunucunuzda barındırabilirsiniz."
+    },
+    "q3": {
+      "question": "Prompt ne kadar uzun olmalı? Karakter sınırı var mı?",
+      "answer": "380 karakterin altında tutmanızı öneririz — bu, Stable Diffusion'un varsayılan CLIP metin kodlayıcısının token sınırına yakındır; üstündekiler kesilebilir veya zayıflayabilir. Araçta canlı karakter sayacı vardır. Midjourney, GPT-image-2 ve Nano Banana uzunluğa daha toleranslıdır, ancak özlü promptlar genellikle daha iyi sonuç verir."
+    },
+    "q4": {
+      "question": "Olumlu promptlar ile Negative Prompt arasındaki fark nedir? Nasıl kullanılır?",
+      "answer": "Olumlu promptlar görüntüde görünmesi gerekenleri tanımlar (örn. masterpiece, best quality, detailed face); olumsuzlar kaçınılmasını (örn. lowres, blurry, bad anatomy, extra fingers). «Negative» düğmesi yaygın olumsuz prompt setini panoya kopyalar — modelinizin Negative Prompt alanına yapıştırın."
+    },
+    "q5": {
+      "question": "Kendi dilimdeki promptu İngilizceye nasıl çeviririm?",
+      "answer": "Sağdaki panelde Translate düğmesi vardır: herhangi bir dilde metin girin, Translate'a tıklayın; araç bir çeviri API'si çağırıp İngilizceye çevirerek prompt kutusunun sonuna ekler. İlham veren bir cümleden başlamanız için kullanışlıdır, kelimeleri tek tek aramanız gerekmez."
+    },
+    "q6": {
+      "question": "Ağırlıklar nasıl çalışır? Promptlarda neden parantez () görürüz?",
+      "answer": "Stable Diffusion WebUI söz diziminde (word) ağırlığı 1.1'e, ((word)) 1.21'e yükseltir; ayrıca (word:1.3) şeklinde açıkça da yazabilirsiniz. Midjourney ::2 söz dizimini kullanır. IMGPrompt orijinal İngilizce token'ları korur; böylece hedef modelinizin kurallarına göre ağırlıkları elle ince ayarlayabilirsiniz."
+    }
   }
 }

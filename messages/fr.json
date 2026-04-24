@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - Générateur de Prompts Art IA | Nano Banana/Midjourney/FLUX/SD/DALL·E",
-    "description": "Créez des prompts d'art IA époustouflants en quelques secondes. Le générateur de prompts ultime pour Midjourney, SD & FLUX. Tags intelligents et éclairage inclus. Commencez maintenant !",
+    "title": "IMGPrompt - Générateur de Prompts Art IA | Nano Banana/GPT-image-2/Midjourney/FLUX/Seedance/Veo/Kling",
+    "description": "Créez des prompts d'IA pour image et vidéo en quelques secondes. Compatible avec Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo et Kling. Étiquettes visuelles, exécution locale, sans connexion.",
     "ogTitle": "IMGPrompt - Générez des Prompts Art IA en Un Clic",
-    "ogDescription": "Fini les problèmes de prompts ! Créez des prompts pro avec des tags intelligents. Compatible Midjourney, SD & FLUX. Essai gratuit !",
+    "ogDescription": "Fini le bachotage de prompts ! Cliquez sur des étiquettes bilingues et créez des prompts pro pour l'image et la vidéo IA — Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, Kling. Gratuit et local.",
     "ogUrl": "https://prompt.newzone.top/app/fr",
     "ogSiteName": "IMGPrompt",
     "ogLogo": "https://prompt.newzone.top/app/logo.png",
@@ -17,7 +17,9 @@
     "currentSelection": "Sélectionné",
     "fallback-other": "Autres",
     "fallback-uncategorized": "Non classé",
-    "empty-selected-tags": "Aucune sélection"
+    "empty-selected-tags": "Aucune sélection",
+    "tagMode-multicolor": "Multicolore",
+    "tagMode-monochrome": "Monochrome"
   },
   "ResultSection": {
     "tooltip-light": "Insérer des prompts d'éclairage (éclairage de film, rayons crépusculaires, etc.)",
@@ -39,7 +41,13 @@
     "tooltip-randomColor": "Remplacer les mots de couleur aléatoirement",
     "button-randomcolor": "Changer couleur",
     "prompt-translation": "Traduction",
-    "label-auxiliary": "Auxiliaire"
+    "label-auxiliary": "Auxiliaire",
+    "confirm-clear": "Effacer le prompt actuel ?",
+    "confirm-yes": "Oui",
+    "confirm-no": "Non",
+    "translating": "Traduction...",
+    "randomColor-success": "{count} mot(s) de couleur remplacé(s)",
+    "randomColor-noMatch": "Aucun mot de couleur à remplacer"
   },
   "CopyToClipboard": {
     "empty": "Le contenu est vide, rien à copier",
@@ -57,5 +65,66 @@
     "reaction3": "Quoi?",
     "reaction4": "Puzzle",
     "placeholder": "Merci de laisser un message, aucune connexion requise (entrez votre email pour recevoir les notifications de réponse)"
+  },
+  "Home": {
+    "h1": "IMGPrompt · Générateur de prompts d'art IA",
+    "tagline": "Fini le bachotage de prompts. Cliquez sur des étiquettes visuelles pour générer des prompts pro pour image et vidéo IA — compatible avec Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, Kling et plus."
+  },
+  "About": {
+    "title": "À propos d'IMGPrompt",
+    "intro1": "IMGPrompt est un éditeur visuel de prompts gratuit et open source pour les modèles d'IA d'image et de vidéo, incluant Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo et Kling (également compatible avec la syntaxe de Stable Diffusion et DALL·E). Grâce à la sélection visuelle d'étiquettes avec libellés bilingues (anglais + votre langue), vous composez des prompts en anglais de haute qualité sans mémoriser chaque mot-clé.",
+    "intro2": "L'outil fonctionne entièrement dans votre navigateur : ni base de données backend, ni envoi de vos créations. Aucune inscription, aucun paiement, entièrement open source pour l'auto-hébergement ou l'audit. Des clients de bureau pour Windows, macOS et Linux sont aussi disponibles, avec toutes les fonctions hors ligne."
+  },
+  "HowTo": {
+    "title": "Générez des prompts professionnels en trois étapes",
+    "step1": {
+      "title": "Choisissez un sujet (Subject)",
+      "desc": "Choisissez ce que vous voulez représenter dans la liste de sujets : personnes, animaux, paysages, architecture, art conceptuel, etc. Cette étape délimite les étiquettes disponibles dans les étapes suivantes."
+    },
+    "step2": {
+      "title": "Sélectionnez une catégorie (Category)",
+      "desc": "Explorez une sous-catégorie sous votre sujet, par exemple coiffure, vêtements, poses ou expressions sous « personnes ». Les catégories vous aident à couvrir systématiquement chaque dimension de votre prompt."
+    },
+    "step3": {
+      "title": "Choisissez les étiquettes et générez (Tags)",
+      "desc": "Cliquez sur une étiquette pour l'insérer dans la zone du prompt ; cliquez à nouveau pour la retirer. Le panneau de droite assemble le résultat en direct : copiez en un clic, ajoutez des éclairages ou des boosters de qualité, ou adjoignez des prompts négatifs avant d'exporter."
+    }
+  },
+  "Terminology": {
+    "title": "Terminologie des prompts IA",
+    "prompt": "Prompt. Description en langage naturel de l'image à générer, c'est l'entrée principale des modèles texte vers image.",
+    "negative": "Negative Prompt. Liste d'éléments à exclure de l'image (lowres, blurry, bad hands, watermark, etc.) pour améliorer la qualité.",
+    "weight": "Weight (poids). Ajuste l'emphase d'un mot-clé via des parenthèses ou des valeurs numériques ; par exemple (masterpiece:1.2) rend le mot plus influent. Plus la valeur est haute, plus l'effet est fort.",
+    "sampler": "Sampler. Détermine la trajectoire du modèle du bruit à l'image. DPM++ 2M Karras, Euler a et UniPC sont courants et diffèrent en vitesse et en détail.",
+    "seed": "Seed (graine). Contrôle l'état initial aléatoire ; à seed fixe et paramètres inchangés, le même prompt reproduit la même image, utile pour le débogage et l'ajustement.",
+    "cfg": "CFG Scale (Classifier-Free Guidance). Plus la valeur est élevée, plus le modèle suit strictement votre prompt. Plage typique 7–12 ; trop haut entraîne surapprentissage et rigidité.",
+    "style": "Style. Mots-clés indiquant l'orientation artistique globale : anime, photorealistic, oil painting, cyberpunk. Souvent placés en début de prompt."
+  },
+  "FAQ": {
+    "title": "Foire aux questions",
+    "q1": {
+      "question": "Qu'est-ce qu'IMGPrompt ? Quels modèles d'IA art prend-il en charge ?",
+      "answer": "IMGPrompt est un éditeur de prompts pour les modèles texte vers image qui vous aide à composer des prompts en anglais via des étiquettes visuelles bilingues. Il prend en charge officiellement Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo et Kling (image et vidéo) ; les prompts générés fonctionnent également avec Stable Diffusion, DALL·E et tout modèle acceptant une syntaxe compatible."
+    },
+    "q2": {
+      "question": "Est-ce gratuit ? Dois-je m'inscrire ? Mes données sont-elles envoyées ?",
+      "answer": "Entièrement gratuit, aucune inscription ni connexion requise. Toute la composition et la saisie se déroulent localement dans votre navigateur : rien n'est envoyé à un serveur et il n'y a pas de base de données backend. Le projet est open source sur GitHub ; vous pouvez auditer le code ou l'auto-héberger."
+    },
+    "q3": {
+      "question": "Quelle longueur pour un prompt ? Y a-t-il une limite de caractères ?",
+      "answer": "Nous recommandons moins de 380 caractères : c'est l'ordre de grandeur de la limite de tokens de l'encodeur CLIP par défaut de Stable Diffusion, au-delà les tokens peuvent être tronqués ou affaiblis. L'outil affiche un compteur en direct. Midjourney, GPT-image-2 et Nano Banana sont plus souples, mais les prompts concis donnent souvent de meilleurs résultats."
+    },
+    "q4": {
+      "question": "Quelle est la différence entre prompts positifs et Negative Prompts ? Comment les utiliser ?",
+      "answer": "Les positifs décrivent ce qui doit apparaître (p. ex. masterpiece, best quality, detailed face) ; les négatifs, ce qu'il faut éviter (p. ex. lowres, blurry, bad anatomy, extra fingers). Le bouton « Negative » copie un ensemble courant de prompts négatifs dans le presse-papiers ; collez-le dans le champ Negative Prompt de votre modèle."
+    },
+    "q5": {
+      "question": "Comment traduire mes prompts vers l'anglais ?",
+      "answer": "Le panneau de droite intègre un bouton Translate : saisissez du texte dans n'importe quelle langue, cliquez sur Translate et l'outil appelle une API de traduction qui le convertit en anglais et l'ajoute à la zone du prompt. Idéal pour partir d'une phrase inspirante sans traduire mot à mot."
+    },
+    "q6": {
+      "question": "Comment ajuster les poids ? Pourquoi voit-on des parenthèses dans les prompts ?",
+      "answer": "Dans la syntaxe Stable Diffusion WebUI, (word) porte le poids à 1.1, ((word)) à 1.21, etc. Vous pouvez aussi écrire (word:1.3). Midjourney utilise la syntaxe ::2. IMGPrompt conserve les tokens anglais originaux afin que vous puissiez ajuster les poids selon les règles de votre modèle cible."
+    }
   }
 }

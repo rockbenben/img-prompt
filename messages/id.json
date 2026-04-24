@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - Generator Prompt Seni AI | Nano Banana/Midjourney/FLUX/SD/DALL·E",
-    "description": "Buat prompt seni AI menakjubkan dalam hitungan detik. Generator prompt terbaik untuk Midjourney, SD & FLUX. Mendukung smart tags. Coba sekarang!",
+    "title": "IMGPrompt - Generator Prompt Seni AI | Nano Banana/GPT-image-2/Midjourney/FLUX/Seedance/Veo/Kling",
+    "description": "Buat prompt AI untuk gambar dan video dalam hitungan detik. Mendukung Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, dan Kling. Tag visual, eksekusi lokal, tanpa login.",
     "ogTitle": "IMGPrompt - Buat Prompt Seni AI dengan Satu Klik",
-    "ogDescription": "Ucapkan selamat tinggal pada masalah prompt! Buat prompt profesional dengan smart tags. Mendukung Midjourney & SD. Coba gratis!",
+    "ogDescription": "Tidak perlu menghafal prompt lagi! Klik tag dwibahasa untuk membuat prompt profesional untuk gambar/video AI — Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, Kling. Gratis dan lokal.",
     "ogUrl": "https://prompt.newzone.top/app/id",
     "ogSiteName": "IMGPrompt",
     "ogLogo": "https://prompt.newzone.top/app/logo.png",
@@ -17,7 +17,9 @@
     "currentSelection": "Dipilih",
     "fallback-other": "Lainnya",
     "fallback-uncategorized": "Tak Berkategori",
-    "empty-selected-tags": "Tidak ada pilihan"
+    "empty-selected-tags": "Tidak ada pilihan",
+    "tagMode-multicolor": "Beragam Warna",
+    "tagMode-monochrome": "Satu Warna"
   },
   "ResultSection": {
     "tooltip-light": "Sisipkan prompt pencahayaan (pencahayaan film, senja, dll.)",
@@ -39,7 +41,13 @@
     "tooltip-randomColor": "Ganti warna secara acak",
     "button-randomcolor": "Ubah warna",
     "prompt-translation": "Terjemahan",
-    "label-auxiliary": "Pembantu"
+    "label-auxiliary": "Pembantu",
+    "confirm-clear": "Hapus prompt saat ini?",
+    "confirm-yes": "Ya",
+    "confirm-no": "Tidak",
+    "translating": "Menerjemahkan...",
+    "randomColor-success": "{count} kata warna telah diganti",
+    "randomColor-noMatch": "Tidak ada kata warna untuk diganti"
   },
   "CopyToClipboard": {
     "empty": "Konten kosong, tidak ada yang bisa disalin",
@@ -57,5 +65,66 @@
     "reaction3": "Apa?",
     "reaction4": "Membingungkan",
     "placeholder": "Silakan tinggalkan pesan, tidak perlu login (masukkan email Anda untuk menerima pemberitahuan balasan)"
+  },
+  "Home": {
+    "h1": "IMGPrompt · Pembuat Prompt Seni AI",
+    "tagline": "Tidak perlu menghafal prompt lagi. Klik tag visual untuk membuat prompt profesional untuk gambar/video AI — mendukung Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, Kling, dan lainnya."
+  },
+  "About": {
+    "title": "Tentang IMGPrompt",
+    "intro1": "IMGPrompt adalah pembuat prompt visual gratis dan open source untuk model AI gambar dan video, termasuk Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, dan Kling (juga kompatibel dengan sintaks Stable Diffusion dan DALL·E). Melalui pemilihan tag visual dengan label dwibahasa (Inggris + bahasa Anda), Anda dapat menyusun prompt Inggris berkualitas tinggi tanpa menghafal setiap kata kunci.",
+    "intro2": "Alat ini berjalan sepenuhnya di browser Anda — tanpa basis data backend, tanpa unggahan karya Anda. Tanpa pendaftaran, tanpa pembayaran, dan sepenuhnya open source untuk self-hosting atau audit. Tersedia juga klien desktop untuk Windows, macOS, dan Linux dengan semua fitur dapat digunakan secara offline."
+  },
+  "HowTo": {
+    "title": "Buat prompt profesional dalam tiga langkah",
+    "step1": {
+      "title": "Pilih subjek (Subject)",
+      "desc": "Pilih apa yang ingin digambarkan dari daftar subjek — orang, hewan, pemandangan, arsitektur, concept art, dsb. Langkah ini membatasi cakupan tag yang tersedia di langkah berikutnya."
+    },
+    "step2": {
+      "title": "Pilih kategori (Category)",
+      "desc": "Telusuri subkategori di bawah subjek, misalnya gaya rambut, pakaian, pose, atau ekspresi di bawah «orang». Kategori membantu Anda mencakup setiap dimensi prompt secara sistematis."
+    },
+    "step3": {
+      "title": "Pilih tag dan hasilkan (Tags)",
+      "desc": "Klik tag untuk memasukkannya ke kotak prompt; klik lagi untuk menghapus. Panel kanan merangkai hasil secara langsung — salin dengan satu klik, tambahkan penguat pencahayaan/kualitas, atau lampirkan prompt negatif sebelum mengekspor."
+    }
+  },
+  "Terminology": {
+    "title": "Terminologi prompt AI",
+    "prompt": "Prompt. Deskripsi bahasa alami dari gambar yang ingin Anda hasilkan — masukan utama model text-to-image.",
+    "negative": "Negative Prompt. Daftar elemen yang ingin dikecualikan dari gambar (lowres, blurry, bad hands, watermark, dsb.) untuk meningkatkan kualitas.",
+    "weight": "Weight (bobot). Mengatur penekanan kata kunci melalui tanda kurung atau nilai numerik; misalnya (masterpiece:1.2) membuat kata lebih berpengaruh — makin besar nilai, makin kuat efeknya.",
+    "sampler": "Sampler. Menentukan jalur model dari derau ke gambar; DPM++ 2M Karras, Euler a, dan UniPC adalah pilihan umum dengan trade-off kecepatan dan detail yang berbeda.",
+    "seed": "Seed. Mengendalikan keadaan acak awal; dengan seed tetap dan parameter lain tak berubah, prompt yang sama menghasilkan gambar yang sama — berguna untuk debug dan fine-tuning.",
+    "cfg": "CFG Scale (Classifier-Free Guidance). Nilai lebih tinggi membuat model lebih ketat mengikuti prompt. Rentang umum 7–12; terlalu tinggi menyebabkan over-fitting dan tampilan kaku.",
+    "style": "Style (gaya). Kata kunci yang menentukan arah artistik keseluruhan — anime, photorealistic, oil painting, cyberpunk — biasanya diletakkan di awal prompt."
+  },
+  "FAQ": {
+    "title": "Pertanyaan yang sering diajukan",
+    "q1": {
+      "question": "Apa itu IMGPrompt? Model seni AI mana saja yang didukung?",
+      "answer": "IMGPrompt adalah editor prompt untuk model text-to-image yang membantu menyusun prompt Inggris melalui tag visual berlabel dwibahasa. Secara resmi mendukung Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, dan Kling (gambar dan video); prompt yang dihasilkan juga berfungsi pada Stable Diffusion, DALL·E, dan model apa pun yang menerima sintaks kompatibel."
+    },
+    "q2": {
+      "question": "Gratiskah? Apakah perlu mendaftar? Apakah data diunggah?",
+      "answer": "Sepenuhnya gratis, tanpa pendaftaran atau login. Semua penyusunan dan masukan prompt diproses lokal di browser — tidak ada yang dikirim ke server dan tidak ada basis data backend. Proyek ini open source di GitHub; Anda dapat mengaudit kode atau meng-host sendiri."
+    },
+    "q3": {
+      "question": "Seberapa panjang sebaiknya prompt? Ada batas karakter?",
+      "answer": "Kami menyarankan di bawah 380 karakter — ini mendekati batas token encoder teks CLIP bawaan Stable Diffusion; di atasnya token dapat terpotong atau melemah. Alat menampilkan penghitung karakter langsung. Midjourney, GPT-image-2, dan Nano Banana lebih longgar soal panjang, tetapi prompt ringkas umumnya memberi hasil lebih baik."
+    },
+    "q4": {
+      "question": "Apa perbedaan prompt positif dan Negative Prompt? Bagaimana menggunakannya?",
+      "answer": "Prompt positif menggambarkan apa yang harus muncul (mis. masterpiece, best quality, detailed face); prompt negatif menggambarkan apa yang dihindari (mis. lowres, blurry, bad anatomy, extra fingers). Tombol «Negative» menyalin set prompt negatif umum ke clipboard — tempelkan ke kolom Negative Prompt model Anda."
+    },
+    "q5": {
+      "question": "Bagaimana menerjemahkan prompt dari bahasa saya ke bahasa Inggris?",
+      "answer": "Panel kanan menyediakan tombol Translate: masukkan teks dalam bahasa apa pun, klik Translate, lalu alat memanggil API terjemahan untuk mengubahnya ke bahasa Inggris dan menambahkannya ke akhir kotak prompt. Berguna untuk memulai dari kalimat inspirasi tanpa mencari tiap kata."
+    },
+    "q6": {
+      "question": "Bagaimana bobot bekerja? Mengapa ada tanda kurung () di prompt?",
+      "answer": "Dalam sintaks Stable Diffusion WebUI, (word) menaikkan bobot menjadi 1.1, ((word)) menjadi 1.21, dan seterusnya; Anda juga dapat menulis (word:1.3) untuk menyetelnya eksplisit. Midjourney menggunakan sintaks ::2. IMGPrompt mempertahankan token Inggris asli sehingga Anda dapat menyesuaikan bobot sesuai aturan model target."
+    }
   }
 }

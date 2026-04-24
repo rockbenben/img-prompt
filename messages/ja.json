@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - AIアートプロンプトジェネレーター | Nano Banana/Midjourney/FLUX/SD/DALL·E",
-    "description": "AIアートのプロンプト作成ならこれ！Midjourney/SD/FLUX対応。日本語入力でプロ級の呪文を生成。照明・画質補正もワンクリック。今すぐ試そう！",
+    "title": "IMGPrompt - AIアートプロンプトジェネレーター | Nano Banana/GPT-image-2/Midjourney/FLUX/Seedance/Veo/Kling",
+    "description": "AI 画像/動画のプロンプトはこれ一つ！Nano Banana/GPT-image-2/Midjourney/FLUX/Seedance/Veo/Kling 対応。日本語入力でプロ級プロンプトを瞬時に生成、ブラウザでローカル実行。",
     "ogTitle": "IMGPrompt - ワンクリックでAIアートプロンプトを生成",
-    "ogDescription": "プロンプトで悩みはもう終わり！Midjourney/SD/FLUX対応のプロンプト生成ツール。照明・画質補正搭載で、誰でもプロ級の作品に。今すぐ無料体験！",
+    "ogDescription": "プロンプト丸暗記はもう終わり！バイリンガルタグをクリックして AI 画像/動画のプロ級プロンプトを生成 — Nano Banana、GPT-image-2、Midjourney、FLUX、Seedance、Veo、Kling 対応。今すぐ無料で。",
     "ogUrl": "https://prompt.newzone.top/app/ja",
     "ogSiteName": "IMGPrompt",
     "ogLogo": "https://prompt.newzone.top/app/logo.png",
@@ -17,7 +17,9 @@
     "currentSelection": "選択済み",
     "fallback-other": "その他",
     "fallback-uncategorized": "未分類",
-    "empty-selected-tags": "未選択"
+    "empty-selected-tags": "未選択",
+    "tagMode-multicolor": "カラー",
+    "tagMode-monochrome": "モノクロ"
   },
   "ResultSection": {
     "tooltip-light": "ポートレート照明プロンプトを挿入（フィルム照明、夕暮れの光線など）",
@@ -39,7 +41,13 @@
     "tooltip-randomColor": "色ワードをランダム置換",
     "button-randomcolor": "色変更",
     "prompt-translation": "翻訳文",
-    "label-auxiliary": "補助"
+    "label-auxiliary": "補助",
+    "confirm-clear": "現在のプロンプトをクリアしますか？",
+    "confirm-yes": "はい",
+    "confirm-no": "いいえ",
+    "translating": "翻訳中…",
+    "randomColor-success": "{count} 件のカラーワードを置換しました",
+    "randomColor-noMatch": "置換するカラーワードがありません"
   },
   "CopyToClipboard": {
     "empty": "コンテンツが空なのでコピーするものがありません",
@@ -57,5 +65,66 @@
     "reaction3": "何？",
     "reaction4": "パズル",
     "placeholder": "メッセージを残してください。ログインは必要ありません（返信通知を受け取るにはメールアドレスを入力してください）"
+  },
+  "Home": {
+    "h1": "IMGPrompt · AI アートプロンプトジェネレーター",
+    "tagline": "プロンプト丸暗記はもう不要。ビジュアルタグをクリックして、AI 画像/動画のプロ級プロンプトを瞬時に生成 — Nano Banana、GPT-image-2、Midjourney、FLUX、Seedance、Veo、Kling などに対応。"
+  },
+  "About": {
+    "title": "IMGPrompt について",
+    "intro1": "IMGPrompt は、AI 画像・動画生成のためのビジュアルプロンプトビルダーです。無料・オープンソースで、Nano Banana、GPT-image-2、Midjourney、FLUX、Seedance、Veo、Kling などの主流モデルに公式対応（Stable Diffusion や DALL·E の互換文法にも対応）。英語とあなたの言語を並記したタグを視覚的に選択することで、キーワードをすべて暗記しなくても高品質な英語プロンプトを組み立てられます。",
+    "intro2": "ツールはブラウザ内でローカルに動作します。バックエンドデータベースはなく、あなたの作品内容もサーバーにアップロードされません。サインアップ不要、料金なし、完全オープンソースで自前ホスティングや監査も可能です。Windows、macOS、Linux 向けのデスクトップクライアントも提供しており、オフラインで全機能を利用できます。"
+  },
+  "HowTo": {
+    "title": "3 ステップでプロフェッショナルなプロンプトを生成",
+    "step1": {
+      "title": "主題（Subject）を選ぶ",
+      "desc": "描きたい対象カテゴリを左側の主題リストから選択します。人物、動物、風景、建築、コンセプトアートなど。このステップが後続のタグ候補の範囲を決定します。"
+    },
+    "step2": {
+      "title": "カテゴリ（Category）を選択",
+      "desc": "主題の下でサブカテゴリに絞り込みます。たとえば「人物」配下の髪型、服装、ポーズ、表情など。カテゴリはプロンプトのあらゆる側面を体系的に構築する手助けになります。"
+    },
+    "step3": {
+      "title": "タグを選んで生成（Tags）",
+      "desc": "タグをクリックするとプロンプト欄に挿入され、もう一度クリックすると削除されます。右側のパネルには結果がリアルタイムで組み立てられ、ワンクリックでコピー、ライティングや画質のブースター追加、ネガティブプロンプトを付けて書き出しが可能です。"
+    }
+  },
+  "Terminology": {
+    "title": "AI プロンプト用語",
+    "prompt": "Prompt（プロンプト）。生成したい画像を自然言語で表現したもので、テキストから画像を生成するモデルの中核的な入力です。",
+    "negative": "Negative Prompt（ネガティブプロンプト）。画像に含めたくない要素のリスト。lowres、blurry、bad hands、watermark など、生成品質の向上に使います。",
+    "weight": "Weight（重み）。括弧や数値でキーワードの強調度を調整します。例えば (masterpiece:1.2) はその語の影響を強めます。値が大きいほど効果が強くなります。",
+    "sampler": "Sampler（サンプラー）。モデルがノイズから画像へたどる経路を決めるアルゴリズムで、DPM++ 2M Karras、Euler a、UniPC などが代表的です。速度とディテールが変わります。",
+    "seed": "Seed（シード）。生成のランダム初期状態を制御します。シードと他のパラメータを固定すれば、同じプロンプトで同じ画像を再現でき、デバッグや微調整に便利です。",
+    "cfg": "CFG Scale（Classifier-Free Guidance）。値が高いほどモデルはプロンプトに忠実になります。典型的な値は 7〜12。高すぎると過適合になり、画面が硬直します。",
+    "style": "Style（画風）。anime、photorealistic、oil painting、cyberpunk など、全体的な芸術的方向性を示すキーワードで、通常プロンプトの先頭付近に置きます。"
+  },
+  "FAQ": {
+    "title": "よくある質問",
+    "q1": {
+      "question": "IMGPrompt は何ですか？どの AI 画像モデルに対応していますか？",
+      "answer": "IMGPrompt はテキストから画像を生成するモデル向けのプロンプトエディタで、英語と自国語を併記した視覚的なタグによって英語プロンプトを素早く組み立てられます。公式対応は Nano Banana、GPT-image-2、Midjourney、FLUX、Seedance、Veo、Kling（画像・動画）で、生成されたプロンプトは Stable Diffusion、DALL·E、その他互換文法を受け入れる任意のモデルでも使えます。"
+    },
+    "q2": {
+      "question": "無料ですか？サインアップは必要ですか？データはアップロードされますか？",
+      "answer": "完全無料でサインアップやログインは不要です。すべてのプロンプト構築と入力はブラウザ内でローカルに処理され、サーバーへはアップロードされません。バックエンドデータベースもありません。プロジェクトは GitHub にオープンソースで公開されており、コードの監査や自前ホスティングも可能です。"
+    },
+    "q3": {
+      "question": "プロンプトはどのくらいの長さが適切ですか？文字数制限はありますか？",
+      "answer": "380 文字以内を推奨します。これは Stable Diffusion の既定の CLIP テキストエンコーダーのトークン上限の目安で、超えると切り捨てや効果の弱まりが発生します。ツールには文字数カウンターがリアルタイム表示されます。Midjourney、GPT-image-2、Nano Banana はより寛容ですが、簡潔なプロンプトの方が良い結果を生むのが一般的です。"
+    },
+    "q4": {
+      "question": "ポジティブプロンプトと Negative Prompt の違いは？どう使いますか？",
+      "answer": "ポジティブは画像に入れたい要素（masterpiece、best quality、detailed face など）、ネガティブは避けたい要素（lowres、blurry、bad anatomy、extra fingers など）を記述します。「Negative」ボタンで汎用的なネガティブ語彙のセットをクリップボードにコピーし、モデルのネガティブプロンプト欄に貼り付けてください。"
+    },
+    "q5": {
+      "question": "自国語のプロンプトを英語に翻訳するには？",
+      "answer": "右側のパネルに翻訳ボタンがあります。任意言語のテキストを入力して「Translate」をクリックすると、翻訳 API が英語に変換してプロンプト欄の末尾に追加します。各単語を個別に調べなくても、発想を文として入力できて便利です。"
+    },
+    "q6": {
+      "question": "Weight（重み）はどう調整しますか？括弧 () はなぜ現れるのですか？",
+      "answer": "Stable Diffusion WebUI の文法では (word) で 1.1、((word)) で 1.21 と重みが上がり、 (word:1.3) のように数値で明示もできます。Midjourney は ::2 記法を使います。IMGPrompt は元の英語トークンをそのまま保持するので、使用するモデルのルールに合わせて重みを手動で微調整できます。"
+    }
   }
 }

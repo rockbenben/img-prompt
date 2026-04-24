@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - AI绘画提示词生成器 | Nano Banana/Midjourney/FLUX/SD/DALL·E 提示词助手",
-    "description": "AI绘画卡在提示词？IMGPrompt 一键生成 Midjourney/SD/FLUX 专业咒语。内置光效与画质模板，激发无限灵感，立即体验！",
+    "title": "IMGPrompt - AI绘画提示词生成器 | Nano Banana/GPT-image-2/Midjourney/FLUX/Seedance/Veo/Kling 提示词助手",
+    "description": "AI 图像/视频提示词卡壳？IMGPrompt 可视化点选，秒出 Nano Banana/GPT-image-2/Midjourney/FLUX/Seedance/Veo/Kling 专业咒语。浏览器本地运行，免登录。",
     "ogTitle": "IMGPrompt - 一键生成AI绘画提示词",
-    "ogDescription": "提示词救星来了！一键生成 Midjourney/SD/FLUX 专业咒语，内置光效与画质增强。让你的AI创作不再受限，立即免费试用！",
+    "ogDescription": "告别死背提示词！点选双语标签，秒出 Nano Banana/GPT-image-2/Midjourney/FLUX/Seedance/Veo/Kling 的 AI 图像/视频专业咒语。浏览器本地运行，免登录。",
     "ogUrl": "https://prompt.newzone.top/app/zh",
     "ogSiteName": "IMGPrompt",
     "ogLogo": "https://prompt.newzone.top/app/logo.png",
@@ -17,7 +17,9 @@
     "currentSelection": "已选",
     "fallback-other": "其他",
     "fallback-uncategorized": "未分类",
-    "empty-selected-tags": "暂无已选"
+    "empty-selected-tags": "暂无已选",
+    "tagMode-multicolor": "多彩",
+    "tagMode-monochrome": "单色"
   },
   "ResultSection": {
     "tooltip-light": "插入人像布光提示词（电影光效、暮光射线等）",
@@ -39,7 +41,13 @@
     "tooltip-randomColor": "随机替换颜色词",
     "button-randomcolor": "随机换色",
     "prompt-translation": "提示词译文",
-    "label-auxiliary": "辅助功能"
+    "label-auxiliary": "辅助功能",
+    "confirm-clear": "清空当前提示词？",
+    "confirm-yes": "是",
+    "confirm-no": "否",
+    "translating": "翻译中…",
+    "randomColor-success": "已替换 {count} 处颜色词",
+    "randomColor-noMatch": "没有可替换的颜色词"
   },
   "CopyToClipboard": {
     "empty": "内容为空，无需复制",
@@ -57,5 +65,66 @@
     "reaction3": "啥玩意",
     "reaction4": "看不懂",
     "placeholder": "请留言，无需登录（填写邮箱可获回复提醒）"
+  },
+  "Home": {
+    "h1": "IMGPrompt · AI 绘画提示词生成器",
+    "tagline": "告别死背提示词。点选可视化标签，秒出 AI 图像/视频专业提示词 —— 支持 Nano Banana、GPT-image-2、Midjourney、FLUX、Seedance、Veo、Kling 等主流模型。"
+  },
+  "About": {
+    "title": "关于 IMGPrompt",
+    "intro1": "IMGPrompt 是一款免费、开源的可视化提示词编辑器，覆盖 AI 图像与视频生成，官方适配 Nano Banana、GPT-image-2、Midjourney、FLUX、Seedance、Veo、Kling 等主流模型（也兼容 Stable Diffusion、DALL·E 等语法）。通过可视化的标签选择和中英双语显示，你可以快速组合出高质量的英文提示词，不必再死记硬背英文关键词。",
+    "intro2": "工具完全在浏览器本地运行，不依赖任何后端数据库，也不会把你的创作内容上传到服务器。无需注册、无需付费、开源可审。除网页版外还提供 Windows、macOS 和 Linux 桌面客户端，所有功能离线可用。"
+  },
+  "HowTo": {
+    "title": "三步生成专业提示词",
+    "step1": {
+      "title": "选择主体（Subject）",
+      "desc": "从左侧主体列表中选定你想绘制的对象类别，如人物、动物、风景、建筑、概念艺术等。这一步决定了后续可选标签的语义范围。"
+    },
+    "step2": {
+      "title": "确定类别（Category）",
+      "desc": "在主体下进一步选择子类别，例如人物下的发型、服装、姿势、表情。子类别帮助你系统化地构建提示词的各个维度。"
+    },
+    "step3": {
+      "title": "挑选标签并生成（Tags）",
+      "desc": "点击标签即可插入到提示词框，再次点击取消。右侧面板实时显示拼接结果，可一键复制、追加光效与画质增强词，或附加负面词后导出。"
+    }
+  },
+  "Terminology": {
+    "title": "AI 提示词术语",
+    "prompt": "提示词。用自然语言描述你想生成的图像内容，是文生图模型的核心输入。",
+    "negative": "负面提示词。列出你不希望出现在图像中的元素，例如 lowres、blurry、bad hands、watermark，用于提升生成质量。",
+    "weight": "权重。通过括号或数值调整关键词的强弱，例如 (masterpiece:1.2) 会让该词在生成中更具影响力，数值越大影响越强。",
+    "sampler": "采样器。决定模型从噪声到图像的采样路径，常见的有 DPM++ 2M Karras、Euler a、UniPC 等，不同采样器影响速度和细节。",
+    "seed": "种子。控制生成的随机初始状态，固定 seed 且其他参数不变时，同一条 prompt 可复现出相同的图像，便于调试和微调。",
+    "cfg": "CFG Scale（无分类器引导系数）。数值越高模型越严格遵循你的 prompt，典型取值 7–12，过高会导致过拟合、画面僵硬。",
+    "style": "画风。描述整体艺术风格的关键词，例如 anime、photorealistic、oil painting、cyberpunk，通常放在 prompt 靠前位置。"
+  },
+  "FAQ": {
+    "title": "常见问题",
+    "q1": {
+      "question": "IMGPrompt 是什么？支持哪些 AI 绘画模型？",
+      "answer": "IMGPrompt 是一款专为文生图模型打造的提示词编辑器，通过可视化的标签和中英双语显示帮助你快速组合出英文提示词。官方适配 Nano Banana、GPT-image-2、Midjourney、FLUX、Seedance、Veo、Kling 等主流图像/视频模型；生成的 prompt 也兼容 Stable Diffusion、DALL·E 以及其他接受兼容语法的模型。"
+    },
+    "q2": {
+      "question": "需要登录或付费吗？数据会上传到服务器吗？",
+      "answer": "完全免费，无需注册或登录。所有提示词组合和输入内容都在浏览器本地处理，不会上传到任何服务器，也不依赖后端数据库。项目在 GitHub 开源，可自行审计代码或自部署。"
+    },
+    "q3": {
+      "question": "提示词应该写多长？有字符限制吗？",
+      "answer": "建议控制在 380 个字符以内，这是 Stable Diffusion 原生 CLIP 文本编码器的 token 近似上限；超过部分可能被截断或效果减弱。工具内置字符统计会在实时显示长度。Midjourney、GPT-image-2、Nano Banana 等对长度更宽容，但精炼的 prompt 通常效果更好。"
+    },
+    "q4": {
+      "question": "正向词和负面词（Negative Prompt）有什么区别？怎么用？",
+      "answer": "正向词描述你希望画面出现的元素，例如 masterpiece、best quality、detailed face；负面词描述你希望避免的元素，例如 lowres、blurry、bad anatomy、extra fingers。工具顶部的「负面词」按钮可一键复制一组常用负面词到剪贴板，粘贴到 Negative Prompt 输入框即可。"
+    },
+    "q5": {
+      "question": "如何把中文提示词翻译成英文？",
+      "answer": "右侧面板提供翻译按钮：输入任意语言的文字，点击「翻译」后会自动调用翻译 API 转成英文并插入到 prompt 框末尾。适合从灵感句子起步时使用，不需要先自己逐词查单词。"
+    },
+    "q6": {
+      "question": "权重（Weight）怎么调？为什么有时看到括号 ()？",
+      "answer": "在 Stable Diffusion WebUI 语法中，用 (word) 会让该词权重变为 1.1，((word)) 为 1.21，依此类推；也可以直接写 (word:1.3) 精确指定。Midjourney 使用 ::2 语法表达权重。工具导出的 prompt 保留原始英文，便于你按目标模型的规则手动微调权重。"
+    }
   }
 }

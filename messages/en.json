@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - AI Art Prompt Generator | Nano Banana, Midjourney, FLUX, SD, DALL·E Prompt Builder",
-    "description": "Create stunning AI art prompts in seconds. The ultimate prompt generator for Midjourney, Stable Diffusion & FLUX. Supports smart tags & lighting presets. Start creating now!",
+    "title": "IMGPrompt - AI Art Prompt Generator | Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, Kling",
+    "description": "Create pro AI image & video prompts in seconds. Visual tag builder for Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, Kling. Free, local, no login required.",
     "ogTitle": "IMGPrompt - Generate AI Art Prompts in One Click",
-    "ogDescription": "Stop struggling with prompts! Create professional AI art prompts with smart tags & lighting presets. Support for Midjourney, SD, FLUX & DALL·E. Try it free!",
+    "ogDescription": "Stop cramming prompts! Click bilingual tags to build pro prompts for AI image & video — Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, Kling. Free, local, no login.",
     "ogUrl": "https://prompt.newzone.top/app/en",
     "ogSiteName": "IMGPrompt",
     "ogLogo": "https://prompt.newzone.top/app/logo.png",
@@ -17,7 +17,9 @@
     "currentSelection": "Selected",
     "fallback-other": "Other",
     "fallback-uncategorized": "Uncategorized",
-    "empty-selected-tags": "No selection"
+    "empty-selected-tags": "No selection",
+    "tagMode-multicolor": "Multicolor",
+    "tagMode-monochrome": "Monochrome"
   },
   "ResultSection": {
     "tooltip-light": "Insert portrait lighting prompts (film lighting, twilight rays, etc.)",
@@ -39,7 +41,13 @@
     "tooltip-randomColor": "Randomly replace color words",
     "button-randomcolor": "Randomize",
     "prompt-translation": "Translation",
-    "label-auxiliary": "Auxiliary"
+    "label-auxiliary": "Auxiliary",
+    "confirm-clear": "Clear current prompt?",
+    "confirm-yes": "Yes",
+    "confirm-no": "No",
+    "translating": "Translating...",
+    "randomColor-success": "Replaced {count} color word(s)",
+    "randomColor-noMatch": "No color words to replace"
   },
   "CopyToClipboard": {
     "empty": "Content is empty, nothing to copy",
@@ -57,5 +65,66 @@
     "reaction3": "What?",
     "reaction4": "Puzzle",
     "placeholder": "Please leave a message, no login required (enter your email to receive reply notifications)"
+  },
+  "Home": {
+    "h1": "IMGPrompt · AI Art Prompt Generator",
+    "tagline": "Stop cramming prompts. Click visual tags to build pro prompts for AI image and video — Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, Kling, and more."
+  },
+  "About": {
+    "title": "About IMGPrompt",
+    "intro1": "IMGPrompt is a free, open-source visual prompt builder for AI image and video models, including Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, and Kling (plus Stable Diffusion and DALL·E via compatible syntax). Through visual tag selection with bilingual (English + your language) labels, you can assemble high-quality English prompts without memorizing every keyword.",
+    "intro2": "The tool runs entirely in your browser — no backend database, no uploads of your creative work. No signup, no payment, and fully open-source for self-hosting or auditing. Desktop clients for Windows, macOS, and Linux are also available, with full offline capability."
+  },
+  "HowTo": {
+    "title": "Generate Professional Prompts in Three Steps",
+    "step1": {
+      "title": "Pick a Subject",
+      "desc": "Choose what you want to depict from the subject list — people, animals, landscapes, architecture, concept art, and so on. This scopes the tags available in the following steps."
+    },
+    "step2": {
+      "title": "Select a Category",
+      "desc": "Drill down into a sub-category under your subject, e.g. hairstyles, clothing, poses, or expressions under \"people\". Categories help you cover every dimension of your prompt systematically."
+    },
+    "step3": {
+      "title": "Choose Tags and Generate",
+      "desc": "Click a tag to insert it into the prompt box; click again to remove. The right panel assembles the result live — copy with one click, append lighting or quality boosters, or add negative prompts before exporting."
+    }
+  },
+  "Terminology": {
+    "title": "AI Prompt Terminology",
+    "prompt": "Prompt. A natural-language description of the image you want to generate — the core input for text-to-image models.",
+    "negative": "Negative Prompt. A list of elements you want to exclude from the image, such as lowres, blurry, bad hands, or watermark, used to improve output quality.",
+    "weight": "Weight. Adjusts keyword emphasis using parentheses or numeric values, e.g. (masterpiece:1.2) makes the word more influential; higher values mean stronger effect.",
+    "sampler": "Sampler. Determines the path the model takes from noise to image — common choices include DPM++ 2M Karras, Euler a, and UniPC, each with different speed and detail trade-offs.",
+    "seed": "Seed. Controls the random starting state; with a fixed seed and unchanged parameters, the same prompt reproduces the same image — useful for debugging and fine-tuning.",
+    "cfg": "CFG Scale (Classifier-Free Guidance). Higher values make the model follow your prompt more strictly; typical range is 7–12. Too high causes over-fitting and a stiff, posterized look.",
+    "style": "Style. Keywords describing overall artistic direction — anime, photorealistic, oil painting, cyberpunk — usually placed near the start of the prompt."
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "q1": {
+      "question": "What is IMGPrompt? Which AI art models does it support?",
+      "answer": "IMGPrompt is a prompt editor for text-to-image models that helps you compose English prompts through visual tags with bilingual labels. It officially supports Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, and Kling for image and video; the generated prompts also work with Stable Diffusion, DALL·E, and any model that accepts compatible syntax."
+    },
+    "q2": {
+      "question": "Is it free? Do I need to sign up? Is my data uploaded?",
+      "answer": "Completely free, no registration or login required. All prompt composition and input happens locally in your browser — nothing is uploaded to any server, and there is no backend database. The project is open-source on GitHub; you can audit the code or self-host."
+    },
+    "q3": {
+      "question": "How long should a prompt be? Is there a character limit?",
+      "answer": "We recommend staying under 380 characters — this approximates the token limit of Stable Diffusion's default CLIP text encoder, beyond which tokens may be truncated or weakened. The tool shows a live character counter. Midjourney, GPT-image-2, and Nano Banana are more lenient on length, but concise prompts generally produce better results."
+    },
+    "q4": {
+      "question": "What is the difference between positive and Negative Prompts? How do I use them?",
+      "answer": "Positive prompts describe what should appear (e.g. masterpiece, best quality, detailed face); negative prompts describe what to avoid (e.g. lowres, blurry, bad anatomy, extra fingers). The \"Negative\" button copies a curated set of common negative prompts to your clipboard — paste it into your model's Negative Prompt field."
+    },
+    "q5": {
+      "question": "How do I translate prompts from my language into English?",
+      "answer": "The right panel includes a Translate button: enter text in any language, click Translate, and the tool calls a translation API to convert it to English and append it to the prompt box. Handy for starting from an inspirational sentence instead of looking up each word."
+    },
+    "q6": {
+      "question": "How do weights work? Why do I see parentheses in prompts?",
+      "answer": "In Stable Diffusion WebUI syntax, (word) raises the weight to 1.1, ((word)) to 1.21, and so on; you can also write (word:1.3) to set it explicitly. Midjourney uses ::2 syntax for weights. IMGPrompt preserves the original English tokens so you can fine-tune weights per your target model's rules."
+    }
   }
 }
