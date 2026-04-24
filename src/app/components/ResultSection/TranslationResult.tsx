@@ -1,23 +1,46 @@
 import { FC } from "react";
-import { Input, Typography } from "antd";
+import { Collapse, Flex, Input, Spin, Typography } from "antd";
 
 const { Text } = Typography;
 
 interface TranslationResultProps {
   translatedText: string;
   isVisible: boolean;
+  isTranslating?: boolean;
   t: (key: string) => string;
 }
 
-export const TranslationResult: FC<TranslationResultProps> = ({ translatedText, isVisible, t }) => {
-  if (!isVisible || !translatedText) return null;
+export const TranslationResult: FC<TranslationResultProps> = ({ translatedText, isVisible, isTranslating, t }) => {
+  // 翻译中也要显示容器，给用户进度反馈；翻译完且无文本才隐藏
+  if (!isVisible || (!translatedText && !isTranslating)) return null;
+
+  const label = (
+    <Flex align="center" gap={6}>
+      {t("prompt-translation")}
+      {isTranslating && (
+        <>
+          <Spin size="small" />
+          <Text type="secondary" style={{ fontSize: 12 }}>
+            {t("translating")}
+          </Text>
+        </>
+      )}
+    </Flex>
+  );
 
   return (
-    <div style={{ marginTop: 16 }}>
-      <Text type="secondary" style={{ display: "block", marginBottom: 4, fontSize: 12 }}>
-        {t("prompt-translation")}
-      </Text>
-      <Input.TextArea value={translatedText} readOnly rows={4} variant="filled" aria-label={t("prompt-translation")} />
-    </div>
+    <Collapse
+      ghost
+      size="small"
+      defaultActiveKey={["translation"]}
+      style={{ marginTop: 8 }}
+      items={[
+        {
+          key: "translation",
+          label,
+          children: <Input.TextArea value={translatedText} readOnly autoSize={{ minRows: 3, maxRows: 8 }} aria-label={t("prompt-translation")} />,
+        },
+      ]}
+    />
   );
 };

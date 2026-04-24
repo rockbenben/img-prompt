@@ -16,10 +16,10 @@ export const TagSuggestions: FC<TagSuggestionsProps> = ({ suggestedTags, exactMa
   if (!exactMatchTag && suggestedTags.length === 0) return null;
 
   return (
-    <Flex gap="4px 4px" wrap>
+    <Flex gap="4px 4px" wrap style={{ marginTop: 4 }}>
       {exactMatchTag && (
         <Tooltip title={exactMatchTag.langName !== exactMatchTag.displayName ? `${exactMatchTag.langName} - ${exactMatchTag.displayName}` : exactMatchTag.displayName}>
-          <Tag icon={<CheckCircleOutlined />} color="success" className="cursor-pointer" onClick={() => onTagClick(exactMatchTag)}>
+          <Tag icon={<CheckCircleOutlined />} color="green" className="cursor-pointer" onClick={() => onTagClick(exactMatchTag)}>
             <Text type="secondary" ellipsis style={{ maxWidth: 80, display: "inline-block", verticalAlign: "bottom" }}>
               {exactMatchTag.langName}
             </Text>
@@ -33,7 +33,7 @@ export const TagSuggestions: FC<TagSuggestionsProps> = ({ suggestedTags, exactMa
         const tagLangName = normalizeString(tag.langName) !== normalizeString(tag.displayName) ? tag.langName : "";
         return (
           <Tooltip key={index} title={tagLangName ? `${tagLangName} - ${tag.displayName}` : tag.displayName}>
-            <Tag color="processing" className="cursor-pointer" onClick={() => onTagClick(tag)}>
+            <Tag color="blue" className="cursor-pointer" onClick={() => onTagClick(tag)}>
               {tagLangName && (
                 <Text type="secondary" ellipsis style={{ maxWidth: 80, display: "inline-block", verticalAlign: "bottom" }}>
                   {tagLangName}

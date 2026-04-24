@@ -66,36 +66,49 @@ export function usePromptLogic({ selectedTags, setSelectedTags, tagsData }: UseP
     }
   }, [selectedTags, isComposing]);
 
-  // Auto Translate Logic (Debounced)
+  // Auto Translate Logic (Debounced + canceled-flag race protection + sync clear)
   useEffect(() => {
     const normalizedText = normalizeForTranslation(resultText);
-    if (!normalizedText || normalizedText === lastTranslatedSource.current) return;
+
+    // d) sync clear: 文本空了立即清空翻译，不等 debounce
+    if (!normalizedText) {
+      setTranslatedText("");
+      lastTranslatedSource.current = "";
+      return;
+    }
+
+    if (normalizedText === lastTranslatedSource.current) return;
 
     if (locale === "en") {
       setTranslatedText(resultText);
       return;
     }
 
-    const timeoutId = setTimeout(async () => {
-      if (!resultText.trim()) {
-        setTranslatedText("");
-        return;
-      }
+    let canceled = false; // b) race protection
 
+    // a) debounce 5000 → 1500
+    const timeoutId = setTimeout(async () => {
       try {
         setIsTranslating(true);
-        const translated = await translateText(resultText, "en", locale);
+        // sourceLanguage="auto" 让翻译 API 自检测（与手动翻译按钮逻辑一致）
+        // 否则用户在 prompt 里输日/韩/中等非英文，硬指定 source="en" 会导致 API 返回原文
+        const translated = await translateText(resultText, "auto", locale);
+        if (canceled) return;
         setTranslatedText(translated);
         lastTranslatedSource.current = normalizeForTranslation(resultText);
       } catch (error) {
+        if (canceled) return;
         console.warn("自动翻译失败:", error);
         setTranslatedText("");
       } finally {
-        setIsTranslating(false);
+        if (!canceled) setIsTranslating(false);
       }
-    }, 5000);
+    }, 1500);
 
-    return () => clearTimeout(timeoutId);
+    return () => {
+      canceled = true;
+      clearTimeout(timeoutId);
+    };
   }, [resultText, locale]);
 
   // Tag Suggestion Logic
@@ -166,7 +179,7 @@ export function usePromptLogic({ selectedTags, setSelectedTags, tagsData }: UseP
   );
 
   const handleBlur = useCallback(() => {
-    let replacedText = resultText
+    const replacedText = resultText
       .replace(/，/g, ", ")
       .replace(/\s+,\s*/g, ", ")
       .replace(/\s+/g, " ");
@@ -245,22 +258,20 @@ export function usePromptLogic({ selectedTags, setSelectedTags, tagsData }: UseP
     const combinedColorRegex = new RegExp(`\\b(${colorArray.join("|")})\\b`, "gi");
     const matches = updatedText.match(combinedColorRegex);
     if (matches && matches.length > 0) {
-      updatedText = updatedText.replace(combinedColorRegex, (match) => {
-        const newColor = getRandomColor();
-        return newColor;
-      });
+      updatedText = updatedText.replace(combinedColorRegex, () => getRandomColor());
       setResultText(updatedText);
-      message.success(`Successfully replaced ${matches.length} color matches.`);
+      message.success(t("randomColor-success", { count: matches.length }));
     } else {
-      message.info("No color matches found to replace.");
+      message.info(t("randomColor-noMatch"));
     }
-  }, [resultText, message]);
+  }, [resultText, message, t]);
 
   // Manual Translate Logic
   const [inputText, setInputText] = useState("");
 
   const handleTranslate = useCallback(async () => {
     try {
+      setIsTranslating(true);
       const translatedText = await translateText(inputText, "auto", "en");
       if (translatedText.trim()) {
         handleConstantText(translatedText, "translateSuccess");
@@ -268,8 +279,10 @@ export function usePromptLogic({ selectedTags, setSelectedTags, tagsData }: UseP
       } else {
         message.error(t("translateEmptyError"));
       }
-    } catch (error) {
+    } catch {
       message.error(t("translateFailError"));
+    } finally {
+      setIsTranslating(false);
     }
   }, [inputText, t, handleConstantText, message]);
 

@@ -1,5 +1,6 @@
 import { FC } from "react";
-import { Button, Input, Tooltip, Tag, Flex, Card, Divider, Space, Typography } from "antd";
+import { Button, Input, Tooltip, Flex, Card, Space } from "antd";
+import { BgColorsOutlined } from "@ant-design/icons";
 import { useLocale } from "next-intl";
 import { CONSTANT_BUTTONS, NEGATIVE_TEXT } from "@/app/data/constants";
 import { useCopyToClipboard } from "@/app/hooks/useCopyToClipboard";
@@ -8,8 +9,6 @@ import { usePromptLogic } from "./usePromptLogic";
 import { PromptInput } from "./PromptInput";
 import { TagSuggestions } from "./TagSuggestions";
 import { TranslationResult } from "./TranslationResult";
-
-const { Text } = Typography;
 
 interface ResultSectionProps {
   selectedTags: TagItem[];
@@ -23,12 +22,10 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
 
   const {
     resultText,
-    setResultText, // Exposed mostly for manual overrides if needed, but logic handles it
     translatedText,
-    // isTranslating, unused in UI currently but available
+    isTranslating,
     suggestedTags,
     exactMatchTag,
-    // isComposing, Internal
     setIsComposing,
     handleResultTextChange,
     handleBlur,
@@ -42,25 +39,23 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
     handleTranslate,
   } = usePromptLogic(props);
 
-  return (
-    <Card variant="borderless" styles={{ body: { padding: 16 } }}>
-      {/* Template prompts */}
-      <Flex gap="4px 8px" wrap align="center" style={{ marginBottom: 8 }}>
-        {CONSTANT_BUTTONS.map(({ text, tooltipKey, promptKey }) => (
-          <Tooltip key={tooltipKey} title={t(tooltipKey)}>
-            <Tag color="blue" className="cursor-pointer" onClick={() => handleConstantText(text, "insertSuccess")} style={{ margin: 0 }}>
-              {t(promptKey)}
-            </Tag>
-          </Tooltip>
-        ))}
-        <Tooltip title={t("tooltip-negative")}>
-          <Tag color="default" className="cursor-pointer" onClick={() => copyToClipboard(NEGATIVE_TEXT, t("prompt-negative"))} style={{ margin: 0 }}>
-            {t("prompt-negative")}
-          </Tag>
-        </Tooltip>
-      </Flex>
+  const templateActions = CONSTANT_BUTTONS.map(({ text, tooltipKey, promptKey }) => ({
+    key: promptKey,
+    label: t(promptKey),
+    tooltip: t(tooltipKey),
+    onClick: () => handleConstantText(text, "insertSuccess"),
+  }));
 
-      {/* Main Prompt Input */}
+  const negativeAction = {
+    key: "negative",
+    label: t("prompt-negative"),
+    tooltip: t("tooltip-negative"),
+    onClick: () => copyToClipboard(NEGATIVE_TEXT, t("prompt-negative")),
+  };
+
+  return (
+    <Card variant="outlined" styles={{ body: { padding: 16 } }}>
+      {/* Main Prompt Input + inline template actions + negative row */}
       <PromptInput
         value={resultText}
         onChange={handleResultTextChange}
@@ -69,42 +64,36 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
         onCompositionEnd={() => setIsComposing(false)}
         onCopy={() => copyToClipboard(resultText, t("prompt"))}
         onClear={handleClear}
+        templateActions={templateActions}
+        negativeAction={negativeAction}
         t={t}
       />
 
       {/* Tag Suggestions */}
       <TagSuggestions suggestedTags={suggestedTags} exactMatchTag={exactMatchTag} onTagClick={handleSuggestTagClick} />
 
-      <Divider style={{ margin: "12px 0" }} />
-
-      {/* Manual Translation Input */}
-      <Tooltip title={t("tooltip-translate")}>
-        <Space.Compact className="w-full" size="small">
+      {/* Manual Translation Input + inline aux (Random Color) */}
+      <Flex gap={6} align="center" style={{ marginTop: 12 }}>
+        <Space.Compact size="small" style={{ flex: 1, minWidth: 0 }}>
           <Input
             value={inputText}
             onChange={(e: React.ChangeEvent<HTMLInputElement>) => setInputText(e.target.value)}
             onPressEnter={handleTranslate}
             placeholder={t("tooltip-translate")}
             aria-label={t("tooltip-translate")}
+            disabled={isTranslating}
           />
-          <Button onClick={handleTranslate}>{t("button-translate")}</Button>
+          <Button onClick={handleTranslate} loading={isTranslating}>
+            {t("button-translate")}
+          </Button>
         </Space.Compact>
-      </Tooltip>
-
-      {/* Auxiliary Actions */}
-      <Flex align="center" gap="4px 8px" wrap style={{ marginTop: 8 }}>
-        <Text type="secondary" style={{ fontSize: 12, whiteSpace: "nowrap" }}>
-          {t("label-auxiliary")}
-        </Text>
         <Tooltip title={t("tooltip-randomColor")}>
-          <Tag className="cursor-pointer" onClick={handleColorReplace} style={{ margin: 0 }}>
-            {t("button-randomcolor")}
-          </Tag>
+          <Button size="small" icon={<BgColorsOutlined />} onClick={handleColorReplace} aria-label={t("button-randomcolor")} />
         </Tooltip>
       </Flex>
 
       {/* Logic-based Translation Result */}
-      <TranslationResult translatedText={translatedText} isVisible={locale !== "en"} t={t} />
+      <TranslationResult translatedText={translatedText} isTranslating={isTranslating} isVisible={locale !== "en"} t={t} />
     </Card>
   );
 };
