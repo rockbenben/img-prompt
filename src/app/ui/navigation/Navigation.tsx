@@ -21,10 +21,11 @@ export function Navigation() {
   const { resolvedTheme, setTheme } = useTheme();
   const locale = useLocale();
 
-  // mounted 状态用于主题图标的 hydration 安全渲染
+  // mounted 状态用于主题图标的 hydration 安全渲染（next-themes 推荐模式）
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setMounted(true);
   }, []);
 

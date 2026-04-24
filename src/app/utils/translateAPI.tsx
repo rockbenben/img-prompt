@@ -34,7 +34,7 @@ const translateWithYoudao = async (text: string, sourceLanguage: string, targetL
     }
 
     if (data.translation && data.translation.length > 0) {
-      let result = data.translation[0];
+      const result = data.translation[0];
       return result.trim();
     }
 
@@ -68,7 +68,7 @@ const translateWithMyMemory = async (text: string, sourceLanguage: string, targe
   };
 
   let from = langMap[sourceLanguage] || sourceLanguage;
-  let to = langMap[targetLanguage] || targetLanguage;
+  const to = langMap[targetLanguage] || targetLanguage;
 
   // MyMemory不支持auto，如果是auto或未知语言，尝试检测语言
   if (from === "auto" || !langMap[sourceLanguage]) {
@@ -101,17 +101,16 @@ const translateWithMyMemory = async (text: string, sourceLanguage: string, targe
 };
 
 // Google翻译（内地可能不稳定）
+type GoogleTranslationPart = [string, string, ...unknown[]];
+type GoogleTranslationResponse = [GoogleTranslationPart[], ...unknown[]];
+
 const translateWithGoogle = async (text: string, sourceLanguage: string, targetLanguage: string) => {
   const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sourceLanguage}&tl=${targetLanguage}&dt=t&q=${encodeURIComponent(text)}`;
 
-  try {
-    const response = await fetch(url);
-    if (!response.ok) throw new Error("Google API failed");
-    const data = await response.json();
-    return data[0].map((part: any) => part[0]).join("");
-  } catch (error) {
-    throw error;
-  }
+  const response = await fetch(url);
+  if (!response.ok) throw new Error("Google API failed");
+  const data = (await response.json()) as GoogleTranslationResponse;
+  return data[0].map((part) => part[0]).join("");
 };
 
 // 主翻译函数 - 支持多服务自动切换
@@ -135,13 +134,10 @@ export const translateText = async (text: string, sourceLanguage: string, target
   // 依次尝试每个翻译服务
   for (const service of translationServices) {
     try {
-      console.log(`尝试使用 ${service.name} 翻译服务...`);
       const result = await service.fn(trimmedText, sourceLanguage, targetLanguage);
-      console.log(`${service.name} 翻译成功`);
       return result;
     } catch (error) {
-      console.warn(`${service.name} 翻译失败:`, error);
-      lastError = error as Error;
+      lastError = error instanceof Error ? error : new Error(String(error));
       continue;
     }
   }
