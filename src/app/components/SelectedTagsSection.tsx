@@ -1,5 +1,5 @@
 import React, { FC, useMemo } from "react";
-import { Tag, Typography, Space, Collapse, CollapseProps } from "antd";
+import { Tag, Typography, Space } from "antd";
 import { normalizeString } from "@/app/utils/normalizeString";
 import { useTranslations } from "next-intl";
 import { TagItem } from "./types";
@@ -30,55 +30,59 @@ const SelectedTagsSection: FC<SelectedTagsSectionProps> = ({ selectedTags = [], 
     }, {});
   }, [selectedTags, t]);
 
-  // Get all keys to keep all panels expanded
-  const allKeys = Object.keys(tagsByObjectAndAttribute);
+  return (
+    <Space orientation="vertical" size="small" style={{ width: "100%", marginTop: 8 }}>
+      {Object.entries(tagsByObjectAndAttribute).map(([object, tagsByAttribute]) => (
+        <div key={object}>
+          <Text strong>
+            {object} ({Object.values(tagsByAttribute).flat().length})
+          </Text>
+          <Space orientation="vertical" size="small" style={{ width: "100%", marginTop: 4 }}>
+            {Object.entries(tagsByAttribute).map(([attribute, tags]) => (
+              <div key={attribute}>
+                <Text type="secondary" style={{ marginRight: 8 }}>
+                  {attribute}:
+                </Text>
+                <Space size={[4, 4]} wrap>
+                  {tags.map((tag) => {
+                    const tagLangName = normalizeString(tag.langName) !== normalizeString(tag.displayName) ? tag.langName : "";
 
-  const items: CollapseProps["items"] = Object.entries(tagsByObjectAndAttribute).map(([object, tagsByAttribute]) => ({
-    key: object,
-    label: (
-      <Text strong>
-        {object} ({Object.values(tagsByAttribute).flat().length})
-      </Text>
-    ),
-    children: (
-      <Space orientation="vertical" size="small" style={{ width: "100%" }}>
-        {Object.entries(tagsByAttribute).map(([attribute, tags]) => (
-          <div key={attribute}>
-            <Text type="secondary" style={{ marginRight: 8 }}>
-              {attribute}:
-            </Text>
-            <Space size={[4, 4]} wrap>
-              {tags.map((tag) => {
-                const tagDisplayName = tag.displayName.length > 20 ? `${tag.displayName.slice(0, 20)}...` : tag.displayName;
-                const tagLangName = normalizeString(tag.langName) !== normalizeString(tag.displayName) ? tag.langName : "";
-
-                return (
-                  <Tag
-                    key={tag.displayName}
-                    closable
-                    onClose={(e) => {
-                      e.preventDefault();
-                      onTagClick(tag);
-                    }}
-                    color="blue">
-                    {tagDisplayName}
-                    {tagLangName && (
-                      <Text type="secondary" style={{ marginLeft: 4, fontSize: 12 }}>
-                        {tagLangName}
-                      </Text>
-                    )}
-                  </Tag>
-                );
-              })}
-            </Space>
-          </div>
-        ))}
-      </Space>
-    ),
-  }));
-
-  // Use activeKey (controlled) instead of defaultActiveKey to ensure all panels stay expanded
-  return <Collapse size="small" activeKey={allKeys} items={items} style={{ marginTop: 8 }} />;
+                    return (
+                      <Tag
+                        key={tag.displayName}
+                        closable
+                        onClose={(e) => {
+                          e.preventDefault();
+                          onTagClick(tag);
+                        }}
+                        color="blue">
+                        <span
+                          style={{
+                            display: "inline-block",
+                            maxWidth: 160,
+                            overflow: "hidden",
+                            textOverflow: "ellipsis",
+                            whiteSpace: "nowrap",
+                            verticalAlign: "bottom",
+                          }}>
+                          {tag.displayName}
+                        </span>
+                        {tagLangName && (
+                          <Text type="secondary" style={{ marginLeft: 4, fontSize: 12 }}>
+                            {tagLangName}
+                          </Text>
+                        )}
+                      </Tag>
+                    );
+                  })}
+                </Space>
+              </div>
+            ))}
+          </Space>
+        </div>
+      ))}
+    </Space>
+  );
 };
 
 export default SelectedTagsSection;
