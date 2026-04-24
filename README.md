@@ -1,3 +1,7 @@
+<p align="right">
+<a href="./README.md">English</a> · <a href="./README.zh.md">简体中文</a>
+</p>
+
 <h1 align="center">
 ⚡️IMGPrompt
 </h1>
@@ -13,7 +17,7 @@
 
 <p align="center">
 <a href="https://prompt.newzone.top/app/en">English</a> |
-<a href="https://prompt.newzone.top/app/zh">中文</a> |  
+<a href="https://prompt.newzone.top/app/zh">中文</a> |
 <a href="https://prompt.newzone.top/app/zh-hant">繁体中文</a> |
 <a href="https://prompt.newzone.top/app/pt">Português</a> |
 <a href="https://prompt.newzone.top/app/it">Italiano</a> |
@@ -58,60 +62,117 @@
 
 # Introduction
 
-**IMGPrompt** is an AI prompt generator designed to bridge the language gap for non-native English speakers. It helps you seamlessly create professional prompts for **Nano Banana**, **Midjourney**, **FLUX**, **Stable Diffusion**, **DALL·E**, and **Sora**.
+**IMGPrompt** is an AI image/video prompt editor for non-native English speakers. It turns native-language clicks into clean English prompts ready for **GPT-Image-2**, **Nano Banana**, **Midjourney**, **FLUX**, **Seedance**, **Veo**, and **Kling** (also compatible with Stable Diffusion and DALL·E syntax).
 
-The core power of IMGPrompt lies in its **massive library of over 5000+ image prompts**. You don't need to struggle with English vocabulary—simply browse and select keywords in your native language (Chinese, Hindi, Spanish, etc.), and the system automatically constructs the perfect English prompt for your AI art.
+The core power of IMGPrompt lies in its **5000+ curated prompt library**. Forget wrestling with English vocabulary — browse and click keywords in your own language (Chinese, Hindi, Spanish, and 15 more), and the app assembles the precise English prompt AI models actually understand.
 
 [Experience IMGPrompt now - Make AI Art Accessible](https://prompt.newzone.top/app/en)
 
 ## Why IMGPrompt?
 
-- **Language is No Barrier**: Select in your native language, generate in English.
-- **Massive Database**: 5000+ carefully curated prompt tags covering styles, lighting, composition, and more.
-- **Visual & Intuitive**: See what you select. Categories and tags are organized for creative flow.
+- **Language is no barrier.** Pick tags in your native language, get English output.
+- **5000+ tags, curated.** Styles, artists, lighting, composition, camera angles — organized, not dumped.
+- **Visual discovery.** Hover any tag to see a preview image; click the preview to zoom in a full lightbox (rotate / download included).
+- **Shareable selections.** The filter you're viewing lives in the URL — send the link, land on the same view.
+- **Built for GPT-Image-2 and beyond.** One workflow covers image and video models alike — GPT-Image-2, Nano Banana, Midjourney, FLUX, Seedance, Veo, Kling.
+- **Desktop or browser.** Use the web app or download the native client for Windows, macOS (Intel + Apple Silicon), and Linux.
 
 ## How It Works
 
-1.  **Browse in Your Language**: Look at tags in your mother tongue.
-2.  **Click to Compose**: Select the visual elements you want (e.g., "Cinematic Lighting", "Cyberpunk Style").
-3.  **One-Click Copy**: Get the standard English prompt instantly and paste it into any AI tool.
+A three-step flow, numbered right in the UI so you always know where you are:
+
+1. **Pick an Object** (e.g., Character, Scene, Style) — section **①**.
+2. **Pick an Attribute** under that object (e.g., Lighting, Pose, Camera) — section **②**.
+3. **Click the tags you want** — section **③**. Your selection builds the English prompt in the side panel. One-click copy, paste into your AI tool.
+
+The URL updates as you browse (`?object=Character&attribute=Lighting`), so bookmarks and shared links take collaborators straight to the exact filter you're using.
 
 ## Features
 
-### 🏆 5000+ Native-to-English Information Library
+### 🏆 5000+ Native-to-English Prompt Library
 
-The heart of IMGPrompt. We have categorized thousands of prompt keywords—from artistic styles and artists to detailed lighting and camera angles. You verify the meaning in your own language, and we provide the precise English term that AI models understand best.
+Thousands of prompt keywords, organized by object and attribute. Verify meaning in your language, ship the precise English term models recognize. Data lives in open JSON at `src/app/data/prompt/prompt-<locale>.json`—fork it, extend it, it's yours.
 
 ![Smart Recommendation Demo](https://img.newzone.top/gif/imgprompt-ai-suggestions.webp)
 
-### 🧩 Smart Templates & Tools
+### 🖼️ Hover to Preview, Click to Zoom
 
-- **One-Click Polish**: Built-in templates for "Portrait Lighting" and "High Quality" optimizations.
-- **Prompt Deduplication**: Automatically cleans up your prompt string.
-- **Random Inspiration**: Random color and style generators to break creative blocks.
+Hover any tag → an example image shows up in the tooltip. Click the preview → a full lightbox opens with **zoom, rotate, and download** controls. Closing it keeps your browsing state intact. WYSIWYG prompt picking — especially useful when comparing GPT-Image-2 styles where the label alone tells you nothing.
 
-### 📂 Open & Customizable Database
+### 🎨 Multicolor or Monochrome Tag Mode
 
-All prompt data is stored in open JSON format (`src/app/data/prompt/*.json`). You can easily direct-edit these files to add your own custom prompts or usage habits.
+Toggle between two visual modes from the tag area:
 
-### 🖥️ Cross-Platform Client
+- **Multicolor** — 10-color antd palette cycled across tags, so large categories read as distinct groups at a glance.
+- **Monochrome** — calm, uniform tag styling. Same data, less visual noise.
 
-Prefer a desktop app? We support Windows, macOS, and Linux. Download the latest release from our [GitHub Releases](https://github.com/rockbenben/img-prompt/releases) page.
+Your choice persists across sessions and syncs across browser tabs.
 
-### 🌍 Multi-Language Support
+### 🧩 Smart Prompt Output Panel
 
-Supports 18 languages including **Chinese (Simplified/Traditional), English, Portuguese, Korean, Japanese, and more**. The interface and the prompt database adapt to your preferred language.
+The right-side output panel is the working surface:
 
-_(Note: Includes a handy translation utility for custom text inputs, supported by Google/Youdao/MyMemory)_.
+- **Inline template buttons** — one click to append "Portrait Lighting" or "High Quality" boilerplate. Copy a Negative-prompt template in one tap.
+- **Auto-translate while you type** — debounced 1.5s. Type in any language, see the English equivalent surfaced below without clicking a button.
+- **Tag suggestions** — as you type, exact-match and fuzzy-match tags appear so you can swap free text for a curated tag.
+- **Deduplication + random color** — cleans up duplicated tokens, swaps a random color token for quick creative breaks.
+- **One-click copy and clear** — side-by-side for speed.
+
+### 🔗 Shareable URL State
+
+Your currently active Object and Attribute filter lives in the URL. Bookmark the view you use daily. Send a link to a teammate and they land on the same filter. No accounts, no backend.
+
+### 🌓 Light, Dark, and System Themes
+
+Auto-follows your OS theme (via `next-themes`), or override it manually. All tag colors, previews, and borders adapt.
+
+### 🖥️ Cross-Platform Desktop Client
+
+Prefer a native app? Windows, macOS, and Linux builds ship on the [Releases page](https://github.com/rockbenben/img-prompt/releases).
+
+### 🌍 18 Languages, Everywhere
+
+Arabic, Bengali, Chinese (Simplified + Traditional), English, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Thai, Turkish, Vietnamese. Both the interface and the prompt database translate. RTL languages (Arabic) render right-to-left automatically.
+
+A translation utility is also built in for free-form text, backed by Google / Youdao / MyMemory.
+
+## Tech Stack
+
+- **Next.js 16** with the App Router and React Compiler
+- **React 19.2** + **TypeScript 5**
+- **Ant Design 6** (cssVar mode) + **Tailwind CSS 4**
+- **next-intl 4.9** for i18n and static generation per locale
+- **next-themes** for dark mode
+- Default locale: `zh`. Root `/` redirects to `/zh`.
 
 ## Getting Started
 
-For detailed installation, local development, and deployment instructions (including Docker support), please refer to [Doc](https://prompt.newzone.top/en/guide/deploy.html).
+For detailed installation, local development, and deployment instructions (including Docker support), see the [deployment guide](https://prompt.newzone.top/en/guide/deploy.html).
+
+Quick start:
+
+```bash
+npm install
+npm run dev          # http://localhost:3000
+npm run build        # production build
+npm run build:lang   # per-locale static build (scripts/buildWithLang.js)
+npm run lint
+```
+
+Node `>=20.9.0` required.
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=rockbenben/img-prompt&type=Date)](https://star-history.com/#rockbenben/img-prompt&Date)
 
+## Credits
+
+Prompt data is aggregated and curated from several open sources — huge thanks to:
+
+- [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) — GPT-Image-2 prompt examples, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Entries are localized into 18 languages; per-entry author credits are preserved in the data file.
+- [Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one) — baseline tag taxonomy (AGPL-3.0).
+- [promptoMANIA](https://promptomania.com/midjourney-prompt-builder/) — structured keyword inspiration.
+
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, open an issue first to discuss direction. Prompt data contributions (adding or refining tags for a language) are especially appreciated—the files are plain JSON, no tooling required.
