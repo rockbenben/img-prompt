@@ -1,34 +1,26 @@
 @layer theme, base, antd, components, utilities;
 @import "tailwindcss";
-@import "antd/dist/antd.css";
 
-/* :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+/* TagSectionMulticolor button — CSS-only hover/focus to avoid per-instance useState */
+.tag-multicolor-btn {
+  transition: transform 150ms ease-out, box-shadow 150ms ease-out, filter 120ms ease-out;
+}
+.tag-multicolor-btn:hover,
+.tag-multicolor-btn:focus-visible {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
+  filter: brightness(0.94);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-} */
-
-/* 响应式隐藏类：窄屏时隐藏元素 */
-@media (max-width: 767px) {
-  .hide-on-mobile {
-    display: none !important;
-  }
+/* Tooltip preview images: Tailwind preflight forces img { height: auto } which
+   conflicts with next/image's explicit width=200/height=200, triggering the
+   "modified one dimension" warning. Make both auto with size cap to preserve
+   the source image's natural aspect ratio. */
+.ant-tooltip img[data-nimg] {
+  width: auto !important;
+  height: auto !important;
+  max-width: 200px;
+  max-height: 200px;
+  display: block;
+  margin-inline: auto;
 }

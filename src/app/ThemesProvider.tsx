@@ -21,6 +21,7 @@ function AntdConfigProvider({ children }: { children: ReactNode }) {
   return (
     <ConfigProvider
       theme={{
+        cssVar: {},
         hashed: false,
         algorithm: algorithms,
       }}>
