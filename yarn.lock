@@ -2682,9 +2682,9 @@ hermes-parser@^0.25.1:
     hermes-estree "0.25.1"
 
 icu-minify@^4.9.1:
-  version "4.9.1"
-  resolved "https://registry.yarnpkg.com/icu-minify/-/icu-minify-4.9.1.tgz#95504d2147713e851755ef810234cf4f4d5457e7"
-  integrity sha512-6NkfF9GHHFouqnz+wuiLjCWQiyxoEyJ5liUv4Jxxo/8wyhV7MY0L0iTEGDAVEa4aAD58WqTxFMa20S5nyMjwNw==
+  version "4.11.0"
+  resolved "https://registry.yarnpkg.com/icu-minify/-/icu-minify-4.11.0.tgz#28d4eaa7fa19f8dc1ba6974dcd7f98d1aeadee34"
+  integrity sha512-XRvblCwLqWXio5ZLcmDqXvJv7alSACK6UjXuuMOdQWB//d25AQX6xlVlI1FEbc3Q6iPLXXo6HaVLn8LcAFhn1Q==
   dependencies:
     "@formatjs/icu-messageformat-parser" "^3.4.0"
 
