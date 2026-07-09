@@ -1,0 +1,7 @@
+services:
+  imgprompt:
+    image: ghcr.io/rockbenben/img-prompt:latest
+    container_name: imgprompt
+    ports:
+      - "5666:5666"
+    restart: unless-stopped

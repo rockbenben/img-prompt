@@ -1,19 +1,21 @@
-import React, { FC, useEffect, useRef, useState } from "react";
+import React, { FC, useEffect, useRef, useState, useSyncExternalStore } from "react";
 import { Image as AntdImage, Tooltip } from "antd";
 import { TagItem } from "./types";
 
-// 仅纯触屏（无 hover）才走移动端分支，避开带触屏的笔记本误判
-const useTouchOnly = () => {
-  const [touch, setTouch] = useState(false);
-  useEffect(() => {
-    const mql = window.matchMedia("(hover: none) and (pointer: coarse)");
-    setTouch(mql.matches);
-    const onChange = (e: MediaQueryListEvent) => setTouch(e.matches);
-    mql.addEventListener("change", onChange);
-    return () => mql.removeEventListener("change", onChange);
-  }, []);
-  return touch;
+// 仅纯触屏（无 hover）才走移动端分支，避开带触屏的笔记本误判。
+// 媒体查询是外部 store，useSyncExternalStore 是正解（SSR 快照 = false）
+const TOUCH_QUERY = "(hover: none) and (pointer: coarse)";
+const subscribeTouch = (callback: () => void) => {
+  const mql = window.matchMedia(TOUCH_QUERY);
+  mql.addEventListener("change", callback);
+  return () => mql.removeEventListener("change", callback);
 };
+const useTouchOnly = () =>
+  useSyncExternalStore(
+    subscribeTouch,
+    () => window.matchMedia(TOUCH_QUERY).matches,
+    () => false,
+  );
 
 const TooltipBody: FC<{ tag: TagItem; onPreviewOpenChange: (v: boolean) => void }> = ({ tag, onPreviewOpenChange }) => {
   const showLangName = tag.langName && tag.langName !== tag.displayName;

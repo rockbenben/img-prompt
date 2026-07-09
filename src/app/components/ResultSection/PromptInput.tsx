@@ -1,8 +1,6 @@
 import { FC, ReactNode } from "react";
-import { Input, Button, Flex, Tooltip, Typography, Divider } from "antd";
+import { Input, Button, Flex, Tooltip } from "antd";
 import { CopyOutlined } from "@ant-design/icons";
-
-const { Text } = Typography;
 
 interface TemplateAction {
   key: string;
@@ -40,6 +38,27 @@ export const PromptInput: FC<PromptInputProps> = ({
   negativeAction,
   t,
 }) => {
+  const actionButton = (action: TemplateAction, opts?: { ghost?: boolean; extraIcon?: ReactNode }) => {
+    const btn = (
+      <Button
+        key={action.key}
+        size="small"
+        className={opts?.ghost ? "pp-ghost" : undefined}
+        icon={action.icon ?? opts?.extraIcon}
+        onClick={action.onClick}
+        aria-label={action.ariaLabel}>
+        {action.label}
+      </Button>
+    );
+    return action.tooltip ? (
+      <Tooltip key={action.key} title={action.tooltip}>
+        {btn}
+      </Tooltip>
+    ) : (
+      btn
+    );
+  };
+
   return (
     <>
       <Input.TextArea
@@ -49,60 +68,24 @@ export const PromptInput: FC<PromptInputProps> = ({
         onFocus={onFocus}
         onCompositionStart={onCompositionStart}
         onCompositionEnd={onCompositionEnd}
-        autoSize={{ minRows: 6, maxRows: 14 }}
+        autoSize={{ minRows: 5, maxRows: 14 }}
         spellCheck={false}
         aria-label={t("prompt")}
       />
 
-      <Flex justify="space-between" align="center" gap={8} wrap style={{ marginTop: 6, marginBottom: 8 }}>
-        <Flex align="center" gap={6} wrap>
-          {value.length > 0 && (
-            <Text type="secondary" style={{ fontSize: 12, whiteSpace: "nowrap" }}>
-              {value.length} / 380
-            </Text>
-          )}
-          {templateActions.map((action) => {
-            const btn = (
-              <Button
-                key={action.key}
-                size="small"
-                icon={action.icon}
-                onClick={action.onClick}
-                aria-label={action.ariaLabel}>
-                {action.label}
-              </Button>
-            );
-            return action.tooltip ? (
-              <Tooltip key={action.key} title={action.tooltip}>
-                {btn}
-              </Tooltip>
-            ) : (
-              btn
-            );
-          })}
-        </Flex>
-        <Flex gap={8} wrap align="center">
-          <Button size="small" onClick={onClear}>
-            {t("button-clear")}
-          </Button>
-          <Divider orientation="vertical" style={{ height: 18, margin: 0, borderInlineStartColor: "var(--ant-color-border)" }} />
-          {negativeAction &&
-            (negativeAction.tooltip ? (
-              <Tooltip title={negativeAction.tooltip}>
-                <Button size="small" icon={<CopyOutlined />} onClick={negativeAction.onClick}>
-                  {negativeAction.label}
-                </Button>
-              </Tooltip>
-            ) : (
-              <Button size="small" icon={<CopyOutlined />} onClick={negativeAction.onClick}>
-                {negativeAction.label}
-              </Button>
-            ))}
-          <Button size="small" type="primary" onClick={onCopy}>
-            {t("button-copy")}
-          </Button>
-        </Flex>
+      {/* 模板插入/随机颜色 = 白色药丸；负面词/清空 = 安静 ghost（与设计稿层级一致） */}
+      <Flex wrap gap={7} style={{ marginTop: 10 }}>
+        {templateActions.map((action) => actionButton(action))}
+        {negativeAction && actionButton(negativeAction, { ghost: true, extraIcon: <CopyOutlined /> })}
+        <Button size="small" className="pp-ghost" onClick={onClear}>
+          {t("button-clear")}
+        </Button>
       </Flex>
+
+      {/* 主 CTA：复制 —— 整宽蛋黄按钮 */}
+      <Button block type="primary" onClick={onCopy} style={{ marginTop: 12 }} icon={<CopyOutlined />}>
+        {t("button-copy")}
+      </Button>
     </>
   );
 };

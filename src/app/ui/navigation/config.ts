@@ -29,7 +29,7 @@ export const LANGUAGES: readonly Language[] = [
   { key: "vi", label: "Tiếng Việt" },
   { key: "th", label: "ไทย" },
   { key: "tr", label: "Türkçe" },
-  { key: "zh-hant", label: "繁体中文" },
+  { key: "zh-hant", label: "繁體中文" },
   { key: "bn", label: "বাংলা" },
   { key: "id", label: "Indonesia" },
   { key: "it", label: "Italiano" },

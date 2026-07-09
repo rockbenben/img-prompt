@@ -1,5 +1,5 @@
 import { FC } from "react";
-import { Button, Input, Card, Space } from "antd";
+import { Button, Input, Flex, Space } from "antd";
 import { BgColorsOutlined } from "@ant-design/icons";
 import { useLocale } from "next-intl";
 import { CONSTANT_BUTTONS, NEGATIVE_TEXT } from "@/app/data/constants";
@@ -23,7 +23,8 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
   const {
     resultText,
     translatedText,
-    isTranslating,
+    isAutoTranslating,
+    isManualTranslating,
     suggestedTags,
     exactMatchTag,
     setIsComposing,
@@ -64,39 +65,52 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
   };
 
   return (
-    <Card variant="outlined" styles={{ body: { padding: 16 } }}>
-      <PromptInput
-        value={resultText}
-        onChange={handleResultTextChange}
-        onBlur={handleBlur}
-        onFocus={handleFocus}
-        onCompositionStart={() => setIsComposing(true)}
-        onCompositionEnd={() => setIsComposing(false)}
-        onCopy={() => copyToClipboard(resultText, t("prompt"))}
-        onClear={handleClear}
-        templateActions={templateActions}
-        negativeAction={negativeAction}
-        t={t}
-      />
-
-      <TagSuggestions suggestedTags={suggestedTags} exactMatchTag={exactMatchTag} onTagClick={handleSuggestTagClick} />
-
-      <Space.Compact size="small" style={{ display: "flex", marginTop: 12 }}>
-        <Input
-          value={inputText}
-          onChange={(e: React.ChangeEvent<HTMLInputElement>) => setInputText(e.target.value)}
-          onPressEnter={handleTranslate}
-          placeholder={t("tooltip-translate")}
-          aria-label={t("tooltip-translate")}
-          disabled={isTranslating}
+    <Flex vertical gap={16}>
+      <div className="pp-mixer">
+        <div className="pp-mixer-head">
+          <span className="pp-mixer-title">{t("prompt")}</span>
+          <span className="pp-count">
+            <b>{resultText.length}</b> / 380
+          </span>
+        </div>
+        <PromptInput
+          value={resultText}
+          onChange={handleResultTextChange}
+          onBlur={handleBlur}
+          onFocus={handleFocus}
+          onCompositionStart={() => setIsComposing(true)}
+          onCompositionEnd={() => setIsComposing(false)}
+          onCopy={() => copyToClipboard(resultText, t("prompt"))}
+          onClear={handleClear}
+          templateActions={templateActions}
+          negativeAction={negativeAction}
+          t={t}
         />
-        <Button onClick={handleTranslate} loading={isTranslating}>
-          {t("button-translate")}
-        </Button>
-      </Space.Compact>
+        <TagSuggestions suggestedTags={suggestedTags} exactMatchTag={exactMatchTag} onTagClick={handleSuggestTagClick} />
+      </div>
 
-      <TranslationResult translatedText={translatedText} isTranslating={isTranslating} isVisible={locale !== "en"} t={t} />
-    </Card>
+      <div className="pp-tray pp-tray-translate">
+        <div className="pp-tray-label">
+          <span className="pp-swatch" aria-hidden="true" />
+          {t("translateLabel")}
+        </div>
+        <Space.Compact size="small" style={{ display: "flex" }}>
+          <Input
+            value={inputText}
+            onChange={(e: React.ChangeEvent<HTMLInputElement>) => setInputText(e.target.value)}
+            onPressEnter={handleTranslate}
+            placeholder={t("tooltip-translate")}
+            aria-label={t("tooltip-translate")}
+            disabled={isManualTranslating}
+          />
+          <Button type="primary" onClick={handleTranslate} loading={isManualTranslating}>
+            {t("button-translate")}
+          </Button>
+        </Space.Compact>
+
+        <TranslationResult translatedText={translatedText} isTranslating={isAutoTranslating} isVisible={locale !== "en"} t={t} />
+      </div>
+    </Flex>
   );
 };
 

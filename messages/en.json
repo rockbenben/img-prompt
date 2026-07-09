@@ -3,12 +3,7 @@
     "title": "IMGPrompt — Free Visual Prompt Builder (Midjourney, FLUX, Veo)",
     "description": "Free open-source visual prompt builder for Midjourney, FLUX, Nano Banana, Veo, Kling. Click bilingual tags — no login, runs in your browser.",
     "ogTitle": "IMGPrompt — Free Visual Builder for AI Image & Video Prompts",
-    "ogDescription": "Click bilingual tags to build pro AI image and video prompts — Midjourney, FLUX, Nano Banana, Veo, Kling. Free, local, no login.",
-    "ogUrl": "https://prompt.newzone.top/app/en",
-    "ogSiteName": "IMGPrompt",
-    "ogLogo": "https://prompt.newzone.top/app/logo.png",
-    "authorName": "RockBen",
-    "authorUrl": "https://github.com/rockbenben"
+    "ogDescription": "Click bilingual tags to build pro AI image and video prompts — Midjourney, FLUX, Nano Banana, Veo, Kling. Free, local, no login."
   },
   "ToolPage": {
     "section1": "Subject",
@@ -17,7 +12,6 @@
     "currentSelection": "Selected",
     "fallback-other": "Other",
     "fallback-uncategorized": "Uncategorized",
-    "empty-selected-tags": "No selection",
     "tagMode-multicolor": "Multicolor",
     "tagMode-monochrome": "Monochrome"
   },
@@ -41,13 +35,10 @@
     "tooltip-randomColor": "Randomly replace color words",
     "button-randomcolor": "Randomize",
     "prompt-translation": "Translation",
-    "label-auxiliary": "Auxiliary",
-    "confirm-clear": "Clear current prompt?",
-    "confirm-yes": "Yes",
-    "confirm-no": "No",
     "translating": "Translating...",
     "randomColor-success": "Replaced {count} color word(s)",
-    "randomColor-noMatch": "No color words to replace"
+    "randomColor-noMatch": "No color words to replace",
+    "translateLabel": "Translate & insert"
   },
   "CopyToClipboard": {
     "empty": "Content is empty, nothing to copy",
@@ -67,8 +58,8 @@
     "placeholder": "Please leave a message, no login required (enter your email to receive reply notifications)"
   },
   "Home": {
-    "h1": "IMGPrompt · Free Visual Prompt Builder",
-    "tagline": "Click bilingual tags to build pro prompts for AI image and video — Midjourney, FLUX, Nano Banana, Veo, Kling, and more."
+    "h1": "IMGPrompt · Pick prompts like <hl>pigments</hl>",
+    "tagline": "5000+ bilingual tags · pro AI image/video prompts in seconds · Midjourney / FLUX / GPT-Image / Veo / Kling"
   },
   "FAQ": {
     "title": "Frequently Asked Questions",
@@ -78,27 +69,11 @@
     },
     "q2": {
       "question": "Is it free? Do I need to sign up? Is my data uploaded?",
-      "answer": "Completely free, no registration or login required. All prompt composition and input happens locally in your browser — nothing is uploaded to any server, and there is no backend database. The project is open-source on GitHub; you can audit the code or self-host."
-    },
-    "q3": {
-      "question": "How long should a prompt be? Is there a character limit?",
-      "answer": "We recommend staying under 380 characters — this approximates the token limit of Stable Diffusion's default CLIP text encoder, beyond which tokens may be truncated or weakened. The tool shows a live character counter. Midjourney, GPT-image-2, and Nano Banana are more lenient on length, but concise prompts generally produce better results."
-    },
-    "q4": {
-      "question": "What is the difference between positive and Negative Prompts? How do I use them?",
-      "answer": "Positive prompts describe what should appear (e.g. masterpiece, best quality, detailed face); negative prompts describe what to avoid (e.g. lowres, blurry, bad anatomy, extra fingers). The \"Negative\" button copies a curated set of common negative prompts to your clipboard — paste it into your model's Negative Prompt field."
-    },
-    "q5": {
-      "question": "How do I translate prompts from my language into English?",
-      "answer": "The right panel includes a Translate button: enter text in any language, click Translate, and the tool calls a translation API to convert it to English and append it to the prompt box. Handy for starting from an inspirational sentence instead of looking up each word."
-    },
-    "q6": {
-      "question": "How do weights work? Why do I see parentheses in prompts?",
-      "answer": "In Stable Diffusion WebUI syntax, (word) raises the weight to 1.1, ((word)) to 1.21, and so on; you can also write (word:1.3) to set it explicitly. Midjourney uses ::2 syntax for weights. IMGPrompt preserves the original English tokens so you can fine-tune weights per your target model's rules."
+      "answer": "Completely free, no signup or login. All prompt composing and input are processed locally in your browser with no backend database; only when you use the translation feature is that text sent to third-party translation services. The project is open source on GitHub, so you can audit the code or self-host."
     },
     "q7": {
       "question": "How is IMGPrompt different from PromptHero, Lexica, or PromptBase?",
-      "answer": "IMGPrompt is a click-to-build prompt composer, not a prompt search engine. PromptHero, Lexica, and PromptBase let you browse or buy other people's prompts; IMGPrompt lets you compose your own by clicking bilingual visual tags. It runs entirely in your browser with no login and no upload, while those platforms require accounts and track your activity."
+      "answer": "IMGPrompt is a click-to-build prompt composer, not a prompt search engine. PromptHero, Lexica, and PromptBase let you browse or buy other people's prompts; IMGPrompt lets you compose your own by clicking bilingual visual tags. It runs entirely in your browser with no login and no upload, while those platforms generally require an account for full access."
     },
     "q8": {
       "question": "Does IMGPrompt support AI video models like Veo, Kling, and Runway?",
@@ -125,5 +100,15 @@
       "Open source on GitHub",
       "Desktop apps for Windows, macOS, Linux"
     ]
+  },
+  "Nav": {
+    "guide": "Guide",
+    "otherTools": "More Tools",
+    "legendtalk": "AI Thinkers Roundtable",
+    "aishort": "AI Short",
+    "tools": "AI Toolbox"
+  },
+  "Guide": {
+    "fallbackNotice": "This page hasn’t been translated into your language yet — showing the English version."
   }
 }

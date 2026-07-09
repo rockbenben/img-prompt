@@ -3,12 +3,7 @@
     "title": "IMGPrompt - 免费可视化 AI 绘画提示词词典",
     "description": "免费开源 AI 提示词词典。点选中英双语标签，秒出 Midjourney、FLUX、Veo 等模型的图像/视频提示词。浏览器本地运行，无需登录。",
     "ogTitle": "IMGPrompt - 中文 AI 绘画提示词词典",
-    "ogDescription": "点选双语标签，秒出 Midjourney、FLUX、Veo 等 AI 图像/视频提示词。免费、本地、无需登录。",
-    "ogUrl": "https://prompt.newzone.top/app/zh",
-    "ogSiteName": "IMGPrompt",
-    "ogLogo": "https://prompt.newzone.top/app/logo.png",
-    "authorName": "RockBen",
-    "authorUrl": "https://github.com/rockbenben"
+    "ogDescription": "点选双语标签，秒出 Midjourney、FLUX、Veo 等 AI 图像/视频提示词。免费、本地、无需登录。"
   },
   "ToolPage": {
     "section1": "主体",
@@ -17,7 +12,6 @@
     "currentSelection": "已选",
     "fallback-other": "其他",
     "fallback-uncategorized": "未分类",
-    "empty-selected-tags": "暂无已选",
     "tagMode-multicolor": "多彩",
     "tagMode-monochrome": "单色"
   },
@@ -41,13 +35,10 @@
     "tooltip-randomColor": "随机替换颜色词",
     "button-randomcolor": "随机换色",
     "prompt-translation": "提示词译文",
-    "label-auxiliary": "辅助功能",
-    "confirm-clear": "清空当前提示词？",
-    "confirm-yes": "是",
-    "confirm-no": "否",
     "translating": "翻译中…",
     "randomColor-success": "已替换 {count} 处颜色词",
-    "randomColor-noMatch": "没有可替换的颜色词"
+    "randomColor-noMatch": "没有可替换的颜色词",
+    "translateLabel": "翻译直入"
   },
   "CopyToClipboard": {
     "empty": "内容为空，无需复制",
@@ -67,8 +58,8 @@
     "placeholder": "请留言，无需登录（填写邮箱可获回复提醒）"
   },
   "Home": {
-    "h1": "IMGPrompt · 免费可视化提示词词典",
-    "tagline": "点选中英双语标签，秒出 AI 图像/视频专业提示词 —— 支持 Midjourney、FLUX、Nano Banana、Veo、Kling 等模型。"
+    "h1": "IMGPrompt · 像挑<hl>颜料</hl>一样，挑提示词",
+    "tagline": "5000+ 中英双语标签 · 秒出专业级 AI 图像/视频提示词 · Midjourney / FLUX / GPT-Image / Veo / Kling"
   },
   "FAQ": {
     "title": "常见问题",
@@ -78,27 +69,11 @@
     },
     "q2": {
       "question": "需要登录或付费吗？数据会上传到服务器吗？",
-      "answer": "完全免费，无需注册或登录。所有提示词组合和输入内容都在浏览器本地处理，不会上传到任何服务器，也不依赖后端数据库。项目在 GitHub 开源，可自行审计代码或自部署。"
-    },
-    "q3": {
-      "question": "提示词应该写多长？有字符限制吗？",
-      "answer": "建议控制在 380 个字符以内，这是 Stable Diffusion 原生 CLIP 文本编码器的 token 近似上限；超过部分可能被截断或效果减弱。工具内置字符统计会在实时显示长度。Midjourney、GPT-image-2、Nano Banana 等对长度更宽容，但精炼的 prompt 通常效果更好。"
-    },
-    "q4": {
-      "question": "正向词和负面词（Negative Prompt）有什么区别？怎么用？",
-      "answer": "正向词描述你希望画面出现的元素，例如 masterpiece、best quality、detailed face；负面词描述你希望避免的元素，例如 lowres、blurry、bad anatomy、extra fingers。工具顶部的「负面词」按钮可一键复制一组常用负面词到剪贴板，粘贴到 Negative Prompt 输入框即可。"
-    },
-    "q5": {
-      "question": "如何把中文提示词翻译成英文？",
-      "answer": "右侧面板提供翻译按钮：输入任意语言的文字，点击「翻译」后会自动调用翻译 API 转成英文并插入到 prompt 框末尾。适合从灵感句子起步时使用，不需要先自己逐词查单词。"
-    },
-    "q6": {
-      "question": "权重（Weight）怎么调？为什么有时看到括号 ()？",
-      "answer": "在 Stable Diffusion WebUI 语法中，用 (word) 会让该词权重变为 1.1，((word)) 为 1.21，依此类推；也可以直接写 (word:1.3) 精确指定。Midjourney 使用 ::2 语法表达权重。工具导出的 prompt 保留原始英文，便于你按目标模型的规则手动微调权重。"
+      "answer": "完全免费，无需注册或登录。所有提示词组合和输入内容都在浏览器本地处理，不依赖后端数据库；仅当你使用翻译功能时，待译文本会发送给第三方翻译接口。项目在 GitHub 开源，可自行审计代码或自部署。"
     },
     "q7": {
       "question": "IMGPrompt 跟 PromptHero、Lexica、PromptBase 有什么区别？",
-      "answer": "IMGPrompt 是「点选构建」工具，不是 prompt 搜索引擎。PromptHero、Lexica、PromptBase 让你浏览或购买别人写好的 prompt；IMGPrompt 让你通过点击中英双语标签自己组合。同时 IMGPrompt 完全在浏览器本地运行，无需登录、不上传任何数据；上述平台都要求注册并追踪使用记录。"
+      "answer": "IMGPrompt 是「点选构建」工具，不是 prompt 搜索引擎。PromptHero、Lexica、PromptBase 让你浏览或购买别人写好的 prompt；IMGPrompt 让你通过点击中英双语标签自己组合。同时 IMGPrompt 完全在浏览器本地运行，无需登录、不上传任何数据；上述平台通常需要注册账号才能完整使用。"
     },
     "q8": {
       "question": "IMGPrompt 支持 AI 视频模型 Veo、Kling、Runway 吗？",
@@ -125,5 +100,15 @@
       "GitHub 开源",
       "Windows / macOS / Linux 桌面客户端"
     ]
+  },
+  "Nav": {
+    "guide": "指南",
+    "otherTools": "更多工具",
+    "legendtalk": "AI 思想家圆桌",
+    "aishort": "AI Short",
+    "tools": "AI 工具箱"
+  },
+  "Guide": {
+    "fallbackNotice": "本页暂未翻译成你的语言，当前显示可用版本。"
   }
 }

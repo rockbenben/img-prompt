@@ -27,7 +27,8 @@ export function LanguageSelector() {
 
   const handleLanguageChange = (key: string) => {
     const newPath = pathname.replace(/^\/[a-z]{2}(-[a-z]+)?/, `/${key}`);
-    router.push(newPath);
+    // 带上 hash：分类位置以索引存储（locale 无关），切换语言后停在同一分类
+    router.push(newPath + window.location.hash);
   };
 
   const renderLanguageList = () => (

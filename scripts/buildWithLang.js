@@ -41,13 +41,18 @@ try {
 
   // 修改 Navigation 文件：隐藏语言切换栏
   let navigationContent = backup.navigation;
-  // 匹配并删除语言切换器的完整 Dropdown 组件块
-  // 从 <Dropdown open={langOpen} 到对应的 </Dropdown> 结束
-  navigationContent = navigationContent.replace(/<Dropdown\s+open=\{langOpen\}[\s\S]*?<\/Dropdown>/, "");
+  // 语言切换器已抽成独立组件，删除其 JSX 引用即可（残留的 import 不影响构建）
+  navigationContent = navigationContent.replace(/<LanguageSelector\s*\/>/, "");
+  if (navigationContent === backup.navigation) {
+    throw new Error("buildWithLang: failed to remove <LanguageSelector /> from Navigation.tsx — check the markup");
+  }
   fs.writeFileSync(navigationPath, navigationContent, "utf8");
 
   console.log(`Temp update done (临时更新完成): using language "${lang}" and hide language switch bar (使用语言 "${lang}" 并隐藏语言切换栏)`);
 
+  // 直接调 next build 不会触发 package.json 的 prebuild 钩子，
+  // 必须先跑 sliceData 生成 bootstrap/chunks（均为 gitignore 产物）
+  execSync("node scripts/sliceData.js", { stdio: "inherit" });
   // 执行构建命令（调用 Next.js 的构建命令）
   execSync("next build", { stdio: "inherit" });
 } catch (error) {

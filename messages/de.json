@@ -1,14 +1,9 @@
 {
   "Metadata": {
-    "title": "IMGPrompt — Kostenloser visueller AI-Prompt-Builder",
+    "title": "IMGPrompt — Kostenloser visueller KI-Prompt-Builder",
     "description": "Kostenloser Open-Source-Prompt-Builder für Midjourney, FLUX, Nano Banana, Veo, Kling. Zweisprachige Tags anklicken — kein Login, läuft im Browser.",
-    "ogTitle": "IMGPrompt — AI-Kunstprompts auf einen Klick",
-    "ogDescription": "Klicke zweisprachige Tags, um Profi-Prompts für Midjourney, FLUX, Nano Banana, Veo, Kling zu bauen. Kostenlos, lokal, Open Source.",
-    "ogUrl": "https://prompt.newzone.top/app/de",
-    "ogSiteName": "IMGPrompt",
-    "ogLogo": "https://prompt.newzone.top/app/logo.png",
-    "authorName": "RockBen",
-    "authorUrl": "https://github.com/rockbenben"
+    "ogTitle": "IMGPrompt — KI-Kunstprompts auf einen Klick",
+    "ogDescription": "Klicke zweisprachige Tags, um Profi-Prompts für Midjourney, FLUX, Nano Banana, Veo, Kling zu bauen. Kostenlos, lokal, Open Source."
   },
   "ToolPage": {
     "section1": "Thema",
@@ -17,7 +12,6 @@
     "currentSelection": "Ausgewählt",
     "fallback-other": "Sonstiges",
     "fallback-uncategorized": "Unkategorisiert",
-    "empty-selected-tags": "Keine Auswahl",
     "tagMode-multicolor": "Mehrfarbig",
     "tagMode-monochrome": "Einfarbig"
   },
@@ -41,34 +35,31 @@
     "tooltip-randomColor": "Farbwörter zufällig ersetzen",
     "button-randomcolor": "Farbe ändern",
     "prompt-translation": "Übersetzung",
-    "label-auxiliary": "Hilfs",
-    "confirm-clear": "Aktuellen Prompt löschen?",
-    "confirm-yes": "Ja",
-    "confirm-no": "Nein",
-    "translating": "Übersetzen...",
+    "translating": "Wird übersetzt...",
     "randomColor-success": "{count} Farbwörter ersetzt",
-    "randomColor-noMatch": "Keine Farbwörter zu ersetzen"
+    "randomColor-noMatch": "Keine Farbwörter zu ersetzen",
+    "translateLabel": "Übersetzen & einfügen"
   },
   "CopyToClipboard": {
     "empty": "Der Inhalt ist leer, nichts zu kopieren",
     "unsupported": "Ihr Browser unterstützt keine Zwischenablage-Operationen. Bitte versuchen Sie es manuell oder verwenden Sie einen anderen Browser",
-    "success": "Erfolgreich kopiert, Sie können es in das AI-Malwerkzeug einfügen",
+    "success": "Erfolgreich kopiert, Sie können es in das KI-Bildtool einfügen",
     "failure": "Kopieren fehlgeschlagen, bitte manuell kopieren"
   },
   "feedback": {
     "feedback1": "Feedback und Vorschläge",
     "feedback2": "Wenn Sie bei der Verwendung auf Probleme stoßen oder Vorschläge und Ideen haben, lassen Sie es mich gerne wissen! Ihr Feedback wird sich direkt auf die Entwicklung und Verbesserung zukünftiger Funktionen auswirken und uns dabei helfen, ein Tool zu erstellen, das den Anforderungen aller besser gerecht wird.",
     "feedback3": "Bitte beschreiben Sie Ihren Anwendungsfall oder das aufgetretene Problem ausführlich oder teilen Sie Ihre kreativen Ideen mit. Ich werde jedes Feedback sorgfältig prüfen und so schnell wie möglich Anpassungen und Optimierungen vornehmen.",
-    "reaction0": "Hoch",
+    "reaction0": "Daumen hoch",
     "reaction1": "Unterstützung",
     "reaction2": "Cool",
     "reaction3": "Was?",
-    "reaction4": "Puzzle",
+    "reaction4": "Verwirrt",
     "placeholder": "Bitte hinterlassen Sie eine Nachricht, kein Login erforderlich (geben Sie Ihre E-Mail-Adresse ein, um Antwortbenachrichtigungen zu erhalten)"
   },
   "Home": {
-    "h1": "IMGPrompt · Kostenloser visueller Prompt-Builder",
-    "tagline": "Klicke zweisprachige Tags, um Profi-Prompts für KI-Bild und -Video zu bauen — Midjourney, FLUX, Nano Banana, Veo, Kling und mehr."
+    "h1": "IMGPrompt · Prompts wählen wie <hl>Farben</hl>",
+    "tagline": "5000+ zweisprachige Tags · professionelle KI-Bild/Video-Prompts in Sekunden · Midjourney / FLUX / GPT-Image / Veo / Kling"
   },
   "FAQ": {
     "title": "Häufig gestellte Fragen",
@@ -78,27 +69,11 @@
     },
     "q2": {
       "question": "Ist es kostenlos? Muss ich mich anmelden? Werden meine Daten hochgeladen?",
-      "answer": "Vollständig kostenlos, keine Registrierung oder Anmeldung erforderlich. Sämtliche Prompt-Zusammenstellung und -Eingabe erfolgt lokal im Browser; nichts wird an einen Server gesendet, es gibt keine Backend-Datenbank. Das Projekt ist auf GitHub quelloffen – Sie können den Code prüfen oder selbst hosten."
-    },
-    "q3": {
-      "question": "Wie lang sollte ein Prompt sein? Gibt es eine Zeichenbegrenzung?",
-      "answer": "Empfohlen sind unter 380 Zeichen – das entspricht etwa dem Token-Limit des CLIP-Text-Encoders von Stable Diffusion; darüber hinaus werden Tokens abgeschnitten oder abgeschwächt. Das Tool zeigt einen Live-Zähler. Midjourney, GPT-image-2 und Nano Banana sind toleranter, aber kompakte Prompts liefern meist bessere Ergebnisse."
-    },
-    "q4": {
-      "question": "Was ist der Unterschied zwischen positiven und Negative Prompts? Wie werden sie verwendet?",
-      "answer": "Positive Prompts beschreiben, was erscheinen soll (z. B. masterpiece, best quality, detailed face); negative, was vermieden werden soll (z. B. lowres, blurry, bad anatomy, extra fingers). Die Schaltfläche „Negative“ kopiert eine bewährte Sammlung negativer Prompts in die Zwischenablage – fügen Sie sie in das Negative-Prompt-Feld Ihres Modells ein."
-    },
-    "q5": {
-      "question": "Wie übersetze ich Prompts in meiner Sprache ins Englische?",
-      "answer": "Im rechten Panel gibt es die Schaltfläche Translate: Geben Sie Text in beliebiger Sprache ein, klicken Sie auf Translate, und das Tool ruft eine Übersetzungs-API auf, die den Text ins Englische wandelt und am Ende des Prompt-Feldes anhängt. Praktisch, wenn Sie von einer Inspirationsphrase ausgehen."
-    },
-    "q6": {
-      "question": "Wie funktionieren Gewichte? Warum sieht man Klammern in Prompts?",
-      "answer": "In der Stable-Diffusion-WebUI-Syntax erhöht (word) das Gewicht auf 1.1, ((word)) auf 1.21 usw.; Sie können auch (word:1.3) explizit schreiben. Midjourney verwendet die ::2-Syntax. IMGPrompt bewahrt die ursprünglichen englischen Tokens, damit Sie die Gewichte nach den Regeln Ihres Zielmodells anpassen können."
+      "answer": "Völlig kostenlos, keine Registrierung oder Anmeldung. Die Prompt-Zusammenstellung wird lokal im Browser verarbeitet, ohne Backend-Datenbank; nur bei Nutzung der Übersetzungsfunktion wird dieser Text an Übersetzungsdienste von Drittanbietern gesendet. Das Projekt ist auf GitHub Open Source — Code prüfen oder selbst hosten ist möglich."
     },
     "q7": {
       "question": "Wie unterscheidet sich IMGPrompt von PromptHero, Lexica oder PromptBase?",
-      "answer": "IMGPrompt ist ein Click-to-Build-Prompt-Composer, keine Prompt-Suchmaschine. PromptHero, Lexica und PromptBase ermöglichen das Durchsuchen oder Kaufen fremder Prompts; IMGPrompt baut deinen eigenen Prompt durch Klicken zweisprachiger visueller Tags. Es läuft komplett im Browser ohne Login und ohne Upload, während diese Plattformen Konten verlangen und deine Aktivität verfolgen."
+      "answer": "IMGPrompt ist ein Click-to-Build-Prompt-Composer, keine Prompt-Suchmaschine. PromptHero, Lexica und PromptBase ermöglichen das Durchsuchen oder Kaufen fremder Prompts; mit IMGPrompt bauen Sie Ihren eigenen Prompt durch Anklicken zweisprachiger visueller Tags. Es läuft komplett im Browser ohne Login und ohne Upload, während diese Plattformen in der Regel ein Konto für den vollen Zugriff verlangen."
     },
     "q8": {
       "question": "Unterstützt IMGPrompt KI-Videomodelle wie Veo, Kling und Runway?",
@@ -106,7 +81,7 @@
     },
     "q9": {
       "question": "Kann ich IMGPrompt ohne Englischkenntnisse nutzen?",
-      "answer": "Ja. Die UI ist in 18 Sprachen verfügbar, und jeder Tag zeigt sowohl Englisch als auch deine Landessprache. Du klickst in deiner Sprache; IMGPrompt baut den Prompt auf Englisch zusammen (was KI-Bild- und Videomodelle tatsächlich brauchen). Der Übersetzen-Button wandelt auch jeden Satz deiner Sprache mit einem Klick in einen englischen Prompt um."
+      "answer": "Ja. Die UI ist in 18 Sprachen verfügbar, und jeder Tag zeigt sowohl Englisch als auch Ihre Landessprache. Sie klicken in Ihrer Sprache; IMGPrompt baut den Prompt auf Englisch zusammen (was KI-Bild- und Videomodelle tatsächlich brauchen). Der Übersetzen-Button wandelt auch jeden Satz in Ihrer Sprache mit einem Klick in einen englischen Prompt um."
     }
   },
   "Schema": {
@@ -125,5 +100,15 @@
       "Open Source auf GitHub",
       "Desktop-Apps für Windows, macOS, Linux"
     ]
+  },
+  "Nav": {
+    "guide": "Anleitung",
+    "otherTools": "Mehr Tools",
+    "legendtalk": "KI-Denkerrunde",
+    "aishort": "AI Short",
+    "tools": "KI-Toolbox"
+  },
+  "Guide": {
+    "fallbackNotice": "Diese Seite ist noch nicht in Ihrer Sprache verfügbar; die englische Version wird angezeigt."
   }
 }

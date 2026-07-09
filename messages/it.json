@@ -1,14 +1,9 @@
 {
   "Metadata": {
-    "title": "IMGPrompt — Costruttore Visuale Gratis di Prompt IA",
-    "description": "Costruttore di prompt IA gratuito e open source per Midjourney, FLUX, Nano Banana, Veo, Kling. Clic su tag bilingue — senza login, nel browser.",
+    "title": "IMGPrompt — Costruttore Visuale Gratuito di Prompt IA",
+    "description": "Costruttore di prompt IA gratuito e open source per Midjourney, FLUX, Nano Banana, Veo, Kling. Clicca tag bilingui — senza login, nel browser.",
     "ogTitle": "IMGPrompt — Genera prompt IA con un clic",
-    "ogDescription": "Clicca tag bilingue per comporre prompt IA per Midjourney, FLUX, Nano Banana, Veo, Kling. Gratis, locale, open source.",
-    "ogUrl": "https://prompt.newzone.top/app/it",
-    "ogSiteName": "IMGPrompt",
-    "ogLogo": "https://prompt.newzone.top/app/logo.png",
-    "authorName": "RockBen",
-    "authorUrl": "https://github.com/rockbenben"
+    "ogDescription": "Clicca i tag bilingui per comporre prompt IA per Midjourney, FLUX, Nano Banana, Veo, Kling. Gratis, locale, open source."
   },
   "ToolPage": {
     "section1": "Soggetto",
@@ -17,58 +12,54 @@
     "currentSelection": "Selezionato",
     "fallback-other": "Altri",
     "fallback-uncategorized": "Non classificato",
-    "empty-selected-tags": "Nessuna selezione",
     "tagMode-multicolor": "Multicolore",
     "tagMode-monochrome": "Monocromo"
   },
   "ResultSection": {
-    "tooltip-light": "Inserisci prompts di illuminazione (film, crepuscolo, ecc.)",
+    "tooltip-light": "Inserisci prompt di illuminazione per ritratti (luce cinematografica, raggi crepuscolari, ecc.)",
     "prompt-light": "Illuminazione",
-    "tooltip-polish": "Inserisci prompts di qualità (risoluzione/dettaglio/stile)",
+    "tooltip-polish": "Inserisci prompt di qualità (risoluzione/dettaglio/stile)",
     "prompt-polish": "Qualità",
     "insertSuccess": "Inserito",
-    "tooltip-negative": "Copia prompts negativi negli appunti (evita difetti)",
+    "tooltip-negative": "Copia i prompt negativi negli appunti (evita i difetti comuni)",
     "prompt-negative": "Negativo",
     "prompt": "Prompt",
     "button-copy": "Copia",
     "clearSuccess": "Cancellato",
     "button-clear": "Cancella",
-    "tooltip-translate": "Inserisci qualsiasi lingua, traduzione automatica in inglese",
+    "tooltip-translate": "Scrivi in qualsiasi lingua: viene tradotto automaticamente in inglese e inserito",
     "button-translate": "Traduci",
     "translateSuccess": "Tradotto e inserito",
-    "translateEmptyError": "Inserisci contenuto",
+    "translateEmptyError": "Inserisci del contenuto",
     "translateFailError": "Traduzione fallita",
-    "tooltip-randomColor": "Sostituisci colori casualmente",
+    "tooltip-randomColor": "Sostituisci casualmente le parole di colore",
     "button-randomcolor": "Cambia colore",
     "prompt-translation": "Traduzione",
-    "label-auxiliary": "Ausiliario",
-    "confirm-clear": "Cancellare il prompt attuale?",
-    "confirm-yes": "Sì",
-    "confirm-no": "No",
     "translating": "Traduzione in corso...",
     "randomColor-success": "Sostituite {count} parole di colore",
-    "randomColor-noMatch": "Nessuna parola di colore da sostituire"
+    "randomColor-noMatch": "Nessuna parola di colore da sostituire",
+    "translateLabel": "Traduci e inserisci"
   },
   "CopyToClipboard": {
     "empty": "Il contenuto è vuoto, niente da copiare",
-    "unsupported": "Il tuo browser non supporta le operazioni negli appunti, prova a copiare manualmente o usa un altro browser",
-    "success": "Copiato correttamente, puoi incollarlo nello strumento di pittura AI",
+    "unsupported": "Il tuo browser non supporta l'accesso agli appunti, prova a copiare manualmente o usa un altro browser",
+    "success": "Copiato correttamente, puoi incollarlo nello strumento di disegno IA",
     "failure": "Copia non riuscita, si prega di copiare manualmente"
   },
   "feedback": {
     "feedback1": "Feedback e suggerimenti",
     "feedback2": "Se riscontri problemi durante l'uso o hai suggerimenti e idee, non esitare a farmelo sapere! Il tuo feedback influenzerà direttamente lo sviluppo e il miglioramento delle funzionalità future, aiutandoci a creare uno strumento che soddisfi meglio le esigenze di tutti.",
     "feedback3": "Descrivi in dettaglio il tuo caso d'uso o il problema riscontrato, oppure condividi le tue idee creative. Valuterò attentamente ogni feedback e apporterò modifiche e ottimizzazioni il prima possibile.",
-    "reaction0": "Su",
-    "reaction1": "Supporto",
-    "reaction2": "Freddo",
+    "reaction0": "Mi piace",
+    "reaction1": "Ti supporto",
+    "reaction2": "Fico",
     "reaction3": "Che cosa?",
-    "reaction4": "Puzzle",
+    "reaction4": "Non capisco",
     "placeholder": "Lascia un messaggio, non è necessario effettuare l'accesso (inserisci la tua email per ricevere le notifiche di risposta)"
   },
   "Home": {
-    "h1": "IMGPrompt · Costruttore Visuale Gratis di Prompt",
-    "tagline": "Basta memorizzare prompt. Clicca etichette visive per creare prompt pro IA immagini e video — Nano Banana, Midjourney, FLUX, Veo, Kling."
+    "h1": "IMGPrompt · Scegli i prompt come i <hl>colori</hl>",
+    "tagline": "5000+ tag bilingui · prompt immagine/video IA in pochi secondi · Midjourney / FLUX / GPT-Image / Veo / Kling"
   },
   "FAQ": {
     "title": "Domande frequenti",
@@ -78,27 +69,11 @@
     },
     "q2": {
       "question": "È gratuito? È necessario registrarsi? I miei dati vengono caricati?",
-      "answer": "Completamente gratuito, senza registrazione o login. Tutta la composizione e l'inserimento dei prompt avviene localmente nel browser: nulla viene inviato a un server e non esiste un database backend. Il progetto è open source su GitHub; puoi esaminare il codice o ospitarlo da solo."
-    },
-    "q3": {
-      "question": "Quanto deve essere lungo un prompt? Esiste un limite di caratteri?",
-      "answer": "Consigliamo meno di 380 caratteri: è l'ordine di grandezza del limite di token del codificatore CLIP predefinito di Stable Diffusion; oltre questo, i token possono essere troncati o indeboliti. Lo strumento mostra un contatore in tempo reale. Midjourney, GPT-image-2 e Nano Banana sono più tolleranti, ma prompt concisi danno in genere risultati migliori."
-    },
-    "q4": {
-      "question": "Qual è la differenza tra prompt positivi e Negative Prompts? Come si usano?",
-      "answer": "I positivi descrivono cosa deve apparire (es. masterpiece, best quality, detailed face); i negativi, cosa evitare (es. lowres, blurry, bad anatomy, extra fingers). Il pulsante «Negative» copia un set comune di prompt negativi negli appunti: incollalo nel campo Negative Prompt del tuo modello."
-    },
-    "q5": {
-      "question": "Come traduco prompt dalla mia lingua all'inglese?",
-      "answer": "Il pannello destro include un pulsante Translate: inserisci testo in qualsiasi lingua, clicca Translate e lo strumento chiama un'API di traduzione che lo converte in inglese e lo aggiunge in fondo al prompt. Utile per partire da una frase ispirata senza dover tradurre ogni parola."
-    },
-    "q6": {
-      "question": "Come funzionano i pesi? Perché nei prompt compaiono le parentesi ()?",
-      "answer": "Nella sintassi di Stable Diffusion WebUI, (word) porta il peso a 1.1, ((word)) a 1.21, ecc.; puoi anche scrivere (word:1.3) per impostarlo esplicitamente. Midjourney usa la sintassi ::2. IMGPrompt preserva i token inglesi originali così da poter regolare manualmente i pesi secondo le regole del tuo modello."
+      "answer": "Completamente gratuito, senza registrazione né login. La composizione dei prompt è elaborata localmente nel browser, senza database; solo usando la funzione di traduzione quel testo viene inviato a servizi di traduzione di terze parti. Il progetto è open source su GitHub: puoi verificare il codice o ospitarlo autonomamente."
     },
     "q7": {
       "question": "Cosa distingue IMGPrompt da PromptHero, Lexica o PromptBase?",
-      "answer": "IMGPrompt è un compositore di prompt a clic, non un motore di ricerca di prompt. PromptHero, Lexica e PromptBase ti permettono di sfogliare o comprare prompt altrui; IMGPrompt ti permette di comporre il tuo cliccando tag visivi bilingue. Funziona interamente nel browser senza login né upload, mentre quelle piattaforme richiedono account e tracciano la tua attività."
+      "answer": "IMGPrompt è un compositore di prompt a clic, non un motore di ricerca di prompt. PromptHero, Lexica e PromptBase ti permettono di sfogliare o comprare prompt altrui; IMGPrompt ti permette di comporre il tuo cliccando tag visivi bilingui. Funziona interamente nel browser senza login né upload, mentre quelle piattaforme generalmente richiedono un account per l'accesso completo."
     },
     "q8": {
       "question": "IMGPrompt supporta modelli video IA come Veo, Kling e Runway?",
@@ -106,7 +81,7 @@
     },
     "q9": {
       "question": "Posso usare IMGPrompt senza parlare inglese?",
-      "answer": "Sì. L'interfaccia è disponibile in 18 lingue, e ogni tag mostra sia l'inglese che la tua lingua locale. Clicchi sui tag nella tua lingua; IMGPrompt assembla il prompt in inglese (che è ciò di cui i modelli IA immagine e video hanno effettivamente bisogno). Il pulsante Traduci converte anche qualsiasi frase nella tua lingua in prompt inglese con un clic."
+      "answer": "Sì. L'interfaccia è disponibile in 18 lingue, e ogni tag mostra sia l'inglese che la tua lingua locale. Clicchi sui tag nella tua lingua; IMGPrompt assembla il prompt in inglese (che è ciò di cui i modelli IA di immagini e video hanno effettivamente bisogno). Il pulsante Traduci converte anche qualsiasi frase nella tua lingua in prompt inglese con un clic."
     }
   },
   "Schema": {
@@ -114,7 +89,7 @@
       "Gratis e open source (MIT) — senza login",
       "Modelli immagine: Midjourney, FLUX, Nano Banana, GPT-image-2, Stable Diffusion, DALL·E",
       "Modelli video: Veo, Kling, Runway, Hailuo, Seedance",
-      "Interfaccia in 18 lingue con tag visivi bilingue — senza padronanza dell'inglese",
+      "Interfaccia in 18 lingue con tag visivi bilingui — non serve conoscere l'inglese",
       "Composizione di prompt tramite tag cliccabili",
       "Preset integrati di illuminazione e qualità",
       "Libreria di prompt negativi curata",
@@ -125,5 +100,15 @@
       "Open source su GitHub",
       "App desktop per Windows, macOS, Linux"
     ]
+  },
+  "Nav": {
+    "guide": "Guida",
+    "otherTools": "Altri strumenti",
+    "legendtalk": "Tavola rotonda dei pensatori IA",
+    "aishort": "AI Short",
+    "tools": "Cassetta degli strumenti IA"
+  },
+  "Guide": {
+    "fallbackNotice": "Questa pagina non è ancora tradotta nella tua lingua; viene mostrata la versione inglese."
   }
 }

@@ -8,13 +8,20 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+  packages: write # 用内置 GITHUB_TOKEN 推送 GHCR 所必需，否则 403
+
+env:
+  IMAGE_NAME: img-prompt
+
 jobs:
   docker-deploy:
     name: Build and Push Docker Image
     runs-on: ubuntu-latest
     steps:
       - name: 🚚 Get latest code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
@@ -40,18 +47,22 @@ jobs:
         uses: docker/login-action@v4
         with:
           registry: ghcr.io
-          username: ${{ github.repository_owner }}
-          password: ${{ secrets.GITHUB_TOKEN }} # 如果只是推送到本仓库的容器仓库，可以使用 ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }} # 如果不是推送到本仓库的容器仓库，则需要使用 ${{ secrets.GHCR_PAT }}
 
       - name: 🏷️ Extract metadata (tags, labels) for Docker
         id: meta
         uses: docker/metadata-action@v6
         with:
           images: |
-            ${{ vars.DOCKERHUB_USERNAME }}/img-prompt
-            ghcr.io/${{ github.repository_owner }}/img-prompt
+            ${{ vars.DOCKERHUB_USERNAME }}/${{ env.IMAGE_NAME }}
+            ghcr.io/${{ github.repository_owner }}/${{ env.IMAGE_NAME }}
+          # value= 让 semver tag 取 package.json 版本号而非 git tag，
+          # 这样手动触发（workflow_dispatch，无 tag）也能得到版本号 + latest
           tags: |
-            type=raw,value=${{ env.VERSION }}
+            type=semver,pattern={{version}},value=${{ env.VERSION }}
+            type=semver,pattern={{major}}.{{minor}},value=${{ env.VERSION }}
+            type=semver,pattern={{major}},value=${{ env.VERSION }}
             type=raw,value=latest
 
       # Build and push Docker image to both Docker Hub and GHCR

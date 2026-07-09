@@ -526,9 +526,10 @@
   },
   {
     "displayName": "trap",
-    "langName": "僞娘（具有女性特徵的男性可能被誤認爲是女性）",
+    "langName": "偽娘",
     "object": "人物",
     "attribute": "身份",
+    "description": "具有女性特徵的男性可能被誤認為是女性",
     "preview": "https://img.aishort.top/imgprompt/20260209061704190.webp"
   },
   {
@@ -6736,245 +6737,245 @@
     "displayName": "bed",
     "langName": "牀",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162040093.webp"
   },
   {
     "displayName": "wardrobe",
     "langName": "衣櫃",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162053495.webp"
   },
   {
     "displayName": "desk lamp",
     "langName": "檯燈",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162106430.webp"
   },
   {
     "displayName": "couch",
     "langName": "沙發",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162119154.webp"
   },
   {
     "displayName": "tatami",
     "langName": "榻榻米",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162132660.webp"
   },
   {
     "displayName": "kotatsu",
     "langName": "被爐",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162145300.webp"
   },
   {
     "displayName": "fireplace",
     "langName": "壁爐",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162202442.webp"
   },
   {
     "displayName": "table",
     "langName": "桌子",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162222062.webp"
   },
   {
     "displayName": "school_desk",
     "langName": "課桌",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162237008.webp"
   },
   {
     "displayName": "chair",
     "langName": "椅子",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162254060.webp"
   },
   {
     "displayName": "armchair",
     "langName": "扶手椅",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162306807.webp"
   },
   {
     "displayName": "lounge_chair",
     "langName": "躺椅",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162319296.webp"
   },
   {
     "displayName": "beach_chair",
     "langName": "沙灘椅",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162332482.webp"
   },
   {
     "displayName": "folding_chair",
     "langName": "摺疊椅",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162344937.webp"
   },
   {
     "displayName": "office_chair",
     "langName": "辦公椅",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162357025.webp"
   },
   {
     "displayName": "wheelchair",
     "langName": "輪椅",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162409760.webp"
   },
   {
     "displayName": "invisible_chair",
     "langName": "隱形椅子",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162422118.webp"
   },
   {
     "displayName": "window_",
     "langName": "窗",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162435190.webp"
   },
   {
     "displayName": "sash",
     "langName": "窗扇",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162448144.webp"
   },
   {
     "displayName": "curtains",
     "langName": "窗簾",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162501268.webp"
   },
   {
     "displayName": "sliding_doors",
     "langName": "推拉門",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162514149.webp"
   },
   {
     "displayName": "door",
     "langName": "門",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162527073.webp"
   },
   {
     "displayName": "clothes_rack",
     "langName": "衣架",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162539622.webp"
   },
   {
     "displayName": "air_conditioner",
-    "langName": "空調",
+    "langName": "冷氣",
     "object": "環境",
-    "attribute": "傢俱",
+    "attribute": "家具",
     "preview": "https://img.aishort.top/imgprompt/20260211162552225.webp"
   },
   {
     "displayName": "mattress",
     "langName": "牀墊；褥子",
     "object": "環境",
-    "attribute": "牀上用品",
+    "attribute": "床上用品",
     "preview": "https://img.aishort.top/imgprompt/20260211162605010.webp"
   },
   {
     "displayName": "bed_sheet",
     "langName": "牀單",
     "object": "環境",
-    "attribute": "牀上用品",
+    "attribute": "床上用品",
     "preview": "https://img.aishort.top/imgprompt/20260211162618132.webp"
   },
   {
     "displayName": "futon",
     "langName": "日本牀墊",
     "object": "環境",
-    "attribute": "牀上用品",
+    "attribute": "床上用品",
     "preview": "https://img.aishort.top/imgprompt/20260211162630784.webp"
   },
   {
     "displayName": "pillow",
     "langName": "枕頭",
     "object": "環境",
-    "attribute": "牀上用品",
+    "attribute": "床上用品",
     "preview": "https://img.aishort.top/imgprompt/20260211162643465.webp"
   },
   {
     "displayName": "cushion",
     "langName": "坐墊",
     "object": "環境",
-    "attribute": "牀上用品",
+    "attribute": "床上用品",
     "preview": "https://img.aishort.top/imgprompt/20260211162656638.webp"
   },
   {
     "displayName": "dumpling_Hug_Pillow",
     "langName": "糰子抱枕",
     "object": "環境",
-    "attribute": "牀上用品",
+    "attribute": "床上用品",
     "preview": "https://img.aishort.top/imgprompt/20260211162709467.webp"
   },
   {
     "displayName": "pillow_hug",
     "langName": "抱枕",
     "object": "環境",
-    "attribute": "牀上用品",
+    "attribute": "床上用品",
     "preview": "https://img.aishort.top/imgprompt/20260211162721941.webp"
   },
   {
     "displayName": "yes-no_pillow",
     "langName": "Yes/No枕頭",
     "object": "環境",
-    "attribute": "牀上用品",
+    "attribute": "床上用品",
     "preview": "https://img.aishort.top/imgprompt/20260211162734441.webp"
   },
   {
     "displayName": "stuffed_animal",
     "langName": "毛絨玩偶",
     "object": "環境",
-    "attribute": "牀上用品",
+    "attribute": "床上用品",
     "preview": "https://img.aishort.top/imgprompt/20260211162747356.webp"
   },
   {
     "displayName": "stuffed_bunny",
     "langName": "毛絨兔子",
     "object": "環境",
-    "attribute": "牀上用品",
+    "attribute": "床上用品",
     "preview": "https://img.aishort.top/imgprompt/20260211162759709.webp"
   },
   {
     "displayName": "carpet",
     "langName": "地毯",
     "object": "環境",
-    "attribute": "牀上用品",
+    "attribute": "床上用品",
     "preview": "https://img.aishort.top/imgprompt/20260211162812932.webp"
   },
   {
@@ -7233,77 +7234,77 @@
     "displayName": "computer",
     "langName": "電腦",
     "object": "物品",
-    "attribute": "數碼設備",
+    "attribute": "數位設備",
     "preview": "https://img.aishort.top/imgprompt/20260211163553561.webp"
   },
   {
     "displayName": "mouse",
-    "langName": "鼠標",
+    "langName": "滑鼠",
     "object": "物品",
-    "attribute": "數碼設備",
+    "attribute": "數位設備",
     "preview": "https://img.aishort.top/imgprompt/20260211163606205.webp"
   },
   {
     "displayName": "cell phone",
     "langName": "手機",
     "object": "物品",
-    "attribute": "數碼設備",
+    "attribute": "數位設備",
     "preview": "https://img.aishort.top/imgprompt/20260211163619097.webp"
   },
   {
     "displayName": "camera",
     "langName": "相機",
     "object": "物品",
-    "attribute": "數碼設備",
+    "attribute": "數位設備",
     "preview": "https://img.aishort.top/imgprompt/20260211163631547.webp"
   },
   {
     "displayName": "nintendo_switch",
     "langName": "任天堂switch",
     "object": "物品",
-    "attribute": "數碼設備",
+    "attribute": "數位設備",
     "preview": "https://img.aishort.top/imgprompt/20260317065916300.webp"
   },
   {
     "displayName": "handheld_game_console",
     "langName": "掌上遊戲機",
     "object": "物品",
-    "attribute": "數碼設備",
+    "attribute": "數位設備",
     "preview": "https://img.aishort.top/imgprompt/20260211163649401.webp"
   },
   {
     "displayName": "nintendo_3ds",
     "langName": "任天堂3ds",
     "object": "物品",
-    "attribute": "數碼設備",
+    "attribute": "數位設備",
     "preview": "https://img.aishort.top/imgprompt/20260317065939004.webp"
   },
   {
     "displayName": "nintendo_ds",
     "langName": "任天堂ds",
     "object": "物品",
-    "attribute": "數碼設備",
+    "attribute": "數位設備",
     "preview": "https://img.aishort.top/imgprompt/20260317065959211.webp"
   },
   {
     "displayName": "cable",
     "langName": "電纜",
     "object": "物品",
-    "attribute": "數碼設備",
+    "attribute": "數位設備",
     "preview": "https://img.aishort.top/imgprompt/20260211163718049.webp"
   },
   {
     "displayName": "power_lines",
     "langName": "電源線",
     "object": "物品",
-    "attribute": "數碼設備",
+    "attribute": "數位設備",
     "preview": "https://img.aishort.top/imgprompt/20260211163737507.webp"
   },
   {
     "displayName": "buttons",
     "langName": "按鈕",
     "object": "物品",
-    "attribute": "數碼設備",
+    "attribute": "數位設備",
     "preview": "https://img.aishort.top/imgprompt/20260211163754587.webp"
   },
   {
@@ -7427,7 +7428,7 @@
   },
   {
     "displayName": "Cheese Grater",
-    "langName": "奶酪刨絲器",
+    "langName": "起司刨絲器",
     "object": "物品",
     "attribute": "餐具",
     "preview": "https://img.aishort.top/imgprompt/20260211164142718.webp"
@@ -8213,133 +8214,133 @@
     "displayName": "food",
     "langName": "食物",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170518114.webp"
   },
   {
     "displayName": "makizushi",
     "langName": "海苔卷壽司",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170530753.webp"
   },
   {
     "displayName": "onigiri",
     "langName": "飯糰",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170543353.webp"
   },
   {
     "displayName": "obento",
     "langName": "便當",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170556196.webp"
   },
   {
     "displayName": "ramen",
     "langName": "拉麪",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170608842.webp"
   },
   {
     "displayName": "noodles",
     "langName": "麪條",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170621606.webp"
   },
   {
     "displayName": "tempura",
     "langName": "天婦羅",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170634541.webp"
   },
   {
     "displayName": "pasties",
     "langName": "餡餅",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170647436.webp"
   },
   {
     "displayName": "burger",
     "langName": "漢堡",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170700686.webp"
   },
   {
     "displayName": "A_sushi_roll",
     "langName": "壽司卷",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170713317.webp"
   },
   {
     "displayName": "Macaroni",
     "langName": "通心粉",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170726041.webp"
   },
   {
     "displayName": "Marconi and Cheese",
-    "langName": "馬克龍奶酪",
+    "langName": "起司通心麵",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170738804.webp"
   },
   {
     "displayName": "Pretzel",
     "langName": "椒鹽脆餅",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170751619.webp"
   },
   {
     "displayName": "Churros",
     "langName": "油條",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170804175.webp"
   },
   {
     "displayName": "Bread",
     "langName": "麪包",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170816886.webp"
   },
   {
     "displayName": "Made of Bread",
     "langName": "麪包做的",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170829823.webp"
   },
   {
     "displayName": "Shortcrust-Pastry",
     "langName": "酥皮",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170842467.webp"
   },
   {
     "displayName": "Flaky-Pastry",
     "langName": "千層酥皮",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170855115.webp"
   },
   {
     "displayName": "Puff-Pastry",
     "langName": "泡芙糕點",
     "object": "物品",
-    "attribute": "主食麪食",
+    "attribute": "主食麵食",
     "preview": "https://img.aishort.top/imgprompt/20260211170907722.webp"
   },
   {
@@ -8414,7 +8415,7 @@
   },
   {
     "displayName": "ice_cream",
-    "langName": "冰激凌",
+    "langName": "冰淇淋",
     "object": "物品",
     "attribute": "甜品糖果",
     "preview": "https://img.aishort.top/imgprompt/20260211171125166.webp"
@@ -8631,21 +8632,21 @@
   },
   {
     "displayName": "Butter",
-    "langName": "黃油",
+    "langName": "奶油",
     "object": "物品",
     "attribute": "食材配料",
     "preview": "https://img.aishort.top/imgprompt/20260211171757272.webp"
   },
   {
     "displayName": "Margarine",
-    "langName": "人造黃油",
+    "langName": "人造奶油",
     "object": "物品",
     "attribute": "食材配料",
     "preview": "https://img.aishort.top/imgprompt/20260211171809872.webp"
   },
   {
     "displayName": "Cheese",
-    "langName": "奶酪",
+    "langName": "起司",
     "object": "物品",
     "attribute": "食材配料",
     "preview": "https://img.aishort.top/imgprompt/20260211171822493.webp"
@@ -8778,14 +8779,14 @@
   },
   {
     "displayName": "chips",
-    "langName": "薯片",
+    "langName": "洋芋片",
     "object": "物品",
     "attribute": "零食休閒",
     "preview": "https://img.aishort.top/imgprompt/20260211172221591.webp"
   },
   {
     "displayName": "potato_chips",
-    "langName": "薯片",
+    "langName": "洋芋片",
     "object": "物品",
     "attribute": "零食休閒",
     "preview": "https://img.aishort.top/imgprompt/20260211172233934.webp"
@@ -9800,7 +9801,7 @@
   },
   {
     "displayName": "looking_at_screen",
-    "langName": "看着屏幕",
+    "langName": "看著螢幕",
     "object": "動作",
     "attribute": "眼神表情",
     "preview": "https://img.aishort.top/imgprompt/20260211175325398.webp"
@@ -13376,7 +13377,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211194355522.webp"
   },
   {
-    "displayName": "(detailed light) ,feather,leaves,nature,(sunlight),river,(forest),(bloom)",
+    "displayName": "(detailed light),feather,leaves,nature,(sunlight),river,(forest),(bloom)",
     "langName": "森林法",
     "object": "動作",
     "attribute": "魔法",
@@ -13523,7 +13524,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260317065746192.webp"
   },
   {
-    "displayName": "((full body)),(helpless),tear,crying,(((((falling from the sky))))),((Weathering With You)),((falling)),((face towards the sky))，(hair flows upwards),((disheveled hair)),(1 girl),floating,beautiful detailed sky",
+    "displayName": "((full body)),(helpless),tear,crying,(((((falling from the sky))))),((Weathering With You)),((falling)),((face towards the sky)),(hair flows upwards),((disheveled hair)),(1 girl),floating,beautiful detailed sky",
     "langName": "墜落法",
     "object": "動作",
     "attribute": "魔法",
@@ -13607,7 +13608,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195208990.webp"
   },
   {
-    "displayName": "beautiful detailed sky,night,stars,(red plum blossom),((winter)),(((snowflakes))),((red and white flowers))，(starry sky),(sitting),((colorful)),scenery,lantern,(starfall)",
+    "displayName": "beautiful detailed sky,night,stars,(red plum blossom),((winter)),(((snowflakes))),((red and white flowers)),(starry sky),(sitting),((colorful)),scenery,lantern,(starfall)",
     "langName": "冬雪法",
     "object": "動作",
     "attribute": "魔法",
@@ -13621,7 +13622,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195241113.webp"
   },
   {
-    "displayName": "Floating black ashes,Beautiful and detailed black,red moon,((The black clouds)),(black Wings) ,a black cloudy sky,burning,black dress,((Black fog)),Red eyes,(black smoke),((Black feathers floating in the air)),bat,(floating black cloud:1.5),",
+    "displayName": "Floating black ashes,Beautiful and detailed black,red moon,((The black clouds)),(black Wings),a black cloudy sky,burning,black dress,((Black fog)),Red eyes,(black smoke),((Black feathers floating in the air)),bat,(floating black cloud:1.5),",
     "langName": "暗鴉法",
     "object": "動作",
     "attribute": "魔法",
@@ -13656,7 +13657,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260317071147355.webp"
   },
   {
-    "displayName": "((messy hair)),(grassland),(yellow eyes),incredibly absurdres,(gold hair),floating hair,Large number of environments,the medieval ,grace,prospect,water eyes,wind,breeze,god ray,lawn,Mountains and lakes in the distance,The sun shines through the trees,A vast expanse of grassland",
+    "displayName": "((messy hair)),(grassland),(yellow eyes),incredibly absurdres,(gold hair),floating hair,Large number of environments,the medieval,grace,prospect,water eyes,wind,breeze,god ray,lawn,Mountains and lakes in the distance,The sun shines through the trees,A vast expanse of grassland",
     "langName": "輝煌陽光法",
     "object": "動作",
     "attribute": "魔法",
@@ -13670,7 +13671,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195412202.webp"
   },
   {
-    "displayName": "There are many scattered luminous petals,Hidden in the light yellow flowers,Depth of field,Many flying drops of water,Many scattered leaves,branch ,angle ,contour deepening,cinematic angle",
+    "displayName": "There are many scattered luminous petals,Hidden in the light yellow flowers,Depth of field,Many flying drops of water,Many scattered leaves,branch,angle,contour deepening,cinematic angle",
     "langName": "森羅法",
     "object": "動作",
     "attribute": "魔法",
@@ -13930,9 +13931,10 @@
   },
   {
     "displayName": "tearing_clothes",
-    "langName": "撕破衣服(極度悲傷下，通過撕扯衣服來發泄情緒)",
+    "langName": "撕破衣服",
     "object": "表情",
     "attribute": "哭",
+    "description": "極度悲傷下，透過撕扯衣服來發洩情緒",
     "preview": "https://img.aishort.top/imgprompt/20260225101903693.webp"
   },
   {
@@ -14959,7 +14961,7 @@
   },
   {
     "displayName": "meme_attire",
-    "langName": "模仿網絡迷因的服裝",
+    "langName": "模仿網路迷因的服裝",
     "object": "服飾",
     "attribute": "服飾風格",
     "preview": "https://img.aishort.top/imgprompt/20260212121058916.webp"
@@ -20425,7 +20427,7 @@
   },
   {
     "displayName": "arrow_print",
-    "langName": "箭頭打印",
+    "langName": "箭頭印花",
     "object": "服飾",
     "attribute": "花紋",
     "preview": "https://img.aishort.top/imgprompt/20260213154333725.webp"
@@ -20544,7 +20546,7 @@
   },
   {
     "displayName": "onigiri_print",
-    "langName": "飯糰打印",
+    "langName": "飯糰印花",
     "object": "服飾",
     "attribute": "花紋",
     "preview": "https://img.aishort.top/imgprompt/20260213154918144.webp"
@@ -22574,7 +22576,7 @@
   },
   {
     "displayName": "cabbie_hat",
-    "langName": "出租車司機帽",
+    "langName": "計程車司機帽",
     "object": "飾品",
     "attribute": "帽子",
     "preview": "https://img.aishort.top/imgprompt/20260213220124338.webp"
@@ -24100,7 +24102,7 @@
   },
   {
     "displayName": "phone_screen",
-    "langName": "手機屏幕",
+    "langName": "手機螢幕",
     "object": "攝影",
     "attribute": "構圖",
     "preview": "https://img.aishort.top/imgprompt/20260214024109813.webp"
@@ -24597,7 +24599,7 @@
   },
   {
     "displayName": "Super-Resolution Microscopy",
-    "langName": "超分辨率顯微鏡",
+    "langName": "超解析度顯微鏡",
     "object": "攝影",
     "attribute": "鏡頭/光學效果",
     "preview": "https://img.aishort.top/imgprompt/20260214040739897.webp"
@@ -24928,77 +24930,77 @@
     "displayName": "flash photography",
     "langName": "閃光燈拍攝",
     "object": "攝影",
-    "attribute": "相機設置",
+    "attribute": "相機設定",
     "preview": "https://img.aishort.top/imgprompt/20260214044503923.webp"
   },
   {
     "displayName": "Exposure",
     "langName": "曝光",
     "object": "攝影",
-    "attribute": "相機設置",
+    "attribute": "相機設定",
     "preview": "https://img.aishort.top/imgprompt/20260214044718642.webp"
   },
   {
     "displayName": "Short Exposure",
     "langName": "短曝光",
     "object": "攝影",
-    "attribute": "相機設置",
+    "attribute": "相機設定",
     "preview": "https://img.aishort.top/imgprompt/20260214044933384.webp"
   },
   {
     "displayName": "Long Exposure",
     "langName": "長曝光",
     "object": "攝影",
-    "attribute": "相機設置",
+    "attribute": "相機設定",
     "preview": "https://img.aishort.top/imgprompt/20260214045148128.webp"
   },
   {
     "displayName": "Double-Exposure",
     "langName": "雙重曝光",
     "object": "攝影",
-    "attribute": "相機設置",
+    "attribute": "相機設定",
     "preview": "https://img.aishort.top/imgprompt/20260214045201066.webp"
   },
   {
     "displayName": "Shutter Speed 1/1000",
     "langName": "快門速度 1/1000",
     "object": "攝影",
-    "attribute": "相機設置",
+    "attribute": "相機設定",
     "preview": "https://img.aishort.top/imgprompt/20260214045214076.webp"
   },
   {
     "displayName": "Shutter Speed 1/2",
     "langName": "快門速度 1/2",
     "object": "攝影",
-    "attribute": "相機設置",
+    "attribute": "相機設定",
     "preview": "https://img.aishort.top/imgprompt/20260214045226877.webp"
   },
   {
     "displayName": "F/2.8",
     "langName": "光圈/2.8",
     "object": "攝影",
-    "attribute": "相機設置",
+    "attribute": "相機設定",
     "preview": "https://img.aishort.top/imgprompt/20260214045239823.webp"
   },
   {
     "displayName": "F/22",
     "langName": "F/22",
     "object": "攝影",
-    "attribute": "相機設置",
+    "attribute": "相機設定",
     "preview": "https://img.aishort.top/imgprompt/20260214045252713.webp"
   },
   {
     "displayName": "Gamma",
     "langName": "伽馬",
     "object": "攝影",
-    "attribute": "相機設置",
+    "attribute": "相機設定",
     "preview": "https://img.aishort.top/imgprompt/20260214045305593.webp"
   },
   {
     "displayName": "White Balance",
     "langName": "白平衡",
     "object": "攝影",
-    "attribute": "相機設置",
+    "attribute": "相機設定",
     "preview": "https://img.aishort.top/imgprompt/20260214045318317.webp"
   },
   {
@@ -25215,77 +25217,77 @@
     "displayName": "Unary",
     "langName": "一元",
     "object": "攝影",
-    "attribute": "數字系統",
+    "attribute": "數位系統",
     "preview": "https://img.aishort.top/imgprompt/20260214054813306.webp"
   },
   {
     "displayName": "Binary",
     "langName": "二進制",
     "object": "攝影",
-    "attribute": "數字系統",
+    "attribute": "數位系統",
     "preview": "https://img.aishort.top/imgprompt/20260214054825750.webp"
   },
   {
     "displayName": "Ternary",
     "langName": "三進制",
     "object": "攝影",
-    "attribute": "數字系統",
+    "attribute": "數位系統",
     "preview": "https://img.aishort.top/imgprompt/20260225091417918.webp"
   },
   {
     "displayName": "Quaternary",
     "langName": "四進制",
     "object": "攝影",
-    "attribute": "數字系統",
+    "attribute": "數位系統",
     "preview": "https://img.aishort.top/imgprompt/20260214054849931.webp"
   },
   {
     "displayName": "Quinary",
     "langName": "五進制",
     "object": "攝影",
-    "attribute": "數字系統",
+    "attribute": "數位系統",
     "preview": "https://img.aishort.top/imgprompt/20260214055105845.webp"
   },
   {
     "displayName": "Senary",
     "langName": "六進制",
     "object": "攝影",
-    "attribute": "數字系統",
+    "attribute": "數位系統",
     "preview": "https://img.aishort.top/imgprompt/20260224190302103.webp"
   },
   {
     "displayName": "Septenary",
     "langName": "七進制",
     "object": "攝影",
-    "attribute": "數字系統",
+    "attribute": "數位系統",
     "preview": "https://img.aishort.top/imgprompt/20260224190314233.webp"
   },
   {
     "displayName": "Octal",
     "langName": "八進制",
     "object": "攝影",
-    "attribute": "數字系統",
+    "attribute": "數位系統",
     "preview": "https://img.aishort.top/imgprompt/20260224190327461.webp"
   },
   {
     "displayName": "Nonary",
     "langName": "九進制",
     "object": "攝影",
-    "attribute": "數字系統",
+    "attribute": "數位系統",
     "preview": "https://img.aishort.top/imgprompt/20260224190748362.webp"
   },
   {
     "displayName": "Decimal",
     "langName": "十進制",
     "object": "攝影",
-    "attribute": "數字系統",
+    "attribute": "數位系統",
     "preview": "https://img.aishort.top/imgprompt/20260224190802349.webp"
   },
   {
     "displayName": "Hexadecimal",
     "langName": "十六進制",
     "object": "攝影",
-    "attribute": "數字系統",
+    "attribute": "數位系統",
     "preview": "https://img.aishort.top/imgprompt/20260224191018464.webp"
   },
   {
@@ -25481,7 +25483,7 @@
     "displayName": "Handheld Shot",
     "langName": "手持鏡頭",
     "object": "攝影",
-    "attribute": "高級運鏡",
+    "attribute": "進階運鏡",
     "description": "攝影師手持設備拍攝，營造自然、緊張或真實感。",
     "preview": "https://img.aishort.top/imgprompt/20260224194029563.webp"
   },
@@ -25489,7 +25491,7 @@
     "displayName": "Complex Camera Movement",
     "langName": "複合運鏡",
     "object": "攝影",
-    "attribute": "高級運鏡",
+    "attribute": "進階運鏡",
     "description": "結合多種運鏡方式（如推進+側移），表現更復雜的場景或情緒。",
     "preview": "https://img.aishort.top/imgprompt/20260224194043291.webp"
   },
@@ -25497,7 +25499,7 @@
     "displayName": "Follow Shot",
     "langName": "跟隨鏡頭",
     "object": "攝影",
-    "attribute": "高級運鏡",
+    "attribute": "進階運鏡",
     "description": "鏡頭持續跟隨人物或物體移動，強調動作和連續性。",
     "preview": "https://img.aishort.top/imgprompt/20260224194306759.webp"
   },
@@ -25505,7 +25507,7 @@
     "displayName": "Orbit Shot",
     "langName": "環繞運鏡",
     "object": "攝影",
-    "attribute": "高級運鏡",
+    "attribute": "進階運鏡",
     "description": "攝影機環繞拍攝對象移動一圈，常用於突出人物或營造視覺衝擊力。",
     "preview": "https://img.aishort.top/imgprompt/20260224194321570.webp"
   },
@@ -25535,7 +25537,7 @@
     "langName": "實用光",
     "object": "光影效果",
     "attribute": "光源",
-    "description": "畫面中真實存在的、被拍攝入鏡的光源，例如檯燈、蠟燭、電視屏幕等。通常用於增強畫面真實感。",
+    "description": "畫面中真實存在的、被拍攝入鏡的光源，例如檯燈、蠟燭、電視螢幕等。通常用於增強畫面真實感。",
     "preview": "https://img.aishort.top/imgprompt/20260224194856204.webp"
   },
   {
@@ -25837,7 +25839,7 @@
   },
   {
     "displayName": "Plasma Globe",
-    "langName": "等離子球",
+    "langName": "電漿球",
     "object": "光影效果",
     "attribute": "光照效果",
     "preview": "https://img.aishort.top/imgprompt/20260224200355669.webp"
@@ -25865,7 +25867,7 @@
   },
   {
     "displayName": "Contre-Jour",
-    "langName": "反白日",
+    "langName": "逆光",
     "object": "光影效果",
     "attribute": "光照效果",
     "preview": "https://img.aishort.top/imgprompt/20260224200453423.webp"
@@ -25900,28 +25902,28 @@
   },
   {
     "displayName": "Global Illumination",
-    "langName": "全局光照",
+    "langName": "全域光照",
     "object": "光影效果",
     "attribute": "光照效果",
     "preview": "https://img.aishort.top/imgprompt/20260224200605690.webp"
   },
   {
     "displayName": "Lumen Global Illumination",
-    "langName": "流明全局照明",
+    "langName": "流明全域照明",
     "object": "光影效果",
     "attribute": "光照效果",
     "preview": "https://img.aishort.top/imgprompt/20260224200621282.webp"
   },
   {
     "displayName": "Screen Space Global Illumination",
-    "langName": "屏幕空間全局光照",
+    "langName": "螢幕空間全域光照",
     "object": "光影效果",
     "attribute": "光照效果",
     "preview": "https://img.aishort.top/imgprompt/20260224200634881.webp"
   },
   {
     "displayName": "Ray Tracing Global Illumination",
-    "langName": "光線追蹤全局光照",
+    "langName": "光線追蹤全域光照",
     "object": "光影效果",
     "attribute": "光照效果",
     "preview": "https://img.aishort.top/imgprompt/20260224200648348.webp"
@@ -26075,7 +26077,7 @@
   },
   {
     "displayName": "Laser",
-    "langName": "激光",
+    "langName": "雷射",
     "object": "光影效果",
     "attribute": "燈光",
     "preview": "https://img.aishort.top/imgprompt/20260224203206526.webp"
@@ -26187,7 +26189,7 @@
   },
   {
     "displayName": "Plasma Display",
-    "langName": "等離子顯示器",
+    "langName": "電漿顯示器",
     "object": "光影效果",
     "attribute": "顯示技術",
     "preview": "https://img.aishort.top/imgprompt/20260224204830107.webp"
@@ -26341,7 +26343,7 @@
   },
   {
     "displayName": "Screen Space Reflections",
-    "langName": "屏幕空間反射",
+    "langName": "螢幕空間反射",
     "object": "光影效果",
     "attribute": "材質屬性",
     "preview": "https://img.aishort.top/imgprompt/20260224213425137.webp"
@@ -26525,182 +26527,182 @@
     "displayName": "black",
     "langName": "黑色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215146969.webp"
   },
   {
     "displayName": "darkgray",
     "langName": "深灰色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215202792.webp"
   },
   {
     "displayName": "gray",
     "langName": "灰色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215219323.webp"
   },
   {
     "displayName": "lightslategray",
     "langName": "亮石板灰",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215445171.webp"
   },
   {
     "displayName": "slategray",
     "langName": "灰石色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215707499.webp"
   },
   {
     "displayName": "darkslategray",
     "langName": "深綠色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215723678.webp"
   },
   {
     "displayName": "lightgray",
     "langName": "淺灰色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215740968.webp"
   },
   {
     "displayName": "gainsboro",
     "langName": "庚氏灰色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215757956.webp"
   },
   {
     "displayName": "white",
     "langName": "白色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215811719.webp"
   },
   {
     "displayName": "whitesmoke",
     "langName": "白煙色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215825306.webp"
   },
   {
     "displayName": "snow",
     "langName": "雪白色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215841404.webp"
   },
   {
     "displayName": "ghostwhite",
     "langName": "幽靈白",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215855931.webp"
   },
   {
     "displayName": "floralwhite",
     "langName": "花白色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215910136.webp"
   },
   {
     "displayName": "linen",
     "langName": "亞麻色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215925000.webp"
   },
   {
     "displayName": "antiquewhite",
     "langName": "古董白",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215939008.webp"
   },
   {
     "displayName": "oldlace",
     "langName": "老花色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224215953255.webp"
   },
   {
     "displayName": "ivory",
     "langName": "象牙色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224220009201.webp"
   },
   {
     "displayName": "seashell",
     "langName": "貝殼白",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224220024502.webp"
   },
   {
     "displayName": "mintcream",
     "langName": "薄荷奶油色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224220038426.webp"
   },
   {
     "displayName": "honeydew",
     "langName": "蜜色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224220053779.webp"
   },
   {
     "displayName": "bisque",
     "langName": "餅乾色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224220107603.webp"
   },
   {
     "displayName": "moccasin",
     "langName": "鹿皮鞋色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224220120962.webp"
   },
   {
     "displayName": "light_brown",
     "langName": "淺棕色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224220136194.webp"
   },
   {
     "displayName": "blonde",
     "langName": "金黃色的",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224220150348.webp"
   },
   {
     "displayName": "silver",
     "langName": "銀色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224220205111.webp"
   },
   {
     "displayName": "darkslateblue",
     "langName": "暗灰藍色",
     "object": "色彩氛圍",
-    "attribute": "灰度色",
+    "attribute": "灰階色",
     "preview": "https://img.aishort.top/imgprompt/20260224220219433.webp"
   },
   {
@@ -27512,308 +27514,309 @@
     "displayName": "yellow color scheme",
     "langName": "黃色主色調",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223059025.webp"
   },
   {
     "displayName": "Warm Color Palette",
     "langName": "暖色調",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223116949.webp"
   },
   {
     "displayName": "Cool Color Palette",
     "langName": "冷色調",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223133968.webp"
   },
   {
     "displayName": "Colorful",
     "langName": "豐富多彩的",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223148590.webp"
   },
   {
     "displayName": "Spectral Color",
     "langName": "光譜顏色",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223204301.webp"
   },
   {
     "displayName": "Inverted Colors",
     "langName": "反色",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223221595.webp"
   },
   {
     "displayName": "Chroma",
     "langName": "色度",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223241758.webp"
   },
   {
     "displayName": "Dichromatism",
     "langName": "雙色性",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223301511.webp"
   },
   {
     "displayName": "Tetrachromacy",
     "langName": "四色視覺",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223321484.webp"
   },
   {
     "displayName": "Saturated",
     "langName": "飽和",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223341639.webp"
   },
   {
     "displayName": "Neon",
     "langName": "霓虹",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223357104.webp"
   },
   {
     "displayName": "Electric Colors",
     "langName": "電子色",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223410864.webp"
   },
   {
     "displayName": "Tonal Colors",
     "langName": "色調顏色",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223429234.webp"
   },
   {
     "displayName": "Vivid Colors",
     "langName": "鮮豔的顏色",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223444549.webp"
   },
   {
     "displayName": "Complimentary-Colors",
     "langName": "互補色",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223458770.webp"
   },
   {
     "displayName": "Split-Complementary-Colors",
     "langName": "分裂互補色",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223512403.webp"
   },
   {
     "displayName": "Supplementary-Colors",
     "langName": "補充色",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223528366.webp"
   },
   {
     "displayName": "Analogous-Colors",
     "langName": "相似色",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223542186.webp"
   },
   {
     "displayName": "Triadic-Colors",
     "langName": "三元色",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223557459.webp"
   },
   {
     "displayName": "Tetradic-Colors",
     "langName": "四色（矩形配色）",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223613371.webp"
   },
   {
     "displayName": "Polychromatic-Colors",
     "langName": "多色彩",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223627552.webp"
   },
   {
     "displayName": "Light",
     "langName": "明亮",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223641776.webp"
   },
   {
     "displayName": "Dark",
     "langName": "黑暗",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223655045.webp"
   },
   {
     "displayName": "Light Mode",
     "langName": "淺色模式",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223711621.webp"
   },
   {
     "displayName": "Dark Mode",
     "langName": "深色模式",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223724577.webp"
   },
   {
     "displayName": "Tones of Black",
     "langName": "黑色調",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223738015.webp"
   },
   {
     "displayName": "Tones of Black in Background",
     "langName": "背景黑色調",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223753334.webp"
   },
   {
     "displayName": "Light Blue Background",
     "langName": "淺藍色背景",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223808716.webp"
   },
   {
     "displayName": "Light Blue Foreground",
     "langName": "淺藍色前景",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223821644.webp"
   },
   {
     "displayName": "Light Blue",
     "langName": "淺藍色",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223835878.webp"
   },
   {
     "displayName": "nostalgia",
     "langName": "懷舊的",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223852603.webp"
   },
   {
     "displayName": "High saturation",
     "langName": "高飽和",
     "object": "色彩氛圍",
-    "attribute": "彩色調色板",
+    "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223907119.webp"
   },
   {
     "displayName": "monochrome",
     "langName": "單色",
     "object": "色彩氛圍",
-    "attribute": "單色調色板",
+    "attribute": "單色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223923019.webp"
   },
   {
     "displayName": "Black and White",
     "langName": "黑白",
     "object": "色彩氛圍",
-    "attribute": "單色調色板",
+    "attribute": "單色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223936770.webp"
   },
   {
     "displayName": "Desaturated",
     "langName": "去飽和",
     "object": "色彩氛圍",
-    "attribute": "單色調色板",
+    "attribute": "單色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223952206.webp"
   },
   {
     "displayName": "Sepia",
-    "langName": "褐色調(模仿老照片的外觀，給人一種懷舊或復古的感覺)",
+    "langName": "褐色調",
     "object": "色彩氛圍",
-    "attribute": "單色調色板",
+    "attribute": "單色調色盤",
+    "description": "模仿老照片的外觀，給人一種懷舊或復古的感覺",
     "preview": "https://img.aishort.top/imgprompt/20260224224006064.webp"
   },
   {
     "displayName": "flat_color",
     "langName": "平面色",
     "object": "色彩氛圍",
-    "attribute": "單色調色板",
+    "attribute": "單色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260317075810679.webp"
   },
   {
     "displayName": "spot_color",
     "langName": "純色",
     "object": "色彩氛圍",
-    "attribute": "單色調色板",
+    "attribute": "單色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224025193.webp"
   },
   {
     "displayName": "halftone",
     "langName": "半色調",
     "object": "色彩氛圍",
-    "attribute": "單色調色板",
+    "attribute": "單色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224039295.webp"
   },
   {
     "displayName": "greyscale",
-    "langName": "灰度",
+    "langName": "灰階",
     "object": "色彩氛圍",
-    "attribute": "單色調色板",
+    "attribute": "單色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224053070.webp"
   },
   {
     "displayName": "partially_colored",
     "langName": "部分着色",
     "object": "色彩氛圍",
-    "attribute": "單色調色板",
+    "attribute": "單色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224111212.webp"
   },
   {
     "displayName": "contour_deepening",
     "langName": "輪廓加深",
     "object": "色彩氛圍",
-    "attribute": "單色調色板",
+    "attribute": "單色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224125277.webp"
   },
   {
     "displayName": "(lineart)",
     "langName": "線條變粗",
     "object": "色彩氛圍",
-    "attribute": "單色調色板",
+    "attribute": "單色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260225091526424.webp"
   },
   {
     "displayName": "outline",
     "langName": "輪廓線",
     "object": "色彩氛圍",
-    "attribute": "單色調色板",
+    "attribute": "單色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224155368.webp"
   },
   {
@@ -27834,147 +27837,147 @@
     "displayName": "RGB",
     "langName": "紅綠藍",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224247121.webp"
   },
   {
     "displayName": "CMYK",
     "langName": "CMYK",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224303324.webp"
   },
   {
     "displayName": "VGA",
     "langName": "VGA",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224317914.webp"
   },
   {
     "displayName": "EGA",
     "langName": "EGA",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224332009.webp"
   },
   {
     "displayName": "CGA",
     "langName": "CGA",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224347905.webp"
   },
   {
     "displayName": "HDR",
     "langName": "HDR",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224401445.webp"
   },
   {
     "displayName": "Atari Graphics",
     "langName": "雅達利圖形",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224415318.webp"
   },
   {
     "displayName": "IIGS Graphics",
     "langName": "IIGS 圖形",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224430068.webp"
   },
   {
     "displayName": "Amiga OCS Graphics",
     "langName": "Amiga OCS 圖形",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224446005.webp"
   },
   {
     "displayName": "sRGB",
     "langName": "sRGB",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224501653.webp"
   },
   {
     "displayName": "Adobe RGB",
     "langName": "Adobe RGB",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224519504.webp"
   },
   {
     "displayName": "DCI-P3",
     "langName": "DCI-P3",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224532778.webp"
   },
   {
     "displayName": "HSV",
     "langName": "色相、飽和度、明度",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224548087.webp"
   },
   {
     "displayName": "HSL",
     "langName": "色相、飽和度、亮度",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224601439.webp"
   },
   {
     "displayName": "HCL",
     "langName": "色相、色度、照度",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
   },
   {
     "displayName": "YCbCr",
     "langName": "YCbCr",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224629664.webp"
   },
   {
     "displayName": "YPbPr",
     "langName": "YPbPr",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224643063.webp"
   },
   {
     "displayName": "scRGB",
     "langName": "單色 RGB",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224656631.webp"
   },
   {
     "displayName": "Coloroid",
     "langName": "Coloroid",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224712492.webp"
   },
   {
     "displayName": "Pantone",
     "langName": "潘通",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224735997.webp"
   },
   {
     "displayName": "ProPhoto RGB",
     "langName": "ProPhoto RGB",
     "object": "色彩氛圍",
-    "attribute": "顯示器調色板",
+    "attribute": "顯示器調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224224751744.webp"
   },
   {
@@ -28483,7 +28486,7 @@
   },
   {
     "displayName": "Manila Folder",
-    "langName": "馬尼拉文件夾",
+    "langName": "馬尼拉資料夾",
     "object": "素材",
     "attribute": "木材和紙張",
     "preview": "https://img.aishort.top/imgprompt/20260224230750901.webp"
@@ -29549,91 +29552,91 @@
     "displayName": "Plastic",
     "langName": "塑料",
     "object": "素材",
-    "attribute": "塑料/泡沫膜",
+    "attribute": "塑膠/泡棉膜",
     "preview": "https://img.aishort.top/imgprompt/20260224234707159.webp"
   },
   {
     "displayName": "Shrink Wrap",
     "langName": "收縮膜",
     "object": "素材",
-    "attribute": "塑料/泡沫膜",
+    "attribute": "塑膠/泡棉膜",
     "preview": "https://img.aishort.top/imgprompt/20260224234721015.webp"
   },
   {
     "displayName": "Plastic Wrap",
     "langName": "保鮮膜",
     "object": "素材",
-    "attribute": "塑料/泡沫膜",
+    "attribute": "塑膠/泡棉膜",
     "preview": "https://img.aishort.top/imgprompt/20260224234735382.webp"
   },
   {
     "displayName": "Cling Wrap",
     "langName": "粘包裝膜",
     "object": "素材",
-    "attribute": "塑料/泡沫膜",
+    "attribute": "塑膠/泡棉膜",
     "preview": "https://img.aishort.top/imgprompt/20260224234752774.webp"
   },
   {
     "displayName": "Teflon",
     "langName": "鐵氟龍",
     "object": "素材",
-    "attribute": "塑料/泡沫膜",
+    "attribute": "塑膠/泡棉膜",
     "preview": "https://img.aishort.top/imgprompt/20260224234808641.webp"
   },
   {
     "displayName": "Lego",
     "langName": "樂高",
     "object": "素材",
-    "attribute": "塑料/泡沫膜",
+    "attribute": "塑膠/泡棉膜",
     "preview": "https://img.aishort.top/imgprompt/20260317080017845.webp"
   },
   {
     "displayName": "Polyurethane",
     "langName": "聚氨酯",
     "object": "素材",
-    "attribute": "塑料/泡沫膜",
+    "attribute": "塑膠/泡棉膜",
     "preview": "https://img.aishort.top/imgprompt/20260224234830063.webp"
   },
   {
     "displayName": "Polyethylene",
     "langName": "聚乙烯",
     "object": "素材",
-    "attribute": "塑料/泡沫膜",
+    "attribute": "塑膠/泡棉膜",
     "preview": "https://img.aishort.top/imgprompt/20260224234842909.webp"
   },
   {
     "displayName": "Polyvinyl",
     "langName": "聚乙烯",
     "object": "素材",
-    "attribute": "塑料/泡沫膜",
+    "attribute": "塑膠/泡棉膜",
     "preview": "https://img.aishort.top/imgprompt/20260224234856167.webp"
   },
   {
     "displayName": "Polypropylene",
     "langName": "聚丙烯",
     "object": "素材",
-    "attribute": "塑料/泡沫膜",
+    "attribute": "塑膠/泡棉膜",
     "preview": "https://img.aishort.top/imgprompt/20260224234909173.webp"
   },
   {
     "displayName": "Polyimide",
     "langName": "聚酰亞胺",
     "object": "素材",
-    "attribute": "塑料/泡沫膜",
+    "attribute": "塑膠/泡棉膜",
     "preview": "https://img.aishort.top/imgprompt/20260224234924114.webp"
   },
   {
     "displayName": "Styrofoam",
     "langName": "保麗龍",
     "object": "素材",
-    "attribute": "塑料/泡沫膜",
+    "attribute": "塑膠/泡棉膜",
     "preview": "https://img.aishort.top/imgprompt/20260224234938213.webp"
   },
   {
     "displayName": "Foam",
     "langName": "泡沫",
     "object": "素材",
-    "attribute": "塑料/泡沫膜",
+    "attribute": "塑膠/泡棉膜",
     "preview": "https://img.aishort.top/imgprompt/20260224234953999.webp"
   },
   {
@@ -29990,77 +29993,77 @@
     "displayName": "Tape",
     "langName": "膠帶",
     "object": "素材",
-    "attribute": "粘合劑",
+    "attribute": "黏著劑",
     "preview": "https://img.aishort.top/imgprompt/20260225000206746.webp"
   },
   {
     "displayName": "Duct Tape",
     "langName": "膠布",
     "object": "素材",
-    "attribute": "粘合劑",
+    "attribute": "黏著劑",
     "preview": "https://img.aishort.top/imgprompt/20260225000219757.webp"
   },
   {
     "displayName": "Scotch Tape",
     "langName": "透明膠",
     "object": "素材",
-    "attribute": "粘合劑",
+    "attribute": "黏著劑",
     "preview": "https://img.aishort.top/imgprompt/20260225000236118.webp"
   },
   {
     "displayName": "Clear Tape",
     "langName": "透明膠帶",
     "object": "素材",
-    "attribute": "粘合劑",
+    "attribute": "黏著劑",
     "preview": "https://img.aishort.top/imgprompt/20260225000251456.webp"
   },
   {
     "displayName": "Packing Tape",
     "langName": "封箱膠帶",
     "object": "素材",
-    "attribute": "粘合劑",
+    "attribute": "黏著劑",
     "preview": "https://img.aishort.top/imgprompt/20260225000306927.webp"
   },
   {
     "displayName": "Masking Tape",
     "langName": "美紋紙膠帶",
     "object": "素材",
-    "attribute": "粘合劑",
+    "attribute": "黏著劑",
     "preview": "https://img.aishort.top/imgprompt/20260225000322666.webp"
   },
   {
     "displayName": "Kapton",
     "langName": "卡普頓",
     "object": "素材",
-    "attribute": "粘合劑",
+    "attribute": "黏著劑",
     "preview": "https://img.aishort.top/imgprompt/20260225000338265.webp"
   },
   {
     "displayName": "Kapton Tape",
     "langName": "卡普頓膠帶",
     "object": "素材",
-    "attribute": "粘合劑",
+    "attribute": "黏著劑",
     "preview": "https://img.aishort.top/imgprompt/20260225000351966.webp"
   },
   {
     "displayName": "Adhesive",
     "langName": "粘合劑",
     "object": "素材",
-    "attribute": "粘合劑",
+    "attribute": "黏著劑",
     "preview": "https://img.aishort.top/imgprompt/20260225000407314.webp"
   },
   {
     "displayName": "Glue",
     "langName": "膠水",
     "object": "素材",
-    "attribute": "粘合劑",
+    "attribute": "黏著劑",
     "preview": "https://img.aishort.top/imgprompt/20260225000422083.webp"
   },
   {
     "displayName": "Epoxy",
     "langName": "環氧樹脂",
     "object": "素材",
-    "attribute": "粘合劑",
+    "attribute": "黏著劑",
     "preview": "https://img.aishort.top/imgprompt/20260225000435107.webp"
   },
   {
@@ -30144,42 +30147,42 @@
     "displayName": "Plasma",
     "langName": "等離子",
     "object": "素材",
-    "attribute": "等離子與能源",
+    "attribute": "電漿與能源",
     "preview": "https://img.aishort.top/imgprompt/20260225000731194.webp"
   },
   {
     "displayName": "Electric",
     "langName": "電",
     "object": "素材",
-    "attribute": "等離子與能源",
+    "attribute": "電漿與能源",
     "preview": "https://img.aishort.top/imgprompt/20260225000747133.webp"
   },
   {
     "displayName": "Electricity",
     "langName": "電力",
     "object": "素材",
-    "attribute": "等離子與能源",
+    "attribute": "電漿與能源",
     "preview": "https://img.aishort.top/imgprompt/20260225000802844.webp"
   },
   {
     "displayName": "Fire",
     "langName": "火",
     "object": "素材",
-    "attribute": "等離子與能源",
+    "attribute": "電漿與能源",
     "preview": "https://img.aishort.top/imgprompt/20260225000818623.webp"
   },
   {
     "displayName": "Burn",
     "langName": "燃燒",
     "object": "素材",
-    "attribute": "等離子與能源",
+    "attribute": "電漿與能源",
     "preview": "https://img.aishort.top/imgprompt/20260225000832974.webp"
   },
   {
     "displayName": "Inferno",
     "langName": "地獄火",
     "object": "素材",
-    "attribute": "等離子與能源",
+    "attribute": "電漿與能源",
     "preview": "https://img.aishort.top/imgprompt/20260225000846996.webp"
   },
   {
@@ -31787,7 +31790,7 @@
   },
   {
     "displayName": "Ballpoint Pen",
-    "langName": "圓珠筆",
+    "langName": "原子筆",
     "object": "圖像種類",
     "attribute": "墨水",
     "preview": "https://img.aishort.top/imgprompt/20260225010552247.webp"
@@ -31801,7 +31804,7 @@
   },
   {
     "displayName": "ballpoint_pen_(medium)",
-    "langName": "圓珠筆",
+    "langName": "原子筆",
     "object": "圖像種類",
     "attribute": "墨水",
     "preview": "https://img.aishort.top/imgprompt/20260225010616601.webp"
@@ -31901,231 +31904,231 @@
     "displayName": "Text",
     "langName": "文本",
     "object": "圖像種類",
-    "attribute": "文本",
+    "attribute": "文字",
     "preview": "https://img.aishort.top/imgprompt/20260225010926601.webp"
   },
   {
     "displayName": "Typeface",
     "langName": "字體",
     "object": "圖像種類",
-    "attribute": "文本",
+    "attribute": "文字",
     "preview": "https://img.aishort.top/imgprompt/20260225010940214.webp"
   },
   {
     "displayName": "Font",
     "langName": "字體",
     "object": "圖像種類",
-    "attribute": "文本",
+    "attribute": "文字",
     "preview": "https://img.aishort.top/imgprompt/20260225010954580.webp"
   },
   {
     "displayName": "Says",
     "langName": "說",
     "object": "圖像種類",
-    "attribute": "文本",
+    "attribute": "文字",
     "preview": "https://img.aishort.top/imgprompt/20260225011007244.webp"
   },
   {
     "displayName": "Letters",
     "langName": "字母",
     "object": "圖像種類",
-    "attribute": "文本",
+    "attribute": "文字",
     "preview": "https://img.aishort.top/imgprompt/20260225011020636.webp"
   },
   {
     "displayName": "Graphemes",
     "langName": "字素",
     "object": "圖像種類",
-    "attribute": "文本",
+    "attribute": "文字",
     "preview": "https://img.aishort.top/imgprompt/20260225011033465.webp"
   },
   {
     "displayName": "Written Letters",
     "langName": "書寫字母",
     "object": "圖像種類",
-    "attribute": "文本",
+    "attribute": "文字",
     "preview": "https://img.aishort.top/imgprompt/20260225011045930.webp"
   },
   {
     "displayName": "Words",
     "langName": "單詞",
     "object": "圖像種類",
-    "attribute": "文本",
+    "attribute": "文字",
     "preview": "https://img.aishort.top/imgprompt/20260225011100157.webp"
   },
   {
     "displayName": "Lexemes",
     "langName": "詞素",
     "object": "圖像種類",
-    "attribute": "文本",
+    "attribute": "文字",
     "preview": "https://img.aishort.top/imgprompt/20260225011114809.webp"
   },
   {
     "displayName": "Written Words",
     "langName": "書面單詞",
     "object": "圖像種類",
-    "attribute": "文本",
+    "attribute": "文字",
     "preview": "https://img.aishort.top/imgprompt/20260225011127135.webp"
   },
   {
     "displayName": "Caption",
     "langName": "標題",
     "object": "圖像種類",
-    "attribute": "文本",
+    "attribute": "文字",
     "preview": "https://img.aishort.top/imgprompt/20260225011139564.webp"
   },
   {
     "displayName": "Logo",
     "langName": "商標",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011153242.webp"
   },
   {
     "displayName": "Stamp",
     "langName": "郵票",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011208483.webp"
   },
   {
     "displayName": "Postage Stamp",
     "langName": "郵票",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011224473.webp"
   },
   {
     "displayName": "Business Card",
     "langName": "名片",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011239998.webp"
   },
   {
     "displayName": "Collage",
     "langName": "拼貼畫",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011254764.webp"
   },
   {
     "displayName": "Photocollage",
     "langName": "照片拼貼畫",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011310436.webp"
   },
   {
     "displayName": "Fotocollage",
     "langName": "照片拼貼畫",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011324453.webp"
   },
   {
     "displayName": "Lithography",
     "langName": "平版印刷術",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011338038.webp"
   },
   {
     "displayName": "Block Printing",
     "langName": "印版畫",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011350470.webp"
   },
   {
     "displayName": "Magazine",
     "langName": "雜誌",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011403095.webp"
   },
   {
     "displayName": "Newspaper",
     "langName": "報紙",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011415427.webp"
   },
   {
     "displayName": "Newsprint",
     "langName": "新聞紙",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011428918.webp"
   },
   {
     "displayName": "Cartographic",
     "langName": "製圖",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011442076.webp"
   },
   {
     "displayName": "Blueprint",
     "langName": "藍圖",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011456523.webp"
   },
   {
     "displayName": "comic",
     "langName": "漫畫",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011509810.webp"
   },
   {
     "displayName": "Comic Book",
     "langName": "漫畫書",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011523672.webp"
   },
   {
     "displayName": "Booklet",
     "langName": "小冊子",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011537181.webp"
   },
   {
     "displayName": "Poster",
     "langName": "海報",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011550150.webp"
   },
   {
     "displayName": "Sticker",
     "langName": "貼紙",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011602653.webp"
   },
   {
     "displayName": "Barcode",
-    "langName": "條形碼",
+    "langName": "條碼",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011614784.webp"
   },
   {
     "displayName": "QR Code",
-    "langName": "二維碼",
+    "langName": "QR碼",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011626984.webp"
   },
   {
     "displayName": "Pokemon Card",
-    "langName": "寶可夢卡片(口袋妖怪)",
+    "langName": "寶可夢卡片",
     "object": "圖像種類",
-    "attribute": "打印",
+    "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011638981.webp"
   },
   {
@@ -32795,7 +32798,7 @@
   },
   {
     "displayName": "Pre-Raphaelite Brotherhood",
-    "langName": "先拉斐爾派",
+    "langName": "前拉斐爾派",
     "object": "藝術風格",
     "attribute": "歷史藝術風格",
     "preview": "https://img.aishort.top/imgprompt/20260225014520971.webp"
@@ -33637,854 +33640,855 @@
     "displayName": "3D Item Render",
     "langName": "三維渲染",
     "object": "藝術風格",
-    "attribute": "數字藝術",
+    "attribute": "數位藝術",
     "preview": "https://img.aishort.top/imgprompt/20260225021154706.webp"
   },
   {
     "displayName": "animated gif",
     "langName": "GIF格式圖片",
     "object": "藝術風格",
-    "attribute": "數字藝術",
+    "attribute": "數位藝術",
     "preview": "https://img.aishort.top/imgprompt/20260225021206993.webp"
   },
   {
     "displayName": "fine art parody",
     "langName": "名畫模仿",
     "object": "藝術風格",
-    "attribute": "數字藝術",
+    "attribute": "數位藝術",
     "preview": "https://img.aishort.top/imgprompt/20260225021223001.webp"
   },
   {
     "displayName": "optical illusion",
     "langName": "視覺錯誤",
     "object": "藝術風格",
-    "attribute": "數字藝術",
+    "attribute": "數位藝術",
     "preview": "https://img.aishort.top/imgprompt/20260225021239046.webp"
   },
   {
     "displayName": "((ASCII art))",
     "langName": "ASCII藝術",
     "object": "藝術風格",
-    "attribute": "數字藝術",
+    "attribute": "數位藝術",
     "preview": "https://img.aishort.top/imgprompt/20260225021254445.webp"
   },
   {
     "displayName": "Synchronism",
     "langName": "時間協調性",
     "object": "藝術風格",
-    "attribute": "數字藝術",
+    "attribute": "數位藝術",
     "preview": "https://img.aishort.top/imgprompt/20260225021310137.webp"
   },
   {
     "displayName": "highres",
     "langName": "厚塗（風格）",
     "object": "藝術風格",
-    "attribute": "數字藝術",
+    "attribute": "數位藝術",
     "preview": "https://img.aishort.top/imgprompt/20260225021323241.webp"
   },
   {
     "displayName": "sample",
     "langName": "圖上有字樣",
     "object": "藝術風格",
-    "attribute": "數字藝術",
+    "attribute": "數位藝術",
     "preview": "https://img.aishort.top/imgprompt/20260225021335415.webp"
   },
   {
     "displayName": "dreamlike",
     "langName": "夢幻",
     "object": "藝術風格",
-    "attribute": "數字藝術",
+    "attribute": "數位藝術",
     "preview": "https://img.aishort.top/imgprompt/20260225021347841.webp"
   },
   {
     "displayName": "pixiv",
     "langName": "純二次元風格人像",
     "object": "藝術風格",
-    "attribute": "數字藝術",
+    "attribute": "數位藝術",
     "preview": "https://img.aishort.top/imgprompt/20260225021400299.webp"
   },
   {
     "displayName": "Massive Scale",
     "langName": "大規模",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021412442.webp"
   },
   {
     "displayName": "Massive",
     "langName": "大量的",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021424661.webp"
   },
   {
     "displayName": "Huge",
     "langName": "巨大的",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021436915.webp"
   },
   {
     "displayName": "Large",
     "langName": "大",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021449153.webp"
   },
   {
     "displayName": "Big",
     "langName": "大的",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021501425.webp"
   },
   {
     "displayName": "Mini",
     "langName": "迷你",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021513495.webp"
   },
   {
     "displayName": "Tiny",
     "langName": "微小",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021525298.webp"
   },
   {
     "displayName": "Micro",
     "langName": "微觀",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021537484.webp"
   },
   {
     "displayName": "Nano",
     "langName": "納米",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021549402.webp"
   },
   {
     "displayName": "ultra-high definition",
-    "langName": "超高清",
-    "object": "後期處理",
+    "langName": "超高畫質",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021601485.webp"
   },
   {
     "displayName": "4k",
     "langName": "4k",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021613507.webp"
   },
   {
     "displayName": "8K",
     "langName": "8K",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225092105100.webp"
   },
   {
     "displayName": "16k",
     "langName": "16k",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021635791.webp"
   },
   {
     "displayName": "32k",
     "langName": "32k",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021647649.webp"
   },
   {
     "displayName": "Full-HD",
-    "langName": "全高清",
-    "object": "後期處理",
+    "langName": "全高畫質",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021659453.webp"
   },
   {
     "displayName": "HD",
-    "langName": "高清",
-    "object": "後期處理",
+    "langName": "高畫質",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021715675.webp"
   },
   {
     "displayName": "Ultra-HD",
-    "langName": "超高清",
-    "object": "後期處理",
+    "langName": "超高畫質",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021731398.webp"
   },
   {
     "displayName": "Super-Resolution",
-    "langName": "超分辨率",
-    "object": "後期處理",
+    "langName": "超解析度",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021746855.webp"
   },
   {
     "displayName": "Megapixel",
     "langName": "百萬像素",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021759053.webp"
   },
   {
     "displayName": "absurdres",
-    "langName": "超高分辨率",
-    "object": "後期處理",
+    "langName": "超高解析度",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021811240.webp"
   },
   {
     "displayName": "incredibly absurdres",
-    "langName": "極高分辨率",
-    "object": "後期處理",
+    "langName": "極高解析度",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021823301.webp"
   },
   {
     "displayName": "huge filesize",
-    "langName": "超級高分辨率/大文件",
-    "object": "後期處理",
+    "langName": "超高解析度/大檔案",
+    "object": "後製",
     "attribute": "景別尺寸",
     "preview": "https://img.aishort.top/imgprompt/20260225021835252.webp"
   },
   {
     "displayName": "Anaglyph",
     "langName": "立體畫",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "立體視覺",
     "preview": "https://img.aishort.top/imgprompt/20260225021847246.webp"
   },
   {
     "displayName": "Multiscopy",
     "langName": "多視鏡",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "立體視覺",
     "preview": "https://img.aishort.top/imgprompt/20260225021859150.webp"
   },
   {
     "displayName": "Autostereoscopy",
     "langName": "自動立體",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "立體視覺",
     "preview": "https://img.aishort.top/imgprompt/20260225021911060.webp"
   },
   {
     "displayName": "Stereoscopy",
     "langName": "立體攝影",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "立體視覺",
     "preview": "https://img.aishort.top/imgprompt/20260225021923270.webp"
   },
   {
     "displayName": "Parallax",
     "langName": "視差",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "立體視覺",
     "preview": "https://img.aishort.top/imgprompt/20260225021935708.webp"
   },
   {
     "displayName": "Anti-Aliasing",
     "langName": "抗鋸齒",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "抗鋸齒",
     "preview": "https://img.aishort.top/imgprompt/20260225021947817.webp"
   },
   {
     "displayName": "FXAA",
     "langName": "FXAA",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "抗鋸齒",
     "preview": "https://img.aishort.top/imgprompt/20260225022000268.webp"
   },
   {
     "displayName": "TXAA",
     "langName": "TXAA",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "抗鋸齒",
     "preview": "https://img.aishort.top/imgprompt/20260225022012163.webp"
   },
   {
     "displayName": "RTX",
     "langName": "實時傳輸",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "抗鋸齒",
     "preview": "https://img.aishort.top/imgprompt/20260225022023989.webp"
   },
   {
     "displayName": "SSAO",
     "langName": "SSAO",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "抗鋸齒",
     "preview": "https://img.aishort.top/imgprompt/20260225022035948.webp"
   },
   {
     "displayName": "De-Noise",
     "langName": "降噪",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "抗鋸齒",
     "preview": "https://img.aishort.top/imgprompt/20260225022047839.webp"
   },
   {
     "displayName": "Shaders",
     "langName": "着色器",
-    "object": "後期處理",
-    "attribute": "着色器",
+    "object": "後製",
+    "attribute": "著色器",
     "preview": "https://img.aishort.top/imgprompt/20260225022059566.webp"
   },
   {
     "displayName": "OpenGL-Shaders",
     "langName": "OpenGL 着色器",
-    "object": "後期處理",
-    "attribute": "着色器",
+    "object": "後製",
+    "attribute": "著色器",
     "preview": "https://img.aishort.top/imgprompt/20260225022111136.webp"
   },
   {
     "displayName": "GLSL-Shaders",
     "langName": "GLSL 着色器",
-    "object": "後期處理",
-    "attribute": "着色器",
+    "object": "後製",
+    "attribute": "著色器",
     "preview": "https://img.aishort.top/imgprompt/20260225022123054.webp"
   },
   {
     "displayName": "Post Processing",
     "langName": "後期處理",
-    "object": "後期處理",
-    "attribute": "着色器",
+    "object": "後製",
+    "attribute": "著色器",
     "preview": "https://img.aishort.top/imgprompt/20260225022134764.webp"
   },
   {
     "displayName": "Post-Production",
     "langName": "後期製作",
-    "object": "後期處理",
-    "attribute": "着色器",
+    "object": "後製",
+    "attribute": "著色器",
     "preview": "https://img.aishort.top/imgprompt/20260225022146869.webp"
   },
   {
     "displayName": "Cel Shading",
     "langName": "元着色",
-    "object": "後期處理",
-    "attribute": "着色器",
+    "object": "後製",
+    "attribute": "著色器",
     "preview": "https://img.aishort.top/imgprompt/20260225022159474.webp"
   },
   {
     "displayName": "Tone Mapping",
     "langName": "色調映射",
-    "object": "後期處理",
-    "attribute": "着色器",
+    "object": "後製",
+    "attribute": "著色器",
     "preview": "https://img.aishort.top/imgprompt/20260225022215163.webp"
   },
   {
     "displayName": "CGI",
     "langName": "電腦影像",
-    "object": "後期處理",
-    "attribute": "着色器",
+    "object": "後製",
+    "attribute": "著色器",
     "preview": "https://img.aishort.top/imgprompt/20260225022230969.webp"
   },
   {
     "displayName": "VFX",
     "langName": "視覺特效",
-    "object": "後期處理",
-    "attribute": "着色器",
+    "object": "後製",
+    "attribute": "著色器",
     "preview": "https://img.aishort.top/imgprompt/20260225022246631.webp"
   },
   {
     "displayName": "SFX",
     "langName": "音效",
-    "object": "後期處理",
-    "attribute": "着色器",
+    "object": "後製",
+    "attribute": "著色器",
     "preview": "https://img.aishort.top/imgprompt/20260225022258910.webp"
   },
   {
     "displayName": "Unreal Engine",
     "langName": "虛幻引擎",
-    "object": "後期處理",
-    "attribute": "着色器",
+    "object": "後製",
+    "attribute": "著色器",
     "preview": "https://img.aishort.top/imgprompt/20260225092117920.webp"
   },
   {
     "displayName": "Scan Lines",
     "langName": "掃描線",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022321420.webp"
   },
   {
     "displayName": "Posterization",
     "langName": "色調分割",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022333426.webp"
   },
   {
     "displayName": "Quantization",
     "langName": "量化",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022345056.webp"
   },
   {
     "displayName": "Sobel Operator",
     "langName": "Sobel 算子",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022357136.webp"
   },
   {
     "displayName": "Edge Detection",
     "langName": "邊緣檢測",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022409599.webp"
   },
   {
     "displayName": "Interlaced",
     "langName": "隔行掃描",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022421789.webp"
   },
   {
     "displayName": "Moire Patterns",
     "langName": "雲紋圖案",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022434402.webp"
   },
   {
     "displayName": "Rounded",
     "langName": "圓形",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022446582.webp"
   },
   {
     "displayName": "Wavy",
     "langName": "波浪狀的",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022458558.webp"
   },
   {
     "displayName": "Whirl",
     "langName": "旋渦",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022510928.webp"
   },
   {
     "displayName": "Squiggly",
     "langName": "波紋",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022523011.webp"
   },
   {
     "displayName": "Morph",
     "langName": "變形",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022534958.webp"
   },
   {
     "displayName": "Spiraling",
     "langName": "螺旋",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022547129.webp"
   },
   {
     "displayName": "Twisted Rays",
     "langName": "扭曲的光線",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022559288.webp"
   },
   {
     "displayName": "Starburst",
     "langName": "星芒",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022611171.webp"
   },
   {
     "displayName": "Emboss",
     "langName": "浮雕",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225092130225.webp"
   },
   {
     "displayName": "Tessellated",
     "langName": "鑲嵌",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022633787.webp"
   },
   {
     "displayName": "Blobby",
     "langName": "斑點",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022646645.webp"
   },
   {
     "displayName": "Blobs",
     "langName": "斑點",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022701337.webp"
   },
   {
     "displayName": "Cracks",
     "langName": "裂縫",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022717404.webp"
   },
   {
     "displayName": "Textured",
     "langName": "紋理",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022733119.webp"
   },
   {
     "displayName": "Convolution Matrix",
     "langName": "卷積矩陣",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022748496.webp"
   },
   {
     "displayName": "Dilate",
     "langName": "膨脹",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022800064.webp"
   },
   {
     "displayName": "Erode",
     "langName": "侵蝕",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022811986.webp"
   },
   {
     "displayName": "Dirty",
     "langName": "骯髒的",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022824090.webp"
   },
   {
     "displayName": "With Imperfections",
     "langName": "有瑕疵",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022836138.webp"
   },
   {
     "displayName": "Distortion",
     "langName": "畸變失真",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022848202.webp"
   },
   {
     "displayName": "Lenticular",
     "langName": "透鏡狀",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022900435.webp"
   },
   {
     "displayName": "Cropped",
     "langName": "裁剪",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022913114.webp"
   },
   {
     "displayName": "Quantum-Wavetracing",
     "langName": "量子波追蹤",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022925135.webp"
   },
   {
     "displayName": "Tornadic",
     "langName": "龍捲風",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022937237.webp"
   },
   {
     "displayName": "Sabattier Effect",
     "langName": "呈現出柔和、模糊的邊緣和色彩暈染",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022949265.webp"
   },
   {
     "displayName": "Smudged",
     "langName": "模糊",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225023001363.webp"
   },
   {
     "displayName": "Sharpened",
     "langName": "銳化",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225023013725.webp"
   },
   {
     "displayName": "Glowing Edges",
     "langName": "發光的邊緣",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225023025417.webp"
   },
   {
     "displayName": "Spherize",
     "langName": "球化",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225023037357.webp"
   },
   {
     "displayName": "Harris Shutter",
-    "langName": "捕捉高速移動的物體或者在低光環境下保持圖像的清晰度",
-    "object": "後期處理",
+    "langName": "哈里斯快門（動態/低光）",
+    "object": "後製",
     "attribute": "圖像處理",
+    "description": "捕捉高速移動的物體或者在低光環境下保持圖像的清晰度",
     "preview": "https://img.aishort.top/imgprompt/20260317080543186.webp"
   },
   {
     "displayName": "Mordancage",
     "langName": "蝕刻攝影",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225023052912.webp"
   },
   {
     "displayName": "Ray Traced",
     "langName": "光線追蹤",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225023104857.webp"
   },
   {
     "displayName": "Ray Tracing Ambient Occlusion",
     "langName": "光線追蹤環境遮擋",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225023116549.webp"
   },
   {
     "displayName": "award winning",
     "langName": "獲獎作品",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023128210.webp"
   },
   {
     "displayName": "professional",
     "langName": "專業",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023140115.webp"
   },
   {
     "displayName": "breathtaking",
     "langName": "驚豔",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023152236.webp"
   },
   {
     "displayName": "groundbreaking",
     "langName": "開創性的",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023208122.webp"
   },
   {
     "displayName": "superb",
     "langName": "一流的",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023222151.webp"
   },
   {
     "displayName": "outstanding",
     "langName": "傑出的",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023237708.webp"
   },
   {
     "displayName": "best quality",
-    "langName": "最佳質量",
-    "object": "後期處理",
+    "langName": "最佳品質",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023253807.webp"
   },
   {
     "displayName": "best aesthetic",
     "langName": "最佳審美",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023307881.webp"
   },
   {
     "displayName": "masterpiece",
     "langName": "傑作",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023323517.webp"
   },
   {
     "displayName": "extreme detail",
     "langName": "極致的細節",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023339155.webp"
   },
   {
     "displayName": "amazing",
     "langName": "驚人的",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023355118.webp"
   },
   {
     "displayName": "Gorgeous",
     "langName": "華麗",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023407429.webp"
   },
   {
     "displayName": "stunning",
     "langName": "驚人的",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023419311.webp"
   },
   {
     "displayName": "intricate",
     "langName": "複雜的",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023431298.webp"
   },
   {
     "displayName": "detailed",
     "langName": "充滿細節",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225092151879.webp"
   },
   {
     "displayName": "luxurious",
     "langName": "豪華",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023453848.webp"
   },
   {
     "displayName": "subtle",
     "langName": "細膩的",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023506107.webp"
   },
   {
     "displayName": "delicate",
     "langName": "精緻的",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023517849.webp"
   },
   {
     "displayName": "Powerful",
     "langName": "有力的",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023529692.webp"
   },
   {
     "displayName": "original",
     "langName": "原創",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023541682.webp"
   },
   {
     "displayName": "in a symbolic and meaningful style",
     "langName": "象徵性且有意義的風格",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023553930.webp"
   },
   {
     "displayName": "insanely detailed and intricate",
     "langName": "極其細緻而複雜",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023606588.webp"
   },
   {
     "displayName": "very coherent symmetrical artwork",
     "langName": "連貫且對稱的結構",
-    "object": "後期處理",
+    "object": "後製",
     "attribute": "畫面品質",
     "preview": "https://img.aishort.top/imgprompt/20260225023619276.webp"
   },
   {
     "displayName": "Trending on ArtStation",
     "langName": "ArtStation",
-    "object": "後期處理",
-    "attribute": "平臺|趨勢",
+    "object": "後製",
+    "attribute": "平台|趨勢",
     "preview": "https://img.aishort.top/imgprompt/20260225023631328.webp"
   },
   {
     "displayName": "Trending on Facebook",
     "langName": "Facebook",
-    "object": "後期處理",
-    "attribute": "平臺|趨勢",
+    "object": "後製",
+    "attribute": "平台|趨勢",
     "preview": "https://img.aishort.top/imgprompt/20260225023643195.webp"
   },
   {
     "displayName": "Trending on Pixiv",
     "langName": "Pixiv",
-    "object": "後期處理",
-    "attribute": "平臺|趨勢",
+    "object": "後製",
+    "attribute": "平台|趨勢",
     "preview": "https://img.aishort.top/imgprompt/20260225023655018.webp"
   },
   {
     "displayName": "Trending on Pixbay",
     "langName": "Pixbay",
-    "object": "後期處理",
-    "attribute": "平臺|趨勢",
+    "object": "後製",
+    "attribute": "平台|趨勢",
     "preview": "https://img.aishort.top/imgprompt/20260225023707785.webp"
   },
   {
     "displayName": "reddit",
     "langName": "reddit 論壇",
-    "object": "後期處理",
-    "attribute": "平臺|趨勢",
+    "object": "後製",
+    "attribute": "平台|趨勢",
     "preview": "https://img.aishort.top/imgprompt/20260225023719435.webp"
   },
   {
@@ -34544,7 +34548,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151040286.webp"
   },
   {
-    "displayName": "生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演（角色名称）的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。",
+    "displayName": "生成一张竖版手机截图风格的图片,整体比例接近 9:16。画面中心偏上是一位真人 coser,扮演（角色名称）的二次元角色。人物为写实风格,但五官略带动漫感,皮肤细腻,眼睛稍大,表情温柔地看向镜头,坐在室内的休闲场景中,例如咖啡厅或酒吧吧台前,背景有符合场景的道具。画面最上方加入手机系统状态栏 UI,包括时间、电量、信号、网络等图标,让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框,对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字,下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词,由你自动创作。再在对话框下方加一条操作栏,仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。",
     "langName": "9:16 Cosplay 人物截圖",
     "object": "成品範例",
     "attribute": "肖像",
@@ -34552,7 +34556,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151045226.webp"
   },
   {
-    "displayName": "该画面为中近景，采用平视镜头，聚焦于一位年轻女性。她以七分身镜头呈现，身体坐姿略带倾斜，臀部向后撅起，双腿自然交叠，左腿在前，右腿在后，膝盖微屈。她将上半身向右后方扭转，头部则转向镜头方向，形成一个经典的“回眸”姿态，目光直视镜头，眼神清澈而略带一丝俏皮。她的发型是蓬松的棕色齐肩短发，刘海自然垂落，发尾微卷，妆容清淡自然，仅在眼部有轻微眼线勾勒，唇色为自然裸粉。画面整体采用自然日光滤镜，光线从画面左上方斜射入，形成柔和的逆光轮廓，面部和身体右侧被温暖的金色光线照亮，左侧则形成自然的阴影过渡，增强了立体感。灯光效果是明亮的自然光，带有轻微的镜头眩光，营造出午后阳光的氛围。拍摄角度为平视，构图上，人物主体位于画面中偏右位置，背景中的斑马线与道路线条形成自然的引导线，将视线引向人物。背景为城市街道，包含道路、斑马线、绿化带和远处的车辆，背景被适度虚化，但依然可辨识出树木、护栏和停放的电动车等元素，构图上利用了三分法，人物位于右侧三分之一处，增强了画面的平衡感。主体穿着一件军绿色迷彩图案的连帽卫衣，下身搭配黑色短裤，脚穿白色高帮运动鞋配白色中筒袜。背包为黑色，带有橙黄色装饰条纹和一个橙色毛绒挂件，材质为帆布和皮革拼接。整体风格为街头休闲风，肢体语言放松自然，表情略带好奇与俏皮，整体呈现出一种随性、青春、充满活力的都市少女形象。",
+    "displayName": "该画面为中近景,采用平视镜头,聚焦于一位年轻女性。她以七分身镜头呈现,身体坐姿略带倾斜,臀部向后撅起,双腿自然交叠,左腿在前,右腿在后,膝盖微屈。她将上半身向右后方扭转,头部则转向镜头方向,形成一个经典的“回眸”姿态,目光直视镜头,眼神清澈而略带一丝俏皮。她的发型是蓬松的棕色齐肩短发,刘海自然垂落,发尾微卷,妆容清淡自然,仅在眼部有轻微眼线勾勒,唇色为自然裸粉。画面整体采用自然日光滤镜,光线从画面左上方斜射入,形成柔和的逆光轮廓,面部和身体右侧被温暖的金色光线照亮,左侧则形成自然的阴影过渡,增强了立体感。灯光效果是明亮的自然光,带有轻微的镜头眩光,营造出午后阳光的氛围。拍摄角度为平视,构图上,人物主体位于画面中偏右位置,背景中的斑马线与道路线条形成自然的引导线,将视线引向人物。背景为城市街道,包含道路、斑马线、绿化带和远处的车辆,背景被适度虚化,但依然可辨识出树木、护栏和停放的电动车等元素,构图上利用了三分法,人物位于右侧三分之一处,增强了画面的平衡感。主体穿着一件军绿色迷彩图案的连帽卫衣,下身搭配黑色短裤,脚穿白色高帮运动鞋配白色中筒袜。背包为黑色,带有橙黄色装饰条纹和一个橙色毛绒挂件,材质为帆布和皮革拼接。整体风格为街头休闲风,肢体语言放松自然,表情略带好奇与俏皮,整体呈现出一种随性、青春、充满活力的都市少女形象。",
     "langName": "都市回頭街拍肖像",
     "object": "成品範例",
     "attribute": "肖像",
@@ -34632,7 +34636,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151137092.webp"
   },
   {
-    "displayName": "以眼部特写图片为基础，生成3:4的四屏构图超写实眼部特写，四屏按春夏秋冬上下排序。\n\n第一屏：眼眸中带着绽粉樱色的美瞳，睫毛缀满迷你春花，脸颊散落樱瓣与黄蕊小花，粉蝶萦绕眉眼，浅金发丝轻垂，下方簇簇樱花怒放，画面中央\"SPRING\"白色艺术字点缀，风格细腻唯美，光影柔和，色彩粉嫩治愈，下面用书法体写着春；\n\n第二屏：眼眸中带着着清荷色的美瞳，睫毛饰以粉莲与绿荷，脸颊挂着晶莹水珠，粉瓣、绿荷点缀其间，蜻蜓轻绕，浅金发丝若隐若现，画面中央\"Summer\"白色艺术字凸显，光影通透流光感，色彩清透凉爽，下面用书法体写着夏；\n\n第三屏：眼眸中带着金黄红相间的美瞳，睫毛饰以橙红枫叶，脸颊散落金红秋叶，橙蝶翩跹眉眼间，浅金发丝隐约可见，画面中央\"AUTUMN\"白色艺术字醒目，光影暖金流光，色彩浓郁温暖，下面用书法笔写着秋；\n\n第四屏：眼眸中带着雪花蓝色的美瞳，睫毛覆满冰晶雪片，脸颊散落白色雪花与红色腊梅，银白蝴蝶翩跹眉眼，浅金发丝朦胧似雪，画面中央\"WINTER\"白色艺术字亮眼，光影冷冽蓝白流光，色彩清透纯净，下面用书法体写着冬。\n\n整体呈现梦幻眼眸四季交替的唯美梦幻治愈画面，微调各屏的光影强度，让画面氛围感更浓郁。",
+    "displayName": "以眼部特写图片为基础,生成3:4的四屏构图超写实眼部特写,四屏按春夏秋冬上下排序。\n\n第一屏：眼眸中带着绽粉樱色的美瞳,睫毛缀满迷你春花,脸颊散落樱瓣与黄蕊小花,粉蝶萦绕眉眼,浅金发丝轻垂,下方簇簇樱花怒放,画面中央\"SPRING\"白色艺术字点缀,风格细腻唯美,光影柔和,色彩粉嫩治愈,下面用书法体写着春；\n\n第二屏：眼眸中带着着清荷色的美瞳,睫毛饰以粉莲与绿荷,脸颊挂着晶莹水珠,粉瓣、绿荷点缀其间,蜻蜓轻绕,浅金发丝若隐若现,画面中央\"Summer\"白色艺术字凸显,光影通透流光感,色彩清透凉爽,下面用书法体写着夏；\n\n第三屏：眼眸中带着金黄红相间的美瞳,睫毛饰以橙红枫叶,脸颊散落金红秋叶,橙蝶翩跹眉眼间,浅金发丝隐约可见,画面中央\"AUTUMN\"白色艺术字醒目,光影暖金流光,色彩浓郁温暖,下面用书法笔写着秋；\n\n第四屏：眼眸中带着雪花蓝色的美瞳,睫毛覆满冰晶雪片,脸颊散落白色雪花与红色腊梅,银白蝴蝶翩跹眉眼,浅金发丝朦胧似雪,画面中央\"WINTER\"白色艺术字亮眼,光影冷冽蓝白流光,色彩清透纯净,下面用书法体写着冬。\n\n整体呈现梦幻眼眸四季交替的唯美梦幻治愈画面,微调各屏的光影强度,让画面氛围感更浓郁。",
     "langName": "GPT-Image-2 細節展示",
     "object": "成品範例",
     "attribute": "肖像",
@@ -34714,7 +34718,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151146341.webp"
   },
   {
-    "displayName": "一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语\"凌晨两点还在排队的那家\"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题\"成都·吃货暴走地图\"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。",
+    "displayName": "一张手绘风格的城市美食地图,以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底,标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等,每个插画约占地图的 5% 面积,旁边用手写体标注店名和一句推荐语\"凌晨两点还在排队的那家\"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题\"成都·吃货暴走地图\"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感,颜色以暖色系（辣椒红、姜黄、翠绿）为主,图片比例 1:1。",
     "langName": "Chengdu 美食地圖插畫",
     "object": "成品範例",
     "attribute": "海報",
@@ -34722,7 +34726,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151152094.webp"
   },
   {
-    "displayName": "极简新中式美学风格，画面以淡雅的灰白色为底，呈现出一种纸艺剪影般的立体感。\n一条S形蜿蜒的裂痕状边缘将画面分割，仿佛撕开了一层纸面，露出内部色彩斑斓的东方山水景象。\n裂口内，一条蜿蜒的河流自上而下贯穿整个构图，河水以深浅不一的蓝色渲染，层次分明，仿佛流动的丝带。\n河岸两侧点缀着青翠的山丘与梯田，色彩柔和，绿红交织，展现出田园的宁静之美。\n沿河而建的古风建筑错落有致，飞檐翘角，白墙黛瓦，在光影的映衬下更显古朴典雅。\n岸边树木葱茏，枝叶轻盈，一艘小船静泊于水中央，增添了几分悠然意境。\n整体构图呈S形曲线，富有韵律感，仿佛自然与人文的和谐共生。\n画作边缘采用撕纸效果，营造出立体浮雕般的视觉体验。\n下方题字“东方美学”以黑色楷体书写，日期“2026/04/18”与红色印章相呼应，底部“CHINA”字样庄重醒目，署名“@LIYUE”低调收尾，整体氛围静谧深远，充满诗意与哲思。",
+    "displayName": "极简新中式美学风格,画面以淡雅的灰白色为底,呈现出一种纸艺剪影般的立体感。\n一条S形蜿蜒的裂痕状边缘将画面分割,仿佛撕开了一层纸面,露出内部色彩斑斓的东方山水景象。\n裂口内,一条蜿蜒的河流自上而下贯穿整个构图,河水以深浅不一的蓝色渲染,层次分明,仿佛流动的丝带。\n河岸两侧点缀着青翠的山丘与梯田,色彩柔和,绿红交织,展现出田园的宁静之美。\n沿河而建的古风建筑错落有致,飞檐翘角,白墙黛瓦,在光影的映衬下更显古朴典雅。\n岸边树木葱茏,枝叶轻盈,一艘小船静泊于水中央,增添了几分悠然意境。\n整体构图呈S形曲线,富有韵律感,仿佛自然与人文的和谐共生。\n画作边缘采用撕纸效果,营造出立体浮雕般的视觉体验。\n下方题字“东方美学”以黑色楷体书写,日期“2026/04/18”与红色印章相呼应,底部“CHINA”字样庄重醒目,署名“@LIYUE”低调收尾,整体氛围静谧深远,充满诗意与哲思。",
     "langName": "中式極簡 S 形海報",
     "object": "成品範例",
     "attribute": "海報",
@@ -34730,7 +34734,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151157243.webp"
   },
   {
-    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光，构图延续了S型的流动感；\n在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。\n广州的地标建筑(广州塔，珠江新城建筑群，珠江,广州城里古建筑，游轮，白云山）。\n云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。\n文字排版优美，大方，字迹清晰完整，尺寸9:16。",
+    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑(广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
     "langName": "2026春季廣州城市海報",
     "object": "成品範例",
     "attribute": "海報",
@@ -34738,7 +34742,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151201310.webp"
   },
   {
-    "displayName": "以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。  背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。  画面内容不需要预先写清楚，由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“BlanPlan”，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。",
+    "displayName": "以涂鸦速写风表现【一个厉害的AI builder】,整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一,略显凌乱但具有节奏和表现力,强调概括、夸张、趣味和随性,而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现,可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感,色彩根据【主题/主体】自动适配,但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果,不要细腻水彩过渡,不要纸纹理,不要柔和雾化,不要梦幻质感。  背景以留白为主,保持简洁、轻松、未完成感和设计感,可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素,以增强速写本或随笔式视觉语言,但不可过于拥挤,不可破坏主体和留白气质。  画面内容不需要预先写清楚,由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景,整体保持统一的涂鸦速写风和夸张概括的表现方式,避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“BlanPlan”,作为画面的一部分,位置低调但清晰,可放在左下角、右下角或标题附近,风格需与整体版式统一,像作品署名或设计落款；签名字体精致、克制、高级,不可过大,不可破坏主体构图,不可显得突兀或廉价。",
     "langName": "塗鴉草圖 AI 建構者",
     "object": "成品範例",
     "attribute": "海報",
@@ -34770,7 +34774,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151220713.webp"
   },
   {
-    "displayName": "一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。画面中央还站着一个小人，背对观众，神情平静地仰望空中这条巨大的锦鲤，锦鲤头向下看着小人。整体画面呈现出强烈的大小对比，氛围空灵又梦幻。比例9:16",
+    "displayName": "一幅超现实主义数字插画风格,采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中,四周环绕着色彩鲜艳的星云与气泡。画面中央还站着一个小人,背对观众,神情平静地仰望空中这条巨大的锦鲤,锦鲤头向下看着小人。整体画面呈现出强烈的大小对比,氛围空灵又梦幻。比例9:16",
     "langName": "超現實錦鯉星雲插畫",
     "object": "成品範例",
     "attribute": "海報",
@@ -34778,7 +34782,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151225419.webp"
   },
   {
-    "displayName": "纯黑深邃底色，一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端，构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟，内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列，前景有白鹤与湖面，远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀，东方美学与现代意象交融，8K 超高清渲染，比例 9:16。",
+    "displayName": "纯黑深邃底色,一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端,构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟,内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列,前景有白鹤与湖面,远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀,东方美学与现代意象交融,8K 超高清渲染,比例 9:16。",
     "langName": "水墨曲線 Guangzhou 美學海報",
     "object": "成品範例",
     "attribute": "海報",
@@ -34786,7 +34790,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151231463.webp"
   },
   {
-    "displayName": "广东省城市足球超级联赛（粤超）邀请函海报设计，比例 9:16。S 型流动构图，以发光足球和动态能量流贯穿画面，沿动线融合广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑、佛山武术剪影、中山文化符号、潮汕英歌舞与清远山水。现代国潮高级海报风格，中国红主视觉，青蓝辅助，金色高光，带完整中文排版与电影级光影。",
+    "displayName": "广东省城市足球超级联赛（粤超）邀请函海报设计,比例 9:16。S 型流动构图,以发光足球和动态能量流贯穿画面,沿动线融合广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑、佛山武术剪影、中山文化符号、潮汕英歌舞与清远山水。现代国潮高级海报风格,中国红主视觉,青蓝辅助,金色高光,带完整中文排版与电影级光影。",
     "langName": "廣東超級聯賽邀請海報",
     "object": "成品範例",
     "attribute": "海報",
@@ -34794,7 +34798,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151236368.webp"
   },
   {
-    "displayName": "一张充满新春喜庆但高雅的 2026 广州城市宣传海报，9:16 竖版，双重曝光，S 型流动构图。纯白纹理背景，右下角微缩传统服饰人物挥舞长红绸，红绸变形成山脉河流，内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。",
+    "displayName": "一张充满新春喜庆但高雅的 2026 广州城市宣传海报,9:16 竖版,双重曝光,S 型流动构图。纯白纹理背景,右下角微缩传统服饰人物挥舞长红绸,红绸变形成山脉河流,内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。",
     "langName": "2026 春季 Guangzhou 宣傳海報",
     "object": "成品範例",
     "attribute": "海報",
@@ -34802,7 +34806,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151241374.webp"
   },
   {
-    "displayName": "收藏版史诗海报，人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报加梦幻水彩插画风，安静、宏大、神圣、怀旧，带纸张颗粒、轻雾感、飞白刷痕与高级留白。",
+    "displayName": "收藏版史诗海报,人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报加梦幻水彩插画风,安静、宏大、神圣、怀旧,带纸张颗粒、轻雾感、飞白刷痕与高级留白。",
     "langName": "史詩剪影世界海報",
     "object": "成品範例",
     "attribute": "海報",
@@ -34810,7 +34814,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151246392.webp"
   },
   {
-    "displayName": "极简主义，新中式风格立体图形设计，图像下端有楷体中国文字：“东方美学”，“2026/04/18”，署名 “CHINA”，和“@LIYUE\"；\n平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画，不规则的撕纸效果；\n中国的神兽：穷奇，身形图案完整，美轮美奂，，线条柔美灵动,眼睛炯炯有神，威严的神态，优雅的姿势，奢华装饰艺术，中国传统纹饰；\n荧光蓝色线条，0.5mm极细金色金属质感勾边，泼白墨大笔触，色彩渲染，红底，蓝色的浪漫诗意视觉；\n冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。",
+    "displayName": "极简主义,新中式风格立体图形设计,图像下端有楷体中国文字：“东方美学”,“2026/04/18”,署名 “CHINA”,和“@LIYUE\"；\n平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画,不规则的撕纸效果；\n中国的神兽：穷奇,身形图案完整,美轮美奂,线条柔美灵动,眼睛炯炯有神,威严的神态,优雅的姿势,奢华装饰艺术,中国传统纹饰；\n荧光蓝色线条,0.5mm极细金色金属质感勾边,泼白墨大笔触,色彩渲染,红底,蓝色的浪漫诗意视觉；\n冷暖光交织的梦幻唯美场景,强烈的光影对比氛围,花轻舞的时光叙事,东风禅意,画面有大面积留白,框架构图,底部留白,细节清晰。",
     "langName": "窮奇東方美學海報",
     "object": "成品範例",
     "attribute": "海報",
@@ -34818,7 +34822,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151256575.webp"
   },
   {
-    "displayName": "以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。\n所有建筑与元素均以流畅的线条与结构相连，无孤立部分，构成一幅完整的都市画卷。\n画面采用金属箔或光泽纸材质，表面带有细腻的明暗光泽，在光照下呈现柔和的高光与阴影，仿佛被城市灯光轻轻照亮。\n背景以虚化的珠江新城天际线为衬，点缀隐约可见的花城广场与树木轮廓，整体透出现代浪漫的氛围。\n作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点，象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉，细节丰富，真实而富有艺术感染力。",
+    "displayName": "以珠江新城现代都市景观为灵感的剪纸艺术,通过精巧的镂空手法在一整幅纸上,立体刻画广州塔、东西双塔等地标建筑与繁华城景。\n所有建筑与元素均以流畅的线条与结构相连,无孤立部分,构成一幅完整的都市画卷。\n画面采用金属箔或光泽纸材质,表面带有细腻的明暗光泽,在光照下呈现柔和的高光与阴影,仿佛被城市灯光轻轻照亮。\n背景以虚化的珠江新城天际线为衬,点缀隐约可见的花城广场与树木轮廓,整体透出现代浪漫的氛围。\n作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点,象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉,细节丰富,真实而富有艺术感染力。",
     "langName": "Guangzhou 剪紙城市海報",
     "object": "成品範例",
     "attribute": "海報",
@@ -34826,7 +34830,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151302359.webp"
   },
   {
-    "displayName": "①场景 跨海大桥的侧面，dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 跨海大桥」painted onto the surface of ___③主体物 无，从靠近镜头的前端开始，沿表面向远端 progressively foreshortens 逐渐透视压缩，letterforms conform to surface curvature 贴合物体曲面，surface-integrated not floating。 文字部分区域被 无___④前景遮挡物 无___ occluded and hidden，在间隙中露出， 形成 depth-layering 纵深穿插效果。 Oversized bright yellow + sharp orange outline，extreme perspective distortion aligned to vanishing point。Cinematic lighting,motion blur,poster-grade dynamic integrated typography,modern advertising aesthetics。",
+    "displayName": "①场景 跨海大桥的侧面,dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 跨海大桥」painted onto the surface of ___③主体物 无,从靠近镜头的前端开始,沿表面向远端 progressively foreshortens 逐渐透视压缩,letterforms conform to surface curvature 贴合物体曲面,surface-integrated not floating。 文字部分区域被 无___④前景遮挡物 无___ occluded and hidden,在间隙中露出,形成 depth-layering 纵深穿插效果。 Oversized bright yellow + sharp orange outline,extreme perspective distortion aligned to vanishing point。Cinematic lighting,motion blur,poster-grade dynamic integrated typography,modern advertising aesthetics。",
     "langName": "極端透視排版橋樑",
     "object": "成品範例",
     "attribute": "海報",
@@ -34866,7 +34870,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151327523.webp"
   },
   {
-    "displayName": "新中式水墨山水海报，竖版9:16构图，东方极简美学风格，大面积留白，主题是春岚一叶红。",
+    "displayName": "新中式水墨山水海报,竖版9:16构图,东方极简美学风格,大面积留白,主题是春岚一叶红。",
     "langName": "新中式水墨山水海報",
     "object": "成品範例",
     "attribute": "海報",
@@ -35042,7 +35046,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151802123.webp"
   },
   {
-    "displayName": "请根据【主题：xxx】自动生成一张高审美的“轮廓宇宙 / 收藏版叙事海报”风格作品。不要将画面局限于固定器物或常见容器，不要优先默认瓶子、沙漏、玻璃罩、怀表之类的常规载体，而是由 AI 根据主题自行判断并选择一个最契合、最有象征意义、轮廓最强、最适合承载完整叙事世界的主轮廓载体。这个主轮廓可以是器物、建筑、门、塔、拱门、穹顶、楼梯井、长廊、雕像、侧脸、眼睛、手掌、头骨、羽翼、面具、镜面、王座、圆环、裂缝、光幕、阴影、几何结构、空间切面、舞台框景、抽象符号或其他更有创意与主题代表性的视觉轮廓，要求合理布局。优先选择最能放大主题气质、最能形成强烈视觉记忆点、最能体现史诗感、神秘感、诗意感或设计感的轮廓，而不是最安全、最普通、最常见的容器。\n\n画面的核心不是简单把世界装进某个物体里，而是让完整的主题世界自然生长在这个主轮廓之中、之内、之上、之边界里或与其结构融为一体，形成一种“主题宇宙依附于一个象征性轮廓展开”的高级叙事效果。主轮廓必须清晰、优雅、有辨识度，并在整体构图中占据核心地位。轮廓内部或边界中需要自动生成与主题强绑定的完整叙事世界，内容应当丰富、饱满、层次清晰，包括最能代表主题的标志性场景、核心建筑或空间结构、象征符号与隐喻元素、角色关系或文明痕迹、远景中景近景的空间递进、具有命运感和情绪张力的氛围层次，以及门、台阶、桥梁、水面、烟雾、路径、光源、遗迹、机械结构、自然景观、抽象形态、生物或道具等叙事细节。所有元素必须统一、自然、有主次、有层级地融合，像一个完整世界真实孕育在这个轮廓结构之中，而不是简单拼贴、裁切填充、素材堆叠或模板化背景。\n\n整体构图需要具有强烈的收藏版海报气质与高级设计感，大结构稳定，主轮廓强烈明确，内部世界具有纵深、秩序和呼吸感，细节丰富但不拥挤，内容丰满但不杂乱，可以适度加入小比例人物剪影、远处建筑、光柱、门洞、桥、阶梯、回廊、倒影、天光或远景结构来增强尺度感、故事感与史诗感。整体画面要安静、宏大、凝练、富有余味，不要平均铺满，不要廉价热闹，不要无重点堆砌。\n\n风格融合收藏版电影海报构图、高级叙事型视觉设计、梦幻水彩质感与纸张印刷品气质，强调纸张颗粒感、边缘飞白、水彩刷痕、轻微晕染、空气透视、柔和雾化、局部体积光、光雾穿透、大面积留白与克制版式，让画面看起来像设计师完成的高端收藏版视觉作品，而不是普通 AI 跑图。整体气质要高级、诗意、宏大、神圣、怀旧、安静、具有传说感和叙事感。\n\n色彩由 AI 根据主题自动判断并匹配最合适的高级配色方案，但必须保持统一、克制、耐看、低饱和、高级，不要杂乱高饱和，不要廉价霓虹感，不要塑料数码感。配色可以围绕黑金灰、冷蓝灰、雾白灰、褐红米白、暗铜、旧纸色、深海蓝、暮色紫、银灰等体系自由变化，但必须始终服务主题，并保持海报级审美与整体和谐。\n\n最终要求：第一眼有强烈的主题识别度和轮廓记忆点，第二眼有完整丰富的叙事世界，第三眼仍有细节和余味。轮廓选择必须具有创意和主题匹配度，尽量避免重复、保守、常见的容器套路，优先选择更有象征性、更有空间感、更有设计潜力的轮廓形式。不要普通背景拼接，不要生硬裁切，不要模板化奇幻素材，不要游戏宣传图感，不要过度卡通化，不要过度写实导致失去艺术感，不要形式大于内容。如果合适，可以自然加入低调克制的标题、编号、签名或落款，让它更像收藏版海报设计的一部分，但不要喧宾夺主。",
+    "displayName": "请根据【主题：xxx】自动生成一张高审美的“轮廓宇宙 / 收藏版叙事海报”风格作品。不要将画面局限于固定器物或常见容器,不要优先默认瓶子、沙漏、玻璃罩、怀表之类的常规载体,而是由 AI 根据主题自行判断并选择一个最契合、最有象征意义、轮廓最强、最适合承载完整叙事世界的主轮廓载体。这个主轮廓可以是器物、建筑、门、塔、拱门、穹顶、楼梯井、长廊、雕像、侧脸、眼睛、手掌、头骨、羽翼、面具、镜面、王座、圆环、裂缝、光幕、阴影、几何结构、空间切面、舞台框景、抽象符号或其他更有创意与主题代表性的视觉轮廓,要求合理布局。优先选择最能放大主题气质、最能形成强烈视觉记忆点、最能体现史诗感、神秘感、诗意感或设计感的轮廓,而不是最安全、最普通、最常见的容器。\n\n画面的核心不是简单把世界装进某个物体里,而是让完整的主题世界自然生长在这个主轮廓之中、之内、之上、之边界里或与其结构融为一体,形成一种“主题宇宙依附于一个象征性轮廓展开”的高级叙事效果。主轮廓必须清晰、优雅、有辨识度,并在整体构图中占据核心地位。轮廓内部或边界中需要自动生成与主题强绑定的完整叙事世界,内容应当丰富、饱满、层次清晰,包括最能代表主题的标志性场景、核心建筑或空间结构、象征符号与隐喻元素、角色关系或文明痕迹、远景中景近景的空间递进、具有命运感和情绪张力的氛围层次,以及门、台阶、桥梁、水面、烟雾、路径、光源、遗迹、机械结构、自然景观、抽象形态、生物或道具等叙事细节。所有元素必须统一、自然、有主次、有层级地融合,像一个完整世界真实孕育在这个轮廓结构之中,而不是简单拼贴、裁切填充、素材堆叠或模板化背景。\n\n整体构图需要具有强烈的收藏版海报气质与高级设计感,大结构稳定,主轮廓强烈明确,内部世界具有纵深、秩序和呼吸感,细节丰富但不拥挤,内容丰满但不杂乱,可以适度加入小比例人物剪影、远处建筑、光柱、门洞、桥、阶梯、回廊、倒影、天光或远景结构来增强尺度感、故事感与史诗感。整体画面要安静、宏大、凝练、富有余味,不要平均铺满,不要廉价热闹,不要无重点堆砌。\n\n风格融合收藏版电影海报构图、高级叙事型视觉设计、梦幻水彩质感与纸张印刷品气质,强调纸张颗粒感、边缘飞白、水彩刷痕、轻微晕染、空气透视、柔和雾化、局部体积光、光雾穿透、大面积留白与克制版式,让画面看起来像设计师完成的高端收藏版视觉作品,而不是普通 AI 跑图。整体气质要高级、诗意、宏大、神圣、怀旧、安静、具有传说感和叙事感。\n\n色彩由 AI 根据主题自动判断并匹配最合适的高级配色方案,但必须保持统一、克制、耐看、低饱和、高级,不要杂乱高饱和,不要廉价霓虹感,不要塑料数码感。配色可以围绕黑金灰、冷蓝灰、雾白灰、褐红米白、暗铜、旧纸色、深海蓝、暮色紫、银灰等体系自由变化,但必须始终服务主题,并保持海报级审美与整体和谐。\n\n最终要求：第一眼有强烈的主题识别度和轮廓记忆点,第二眼有完整丰富的叙事世界,第三眼仍有细节和余味。轮廓选择必须具有创意和主题匹配度,尽量避免重复、保守、常见的容器套路,优先选择更有象征性、更有空间感、更有设计潜力的轮廓形式。不要普通背景拼接,不要生硬裁切,不要模板化奇幻素材,不要游戏宣传图感,不要过度卡通化,不要过度写实导致失去艺术感,不要形式大于内容。如果合适,可以自然加入低调克制的标题、编号、签名或落款,让它更像收藏版海报设计的一部分,但不要喧宾夺主。",
     "langName": "剪影宇宙敘事海報",
     "object": "成品範例",
     "attribute": "海報",
@@ -35050,7 +35054,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151814358.webp"
   },
   {
-    "displayName": "中式怪异，黑暗神秘风格融合中式美学，完美细节，多重管线渲染，完美建模。西游记背景，狮驼岭，千妖万怪，坐在左边巨大王座上的大象王重甲妖精，坐在中间巨大王座上的狮王重甲妖精，坐在右边巨大王座上大鹏鸟王重甲妖精。渺小的背对镜头孙悟空肩抗金箍棒步行前进，孙悟空身穿铠甲，近地仰拍镜头，长焦镜头，强烈阴影。极致细节刻画，多次修改，正确透视和主体线条，精致细节",
+    "displayName": "中式怪异,黑暗神秘风格融合中式美学,完美细节,多重管线渲染,完美建模。西游记背景,狮驼岭,千妖万怪,坐在左边巨大王座上的大象王重甲妖精,坐在中间巨大王座上的狮王重甲妖精,坐在右边巨大王座上大鹏鸟王重甲妖精。渺小的背对镜头孙悟空肩抗金箍棒步行前进,孙悟空身穿铠甲,近地仰拍镜头,长焦镜头,强烈阴影。极致细节刻画,多次修改,正确透视和主体线条,精致细节",
     "langName": "獅駝嶺暗黑神話場景",
     "object": "成品範例",
     "attribute": "海報",
@@ -35083,7 +35087,7 @@
   },
   {
     "displayName": "A vibrant trash-aesthetic poster. An intentionally unflattering,bad-taste portrait of a pop icon. Set against a background of unintelligible visual gibberish. Heavily plastered with random,nonsensical symbols mixed with recognizable hot-topic logos and internet meme imagery. High-impact visual clutter.",
-    "langName": "高信息量抽象拼貼海報",
+    "langName": "高資訊量抽象拼貼海報",
     "object": "成品範例",
     "attribute": "海報",
     "description": "不知所云的背景，名人的醜陋肖像，一些莫名其妙的，能蹭上熱度的符號和logo",
@@ -35098,7 +35102,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151527408.webp"
   },
   {
-    "displayName": "基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。\n・包含三视图：正面、侧面和背面\n・添加角色面部表情的变化・分解并展示服装和装备的详细部分\n・添加色板・包含世界观设定的简要说明\n・总体上，使用有组织的布局（白色背景，插画风格）高分辨率、专业概念艺术风格",
+    "displayName": "基于此角色和背景,请制作一份类似官方设定资料的角色资料卡。\n・包含三视图：正面、侧面和背面\n・添加角色面部表情的变化・分解并展示服装和装备的详细部分\n・添加色板・包含世界观设定的简要说明\n・总体上,使用有组织的布局（白色背景,插画风格）高分辨率、专业概念艺术风格",
     "langName": "Persona5 角色參考卡",
     "object": "成品範例",
     "attribute": "角色",
@@ -35122,7 +35126,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151541643.webp"
   },
   {
-    "displayName": "A mecha girl mid-teens,pale skin smudged with soot and salt spray,sharp amber eyes with glowing HUD reticles,waist-length ash-white hair tied in a high ponytail whipping in the sea wind,matte gunmetal exoskeleton armor plating her shoulders,forearms and shins,exposed hydraulic pistons at the joints,chest rig with glowing cyan coolant lines,oversized oil-stained hangar jacket half slipping off one shoulder,a massive rail cannon resting on her right shoulder,dog tags and frayed red ribbon at her collar ,standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water,weight shifted onto one leg,left hand gripping the cannon strap,head turned slightly toward camera with a quiet defiant stare,steam venting from her back thrusters,her ponytail and jacket streaming sideways in the salt wind ,a vast derelict sea-city at dusk,colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes,bone-white monolithic towers fused with barnacled steel,cyclopean ring-shaped constructs canted at broken angles,rusted skeletal gantries threaded with dead cables,dark swells rolling between the pylons,shipwrecks half-swallowed at their feet,thick sea fog clinging to the bases while the upper structures pierce into a bruised sky,scattered faint lights blinking high in the towers like distant eyes ,moody low-key lighting,cold teal ambient from the overcast sky,warm amber sodium glow leaking from a distant structure camera-right,hard backlight from a low sun behind the towers carving her silhouette,volumetric god rays cutting through sea mist,wet specular highlights on her armor ,35mm anamorphic lens,slight low angle looking up past her shoulder toward the structures,medium-wide shot,shallow depth of field with foreground rust in soft focus,horizontal lens flares,fine atmospheric haze compressing the distant megastructures into layered silhouettes ,cinematic anime key visual,painterly digital illustration with crisp line art,desaturated oceanic palette of teal,bone-white and rust punched by small warm accent lights,film grain,high-contrast editorial poster aesthetic . Format 16:9.",
+    "displayName": "A mecha girl mid-teens,pale skin smudged with soot and salt spray,sharp amber eyes with glowing HUD reticles,waist-length ash-white hair tied in a high ponytail whipping in the sea wind,matte gunmetal exoskeleton armor plating her shoulders,forearms and shins,exposed hydraulic pistons at the joints,chest rig with glowing cyan coolant lines,oversized oil-stained hangar jacket half slipping off one shoulder,a massive rail cannon resting on her right shoulder,dog tags and frayed red ribbon at her collar,standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water,weight shifted onto one leg,left hand gripping the cannon strap,head turned slightly toward camera with a quiet defiant stare,steam venting from her back thrusters,her ponytail and jacket streaming sideways in the salt wind,a vast derelict sea-city at dusk,colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes,bone-white monolithic towers fused with barnacled steel,cyclopean ring-shaped constructs canted at broken angles,rusted skeletal gantries threaded with dead cables,dark swells rolling between the pylons,shipwrecks half-swallowed at their feet,thick sea fog clinging to the bases while the upper structures pierce into a bruised sky,scattered faint lights blinking high in the towers like distant eyes,moody low-key lighting,cold teal ambient from the overcast sky,warm amber sodium glow leaking from a distant structure camera-right,hard backlight from a low sun behind the towers carving her silhouette,volumetric god rays cutting through sea mist,wet specular highlights on her armor,35mm anamorphic lens,slight low angle looking up past her shoulder toward the structures,medium-wide shot,shallow depth of field with foreground rust in soft focus,horizontal lens flares,fine atmospheric haze compressing the distant megastructures into layered silhouettes,cinematic anime key visual,painterly digital illustration with crisp line art,desaturated oceanic palette of teal,bone-white and rust punched by small warm accent lights,film grain,high-contrast editorial poster aesthetic . Format 16:9.",
     "langName": "機甲少女海洋城市關鍵視覺",
     "object": "成品範例",
     "attribute": "角色",
@@ -35146,7 +35150,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151557646.webp"
   },
   {
-    "displayName": "用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它",
+    "displayName": "用这种风格帮我生成一套UI设计系统,包含网页、移动端、卡片、控件、按钮 以及其它",
     "langName": "單提示 UI 設計生成",
     "object": "成品範例",
     "attribute": "UI",
@@ -35170,7 +35174,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151610558.webp"
   },
   {
-    "displayName": "\"宋朝人的朋友圈\"/\"SONG DYNASTY SOCIAL MEDIA FEED\"，古今穿越幽默融合界面设计风格，画面模拟手机社交媒体界面，但内容全部是宋朝场景头像是宋代文人画像，用户名\"苏东坡SuShi_Official\"，发布内容\"刚到黄州，被贬了但心情还行。今天自己做了东坡肉，味道绝了，附菜谱：\"，配图为工笔画风格的东坡肉特写，点赞列表\"黄庭坚、秦观、佛印等126人\"，评论区\"王安石：呵呵\"\"司马光：还是那个味道\"，界面元素如点赞图标用宋代花纹替代，状态栏显示\"大宋移动 5G\"和\"元丰三年\"，配色为手机深色模式搭配宋代雅致色调，历史与社交媒体的趣味碰撞杰作",
+    "displayName": "\"宋朝人的朋友圈\"/\"SONG DYNASTY SOCIAL MEDIA FEED\",古今穿越幽默融合界面设计风格,画面模拟手机社交媒体界面,但内容全部是宋朝场景头像是宋代文人画像,用户名\"苏东坡SuShi_Official\",发布内容\"刚到黄州,被贬了但心情还行。今天自己做了东坡肉,味道绝了,附菜谱：\",配图为工笔画风格的东坡肉特写,点赞列表\"黄庭坚、秦观、佛印等126人\",评论区\"王安石：呵呵\"\"司马光：还是那个味道\",界面元素如点赞图标用宋代花纹替代,状态栏显示\"大宋移动 5G\"和\"元丰三年\",配色为手机深色模式搭配宋代雅致色调,历史与社交媒体的趣味碰撞杰作",
     "langName": "宋朝社群媒體動態",
     "object": "成品範例",
     "attribute": "UI",
@@ -35178,7 +35182,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151615137.webp"
   },
   {
-    "displayName": "1、生成视频号内容截图，主题：中老年不要盲目催婚，iPhone尺寸\n2、生成抖音内容截图，主题：跟上AI浪潮9.9包教会，iPhone尺寸\n3、生成小红书内容截图，主题：精致女孩背后都有网贷，iPhone尺寸\n4、生成快手内容截图：主题：直播离婚预告，iPhone尺寸",
+    "displayName": "1、生成视频号内容截图,主题：中老年不要盲目催婚,iPhone尺寸\n2、生成抖音内容截图,主题：跟上AI浪潮9.9包教会,iPhone尺寸\n3、生成小红书内容截图,主题：精致女孩背后都有网贷,iPhone尺寸\n4、生成快手内容截图：主题：直播离婚预告,iPhone尺寸",
     "langName": "多平台內容截圖",
     "object": "成品範例",
     "attribute": "UI",
@@ -35186,7 +35190,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151619526.webp"
   },
   {
-    "displayName": "9:16 的图片比例，生成一张抖音直播的截图，里面是 刘亦菲 在直播，刘亦菲 手里拿着牌子，牌子里写着 今晚直播，欢迎来参亦菲畅聊！",
+    "displayName": "9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊！",
     "langName": "劉亦菲抖音直播截圖",
     "object": "成品範例",
     "attribute": "UI",
@@ -35202,7 +35206,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151627467.webp"
   },
   {
-    "displayName": "用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮以及其它。把这套视觉风格作为参考生成网页。我尝试了宇宙、飞行、蝴蝶主题。",
+    "displayName": "用这种风格帮我生成一套UI设计系统,包含网页、移动端、卡片、控件、按钮以及其它。把这套视觉风格作为参考生成网页。我尝试了宇宙、飞行、蝴蝶主题。",
     "langName": "風格轉 UI 設計系統",
     "object": "成品範例",
     "attribute": "UI",
@@ -35218,7 +35222,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151638396.webp"
   },
   {
-    "displayName": "请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。\n\n要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。\n\n整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。\n\n版式固定为：\n- 顶部：中文主标题 + 副标题 + 导语\n- 左侧：结构拆解区，中文引线标注关键部件，并配局部特写\n- 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明\n- 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释\n- 底部：穿着顺序 / 构成流程图 + 核心特征总结\n\n若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。\n\n避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。",
+    "displayName": "请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。\n\n要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构,用户无需再提供其他信息。\n\n整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图,而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感,整体高级、克制、专业、可收藏。\n\n版式固定为：\n- 顶部：中文主标题 + 副标题 + 导语\n- 左侧：结构拆解区,中文引线标注关键部件,并配局部特写\n- 右上：材质 / 工艺 / 质感区,展示真实纹理小样并附说明\n- 右中：纹样 / 色彩 / 寓意区,展示主色板、纹样样本和文化解释\n- 底部：穿着顺序 / 构成流程图 + 核心特征总结\n\n若主题适合人物展示,则以真实人物全身站姿为中央主体；若更适合器物或单体结构,则改为中心主体拆解图,但整体仍保持完整中文信息图形式。所有文字必须为简体中文,清晰、规整、可读,不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。\n\n避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。",
     "langName": "博物館風漢服解構資訊圖",
     "object": "成品範例",
     "attribute": "UI",

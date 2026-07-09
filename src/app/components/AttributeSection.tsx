@@ -17,7 +17,7 @@ const AttributeSection: FC<AttributeSectionProps> = ({ attributes = [], selected
   };
 
   return (
-    <Radio.Group value={selectedAttribute} onChange={handleChange} buttonStyle="solid" size="middle">
+    <Radio.Group className="pp-subs" value={selectedAttribute} onChange={handleChange} buttonStyle="solid" size="middle">
       {attributes.map((attribute) => (
         <Radio.Button key={attribute} value={attribute}>
           {attribute}

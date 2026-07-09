@@ -6,13 +6,11 @@ const CONSTANT_TEXT_2 =
 export const CONSTANT_BUTTONS = [
   {
     text: CONSTANT_TEXT_1,
-    type: "primary",
     tooltipKey: "tooltip-light",
     promptKey: "prompt-light",
   },
   {
     text: CONSTANT_TEXT_2,
-    type: "primary",
     tooltipKey: "tooltip-polish",
     promptKey: "prompt-polish",
   },

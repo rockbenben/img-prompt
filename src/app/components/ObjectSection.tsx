@@ -17,7 +17,7 @@ const ObjectSection: FC<ObjectSectionProps> = ({ objects = [], activeObject, onO
   };
 
   return (
-    <Radio.Group value={activeObject} onChange={handleChange} buttonStyle="solid" size="middle">
+    <Radio.Group className="pp-cats" value={activeObject} onChange={handleChange} buttonStyle="solid" size="middle">
       {objects.map((object) => (
         <Radio.Button key={object} value={object}>
           {object}

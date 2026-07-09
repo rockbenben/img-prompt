@@ -1,5 +1,6 @@
 "use client";
 import React, { useState, useEffect, memo } from "react";
+import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Layout, Menu, Space, Button, Dropdown, Flex } from "antd";
 import { GithubOutlined, QqOutlined, DiscordOutlined, SunOutlined, MoonOutlined, TeamOutlined, SendOutlined } from "@ant-design/icons";
@@ -35,17 +36,21 @@ export function Navigation() {
     setTheme(resolvedTheme === "light" ? "dark" : "light");
   };
 
-  // 从路径中提取当前菜单项的 key
-  // 路径格式: /locale/tool-name 或 /locale (首页)
+  // 从路径中提取当前菜单项的 key（取 locale 后的首段——guide 子页
+  // 如 /zh/guide/pick-tags 也要命中 "guide"，整段 join 会丢高亮）
   const pathSegments = pathname.split("/").filter(Boolean);
-  const currentMenuKey = pathSegments.length > 1 ? pathSegments.slice(1).join("/") : "home";
+  const currentMenuKey = pathSegments[1] ?? "home";
 
   // 主题切换图标：SSR 和 hydration 前显示 MoonOutlined，挂载后显示正确图标
   const themeIcon = mounted && resolvedTheme === "light" ? <SunOutlined style={iconStyle} /> : <MoonOutlined style={iconStyle} />;
 
   return (
     <Header style={{ padding: 0, background: "transparent", height: 48, lineHeight: "48px" }}>
-      <Flex justify="space-between" align="center" style={{ padding: "0 16px", borderBottom: "1px solid rgba(128, 128, 128, 0.25)" }}>
+      <Flex className="pp-topbar" justify="space-between" align="center" style={{ padding: "0 16px" }}>
+        <Link href={`/${locale}`} className="pp-wordmark">
+          <span className="pp-blob" aria-hidden="true" />
+          IMGPrompt
+        </Link>
         <Menu selectedKeys={[currentMenuKey]} mode="horizontal" items={menuItems} style={{ flex: 1, minWidth: 0, border: "none", background: "transparent" }} />
         <Space size="middle">
           <LanguageSelector />

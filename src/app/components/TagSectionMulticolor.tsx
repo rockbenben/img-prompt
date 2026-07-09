@@ -1,95 +1,38 @@
-import React, { FC, forwardRef, useMemo } from "react";
-import { presetPalettes, presetDarkPalettes } from "@ant-design/colors";
-import { useTheme } from "next-themes";
+import React, { FC, forwardRef } from "react";
 import { normalizeString } from "@/app/utils/normalizeString";
 import { TagItem } from "./types";
 import TagTooltipWrapper from "./TagTooltipWrapper";
 
-const palette = ["blue", "cyan", "green", "lime", "gold", "orange", "volcano", "magenta", "purple", "geekblue"] as const;
-type ColorName = (typeof palette)[number];
-
-const ellipsisStyle: React.CSSProperties = {
-  display: "inline-block",
-  maxWidth: 160,
-  overflow: "hidden",
-  textOverflow: "ellipsis",
-  whiteSpace: "nowrap",
-  verticalAlign: "bottom",
-};
-
-type Palettes = typeof presetPalettes;
+// candy 六色按块轮换（每 8 个标签换一色相）；颜色值由 globals.css 的
+// --pp-c-* 变量提供，明暗模式自动翻转，组件本身不感知主题。
+const CANDY_COUNT = 6;
+const BLOCK_SIZE = 8;
 
 interface TagButtonProps extends Omit<React.ButtonHTMLAttributes<HTMLButtonElement>, "onClick"> {
   tag: TagItem;
-  colorName: ColorName;
+  colorIndex: number;
   isSelected: boolean;
-  isDark: boolean;
-  palettes: Palettes;
   onClick: () => void;
 }
 
-const TagButton = forwardRef<HTMLButtonElement, TagButtonProps>(
-  ({ tag, colorName, isSelected, isDark, palettes, onClick, ...rest }, ref) => {
-    const c = (shade: number) => palettes[colorName][shade - 1];
+const TagButton = forwardRef<HTMLButtonElement, TagButtonProps>(({ tag, colorIndex, isSelected, onClick, ...rest }, ref) => {
+  const tagLangName = normalizeString(tag.langName) !== normalizeString(tag.displayName) ? tag.langName : "";
 
-    const tagLangName = normalizeString(tag.langName) !== normalizeString(tag.displayName) ? tag.langName : "";
-
-    let mainBg: string;
-    let subBg: string;
-    let textColor: string;
-    let borderColor: string;
-    let dividerColor: string;
-
-    if (isDark) {
-      if (isSelected) {
-        mainBg = c(6); subBg = c(5); textColor = "#fff"; borderColor = c(8); dividerColor = c(4);
-      } else {
-        mainBg = c(3); subBg = c(3); textColor = c(7); borderColor = c(5); dividerColor = c(4);
-      }
-    } else {
-      if (isSelected) {
-        mainBg = c(7); subBg = c(6); textColor = "#fff"; borderColor = c(8); dividerColor = c(5);
-      } else {
-        mainBg = c(1); subBg = c(1); textColor = c(7); borderColor = c(5); dividerColor = c(3);
-      }
-    }
-
-    const buttonStyle: React.CSSProperties = {
-      display: "inline-flex",
-      border: `1px solid ${borderColor}`,
-      background: "transparent",
-      padding: 0,
-      cursor: "pointer",
-      borderRadius: 6,
-      overflow: "hidden",
-      margin: 4,
-      fontSize: 13,
-      fontWeight: isSelected ? 600 : 500,
-    };
-
-    const mainSpanStyle: React.CSSProperties = {
-      ...ellipsisStyle,
-      backgroundColor: mainBg,
-      color: textColor,
-      padding: isSelected ? "4px 10px" : "5px 10px",
-      borderRight: tagLangName ? `1px solid ${dividerColor}` : "none",
-    };
-
-    const subSpanStyle: React.CSSProperties = {
-      ...ellipsisStyle,
-      backgroundColor: subBg,
-      color: textColor,
-      padding: isSelected ? "4px 10px" : "5px 10px",
-    };
-
-    return (
-      <button {...rest} ref={ref} type="button" onClick={onClick} aria-pressed={isSelected} className="tag-multicolor-btn" style={buttonStyle}>
-        <span style={mainSpanStyle}>{tag.displayName}</span>
-        {tagLangName && <span style={subSpanStyle}>{tagLangName}</span>}
-      </button>
-    );
-  },
-);
+  return (
+    <button
+      {...rest}
+      ref={ref}
+      type="button"
+      onClick={onClick}
+      aria-pressed={isSelected}
+      className={`pp-tag pp-c-${colorIndex}${isSelected ? " pp-on" : ""}`}>
+      {/* 母语浏览，英文输出：母语领先为主，英文（实际输出值）次级跟随 */}
+      <span className="pp-tag-dot" aria-hidden="true" />
+      {tagLangName && <span className="pp-tag-cn">{tagLangName}</span>}
+      <span className="pp-tag-en">{tag.displayName}</span>
+    </button>
+  );
+});
 TagButton.displayName = "TagButton";
 
 interface TagSectionMulticolorProps {
@@ -99,31 +42,14 @@ interface TagSectionMulticolorProps {
 }
 
 const TagSectionMulticolor: FC<TagSectionMulticolorProps> = ({ tags = [], selectedNameSet, onTagClick }) => {
-  const { resolvedTheme } = useTheme();
-  const isDark = resolvedTheme === "dark";
-  const palettes = useMemo<Palettes>(() => (isDark ? presetDarkPalettes : presetPalettes), [isDark]);
-
   return (
     <div className="flex flex-wrap mt-2 mb-1">
       {tags.map((tag, index) => {
         const isSelected = selectedNameSet.has(tag.displayName);
-        const colorName = palette[Math.floor(index / 10) % palette.length];
+        const colorIndex = Math.floor(index / BLOCK_SIZE) % CANDY_COUNT;
         const key = `${tag.object}-${tag.attribute}-${tag.displayName}`;
-        const button = (
-          <TagButton
-            key={key}
-            tag={tag}
-            colorName={colorName}
-            isSelected={isSelected}
-            isDark={isDark}
-            palettes={palettes}
-            onClick={() => onTagClick(tag)}
-          />
-        );
-        const hasTooltip =
-          tag.preview ||
-          tag.description ||
-          (tag.langName && tag.langName !== tag.displayName && tag.langName.length > 20);
+        const button = <TagButton key={key} tag={tag} colorIndex={colorIndex} isSelected={isSelected} onClick={() => onTagClick(tag)} />;
+        const hasTooltip = tag.preview || tag.description || (tag.langName && tag.langName !== tag.displayName && tag.langName.length > 20);
         return hasTooltip ? (
           <TagTooltipWrapper key={key} tag={tag}>
             {button}

@@ -9,7 +9,6 @@ const EMPTY_TAG: TagItem = { object: "", attribute: "", langName: "", displayNam
 
 interface UseFullTagsDataResult {
   fullTags: TagItem[] | null;
-  searchIndex: Map<string, TagItem[]> | null;
   findTagData: (name: string) => TagItem;
   ensureLoaded: () => void;
 }
@@ -40,24 +39,6 @@ export function useFullTagsData(locale: string, firstChunk: TagItem[]): UseFullT
       });
   }, [locale, firstChunk]);
 
-  const searchIndex = useMemo<Map<string, TagItem[]> | null>(() => {
-    if (!fullTags) return null;
-    const byPrefix = new Map<string, TagItem[]>();
-    const push = (key: string, tag: TagItem) => {
-      const k = key.slice(0, 2);
-      if (!k) return;
-      const arr = byPrefix.get(k);
-      if (arr) arr.push(tag);
-      else byPrefix.set(k, [tag]);
-    };
-    for (const tag of fullTags) {
-      push(normalizeString(tag.displayName), tag);
-      const ln = normalizeString(tag.langName);
-      if (ln && ln !== normalizeString(tag.displayName)) push(ln, tag);
-    }
-    return byPrefix;
-  }, [fullTags]);
-
   // findTagData：fullTags 优先；未加载时退化到 firstChunk
   const exactIndex = useMemo(() => {
     const map = new Map<string, TagItem>();
@@ -78,5 +59,5 @@ export function useFullTagsData(locale: string, firstChunk: TagItem[]): UseFullT
     [exactIndex],
   );
 
-  return { fullTags, searchIndex, findTagData, ensureLoaded };
+  return { fullTags, findTagData, ensureLoaded };
 }
