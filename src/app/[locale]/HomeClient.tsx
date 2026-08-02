@@ -5,10 +5,8 @@ import { Row, Col, Flex, Segmented } from "antd";
 
 import tagsData2 from "@/app/data/prompt-custom.json";
 
-import ObjectSection from "@/app/components/ObjectSection";
-import AttributeSection from "@/app/components/AttributeSection";
+import CategoryRadio from "@/app/components/CategoryRadio";
 import TagSection from "@/app/components/TagSection";
-import TagSectionMulticolor from "@/app/components/TagSectionMulticolor";
 import SelectedTagsSection from "@/app/components/SelectedTagsSection";
 import ResultSection from "@/app/components/ResultSection";
 import { TagItem } from "@/app/components/types";
@@ -207,12 +205,6 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
     [combinedTagsData, activeAttribute],
   );
 
-  const tagSectionContent = useColorBlocks ? (
-    <TagSectionMulticolor tags={filteredTags} selectedNameSet={selectedNameSet} onTagClick={handleTagClick} />
-  ) : (
-    <TagSection tags={filteredTags} selectedNameSet={selectedNameSet} onTagClick={handleTagClick} />
-  );
-
   return (
     <>
       <Row gutter={[18, 18]}>
@@ -222,14 +214,14 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
               <div style={{ marginBottom: 13 }}>
                 <SectionTitle index={1} title={t("section1")} gloss="Subject" />
               </div>
-              <ObjectSection objects={objects} activeObject={activeObject} onObjectClick={handleObjectClick} />
+              <CategoryRadio className="pp-cats" items={objects} value={activeObject} onChange={handleObjectClick} />
             </section>
 
             <section className="pp-tray">
               <div style={{ marginBottom: 13 }}>
                 <SectionTitle index={2} title={t("section2")} gloss="Facet" />
               </div>
-              <AttributeSection attributes={attributes} selectedAttribute={activeAttribute} onAttributeClick={handleAttributeClick} />
+              <CategoryRadio className="pp-subs" items={attributes} value={activeAttribute} onChange={handleAttributeClick} />
             </section>
 
             <section className="pp-tray">
@@ -245,7 +237,9 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
                   ]}
                 />
               </Flex>
-              <div style={{ maxHeight: "clamp(280px, 36vh, 400px)", overflowY: "auto" }}>{tagSectionContent}</div>
+              <div style={{ maxHeight: "clamp(280px, 36vh, 400px)", overflowY: "auto" }}>
+                <TagSection tags={filteredTags} selectedNameSet={selectedNameSet} onTagClick={handleTagClick} mono={!useColorBlocks} />
+              </div>
             </section>
           </Flex>
           {selectedTags.length > 0 && (
@@ -255,7 +249,7 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
           )}
         </Col>
         <Col xs={24} lg={6}>
-          <ResultSection selectedTags={selectedTags} setSelectedTags={setSelectedTags} firstChunk={firstChunk} />
+          <ResultSection selectedTags={selectedTags} setSelectedTags={setSelectedTags} firstChunk={firstChunk} objectCount={objects.length} />
         </Col>
       </Row>
     </>
