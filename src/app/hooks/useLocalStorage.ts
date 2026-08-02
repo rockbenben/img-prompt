@@ -1,72 +1,32 @@
-import { useCallback, useMemo, useSyncExternalStore } from "react";
+import { useCallback, useEffect, useState } from "react";
 
-export const loadFromLocalStorage = (key: string) => {
-  if (typeof window === "undefined") return null;
-  const storedValue = localStorage.getItem(key);
-  if (storedValue === null) return null;
-
-  try {
-    return JSON.parse(storedValue);
-  } catch {
-    return null; // 避免返回无法解析的原始字符串
-  }
-};
-
-export const saveToLocalStorage = (key: string, value: unknown) => {
-  if (typeof window === "undefined") return;
-  try {
-    localStorage.setItem(key, JSON.stringify(value));
-  } catch (error) {
-    console.error(`Error saving key "${key}" to localStorage:`, error);
-  }
-};
-
-// useSyncExternalStore 订阅函数：监听 key 对应的 localStorage 变化（含同 tab 通过手动 dispatch 通知）
-const createSubscribe = (key: string) => (callback: () => void) => {
-  if (typeof window === "undefined") return () => {};
-  const handler = (e: StorageEvent) => {
-    if (e.key === null || e.key === key) callback();
-  };
-  window.addEventListener("storage", handler);
-  return () => window.removeEventListener("storage", handler);
-};
-
+// SSG 安全：首屏一律渲染 defaultValue，挂载后再读存档（避免 hydration 不一致）。
+// 写入放在 setter 里而非 effect：effect 写会在读回存档前先把默认值刷回去。
 export function useLocalStorage<T>(key: string, defaultValue: T) {
-  const getSnapshot = useCallback(() => {
-    if (typeof window === "undefined") return null;
-    return localStorage.getItem(key);
+  const [value, setValue] = useState<T>(defaultValue);
+
+  useEffect(() => {
+    const raw = localStorage.getItem(key);
+    if (raw === null) return;
+    try {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
+      setValue(JSON.parse(raw) as T);
+    } catch {
+      /* 损坏的存档直接忽略 */
+    }
   }, [key]);
 
-  const getServerSnapshot = useCallback(() => null, []);
-
-  const subscribe = useMemo(() => createSubscribe(key), [key]);
-
-  const storedString = useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot);
-
-  const value = useMemo<T>(() => {
-    if (storedString === null) return defaultValue;
-    try {
-      return JSON.parse(storedString) as T;
-    } catch {
-      return defaultValue;
-    }
-  }, [storedString, defaultValue]);
-
-  const setValue = useCallback(
-    (newValue: T | ((prev: T) => T)) => {
-      if (typeof window === "undefined") return;
-      const finalValue = newValue instanceof Function ? newValue(value) : newValue;
+  const store = useCallback(
+    (next: T) => {
+      setValue(next);
       try {
-        const serialized = JSON.stringify(finalValue);
-        localStorage.setItem(key, serialized);
-        // 原生 storage 事件仅跨 tab 触发；手动 dispatch 通知同 tab 订阅者
-        window.dispatchEvent(new StorageEvent("storage", { key, newValue: serialized }));
-      } catch (error) {
-        console.error(`Error saving key "${key}" to localStorage:`, error);
+        localStorage.setItem(key, JSON.stringify(next));
+      } catch {
+        /* 配额/隐私模式下静默放弃 */
       }
     },
-    [key, value],
+    [key],
   );
 
-  return [value, setValue] as const;
+  return [value, store] as const;
 }
