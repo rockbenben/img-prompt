@@ -381,6 +381,11 @@ body {
   color: var(--pp-count-accent);
   font-weight: 600;
 }
+/* 越过建议长度：整组转 coral。不是错误态，所以不用红、也不加图标 */
+.pp-count-over,
+.pp-count-over b {
+  color: var(--pp-coral);
+}
 
 /* 已选标签芯片：中性（卡片底 + 墨线），分组信息由行结构承载；点一下移除 */
 .pp-token {

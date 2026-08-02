@@ -4,6 +4,7 @@
 // （浏览器表现为 CORS 错误），保留作备用；前两个服务均为开放 CORS、免 key。
 // 端点协议参考 web-tools-by-ai 项目，2026-06 实测可用。
 
+// 源语言一律交给服务端自动检测（全站唯一的调用形态），只需映射目标语言。
 // Google NMT 后端的语言码与本项目 locale 的差异映射
 const GOOGLE_LANG_MAP: Record<string, string> = {
   zh: "zh-CN",
@@ -47,7 +48,7 @@ const unescapeHtml = (s: string) =>
     .replace(/&#39;/g, "'")
     .replace(/&amp;/g, "&");
 
-const translateWithGtxFree = async (text: string, sourceLanguage: string, targetLanguage: string, signal?: AbortSignal) => {
+const translateWithGtxFree = async (text: string, targetLanguage: string, signal?: AbortSignal) => {
   // HTML 语义会把 \n 压成空格；translateHtml 原生接收文本数组，
   // 按行拆发、按位回填（空行直传，发空元素会 400）。
   const lines = text.split("\n");
@@ -64,7 +65,7 @@ const translateWithGtxFree = async (text: string, sourceLanguage: string, target
   const response = await fetch(GTX_ENDPOINT, {
     method: "POST",
     headers: { "Content-Type": "application/json+protobuf", "X-Goog-API-Key": GTX_PUBLIC_KEY },
-    body: JSON.stringify([[payload, toGoogleCode(sourceLanguage), toGoogleCode(targetLanguage)], "te_lib"]),
+    body: JSON.stringify([[payload, "auto", toGoogleCode(targetLanguage)], "te_lib"]),
     signal,
   });
   if (!response.ok) throw new Error(`GTX Free HTTP ${response.status}`);
@@ -113,8 +114,9 @@ const getEdgeToken = (signal?: AbortSignal, staleToken?: string): Promise<string
   return inflight;
 };
 
-const translateWithEdgeFree = async (text: string, sourceLanguage: string, targetLanguage: string, signal?: AbortSignal) => {
-  const endpoint = `${EDGE_TRANSLATE_ENDPOINT}&to=${targetLanguage}${sourceLanguage !== "auto" ? `&from=${sourceLanguage}` : ""}`;
+const translateWithEdgeFree = async (text: string, targetLanguage: string, signal?: AbortSignal) => {
+  // 不带 &from：Azure/Edge 后端缺省即自动检测
+  const endpoint = `${EDGE_TRANSLATE_ENDPOINT}&to=${targetLanguage}`;
 
   const doRequest = async (token: string) =>
     fetch(endpoint, {
@@ -142,8 +144,8 @@ const translateWithEdgeFree = async (text: string, sourceLanguage: string, targe
 type GoogleTranslationPart = [string, string, ...unknown[]];
 type GoogleTranslationResponse = [GoogleTranslationPart[], ...unknown[]];
 
-const translateWithGoogleLegacy = async (text: string, sourceLanguage: string, targetLanguage: string, signal?: AbortSignal) => {
-  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${toGoogleCode(sourceLanguage)}&tl=${toGoogleCode(targetLanguage)}&dt=t&q=${encodeURIComponent(text)}`;
+const translateWithGoogleLegacy = async (text: string, targetLanguage: string, signal?: AbortSignal) => {
+  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${toGoogleCode(targetLanguage)}&dt=t&q=${encodeURIComponent(text)}`;
 
   const response = await fetch(url, { signal });
   if (!response.ok) throw new Error("Google legacy API failed");
@@ -152,7 +154,8 @@ const translateWithGoogleLegacy = async (text: string, sourceLanguage: string, t
 };
 
 // ===== 备用：有道（免费无需 API Key）=====
-const translateWithYoudao = async (text: string, sourceLanguage: string, targetLanguage: string, signal?: AbortSignal) => {
+const translateWithYoudao = async (text: string, targetLanguage: string, signal?: AbortSignal) => {
+  // 同时充当目标语言白名单：查不到即抛错让位下一个服务
   const langMap: { [key: string]: string } = {
     en: "en",
     zh: "zh-CHS",
@@ -172,13 +175,12 @@ const translateWithYoudao = async (text: string, sourceLanguage: string, targetL
     "zh-hant": "zh-CHT",
   };
 
-  const from = langMap[sourceLanguage] || "auto";
   const to = langMap[targetLanguage];
   // 不支持的目标语言必须抛错走下一个服务；静默回退 zh-CHS 会把
   // hi/th/bn 等用户的译文变成简体中文
   if (!to) throw new Error(`Youdao: unsupported target language "${targetLanguage}"`);
 
-  const url = `https://aidemo.youdao.com/trans?q=${encodeURIComponent(text)}&from=${from}&to=${to}`;
+  const url = `https://aidemo.youdao.com/trans?q=${encodeURIComponent(text)}&from=auto&to=${to}`;
 
   const response = await fetch(url, { signal });
   if (!response.ok) throw new Error("Youdao API failed");
@@ -197,7 +199,19 @@ const translateWithYoudao = async (text: string, sourceLanguage: string, targetL
 };
 
 // ===== 备用：MyMemory（欧盟免费 API，最大 500 字节）=====
-const translateWithMyMemory = async (text: string, sourceLanguage: string, targetLanguage: string, signal?: AbortSignal) => {
+// 本项目 18 个 locale 中可靠靠文字系统识别的源语言；顺序即匹配优先级。
+const SOURCE_SCRIPTS: [RegExp, string][] = [
+  [/[ぁ-ゖァ-ヴー々〆〤]/, "ja"], // 假名，日文独有
+  [/[가-힣]/, "ko"],
+  [/[Ѐ-ӿ]/, "ru"],
+  [/[؀-ۿ]/, "ar"],
+  [/[฀-๿]/, "th"],
+  [/[ऀ-ॿ]/, "hi"],
+  [/[ঀ-৿]/, "bn"],
+  [/[一-鿿]/, "zh-CN"], // 汉字兜底，必须最后
+];
+
+const translateWithMyMemory = async (text: string, targetLanguage: string, signal?: AbortSignal) => {
   // 硬上限 500 字节：超长必然返回 200 包裹的 QUERY LENGTH LIMIT 错误，
   // 提前让位给下一个服务，省一次注定失败的往返
   if (new TextEncoder().encode(text).length > 480) {
@@ -225,22 +239,17 @@ const translateWithMyMemory = async (text: string, sourceLanguage: string, targe
     "zh-hant": "zh-TW",
   };
 
-  let from = langMap[sourceLanguage] || sourceLanguage;
   const to = langMap[targetLanguage] || targetLanguage;
 
-  // MyMemory不支持auto，如果是auto或未知语言，尝试检测语言
-  if (from === "auto" || !langMap[sourceLanguage]) {
-    // 简单的语言检测：检查是否包含中文字符
-    if (/[一-鿿]/.test(text)) {
-      from = "zh-CN";
-    } else if (/[ぁ-ゖゝ-ゟァ-ヴー々〆〤]/.test(text)) {
-      from = "ja"; // 日文
-    } else if (/[가-힣]/.test(text)) {
-      from = "ko"; // 韩文
-    } else {
-      from = "en"; // 默认英文
-    }
-  }
+  // MyMemory 不支持 auto，只能本地按文字系统粗判源语言。汉字必须排在最后：
+  // 日文正文含汉字，先匹配汉字区间会把日文整体误判成中文。
+  // 拉丁字母语言（pt/es/fr/de/vi/tr/id/it）彼此无法靠字符区分，一律按英文——
+  // 提示词正文就是英文 displayName，这也是最常命中的情况。
+  const from = SOURCE_SCRIPTS.find(([re]) => re.test(text))?.[1] ?? "en";
+
+  // 猜出来的源语言与目标相同时直接让位：MyMemory 对 x|x 回 403，
+  // 白跑一趟还会把降级链的最后一次机会耗掉
+  if (from === to) throw new Error(`MyMemory: source and target are both "${to}"`);
 
   const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=${from}|${to}`;
 
@@ -260,7 +269,7 @@ const translateWithMyMemory = async (text: string, sourceLanguage: string, targe
 };
 
 // 翻译服务列表（按优先级排序）
-type TranslateFn = (text: string, sourceLanguage: string, targetLanguage: string, signal?: AbortSignal) => Promise<string>;
+type TranslateFn = (text: string, targetLanguage: string, signal?: AbortSignal) => Promise<string>;
 const translationServices: { name: string; fn: TranslateFn }[] = [
   { name: "GTX Free", fn: translateWithGtxFree },
   { name: "Edge Free", fn: translateWithEdgeFree },
@@ -293,8 +302,8 @@ const cacheSet = (key: string, value: string) => {
   }
 };
 
-// 主翻译函数 - 多服务自动切换；signal 可选（调用方取消时中止在途请求）
-export const translateText = async (text: string, sourceLanguage: string, targetLanguage: string, signal?: AbortSignal) => {
+// 主翻译函数 - 多服务自动切换；源语言由各服务自动检测。signal 可选（调用方取消时中止在途请求）
+export const translateText = async (text: string, targetLanguage: string, signal?: AbortSignal) => {
   const trimmedText = text.trim();
 
   // 如果文本不包含需要翻译的字符，直接返回
@@ -302,7 +311,7 @@ export const translateText = async (text: string, sourceLanguage: string, target
     return trimmedText;
   }
 
-  const cacheKey = `${sourceLanguage}->${targetLanguage}:${trimmedText}`;
+  const cacheKey = `${targetLanguage}:${trimmedText}`;
   const cached = cacheGet(cacheKey);
   if (cached !== undefined) return cached;
 
@@ -314,7 +323,7 @@ export const translateText = async (text: string, sourceLanguage: string, target
     // 调用方已取消就别再换下一个服务空转了
     if (signal?.aborted) throw lastError ?? new Error("translation aborted");
     try {
-      const result = await service.fn(trimmedText, sourceLanguage, targetLanguage, attemptSignal(signal));
+      const result = await service.fn(trimmedText, targetLanguage, attemptSignal(signal));
       preferredIndex = translationServices.indexOf(service);
       cacheSet(cacheKey, result);
       return result;

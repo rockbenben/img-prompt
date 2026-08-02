@@ -10,10 +10,15 @@ import { PromptInput } from "./PromptInput";
 import { TagSuggestions } from "./TagSuggestions";
 import { TranslationResult } from "./TranslationResult";
 
+// 建议长度而非硬上限：多数模型对超长提示词的后段权重骤降。
+// 越过只提示、不阻断输入。
+const PROMPT_SOFT_LIMIT = 380;
+
 interface ResultSectionProps {
   selectedTags: TagItem[];
   setSelectedTags: (tags: TagItem[]) => void;
   firstChunk: TagItem[];
+  objectCount: number;
 }
 
 const PromptResults: FC<ResultSectionProps> = (props) => {
@@ -69,8 +74,8 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
       <div className="pp-mixer">
         <div className="pp-mixer-head">
           <span className="pp-mixer-title">{t("prompt")}</span>
-          <span className="pp-count">
-            <b>{resultText.length}</b> / 380
+          <span className={`pp-count${resultText.length > PROMPT_SOFT_LIMIT ? " pp-count-over" : ""}`}>
+            <b>{resultText.length}</b> / {PROMPT_SOFT_LIMIT}
           </span>
         </div>
         <PromptInput

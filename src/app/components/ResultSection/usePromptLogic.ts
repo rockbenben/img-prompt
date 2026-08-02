@@ -76,14 +76,15 @@ interface UsePromptLogicProps {
   selectedTags: TagItem[];
   setSelectedTags: (tags: TagItem[]) => void;
   firstChunk: TagItem[];
+  objectCount: number;
 }
 
-export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk }: UsePromptLogicProps) {
+export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, objectCount }: UsePromptLogicProps) {
   const { message } = App.useApp();
   const t = useTranslations("ResultSection");
   const locale = useLocale();
 
-  const { fullTags, findTagData, ensureLoaded } = useFullTagsData(locale, firstChunk);
+  const { fullTags, findTagData, ensureLoaded } = useFullTagsData(locale, firstChunk, objectCount);
 
   const [draftText, setDraftText] = useState<string | null>(null);
   const isComposingRef = useRef(false);
@@ -133,7 +134,7 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk }: Us
     const timer = setTimeout(async () => {
       try {
         setIsAutoTranslating(true);
-        const translated = await translateText(displayedText, "auto", locale, aborter.signal);
+        const translated = await translateText(displayedText, locale, aborter.signal);
         if (canceled) return;
         setTranslatedText(translated);
         lastTranslatedSource.current = sourceKey;
@@ -366,7 +367,7 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk }: Us
     if (!inputText.trim()) return;
     try {
       setIsManualTranslating(true);
-      const translated = await translateText(inputText, "auto", "en");
+      const translated = await translateText(inputText, "en");
       if (translated.trim()) {
         latestConstantText.current(translated, "translateSuccess");
         setInputText("");

@@ -38,7 +38,7 @@
     "translating": "翻译中…",
     "randomColor-success": "已替换 {count} 处颜色词",
     "randomColor-noMatch": "没有可替换的颜色词",
-    "translateLabel": "翻译直入"
+    "translateLabel": "翻译并插入"
   },
   "CopyToClipboard": {
     "empty": "内容为空，无需复制",
