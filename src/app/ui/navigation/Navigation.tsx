@@ -7,7 +7,6 @@ import { GithubOutlined, QqOutlined, DiscordOutlined, SunOutlined, MoonOutlined,
 import { useTheme } from "next-themes";
 import { useLocale } from "next-intl";
 import { useAppMenu } from "@/app/components/projects";
-import { isChineseLocale } from "@/app/utils";
 import { SOCIAL_LINKS } from "./config";
 import { LanguageSelector } from "./LanguageSelector";
 
@@ -30,7 +29,7 @@ export function Navigation() {
     setMounted(true);
   }, []);
 
-  const isChinese = isChineseLocale(locale);
+  const isChinese = locale === "zh" || locale === "zh-hant";
 
   const handleThemeToggle = () => {
     setTheme(resolvedTheme === "light" ? "dark" : "light");

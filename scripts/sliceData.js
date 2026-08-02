@@ -10,10 +10,15 @@ const BOOTSTRAP_DIR = path.join(__dirname, "..", "src", "app", "data", "prompt-b
 // 命名故意区别于 SRC_DIR，避免 src/.../prompt/ 与 public/.../prompt/ 镜像混淆。
 const CHUNK_BASE = path.join(__dirname, "..", "public", "data", "prompt-chunks");
 
-const locales = [
-  "en", "zh", "zh-hant", "pt", "es", "hi", "ar", "fr", "de",
-  "ja", "ko", "ru", "vi", "tr", "bn", "id", "it", "th",
-];
+// locale 列表直接由 SRC_DIR 下实际存在的 prompt-*.json 派生。
+// 单独维护一份硬编码数组只会和 routing.ts 漂移：漏一个 locale 不报错，
+// 到构建期才在 page.tsx 的 bootstrap import 处炸。
+const localesFromData = () =>
+  fs
+    .readdirSync(SRC_DIR)
+    .map((file) => /^prompt-(.+)\.json$/.exec(file)?.[1])
+    .filter(Boolean)
+    .sort();
 
 function sliceLocale(locale, referenceObjectCount) {
   const srcPath = path.join(SRC_DIR, `prompt-${locale}.json`);
@@ -94,8 +99,11 @@ function main() {
   fs.rmSync(CHUNK_BASE, { recursive: true, force: true });
   fs.rmSync(BOOTSTRAP_DIR, { recursive: true, force: true });
 
+  const locales = localesFromData();
+  if (!locales.includes("en")) throw new Error("[sliceData] 缺少基准数据 prompt-en.json");
+
   const refCount = sliceLocale("en", null);
-  console.log(`[sliceData] en: ${refCount} objects`);
+  console.log(`[sliceData] en: ${refCount} objects / ${locales.length} locales`);
   for (const locale of locales) {
     if (locale === "en") continue;
     sliceLocale(locale, refCount);

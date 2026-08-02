@@ -3,7 +3,6 @@ import type { Viewport } from "next";
 import { Bricolage_Grotesque, IBM_Plex_Mono } from "next/font/google";
 import "@/app/globals.css";
 import { Navigation } from "@/app/ui/navigation";
-import { getLangDir } from "rtl-detect";
 import { setRequestLocale, getTranslations, getMessages } from "next-intl/server";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { notFound } from "next/navigation";
@@ -34,6 +33,12 @@ type Props = {
   children: React.ReactNode;
   params: Promise<{ locale: string }>;
 };
+
+// 支持的 locale 里只有阿拉伯语是 RTL（hi/bn/th 均为 LTR）。
+// 必须声明为 readonly string[] 再用 includes：hasLocale 的类型谓词会把 locale
+// 收窄成 routing.locales 的字面量联合，buildWithLang 单语言构建下那就是单个
+// 字面量，写 `locale === "ar"` 会被 TS 判为「无重叠」直接编译失败。
+const RTL_LOCALES: readonly string[] = ["ar"];
 
 // autocorrect: false
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
@@ -99,7 +104,7 @@ export default async function LocaleLayout({ children, params }: Props) {
     notFound();
   }
   setRequestLocale(locale);
-  const direction = getLangDir(locale);
+  const direction = RTL_LOCALES.includes(locale) ? "rtl" : "ltr";
 
   const messages = await getMessages();
 
