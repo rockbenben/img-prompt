@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { Layout, Menu, Space, Button, Dropdown, Flex } from "antd";
 import { GithubOutlined, QqOutlined, DiscordOutlined, SunOutlined, MoonOutlined, TeamOutlined, SendOutlined } from "@ant-design/icons";
 import { useTheme } from "next-themes";
-import { useLocale } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { useAppMenu } from "@/app/components/projects";
 import { SOCIAL_LINKS } from "./config";
 import { LanguageSelector } from "./LanguageSelector";
@@ -20,6 +20,9 @@ export function Navigation() {
   const pathname = usePathname();
   const { resolvedTheme, setTheme } = useTheme();
   const locale = useLocale();
+  // 顶栏几个图标按钮只有 aria-label 可读，原来全是硬编码英文——读屏用户
+  // 无论界面什么语言都听到 "Community links"
+  const t = useTranslations("Nav");
 
   // mounted 状态用于主题图标的 hydration 安全渲染（next-themes 推荐模式）
   const [mounted, setMounted] = useState(false);
@@ -50,7 +53,10 @@ export function Navigation() {
           <span className="pp-blob" aria-hidden="true" />
           IMGPrompt
         </Link>
-        <Menu selectedKeys={[currentMenuKey]} mode="horizontal" items={menuItems} style={{ flex: 1, minWidth: 0, border: "none", background: "transparent" }} />
+        {/* minWidth 保底 = antd 溢出折叠触发器（···）的宽度。设 0 时窄屏下
+            Menu 会被右侧图标组挤成 12px，连折叠触发器都渲染不出来——整个主导航
+            在手机上不可达。 */}
+        <Menu selectedKeys={[currentMenuKey]} mode="horizontal" items={menuItems} style={{ flex: 1, minWidth: 46, border: "none", background: "transparent" }} />
         <Space size="middle">
           <LanguageSelector />
 
@@ -92,14 +98,15 @@ export function Navigation() {
                 },
               ],
             }}>
-            <Button type="text" icon={<TeamOutlined style={iconStyle} />} aria-label="Community links" />
+            <Button type="text" icon={<TeamOutlined style={iconStyle} />} aria-label={t("community")} />
           </Dropdown>
 
-          <a href={SOCIAL_LINKS.github} target="_blank" rel="noopener noreferrer">
-            <Button type="text" icon={<GithubOutlined style={iconStyle} />} aria-label="View on GitHub" />
+          {/* 窄屏隐藏（见 globals.css）：页脚已有同一入口，让位给主导航 */}
+          <a href={SOCIAL_LINKS.github} target="_blank" rel="noopener noreferrer" className="pp-nav-github">
+            <Button type="text" icon={<GithubOutlined style={iconStyle} />} aria-label={t("github")} />
           </a>
 
-          <Button type="text" icon={themeIcon} onClick={handleThemeToggle} aria-label="Toggle theme" />
+          <Button type="text" icon={themeIcon} onClick={handleThemeToggle} aria-label={t("theme")} />
         </Space>
       </Flex>
     </Header>

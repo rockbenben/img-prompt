@@ -11,9 +11,11 @@
     "section3": "แท็ก",
     "currentSelection": "ที่เลือก",
     "fallback-other": "อื่นๆ",
-    "fallback-uncategorized": "ไม่มีหมวดหมู่",
     "tagMode-multicolor": "หลากสี",
-    "tagMode-monochrome": "สีเดียว"
+    "tagMode-monochrome": "สีเดียว",
+    "tagsLoading": "กำลังโหลดแท็ก…",
+    "tagsError": "โหลดแท็กไม่สำเร็จ",
+    "retry": "ลองอีกครั้ง"
   },
   "ResultSection": {
     "tooltip-light": "เพิ่มพรอมต์แสงพอร์ตเทรต (แสงแบบภาพยนตร์, แสงสนธยา ฯลฯ)",
@@ -38,7 +40,9 @@
     "translating": "กำลังแปล...",
     "randomColor-success": "แทนที่คำสี {count} คำแล้ว",
     "randomColor-noMatch": "ไม่มีคำสีให้แทนที่",
-    "translateLabel": "แปลแล้วแทรกทันที"
+    "translateLabel": "แปลแล้วแทรกทันที",
+    "placeholder-prompt": "เลือกแท็กเพื่อประกอบอัตโนมัติ หรือพิมพ์พรอมต์เอง",
+    "placeholder-translate": "เช่น แมวตอนพระอาทิตย์ตก"
   },
   "CopyToClipboard": {
     "empty": "เนื้อหาว่างเปล่า ไม่ต้องคัดลอก",
@@ -106,9 +110,19 @@
     "otherTools": "เครื่องมือเพิ่มเติม",
     "legendtalk": "โต๊ะกลมนักคิด AI",
     "aishort": "AI Short",
-    "tools": "กล่องเครื่องมือ AI"
+    "tools": "กล่องเครื่องมือ AI",
+    "community": "ชุมชน",
+    "github": "ดูบน GitHub",
+    "theme": "สลับธีมสว่างหรือมืด",
+    "language": "เลือกภาษา",
+    "languageSearch": "ค้นหาภาษา",
+    "languageEmpty": "ไม่พบภาษาที่ตรงกัน",
+    "skipToPrompt": "ข้ามไปที่กล่องพรอมต์"
   },
   "Guide": {
     "fallbackNotice": "หน้านี้ยังไม่ได้แปลเป็นภาษาของคุณ กำลังแสดงเวอร์ชันภาษาอังกฤษ"
+  },
+  "Footer": {
+    "signature": "ฟรีและโอเพนซอร์ส · ไม่ต้องล็อกอิน · ทำงานในเบราว์เซอร์ของคุณ"
   }
 }

@@ -11,9 +11,11 @@
     "section3": "Теги",
     "currentSelection": "Выбрано",
     "fallback-other": "Другое",
-    "fallback-uncategorized": "Без категории",
     "tagMode-multicolor": "Многоцветный",
-    "tagMode-monochrome": "Одноцветный"
+    "tagMode-monochrome": "Одноцветный",
+    "tagsLoading": "Загрузка тегов…",
+    "tagsError": "Теги не загрузились",
+    "retry": "Повторить"
   },
   "ResultSection": {
     "tooltip-light": "Вставить промпты портретного освещения (киноосвещение, сумеречные лучи и т.д.)",
@@ -33,12 +35,14 @@
     "translateEmptyError": "Введите текст",
     "translateFailError": "Перевод не удался",
     "tooltip-randomColor": "Случайная замена цветов",
-    "button-randomcolor": "Сменить цвет",
+    "button-randomcolor": "Случайные цвета",
     "prompt-translation": "Перевод",
     "translating": "Переводим...",
     "randomColor-success": "Заменено цветовых слов: {count}",
     "randomColor-noMatch": "Нет цветовых слов для замены",
-    "translateLabel": "Перевести и вставить"
+    "translateLabel": "Перевести и вставить",
+    "placeholder-prompt": "Выбирайте теги — промпт соберётся сам. Можно писать и вручную",
+    "placeholder-translate": "напр. кот на закате"
   },
   "CopyToClipboard": {
     "empty": "Контент пуст, копировать нечего",
@@ -106,9 +110,19 @@
     "otherTools": "Больше инструментов",
     "legendtalk": "Круглый стол мыслителей ИИ",
     "aishort": "AI Short",
-    "tools": "Набор инструментов ИИ"
+    "tools": "Набор инструментов ИИ",
+    "community": "Сообщество",
+    "github": "Открыть на GitHub",
+    "theme": "Переключить светлую и тёмную тему",
+    "language": "Выбрать язык",
+    "languageSearch": "Поиск языка",
+    "languageEmpty": "Подходящих языков нет",
+    "skipToPrompt": "Перейти к полю промпта"
   },
   "Guide": {
     "fallbackNotice": "Эта страница ещё не переведена на ваш язык; показана английская версия."
+  },
+  "Footer": {
+    "signature": "Бесплатно и с открытым кодом · Без регистрации · Работает в браузере"
   }
 }

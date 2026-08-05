@@ -2,7 +2,11 @@
 
 import { ThemeProvider as NextThemesProvider, useTheme } from "next-themes";
 import { ConfigProvider, App, theme, Layout, type ThemeConfig } from "antd";
-import { ReactNode } from "react";
+import { ReactNode, useEffect } from "react";
+
+// 画布本色，与 globals.css 的 --pp-canvas 一致
+const CANVAS_LIGHT = "#faf9f4";
+const CANVAS_DARK = "#131419";
 
 export default function ThemesProvider({ children }: { children: ReactNode }) {
   return (
@@ -167,6 +171,13 @@ function AntdConfigProvider({ children }: { children: ReactNode }) {
 
   // SSR 时 resolvedTheme 为 undefined，默认 light（与 defaultTheme 一致）
   const isDark = resolvedTheme === "dark";
+
+  // 手机地址栏 / PWA 标题栏跟随实际主题。静态 meta 只能给首屏一个值，
+  // 用户手动切换后必须在运行时改写，否则页面变暗而浏览器边框还亮着。
+  useEffect(() => {
+    const meta = document.querySelector<HTMLMetaElement>('meta[name="theme-color"]');
+    if (meta) meta.content = isDark ? CANVAS_DARK : CANVAS_LIGHT;
+  }, [isDark]);
 
   return (
     <ConfigProvider theme={isDark ? darkTheme : lightTheme}>

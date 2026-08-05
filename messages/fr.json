@@ -11,9 +11,11 @@
     "section3": "Tags",
     "currentSelection": "Sélectionné",
     "fallback-other": "Autres",
-    "fallback-uncategorized": "Non classé",
     "tagMode-multicolor": "Multicolore",
-    "tagMode-monochrome": "Monochrome"
+    "tagMode-monochrome": "Monochrome",
+    "tagsLoading": "Chargement des tags…",
+    "tagsError": "Les tags n'ont pas pu être chargés",
+    "retry": "Réessayer"
   },
   "ResultSection": {
     "tooltip-light": "Insérer des prompts d'éclairage (éclairage cinématique, rayons crépusculaires, etc.)",
@@ -33,12 +35,14 @@
     "translateEmptyError": "Veuillez saisir du contenu",
     "translateFailError": "Échec de la traduction",
     "tooltip-randomColor": "Remplacer les mots de couleur aléatoirement",
-    "button-randomcolor": "Changer couleur",
+    "button-randomcolor": "Couleurs aléatoires",
     "prompt-translation": "Traduction",
     "translating": "Traduction...",
     "randomColor-success": "{count} mot(s) de couleur remplacé(s)",
     "randomColor-noMatch": "Aucun mot de couleur à remplacer",
-    "translateLabel": "Traduire et insérer"
+    "translateLabel": "Traduire et insérer",
+    "placeholder-prompt": "Choisissez des tags pour le composer, ou écrivez votre prompt",
+    "placeholder-translate": "ex. un chat au coucher du soleil"
   },
   "CopyToClipboard": {
     "empty": "Le contenu est vide, rien à copier",
@@ -106,9 +110,19 @@
     "otherTools": "Plus d'outils",
     "legendtalk": "Table ronde des penseurs IA",
     "aishort": "AI Short",
-    "tools": "Boîte à outils IA"
+    "tools": "Boîte à outils IA",
+    "community": "Communauté",
+    "github": "Voir sur GitHub",
+    "theme": "Basculer entre thème clair et sombre",
+    "language": "Choisir la langue",
+    "languageSearch": "Rechercher une langue",
+    "languageEmpty": "Aucune langue ne correspond",
+    "skipToPrompt": "Aller à la boîte de prompt"
   },
   "Guide": {
     "fallbackNotice": "Cette page n’est pas encore traduite dans votre langue ; version anglaise affichée."
+  },
+  "Footer": {
+    "signature": "Gratuit et open source · Sans compte · Tout dans votre navigateur"
   }
 }

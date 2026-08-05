@@ -11,9 +11,11 @@
     "section3": "Tags",
     "currentSelection": "Selecionado",
     "fallback-other": "Outros",
-    "fallback-uncategorized": "Não classificado",
     "tagMode-multicolor": "Multicolor",
-    "tagMode-monochrome": "Monocromático"
+    "tagMode-monochrome": "Monocromático",
+    "tagsLoading": "A carregar etiquetas…",
+    "tagsError": "As etiquetas não carregaram",
+    "retry": "Tentar de novo"
   },
   "ResultSection": {
     "tooltip-light": "Inserir prompts de iluminação (filme, crepúsculo, etc.)",
@@ -33,12 +35,14 @@
     "translateEmptyError": "Digite algum conteúdo",
     "translateFailError": "Tradução falhou",
     "tooltip-randomColor": "Substituir cores aleatoriamente",
-    "button-randomcolor": "Mudar cor",
+    "button-randomcolor": "Cores aleatórias",
     "prompt-translation": "Tradução",
     "translating": "Traduzindo...",
     "randomColor-success": "{count} palavra(s) de cor substituída(s)",
     "randomColor-noMatch": "Nenhuma palavra de cor para substituir",
-    "translateLabel": "Traduzir e inserir"
+    "translateLabel": "Traduzir e inserir",
+    "placeholder-prompt": "Escolha etiquetas para montar, ou escreva o seu próprio prompt",
+    "placeholder-translate": "ex.: um gato ao pôr do sol"
   },
   "CopyToClipboard": {
     "empty": "O conteúdo está vazio, nada para copiar",
@@ -106,9 +110,19 @@
     "otherTools": "Mais ferramentas",
     "legendtalk": "Mesa-redonda de pensadores de IA",
     "aishort": "AI Short",
-    "tools": "Caixa de ferramentas de IA"
+    "tools": "Caixa de ferramentas de IA",
+    "community": "Comunidade",
+    "github": "Ver no GitHub",
+    "theme": "Alternar tema claro ou escuro",
+    "language": "Selecionar idioma",
+    "languageSearch": "Procurar idioma",
+    "languageEmpty": "Nenhum idioma corresponde",
+    "skipToPrompt": "Ir para a caixa de prompt"
   },
   "Guide": {
     "fallbackNotice": "Esta página ainda não foi traduzida para o seu idioma; exibindo a versão em inglês."
+  },
+  "Footer": {
+    "signature": "Gratuito e de código aberto · Sem login · Roda no seu navegador"
   }
 }

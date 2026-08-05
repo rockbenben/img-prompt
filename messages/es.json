@@ -11,9 +11,11 @@
     "section3": "Etiquetas",
     "currentSelection": "Seleccionado",
     "fallback-other": "Otros",
-    "fallback-uncategorized": "Sin clasificar",
     "tagMode-multicolor": "Multicolor",
-    "tagMode-monochrome": "Monocromo"
+    "tagMode-monochrome": "Monocromo",
+    "tagsLoading": "Cargando etiquetas…",
+    "tagsError": "No se cargaron las etiquetas",
+    "retry": "Reintentar"
   },
   "ResultSection": {
     "tooltip-light": "Insertar prompts de iluminación (iluminación cinematográfica, rayos crepusculares, etc.)",
@@ -33,12 +35,14 @@
     "translateEmptyError": "Escribe algún contenido",
     "translateFailError": "Traducción fallida",
     "tooltip-randomColor": "Reemplazar palabras de color aleatoriamente",
-    "button-randomcolor": "Cambiar color",
+    "button-randomcolor": "Colores aleatorios",
     "prompt-translation": "Traducción",
     "translating": "Traduciendo...",
     "randomColor-success": "Se reemplazaron {count} palabras de color",
     "randomColor-noMatch": "No hay palabras de color para reemplazar",
-    "translateLabel": "Traducir e insertar"
+    "translateLabel": "Traducir e insertar",
+    "placeholder-prompt": "Elige etiquetas para componerlo, o escribe tu propio prompt",
+    "placeholder-translate": "p. ej. un gato al atardecer"
   },
   "CopyToClipboard": {
     "empty": "El contenido está vacío, nada que copiar.",
@@ -106,9 +110,19 @@
     "otherTools": "Más herramientas",
     "legendtalk": "Mesa redonda de pensadores IA",
     "aishort": "AI Short",
-    "tools": "Caja de herramientas IA"
+    "tools": "Caja de herramientas IA",
+    "community": "Comunidad",
+    "github": "Ver en GitHub",
+    "theme": "Cambiar entre tema claro y oscuro",
+    "language": "Seleccionar idioma",
+    "languageSearch": "Buscar idioma",
+    "languageEmpty": "Ningún idioma coincide",
+    "skipToPrompt": "Saltar al cuadro de prompt"
   },
   "Guide": {
     "fallbackNotice": "Esta página aún no está traducida a tu idioma; se muestra la versión en inglés."
+  },
+  "Footer": {
+    "signature": "Gratis y de código abierto · Sin registro · Todo en tu navegador"
   }
 }

@@ -11,9 +11,11 @@
     "section3": "태그",
     "currentSelection": "선택됨",
     "fallback-other": "기타",
-    "fallback-uncategorized": "미분류",
     "tagMode-multicolor": "컬러",
-    "tagMode-monochrome": "단색"
+    "tagMode-monochrome": "단색",
+    "tagsLoading": "태그 불러오는 중…",
+    "tagsError": "태그를 불러오지 못했습니다",
+    "retry": "다시 시도"
   },
   "ResultSection": {
     "tooltip-light": "인물 조명 프롬프트 삽입 (시네마틱 조명, 황혼 광선 등)",
@@ -33,12 +35,14 @@
     "translateEmptyError": "내용을 입력하세요",
     "translateFailError": "번역 실패",
     "tooltip-randomColor": "색상 단어 랜덤 교체",
-    "button-randomcolor": "색상 변경",
+    "button-randomcolor": "색상 랜덤 변경",
     "prompt-translation": "번역문",
     "translating": "번역 중…",
     "randomColor-success": "{count}개의 색상 단어를 교체했습니다",
     "randomColor-noMatch": "교체할 색상 단어가 없습니다",
-    "translateLabel": "번역해서 바로 추가"
+    "translateLabel": "번역해서 바로 추가",
+    "placeholder-prompt": "태그를 고르면 자동으로 완성됩니다. 직접 입력해도 됩니다",
+    "placeholder-translate": "예: 노을 속의 고양이"
   },
   "CopyToClipboard": {
     "empty": "내용이 비어 있습니다. 복사할 것이 없습니다.",
@@ -106,9 +110,19 @@
     "otherTools": "더 많은 도구",
     "legendtalk": "AI 사상가 라운드테이블",
     "aishort": "AI Short",
-    "tools": "AI 도구 상자"
+    "tools": "AI 도구 상자",
+    "community": "커뮤니티",
+    "github": "GitHub에서 보기",
+    "theme": "밝게／어둡게 전환",
+    "language": "언어 선택",
+    "languageSearch": "언어 검색",
+    "languageEmpty": "일치하는 언어가 없습니다",
+    "skipToPrompt": "프롬프트 상자로 건너뛰기"
   },
   "Guide": {
     "fallbackNotice": "이 페이지는 아직 한국어로 번역되지 않아 영어판을 표시합니다."
+  },
+  "Footer": {
+    "signature": "무료 · 오픈소스 · 로그인 불필요 · 브라우저에서 바로 실행"
   }
 }

@@ -11,9 +11,11 @@
     "section3": "ট্যাগ",
     "currentSelection": "নির্বাচিত",
     "fallback-other": "অন্যান্য",
-    "fallback-uncategorized": "শ্রেণীবিহীন",
     "tagMode-multicolor": "বহুরঙা",
-    "tagMode-monochrome": "একরঙা"
+    "tagMode-monochrome": "একরঙা",
+    "tagsLoading": "ট্যাগ লোড হচ্ছে…",
+    "tagsError": "ট্যাগ লোড করা যায়নি",
+    "retry": "আবার চেষ্টা করুন"
   },
   "ResultSection": {
     "tooltip-light": "লাইটিং প্রম্পট সন্নিবেশ (ফিল্ম লাইটিং, গোধূলির আলো, ইত্যাদি)",
@@ -33,12 +35,14 @@
     "translateEmptyError": "কন্টেন্ট লিখুন",
     "translateFailError": "অনুবাদ ব্যর্থ",
     "tooltip-randomColor": "এলোমেলো রঙ পরিবর্তন",
-    "button-randomcolor": "রঙ বদল",
+    "button-randomcolor": "এলোমেলো রঙ",
     "prompt-translation": "প্রম্পটের অনুবাদ",
     "translating": "অনুবাদ হচ্ছে...",
     "randomColor-success": "{count}টি রঙ শব্দ প্রতিস্থাপিত হয়েছে",
     "randomColor-noMatch": "প্রতিস্থাপন করার জন্য কোনো রঙ শব্দ নেই",
-    "translateLabel": "অনুবাদ করে যোগ করুন"
+    "translateLabel": "অনুবাদ করে যোগ করুন",
+    "placeholder-prompt": "ট্যাগ বেছে নিন, প্রম্পট নিজেই তৈরি হবে; বা এখানে নিজে লিখুন",
+    "placeholder-translate": "যেমন সূর্যাস্তে একটি বিড়াল"
   },
   "CopyToClipboard": {
     "empty": "কন্টেন্ট খালি, কপি করার মতো কিছুই নেই",
@@ -106,9 +110,19 @@
     "otherTools": "আরও টুল",
     "legendtalk": "AI চিন্তাবিদ গোলটেবিল",
     "aishort": "AI Short",
-    "tools": "AI টুলবক্স"
+    "tools": "AI টুলবক্স",
+    "community": "কমিউনিটি",
+    "github": "GitHub-এ দেখুন",
+    "theme": "লাইট বা ডার্ক থিম বদলান",
+    "language": "ভাষা নির্বাচন করুন",
+    "languageSearch": "ভাষা খুঁজুন",
+    "languageEmpty": "মিলে যায় এমন ভাষা নেই",
+    "skipToPrompt": "প্রম্পট বক্সে যান"
   },
   "Guide": {
     "fallbackNotice": "এই পৃষ্ঠাটি এখনও আপনার ভাষায় অনূদিত হয়নি; ইংরেজি সংস্করণ দেখানো হচ্ছে।"
+  },
+  "Footer": {
+    "signature": "ফ্রি ও ওপেন-সোর্স · লগইন লাগে না · আপনার ব্রাউজারেই চলে"
   }
 }

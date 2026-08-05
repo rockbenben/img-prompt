@@ -1,7 +1,7 @@
 "use client";
 import { useState, useMemo, useCallback, useEffect, useRef, FC } from "react";
 import { useSearchParams } from "next/navigation";
-import { Row, Col, Flex, Segmented } from "antd";
+import { Row, Col, Flex, Segmented, Spin, Button } from "antd";
 
 import tagsData2 from "@/app/data/prompt-custom.json";
 
@@ -21,16 +21,20 @@ interface SectionTitleProps {
   gloss: string;
 }
 
-// 托盘头：candy 编号徽章 + 标题 + 英文小注（装饰性，不进 i18n）
-const SectionTitle: FC<SectionTitleProps> = ({ index, title, gloss }) => (
+// 托盘头：candy 编号徽章 + 标题 + 英文小注。
+// 小注复刻标签「母语 + 英文」的双语骨架，所以只在非英文界面成立；en 下它退化成
+// "Subject SUBJECT"、甚至 "Category" 配 "FACET"（同一件事两个词），看着像出错。
+const SectionTitle: FC<SectionTitleProps & { showGloss: boolean }> = ({ index, title, gloss, showGloss }) => (
   <Flex align="center" gap={10}>
     <span aria-hidden="true" className={`pp-badge pp-badge-${index}`}>
       {index}
     </span>
     <span className="pp-sec-title">{title}</span>
-    <span className="pp-sec-gloss" aria-hidden="true">
-      {gloss}
-    </span>
+    {showGloss && (
+      <span className="pp-sec-gloss" aria-hidden="true">
+        {gloss}
+      </span>
+    )}
   </Flex>
 );
 
@@ -53,6 +57,8 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
   const searchParams = useSearchParams();
   const locale = useLocale();
 
+  const showGloss = locale !== "en";
+
   const [activeObject, setActiveObject] = useState<string>(() => objects[0] ?? "");
   const activeObjectIndex = useMemo(
     () => Math.max(0, objects.indexOf(activeObject)),
@@ -60,7 +66,7 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
   );
 
   // 仅当前 object 的 tags（按需 fetch）
-  const objectTags = useObjectTags(locale, activeObjectIndex, firstChunk);
+  const { tags: objectTags, status: tagsStatus, retry: retryTags } = useObjectTags(locale, activeObjectIndex, firstChunk);
 
   // 合并 custom 标签（小）
   const combinedTagsData = useMemo<TagItem[]>(
@@ -81,6 +87,8 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
   // 新标签页/新会话从空开始。挂载后恢复以保证 SSG hydration 一致。
   // 按 locale 分键：标签的 langName/object/attribute 是语言相关数据，
   // 跨语言恢复会把 zh 的中文注释和分组头带进 en 界面。
+  // 因此「切换界面语言 = 当前提示词清空」是刻意行为，不是 bug——各语言的编辑
+  // 现场各存各的，切回原语言时原样还在。别改成 locale 无关的存储。
   const tagStoreKey = `imgprompt-selected-tags:${locale}`;
   useEffect(() => {
     try {
@@ -208,25 +216,28 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
   return (
     <>
       <Row gutter={[18, 18]}>
-        <Col xs={24} lg={18}>
+        {/* 6/24 的右栏在 992–1200 只有 ~230px：提示词框每行放不下 20 个字符、
+            翻译输入框的 placeholder 被截断，而右栏下方留着几百像素空白。
+            提示词是本工具的产出，按 8→7 给它实际可读的宽度。 */}
+        <Col xs={24} lg={16} xl={17}>
           <Flex vertical gap={16}>
             <section className="pp-tray">
               <div style={{ marginBottom: 13 }}>
-                <SectionTitle index={1} title={t("section1")} gloss="Subject" />
+                <SectionTitle index={1} title={t("section1")} gloss="Subject" showGloss={showGloss} />
               </div>
               <CategoryRadio className="pp-cats" items={objects} value={activeObject} onChange={handleObjectClick} />
             </section>
 
             <section className="pp-tray">
               <div style={{ marginBottom: 13 }}>
-                <SectionTitle index={2} title={t("section2")} gloss="Facet" />
+                <SectionTitle index={2} title={t("section2")} gloss="Facet" showGloss={showGloss} />
               </div>
               <CategoryRadio className="pp-subs" items={attributes} value={activeAttribute} onChange={handleAttributeClick} />
             </section>
 
             <section className="pp-tray">
               <Flex justify="space-between" align="center" gap={8} style={{ marginBottom: 10 }}>
-                <SectionTitle index={3} title={t("section3")} gloss="Pick your pigments" />
+                <SectionTitle index={3} title={t("section3")} gloss="Pick your pigments" showGloss={showGloss} />
                 <Segmented
                   size="small"
                   value={useColorBlocks ? "multicolor" : "monochrome"}
@@ -238,7 +249,32 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
                 />
               </Flex>
               <div style={{ maxHeight: "clamp(280px, 36vh, 400px)", overflowY: "auto" }}>
-                <TagSection tags={filteredTags} selectedNameSet={selectedNameSet} onTagClick={handleTagClick} mono={!useColorBlocks} />
+                {/* 有标签就渲染，不拿网络状态当门槛：prompt-custom.json 的自定义标签
+                    已经打进包里、根本不需要网络，分块抓取失败时它们照样该能点。
+                    原来写成 status==="ready" 三元，自托管用户在 CDN 抽风时会连自己
+                    的词库一起看不到，重试按钮又只会反复打同一个坏 URL。 */}
+                {filteredTags.length > 0 && (
+                  <TagSection tags={filteredTags} selectedNameSet={selectedNameSet} onTagClick={handleTagClick} mono={!useColorBlocks} />
+                )}
+                {/* 状态条常驻：aria-live 区域必须先存在于无障碍树里，之后内容变化才会被
+                    播报；容器连着文字一起插入的话读屏一个字都不念。ready 时这里是空
+                    div，由 .pp-tag-state:empty 压成 0 高，不占位 */}
+                <div className="pp-tag-state" role="status" aria-live="polite">
+                  {tagsStatus === "loading" && (
+                    <>
+                      <Spin size="small" />
+                      <span>{t("tagsLoading")}</span>
+                    </>
+                  )}
+                  {tagsStatus === "error" && (
+                    <>
+                      <span>{t("tagsError")}</span>
+                      <Button size="small" onClick={retryTags}>
+                        {t("retry")}
+                      </Button>
+                    </>
+                  )}
+                </div>
               </div>
             </section>
           </Flex>
@@ -248,7 +284,7 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
             </div>
           )}
         </Col>
-        <Col xs={24} lg={6}>
+        <Col xs={24} lg={8} xl={7}>
           <ResultSection selectedTags={selectedTags} setSelectedTags={setSelectedTags} firstChunk={firstChunk} objectCount={objects.length} />
         </Col>
       </Row>

@@ -61,7 +61,10 @@ export const PromptInput: FC<PromptInputProps> = ({
 
   return (
     <>
+      {/* dir=ltr：产出永远是英文 prompt。跟随页面 dir 时阿拉伯语下整段右对齐，
+          且逗号/括号/权重数字会被 bidi 重排，显示顺序与复制出去的字符串不一致 */}
       <Input.TextArea
+        dir="ltr"
         value={value}
         onChange={onChange}
         onBlur={onBlur}
@@ -70,6 +73,8 @@ export const PromptInput: FC<PromptInputProps> = ({
         onCompositionEnd={onCompositionEnd}
         autoSize={{ minRows: 5, maxRows: 14 }}
         spellCheck={false}
+        // 空态是这里最大的一块面积，原来什么都不说；告诉用户两条路都能走
+        placeholder={t("placeholder-prompt")}
         aria-label={t("prompt")}
       />
 

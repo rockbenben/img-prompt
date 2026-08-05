@@ -11,9 +11,11 @@
     "section3": "टैग",
     "currentSelection": "चयनित",
     "fallback-other": "अन्य",
-    "fallback-uncategorized": "अवर्गीकृत",
     "tagMode-multicolor": "बहुरंगी",
-    "tagMode-monochrome": "एकरंगी"
+    "tagMode-monochrome": "एकरंगी",
+    "tagsLoading": "टैग लोड हो रहे हैं…",
+    "tagsError": "टैग लोड नहीं हो सके",
+    "retry": "फिर कोशिश करें"
   },
   "ResultSection": {
     "tooltip-light": "लाइटिंग प्रॉम्प्ट डालें (फिल्म लाइटिंग, संध्या, आदि)",
@@ -33,12 +35,14 @@
     "translateEmptyError": "सामग्री दर्ज करें",
     "translateFailError": "अनुवाद विफल",
     "tooltip-randomColor": "रंगों को रैंडम रूप से बदलें",
-    "button-randomcolor": "रंग बदलें",
+    "button-randomcolor": "रंग रैंडम बदलें",
     "prompt-translation": "अनुवाद",
     "translating": "अनुवाद हो रहा है...",
     "randomColor-success": "{count} रंग शब्द बदले गए",
     "randomColor-noMatch": "बदलने के लिए कोई रंग शब्द नहीं",
-    "translateLabel": "अनुवाद कर जोड़ें"
+    "translateLabel": "अनुवाद कर जोड़ें",
+    "placeholder-prompt": "टैग चुनें, प्रॉम्प्ट अपने आप बनेगा; या यहीं खुद लिखें",
+    "placeholder-translate": "उदा. सूर्यास्त में एक बिल्ली"
   },
   "CopyToClipboard": {
     "empty": "सामग्री खाली है, कॉपी करने के लिए कुछ भी नहीं है",
@@ -106,9 +110,19 @@
     "otherTools": "अधिक टूल",
     "legendtalk": "AI विचारक गोलमेज़",
     "aishort": "AI Short",
-    "tools": "AI टूलबॉक्स"
+    "tools": "AI टूलबॉक्स",
+    "community": "कम्युनिटी",
+    "github": "GitHub पर देखें",
+    "theme": "लाइट या डार्क थीम बदलें",
+    "language": "भाषा चुनें",
+    "languageSearch": "भाषा खोजें",
+    "languageEmpty": "कोई मेल खाती भाषा नहीं",
+    "skipToPrompt": "प्रॉम्प्ट बॉक्स पर जाएँ"
   },
   "Guide": {
     "fallbackNotice": "यह पृष्ठ अभी आपकी भाषा में अनुवादित नहीं है; अंग्रेज़ी संस्करण दिखाया जा रहा है।"
+  },
+  "Footer": {
+    "signature": "मुफ़्त और ओपन-सोर्स · लॉगिन नहीं · आपके ब्राउज़र में ही चलता है"
   }
 }

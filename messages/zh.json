@@ -11,9 +11,11 @@
     "section3": "标签",
     "currentSelection": "已选",
     "fallback-other": "其他",
-    "fallback-uncategorized": "未分类",
     "tagMode-multicolor": "多彩",
-    "tagMode-monochrome": "单色"
+    "tagMode-monochrome": "单色",
+    "tagsLoading": "正在载入标签…",
+    "tagsError": "标签没能载入",
+    "retry": "重试"
   },
   "ResultSection": {
     "tooltip-light": "插入人像布光提示词（电影光效、暮光射线等）",
@@ -38,7 +40,9 @@
     "translating": "翻译中…",
     "randomColor-success": "已替换 {count} 处颜色词",
     "randomColor-noMatch": "没有可替换的颜色词",
-    "translateLabel": "翻译并插入"
+    "translateLabel": "翻译并插入",
+    "placeholder-prompt": "点标签自动拼好，也可以直接在这里写",
+    "placeholder-translate": "例：夕阳下的猫"
   },
   "CopyToClipboard": {
     "empty": "内容为空，无需复制",
@@ -81,7 +85,7 @@
     },
     "q9": {
       "question": "不会英文也能用 IMGPrompt 吗？",
-      "answer": "可以。界面共 18 种语言，每个标签同时显示英文和你的母语标签。用母语点选，IMGPrompt 自动用英文（AI 图像和视频模型实际需要的语言）组合 prompt。右侧「翻译」按钮还能一键把母语句子转成英文 prompt。"
+      "answer": "可以。界面共 18 种语言，每个标签同时显示英文和你的母语标签。用母语点选，IMGPrompt 自动用英文（AI 图像和视频模型实际需要的语言）组合 prompt。「翻译」按钮还能一键把母语句子转成英文 prompt。"
     }
   },
   "Schema": {
@@ -106,9 +110,19 @@
     "otherTools": "更多工具",
     "legendtalk": "AI 思想家圆桌",
     "aishort": "AI Short",
-    "tools": "AI 工具箱"
+    "tools": "AI 工具箱",
+    "community": "社区与交流群",
+    "github": "在 GitHub 上查看",
+    "theme": "切换明暗主题",
+    "language": "选择语言",
+    "languageSearch": "搜索语言",
+    "languageEmpty": "没有匹配的语言",
+    "skipToPrompt": "跳到提示词框"
   },
   "Guide": {
     "fallbackNotice": "本页暂未翻译成你的语言，当前显示可用版本。"
+  },
+  "Footer": {
+    "signature": "免费开源 · 无需登录 · 全程在你的浏览器里运行"
   }
 }

@@ -11,9 +11,11 @@
     "section3": "Tags",
     "currentSelection": "Selected",
     "fallback-other": "Other",
-    "fallback-uncategorized": "Uncategorized",
     "tagMode-multicolor": "Multicolor",
-    "tagMode-monochrome": "Monochrome"
+    "tagMode-monochrome": "Monochrome",
+    "tagsLoading": "Loading tags…",
+    "tagsError": "Tags didn't load",
+    "retry": "Try again"
   },
   "ResultSection": {
     "tooltip-light": "Insert portrait lighting prompts (film lighting, twilight rays, etc.)",
@@ -33,28 +35,30 @@
     "translateEmptyError": "Please enter content",
     "translateFailError": "Translation failed",
     "tooltip-randomColor": "Randomly replace color words",
-    "button-randomcolor": "Randomize",
+    "button-randomcolor": "Randomize colors",
     "prompt-translation": "Translation",
     "translating": "Translating...",
     "randomColor-success": "Replaced {count} color word(s)",
     "randomColor-noMatch": "No color words to replace",
-    "translateLabel": "Translate & insert"
+    "translateLabel": "Translate & insert",
+    "placeholder-prompt": "Pick tags to build it, or type your own prompt",
+    "placeholder-translate": "e.g. a cat at sunset"
   },
   "CopyToClipboard": {
     "empty": "Content is empty, nothing to copy",
     "unsupported": "Your browser does not support clipboard operations, please try copying manually or use a different browser",
-    "success": "Copied successfully, you can paste it into the AI painting tool",
+    "success": "Copied — paste it into your AI image tool",
     "failure": "Copy failed, please copy manually"
   },
   "feedback": {
     "feedback1": "Feedback and Suggestions",
     "feedback2": "If you encounter any issues during use or have any suggestions and ideas, feel free to let me know! Your feedback will directly influence the development and improvement of future features, helping us create a tool that better meets everyone's needs.",
     "feedback3": "Please describe your use case or the issue you encountered in detail, or share your creative ideas. I will carefully consider each piece of feedback and make adjustments and optimizations as soon as possible.",
-    "reaction0": "Up",
+    "reaction0": "Nice",
     "reaction1": "Support",
     "reaction2": "Cool",
     "reaction3": "What?",
-    "reaction4": "Puzzle",
+    "reaction4": "Confused",
     "placeholder": "Please leave a message, no login required (enter your email to receive reply notifications)"
   },
   "Home": {
@@ -106,9 +110,19 @@
     "otherTools": "More Tools",
     "legendtalk": "AI Thinkers Roundtable",
     "aishort": "AI Short",
-    "tools": "AI Toolbox"
+    "tools": "AI Toolbox",
+    "community": "Community links",
+    "github": "View on GitHub",
+    "theme": "Toggle light or dark theme",
+    "language": "Select language",
+    "languageSearch": "Search language",
+    "languageEmpty": "No matching language",
+    "skipToPrompt": "Skip to the prompt box"
   },
   "Guide": {
     "fallbackNotice": "This page hasn’t been translated into your language yet — showing the English version."
+  },
+  "Footer": {
+    "signature": "FREE & OPEN-SOURCE · NO LOGIN · RUNS IN YOUR BROWSER"
   }
 }

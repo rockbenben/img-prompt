@@ -11,9 +11,11 @@
     "section3": "Etiketler",
     "currentSelection": "Seçili",
     "fallback-other": "Diğer",
-    "fallback-uncategorized": "Kategorisiz",
     "tagMode-multicolor": "Çok Renkli",
-    "tagMode-monochrome": "Tek Renkli"
+    "tagMode-monochrome": "Tek Renkli",
+    "tagsLoading": "Etiketler yükleniyor…",
+    "tagsError": "Etiketler yüklenemedi",
+    "retry": "Yeniden dene"
   },
   "ResultSection": {
     "tooltip-light": "Aydınlatma promptları ekle (film ışığı, alacakaranlık vb.)",
@@ -33,12 +35,14 @@
     "translateEmptyError": "İçerik girin",
     "translateFailError": "Çeviri başarısız",
     "tooltip-randomColor": "Renkleri rastgele değiştir",
-    "button-randomcolor": "Renk değiştir",
+    "button-randomcolor": "Rastgele renk",
     "prompt-translation": "Çeviri",
     "translating": "Çevriliyor...",
     "randomColor-success": "{count} renk kelimesi değiştirildi",
     "randomColor-noMatch": "Değiştirilecek renk kelimesi yok",
-    "translateLabel": "Çevir ve ekle"
+    "translateLabel": "Çevir ve ekle",
+    "placeholder-prompt": "Etiket seçin, prompt kendiliğinden oluşsun; ya da kendiniz yazın",
+    "placeholder-translate": "örn. gün batımında bir kedi"
   },
   "CopyToClipboard": {
     "empty": "İçerik boş, kopyalanacak bir şey yok",
@@ -106,9 +110,19 @@
     "otherTools": "Daha Fazla Araç",
     "legendtalk": "AI Düşünürler Yuvarlak Masası",
     "aishort": "AI Short",
-    "tools": "AI Araç Kutusu"
+    "tools": "AI Araç Kutusu",
+    "community": "Topluluk",
+    "github": "GitHub'da görüntüle",
+    "theme": "Açık veya koyu temayı değiştir",
+    "language": "Dil seç",
+    "languageSearch": "Dil ara",
+    "languageEmpty": "Eşleşen dil yok",
+    "skipToPrompt": "Prompt kutusuna atla"
   },
   "Guide": {
     "fallbackNotice": "Bu sayfa henüz dilinize çevrilmedi; İngilizce sürüm gösteriliyor."
+  },
+  "Footer": {
+    "signature": "Ücretsiz ve açık kaynak · Giriş gerekmez · Tarayıcınızda çalışır"
   }
 }

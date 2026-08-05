@@ -11,9 +11,11 @@
     "section3": "タグ",
     "currentSelection": "選択済み",
     "fallback-other": "その他",
-    "fallback-uncategorized": "未分類",
     "tagMode-multicolor": "カラー",
-    "tagMode-monochrome": "モノクロ"
+    "tagMode-monochrome": "モノクロ",
+    "tagsLoading": "タグを読み込み中…",
+    "tagsError": "タグを読み込めませんでした",
+    "retry": "再試行"
   },
   "ResultSection": {
     "tooltip-light": "ポートレート照明のプロンプトを挿入（映画照明、夕暮れの光など）",
@@ -33,12 +35,14 @@
     "translateEmptyError": "内容を入力してください",
     "translateFailError": "翻訳に失敗しました",
     "tooltip-randomColor": "カラーワードをランダムに置換",
-    "button-randomcolor": "色変更",
+    "button-randomcolor": "色をランダム変更",
     "prompt-translation": "翻訳文",
     "translating": "翻訳中…",
     "randomColor-success": "{count} 件のカラーワードを置換しました",
     "randomColor-noMatch": "置換するカラーワードがありません",
-    "translateLabel": "翻訳してそのまま追加"
+    "translateLabel": "翻訳してそのまま追加",
+    "placeholder-prompt": "タグを選ぶと自動で組み上がります。直接入力もできます",
+    "placeholder-translate": "例：夕日の中の猫"
   },
   "CopyToClipboard": {
     "empty": "内容が空のため、コピーするものがありません",
@@ -106,9 +110,19 @@
     "otherTools": "その他のツール",
     "legendtalk": "AI思想家ラウンドテーブル",
     "aishort": "AI Short",
-    "tools": "AIツールボックス"
+    "tools": "AIツールボックス",
+    "community": "コミュニティ",
+    "github": "GitHub で見る",
+    "theme": "ライト／ダークを切り替え",
+    "language": "言語を選択",
+    "languageSearch": "言語を検索",
+    "languageEmpty": "一致する言語がありません",
+    "skipToPrompt": "プロンプト欄へスキップ"
   },
   "Guide": {
     "fallbackNotice": "このページはまだ日本語に翻訳されていません。英語版を表示しています。"
+  },
+  "Footer": {
+    "signature": "無料・オープンソース · ログイン不要 · すべてブラウザ内で動作"
   }
 }

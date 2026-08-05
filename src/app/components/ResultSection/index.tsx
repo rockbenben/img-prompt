@@ -71,10 +71,14 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
 
   return (
     <Flex vertical gap={16}>
-      <div className="pp-mixer">
+      {/* tabIndex=-1：跳转链接的落点，锚点跳过来时焦点真的落在这里，
+          下一次 Tab 就进输入框（只设 id 的话焦点还留在链接上） */}
+      <div className="pp-mixer" id="pp-prompt" tabIndex={-1}>
         <div className="pp-mixer-head">
           <span className="pp-mixer-title">{t("prompt")}</span>
-          <span className={`pp-count${resultText.length > PROMPT_SOFT_LIMIT ? " pp-count-over" : ""}`}>
+          {/* dir=ltr：阿拉伯语页面里「数字 / 数字」会被 bidi 整体翻转成 “380 / 0”，
+              计数器读反 */}
+          <span dir="ltr" className={`pp-count${resultText.length > PROMPT_SOFT_LIMIT ? " pp-count-over" : ""}`}>
             <b>{resultText.length}</b> / {PROMPT_SOFT_LIMIT}
           </span>
         </div>
@@ -104,7 +108,9 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
             value={inputText}
             onChange={(e: React.ChangeEvent<HTMLInputElement>) => setInputText(e.target.value)}
             onPressEnter={handleTranslate}
-            placeholder={t("tooltip-translate")}
+            // 标题已写着「翻译并插入」，placeholder 再复述一遍功能是重复，且那句
+            // 描述在窄栏里必被截断。改成举例示范用法；完整说明留给 aria-label。
+            placeholder={t("placeholder-translate")}
             aria-label={t("tooltip-translate")}
             disabled={isManualTranslating}
           />

@@ -11,9 +11,11 @@
     "section3": "Tag",
     "currentSelection": "Selezionato",
     "fallback-other": "Altri",
-    "fallback-uncategorized": "Non classificato",
     "tagMode-multicolor": "Multicolore",
-    "tagMode-monochrome": "Monocromo"
+    "tagMode-monochrome": "Monocromo",
+    "tagsLoading": "Caricamento tag…",
+    "tagsError": "I tag non si sono caricati",
+    "retry": "Riprova"
   },
   "ResultSection": {
     "tooltip-light": "Inserisci prompt di illuminazione per ritratti (luce cinematografica, raggi crepuscolari, ecc.)",
@@ -33,12 +35,14 @@
     "translateEmptyError": "Inserisci del contenuto",
     "translateFailError": "Traduzione fallita",
     "tooltip-randomColor": "Sostituisci casualmente le parole di colore",
-    "button-randomcolor": "Cambia colore",
+    "button-randomcolor": "Colori casuali",
     "prompt-translation": "Traduzione",
     "translating": "Traduzione in corso...",
     "randomColor-success": "Sostituite {count} parole di colore",
     "randomColor-noMatch": "Nessuna parola di colore da sostituire",
-    "translateLabel": "Traduci e inserisci"
+    "translateLabel": "Traduci e inserisci",
+    "placeholder-prompt": "Scegli i tag per comporlo, oppure scrivi il tuo prompt",
+    "placeholder-translate": "es. un gatto al tramonto"
   },
   "CopyToClipboard": {
     "empty": "Il contenuto è vuoto, niente da copiare",
@@ -106,9 +110,19 @@
     "otherTools": "Altri strumenti",
     "legendtalk": "Tavola rotonda dei pensatori IA",
     "aishort": "AI Short",
-    "tools": "Cassetta degli strumenti IA"
+    "tools": "Cassetta degli strumenti IA",
+    "community": "Community",
+    "github": "Vedi su GitHub",
+    "theme": "Alterna tema chiaro o scuro",
+    "language": "Seleziona lingua",
+    "languageSearch": "Cerca lingua",
+    "languageEmpty": "Nessuna lingua corrispondente",
+    "skipToPrompt": "Vai alla casella prompt"
   },
   "Guide": {
     "fallbackNotice": "Questa pagina non è ancora tradotta nella tua lingua; viene mostrata la versione inglese."
+  },
+  "Footer": {
+    "signature": "Gratuito e open source · Senza registrazione · Gira nel tuo browser"
   }
 }

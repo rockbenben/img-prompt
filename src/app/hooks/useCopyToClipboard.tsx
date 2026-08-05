@@ -5,10 +5,15 @@ export const useCopyToClipboard = () => {
   const t = useTranslations("CopyToClipboard");
   const { message: appMessage } = App.useApp();
 
+  // 目标名（「提示词」/「Prompt」/「Négatif」）+ 整句消息。原来是裸拼接，
+  // 中文碰巧读得通，其余语言全成了 "PromptCopy failed, please copy manually"
+  // ——没有空格、也不成句。中间点分隔在所有语言里都成立，且不必假设
+  // 目标名在句中的语法位置（那需要给 18 份文案逐句改写带占位符的版本）。
+  const withTarget = (msg: string, targetText?: string) => (targetText ? `${targetText} · ${msg}` : msg);
+
   const copyToClipboard = async (text: string, targetText?: string) => {
     if (!text || text.trim() === "") {
-      const warningMsg = targetText ? `${targetText}${t("empty")}` : t("empty");
-      appMessage.warning(warningMsg);
+      appMessage.warning(withTarget(t("empty"), targetText));
       return;
     }
 
@@ -19,12 +24,10 @@ export const useCopyToClipboard = () => {
 
     try {
       await navigator.clipboard.writeText(text);
-      const successMsg = targetText ? `${targetText}${t("success")}` : t("success");
-      appMessage.success(successMsg);
+      appMessage.success(withTarget(t("success"), targetText));
     } catch (err) {
       console.error("Copy to clipboard failed: ", err);
-      const errorMsg = targetText ? `${targetText}${t("failure")}` : t("failure");
-      appMessage.error(errorMsg);
+      appMessage.error(withTarget(t("failure"), targetText));
     }
   };
 

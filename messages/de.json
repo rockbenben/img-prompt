@@ -11,9 +11,11 @@
     "section3": "Tags",
     "currentSelection": "Ausgewählt",
     "fallback-other": "Sonstiges",
-    "fallback-uncategorized": "Unkategorisiert",
     "tagMode-multicolor": "Mehrfarbig",
-    "tagMode-monochrome": "Einfarbig"
+    "tagMode-monochrome": "Einfarbig",
+    "tagsLoading": "Tags werden geladen…",
+    "tagsError": "Tags konnten nicht geladen werden",
+    "retry": "Erneut versuchen"
   },
   "ResultSection": {
     "tooltip-light": "Beleuchtungs-Prompts einfügen (Filmbeleuchtung, Dämmerung usw.)",
@@ -33,12 +35,14 @@
     "translateEmptyError": "Inhalt eingeben",
     "translateFailError": "Übersetzung fehlgeschlagen",
     "tooltip-randomColor": "Farbwörter zufällig ersetzen",
-    "button-randomcolor": "Farbe ändern",
+    "button-randomcolor": "Farben zufällig ändern",
     "prompt-translation": "Übersetzung",
     "translating": "Wird übersetzt...",
     "randomColor-success": "{count} Farbwörter ersetzt",
     "randomColor-noMatch": "Keine Farbwörter zu ersetzen",
-    "translateLabel": "Übersetzen & einfügen"
+    "translateLabel": "Übersetzen & einfügen",
+    "placeholder-prompt": "Tags auswählen oder eigenen Prompt hier eintippen",
+    "placeholder-translate": "z. B. eine Katze im Sonnenuntergang"
   },
   "CopyToClipboard": {
     "empty": "Der Inhalt ist leer, nichts zu kopieren",
@@ -106,9 +110,19 @@
     "otherTools": "Mehr Tools",
     "legendtalk": "KI-Denkerrunde",
     "aishort": "AI Short",
-    "tools": "KI-Toolbox"
+    "tools": "KI-Toolbox",
+    "community": "Community",
+    "github": "Auf GitHub ansehen",
+    "theme": "Helles oder dunkles Design umschalten",
+    "language": "Sprache wählen",
+    "languageSearch": "Sprache suchen",
+    "languageEmpty": "Keine passende Sprache",
+    "skipToPrompt": "Zum Prompt-Feld springen"
   },
   "Guide": {
     "fallbackNotice": "Diese Seite ist noch nicht in Ihrer Sprache verfügbar; die englische Version wird angezeigt."
+  },
+  "Footer": {
+    "signature": "Kostenlos & Open Source · Ohne Login · Läuft in deinem Browser"
   }
 }

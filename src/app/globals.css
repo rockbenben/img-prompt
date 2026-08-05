@@ -42,6 +42,9 @@
   --pp-mixer-chip: rgba(22, 23, 28, 0.04);
   --pp-count-accent: #16171c;
 
+  /* 焦点环：浅色深蓝（对白卡 6.2:1），暗色天蓝（对深卡 7.8:1），均过 3:1 */
+  --pp-focus: #0f5fbf;
+
   --pp-font-display: var(--font-display, "Bricolage Grotesque"), -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
   --pp-font-mono: var(--font-mono, "IBM Plex Mono"), ui-monospace, SFMono-Regular, monospace;
 }
@@ -74,12 +77,112 @@
   --pp-mixer-well: rgba(255, 255, 255, 0.06);
   --pp-mixer-chip: rgba(255, 255, 255, 0.06);
   --pp-count-accent: var(--pp-yolk);
+  --pp-focus: var(--pp-sky);
 }
 
 body {
   background-color: var(--pp-canvas);
   background-image: radial-gradient(var(--pp-grid-dot) 1px, transparent 1.2px);
   background-size: 22px 22px;
+}
+
+/* ---------- 键盘焦点 ----------
+   焦点环。antd v6 自带的 4px --ant-color-primary-border 在暗色主题下实测
+   rgb(85,85,82) 画在 rgb(28,30,36) 的卡片上＝2.2:1，达不到 WCAG 2.2 SC 1.4.11
+   对焦点指示器要求的 3:1；且 .pp-tag 自绘芯片、summary、Segmented 它根本没覆盖。
+   统一成一条随主题翻转的自有环：浅色深蓝 6.2:1、暗色天蓝 7.8:1。
+   !important 是因为 antd 的运行时 <style> 注入在本表之后，同特异性压不过去
+   （本文件里 .pp-cats 选中态、.pp-mixer 按钮也是同样原因）。 */
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible,
+[tabindex]:focus-visible,
+.ant-btn:focus-visible,
+.ant-menu-item:focus-visible {
+  outline: 3px solid var(--pp-focus) !important;
+  outline-offset: 2px;
+}
+/* Radio.Button / Segmented 的可聚焦元素都是内部隐藏 input，:has 才能只在键盘
+   焦点时亮环（:focus-within 会连鼠标点击也画上）。Segmented 原来完全没有焦点态
+   ——键盘用户看不出「多彩 / 单色」停在哪一个。
+   必须单独成一条：CSS 里逗号列表内任一选择器解析失败会让整条规则作废，混在
+   上面那条里的话，不支持 :has 的浏览器（Firefox ≤120 / Safari ≤15.3）连
+   a / button 的基本焦点环都拿不到，整个修复归零。 */
+.ant-radio-button-wrapper:has(:focus-visible),
+.ant-segmented-item:has(:focus-visible) {
+  outline: 3px solid var(--pp-focus) !important;
+  outline-offset: 2px;
+}
+
+/* 跳过选词区的链接：平时移出视口，键盘聚焦时落回左上角。
+   这里曾用 body:not(:has(#pp-prompt)) 在指南/反馈页隐藏它，免得跳转落空。
+   但 #pp-prompt 在 <Suspense> 里、hydration 之后才存在（out/en.html 里搜不到
+   id="pp-prompt"），于是首页在 hydration 前也一起被隐藏——链接恰好在最该起
+   作用的那几秒不在 Tab 序列里，禁 JS 更是永远不出现。
+   两害相权：首页可用 > 次级页面上一次空跳（目标不存在时浏览器不做任何事）。 */
+/* 用裁剪法隐藏，不能用 left:-9999px —— 阿拉伯语是 RTL，把元素推到左边
+   9999px 正好制造 9999px 的横向溢出（实测 ar 首页 scrollWidth 超出 9999）。
+   裁剪法不挪动盒子，两个方向都不产生溢出。 */
+.pp-skip {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  z-index: 1000;
+  background: var(--pp-yolk);
+  color: #16171c;
+  font-weight: 700;
+  font-size: 13px;
+  border: 2px solid #16171c;
+  border-radius: 0 0 10px 0;
+  box-shadow: 3px 3px 0 var(--pp-shadow);
+}
+.pp-skip:focus {
+  width: auto;
+  height: auto;
+  margin: 0;
+  padding: 9px 16px;
+  overflow: visible;
+  clip-path: none;
+  inset-block-start: 0;
+  inset-inline-start: 0;
+  color: #16171c;
+}
+/* 落点不该因为 tabindex=-1 被鼠标点中就画环，但键盘必须看得见：跳转链接的
+   全部意义就是把焦点送到这里，:focus-visible 也压掉的话，键盘用户按完回车
+   屏幕上没有任何变化，无法确认跳转是否生效（WCAG 2.4.7）。只压 :focus。 */
+.pp-mixer:focus {
+  outline: none !important;
+}
+
+/* 不要往这里加 transition-duration: 0.01ms !important —— antd 弹层（语言切换
+   下拉、Drawer、Select…）的定位依赖 rc-trigger 的过渡时序，全局压成 0.01ms 后
+   对齐那步不再完成，弹层永远停在 -10×视口高 的待对齐位置，表现为「点了没反应」。
+   实测：只注入这一条即复现，去掉即恢复。动画类的三条是安全的。 */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+  }
+  /* transition 只点名本站自己声明过动效的这几处，不能用 * ——见上方注释，
+     全局压掉会让 antd 弹层永远停在待对齐位置。反过来，只压 animation 也不行：
+     本站自己的动效一处 keyframes 都没有，全是 transition，那样这块等于白写。 */
+  .pp-subs .ant-radio-button-wrapper,
+  .pp-tag,
+  .pp-token,
+  .pp-sug.ant-tag,
+  .ant-btn:not(.ant-btn-text):not(.ant-btn-link),
+  .pp-faq summary,
+  .pp-doc-nav-item {
+    transition-duration: 0.01ms !important;
+  }
 }
 
 /* ---------- 托盘卡片（选词区三段 + 译文区） ---------- */
@@ -115,6 +218,8 @@ body {
   font-weight: 700;
   font-size: 16px;
   color: var(--pp-ink);
+  /* 窄屏下英文小注 + Segmented 会把标题挤断行（"标签" 竖排成两行） */
+  white-space: nowrap;
 }
 .pp-sec-gloss {
   font-family: var(--pp-font-mono);
@@ -122,6 +227,13 @@ body {
   letter-spacing: 0.18em;
   text-transform: uppercase;
   color: var(--pp-ink-3);
+  white-space: nowrap;
+}
+/* 手机上先舍弃装饰性小注，保住标题与开关 */
+@media (max-width: 460px) {
+  .pp-sec-gloss {
+    display: none;
+  }
 }
 
 /* ---------- ① 主体：实心 pill（antd Radio.Button 重塑） ---------- */
@@ -299,6 +411,23 @@ body {
 .pp-c-3 { --pp-tag-c: var(--pp-mint); }
 .pp-c-4 { --pp-tag-c: var(--pp-lilac); }
 .pp-c-5 { --pp-tag-c: var(--pp-rose); }
+
+/* 标签区的加载/失败占位。给个下限高度，避免托盘先塌成一条再弹回来 */
+.pp-tag-state {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  min-height: 132px;
+  font-size: 13px;
+  color: var(--pp-ink-2);
+}
+/* 空的时候不占位。这个 aria-live 容器必须一直挂在 DOM 里（读屏只播报「已存在
+   的区域内容发生变化」，连容器一起插入的话什么都不念），所以不能用 display:none
+   ——那会把它从无障碍树里摘掉，等于没挂。压成 0 高即可。 */
+.pp-tag-state:empty {
+  min-height: 0;
+}
 
 /* 单色模式：墨线描边，选中=墨色填充 */
 .pp-tag.pp-mono .pp-tag-dot { display: none; }
@@ -645,6 +774,33 @@ body {
   opacity: 0.55;
   vertical-align: 2px;
 }
+/* 浮层（导航折叠菜单 / 社区下拉 / 语言面板）：补上墨边 + 硬投影，
+   否则点开后是 antd 默认的柔和阴影卡片，和整页的贴纸质感对不上 */
+.ant-menu-submenu-popup > .ant-menu,
+.ant-dropdown > .ant-dropdown-menu,
+.pp-lang-panel {
+  border: 2px solid var(--pp-line);
+  box-shadow: 3px 3px 0 var(--pp-shadow);
+}
+/* 窄屏：图标组让出宽度，否则主导航连折叠触发器都放不下（GitHub 页脚有同一入口） */
+@media (max-width: 520px) {
+  .pp-nav-github {
+    display: none;
+  }
+}
+/* 320px（iPhone SE 一代等）：词标间距 + 图标组间距收紧，否则顶栏撑出
+   横向滚动条。Space 的 gap 是内联样式，只能 !important 压过 */
+@media (max-width: 400px) {
+  .pp-wordmark {
+    margin-right: 6px;
+  }
+  .pp-topbar {
+    padding-inline: 10px !important;
+  }
+  .pp-topbar .ant-space {
+    column-gap: 6px !important;
+  }
+}
 
 /* ---------- Hero ---------- */
 .pp-hero-h1 {
@@ -674,7 +830,7 @@ body {
   vertical-align: -2px;
 }
 
-/* ---------- 托盘标签行（翻译直入等）：display 字重 + 色票 ---------- */
+/* ---------- 托盘标签行（翻译并插入等）：display 字重 + 色票 ---------- */
 .pp-tray-label {
   font-family: var(--pp-font-display);
   font-weight: 700;
@@ -723,8 +879,15 @@ body {
 .pp-footer-sig {
   font-family: var(--pp-font-mono);
   font-size: 11px;
-  letter-spacing: 0.13em;
+  /* 本地化后这行会出现 CJK / 阿拉伯语 / 泰语，宽字距在这些文字上是灾难；
+     只给拉丁词标保留 mono 大写字距 */
+  letter-spacing: 0.02em;
   color: var(--pp-ink-3);
+}
+.pp-footer-mark {
+  font-weight: 500;
+  letter-spacing: 0.13em;
+  margin-inline-end: 2px;
 }
 
 /* ---------- FAQ：内容尾注，安静的分隔线列表，不与工具区抢层级 ---------- */
@@ -768,6 +931,67 @@ body {
 .pp-faq-more:hover {
   color: var(--pp-ink);
   text-decoration-color: var(--pp-yolk);
+}
+
+/* ---------- 反馈页：托盘 + Waline 换肤 ----------
+   Waline 自带一套绿色主题，直接落在页面上像另一个站点；它的皮肤全走 CSS
+   变量，在容器上改写即可，不用覆盖它的具体选择器。 */
+.pp-feedback {
+  padding: 24px clamp(16px, 3vw, 30px) 28px;
+
+  --waline-theme-color: var(--pp-ink);
+  --waline-active-color: var(--pp-coral);
+  --waline-color: var(--pp-ink-2);
+  --waline-bgcolor: var(--pp-card);
+  --waline-bgcolor-light: var(--pp-canvas);
+  --waline-bgcolor-hover: var(--pp-line-soft);
+  --waline-border-color: var(--pp-line-soft);
+  --waline-border: 1.5px solid var(--pp-line-soft);
+  --waline-border-radius: 9px;
+  --waline-avatar-radius: 9px;
+  --waline-info-color: var(--pp-ink-3);
+  --waline-info-bgcolor: var(--pp-canvas);
+  --waline-badge-color: var(--pp-ink);
+  --waline-font-size: 14px;
+}
+.pp-feedback-title {
+  font-family: var(--pp-font-display);
+  font-weight: 800;
+  font-size: clamp(21px, 3vw, 28px);
+  color: var(--pp-ink);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 12px;
+}
+.pp-feedback-lede {
+  margin: 0 0 10px;
+  max-width: 74ch;
+  font-size: 13.5px;
+  line-height: 1.75;
+  color: var(--pp-ink-2);
+}
+/* 提交 = 签名蛋黄 CTA，与工具页「复制」同一语言 */
+.pp-feedback .wl-btn.primary {
+  background: var(--pp-yolk);
+  border-color: #16171c;
+  color: #16171c;
+  font-weight: 700;
+}
+.pp-feedback .wl-btn.primary:hover {
+  background: #ffe263;
+  border-color: #16171c;
+  color: #16171c;
+}
+.pp-feedback .wl-editor:focus,
+.pp-feedback .wl-input:focus {
+  border-color: var(--pp-ink);
+}
+/* 评论是用户产生的内容：有人贴过一条 410px 的 Google Drive 链接，手机上
+   整页被顶出 107px 横向滚动。长 URL / 长串必须能在任意位置断行 */
+.pp-feedback .wl-content,
+.pp-feedback .wl-content a {
+  overflow-wrap: anywhere;
 }
 
 /* ---------- 指南（/guide）：章节目录 + 文档托盘 ---------- */
@@ -815,8 +1039,17 @@ body {
   border: 1.5px dashed var(--pp-ink-3);
   border-radius: 9px;
 }
+/* 文档列必须能被压到容器宽度以内。手机上 .pp-doc-layout 变成纵向 flex，
+   子项按 min-content 撑开：deploy 页那条 600px 的 docker run 命令会把整篇文章
+   顶到 676px（视口只有 390px），整页横向滚动，而 pre 的 overflow-x:auto
+   因为拿不到确定宽度也就永远不触发。max-width 把这条链掐断。 */
+.pp-doc-layout > div {
+  min-width: 0;
+  max-width: 100%;
+}
 .pp-doc {
   min-width: 0;
+  max-width: 100%;
   padding: 26px 32px 34px;
   line-height: 1.75;
   color: var(--pp-ink-2);
@@ -844,6 +1077,17 @@ body {
 .pp-doc h3 {
   font-size: 15.5px;
   font-weight: 700;
+}
+/* 正文行长上限：托盘在 1440 下有 ~1000px 宽，一行能塞 70 个汉字，读起来会串行。
+   只收正文，表格/代码块/图片仍占满宽度。 */
+.pp-doc p,
+.pp-doc li,
+.pp-doc blockquote {
+  max-width: 74ch;
+}
+/* markdown 会把独立图片包进 <p>，跟着收窄会把界面截图压到 680px 看不清 */
+.pp-doc p:has(> img) {
+  max-width: none;
 }
 .pp-doc p {
   margin: 0.7em 0;
@@ -948,6 +1192,19 @@ body {
   .pp-doc {
     padding: 20px 18px 26px;
   }
+}
+
+/* ---------- 示例图灯箱 ----------
+   antd 默认遮罩 rgba(0,0,0,.45)。这套设计的画布是高亮米色 + 墨色描边，0.45 之下
+   整页仍然清晰可读，跟被放大的示例图抢注意力——而看清示例图正是灯箱存在的理由。
+   加深到 .82，顺带让底部那排操作图标（无自身底色，全靠遮罩衬）能看清。
+   !important 同焦点环：antd 运行时 <style> 注入在本表之后，同特异性压不过去。 */
+.ant-image-preview-mask {
+  background: rgba(10, 10, 12, 0.82) !important;
+}
+.ant-image-preview-actions {
+  background: rgba(10, 10, 12, 0.6) !important;
+  border-radius: 999px;
 }
 
 /* ---------- 杂项 ---------- */

@@ -11,9 +11,11 @@
     "section3": "Thẻ",
     "currentSelection": "Đã chọn",
     "fallback-other": "Khác",
-    "fallback-uncategorized": "Chưa phân loại",
     "tagMode-multicolor": "Nhiều màu",
-    "tagMode-monochrome": "Đơn sắc"
+    "tagMode-monochrome": "Đơn sắc",
+    "tagsLoading": "Đang tải thẻ…",
+    "tagsError": "Không tải được thẻ",
+    "retry": "Thử lại"
   },
   "ResultSection": {
     "tooltip-light": "Chèn prompt ánh sáng chân dung (ánh sáng điện ảnh, tia hoàng hôn, v.v.)",
@@ -33,12 +35,14 @@
     "translateEmptyError": "Vui lòng nhập nội dung",
     "translateFailError": "Dịch thất bại",
     "tooltip-randomColor": "Thay thế ngẫu nhiên các từ màu",
-    "button-randomcolor": "Đổi màu",
+    "button-randomcolor": "Đổi màu ngẫu nhiên",
     "prompt-translation": "Bản dịch",
     "translating": "Đang dịch...",
     "randomColor-success": "Đã thay thế {count} từ màu",
     "randomColor-noMatch": "Không có từ màu để thay thế",
-    "translateLabel": "Dịch và chèn ngay"
+    "translateLabel": "Dịch và chèn ngay",
+    "placeholder-prompt": "Chọn thẻ để ghép tự động, hoặc tự nhập prompt của bạn",
+    "placeholder-translate": "vd. chú mèo lúc hoàng hôn"
   },
   "CopyToClipboard": {
     "empty": "Nội dung trống, không có gì để sao chép",
@@ -106,9 +110,19 @@
     "otherTools": "Thêm công cụ",
     "legendtalk": "Bàn tròn nhà tư tưởng AI",
     "aishort": "AI Short",
-    "tools": "Hộp công cụ AI"
+    "tools": "Hộp công cụ AI",
+    "community": "Cộng đồng",
+    "github": "Xem trên GitHub",
+    "theme": "Chuyển giao diện sáng hoặc tối",
+    "language": "Chọn ngôn ngữ",
+    "languageSearch": "Tìm ngôn ngữ",
+    "languageEmpty": "Không có ngôn ngữ phù hợp",
+    "skipToPrompt": "Chuyển tới ô prompt"
   },
   "Guide": {
     "fallbackNotice": "Trang này chưa được dịch sang ngôn ngữ của bạn; đang hiển thị bản tiếng Anh."
+  },
+  "Footer": {
+    "signature": "Miễn phí & mã nguồn mở · Không cần đăng nhập · Chạy ngay trên trình duyệt"
   }
 }

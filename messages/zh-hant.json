@@ -11,9 +11,11 @@
     "section3": "標籤",
     "currentSelection": "已選",
     "fallback-other": "其他",
-    "fallback-uncategorized": "未分類",
     "tagMode-multicolor": "多彩",
-    "tagMode-monochrome": "單色"
+    "tagMode-monochrome": "單色",
+    "tagsLoading": "正在載入標籤…",
+    "tagsError": "標籤沒能載入",
+    "retry": "重試"
   },
   "ResultSection": {
     "tooltip-light": "插入人像打光提示詞（電影光效、暮光射線等）",
@@ -38,7 +40,9 @@
     "translating": "翻譯中…",
     "randomColor-success": "已替換 {count} 處顏色詞",
     "randomColor-noMatch": "沒有可替換的顏色詞",
-    "translateLabel": "翻譯並插入"
+    "translateLabel": "翻譯並插入",
+    "placeholder-prompt": "點標籤自動拼好，也可以直接在這裡寫",
+    "placeholder-translate": "例：夕陽下的貓"
   },
   "CopyToClipboard": {
     "empty": "內容為空，無需複製",
@@ -81,7 +85,7 @@
     },
     "q9": {
       "question": "不會英文也能用 IMGPrompt 嗎？",
-      "answer": "可以。介面共 18 種語言，每個標籤同時顯示英文和你的母語標籤。用母語點選，IMGPrompt 自動用英文（AI 圖像和影片模型實際需要的語言）組合 prompt。右側「翻譯」按鈕還能一鍵把母語句子轉成英文 prompt。"
+      "answer": "可以。介面共 18 種語言，每個標籤同時顯示英文和你的母語標籤。用母語點選，IMGPrompt 自動用英文（AI 圖像和影片模型實際需要的語言）組合 prompt。「翻譯」按鈕還能一鍵把母語句子轉成英文 prompt。"
     }
   },
   "Schema": {
@@ -106,9 +110,19 @@
     "otherTools": "更多工具",
     "legendtalk": "AI 思想家圓桌",
     "aishort": "AI Short",
-    "tools": "AI 工具箱"
+    "tools": "AI 工具箱",
+    "community": "社群與交流群",
+    "github": "在 GitHub 上檢視",
+    "theme": "切換明暗主題",
+    "language": "選擇語言",
+    "languageSearch": "搜尋語言",
+    "languageEmpty": "沒有符合的語言",
+    "skipToPrompt": "跳到提示詞框"
   },
   "Guide": {
     "fallbackNotice": "此頁面尚未提供繁體中文版，目前顯示簡體中文版。"
+  },
+  "Footer": {
+    "signature": "免費開源 · 無需登入 · 全程在你的瀏覽器裡執行"
   }
 }

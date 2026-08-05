@@ -11,9 +11,11 @@
     "section3": "العلامات",
     "currentSelection": "محدد",
     "fallback-other": "أخرى",
-    "fallback-uncategorized": "غير مصنف",
     "tagMode-multicolor": "متعدد الألوان",
-    "tagMode-monochrome": "أحادي اللون"
+    "tagMode-monochrome": "أحادي اللون",
+    "tagsLoading": "جارٍ تحميل الوسوم…",
+    "tagsError": "تعذّر تحميل الوسوم",
+    "retry": "إعادة المحاولة"
   },
   "ResultSection": {
     "tooltip-light": "إدراج موجهات الإضاءة (إضاءة سينمائية، غروب، إلخ)",
@@ -33,12 +35,14 @@
     "translateEmptyError": "أدخل المحتوى",
     "translateFailError": "فشلت الترجمة",
     "tooltip-randomColor": "تغيير الألوان عشوائياً",
-    "button-randomcolor": "تغيير اللون",
+    "button-randomcolor": "ألوان عشوائية",
     "prompt-translation": "الترجمة",
     "translating": "جاري الترجمة...",
     "randomColor-success": "تم استبدال {count} كلمة لون",
     "randomColor-noMatch": "لا توجد كلمات لون للاستبدال",
-    "translateLabel": "ترجم وأدرج"
+    "translateLabel": "ترجم وأدرج",
+    "placeholder-prompt": "اختر الوسوم ليُبنى تلقائيًا، أو اكتب موجّهك بنفسك",
+    "placeholder-translate": "مثال: قطة عند الغروب"
   },
   "CopyToClipboard": {
     "empty": "المحتوى فارغ، لا يوجد شيء للنسخ",
@@ -106,9 +110,19 @@
     "otherTools": "المزيد من الأدوات",
     "legendtalk": "طاولة مفكري الذكاء الاصطناعي",
     "aishort": "AI Short",
-    "tools": "صندوق أدوات الذكاء الاصطناعي"
+    "tools": "صندوق أدوات الذكاء الاصطناعي",
+    "community": "المجتمع",
+    "github": "عرض على GitHub",
+    "theme": "تبديل المظهر الفاتح أو الداكن",
+    "language": "اختيار اللغة",
+    "languageSearch": "البحث عن لغة",
+    "languageEmpty": "لا توجد لغة مطابقة",
+    "skipToPrompt": "تخطَّ إلى مربع الموجّه"
   },
   "Guide": {
     "fallbackNotice": "لم تتم ترجمة هذه الصفحة إلى لغتك بعد؛ يتم عرض النسخة الإنجليزية."
+  },
+  "Footer": {
+    "signature": "مجاني ومفتوح المصدر · بدون تسجيل · يعمل داخل متصفحك"
   }
 }

@@ -11,9 +11,11 @@
     "section3": "Tag",
     "currentSelection": "Dipilih",
     "fallback-other": "Lainnya",
-    "fallback-uncategorized": "Tak Berkategori",
     "tagMode-multicolor": "Beragam Warna",
-    "tagMode-monochrome": "Satu Warna"
+    "tagMode-monochrome": "Satu Warna",
+    "tagsLoading": "Memuat tag…",
+    "tagsError": "Tag gagal dimuat",
+    "retry": "Coba lagi"
   },
   "ResultSection": {
     "tooltip-light": "Sisipkan prompt pencahayaan (pencahayaan film, senja, dll.)",
@@ -33,12 +35,14 @@
     "translateEmptyError": "Masukkan konten",
     "translateFailError": "Terjemahan gagal",
     "tooltip-randomColor": "Ganti warna secara acak",
-    "button-randomcolor": "Ubah warna",
+    "button-randomcolor": "Warna acak",
     "prompt-translation": "Terjemahan",
     "translating": "Menerjemahkan...",
     "randomColor-success": "{count} kata warna telah diganti",
     "randomColor-noMatch": "Tidak ada kata warna untuk diganti",
-    "translateLabel": "Terjemahkan & sisipkan"
+    "translateLabel": "Terjemahkan & sisipkan",
+    "placeholder-prompt": "Pilih tag untuk menyusunnya, atau ketik prompt Anda sendiri",
+    "placeholder-translate": "mis. kucing saat matahari terbenam"
   },
   "CopyToClipboard": {
     "empty": "Konten kosong, tidak ada yang bisa disalin",
@@ -106,9 +110,19 @@
     "otherTools": "Alat Lainnya",
     "legendtalk": "Meja Bundar Pemikir AI",
     "aishort": "AI Short",
-    "tools": "Kotak Alat AI"
+    "tools": "Kotak Alat AI",
+    "community": "Komunitas",
+    "github": "Lihat di GitHub",
+    "theme": "Ganti tema terang atau gelap",
+    "language": "Pilih bahasa",
+    "languageSearch": "Cari bahasa",
+    "languageEmpty": "Tidak ada bahasa yang cocok",
+    "skipToPrompt": "Lompat ke kotak prompt"
   },
   "Guide": {
     "fallbackNotice": "Halaman ini belum diterjemahkan ke bahasa Anda; menampilkan versi bahasa Inggris."
+  },
+  "Footer": {
+    "signature": "Gratis & sumber terbuka · Tanpa login · Berjalan di peramban Anda"
   }
 }
