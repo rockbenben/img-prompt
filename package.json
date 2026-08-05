@@ -7,6 +7,7 @@
     "dev": "next dev",
     "prebuild": "node scripts/sliceData.js",
     "build": "next build",
+    "postbuild": "node scripts/flattenRscSegments.js",
     "build:lang": "node scripts/buildWithLang.js",
     "start": "next start",
     "lint": "eslint src",

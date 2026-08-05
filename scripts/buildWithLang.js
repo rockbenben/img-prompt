@@ -55,6 +55,9 @@ try {
   execSync("node scripts/sliceData.js", { stdio: "inherit" });
   // 执行构建命令（调用 Next.js 的构建命令）
   execSync("next build", { stdio: "inherit" });
+  // 同理 postbuild 钩子也不会触发：静态导出的 RSC 分段预取路径需要补扁平副本，
+  // 否则每次 hover 链接都打 404、预取完全失效
+  execSync("node scripts/flattenRscSegments.js", { stdio: "inherit" });
 } catch (error) {
   console.error("Build error occurred / 构建错误发生：", error);
   buildError = error; // 记录错误但不立即退出
