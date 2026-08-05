@@ -2907,7 +2907,7 @@
   },
   {
     "displayName": "hollow_eyes",
-    "langName": "pupille a forma di stella",
+    "langName": "occhi spenti",
     "object": "Persona",
     "attribute": "Occhi",
     "preview": "https://img.aishort.top/imgprompt/20260211141950217.webp"
@@ -4684,7 +4684,7 @@
   },
   {
     "displayName": "crop_top_overhang",
-    "langName": "Sporgenza del top corto",
+    "langName": "Sporgenza del crop top",
     "object": "Ambiente",
     "attribute": "Sfondo",
     "preview": "https://img.aishort.top/imgprompt/20260225095914537.webp"
@@ -5384,7 +5384,7 @@
   },
   {
     "displayName": "lunar",
-    "langName": "lunare, _lunare;",
+    "langName": "lunare",
     "object": "Ambiente",
     "attribute": "Cielo",
     "preview": "https://img.aishort.top/imgprompt/20260211153840964.webp"
@@ -9873,301 +9873,301 @@
     "displayName": "arms_up",
     "langName": "Alza la mano",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175530980.webp"
   },
   {
     "displayName": "arms_crossed",
     "langName": "mani incrociate sul petto",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175543922.webp"
   },
   {
     "displayName": "crossed_arms",
     "langName": "braccia incrociate",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175556789.webp"
   },
   {
     "displayName": "arms_at_sides",
     "langName": "mani giù",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175609687.webp"
   },
   {
     "displayName": "arm_at_side",
     "langName": "Appendere una mano verso il basso",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175622234.webp"
   },
   {
     "displayName": "arms_behind_back",
     "langName": "mani dietro la schiena",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175634829.webp"
   },
   {
     "displayName": "arms_behind_head",
     "langName": "Tieni la testa con le mani",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175647169.webp"
   },
   {
     "displayName": "arm_behind_head",
     "langName": "mani dietro la testa",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175659736.webp"
   },
   {
     "displayName": "arm_behind_back",
     "langName": "Metti una mano dietro la schiena",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260212075132956.webp"
   },
   {
     "displayName": "hands_clasped",
     "langName": "Dita incrociate di entrambe le mani | Mani serrate",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
   },
   {
     "displayName": "interlocked_fingers",
     "langName": "mani giunte",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175736751.webp"
   },
   {
     "displayName": "arm_support",
     "langName": "sostenere con le mani",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175748994.webp"
   },
   {
     "displayName": "arm_above_head",
     "langName": "mani sulla testa",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260213094908585.webp"
   },
   {
     "displayName": "outstretched_arms",
     "langName": "allungare le braccia",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175813007.webp"
   },
   {
     "displayName": "hands_in_opposite_sleeves",
     "langName": "Incrocia le mani e mettile nelle maniche",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
   },
   {
     "displayName": "v_arms",
     "langName": "Fai una V con entrambe le braccia",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175838045.webp"
   },
   {
     "displayName": "w_arms",
     "langName": "Braccia in posizione W",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175850840.webp"
   },
   {
     "displayName": "sharp_fingernails",
     "langName": "unghie affilate",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
   },
   {
     "displayName": "spread_fingers",
     "langName": "allarga le dita",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175916068.webp"
   },
   {
     "displayName": "trigger_discipline",
     "langName": "Nessun dito sul grilletto",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175928974.webp"
   },
   {
     "displayName": "w",
     "langName": "Dito che W",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175941737.webp"
   },
   {
     "displayName": "bound_arms",
     "langName": "Le braccia sono legate",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211175955270.webp"
   },
   {
     "displayName": "extra_arms",
     "langName": "più braccia",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180008191.webp"
   },
   {
     "displayName": "locked_arms",
     "langName": "Tenendo le braccia",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180021217.webp"
   },
   {
     "displayName": "convenient_arm",
     "langName": "Coprendo le parti chiave delle braccia",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180033673.webp"
   },
   {
     "displayName": "arm_cannon",
     "langName": "cannone a mano",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180046505.webp"
   },
   {
     "displayName": "arm_ribbon",
     "langName": "nastro del braccio",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180058970.webp"
   },
   {
     "displayName": "arm_held_back",
     "langName": "Tirare indietro le braccia",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180112475.webp"
   },
   {
     "displayName": "hugging_own_legs",
     "langName": "Abbraccia le tue gambe",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180124920.webp"
   },
   {
     "displayName": "trembling",
     "langName": "tremare",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180137998.webp"
   },
   {
     "displayName": "rolleyes",
     "langName": "Alza gli occhi al cielo",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180150675.webp"
   },
   {
     "displayName": "clenched hand",
     "langName": "pugno chiuso",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180203512.webp"
   },
   {
     "displayName": "covering_xx",
     "langName": "coprire xx",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
   },
   {
     "displayName": "double piece pose",
     "langName": "Mani segno V",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260212075155741.webp"
   },
   {
     "displayName": "hands in hair",
     "langName": "pettinare i capelli con le mani",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180240957.webp"
   },
   {
     "displayName": "hidden hands",
     "langName": "nascondi le mani",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180253482.webp"
   },
   {
     "displayName": "open hands",
     "langName": "mani aperte",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180305978.webp"
   },
   {
     "displayName": "own hands clasped",
     "langName": "mani giunte insieme",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180318354.webp"
   },
   {
     "displayName": "own hands together",
     "langName": "mani unite",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180330982.webp"
   },
   {
     "displayName": "peace sign",
     "langName": "Mani di forbice",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180343460.webp"
   },
   {
     "displayName": "presenting armpit",
     "langName": "mostrare le ascelle",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180356051.webp"
   },
   {
     "displayName": "spread arms",
     "langName": "braccia aperte",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180408733.webp"
   },
   {
     "displayName": "tying hair",
     "langName": "legare i capelli",
     "object": "Azione",
-    "attribute": "Movimenti delle mani",
+    "attribute": "Pose delle braccia",
     "preview": "https://img.aishort.top/imgprompt/20260211180421654.webp"
   },
   {
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "doppia_v",
+    "langName": "doppia v",
     "object": "Azione",
     "attribute": "Gesti",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -13763,14 +13763,14 @@
   },
   {
     "displayName": ":d",
-    "langName": "Sorriso felice_:D😀",
+    "langName": "Sorriso felice",
     "object": "Espressione",
     "attribute": "Risata",
     "preview": "https://img.aishort.top/imgprompt/20260211195749422.webp"
   },
   {
     "displayName": ";d",
-    "langName": "Occhiolino e sorridi_:D",
+    "langName": "Occhiolino e sorridi",
     "object": "Espressione",
     "attribute": "Risata",
     "preview": "https://img.aishort.top/imgprompt/20260211195810245.webp"
@@ -14093,7 +14093,7 @@
   },
   {
     "displayName": "sulking",
-    "langName": "arrabbiato_imbronciato",
+    "langName": "imbronciato",
     "object": "Espressione",
     "attribute": "Rabbia",
     "preview": "https://img.aishort.top/imgprompt/20260213103708924.webp"
@@ -14751,7 +14751,7 @@
   },
   {
     "displayName": "obi",
-    "langName": "Indumenti (e vestiario)",
+    "langName": "Obi (fascia del kimono)",
     "object": "Abbigliamento",
     "attribute": "Stile di abbigliamento",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -20763,7 +20763,7 @@
   },
   {
     "displayName": "pumps",
-    "langName": "Abito scollato con tacchi alti",
+    "langName": "Décolleté",
     "object": "Abbigliamento",
     "attribute": "Scarpe",
     "preview": "https://img.aishort.top/imgprompt/20260213164252308.webp"
@@ -23941,7 +23941,7 @@
   },
   {
     "displayName": "One shoulder bag",
-    "langName": "borsa a tracolla",
+    "langName": "borsa a spalla",
     "object": "Accessori",
     "attribute": "Borse e cinture",
     "preview": "https://img.aishort.top/imgprompt/20260214014509390.webp"
@@ -24074,7 +24074,7 @@
   },
   {
     "displayName": "Aerial View",
-    "langName": "vista dall'alto",
+    "langName": "vista aerea",
     "object": "Fotografia",
     "attribute": "Prospettiva",
     "preview": "https://img.aishort.top/imgprompt/20260214023207316.webp"
@@ -26735,14 +26735,14 @@
   },
   {
     "displayName": "lightblue",
-    "langName": "azzurro chiaro",
+    "langName": "blu chiaro",
     "object": "Atmosfera cromatica",
     "attribute": "Toni chiari",
     "preview": "https://img.aishort.top/imgprompt/20260224220333904.webp"
   },
   {
     "displayName": "powderblue",
-    "langName": "azzurro polvere",
+    "langName": "blu polvere",
     "object": "Atmosfera cromatica",
     "attribute": "Toni chiari",
     "preview": "https://img.aishort.top/imgprompt/20260224220347304.webp"
@@ -26756,7 +26756,7 @@
   },
   {
     "displayName": "paleturquoise",
-    "langName": "ciano chiaro",
+    "langName": "turchese pallido",
     "object": "Atmosfera cromatica",
     "attribute": "Toni chiari",
     "preview": "https://img.aishort.top/imgprompt/20260224220418876.webp"
@@ -27176,7 +27176,7 @@
   },
   {
     "displayName": "darkcyan",
-    "langName": "Verde acqua",
+    "langName": "ciano scuro",
     "object": "Atmosfera cromatica",
     "attribute": "Colori spettrali",
     "preview": "https://img.aishort.top/imgprompt/20260224221915905.webp"
@@ -27204,21 +27204,21 @@
   },
   {
     "displayName": "aquamarine",
-    "langName": "turchese",
+    "langName": "acquamarina",
     "object": "Atmosfera cromatica",
     "attribute": "Colori spettrali",
     "preview": "https://img.aishort.top/imgprompt/20260224222012509.webp"
   },
   {
     "displayName": "lightcyan",
-    "langName": "blu",
+    "langName": "ciano chiaro",
     "object": "Atmosfera cromatica",
     "attribute": "Colori spettrali",
     "preview": "https://img.aishort.top/imgprompt/20260224222026323.webp"
   },
   {
     "displayName": "cyan",
-    "langName": "turchese",
+    "langName": "ciano",
     "object": "Atmosfera cromatica",
     "attribute": "Colori spettrali",
     "preview": "https://img.aishort.top/imgprompt/20260224222040633.webp"
@@ -27624,7 +27624,7 @@
   },
   {
     "displayName": "Supplementary-Colors",
-    "langName": "colori complementari",
+    "langName": "colori supplementari",
     "object": "Atmosfera cromatica",
     "attribute": "Palette di colori",
     "preview": "https://img.aishort.top/imgprompt/20260224223528366.webp"
@@ -27919,7 +27919,7 @@
   },
   {
     "displayName": "HSV",
-    "langName": "Tonalità, saturazione, luminosità",
+    "langName": "Tonalità, saturazione, valore",
     "object": "Atmosfera cromatica",
     "attribute": "Palette dei monitor",
     "preview": "https://img.aishort.top/imgprompt/20260224224548087.webp"
@@ -27933,7 +27933,7 @@
   },
   {
     "displayName": "HCL",
-    "langName": "Tonalità, croma, illuminazione",
+    "langName": "Tonalità, croma, luminanza",
     "object": "Atmosfera cromatica",
     "attribute": "Palette dei monitor",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
@@ -28073,7 +28073,7 @@
   },
   {
     "displayName": "Kinemacolor",
-    "langName": "colore della pellicola",
+    "langName": "Kinemacolor",
     "object": "Atmosfera cromatica",
     "attribute": "Produzione cinematografica",
     "preview": "https://img.aishort.top/imgprompt/20260224225130563.webp"
@@ -28087,7 +28087,7 @@
   },
   {
     "displayName": "Cinecolor",
-    "langName": "colore del film",
+    "langName": "Cinecolor",
     "object": "Atmosfera cromatica",
     "attribute": "Produzione cinematografica",
     "preview": "https://img.aishort.top/imgprompt/20260224225201683.webp"
@@ -31776,7 +31776,7 @@
   },
   {
     "displayName": "Fountain Pen",
-    "langName": "penna",
+    "langName": "penna stilografica",
     "object": "Tipo di immagine",
     "attribute": "Inchiostro",
     "preview": "https://img.aishort.top/imgprompt/20260225010527552.webp"

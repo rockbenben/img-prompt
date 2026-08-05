@@ -2907,7 +2907,7 @@
   },
   {
     "displayName": "hollow_eyes",
-    "langName": "pupil berbentuk bintang",
+    "langName": "mata tanpa cahaya",
     "object": "Tokoh",
     "attribute": "Mata",
     "preview": "https://img.aishort.top/imgprompt/20260211141950217.webp"
@@ -3229,7 +3229,7 @@
   },
   {
     "displayName": "blue_pupils",
-    "langName": "Pupil oranye",
+    "langName": "Pupil biru",
     "object": "Tokoh",
     "attribute": "Pupil",
     "preview": "https://img.aishort.top/imgprompt/20260211143024647.webp"
@@ -4684,7 +4684,7 @@
   },
   {
     "displayName": "crop_top_overhang",
-    "langName": "Crop top menggantung",
+    "langName": "Juntaian crop top",
     "object": "Lingkungan",
     "attribute": "Latar Belakang",
     "preview": "https://img.aishort.top/imgprompt/20260225095914537.webp"
@@ -10923,406 +10923,406 @@
     "displayName": "grabbing",
     "langName": "menangkap | memegang",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211182746767.webp"
   },
   {
     "displayName": "arm_grab",
     "langName": "mencengkeram lengan",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211182801016.webp"
   },
   {
     "displayName": "hair_grab",
     "langName": "menjambak rambut",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211182815653.webp"
   },
   {
     "displayName": "leg_grab",
     "langName": "memegang kaki",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211182830383.webp"
   },
   {
     "displayName": "wrist_grab",
     "langName": "memegang pergelangan tangan",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211182844025.webp"
   },
   {
     "displayName": "hands_on_another's",
     "langName": "Menaruh tangan di wajah orang lain",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
     "langName": "Menaruh tangan di pipi satu sama lain",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
     "langName": "Menaruh tangan di bahu orang lain",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
   },
   {
     "displayName": "hands_on_own_chest",
     "langName": "Menaruh tangan di dada",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211182940481.webp"
   },
   {
     "displayName": "hands_on_own_face",
     "langName": "Menaruh tangan di wajah",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211182954450.webp"
   },
   {
     "displayName": "hands_on_own_cheeks",
     "langName": "Menaruh tangan di pipi",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183008227.webp"
   },
   {
     "displayName": "hands_on_own_head",
     "langName": "Menaruh tangan di kepala",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183022984.webp"
   },
   {
     "displayName": "hands_on_own_knees",
     "langName": "Menaruh tangan di lutut",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183037077.webp"
   },
   {
     "displayName": "hands_on_own_stomach",
     "langName": "Menaruh tangan di perut",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183050952.webp"
   },
   {
     "displayName": "hands_on_own_thighs",
     "langName": "Menaruh tangan di paha",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260317065619129.webp"
   },
   {
     "displayName": "hands_on_hips",
     "langName": "tangan di pinggul | tangan di pinggul",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260213094956459.webp"
   },
   {
     "displayName": "hands_on_lap",
     "langName": "Menaruh tangan di antara kaki",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183130992.webp"
   },
   {
     "displayName": "ass_grab",
     "langName": "memegang pantat",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183144840.webp"
   },
   {
     "displayName": "flat_chest_grab",
     "langName": "Memegang payudara kecil",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260317065640430.webp"
   },
   {
     "displayName": "grabbing_another's_ass",
     "langName": "Memegang pantat satu sama lain",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183204452.webp"
   },
   {
     "displayName": "grabbing_another's_hair",
     "langName": "Memegang rambut satu sama lain",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183218156.webp"
   },
   {
     "displayName": "grabbing_from_behind",
     "langName": "Memegang dada dari belakang",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
   },
   {
     "displayName": "grabbing_own_ass",
     "langName": "memegang pantat sendiri",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260212075317813.webp"
   },
   {
     "displayName": "thigh_grab",
     "langName": "Memegang paha",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260225084111877.webp"
   },
   {
     "displayName": "torso_grab",
     "langName": "mencengkeram tubuh",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260213095227366.webp"
   },
   {
     "displayName": "hands_on_ass",
     "langName": "Menaruh tangan di pantat",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260317092444164.webp"
   },
   {
     "displayName": "hands_on_feet",
     "langName": "Menaruh tangan di kaki",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260317092444169.webp"
   },
   {
     "displayName": "hands_on_headwear",
     "langName": "Menyentuh hiasan di kepala dengan kedua tangan",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
     "langName": "Menaruh tangan di gagang pisau",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
   },
   {
     "displayName": "necktie_grab",
     "langName": "Memegang dasi",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183430733.webp"
   },
   {
     "displayName": "neckwear_grab",
     "langName": "Mencengkeram pakaian di sekitar leher",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
   },
   {
     "displayName": "pillow_grab",
     "langName": "Menggenggam bantal",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183459740.webp"
   },
   {
     "displayName": "sheet_grab",
     "langName": "mencengkeram seprai",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183513700.webp"
   },
   {
     "displayName": "tail_grab",
     "langName": "memegang ekor",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183527324.webp"
   },
   {
     "displayName": "breast lift",
     "langName": "Memegang payudara dengan tangan",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260317093139915.webp"
   },
   {
     "displayName": "hand between legs",
     "langName": "Tangan di antara kaki",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183554596.webp"
   },
   {
     "displayName": "hand_in_another's_hair",
     "langName": "Menaruh tangan di rambut orang lain",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
   },
   {
     "displayName": "hand_in_hair",
     "langName": "tangan membenamkan di rambut",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183624075.webp"
   },
   {
     "displayName": "hand_in_pocket",
     "langName": "tangan di saku",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183638062.webp"
   },
   {
     "displayName": "hand_on_another's",
     "langName": "Tangan menyentuh wajah orang lain",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183651733.webp"
   },
   {
     "displayName": "hand_on_another's_cheek",
     "langName": "Tangan menyentuh pipi satu sama lain",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183705492.webp"
   },
   {
     "displayName": "hand_on_another's_chest",
     "langName": "Menaruh tangan di dada orang lain",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183718013.webp"
   },
   {
     "displayName": "hand_on_another's_chin",
     "langName": "Memegang dagu orang lain dengan tangan",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
   },
   {
     "displayName": "hand_on_another's_head",
     "langName": "Menaruh tangan di kepala orang lain",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183743006.webp"
   },
   {
     "displayName": "hand_on_another's_shoulder",
     "langName": "Menaruh tangan di bahu orang lain",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183755722.webp"
   },
   {
     "displayName": "hand_on_another's_stomach",
     "langName": "Menaruh tangan di perut orang lain",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
   },
   {
     "displayName": "hand_on_ass",
     "langName": "tangan di pantat",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183820817.webp"
   },
   {
     "displayName": "hand_on_head",
     "langName": "tangan di kepala",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183833258.webp"
   },
   {
     "displayName": "hand_on_headwear",
     "langName": "tangan menyentuh topi",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183845740.webp"
   },
   {
     "displayName": "hand_on_hilt",
     "langName": "Tangan bersandar di gagang pisau",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
   },
   {
     "displayName": "hand_on_hip",
     "langName": "tangan di pinggul | tangan di pinggul",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183911177.webp"
   },
   {
     "displayName": "hand_on_own",
     "langName": "Menaruh tangan di wajah",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183923564.webp"
   },
   {
     "displayName": "hand_on_own_cheek",
     "langName": "Menaruh tangan di pipi",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183936115.webp"
   },
   {
     "displayName": "hand_on_own_chest",
     "langName": "Menaruh tangan di dada",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260212075434682.webp"
   },
   {
     "displayName": "hand_on_own_chin",
     "langName": "Tangan menyentuh dagunya",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211184000337.webp"
   },
   {
     "displayName": "hand_on_own_stomach",
     "langName": "Menaruh tangan di perut",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260212075648271.webp"
   },
   {
     "displayName": "hand_on_shoulder",
     "langName": "tangan di bahu",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211184024343.webp"
   },
   {
     "displayName": "leg hold",
     "langName": "Memegang kaki dengan tangan",
     "object": "Aksi",
-    "attribute": "Tangan (diletakkan di suatu tempat)",
+    "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211184036829.webp"
   },
   {
@@ -13763,14 +13763,14 @@
   },
   {
     "displayName": ":d",
-    "langName": "Senyum bahagia_:D😀",
+    "langName": "Senyum bahagia",
     "object": "Ekspresi",
     "attribute": "Tawa",
     "preview": "https://img.aishort.top/imgprompt/20260211195749422.webp"
   },
   {
     "displayName": ";d",
-    "langName": "Mengedip dan tersenyum_:D",
+    "langName": "Mengedip dan tersenyum",
     "object": "Ekspresi",
     "attribute": "Tawa",
     "preview": "https://img.aishort.top/imgprompt/20260211195810245.webp"
@@ -14093,7 +14093,7 @@
   },
   {
     "displayName": "sulking",
-    "langName": "marah_merajuk",
+    "langName": "merajuk",
     "object": "Ekspresi",
     "attribute": "Marah",
     "preview": "https://img.aishort.top/imgprompt/20260213103708924.webp"
@@ -14751,7 +14751,7 @@
   },
   {
     "displayName": "obi",
-    "langName": "Pakaian (dan busana)",
+    "langName": "Obi (sabuk kimono)",
     "object": "Pakaian",
     "attribute": "Gaya Pakaian",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -20763,7 +20763,7 @@
   },
   {
     "displayName": "pumps",
-    "langName": "Gaun berpotongan rendah dengan sepatu hak tinggi",
+    "langName": "Sepatu pump",
     "object": "Pakaian",
     "attribute": "Sepatu",
     "preview": "https://img.aishort.top/imgprompt/20260213164252308.webp"
@@ -21003,238 +21003,238 @@
     "displayName": "wide_sleeves",
     "langName": "lengan lebar",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213174402264.webp"
   },
   {
     "displayName": "single_sleeve",
     "langName": "lengan tunggal",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213174421142.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
     "langName": "lengan asimetris",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213174433704.webp"
   },
   {
     "displayName": "puffy_sleeves",
     "langName": "lengan bervolume",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213174452709.webp"
   },
   {
     "displayName": "puffy_long_sleeves",
     "langName": "lengan panjang bervolume",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213174505622.webp"
   },
   {
     "displayName": "puffy_short_sleeves",
     "langName": "lengan pendek bervolume",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
   },
   {
     "displayName": "frilled_sleeves",
     "langName": "tepi lengan berenda",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213174936053.webp"
   },
   {
     "displayName": "juliet_sleeves",
     "langName": "lengan Juliet",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260225105600224.webp"
   },
   {
     "displayName": "bandaged_arm",
     "langName": "lengan diperban",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175209308.webp"
   },
   {
     "displayName": "raglan_sleeves",
     "langName": "lengan Raglan",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175222011.webp"
   },
   {
     "displayName": "vambraces",
     "langName": "pelindung lengan bawah",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175234968.webp"
   },
   {
     "displayName": "layered_sleeves",
     "langName": "lengan berlapis",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175248597.webp"
   },
   {
     "displayName": "fur-trimmed_sleeves",
     "langName": "lengan tepi mentah",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175301700.webp"
   },
   {
     "displayName": "see-through_sleeves",
     "langName": "lengan transparan",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175314655.webp"
   },
   {
     "displayName": "torn_sleeves",
     "langName": "lengan robek",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175327401.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "lengan lebih panjang dari jari",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
     "langName": "lengan di atas pergelangan tangan",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175353319.webp"
   },
   {
     "displayName": "sleeves_past_elbows",
     "langName": "lengan di atas siku",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175608643.webp"
   },
   {
     "displayName": "sleeves_pushed_up",
     "langName": "lengan didorong ke atas",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175621831.webp"
   },
   {
     "displayName": "arm_out_of_sleeve",
     "langName": "lengan di dalam lengan baju",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175635409.webp"
   },
   {
     "displayName": "uneven_sleeves",
     "langName": "lengan tidak rata",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175647988.webp"
   },
   {
     "displayName": "mismatched_sleeves",
     "langName": "lengan tidak serasi",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175701248.webp"
   },
   {
     "displayName": "sleeve_rolled_up",
     "langName": "lengan digulung",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
     "langName": "satu lengan digulung",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175726967.webp"
   },
   {
     "displayName": "feather-trimmed_sleeves",
     "langName": "lengan berumbai bulu",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213175941889.webp"
   },
   {
     "displayName": "lace-trimmed_sleeves",
     "langName": "lengan berenda",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213180156786.webp"
   },
   {
     "displayName": "pinching_sleeves",
     "langName": "jepit lengan baju Anda",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213180210307.webp"
   },
   {
     "displayName": "puffy_detached_sleeves",
     "langName": "lengan bervolume",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213180223059.webp"
   },
   {
     "displayName": "ribbed_sleeves",
     "langName": "lengan berusuk",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
   },
   {
     "displayName": "single_detached_sleeve",
     "langName": "lengan yang tersisa di satu sisi",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213180855076.webp"
   },
   {
     "displayName": "sleeves_folded_up",
     "langName": "lengan terlipat",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213181110146.webp"
   },
   {
     "displayName": "striped_sleeves",
     "langName": "lengan bergaris",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213181123268.webp"
   },
   {
     "displayName": "armband",
     "langName": "ban lengan",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
   },
   {
     "displayName": "armlet",
     "langName": "gelang lengan",
     "object": "Pakaian",
-    "attribute": "Lengan",
+    "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213190711002.webp"
   },
   {
@@ -24074,14 +24074,14 @@
   },
   {
     "displayName": "Aerial View",
-    "langName": "Tampilan udara",
+    "langName": "pandangan udara",
     "object": "Fotografi",
     "attribute": "Perspektif",
     "preview": "https://img.aishort.top/imgprompt/20260214023207316.webp"
   },
   {
     "displayName": "Top-View",
-    "langName": "Tampilan atas",
+    "langName": "tampak atas",
     "object": "Fotografi",
     "attribute": "Perspektif",
     "preview": "https://img.aishort.top/imgprompt/20260214023423183.webp"
@@ -26219,168 +26219,168 @@
     "displayName": "Transparent",
     "langName": "transparan",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224210545565.webp"
   },
   {
     "displayName": "Translucent",
     "langName": "tembus cahaya",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224210800718.webp"
   },
   {
     "displayName": "Opaque",
     "langName": "buram",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224210814362.webp"
   },
   {
     "displayName": "Rough",
     "langName": "kasar",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224210828738.webp"
   },
   {
     "displayName": "Matte",
     "langName": "dof",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224210842440.webp"
   },
   {
     "displayName": "Glossy",
     "langName": "kilau",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224210855666.webp"
   },
   {
     "displayName": "smooth",
     "langName": "halus",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224211112706.webp"
   },
   {
     "displayName": "Shiny",
     "langName": "berkilau",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224211127584.webp"
   },
   {
     "displayName": "Reflective",
     "langName": "reflektif",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224211141551.webp"
   },
   {
     "displayName": "Polished",
     "langName": "polesan",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224211358630.webp"
   },
   {
     "displayName": "Shadows",
     "langName": "bayangan",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224211614929.webp"
   },
   {
     "displayName": "Shimmer",
     "langName": "kerlipan",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224211830714.webp"
   },
   {
     "displayName": "Shimmering",
     "langName": "berkilauan",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224212046910.webp"
   },
   {
     "displayName": "Caustics",
     "langName": "kaustik",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224212303506.webp"
   },
   {
     "displayName": "Refractive",
     "langName": "refraksi",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224212519913.webp"
   },
   {
     "displayName": "reflection light",
     "langName": "pantulan cahaya",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224212736462.webp"
   },
   {
     "displayName": "Ray Tracing Reflections",
     "langName": "refleksi pelacakan sinar",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224212952871.webp"
   },
   {
     "displayName": "Lumen Reflections",
     "langName": "refleksi lumen",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224213208810.webp"
   },
   {
     "displayName": "Screen Space Reflections",
     "langName": "refleksi ruang layar",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224213425137.webp"
   },
   {
     "displayName": "ray tracing",
     "langName": "pelacakan sinar",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224213641871.webp"
   },
   {
     "displayName": "Ambient Occlusion",
     "langName": "oklusi ambien",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224213859041.webp"
   },
   {
     "displayName": "Scattering",
     "langName": "hamburan",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224214116698.webp"
   },
   {
     "displayName": "Diffraction Grading",
     "langName": "kisi difraksi",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224214535915.webp"
   },
   {
     "displayName": "RGB Displacement",
     "langName": "pergeseran RGB",
     "object": "Efek cahaya dan bayangan",
-    "attribute": "Refleksi/Refraksi",
+    "attribute": "Properti Material",
     "preview": "https://img.aishort.top/imgprompt/20260224214552526.webp"
   },
   {
@@ -26742,7 +26742,7 @@
   },
   {
     "displayName": "powderblue",
-    "langName": "biru bedak",
+    "langName": "biru puder",
     "object": "Suasana Warna",
     "attribute": "Warna Terang",
     "preview": "https://img.aishort.top/imgprompt/20260224220347304.webp"
@@ -26756,7 +26756,7 @@
   },
   {
     "displayName": "paleturquoise",
-    "langName": "sian terang",
+    "langName": "pirus pucat",
     "object": "Suasana Warna",
     "attribute": "Warna Terang",
     "preview": "https://img.aishort.top/imgprompt/20260224220418876.webp"
@@ -27155,7 +27155,7 @@
   },
   {
     "displayName": "darkblue",
-    "langName": "biru gelap",
+    "langName": "biru tua",
     "object": "Suasana Warna",
     "attribute": "Warna Spektral",
     "preview": "https://img.aishort.top/imgprompt/20260224221832342.webp"
@@ -27176,7 +27176,7 @@
   },
   {
     "displayName": "darkcyan",
-    "langName": "Teal",
+    "langName": "sian tua",
     "object": "Suasana Warna",
     "attribute": "Warna Spektral",
     "preview": "https://img.aishort.top/imgprompt/20260224221915905.webp"
@@ -27204,21 +27204,21 @@
   },
   {
     "displayName": "aquamarine",
-    "langName": "turkuois",
+    "langName": "akuamarin",
     "object": "Suasana Warna",
     "attribute": "Warna Spektral",
     "preview": "https://img.aishort.top/imgprompt/20260224222012509.webp"
   },
   {
     "displayName": "lightcyan",
-    "langName": "biru",
+    "langName": "sian muda",
     "object": "Suasana Warna",
     "attribute": "Warna Spektral",
     "preview": "https://img.aishort.top/imgprompt/20260224222026323.webp"
   },
   {
     "displayName": "cyan",
-    "langName": "turkuois",
+    "langName": "sian",
     "object": "Suasana Warna",
     "attribute": "Warna Spektral",
     "preview": "https://img.aishort.top/imgprompt/20260224222040633.webp"
@@ -27624,7 +27624,7 @@
   },
   {
     "displayName": "Supplementary-Colors",
-    "langName": "Warna komplementer",
+    "langName": "Warna suplementer",
     "object": "Suasana Warna",
     "attribute": "Palet warna",
     "preview": "https://img.aishort.top/imgprompt/20260224223528366.webp"
@@ -27919,7 +27919,7 @@
   },
   {
     "displayName": "HSV",
-    "langName": "Rona, saturasi, ringan",
+    "langName": "Rona, saturasi, nilai",
     "object": "Suasana Warna",
     "attribute": "Palet warna monitor",
     "preview": "https://img.aishort.top/imgprompt/20260224224548087.webp"
@@ -27933,7 +27933,7 @@
   },
   {
     "displayName": "HCL",
-    "langName": "Rona, kroma, iluminasi",
+    "langName": "Rona, kroma, luminans",
     "object": "Suasana Warna",
     "attribute": "Palet warna monitor",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
@@ -28073,7 +28073,7 @@
   },
   {
     "displayName": "Kinemacolor",
-    "langName": "Warna film",
+    "langName": "Kinemacolor",
     "object": "Suasana Warna",
     "attribute": "Produksi film",
     "preview": "https://img.aishort.top/imgprompt/20260224225130563.webp"
@@ -28087,7 +28087,7 @@
   },
   {
     "displayName": "Cinecolor",
-    "langName": "Warna film",
+    "langName": "Cinecolor",
     "object": "Suasana Warna",
     "attribute": "Produksi film",
     "preview": "https://img.aishort.top/imgprompt/20260224225201683.webp"
@@ -28124,35 +28124,35 @@
     "displayName": "Bump Map",
     "langName": "Peta tonjolan",
     "object": "Bahan",
-    "attribute": "Peta",
+    "attribute": "Peta Tekstur",
     "preview": "https://img.aishort.top/imgprompt/20260224225344573.webp"
   },
   {
     "displayName": "Bump Mapped",
     "langName": "Dengan peta tonjolan",
     "object": "Bahan",
-    "attribute": "Peta",
+    "attribute": "Peta Tekstur",
     "preview": "https://img.aishort.top/imgprompt/20260224225400692.webp"
   },
   {
     "displayName": "Bump Mapping",
     "langName": "Pemetaan tonjolan",
     "object": "Bahan",
-    "attribute": "Peta",
+    "attribute": "Peta Tekstur",
     "preview": "https://img.aishort.top/imgprompt/20260224225415653.webp"
   },
   {
     "displayName": "Normal Map",
     "langName": "peta normal",
     "object": "Bahan",
-    "attribute": "Peta",
+    "attribute": "Peta Tekstur",
     "preview": "https://img.aishort.top/imgprompt/20260224225432546.webp"
   },
   {
     "displayName": "Depth Map",
     "langName": "peta kedalaman",
     "object": "Bahan",
-    "attribute": "Peta",
+    "attribute": "Peta Tekstur",
     "preview": "https://img.aishort.top/imgprompt/20260224225447643.webp"
   },
   {
@@ -30189,147 +30189,147 @@
     "displayName": "Fungi",
     "langName": "jamur",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225000902602.webp"
   },
   {
     "displayName": "Mushrooms",
     "langName": "jamur",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225000920028.webp"
   },
   {
     "displayName": "Mycelium",
     "langName": "miselium",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225000934335.webp"
   },
   {
     "displayName": "Moldy",
     "langName": "berjamur",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225000950611.webp"
   },
   {
     "displayName": "Lactarius-Indigo",
     "langName": "jamur susu indigo",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001006384.webp"
   },
   {
     "displayName": "Latticed-Stinkhorn",
     "langName": "Jamur bau bertangkai jaring",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001021630.webp"
   },
   {
     "displayName": "Clathrus-Ruber",
     "langName": "Rhodococcus",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001036116.webp"
   },
   {
     "displayName": "Laccaria-Amethystina",
     "langName": "jamur ungu",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001052173.webp"
   },
   {
     "displayName": "Entoloma-Hochstetteri",
     "langName": "Powderygophyllum holophylla",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001107659.webp"
   },
   {
     "displayName": "Clavaria-Zollingeri",
     "langName": "jamur karang ungu",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001123325.webp"
   },
   {
     "displayName": "Chlorociboria",
     "langName": "jamur hijau",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001139570.webp"
   },
   {
     "displayName": "Golden-Scruffy-Collybia",
     "langName": "Jamur Kaki Gagak Emas",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260317125532956.webp"
   },
   {
     "displayName": "Cyptotrama-Asprata",
     "langName": "jamur kaki gergaji kriptik",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260317125542896.webp"
   },
   {
     "displayName": "Mycena Acicula",
     "langName": "Phallophyllum acuminata",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001231425.webp"
   },
   {
     "displayName": "Hygrocybe-Cantharellus",
     "langName": "jamur berkaki merah kuning-cokelat",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001252601.webp"
   },
   {
     "displayName": "Amanita-Muscaria",
     "langName": "Amanita merah dan putih",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001309984.webp"
   },
   {
     "displayName": "Favolaschia-Calocera",
     "langName": "jamur jari orangutan",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001333847.webp"
   },
   {
     "displayName": "Marasmius-Haematocephalus",
     "langName": "jamur berkepala merah",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001348763.webp"
   },
   {
     "displayName": "Cystoagaricus-Trisulphuratus",
     "langName": "jamur trisulfat",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001403668.webp"
   },
   {
     "displayName": "Tremella-Mesenterica",
     "langName": "Xanthomonas",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001419657.webp"
   },
   {
     "displayName": "Tremella-Fuciformis",
     "langName": "Tremella",
     "object": "Bahan",
-    "attribute": "Bakteri & Jamur",
+    "attribute": "Jamur",
     "preview": "https://img.aishort.top/imgprompt/20260225001434385.webp"
   },
   {
@@ -30384,945 +30384,945 @@
   {
     "displayName": "Point",
     "langName": "titik",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260317125622840.webp"
   },
   {
     "displayName": "Dot",
     "langName": "titik",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225001648256.webp"
   },
   {
     "displayName": "Line",
     "langName": "Garis",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225001701560.webp"
   },
   {
     "displayName": "Curve",
     "langName": "kurva",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225001719200.webp"
   },
   {
     "displayName": "Bezier Curve",
     "langName": "kurva Bezier",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260317125632465.webp"
   },
   {
     "displayName": "Triangle",
     "langName": "segitiga",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225001751586.webp"
   },
   {
     "displayName": "Square",
     "langName": "persegi",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225001807806.webp"
   },
   {
     "displayName": "Pentagon",
     "langName": "segilima",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225001823638.webp"
   },
   {
     "displayName": "Hexagon",
     "langName": "segienam",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225001837829.webp"
   },
   {
     "displayName": "Hexagonal",
     "langName": "Heksagonal",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225001854127.webp"
   },
   {
     "displayName": "Heptagon",
     "langName": "segitujuh",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225001914291.webp"
   },
   {
     "displayName": "Octagon",
     "langName": "segidelapan",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225001926820.webp"
   },
   {
     "displayName": "Nonagon",
     "langName": "segisembilan",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225001939367.webp"
   },
   {
     "displayName": "Decagon",
     "langName": "segisepuluh",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225001952286.webp"
   },
   {
     "displayName": "Rectangle",
     "langName": "persegi panjang",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225002005291.webp"
   },
   {
     "displayName": "Rectangular",
     "langName": "Persegi panjang",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225002020029.webp"
   },
   {
     "displayName": "Parallelogram",
     "langName": "jajar genjang",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225002034684.webp"
   },
   {
     "displayName": "Rhombus",
     "langName": "belah ketupat",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225002048358.webp"
   },
   {
     "displayName": "Heart",
     "langName": "Hati",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225002101003.webp"
   },
   {
     "displayName": "Spirangle",
     "langName": "spiral",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk",
     "preview": "https://img.aishort.top/imgprompt/20260225002113662.webp"
   },
   {
     "displayName": "Cube",
     "langName": "kubus",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002127316.webp"
   },
   {
     "displayName": "Cuboid",
     "langName": "balok",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002140434.webp"
   },
   {
     "displayName": "Sphere",
     "langName": "bola",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002154295.webp"
   },
   {
     "displayName": "Cone",
     "langName": "kerucut",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002209873.webp"
   },
   {
     "displayName": "Cylinder",
     "langName": "silinder",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002224773.webp"
   },
   {
     "displayName": "Pyramid",
     "langName": "piramida",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002240031.webp"
   },
   {
     "displayName": "Torus",
     "langName": "torus",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002254551.webp"
   },
   {
     "displayName": "Rectangular Prism",
     "langName": "prisma siku-siku",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002310105.webp"
   },
   {
     "displayName": "Star Prism",
     "langName": "prisma bintang",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002323623.webp"
   },
   {
     "displayName": "Wedge",
     "langName": "Baji",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002337795.webp"
   },
   {
     "displayName": "Zonohedron",
     "langName": "Polihedron",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002353504.webp"
   },
   {
     "displayName": "Tetrahedron",
     "langName": "tetrahedron",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002408261.webp"
   },
   {
     "displayName": "Octahedron",
     "langName": "oktahedron",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002421259.webp"
   },
   {
     "displayName": "Dodecahedron",
     "langName": "Dodekahedron",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002435064.webp"
   },
   {
     "displayName": "Icosahedron",
     "langName": "ikosahedron",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002450070.webp"
   },
   {
     "displayName": "Kepler-Poinsot Polyhedra",
     "langName": "Polihedron titik Kepler",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002502267.webp"
   },
   {
     "displayName": "Cuboctahedron",
     "langName": "Kuboktahedron",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002515961.webp"
   },
   {
     "displayName": "Rhombicuboctahedron",
     "langName": "Kuboktahedron rombik",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002531621.webp"
   },
   {
     "displayName": "Icosidodecahedron",
     "langName": "Ikosahedron",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002547086.webp"
   },
   {
     "displayName": "Rhombicosidodecahedron",
     "langName": "Ikosahedron rombik",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002559328.webp"
   },
   {
     "displayName": "Trapezohedron",
     "langName": "Badan trapesium",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002611910.webp"
   },
   {
     "displayName": "Cupola",
     "langName": "Kubah",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002624860.webp"
   },
   {
     "displayName": "Anticupola",
     "langName": "Kubah terbalik",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002637534.webp"
   },
   {
     "displayName": "Hypercupolae",
     "langName": "Kubah super",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002653816.webp"
   },
   {
     "displayName": "Bicupola",
     "langName": "Kubah ganda",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002709584.webp"
   },
   {
     "displayName": "Frustum",
     "langName": "Kerucut terpancung",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002725220.webp"
   },
   {
     "displayName": "Bifrustum",
     "langName": "Frustum ganda",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002740853.webp"
   },
   {
     "displayName": "Rotunda",
     "langName": "Rotunda",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002756804.webp"
   },
   {
     "displayName": "Birotunda",
     "langName": "Rotunda Ganda",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002809431.webp"
   },
   {
     "displayName": "Prismatoid",
     "langName": "Prisma",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002824251.webp"
   },
   {
     "displayName": "Scutoid",
     "langName": "Polihedron bersisik",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002837306.webp"
   },
   {
     "displayName": "Bipyramid",
     "langName": "Kerucut ganda",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002850494.webp"
   },
   {
     "displayName": "Star Bipyramid",
     "langName": "Kerucut ganda bintang",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002904338.webp"
   },
   {
     "displayName": "Anti-Prism",
     "langName": "Antiprisma",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002918169.webp"
   },
   {
     "displayName": "Trapezohedra",
     "langName": "Kerucut trapesium",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002931727.webp"
   },
   {
     "displayName": "Star Trapezohedron",
     "langName": "Kerucut trapesium bintang",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002945269.webp"
   },
   {
     "displayName": "Spherical polyhedron",
     "langName": "Polihedron sferis",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002957718.webp"
   },
   {
     "displayName": "Mobius strip",
     "langName": "Pita Möbius",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225003010574.webp"
   },
   {
     "displayName": "Hexaflexagon",
     "langName": "Kardus heksagonal",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225003023844.webp"
   },
   {
     "displayName": "Miura fold",
     "langName": "Lipatan Miura",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260317080039422.webp"
   },
   {
     "displayName": "Hypercube",
     "langName": "Hiperkubus",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003040457.webp"
   },
   {
     "displayName": "Hyperprism",
     "langName": "Prisma super",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003055122.webp"
   },
   {
     "displayName": "Hyperpyramid",
     "langName": "Piramida super",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003109109.webp"
   },
   {
     "displayName": "Hypertorus",
     "langName": "Hipertorus",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003121717.webp"
   },
   {
     "displayName": "Hypersphere",
     "langName": "Hiposfer",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003136681.webp"
   },
   {
     "displayName": "Hypercone",
     "langName": "Hiperkerucut",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003151169.webp"
   },
   {
     "displayName": "Hypercylinder",
     "langName": "Hipertabung",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003210079.webp"
   },
   {
     "displayName": "Hyperzonohedron",
     "langName": "Polihedron super",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003229194.webp"
   },
   {
     "displayName": "Hypertetrahedron",
     "langName": "Hipertetrahedron",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003242504.webp"
   },
   {
     "displayName": "Hyperoctahedron",
     "langName": "Hiperoktahedron",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003258039.webp"
   },
   {
     "displayName": "Hyperdodecahedron",
     "langName": "Hiperdodekahedron",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003313806.webp"
   },
   {
     "displayName": "Hypericosahedron",
     "langName": "Hiperikosahedron",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003328264.webp"
   },
   {
     "displayName": "Flexible Polyhedron",
     "langName": "Polihedron elastis",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003341494.webp"
   },
   {
     "displayName": "Klein bottle",
     "langName": "Botol Klein",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003355111.webp"
   },
   {
     "displayName": "Monogon",
     "langName": "Hedron",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003407817.webp"
   },
   {
     "displayName": "Digon",
     "langName": "Dihedron",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Bentuk super",
     "preview": "https://img.aishort.top/imgprompt/20260225003423861.webp"
   },
   {
     "displayName": "AR",
     "langName": "Realitas tertambah",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003436353.webp"
   },
   {
     "displayName": "VR",
     "langName": "Realitas virtual",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003450517.webp"
   },
   {
     "displayName": "2-Dimensional",
     "langName": "Dua dimensi",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003503523.webp"
   },
   {
     "displayName": "2D",
     "langName": "2D",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003517597.webp"
   },
   {
     "displayName": "2.5-Dimensional",
     "langName": "2.5 dimensi",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003530065.webp"
   },
   {
     "displayName": "2.5D",
     "langName": "2.5D",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003546536.webp"
   },
   {
     "displayName": "3-Dimensional",
     "langName": "Tiga dimensi",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003559620.webp"
   },
   {
     "displayName": "3D",
     "langName": "3D",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003613094.webp"
   },
   {
     "displayName": "4-Dimensional",
     "langName": "Empat dimensi",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003625943.webp"
   },
   {
     "displayName": "4D",
     "langName": "4D",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003640503.webp"
   },
   {
     "displayName": "5-Dimensional",
     "langName": "lima dimensi",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003653264.webp"
   },
   {
     "displayName": "5D",
     "langName": "5D",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003707609.webp"
   },
   {
     "displayName": "Overdimensional",
     "langName": "hiperdimensi",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003720889.webp"
   },
   {
     "displayName": "Underdimensional",
     "langName": "dimensi kedua",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003736660.webp"
   },
   {
     "displayName": "Hyperdimensional",
     "langName": "hiperdimensionalitas",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003749551.webp"
   },
   {
     "displayName": "Subdimensional",
     "langName": "dimensi sekunder",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003809121.webp"
   },
   {
     "displayName": "Omnidimensional",
     "langName": "dimensi penuh",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003823515.webp"
   },
   {
     "displayName": "Everdimensional",
     "langName": "dimensi abadi",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003836946.webp"
   },
   {
     "displayName": "Extradimensional",
     "langName": "Dimensi Berbeda",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003849661.webp"
   },
   {
     "displayName": "Beyond-Dimensional",
     "langName": "melampaui dimensi",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003903819.webp"
   },
   {
     "displayName": "Excessively-dimensional",
     "langName": "dimensionalitas berlebihan",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003917272.webp"
   },
   {
     "displayName": "Alldimensional",
     "langName": "dimensi penuh",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003932407.webp"
   },
   {
     "displayName": "Multiverse",
     "langName": "multiverse",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003944859.webp"
   },
   {
     "displayName": "Low Poly",
     "langName": "pemodelan poligon rendah",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Gaya",
     "preview": "https://img.aishort.top/imgprompt/20260225003957184.webp"
   },
   {
     "displayName": "Geometric",
     "langName": "geometris",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Gaya",
     "preview": "https://img.aishort.top/imgprompt/20260225004009120.webp"
   },
   {
     "displayName": "Non-Euclidian",
     "langName": "Non-Euklides",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Gaya",
     "preview": "https://img.aishort.top/imgprompt/20260225004022234.webp"
   },
   {
     "displayName": "Poly",
     "langName": "Poli",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Gaya",
     "preview": "https://img.aishort.top/imgprompt/20260225004035491.webp"
   },
   {
     "displayName": "Polygon",
     "langName": "poligon",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Gaya",
     "preview": "https://img.aishort.top/imgprompt/20260225004049585.webp"
   },
   {
     "displayName": "Polygonal",
     "langName": "poligonal",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Gaya",
     "preview": "https://img.aishort.top/imgprompt/20260225004103043.webp"
   },
   {
     "displayName": "Polyhedron",
     "langName": "polihedron",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Gaya",
     "preview": "https://img.aishort.top/imgprompt/20260225004116487.webp"
   },
   {
     "displayName": "Polyhedral",
     "langName": "polihedral",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Gaya",
     "preview": "https://img.aishort.top/imgprompt/20260225004129113.webp"
   },
   {
     "displayName": "Platonic Solids",
     "langName": "Padatan Platonis",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Gaya",
     "preview": "https://img.aishort.top/imgprompt/20260225004142601.webp"
   },
   {
     "displayName": "Archimedean Solids",
     "langName": "Padatan Archimedean",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Gaya",
     "preview": "https://img.aishort.top/imgprompt/20260225004154997.webp"
   },
   {
     "displayName": "Catalan solids",
     "langName": "Padatan Catalan",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Gaya",
     "preview": "https://img.aishort.top/imgprompt/20260225004213839.webp"
   },
   {
     "displayName": "Array",
     "langName": "serangkaian",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Atribut Struktural",
     "preview": "https://img.aishort.top/imgprompt/20260225004227381.webp"
   },
   {
     "displayName": "Thick",
     "langName": "tebal",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Atribut Struktural",
     "preview": "https://img.aishort.top/imgprompt/20260225091801001.webp"
   },
   {
     "displayName": "Flexible",
     "langName": "Fleksibel",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Atribut Struktural",
     "preview": "https://img.aishort.top/imgprompt/20260225004304932.webp"
   },
   {
     "displayName": "Vertex",
     "langName": "titik sudut",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004319879.webp"
   },
   {
     "displayName": "Edge",
     "langName": "rusuk",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004335931.webp"
   },
   {
     "displayName": "Surface",
     "langName": "permukaan",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004351465.webp"
   },
   {
     "displayName": "Interior",
     "langName": "interior",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004403628.webp"
   },
   {
     "displayName": "Exterior",
     "langName": "eksterior",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004418860.webp"
   },
   {
     "displayName": "Convex",
     "langName": "cembung",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004433806.webp"
   },
   {
     "displayName": "Concave",
     "langName": "cekung",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004446011.webp"
   },
   {
     "displayName": "Equiangular",
     "langName": "ekuangular",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004458378.webp"
   },
   {
     "displayName": "Equilateral",
     "langName": "ekuilateral",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004512848.webp"
   },
   {
     "displayName": "Cyclic",
     "langName": "siklis",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004525059.webp"
   },
   {
     "displayName": "Tangential",
     "langName": "tangensial",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004539372.webp"
   },
   {
     "displayName": "Rectilinear",
     "langName": "rektilinear",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004552798.webp"
   },
   {
     "displayName": "Traverse",
     "langName": "melintasi",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004605836.webp"
   },
   {
     "displayName": "Quasi",
     "langName": "kuasi",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004618449.webp"
   },
   {
     "displayName": "Quasi-Regular",
     "langName": "kuasi-reguler",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004630788.webp"
   },
   {
     "displayName": "Isogonal",
     "langName": "isogonal",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004643952.webp"
   },
   {
     "displayName": "Isotoxal",
     "langName": "isotoksal",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004703355.webp"
   },
   {
     "displayName": "Isohedral",
     "langName": "isohedral",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004720817.webp"
   },
   {
     "displayName": "Stellation",
     "langName": "stelasi",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004733028.webp"
   },
   {
     "displayName": "Ehrhart Polynomial",
     "langName": "Polinomial Ehrhart",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004759911.webp"
   },
   {
     "displayName": "Ideal polyhedron",
     "langName": "polihedron ideal",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004820319.webp"
   },
   {
     "displayName": "Polytope",
     "langName": "politop",
-    "object": "Komposisi Geometris",
+    "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004835943.webp"
   },
@@ -31776,7 +31776,7 @@
   },
   {
     "displayName": "Fountain Pen",
-    "langName": "pena",
+    "langName": "pena tinta",
     "object": "Jenis gambar",
     "attribute": "Tinta",
     "preview": "https://img.aishort.top/imgprompt/20260225010527552.webp"
@@ -33710,154 +33710,154 @@
     "displayName": "Massive Scale",
     "langName": "skala besar",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021412442.webp"
   },
   {
     "displayName": "Massive",
     "langName": "Sangat banyak",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021424661.webp"
   },
   {
     "displayName": "Huge",
     "langName": "raksasa",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021436915.webp"
   },
   {
     "displayName": "Large",
     "langName": "besar",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021449153.webp"
   },
   {
     "displayName": "Big",
     "langName": "besar",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021501425.webp"
   },
   {
     "displayName": "Mini",
     "langName": "mini",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021513495.webp"
   },
   {
     "displayName": "Tiny",
     "langName": "kecil",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021525298.webp"
   },
   {
     "displayName": "Micro",
     "langName": "mikroskopis",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021537484.webp"
   },
   {
     "displayName": "Nano",
     "langName": "nanometer",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021549402.webp"
   },
   {
     "displayName": "ultra-high definition",
     "langName": "definisi ultra tinggi",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021601485.webp"
   },
   {
     "displayName": "4k",
     "langName": "4k",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021613507.webp"
   },
   {
     "displayName": "8K",
     "langName": "8K",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225092105100.webp"
   },
   {
     "displayName": "16k",
     "langName": "16k",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021635791.webp"
   },
   {
     "displayName": "32k",
     "langName": "32k",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021647649.webp"
   },
   {
     "displayName": "Full-HD",
     "langName": "Full HD",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021659453.webp"
   },
   {
     "displayName": "HD",
     "langName": "HD",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021715675.webp"
   },
   {
     "displayName": "Ultra-HD",
     "langName": "definisi ultra tinggi",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021731398.webp"
   },
   {
     "displayName": "Super-Resolution",
     "langName": "resolusi super",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021746855.webp"
   },
   {
     "displayName": "Megapixel",
     "langName": "megapiksel",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021759053.webp"
   },
   {
     "displayName": "absurdres",
     "langName": "resolusi ultra tinggi",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021811240.webp"
   },
   {
     "displayName": "incredibly absurdres",
     "langName": "resolusi sangat tinggi",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021823301.webp"
   },
   {
     "displayName": "huge filesize",
     "langName": "Resolusi super tinggi/file besar",
     "object": "Pasca-Pemrosesan",
-    "attribute": "Resolusi",
+    "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021835252.webp"
   },
   {

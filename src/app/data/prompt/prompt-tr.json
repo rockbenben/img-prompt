@@ -2907,7 +2907,7 @@
   },
   {
     "displayName": "hollow_eyes",
-    "langName": "yıldız şeklindeki öğrenciler",
+    "langName": "donuk gözler",
     "object": "Karakter",
     "attribute": "Göz",
     "preview": "https://img.aishort.top/imgprompt/20260211141950217.webp"
@@ -3229,7 +3229,7 @@
   },
   {
     "displayName": "blue_pupils",
-    "langName": "turuncu gözbebekleri",
+    "langName": "mavi gözbebekleri",
     "object": "Karakter",
     "attribute": "Göz bebeği",
     "preview": "https://img.aishort.top/imgprompt/20260211143024647.webp"
@@ -4684,7 +4684,7 @@
   },
   {
     "displayName": "crop_top_overhang",
-    "langName": "Kırpılmış üst çıkıntısı",
+    "langName": "Crop top sarkması",
     "object": "Çevre",
     "attribute": "Arka plan",
     "preview": "https://img.aishort.top/imgprompt/20260225095914537.webp"
@@ -5384,7 +5384,7 @@
   },
   {
     "displayName": "lunar",
-    "langName": "ay, _ay;",
+    "langName": "aya ait",
     "object": "Çevre",
     "attribute": "Gökyüzü",
     "preview": "https://img.aishort.top/imgprompt/20260211153840964.webp"
@@ -9873,301 +9873,301 @@
     "displayName": "arms_up",
     "langName": "Elinizi kaldırın",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175530980.webp"
   },
   {
     "displayName": "arms_crossed",
     "langName": "eller göğüste çaprazlanmış",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175543922.webp"
   },
   {
     "displayName": "crossed_arms",
     "langName": "çapraz kollar",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175556789.webp"
   },
   {
     "displayName": "arms_at_sides",
     "langName": "kesinlikle",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175609687.webp"
   },
   {
     "displayName": "arm_at_side",
     "langName": "Bir elini aşağı sarkıtarak",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175622234.webp"
   },
   {
     "displayName": "arms_behind_back",
     "langName": "elleriniz arkanızda",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175634829.webp"
   },
   {
     "displayName": "arms_behind_head",
     "langName": "Başını ellerinle tut",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175647169.webp"
   },
   {
     "displayName": "arm_behind_head",
     "langName": "eller başın arkasında",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175659736.webp"
   },
   {
     "displayName": "arm_behind_back",
     "langName": "Bir elinizi arkanıza koyun",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260212075132956.webp"
   },
   {
     "displayName": "hands_clasped",
     "langName": "Her iki elin parmakları çapraz | Eller kenetlendi",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
   },
   {
     "displayName": "interlocked_fingers",
     "langName": "eller kenetlenmiş",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175736751.webp"
   },
   {
     "displayName": "arm_support",
     "langName": "elleriyle destek",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175748994.webp"
   },
   {
     "displayName": "arm_above_head",
     "langName": "eller başın üstünde",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260213094908585.webp"
   },
   {
     "displayName": "outstretched_arms",
     "langName": "kollarını uzatmak",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175813007.webp"
   },
   {
     "displayName": "hands_in_opposite_sleeves",
     "langName": "Ellerinizi çaprazlayın ve kollarınızın içine koyun",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
   },
   {
     "displayName": "v_arms",
     "langName": "Her iki kolla V yapın",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175838045.webp"
   },
   {
     "displayName": "w_arms",
     "langName": "Kollar W pozisyonunda",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175850840.webp"
   },
   {
     "displayName": "sharp_fingernails",
     "langName": "keskin tırnaklar",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
   },
   {
     "displayName": "spread_fingers",
     "langName": "parmaklarını aç",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175916068.webp"
   },
   {
     "displayName": "trigger_discipline",
     "langName": "Tetiğe basan parmak yok",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175928974.webp"
   },
   {
     "displayName": "w",
     "langName": "Parmak W'den daha büyük",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175941737.webp"
   },
   {
     "displayName": "bound_arms",
     "langName": "Kollar bağlı",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175955270.webp"
   },
   {
     "displayName": "extra_arms",
     "langName": "birden fazla kol",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180008191.webp"
   },
   {
     "displayName": "locked_arms",
     "langName": "Silah tutmak",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180021217.webp"
   },
   {
     "displayName": "convenient_arm",
     "langName": "Kolların önemli kısımlarını kaplayan",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180033673.webp"
   },
   {
     "displayName": "arm_cannon",
     "langName": "el topu",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180046505.webp"
   },
   {
     "displayName": "arm_ribbon",
     "langName": "kol kurdelesi",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180058970.webp"
   },
   {
     "displayName": "arm_held_back",
     "langName": "Kolları geri çekin",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180112475.webp"
   },
   {
     "displayName": "hugging_own_legs",
     "langName": "Bacaklarını kucakla",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180124920.webp"
   },
   {
     "displayName": "trembling",
     "langName": "titremek",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180137998.webp"
   },
   {
     "displayName": "rolleyes",
     "langName": "Gözlerini devir",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180150675.webp"
   },
   {
     "displayName": "clenched hand",
     "langName": "sıkılmış yumruk",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180203512.webp"
   },
   {
     "displayName": "covering_xx",
     "langName": "kapak xx",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
   },
   {
     "displayName": "double piece pose",
     "langName": "Eller V işareti",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260212075155741.webp"
   },
   {
     "displayName": "hands in hair",
     "langName": "ellerle saç taramak",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180240957.webp"
   },
   {
     "displayName": "hidden hands",
     "langName": "ellerini sakla",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180253482.webp"
   },
   {
     "displayName": "open hands",
     "langName": "açık eller",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180305978.webp"
   },
   {
     "displayName": "own hands clasped",
     "langName": "eller birbirine kenetlenmiş",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180318354.webp"
   },
   {
     "displayName": "own hands together",
     "langName": "eller bir arada",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180330982.webp"
   },
   {
     "displayName": "peace sign",
     "langName": "Makas Eller",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180343460.webp"
   },
   {
     "displayName": "presenting armpit",
     "langName": "koltuk altlarını göster",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180356051.webp"
   },
   {
     "displayName": "spread arms",
     "langName": "açık kollar",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180408733.webp"
   },
   {
     "displayName": "tying hair",
     "langName": "saç bağlamak",
     "object": "Hareket",
-    "attribute": "El Hareketleri",
+    "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211180421654.webp"
   },
   {
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "çift_v",
+    "langName": "çift v",
     "object": "Hareket",
     "attribute": "El İşaretleri",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -13763,14 +13763,14 @@
   },
   {
     "displayName": ":d",
-    "langName": "Mutlu gülümseme_:D😀",
+    "langName": "Mutlu gülümseme",
     "object": "İfade",
     "attribute": "Gülme",
     "preview": "https://img.aishort.top/imgprompt/20260211195749422.webp"
   },
   {
     "displayName": ";d",
-    "langName": "Göz kırp ve gülümse_:D",
+    "langName": "Göz kırp ve gülümse",
     "object": "İfade",
     "attribute": "Gülme",
     "preview": "https://img.aishort.top/imgprompt/20260211195810245.webp"
@@ -14093,7 +14093,7 @@
   },
   {
     "displayName": "sulking",
-    "langName": "kızgın_somurtkan",
+    "langName": "somurtkan",
     "object": "İfade",
     "attribute": "Sinirli",
     "preview": "https://img.aishort.top/imgprompt/20260213103708924.webp"
@@ -14751,7 +14751,7 @@
   },
   {
     "displayName": "obi",
-    "langName": "Giysiler (ve giyim eşyaları)",
+    "langName": "Obi (kimono kuşağı)",
     "object": "Giyim",
     "attribute": "Giyim tarzı",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -20763,7 +20763,7 @@
   },
   {
     "displayName": "pumps",
-    "langName": "Yüksek topuklu ayakkabılarla düşük kesim elbise",
+    "langName": "Klasik topuklu ayakkabı",
     "object": "Giyim",
     "attribute": "Ayakkabı",
     "preview": "https://img.aishort.top/imgprompt/20260213164252308.webp"
@@ -21003,238 +21003,238 @@
     "displayName": "wide_sleeves",
     "langName": "geniş kollu",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213174402264.webp"
   },
   {
     "displayName": "single_sleeve",
     "langName": "tek kollu",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213174421142.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
     "langName": "asimetrik kollar",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213174433704.webp"
   },
   {
     "displayName": "puffy_sleeves",
     "langName": "kabarık kollu",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213174452709.webp"
   },
   {
     "displayName": "puffy_long_sleeves",
     "langName": "kabarık uzun kollu",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213174505622.webp"
   },
   {
     "displayName": "puffy_short_sleeves",
     "langName": "kabarık kısa kollu",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
   },
   {
     "displayName": "frilled_sleeves",
     "langName": "fırfırlı kol kenarları",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213174936053.webp"
   },
   {
     "displayName": "juliet_sleeves",
     "langName": "Juliet kolları",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260225105600224.webp"
   },
   {
     "displayName": "bandaged_arm",
     "langName": "kol bandajlı",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175209308.webp"
   },
   {
     "displayName": "raglan_sleeves",
     "langName": "Raglan kollu",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175222011.webp"
   },
   {
     "displayName": "vambraces",
     "langName": "Alt kol zırhı",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175234968.webp"
   },
   {
     "displayName": "layered_sleeves",
     "langName": "katmanlı kollar",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175248597.webp"
   },
   {
     "displayName": "fur-trimmed_sleeves",
     "langName": "ham kenarlı kollar",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175301700.webp"
   },
   {
     "displayName": "see-through_sleeves",
     "langName": "Şeffaf kollar",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175314655.webp"
   },
   {
     "displayName": "torn_sleeves",
     "langName": "yırtık kollar",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175327401.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "Kollar parmaklardan uzun",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
     "langName": "Bileğin üstündeki kollar",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175353319.webp"
   },
   {
     "displayName": "sleeves_past_elbows",
     "langName": "Dirsek üstü kollar",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175608643.webp"
   },
   {
     "displayName": "sleeves_pushed_up",
     "langName": "kolları yukarı itilmiş",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175621831.webp"
   },
   {
     "displayName": "arm_out_of_sleeve",
     "langName": "kollar kollarda",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175635409.webp"
   },
   {
     "displayName": "uneven_sleeves",
     "langName": "eşit olmayan kollar",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175647988.webp"
   },
   {
     "displayName": "mismatched_sleeves",
     "langName": "uyumsuz kollar",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175701248.webp"
   },
   {
     "displayName": "sleeve_rolled_up",
     "langName": "kollar sıvanmış",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
     "langName": "Bir kol kıvrılmış",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175726967.webp"
   },
   {
     "displayName": "feather-trimmed_sleeves",
     "langName": "Tüylerle süslenmiş kollar",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213175941889.webp"
   },
   {
     "displayName": "lace-trimmed_sleeves",
     "langName": "dantel kollu",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213180156786.webp"
   },
   {
     "displayName": "pinching_sleeves",
     "langName": "Kollarını sıkıştır",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213180210307.webp"
   },
   {
     "displayName": "puffy_detached_sleeves",
     "langName": "kabarık kollu",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213180223059.webp"
   },
   {
     "displayName": "ribbed_sleeves",
     "langName": "nervürlü kollar",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
   },
   {
     "displayName": "single_detached_sleeve",
     "langName": "Bir tarafta kalan kol",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213180855076.webp"
   },
   {
     "displayName": "sleeves_folded_up",
     "langName": "katlanmış kollar",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213181110146.webp"
   },
   {
     "displayName": "striped_sleeves",
     "langName": "çizgili kollar",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213181123268.webp"
   },
   {
     "displayName": "armband",
     "langName": "kol bandı (kol bandı)",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
   },
   {
     "displayName": "armlet",
     "langName": "kol bileziği",
     "object": "Giyim",
-    "attribute": "Kol",
+    "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213190711002.webp"
   },
   {
@@ -24074,7 +24074,7 @@
   },
   {
     "displayName": "Aerial View",
-    "langName": "üstten görünüm",
+    "langName": "havadan görünüm",
     "object": "Fotoğrafçılık",
     "attribute": "Perspektif",
     "preview": "https://img.aishort.top/imgprompt/20260214023207316.webp"
@@ -26219,168 +26219,168 @@
     "displayName": "Transparent",
     "langName": "şeffaf",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224210545565.webp"
   },
   {
     "displayName": "Translucent",
     "langName": "yarı saydam",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224210800718.webp"
   },
   {
     "displayName": "Opaque",
     "langName": "opak",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224210814362.webp"
   },
   {
     "displayName": "Rough",
     "langName": "kaba ",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224210828738.webp"
   },
   {
     "displayName": "Matte",
     "langName": "mat",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224210842440.webp"
   },
   {
     "displayName": "Glossy",
     "langName": "parlaklık",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224210855666.webp"
   },
   {
     "displayName": "smooth",
     "langName": "düz",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224211112706.webp"
   },
   {
     "displayName": "Shiny",
     "langName": "parlak",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224211127584.webp"
   },
   {
     "displayName": "Reflective",
     "langName": "Yansıtıcı",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224211141551.webp"
   },
   {
     "displayName": "Polished",
     "langName": "parlatma",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224211358630.webp"
   },
   {
     "displayName": "Shadows",
     "langName": "gölge",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224211614929.webp"
   },
   {
     "displayName": "Shimmer",
     "langName": "parıltı",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224211830714.webp"
   },
   {
     "displayName": "Shimmering",
     "langName": "köpüklü",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224212046910.webp"
   },
   {
     "displayName": "Caustics",
     "langName": "Kostikler",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224212303506.webp"
   },
   {
     "displayName": "Refractive",
     "langName": "refraksiyon",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224212519913.webp"
   },
   {
     "displayName": "reflection light",
     "langName": "ışık yansıması",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224212736462.webp"
   },
   {
     "displayName": "Ray Tracing Reflections",
     "langName": "Işın izlenen yansımalar",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224212952871.webp"
   },
   {
     "displayName": "Lumen Reflections",
     "langName": "Lümen yansıması",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224213208810.webp"
   },
   {
     "displayName": "Screen Space Reflections",
     "langName": "ekran alanı yansıması",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224213425137.webp"
   },
   {
     "displayName": "ray tracing",
     "langName": "Işın izleme",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224213641871.webp"
   },
   {
     "displayName": "Ambient Occlusion",
     "langName": "ortam tıkanıklığı",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224213859041.webp"
   },
   {
     "displayName": "Scattering",
     "langName": "saçılma",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224214116698.webp"
   },
   {
     "displayName": "Diffraction Grading",
     "langName": "kırınım ızgarası",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224214535915.webp"
   },
   {
     "displayName": "RGB Displacement",
     "langName": "RGB kayması",
     "object": "Işık ve gölge efektleri",
-    "attribute": "Yansıma/Kırılma",
+    "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224214552526.webp"
   },
   {
@@ -26742,7 +26742,7 @@
   },
   {
     "displayName": "powderblue",
-    "langName": "toz mavi",
+    "langName": "pudra mavisi",
     "object": "Renk Atmosferi",
     "attribute": "Açık Tonlar",
     "preview": "https://img.aishort.top/imgprompt/20260224220347304.webp"
@@ -26756,7 +26756,7 @@
   },
   {
     "displayName": "paleturquoise",
-    "langName": "açık camgöbeği",
+    "langName": "soluk turkuaz",
     "object": "Renk Atmosferi",
     "attribute": "Açık Tonlar",
     "preview": "https://img.aishort.top/imgprompt/20260224220418876.webp"
@@ -27176,7 +27176,7 @@
   },
   {
     "displayName": "darkcyan",
-    "langName": "Turkuaz",
+    "langName": "koyu camgöbeği",
     "object": "Renk Atmosferi",
     "attribute": "Spektral Renkler",
     "preview": "https://img.aishort.top/imgprompt/20260224221915905.webp"
@@ -27204,21 +27204,21 @@
   },
   {
     "displayName": "aquamarine",
-    "langName": "turkuaz",
+    "langName": "akuamarin",
     "object": "Renk Atmosferi",
     "attribute": "Spektral Renkler",
     "preview": "https://img.aishort.top/imgprompt/20260224222012509.webp"
   },
   {
     "displayName": "lightcyan",
-    "langName": "mavi",
+    "langName": "açık camgöbeği",
     "object": "Renk Atmosferi",
     "attribute": "Spektral Renkler",
     "preview": "https://img.aishort.top/imgprompt/20260224222026323.webp"
   },
   {
     "displayName": "cyan",
-    "langName": "turkuaz",
+    "langName": "camgöbeği",
     "object": "Renk Atmosferi",
     "attribute": "Spektral Renkler",
     "preview": "https://img.aishort.top/imgprompt/20260224222040633.webp"
@@ -27624,7 +27624,7 @@
   },
   {
     "displayName": "Supplementary-Colors",
-    "langName": "tamamlayıcı renkler",
+    "langName": "ek renkler",
     "object": "Renk Atmosferi",
     "attribute": "Renk paleti",
     "preview": "https://img.aishort.top/imgprompt/20260224223528366.webp"
@@ -27772,7 +27772,7 @@
   },
   {
     "displayName": "spot_color",
-    "langName": "düz renk",
+    "langName": "spot renk",
     "object": "Renk Atmosferi",
     "attribute": "Monokrom palet",
     "preview": "https://img.aishort.top/imgprompt/20260224224025193.webp"
@@ -27919,21 +27919,21 @@
   },
   {
     "displayName": "HSV",
-    "langName": "Renk tonu, doygunluk, açıklık",
+    "langName": "Renk tonu, doygunluk, değer",
     "object": "Renk Atmosferi",
     "attribute": "Monitör renk paleti",
     "preview": "https://img.aishort.top/imgprompt/20260224224548087.webp"
   },
   {
     "displayName": "HSL",
-    "langName": "Renk tonu, doygunluk, parlaklık",
+    "langName": "Renk tonu, doygunluk, açıklık",
     "object": "Renk Atmosferi",
     "attribute": "Monitör renk paleti",
     "preview": "https://img.aishort.top/imgprompt/20260224224601439.webp"
   },
   {
     "displayName": "HCL",
-    "langName": "Renk tonu, renk parlaklığı, aydınlatma",
+    "langName": "Renk tonu, kroma, parlaklık",
     "object": "Renk Atmosferi",
     "attribute": "Monitör renk paleti",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
@@ -28073,7 +28073,7 @@
   },
   {
     "displayName": "Kinemacolor",
-    "langName": "film rengi",
+    "langName": "Kinemacolor",
     "object": "Renk Atmosferi",
     "attribute": "Film prodüksiyonu",
     "preview": "https://img.aishort.top/imgprompt/20260224225130563.webp"
@@ -28087,7 +28087,7 @@
   },
   {
     "displayName": "Cinecolor",
-    "langName": "film rengi",
+    "langName": "Cinecolor",
     "object": "Renk Atmosferi",
     "attribute": "Film prodüksiyonu",
     "preview": "https://img.aishort.top/imgprompt/20260224225201683.webp"
@@ -28124,35 +28124,35 @@
     "displayName": "Bump Map",
     "langName": "Çarpma haritası",
     "object": "Malzeme",
-    "attribute": "Harita",
+    "attribute": "Doku Haritaları",
     "preview": "https://img.aishort.top/imgprompt/20260224225344573.webp"
   },
   {
     "displayName": "Bump Mapped",
     "langName": "Çarpma haritası ile",
     "object": "Malzeme",
-    "attribute": "Harita",
+    "attribute": "Doku Haritaları",
     "preview": "https://img.aishort.top/imgprompt/20260224225400692.webp"
   },
   {
     "displayName": "Bump Mapping",
     "langName": "Çarpma haritalaması",
     "object": "Malzeme",
-    "attribute": "Harita",
+    "attribute": "Doku Haritaları",
     "preview": "https://img.aishort.top/imgprompt/20260224225415653.webp"
   },
   {
     "displayName": "Normal Map",
     "langName": "normal harita",
     "object": "Malzeme",
-    "attribute": "Harita",
+    "attribute": "Doku Haritaları",
     "preview": "https://img.aishort.top/imgprompt/20260224225432546.webp"
   },
   {
     "displayName": "Depth Map",
     "langName": "Derinlik haritası",
     "object": "Malzeme",
-    "attribute": "Harita",
+    "attribute": "Doku Haritaları",
     "preview": "https://img.aishort.top/imgprompt/20260224225447643.webp"
   },
   {
@@ -30189,147 +30189,147 @@
     "displayName": "Fungi",
     "langName": "mantar",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225000902602.webp"
   },
   {
     "displayName": "Mushrooms",
     "langName": "mantar",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225000920028.webp"
   },
   {
     "displayName": "Mycelium",
     "langName": "hifler",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225000934335.webp"
   },
   {
     "displayName": "Moldy",
     "langName": "küflü",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225000950611.webp"
   },
   {
     "displayName": "Lactarius-Indigo",
     "langName": "Çivit Süt Mantarı",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001006384.webp"
   },
   {
     "displayName": "Latticed-Stinkhorn",
     "langName": "Kafes saplı mantar",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001021630.webp"
   },
   {
     "displayName": "Clathrus-Ruber",
     "langName": "Rodokok",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001036116.webp"
   },
   {
     "displayName": "Laccaria-Amethystina",
     "langName": "mor mantar",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001052173.webp"
   },
   {
     "displayName": "Entoloma-Hochstetteri",
     "langName": "Toz gophyllum holophylla",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001107659.webp"
   },
   {
     "displayName": "Clavaria-Zollingeri",
     "langName": "Mor mercan mantarı",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001123325.webp"
   },
   {
     "displayName": "Chlorociboria",
     "langName": "yeşil mantar",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001139570.webp"
   },
   {
     "displayName": "Golden-Scruffy-Collybia",
     "langName": "Altın Karga Ayağı Mantarı",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260317125532956.webp"
   },
   {
     "displayName": "Cyptotrama-Asprata",
     "langName": "gizli testere ayağı mantarı",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260317125542896.webp"
   },
   {
     "displayName": "Mycena Acicula",
     "langName": "Fallophyllum acuminata",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001231425.webp"
   },
   {
     "displayName": "Hygrocybe-Cantharellus",
     "langName": "Sarı-kahverengi kırmızı ayaklı mantar",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001252601.webp"
   },
   {
     "displayName": "Amanita-Muscaria",
     "langName": "Amanita kırmızı ve beyaz",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001309984.webp"
   },
   {
     "displayName": "Favolaschia-Calocera",
     "langName": "orangutan parmak mantarı",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001333847.webp"
   },
   {
     "displayName": "Marasmius-Haematocephalus",
     "langName": "kızıl saçlı mantar",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001348763.webp"
   },
   {
     "displayName": "Cystoagaricus-Trisulphuratus",
     "langName": "Trisülfat mantarı",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001403668.webp"
   },
   {
     "displayName": "Tremella-Mesenterica",
     "langName": "Ksantomonas",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001419657.webp"
   },
   {
     "displayName": "Tremella-Fuciformis",
     "langName": "Tremella",
     "object": "Malzeme",
-    "attribute": "Bakteriler",
+    "attribute": "Mantarlar",
     "preview": "https://img.aishort.top/imgprompt/20260225001434385.webp"
   },
   {
@@ -30384,945 +30384,945 @@
   {
     "displayName": "Point",
     "langName": "nokta",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260317125622840.webp"
   },
   {
     "displayName": "Dot",
     "langName": "nokta",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225001648256.webp"
   },
   {
     "displayName": "Line",
     "langName": "Tel",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225001701560.webp"
   },
   {
     "displayName": "Curve",
     "langName": "eğri",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225001719200.webp"
   },
   {
     "displayName": "Bezier Curve",
     "langName": "Bezier eğrisi",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260317125632465.webp"
   },
   {
     "displayName": "Triangle",
     "langName": "üçgen",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225001751586.webp"
   },
   {
     "displayName": "Square",
     "langName": "kare",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225001807806.webp"
   },
   {
     "displayName": "Pentagon",
     "langName": "Beşgen",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225001823638.webp"
   },
   {
     "displayName": "Hexagon",
     "langName": "altıgen",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225001837829.webp"
   },
   {
     "displayName": "Hexagonal",
     "langName": "altıgen",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225001854127.webp"
   },
   {
     "displayName": "Heptagon",
     "langName": "yedigen",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225001914291.webp"
   },
   {
     "displayName": "Octagon",
     "langName": "sekizgen",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225001926820.webp"
   },
   {
     "displayName": "Nonagon",
     "langName": "dokuzgen",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225001939367.webp"
   },
   {
     "displayName": "Decagon",
     "langName": "dekagon",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225001952286.webp"
   },
   {
     "displayName": "Rectangle",
     "langName": "dikdörtgen",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225002005291.webp"
   },
   {
     "displayName": "Rectangular",
     "langName": "Dikdörtgen",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225002020029.webp"
   },
   {
     "displayName": "Parallelogram",
     "langName": "paralelkenar",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225002034684.webp"
   },
   {
     "displayName": "Rhombus",
     "langName": "elmas",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225002048358.webp"
   },
   {
     "displayName": "Heart",
     "langName": "Kalp",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225002101003.webp"
   },
   {
     "displayName": "Spirangle",
     "langName": "sarmal",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225002113662.webp"
   },
   {
     "displayName": "Cube",
     "langName": "küp",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002127316.webp"
   },
   {
     "displayName": "Cuboid",
     "langName": "küboid",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002140434.webp"
   },
   {
     "displayName": "Sphere",
     "langName": "küre",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002154295.webp"
   },
   {
     "displayName": "Cone",
     "langName": "koni",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002209873.webp"
   },
   {
     "displayName": "Cylinder",
     "langName": "silindir",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002224773.webp"
   },
   {
     "displayName": "Pyramid",
     "langName": "piramit",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002240031.webp"
   },
   {
     "displayName": "Torus",
     "langName": "simit",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002254551.webp"
   },
   {
     "displayName": "Rectangular Prism",
     "langName": "dik açılı prizma",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002310105.webp"
   },
   {
     "displayName": "Star Prism",
     "langName": "yıldız prizması",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002323623.webp"
   },
   {
     "displayName": "Wedge",
     "langName": "Kama",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002337795.webp"
   },
   {
     "displayName": "Zonohedron",
     "langName": "Çokyüzlü",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002353504.webp"
   },
   {
     "displayName": "Tetrahedron",
     "langName": "tetrahedron",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002408261.webp"
   },
   {
     "displayName": "Octahedron",
     "langName": "sekiz yüzlü",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002421259.webp"
   },
   {
     "displayName": "Dodecahedron",
     "langName": "Dodekahedron",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002435064.webp"
   },
   {
     "displayName": "Icosahedron",
     "langName": "ikosahedron",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002450070.webp"
   },
   {
     "displayName": "Kepler-Poinsot Polyhedra",
     "langName": "Kepler noktası çokyüzlüsü",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002502267.webp"
   },
   {
     "displayName": "Cuboctahedron",
     "langName": "küboktahedron",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002515961.webp"
   },
   {
     "displayName": "Rhombicuboctahedron",
     "langName": "rombohedral küboktahedron",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002531621.webp"
   },
   {
     "displayName": "Icosidodecahedron",
     "langName": "ikosahedron",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002547086.webp"
   },
   {
     "displayName": "Rhombicosidodecahedron",
     "langName": "rombohedral ikosahedron",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002559328.webp"
   },
   {
     "displayName": "Trapezohedron",
     "langName": "trapez gövde",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002611910.webp"
   },
   {
     "displayName": "Cupola",
     "langName": "kubbe",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002624860.webp"
   },
   {
     "displayName": "Anticupola",
     "langName": "ters kubbe",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002637534.webp"
   },
   {
     "displayName": "Hypercupolae",
     "langName": "süper kubbe",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002653816.webp"
   },
   {
     "displayName": "Bicupola",
     "langName": "çift kubbe",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002709584.webp"
   },
   {
     "displayName": "Frustum",
     "langName": "kesik koni",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002725220.webp"
   },
   {
     "displayName": "Bifrustum",
     "langName": "çift konik gövde",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002740853.webp"
   },
   {
     "displayName": "Rotunda",
     "langName": "rotunda",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002756804.webp"
   },
   {
     "displayName": "Birotunda",
     "langName": "Çift rotunda",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002809431.webp"
   },
   {
     "displayName": "Prismatoid",
     "langName": "prizma",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002824251.webp"
   },
   {
     "displayName": "Scutoid",
     "langName": "pullu çokyüzlü",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002837306.webp"
   },
   {
     "displayName": "Bipyramid",
     "langName": "çift koni",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002850494.webp"
   },
   {
     "displayName": "Star Bipyramid",
     "langName": "yıldız çift koni",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002904338.webp"
   },
   {
     "displayName": "Anti-Prism",
     "langName": "Antiprizma",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002918169.webp"
   },
   {
     "displayName": "Trapezohedra",
     "langName": "yamuk koni",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002931727.webp"
   },
   {
     "displayName": "Star Trapezohedron",
     "langName": "yıldız yamuk koni",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002945269.webp"
   },
   {
     "displayName": "Spherical polyhedron",
     "langName": "küresel çokyüzlü",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002957718.webp"
   },
   {
     "displayName": "Mobius strip",
     "langName": "Möbius şeridi",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225003010574.webp"
   },
   {
     "displayName": "Hexaflexagon",
     "langName": "Altıgen karton",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225003023844.webp"
   },
   {
     "displayName": "Miura fold",
     "langName": "Miura katlanır",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260317080039422.webp"
   },
   {
     "displayName": "Hypercube",
     "langName": "hiperküp",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003040457.webp"
   },
   {
     "displayName": "Hyperprism",
     "langName": "süper prizma",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003055122.webp"
   },
   {
     "displayName": "Hyperpyramid",
     "langName": "süper piramit",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003109109.webp"
   },
   {
     "displayName": "Hypertorus",
     "langName": "hiper torus",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003121717.webp"
   },
   {
     "displayName": "Hypersphere",
     "langName": "Hiperküre",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003136681.webp"
   },
   {
     "displayName": "Hypercone",
     "langName": "Hiperkoni",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003151169.webp"
   },
   {
     "displayName": "Hypercylinder",
     "langName": "hiper silindir",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003210079.webp"
   },
   {
     "displayName": "Hyperzonohedron",
     "langName": "süper çokyüzlü",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003229194.webp"
   },
   {
     "displayName": "Hypertetrahedron",
     "langName": "Hipertetrahedron",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003242504.webp"
   },
   {
     "displayName": "Hyperoctahedron",
     "langName": "süperoktahedron",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003258039.webp"
   },
   {
     "displayName": "Hyperdodecahedron",
     "langName": "süperdodekahedron",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003313806.webp"
   },
   {
     "displayName": "Hypericosahedron",
     "langName": "Süperikosahedron",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003328264.webp"
   },
   {
     "displayName": "Flexible Polyhedron",
     "langName": "elastik çokyüzlü",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003341494.webp"
   },
   {
     "displayName": "Klein bottle",
     "langName": "Klein şişesi",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003355111.webp"
   },
   {
     "displayName": "Monogon",
     "langName": "Hedron",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003407817.webp"
   },
   {
     "displayName": "Digon",
     "langName": "dihedron",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Süper şekil",
     "preview": "https://img.aishort.top/imgprompt/20260225003423861.webp"
   },
   {
     "displayName": "AR",
     "langName": "Artırılmış gerçeklik",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003436353.webp"
   },
   {
     "displayName": "VR",
     "langName": "sanal gerçeklik",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003450517.webp"
   },
   {
     "displayName": "2-Dimensional",
     "langName": "iki boyutlu",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003503523.webp"
   },
   {
     "displayName": "2D",
     "langName": "2 boyutlu",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003517597.webp"
   },
   {
     "displayName": "2.5-Dimensional",
     "langName": "2,5 boyut",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003530065.webp"
   },
   {
     "displayName": "2.5D",
     "langName": "2,5D",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003546536.webp"
   },
   {
     "displayName": "3-Dimensional",
     "langName": "üç boyutlu",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003559620.webp"
   },
   {
     "displayName": "3D",
     "langName": "3 boyutlu",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003613094.webp"
   },
   {
     "displayName": "4-Dimensional",
     "langName": "dört boyutlu",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003625943.webp"
   },
   {
     "displayName": "4D",
     "langName": "4D",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003640503.webp"
   },
   {
     "displayName": "5-Dimensional",
     "langName": "beş boyut",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003653264.webp"
   },
   {
     "displayName": "5D",
     "langName": "5D",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003707609.webp"
   },
   {
     "displayName": "Overdimensional",
     "langName": "hiper boyutlu",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003720889.webp"
   },
   {
     "displayName": "Underdimensional",
     "langName": "ikinci boyut",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003736660.webp"
   },
   {
     "displayName": "Hyperdimensional",
     "langName": "hiper boyutluluk",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003749551.webp"
   },
   {
     "displayName": "Subdimensional",
     "langName": "ikincil boyut",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003809121.webp"
   },
   {
     "displayName": "Omnidimensional",
     "langName": "tam boyut",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003823515.webp"
   },
   {
     "displayName": "Everdimensional",
     "langName": "ebedi boyut",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003836946.webp"
   },
   {
     "displayName": "Extradimensional",
     "langName": "Farklı boyut",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003849661.webp"
   },
   {
     "displayName": "Beyond-Dimensional",
     "langName": "boyutların ötesinde",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003903819.webp"
   },
   {
     "displayName": "Excessively-dimensional",
     "langName": "aşırı boyutluluk",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003917272.webp"
   },
   {
     "displayName": "Alldimensional",
     "langName": "tam boyut",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003932407.webp"
   },
   {
     "displayName": "Multiverse",
     "langName": "çoklu evren",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Çoklu evren",
     "preview": "https://img.aishort.top/imgprompt/20260225003944859.webp"
   },
   {
     "displayName": "Low Poly",
     "langName": "düşük profilli modelleme",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Stil",
     "preview": "https://img.aishort.top/imgprompt/20260225003957184.webp"
   },
   {
     "displayName": "Geometric",
     "langName": "geometri",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Stil",
     "preview": "https://img.aishort.top/imgprompt/20260225004009120.webp"
   },
   {
     "displayName": "Non-Euclidian",
     "langName": "Öklid dışı",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Stil",
     "preview": "https://img.aishort.top/imgprompt/20260225004022234.webp"
   },
   {
     "displayName": "Poly",
     "langName": "Poli",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Stil",
     "preview": "https://img.aishort.top/imgprompt/20260225004035491.webp"
   },
   {
     "displayName": "Polygon",
     "langName": "çokgen",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Stil",
     "preview": "https://img.aishort.top/imgprompt/20260225004049585.webp"
   },
   {
     "displayName": "Polygonal",
     "langName": "çok taraflı",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Stil",
     "preview": "https://img.aishort.top/imgprompt/20260225004103043.webp"
   },
   {
     "displayName": "Polyhedron",
     "langName": "çokyüzlü",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Stil",
     "preview": "https://img.aishort.top/imgprompt/20260225004116487.webp"
   },
   {
     "displayName": "Polyhedral",
     "langName": "Birçok taraf",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Stil",
     "preview": "https://img.aishort.top/imgprompt/20260225004129113.webp"
   },
   {
     "displayName": "Platonic Solids",
     "langName": "Platonik katılar",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Stil",
     "preview": "https://img.aishort.top/imgprompt/20260225004142601.webp"
   },
   {
     "displayName": "Archimedean Solids",
     "langName": "Arşimet katısı",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Stil",
     "preview": "https://img.aishort.top/imgprompt/20260225004154997.webp"
   },
   {
     "displayName": "Catalan solids",
     "langName": "Katalonya Stereotipi",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Stil",
     "preview": "https://img.aishort.top/imgprompt/20260225004213839.webp"
   },
   {
     "displayName": "Array",
     "langName": "bir dizi",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Yapısal Özellikler",
     "preview": "https://img.aishort.top/imgprompt/20260225004227381.webp"
   },
   {
     "displayName": "Thick",
     "langName": "kalın",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Yapısal Özellikler",
     "preview": "https://img.aishort.top/imgprompt/20260225091801001.webp"
   },
   {
     "displayName": "Flexible",
     "langName": "Esnek",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Yapısal Özellikler",
     "preview": "https://img.aishort.top/imgprompt/20260225004304932.webp"
   },
   {
     "displayName": "Vertex",
     "langName": "tepe noktası",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004319879.webp"
   },
   {
     "displayName": "Edge",
     "langName": "kenar",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004335931.webp"
   },
   {
     "displayName": "Surface",
     "langName": "yüzey",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004351465.webp"
   },
   {
     "displayName": "Interior",
     "langName": "dahili",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004403628.webp"
   },
   {
     "displayName": "Exterior",
     "langName": "harici",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004418860.webp"
   },
   {
     "displayName": "Convex",
     "langName": "dışbükey",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004433806.webp"
   },
   {
     "displayName": "Concave",
     "langName": "içbükey",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004446011.webp"
   },
   {
     "displayName": "Equiangular",
     "langName": "Eşit açılı",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004458378.webp"
   },
   {
     "displayName": "Equilateral",
     "langName": "Eşkenar",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004512848.webp"
   },
   {
     "displayName": "Cyclic",
     "langName": "dairesel",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004525059.webp"
   },
   {
     "displayName": "Tangential",
     "langName": "teğet",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004539372.webp"
   },
   {
     "displayName": "Rectilinear",
     "langName": "düz çizgi",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004552798.webp"
   },
   {
     "displayName": "Traverse",
     "langName": "karşısında",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004605836.webp"
   },
   {
     "displayName": "Quasi",
     "langName": "plan",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004618449.webp"
   },
   {
     "displayName": "Quasi-Regular",
     "langName": "yarı-kurallar",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004630788.webp"
   },
   {
     "displayName": "Isogonal",
     "langName": "Eşit açılı",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004643952.webp"
   },
   {
     "displayName": "Isotoxal",
     "langName": "Zehir bekleniyor",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004703355.webp"
   },
   {
     "displayName": "Isohedral",
     "langName": "Eşit erişteler",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004720817.webp"
   },
   {
     "displayName": "Stellation",
     "langName": "yıldız şekli",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004733028.webp"
   },
   {
     "displayName": "Ehrhart Polynomial",
     "langName": "Ehrhart polinomu",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004759911.webp"
   },
   {
     "displayName": "Ideal polyhedron",
     "langName": "ideal çokyüzlü",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004820319.webp"
   },
   {
     "displayName": "Polytope",
     "langName": "çokgen",
-    "object": "Geometrik kompozisyon",
+    "object": "Biçim ve Uzay",
     "attribute": "Özellik",
     "preview": "https://img.aishort.top/imgprompt/20260225004835943.webp"
   },

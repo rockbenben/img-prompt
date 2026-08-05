@@ -2907,7 +2907,7 @@
   },
   {
     "displayName": "hollow_eyes",
-    "langName": "pupilles en forme d'étoile",
+    "langName": "yeux sans éclat",
     "object": "Personnage",
     "attribute": "Yeux",
     "preview": "https://img.aishort.top/imgprompt/20260211141950217.webp"
@@ -3229,7 +3229,7 @@
   },
   {
     "displayName": "blue_pupils",
-    "langName": "pupilles orange",
+    "langName": "pupilles bleues",
     "object": "Personnage",
     "attribute": "Pupille",
     "preview": "https://img.aishort.top/imgprompt/20260211143024647.webp"
@@ -4684,7 +4684,7 @@
   },
   {
     "displayName": "crop_top_overhang",
-    "langName": "Débordement du haut du pantalon",
+    "langName": "Débordement du crop top",
     "object": "Environnement",
     "attribute": "Arrière-plan",
     "preview": "https://img.aishort.top/imgprompt/20260225095914537.webp"
@@ -5384,7 +5384,7 @@
   },
   {
     "displayName": "lunar",
-    "langName": "lunaire, _lunaire ;",
+    "langName": "lunaire",
     "object": "Environnement",
     "attribute": "Ciel",
     "preview": "https://img.aishort.top/imgprompt/20260211153840964.webp"
@@ -9873,301 +9873,301 @@
     "displayName": "arms_up",
     "langName": "Levez la main",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175530980.webp"
   },
   {
     "displayName": "arms_crossed",
     "langName": "mains croisées sur la poitrine",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175543922.webp"
   },
   {
     "displayName": "crossed_arms",
     "langName": "bras croisés",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175556789.webp"
   },
   {
     "displayName": "arms_at_sides",
     "langName": "sans hésitation",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175609687.webp"
   },
   {
     "displayName": "arm_at_side",
     "langName": "Suspendre une main vers le bas",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175622234.webp"
   },
   {
     "displayName": "arms_behind_back",
     "langName": "les mains dans le dos",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175634829.webp"
   },
   {
     "displayName": "arms_behind_head",
     "langName": "Tenir la tête avec les mains",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175647169.webp"
   },
   {
     "displayName": "arm_behind_head",
     "langName": "mains derrière la tête",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175659736.webp"
   },
   {
     "displayName": "arm_behind_back",
     "langName": "Mettez une main dans le dos",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260212075132956.webp"
   },
   {
     "displayName": "hands_clasped",
     "langName": "Doigts croisés des deux mains | Mains serrées",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
   },
   {
     "displayName": "interlocked_fingers",
     "langName": "mains jointes",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175736751.webp"
   },
   {
     "displayName": "arm_support",
     "langName": "soutenir avec les mains",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175748994.webp"
   },
   {
     "displayName": "arm_above_head",
     "langName": "mains sur la tête",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260213094908585.webp"
   },
   {
     "displayName": "outstretched_arms",
     "langName": "étirer les bras",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175813007.webp"
   },
   {
     "displayName": "hands_in_opposite_sleeves",
     "langName": "Croisez vos mains et mettez-les dans vos manches.",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
   },
   {
     "displayName": "v_arms",
     "langName": "Faire un V avec les deux bras",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175838045.webp"
   },
   {
     "displayName": "w_arms",
     "langName": "Bras en position W",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175850840.webp"
   },
   {
     "displayName": "sharp_fingernails",
     "langName": "ongles pointus",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
   },
   {
     "displayName": "spread_fingers",
     "langName": "écarter les doigts",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175916068.webp"
   },
   {
     "displayName": "trigger_discipline",
     "langName": "Pas de doigt sur la gâchette",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175928974.webp"
   },
   {
     "displayName": "w",
     "langName": "Signe de main en W",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175941737.webp"
   },
   {
     "displayName": "bound_arms",
     "langName": "Les bras sont liés",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211175955270.webp"
   },
   {
     "displayName": "extra_arms",
     "langName": "bras multiples",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180008191.webp"
   },
   {
     "displayName": "locked_arms",
     "langName": "Tenir les bras",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180021217.webp"
   },
   {
     "displayName": "convenient_arm",
     "langName": "Couvrir les parties essentielles des bras",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180033673.webp"
   },
   {
     "displayName": "arm_cannon",
     "langName": "canon à main",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180046505.webp"
   },
   {
     "displayName": "arm_ribbon",
     "langName": "ruban de bras",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180058970.webp"
   },
   {
     "displayName": "arm_held_back",
     "langName": "Tirer les bras vers l'arrière",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180112475.webp"
   },
   {
     "displayName": "hugging_own_legs",
     "langName": "Serrez vos jambes",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180124920.webp"
   },
   {
     "displayName": "trembling",
     "langName": "trembler",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180137998.webp"
   },
   {
     "displayName": "rolleyes",
     "langName": "Roulez des yeux",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180150675.webp"
   },
   {
     "displayName": "clenched hand",
     "langName": "poing fermé",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180203512.webp"
   },
   {
     "displayName": "covering_xx",
     "langName": "couverture xx",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
   },
   {
     "displayName": "double piece pose",
     "langName": "Signe des mains en V",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260212075155741.webp"
   },
   {
     "displayName": "hands in hair",
     "langName": "peigner les cheveux avec les mains",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180240957.webp"
   },
   {
     "displayName": "hidden hands",
     "langName": "cachez vos mains",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180253482.webp"
   },
   {
     "displayName": "open hands",
     "langName": "mains ouvertes",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180305978.webp"
   },
   {
     "displayName": "own hands clasped",
     "langName": "mains jointes",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180318354.webp"
   },
   {
     "displayName": "own hands together",
     "langName": "mains jointes",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180330982.webp"
   },
   {
     "displayName": "peace sign",
     "langName": "Les mains en ciseaux",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180343460.webp"
   },
   {
     "displayName": "presenting armpit",
     "langName": "montrer les aisselles",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180356051.webp"
   },
   {
     "displayName": "spread arms",
     "langName": "bras ouverts",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180408733.webp"
   },
   {
     "displayName": "tying hair",
     "langName": "attacher les cheveux",
     "object": "Action",
-    "attribute": "Mouvements des mains",
+    "attribute": "Poses des bras",
     "preview": "https://img.aishort.top/imgprompt/20260211180421654.webp"
   },
   {
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "double_v",
+    "langName": "double v",
     "object": "Action",
     "attribute": "Signes de la main",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -13763,14 +13763,14 @@
   },
   {
     "displayName": ":d",
-    "langName": "Happy smile_:D😀",
+    "langName": "Sourire joyeux",
     "object": "Expression",
     "attribute": "Rire",
     "preview": "https://img.aishort.top/imgprompt/20260211195749422.webp"
   },
   {
     "displayName": ";d",
-    "langName": "Clin d'œil et sourire_:D",
+    "langName": "Clin d'œil et sourire",
     "object": "Expression",
     "attribute": "Rire",
     "preview": "https://img.aishort.top/imgprompt/20260211195810245.webp"
@@ -14093,7 +14093,7 @@
   },
   {
     "displayName": "sulking",
-    "langName": "en colère_sulky",
+    "langName": "boudeur",
     "object": "Expression",
     "attribute": "En colère",
     "preview": "https://img.aishort.top/imgprompt/20260213103708924.webp"
@@ -14751,7 +14751,7 @@
   },
   {
     "displayName": "obi",
-    "langName": "Vêtements (et habillement)",
+    "langName": "Obi (ceinture de kimono)",
     "object": "Vêtements",
     "attribute": "Style vestimentaire",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -20763,7 +20763,7 @@
   },
   {
     "displayName": "pumps",
-    "langName": "Robe décolletée avec talons hauts",
+    "langName": "Escarpins",
     "object": "Vêtements",
     "attribute": "Chaussure",
     "preview": "https://img.aishort.top/imgprompt/20260213164252308.webp"
@@ -21003,238 +21003,238 @@
     "displayName": "wide_sleeves",
     "langName": "manches larges",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213174402264.webp"
   },
   {
     "displayName": "single_sleeve",
     "langName": "manchon simple",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213174421142.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
     "langName": "manches asymétriques",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213174433704.webp"
   },
   {
     "displayName": "puffy_sleeves",
     "langName": "manches bouffantes",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213174452709.webp"
   },
   {
     "displayName": "puffy_long_sleeves",
     "langName": "manches longues bouffantes",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213174505622.webp"
   },
   {
     "displayName": "puffy_short_sleeves",
     "langName": "manches courtes bouffantes",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
   },
   {
     "displayName": "frilled_sleeves",
     "langName": "bord des manches à volants",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213174936053.webp"
   },
   {
     "displayName": "juliet_sleeves",
     "langName": "Manches Juliet",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260225105600224.webp"
   },
   {
     "displayName": "bandaged_arm",
     "langName": "bras bandé",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175209308.webp"
   },
   {
     "displayName": "raglan_sleeves",
     "langName": "Manches raglan",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175222011.webp"
   },
   {
     "displayName": "vambraces",
     "langName": "Armure inférieure",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175234968.webp"
   },
   {
     "displayName": "layered_sleeves",
     "langName": "manches superposées",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175248597.webp"
   },
   {
     "displayName": "fur-trimmed_sleeves",
     "langName": "manches à bord brut",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175301700.webp"
   },
   {
     "displayName": "see-through_sleeves",
     "langName": "Manches transparentes",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175314655.webp"
   },
   {
     "displayName": "torn_sleeves",
     "langName": "manches déchirées",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175327401.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "Manches plus longues que les doigts",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
     "langName": "Manches au-dessus du poignet",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175353319.webp"
   },
   {
     "displayName": "sleeves_past_elbows",
     "langName": "Manches au-dessus du coude",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175608643.webp"
   },
   {
     "displayName": "sleeves_pushed_up",
     "langName": "manches retroussées",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175621831.webp"
   },
   {
     "displayName": "arm_out_of_sleeve",
     "langName": "les bras dans les manches",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175635409.webp"
   },
   {
     "displayName": "uneven_sleeves",
     "langName": "manches inégales",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175647988.webp"
   },
   {
     "displayName": "mismatched_sleeves",
     "langName": "manches dépareillées",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175701248.webp"
   },
   {
     "displayName": "sleeve_rolled_up",
     "langName": "manches retroussées",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
     "langName": "Une manche retroussée",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175726967.webp"
   },
   {
     "displayName": "feather-trimmed_sleeves",
     "langName": "Manches garnies de plumes",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213175941889.webp"
   },
   {
     "displayName": "lace-trimmed_sleeves",
     "langName": "manches en dentelle",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213180156786.webp"
   },
   {
     "displayName": "pinching_sleeves",
     "langName": "Pincez vos manches",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213180210307.webp"
   },
   {
     "displayName": "puffy_detached_sleeves",
     "langName": "manches bouffantes",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213180223059.webp"
   },
   {
     "displayName": "ribbed_sleeves",
     "langName": "manches côtelées",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
   },
   {
     "displayName": "single_detached_sleeve",
     "langName": "Manche qui reste d'un côté",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213180855076.webp"
   },
   {
     "displayName": "sleeves_folded_up",
     "langName": "manches pliées",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213181110146.webp"
   },
   {
     "displayName": "striped_sleeves",
     "langName": "manches rayées",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213181123268.webp"
   },
   {
     "displayName": "armband",
     "langName": "brassard (brassard)",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
   },
   {
     "displayName": "armlet",
     "langName": "bracelet de bras",
     "object": "Vêtements",
-    "attribute": "Bras",
+    "attribute": "Manches",
     "preview": "https://img.aishort.top/imgprompt/20260213190711002.webp"
   },
   {
@@ -23934,14 +23934,14 @@
   },
   {
     "displayName": "cross-body bag",
-    "langName": "sac à bandoulière",
+    "langName": "sac bandoulière",
     "object": "Accessoires",
     "attribute": "Accessoires",
     "preview": "https://img.aishort.top/imgprompt/20260214014456643.webp"
   },
   {
     "displayName": "One shoulder bag",
-    "langName": "sac à bandoulière",
+    "langName": "sac porté épaule",
     "object": "Accessoires",
     "attribute": "Accessoires",
     "preview": "https://img.aishort.top/imgprompt/20260214014509390.webp"
@@ -24074,14 +24074,14 @@
   },
   {
     "displayName": "Aerial View",
-    "langName": "vue du dessus",
+    "langName": "vue aérienne",
     "object": "Photographie",
     "attribute": "Perspective",
     "preview": "https://img.aishort.top/imgprompt/20260214023207316.webp"
   },
   {
     "displayName": "Top-View",
-    "langName": "vue du dessus",
+    "langName": "vue de dessus",
     "object": "Photographie",
     "attribute": "Perspective",
     "preview": "https://img.aishort.top/imgprompt/20260214023423183.webp"
@@ -26219,168 +26219,168 @@
     "displayName": "Transparent",
     "langName": "transparent",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224210545565.webp"
   },
   {
     "displayName": "Translucent",
     "langName": "translucide",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224210800718.webp"
   },
   {
     "displayName": "Opaque",
     "langName": "opaque",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224210814362.webp"
   },
   {
     "displayName": "Rough",
     "langName": "rude",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224210828738.webp"
   },
   {
     "displayName": "Matte",
     "langName": "mat",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224210842440.webp"
   },
   {
     "displayName": "Glossy",
     "langName": "éclat",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224210855666.webp"
   },
   {
     "displayName": "smooth",
     "langName": "lisse",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224211112706.webp"
   },
   {
     "displayName": "Shiny",
     "langName": "brillant",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224211127584.webp"
   },
   {
     "displayName": "Reflective",
     "langName": "Réflexion",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224211141551.webp"
   },
   {
     "displayName": "Polished",
     "langName": "polissage",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224211358630.webp"
   },
   {
     "displayName": "Shadows",
     "langName": "ombre",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224211614929.webp"
   },
   {
     "displayName": "Shimmer",
     "langName": "chatoiement",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224211830714.webp"
   },
   {
     "displayName": "Shimmering",
     "langName": "pétillant",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224212046910.webp"
   },
   {
     "displayName": "Caustics",
     "langName": "Caustiques",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224212303506.webp"
   },
   {
     "displayName": "Refractive",
     "langName": "réfraction",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224212519913.webp"
   },
   {
     "displayName": "reflection light",
     "langName": "réflexion de la lumière",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224212736462.webp"
   },
   {
     "displayName": "Ray Tracing Reflections",
     "langName": "Réflexions par traçage de rayons",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224212952871.webp"
   },
   {
     "displayName": "Lumen Reflections",
     "langName": "Réflexion sur les lumens",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224213208810.webp"
   },
   {
     "displayName": "Screen Space Reflections",
     "langName": "réflexion sur l'espace de l'écran",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224213425137.webp"
   },
   {
     "displayName": "ray tracing",
     "langName": "Traçage de rayons",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224213641871.webp"
   },
   {
     "displayName": "Ambient Occlusion",
     "langName": "occlusion ambiante",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224213859041.webp"
   },
   {
     "displayName": "Scattering",
     "langName": "diffusion",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224214116698.webp"
   },
   {
     "displayName": "Diffraction Grading",
     "langName": "réseau de diffraction",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224214535915.webp"
   },
   {
     "displayName": "RGB Displacement",
     "langName": "Décalage RVB",
     "object": "Effets d'ombre et de lumière",
-    "attribute": "Réflexion/Réfraction",
+    "attribute": "Propriétés des matériaux",
     "preview": "https://img.aishort.top/imgprompt/20260224214552526.webp"
   },
   {
@@ -26756,7 +26756,7 @@
   },
   {
     "displayName": "paleturquoise",
-    "langName": "cyan clair",
+    "langName": "turquoise pâle",
     "object": "Atmosphère colorée",
     "attribute": "Tons clairs",
     "preview": "https://img.aishort.top/imgprompt/20260224220418876.webp"
@@ -27134,7 +27134,7 @@
   },
   {
     "displayName": "royalblue",
-    "langName": "bleu royal",
+    "langName": "bleu roi",
     "object": "Atmosphère colorée",
     "attribute": "Couleurs spectrales",
     "preview": "https://img.aishort.top/imgprompt/20260224221743869.webp"
@@ -27176,7 +27176,7 @@
   },
   {
     "displayName": "darkcyan",
-    "langName": "Sarcelle",
+    "langName": "cyan foncé",
     "object": "Atmosphère colorée",
     "attribute": "Couleurs spectrales",
     "preview": "https://img.aishort.top/imgprompt/20260224221915905.webp"
@@ -27204,21 +27204,21 @@
   },
   {
     "displayName": "aquamarine",
-    "langName": "turquoise",
+    "langName": "aigue-marine",
     "object": "Atmosphère colorée",
     "attribute": "Couleurs spectrales",
     "preview": "https://img.aishort.top/imgprompt/20260224222012509.webp"
   },
   {
     "displayName": "lightcyan",
-    "langName": "bleu",
+    "langName": "cyan clair",
     "object": "Atmosphère colorée",
     "attribute": "Couleurs spectrales",
     "preview": "https://img.aishort.top/imgprompt/20260224222026323.webp"
   },
   {
     "displayName": "cyan",
-    "langName": "turquoise",
+    "langName": "cyan",
     "object": "Atmosphère colorée",
     "attribute": "Couleurs spectrales",
     "preview": "https://img.aishort.top/imgprompt/20260224222040633.webp"
@@ -27624,7 +27624,7 @@
   },
   {
     "displayName": "Supplementary-Colors",
-    "langName": "couleurs complémentaires",
+    "langName": "couleurs supplémentaires",
     "object": "Atmosphère colorée",
     "attribute": "Palette de couleurs",
     "preview": "https://img.aishort.top/imgprompt/20260224223528366.webp"
@@ -27919,7 +27919,7 @@
   },
   {
     "displayName": "HSV",
-    "langName": "Teinte, saturation, luminosité",
+    "langName": "Teinte, saturation, valeur",
     "object": "Atmosphère colorée",
     "attribute": "Palette de couleurs de l'écran",
     "preview": "https://img.aishort.top/imgprompt/20260224224548087.webp"
@@ -27933,7 +27933,7 @@
   },
   {
     "displayName": "HCL",
-    "langName": "Teinte, chroma, éclairage",
+    "langName": "Teinte, chroma, luminance",
     "object": "Atmosphère colorée",
     "attribute": "Palette de couleurs de l'écran",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
@@ -28073,7 +28073,7 @@
   },
   {
     "displayName": "Kinemacolor",
-    "langName": "couleur du film",
+    "langName": "Kinemacolor",
     "object": "Atmosphère colorée",
     "attribute": "Production de films",
     "preview": "https://img.aishort.top/imgprompt/20260224225130563.webp"
@@ -28087,7 +28087,7 @@
   },
   {
     "displayName": "Cinecolor",
-    "langName": "couleur du film",
+    "langName": "Cinecolor",
     "object": "Atmosphère colorée",
     "attribute": "Production de films",
     "preview": "https://img.aishort.top/imgprompt/20260224225201683.webp"
@@ -28124,35 +28124,35 @@
     "displayName": "Bump Map",
     "langName": "Carte des bosses",
     "object": "Matériau",
-    "attribute": "Carte",
+    "attribute": "Cartes de texture",
     "preview": "https://img.aishort.top/imgprompt/20260224225344573.webp"
   },
   {
     "displayName": "Bump Mapped",
     "langName": "Avec carte des bosses",
     "object": "Matériau",
-    "attribute": "Carte",
+    "attribute": "Cartes de texture",
     "preview": "https://img.aishort.top/imgprompt/20260224225400692.webp"
   },
   {
     "displayName": "Bump Mapping",
     "langName": "Cartographie des bosses",
     "object": "Matériau",
-    "attribute": "Carte",
+    "attribute": "Cartes de texture",
     "preview": "https://img.aishort.top/imgprompt/20260224225415653.webp"
   },
   {
     "displayName": "Normal Map",
     "langName": "carte des normales",
     "object": "Matériau",
-    "attribute": "Carte",
+    "attribute": "Cartes de texture",
     "preview": "https://img.aishort.top/imgprompt/20260224225432546.webp"
   },
   {
     "displayName": "Depth Map",
     "langName": "Carte des profondeurs",
     "object": "Matériau",
-    "attribute": "Carte",
+    "attribute": "Cartes de texture",
     "preview": "https://img.aishort.top/imgprompt/20260224225447643.webp"
   },
   {
@@ -30189,147 +30189,147 @@
     "displayName": "Fungi",
     "langName": "champignon",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225000902602.webp"
   },
   {
     "displayName": "Mushrooms",
     "langName": "champignon",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225000920028.webp"
   },
   {
     "displayName": "Mycelium",
     "langName": "hyphes",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225000934335.webp"
   },
   {
     "displayName": "Moldy",
     "langName": "moisi",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225000950611.webp"
   },
   {
     "displayName": "Lactarius-Indigo",
     "langName": "Champignon Indigo Milk",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001006384.webp"
   },
   {
     "displayName": "Latticed-Stinkhorn",
     "langName": "Champignon à tige en treillis",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001021630.webp"
   },
   {
     "displayName": "Clathrus-Ruber",
     "langName": "Rhodococcus",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001036116.webp"
   },
   {
     "displayName": "Laccaria-Amethystina",
     "langName": "champignon violet",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001052173.webp"
   },
   {
     "displayName": "Entoloma-Hochstetteri",
     "langName": "Powderygophyllum holophylla",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001107659.webp"
   },
   {
     "displayName": "Clavaria-Zollingeri",
     "langName": "Champignon corallien pourpre",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001123325.webp"
   },
   {
     "displayName": "Chlorociboria",
     "langName": "champignon vert",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001139570.webp"
   },
   {
     "displayName": "Golden-Scruffy-Collybia",
     "langName": "Champignon de la patte d'oie doré",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260317125532956.webp"
   },
   {
     "displayName": "Cyptotrama-Asprata",
     "langName": "champignon cryptique à pied de scie",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260317125542896.webp"
   },
   {
     "displayName": "Mycena Acicula",
     "langName": "Phallophyllum acuminata",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001231425.webp"
   },
   {
     "displayName": "Hygrocybe-Cantharellus",
     "langName": "Champignon à pied rouge jaune-brun",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001252601.webp"
   },
   {
     "displayName": "Amanita-Muscaria",
     "langName": "Amanite rouge et blanche",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001309984.webp"
   },
   {
     "displayName": "Favolaschia-Calocera",
     "langName": "champignon du doigt de l'orang-outan",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001333847.webp"
   },
   {
     "displayName": "Marasmius-Haematocephalus",
     "langName": "champignon roux",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001348763.webp"
   },
   {
     "displayName": "Cystoagaricus-Trisulphuratus",
     "langName": "Champignon trisulfate",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001403668.webp"
   },
   {
     "displayName": "Tremella-Mesenterica",
     "langName": "Xanthomonas",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001419657.webp"
   },
   {
     "displayName": "Tremella-Fuciformis",
     "langName": "Tremella",
     "object": "Matériau",
-    "attribute": "Bactéries",
+    "attribute": "Champignons",
     "preview": "https://img.aishort.top/imgprompt/20260225001434385.webp"
   },
   {
@@ -30384,945 +30384,945 @@
   {
     "displayName": "Point",
     "langName": "point",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260317125622840.webp"
   },
   {
     "displayName": "Dot",
     "langName": "point",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225001648256.webp"
   },
   {
     "displayName": "Line",
     "langName": "Fil de fer",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225001701560.webp"
   },
   {
     "displayName": "Curve",
     "langName": "courbe",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225001719200.webp"
   },
   {
     "displayName": "Bezier Curve",
     "langName": "Courbe de Bézier",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260317125632465.webp"
   },
   {
     "displayName": "Triangle",
     "langName": "triangle",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225001751586.webp"
   },
   {
     "displayName": "Square",
     "langName": "carré",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225001807806.webp"
   },
   {
     "displayName": "Pentagon",
     "langName": "pentagone",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225001823638.webp"
   },
   {
     "displayName": "Hexagon",
     "langName": "hexagone",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225001837829.webp"
   },
   {
     "displayName": "Hexagonal",
     "langName": "hexagone",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225001854127.webp"
   },
   {
     "displayName": "Heptagon",
     "langName": "heptagone",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225001914291.webp"
   },
   {
     "displayName": "Octagon",
     "langName": "octogone",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225001926820.webp"
   },
   {
     "displayName": "Nonagon",
     "langName": "nonagone",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225001939367.webp"
   },
   {
     "displayName": "Decagon",
     "langName": "décagone",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225001952286.webp"
   },
   {
     "displayName": "Rectangle",
     "langName": "rectangle",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225002005291.webp"
   },
   {
     "displayName": "Rectangular",
     "langName": "Rectangulaire",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225002020029.webp"
   },
   {
     "displayName": "Parallelogram",
     "langName": "parallélogramme",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225002034684.webp"
   },
   {
     "displayName": "Rhombus",
     "langName": "diamant",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225002048358.webp"
   },
   {
     "displayName": "Heart",
     "langName": "Le cœur",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225002101003.webp"
   },
   {
     "displayName": "Spirangle",
     "langName": "spirale",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Forme",
     "preview": "https://img.aishort.top/imgprompt/20260225002113662.webp"
   },
   {
     "displayName": "Cube",
     "langName": "cube",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002127316.webp"
   },
   {
     "displayName": "Cuboid",
     "langName": "cuboïde",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002140434.webp"
   },
   {
     "displayName": "Sphere",
     "langName": "sphère",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002154295.webp"
   },
   {
     "displayName": "Cone",
     "langName": "cône",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002209873.webp"
   },
   {
     "displayName": "Cylinder",
     "langName": "cylindre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002224773.webp"
   },
   {
     "displayName": "Pyramid",
     "langName": "pyramide",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002240031.webp"
   },
   {
     "displayName": "Torus",
     "langName": "tore",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002254551.webp"
   },
   {
     "displayName": "Rectangular Prism",
     "langName": "prisme à angle droit",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002310105.webp"
   },
   {
     "displayName": "Star Prism",
     "langName": "prisme étoilé",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002323623.webp"
   },
   {
     "displayName": "Wedge",
     "langName": "Cale",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002337795.webp"
   },
   {
     "displayName": "Zonohedron",
     "langName": "Polyèdre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002353504.webp"
   },
   {
     "displayName": "Tetrahedron",
     "langName": "tétraèdre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002408261.webp"
   },
   {
     "displayName": "Octahedron",
     "langName": "octaèdre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002421259.webp"
   },
   {
     "displayName": "Dodecahedron",
     "langName": "Dodécaèdre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002435064.webp"
   },
   {
     "displayName": "Icosahedron",
     "langName": "icosaèdre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002450070.webp"
   },
   {
     "displayName": "Kepler-Poinsot Polyhedra",
     "langName": "Polyèdre du point de Kepler",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002502267.webp"
   },
   {
     "displayName": "Cuboctahedron",
     "langName": "cuboctaèdre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002515961.webp"
   },
   {
     "displayName": "Rhombicuboctahedron",
     "langName": "rhomboédrique cuboctaédrique",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002531621.webp"
   },
   {
     "displayName": "Icosidodecahedron",
     "langName": "icosaèdre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002547086.webp"
   },
   {
     "displayName": "Rhombicosidodecahedron",
     "langName": "icosaèdre rhomboédrique",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002559328.webp"
   },
   {
     "displayName": "Trapezohedron",
     "langName": "corps trapézoïdal",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002611910.webp"
   },
   {
     "displayName": "Cupola",
     "langName": "dôme",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002624860.webp"
   },
   {
     "displayName": "Anticupola",
     "langName": "dôme inversé",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002637534.webp"
   },
   {
     "displayName": "Hypercupolae",
     "langName": "super dôme",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002653816.webp"
   },
   {
     "displayName": "Bicupola",
     "langName": "double dôme",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002709584.webp"
   },
   {
     "displayName": "Frustum",
     "langName": "cône tronqué",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002725220.webp"
   },
   {
     "displayName": "Bifrustum",
     "langName": "double tronc",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002740853.webp"
   },
   {
     "displayName": "Rotunda",
     "langName": "rotonde",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002756804.webp"
   },
   {
     "displayName": "Birotunda",
     "langName": "Double rotonde",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002809431.webp"
   },
   {
     "displayName": "Prismatoid",
     "langName": "prisme",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002824251.webp"
   },
   {
     "displayName": "Scutoid",
     "langName": "polyèdre écailleux",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002837306.webp"
   },
   {
     "displayName": "Bipyramid",
     "langName": "double cône",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002850494.webp"
   },
   {
     "displayName": "Star Bipyramid",
     "langName": "double cône étoilé",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002904338.webp"
   },
   {
     "displayName": "Anti-Prism",
     "langName": "Antiprisme",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002918169.webp"
   },
   {
     "displayName": "Trapezohedra",
     "langName": "cône trapézoïdal",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002931727.webp"
   },
   {
     "displayName": "Star Trapezohedron",
     "langName": "cône trapézoïdal en étoile",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002945269.webp"
   },
   {
     "displayName": "Spherical polyhedron",
     "langName": "polyèdre sphérique",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225002957718.webp"
   },
   {
     "displayName": "Mobius strip",
     "langName": "Bande de Möbius",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225003010574.webp"
   },
   {
     "displayName": "Hexaflexagon",
     "langName": "Carton hexagonal",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260225003023844.webp"
   },
   {
     "displayName": "Miura fold",
     "langName": "Miura pliant",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Objet",
     "preview": "https://img.aishort.top/imgprompt/20260317080039422.webp"
   },
   {
     "displayName": "Hypercube",
     "langName": "hypercube",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003040457.webp"
   },
   {
     "displayName": "Hyperprism",
     "langName": "super prisme",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003055122.webp"
   },
   {
     "displayName": "Hyperpyramid",
     "langName": "super pyramide",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003109109.webp"
   },
   {
     "displayName": "Hypertorus",
     "langName": "hyper tore",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003121717.webp"
   },
   {
     "displayName": "Hypersphere",
     "langName": "Hypersphère",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003136681.webp"
   },
   {
     "displayName": "Hypercone",
     "langName": "Hypercone",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003151169.webp"
   },
   {
     "displayName": "Hypercylinder",
     "langName": "hypercylindre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003210079.webp"
   },
   {
     "displayName": "Hyperzonohedron",
     "langName": "super polyèdre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003229194.webp"
   },
   {
     "displayName": "Hypertetrahedron",
     "langName": "Hypertétraèdre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003242504.webp"
   },
   {
     "displayName": "Hyperoctahedron",
     "langName": "superoctaèdre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003258039.webp"
   },
   {
     "displayName": "Hyperdodecahedron",
     "langName": "superdodécaèdre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003313806.webp"
   },
   {
     "displayName": "Hypericosahedron",
     "langName": "Supericosaèdre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003328264.webp"
   },
   {
     "displayName": "Flexible Polyhedron",
     "langName": "polyèdre élastique",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003341494.webp"
   },
   {
     "displayName": "Klein bottle",
     "langName": "Bouteille de Klein",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003355111.webp"
   },
   {
     "displayName": "Monogon",
     "langName": "Hedron",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003407817.webp"
   },
   {
     "displayName": "Digon",
     "langName": "dièdre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Super forme",
     "preview": "https://img.aishort.top/imgprompt/20260225003423861.webp"
   },
   {
     "displayName": "AR",
     "langName": "Réalité augmentée",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003436353.webp"
   },
   {
     "displayName": "VR",
     "langName": "réalité virtuelle",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003450517.webp"
   },
   {
     "displayName": "2-Dimensional",
     "langName": "bidimensionnel",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003503523.webp"
   },
   {
     "displayName": "2D",
     "langName": "2D",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003517597.webp"
   },
   {
     "displayName": "2.5-Dimensional",
     "langName": "2,5 dimensions",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003530065.webp"
   },
   {
     "displayName": "2.5D",
     "langName": "2.5D",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003546536.webp"
   },
   {
     "displayName": "3-Dimensional",
     "langName": "tridimensionnel",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003559620.webp"
   },
   {
     "displayName": "3D",
     "langName": "3D",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003613094.webp"
   },
   {
     "displayName": "4-Dimensional",
     "langName": "quadridimensionnel",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003625943.webp"
   },
   {
     "displayName": "4D",
     "langName": "4D",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003640503.webp"
   },
   {
     "displayName": "5-Dimensional",
     "langName": "cinq dimensions",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003653264.webp"
   },
   {
     "displayName": "5D",
     "langName": "5D",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003707609.webp"
   },
   {
     "displayName": "Overdimensional",
     "langName": "hyperdimensionnel",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003720889.webp"
   },
   {
     "displayName": "Underdimensional",
     "langName": "deuxième dimension",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003736660.webp"
   },
   {
     "displayName": "Hyperdimensional",
     "langName": "hyperdimensionnalité",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003749551.webp"
   },
   {
     "displayName": "Subdimensional",
     "langName": "dimension secondaire",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003809121.webp"
   },
   {
     "displayName": "Omnidimensional",
     "langName": "pleine dimension",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003823515.webp"
   },
   {
     "displayName": "Everdimensional",
     "langName": "dimension éternelle",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003836946.webp"
   },
   {
     "displayName": "Extradimensional",
     "langName": "Une autre dimension",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003849661.webp"
   },
   {
     "displayName": "Beyond-Dimensional",
     "langName": "au-delà des dimensions",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003903819.webp"
   },
   {
     "displayName": "Excessively-dimensional",
     "langName": "dimensionnalité excessive",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003917272.webp"
   },
   {
     "displayName": "Alldimensional",
     "langName": "pleine dimension",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003932407.webp"
   },
   {
     "displayName": "Multiverse",
     "langName": "multivers",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Multivers",
     "preview": "https://img.aishort.top/imgprompt/20260225003944859.webp"
   },
   {
     "displayName": "Low Poly",
     "langName": "modélisation discrète",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225003957184.webp"
   },
   {
     "displayName": "Geometric",
     "langName": "géométrie",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004009120.webp"
   },
   {
     "displayName": "Non-Euclidian",
     "langName": "Non euclidienne",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004022234.webp"
   },
   {
     "displayName": "Poly",
     "langName": "Polyéthylène",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004035491.webp"
   },
   {
     "displayName": "Polygon",
     "langName": "polygone",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004049585.webp"
   },
   {
     "displayName": "Polygonal",
     "langName": "multilatéral",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004103043.webp"
   },
   {
     "displayName": "Polyhedron",
     "langName": "polyèdre",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004116487.webp"
   },
   {
     "displayName": "Polyhedral",
     "langName": "De multiples facettes",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004129113.webp"
   },
   {
     "displayName": "Platonic Solids",
     "langName": "Solides de Platon",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004142601.webp"
   },
   {
     "displayName": "Archimedean Solids",
     "langName": "Solide d'Archimède",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004154997.webp"
   },
   {
     "displayName": "Catalan solids",
     "langName": "Stéréotype de la Catalogne",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004213839.webp"
   },
   {
     "displayName": "Array",
     "langName": "une série",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Attributs structurels",
     "preview": "https://img.aishort.top/imgprompt/20260225004227381.webp"
   },
   {
     "displayName": "Thick",
     "langName": "épais",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Attributs structurels",
     "preview": "https://img.aishort.top/imgprompt/20260225091801001.webp"
   },
   {
     "displayName": "Flexible",
     "langName": "Flexible",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Attributs structurels",
     "preview": "https://img.aishort.top/imgprompt/20260225004304932.webp"
   },
   {
     "displayName": "Vertex",
     "langName": "sommet",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004319879.webp"
   },
   {
     "displayName": "Edge",
     "langName": "bord",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004335931.webp"
   },
   {
     "displayName": "Surface",
     "langName": "surface",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004351465.webp"
   },
   {
     "displayName": "Interior",
     "langName": "interne",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004403628.webp"
   },
   {
     "displayName": "Exterior",
     "langName": "externe",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004418860.webp"
   },
   {
     "displayName": "Convex",
     "langName": "convexe",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004433806.webp"
   },
   {
     "displayName": "Concave",
     "langName": "concave",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004446011.webp"
   },
   {
     "displayName": "Equiangular",
     "langName": "Equiangulaire",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004458378.webp"
   },
   {
     "displayName": "Equilateral",
     "langName": "Équilatéral",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004512848.webp"
   },
   {
     "displayName": "Cyclic",
     "langName": "circulaire",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004525059.webp"
   },
   {
     "displayName": "Tangential",
     "langName": "tangente",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004539372.webp"
   },
   {
     "displayName": "Rectilinear",
     "langName": "ligne droite",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004552798.webp"
   },
   {
     "displayName": "Traverse",
     "langName": "à travers",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004605836.webp"
   },
   {
     "displayName": "Quasi",
     "langName": "plan",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004618449.webp"
   },
   {
     "displayName": "Quasi-Regular",
     "langName": "quasi-règles",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004630788.webp"
   },
   {
     "displayName": "Isogonal",
     "langName": "Equiangulaire",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004643952.webp"
   },
   {
     "displayName": "Isotoxal",
     "langName": "En attendant le poison",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004703355.webp"
   },
   {
     "displayName": "Isohedral",
     "langName": "Nouilles égales",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004720817.webp"
   },
   {
     "displayName": "Stellation",
     "langName": "forme d'étoile",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004733028.webp"
   },
   {
     "displayName": "Ehrhart Polynomial",
     "langName": "Polynôme d'Ehrhart",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004759911.webp"
   },
   {
     "displayName": "Ideal polyhedron",
     "langName": "polyèdre idéal",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004820319.webp"
   },
   {
     "displayName": "Polytope",
     "langName": "polytope",
-    "object": "Composition géométrique",
+    "object": "Forme et espace",
     "attribute": "Caractéristique",
     "preview": "https://img.aishort.top/imgprompt/20260225004835943.webp"
   },
@@ -31776,7 +31776,7 @@
   },
   {
     "displayName": "Fountain Pen",
-    "langName": "stylo",
+    "langName": "stylo plume",
     "object": "Type d'image",
     "attribute": "Encre",
     "preview": "https://img.aishort.top/imgprompt/20260225010527552.webp"
@@ -33710,154 +33710,154 @@
     "displayName": "Massive Scale",
     "langName": "à grande échelle",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021412442.webp"
   },
   {
     "displayName": "Massive",
     "langName": "Un grand nombre de",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021424661.webp"
   },
   {
     "displayName": "Huge",
     "langName": "énorme",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021436915.webp"
   },
   {
     "displayName": "Large",
     "langName": "grand",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021449153.webp"
   },
   {
     "displayName": "Big",
     "langName": "grand",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021501425.webp"
   },
   {
     "displayName": "Mini",
     "langName": "mini",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021513495.webp"
   },
   {
     "displayName": "Tiny",
     "langName": "petit",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021525298.webp"
   },
   {
     "displayName": "Micro",
     "langName": "microscopique",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021537484.webp"
   },
   {
     "displayName": "Nano",
     "langName": "nanomètre",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021549402.webp"
   },
   {
     "displayName": "ultra-high definition",
     "langName": "ultra haute définition",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021601485.webp"
   },
   {
     "displayName": "4k",
     "langName": "4k",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021613507.webp"
   },
   {
     "displayName": "8K",
     "langName": "8K",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225092105100.webp"
   },
   {
     "displayName": "16k",
     "langName": "16k",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021635791.webp"
   },
   {
     "displayName": "32k",
     "langName": "32k",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021647649.webp"
   },
   {
     "displayName": "Full-HD",
     "langName": "Full HD",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021659453.webp"
   },
   {
     "displayName": "HD",
     "langName": "HD",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021715675.webp"
   },
   {
     "displayName": "Ultra-HD",
     "langName": "ultra haute définition",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021731398.webp"
   },
   {
     "displayName": "Super-Resolution",
     "langName": "super résolution",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021746855.webp"
   },
   {
     "displayName": "Megapixel",
     "langName": "mégapixels",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021759053.webp"
   },
   {
     "displayName": "absurdres",
     "langName": "ultra haute résolution",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021811240.webp"
   },
   {
     "displayName": "incredibly absurdres",
     "langName": "une résolution extrêmement élevée",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021823301.webp"
   },
   {
     "displayName": "huge filesize",
     "langName": "Très haute résolution/grands fichiers",
     "object": "Post-traitement",
-    "attribute": "Résolution",
+    "attribute": "Échelle",
     "preview": "https://img.aishort.top/imgprompt/20260225021835252.webp"
   },
   {

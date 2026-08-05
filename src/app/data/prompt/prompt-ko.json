@@ -1206,7 +1206,7 @@
   },
   {
     "displayName": "oil_skin",
-    "langName": "oil skin",
+    "langName": "지성 피부",
     "object": "캐릭터",
     "attribute": "피부",
     "preview": "https://img.aishort.top/imgprompt/20260210195122883.webp"
@@ -2907,7 +2907,7 @@
   },
   {
     "displayName": "hollow_eyes",
-    "langName": "별모양_동공",
+    "langName": "생기 없는 눈",
     "object": "캐릭터",
     "attribute": "눈",
     "preview": "https://img.aishort.top/imgprompt/20260211141950217.webp"
@@ -3229,7 +3229,7 @@
   },
   {
     "displayName": "blue_pupils",
-    "langName": "주황색 눈동자",
+    "langName": "파란색 눈동자",
     "object": "캐릭터",
     "attribute": "동공",
     "preview": "https://img.aishort.top/imgprompt/20260211143024647.webp"
@@ -3390,7 +3390,7 @@
   },
   {
     "displayName": "extra_pupils",
-    "langName": "추가 학생",
+    "langName": "추가 동공",
     "object": "캐릭터",
     "attribute": "동공",
     "preview": "https://img.aishort.top/imgprompt/20260211143515703.webp"
@@ -5384,7 +5384,7 @@
   },
   {
     "displayName": "lunar",
-    "langName": "음력, _음력;",
+    "langName": "달의",
     "object": "환경",
     "attribute": "하늘",
     "preview": "https://img.aishort.top/imgprompt/20260211153840964.webp"
@@ -9873,301 +9873,301 @@
     "displayName": "arms_up",
     "langName": "손을 들어보세요",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175530980.webp"
   },
   {
     "displayName": "arms_crossed",
     "langName": "가슴에 손을 교차하다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175543922.webp"
   },
   {
     "displayName": "crossed_arms",
     "langName": "팔짱을 끼다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175556789.webp"
   },
   {
     "displayName": "arms_at_sides",
     "langName": "손을 아래로",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175609687.webp"
   },
   {
     "displayName": "arm_at_side",
     "langName": "한 손을 아래로 내리다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175622234.webp"
   },
   {
     "displayName": "arms_behind_back",
     "langName": "손을 등 뒤에 두다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175634829.webp"
   },
   {
     "displayName": "arms_behind_head",
     "langName": "손으로 머리를 잡다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175647169.webp"
   },
   {
     "displayName": "arm_behind_head",
     "langName": "머리 뒤에 손",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175659736.webp"
   },
   {
     "displayName": "arm_behind_back",
     "langName": "한 손을 등 뒤에 두세요",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260212075132956.webp"
   },
   {
     "displayName": "hands_clasped",
     "langName": "양손의 손가락을 교차함 | 꽉 움켜쥔 손",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
   },
   {
     "displayName": "interlocked_fingers",
     "langName": "손을 꽉 쥐다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175736751.webp"
   },
   {
     "displayName": "arm_support",
     "langName": "손으로 지지하다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175748994.webp"
   },
   {
     "displayName": "arm_above_head",
     "langName": "머리에 손을 얹다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260213094908585.webp"
   },
   {
     "displayName": "outstretched_arms",
     "langName": "팔을 뻗다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175813007.webp"
   },
   {
     "displayName": "hands_in_opposite_sleeves",
     "langName": "손을 교차하여 소매에 넣으세요",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
   },
   {
     "displayName": "v_arms",
     "langName": "두 팔로 V 자를 만들어 보세요",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175838045.webp"
   },
   {
     "displayName": "w_arms",
     "langName": "팔은 W 위치",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175850840.webp"
   },
   {
     "displayName": "sharp_fingernails",
     "langName": "날카로운 손톱",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
   },
   {
     "displayName": "spread_fingers",
     "langName": "손가락을 벌려라",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175916068.webp"
   },
   {
     "displayName": "trigger_discipline",
     "langName": "방아쇠에 손가락을 대지 마세요",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175928974.webp"
   },
   {
     "displayName": "w",
     "langName": "W 보다 손가락",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175941737.webp"
   },
   {
     "displayName": "bound_arms",
     "langName": "팔은 묶여있다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175955270.webp"
   },
   {
     "displayName": "extra_arms",
     "langName": "여러 팔",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180008191.webp"
   },
   {
     "displayName": "locked_arms",
     "langName": "팔을 잡고",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180021217.webp"
   },
   {
     "displayName": "convenient_arm",
     "langName": "팔의 핵심 부분을 덮다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180033673.webp"
   },
   {
     "displayName": "arm_cannon",
     "langName": "핸드 캐논",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180046505.webp"
   },
   {
     "displayName": "arm_ribbon",
     "langName": "팔 리본",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180058970.webp"
   },
   {
     "displayName": "arm_held_back",
     "langName": "팔을 뒤로 당기세요",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180112475.webp"
   },
   {
     "displayName": "hugging_own_legs",
     "langName": "다리를 꼭 껴안아요",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180124920.webp"
   },
   {
     "displayName": "trembling",
     "langName": "떨림",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180137998.webp"
   },
   {
     "displayName": "rolleyes",
     "langName": "눈을 굴리다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180150675.webp"
   },
   {
     "displayName": "clenched hand",
     "langName": "꽉 쥐어진 주먹",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180203512.webp"
   },
   {
     "displayName": "covering_xx",
     "langName": "커버 xx",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
   },
   {
     "displayName": "double piece pose",
     "langName": "손 V 사인",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260212075155741.webp"
   },
   {
     "displayName": "hands in hair",
     "langName": "손으로 머리 빗기",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180240957.webp"
   },
   {
     "displayName": "hidden hands",
     "langName": "손을 숨기다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180253482.webp"
   },
   {
     "displayName": "open hands",
     "langName": "열린 손",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180305978.webp"
   },
   {
     "displayName": "own hands clasped",
     "langName": "손을 꽉 쥐다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180318354.webp"
   },
   {
     "displayName": "own hands together",
     "langName": "손을 모다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180330982.webp"
   },
   {
     "displayName": "peace sign",
     "langName": "가위손",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180343460.webp"
   },
   {
     "displayName": "presenting armpit",
     "langName": "겨드랑이를 보여주세요",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180356051.webp"
   },
   {
     "displayName": "spread arms",
     "langName": "열린 팔",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180408733.webp"
   },
   {
     "displayName": "tying hair",
     "langName": "머리 묶다",
     "object": "행동",
-    "attribute": "손 동작",
+    "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180421654.webp"
   },
   {
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "더블_브이",
+    "langName": "더블 브이",
     "object": "행동",
     "attribute": "제스처",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -13763,14 +13763,14 @@
   },
   {
     "displayName": ":d",
-    "langName": "행복한 미소_:D😀",
+    "langName": "행복한 미소",
     "object": "표정",
     "attribute": "웃음",
     "preview": "https://img.aishort.top/imgprompt/20260211195749422.webp"
   },
   {
     "displayName": ";d",
-    "langName": "윙크하고 웃어요_:D",
+    "langName": "윙크하고 웃어요",
     "object": "표정",
     "attribute": "웃음",
     "preview": "https://img.aishort.top/imgprompt/20260211195810245.webp"
@@ -14093,7 +14093,7 @@
   },
   {
     "displayName": "sulking",
-    "langName": "화난_불쾌한",
+    "langName": "샐쭉한",
     "object": "표정",
     "attribute": "화남",
     "preview": "https://img.aishort.top/imgprompt/20260213103708924.webp"
@@ -14751,7 +14751,7 @@
   },
   {
     "displayName": "obi",
-    "langName": "의류 (및 의류)",
+    "langName": "오비(기모노 허리띠)",
     "object": "의복",
     "attribute": "옷 스타일",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -20763,7 +20763,7 @@
   },
   {
     "displayName": "pumps",
-    "langName": "하이힐이 달린 로우컷 드레스",
+    "langName": "펌프스",
     "object": "의복",
     "attribute": "신발",
     "preview": "https://img.aishort.top/imgprompt/20260213164252308.webp"
@@ -21003,238 +21003,238 @@
     "displayName": "wide_sleeves",
     "langName": "넓은 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213174402264.webp"
   },
   {
     "displayName": "single_sleeve",
     "langName": "싱글 슬리브",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213174421142.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
     "langName": "비대칭 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213174433704.webp"
   },
   {
     "displayName": "puffy_sleeves",
     "langName": "퍼피 슬리브",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213174452709.webp"
   },
   {
     "displayName": "puffy_long_sleeves",
     "langName": "부풀린 긴 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213174505622.webp"
   },
   {
     "displayName": "puffy_short_sleeves",
     "langName": "퍼피 반팔",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
   },
   {
     "displayName": "frilled_sleeves",
     "langName": "주름 장식이 있는 소매 가장자리",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213174936053.webp"
   },
   {
     "displayName": "juliet_sleeves",
     "langName": "줄리엣 슬리브",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260225105600224.webp"
   },
   {
     "displayName": "bandaged_arm",
     "langName": "팔에 붕대를 감다",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175209308.webp"
   },
   {
     "displayName": "raglan_sleeves",
     "langName": "라글런 슬리브",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175222011.webp"
   },
   {
     "displayName": "vambraces",
     "langName": "하완 장갑",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175234968.webp"
   },
   {
     "displayName": "layered_sleeves",
     "langName": "레이어드 슬리브",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175248597.webp"
   },
   {
     "displayName": "fur-trimmed_sleeves",
     "langName": "원단 가장자리 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175301700.webp"
   },
   {
     "displayName": "see-through_sleeves",
     "langName": "투명 슬리브",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175314655.webp"
   },
   {
     "displayName": "torn_sleeves",
     "langName": "찢어진 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175327401.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "손가락보다 긴 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
     "langName": "손목 위 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175353319.webp"
   },
   {
     "displayName": "sleeves_past_elbows",
     "langName": "팔꿈치 위 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175608643.webp"
   },
   {
     "displayName": "sleeves_pushed_up",
     "langName": "푸쉬업 슬리브",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175621831.webp"
   },
   {
     "displayName": "arm_out_of_sleeve",
     "langName": "소매에 팔",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175635409.webp"
   },
   {
     "displayName": "uneven_sleeves",
     "langName": "고르지 않은 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175647988.webp"
   },
   {
     "displayName": "mismatched_sleeves",
     "langName": "소매가 맞지 않다",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175701248.webp"
   },
   {
     "displayName": "sleeve_rolled_up",
     "langName": "소매를 걷어올렸다",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
     "langName": "한쪽 소매를 걷어올렸다",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175726967.webp"
   },
   {
     "displayName": "feather-trimmed_sleeves",
     "langName": "깃털 장식 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213175941889.webp"
   },
   {
     "displayName": "lace-trimmed_sleeves",
     "langName": "레이스 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213180156786.webp"
   },
   {
     "displayName": "pinching_sleeves",
     "langName": "소매를 꼬집어라",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213180210307.webp"
   },
   {
     "displayName": "puffy_detached_sleeves",
     "langName": "퍼피 슬리브",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213180223059.webp"
   },
   {
     "displayName": "ribbed_sleeves",
     "langName": "리브 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
   },
   {
     "displayName": "single_detached_sleeve",
     "langName": "한쪽에만 남아있는 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213180855076.webp"
   },
   {
     "displayName": "sleeves_folded_up",
     "langName": "접힌 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213181110146.webp"
   },
   {
     "displayName": "striped_sleeves",
     "langName": "줄무늬 소매",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213181123268.webp"
   },
   {
     "displayName": "armband",
     "langName": "완장 (armband)",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
   },
   {
     "displayName": "armlet",
     "langName": "팔팔찌",
     "object": "의복",
-    "attribute": "팔",
+    "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213190711002.webp"
   },
   {
@@ -23934,7 +23934,7 @@
   },
   {
     "displayName": "cross-body bag",
-    "langName": "크로스바디 백",
+    "langName": "크로스백",
     "object": "장신구",
     "attribute": "액세서리",
     "preview": "https://img.aishort.top/imgprompt/20260214014456643.webp"
@@ -24074,14 +24074,14 @@
   },
   {
     "displayName": "Aerial View",
-    "langName": "위에서 본 모습",
+    "langName": "항공 시점",
     "object": "사진",
     "attribute": "시점",
     "preview": "https://img.aishort.top/imgprompt/20260214023207316.webp"
   },
   {
     "displayName": "Top-View",
-    "langName": "위에서 본 모습",
+    "langName": "위에서 본 시점",
     "object": "사진",
     "attribute": "시점",
     "preview": "https://img.aishort.top/imgprompt/20260214023423183.webp"
@@ -26735,7 +26735,7 @@
   },
   {
     "displayName": "lightblue",
-    "langName": "연한 파란색",
+    "langName": "하늘색",
     "object": "색감",
     "attribute": "밝은 톤",
     "preview": "https://img.aishort.top/imgprompt/20260224220333904.webp"
@@ -26756,7 +26756,7 @@
   },
   {
     "displayName": "paleturquoise",
-    "langName": "연한 청록색",
+    "langName": "페일 터콰이즈",
     "object": "색감",
     "attribute": "밝은 톤",
     "preview": "https://img.aishort.top/imgprompt/20260224220418876.webp"
@@ -27134,7 +27134,7 @@
   },
   {
     "displayName": "royalblue",
-    "langName": "로얄 블루",
+    "langName": "로열 블루",
     "object": "색감",
     "attribute": "스펙트럼 색상",
     "preview": "https://img.aishort.top/imgprompt/20260224221743869.webp"
@@ -27155,28 +27155,28 @@
   },
   {
     "displayName": "darkblue",
-    "langName": "진한 파란색",
+    "langName": "진한 파랑",
     "object": "색감",
     "attribute": "스펙트럼 색상",
     "preview": "https://img.aishort.top/imgprompt/20260224221832342.webp"
   },
   {
     "displayName": "navy",
-    "langName": "네이비 블루",
+    "langName": "네이비",
     "object": "색감",
     "attribute": "스펙트럼 색상",
     "preview": "https://img.aishort.top/imgprompt/20260224221845774.webp"
   },
   {
     "displayName": "midnightblue",
-    "langName": "미드나잇 블루",
+    "langName": "미드나이트 블루",
     "object": "색감",
     "attribute": "스펙트럼 색상",
     "preview": "https://img.aishort.top/imgprompt/20260224221901073.webp"
   },
   {
     "displayName": "darkcyan",
-    "langName": "물오리",
+    "langName": "다크 시안",
     "object": "색감",
     "attribute": "스펙트럼 색상",
     "preview": "https://img.aishort.top/imgprompt/20260224221915905.webp"
@@ -27204,21 +27204,21 @@
   },
   {
     "displayName": "aquamarine",
-    "langName": "터키 옥",
+    "langName": "아쿠아마린",
     "object": "색감",
     "attribute": "스펙트럼 색상",
     "preview": "https://img.aishort.top/imgprompt/20260224222012509.webp"
   },
   {
     "displayName": "lightcyan",
-    "langName": "파란색",
+    "langName": "라이트 시안",
     "object": "색감",
     "attribute": "스펙트럼 색상",
     "preview": "https://img.aishort.top/imgprompt/20260224222026323.webp"
   },
   {
     "displayName": "cyan",
-    "langName": "터키 옥",
+    "langName": "시안",
     "object": "색감",
     "attribute": "스펙트럼 색상",
     "preview": "https://img.aishort.top/imgprompt/20260224222040633.webp"
@@ -27624,7 +27624,7 @@
   },
   {
     "displayName": "Supplementary-Colors",
-    "langName": "보색",
+    "langName": "보조색",
     "object": "색감",
     "attribute": "색상 팔레트",
     "preview": "https://img.aishort.top/imgprompt/20260224223528366.webp"
@@ -27765,14 +27765,14 @@
   },
   {
     "displayName": "flat_color",
-    "langName": "단색",
+    "langName": "평면색",
     "object": "색감",
     "attribute": "모노크롬 팔레트",
     "preview": "https://img.aishort.top/imgprompt/20260317075810679.webp"
   },
   {
     "displayName": "spot_color",
-    "langName": "단색",
+    "langName": "별색",
     "object": "색감",
     "attribute": "모노크롬 팔레트",
     "preview": "https://img.aishort.top/imgprompt/20260224224025193.webp"
@@ -27919,21 +27919,21 @@
   },
   {
     "displayName": "HSV",
-    "langName": "색조, 채도, 명도",
+    "langName": "색상, 채도, 명도",
     "object": "색감",
     "attribute": "모니터 색상 팔레트",
     "preview": "https://img.aishort.top/imgprompt/20260224224548087.webp"
   },
   {
     "displayName": "HSL",
-    "langName": "색조, 채도, 밝기",
+    "langName": "색상, 채도, 밝기",
     "object": "색감",
     "attribute": "모니터 색상 팔레트",
     "preview": "https://img.aishort.top/imgprompt/20260224224601439.webp"
   },
   {
     "displayName": "HCL",
-    "langName": "색조, 채도, 조명",
+    "langName": "색상, 크로마, 휘도",
     "object": "색감",
     "attribute": "모니터 색상 팔레트",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
@@ -28073,7 +28073,7 @@
   },
   {
     "displayName": "Kinemacolor",
-    "langName": "필름 컬러",
+    "langName": "키네마컬러",
     "object": "색감",
     "attribute": "영화 제작",
     "preview": "https://img.aishort.top/imgprompt/20260224225130563.webp"
@@ -28087,7 +28087,7 @@
   },
   {
     "displayName": "Cinecolor",
-    "langName": "영화색깔",
+    "langName": "시네컬러",
     "object": "색감",
     "attribute": "영화 제작",
     "preview": "https://img.aishort.top/imgprompt/20260224225201683.webp"
@@ -28124,35 +28124,35 @@
     "displayName": "Bump Map",
     "langName": "범프 맵",
     "object": "소재",
-    "attribute": "지도",
+    "attribute": "텍스처 맵",
     "preview": "https://img.aishort.top/imgprompt/20260224225344573.webp"
   },
   {
     "displayName": "Bump Mapped",
     "langName": "범프 맵 포함",
     "object": "소재",
-    "attribute": "지도",
+    "attribute": "텍스처 맵",
     "preview": "https://img.aishort.top/imgprompt/20260224225400692.webp"
   },
   {
     "displayName": "Bump Mapping",
     "langName": "범프 매핑",
     "object": "소재",
-    "attribute": "지도",
+    "attribute": "텍스처 맵",
     "preview": "https://img.aishort.top/imgprompt/20260224225415653.webp"
   },
   {
     "displayName": "Normal Map",
     "langName": "일반 맵",
     "object": "소재",
-    "attribute": "지도",
+    "attribute": "텍스처 맵",
     "preview": "https://img.aishort.top/imgprompt/20260224225432546.webp"
   },
   {
     "displayName": "Depth Map",
     "langName": "깊이 지도",
     "object": "소재",
-    "attribute": "지도",
+    "attribute": "텍스처 맵",
     "preview": "https://img.aishort.top/imgprompt/20260224225447643.webp"
   },
   {
@@ -31776,7 +31776,7 @@
   },
   {
     "displayName": "Fountain Pen",
-    "langName": "펜",
+    "langName": "만년필",
     "object": "이미지 유형",
     "attribute": "잉크",
     "preview": "https://img.aishort.top/imgprompt/20260225010527552.webp"
@@ -33710,154 +33710,154 @@
     "displayName": "Massive Scale",
     "langName": "대판",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021412442.webp"
   },
   {
     "displayName": "Massive",
     "langName": "많은",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021424661.webp"
   },
   {
     "displayName": "Huge",
     "langName": "거대한",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021436915.webp"
   },
   {
     "displayName": "Large",
     "langName": "큰",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021449153.webp"
   },
   {
     "displayName": "Big",
     "langName": "큰",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021501425.webp"
   },
   {
     "displayName": "Mini",
     "langName": "미니",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021513495.webp"
   },
   {
     "displayName": "Tiny",
     "langName": "작은",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021525298.webp"
   },
   {
     "displayName": "Micro",
     "langName": "미세한",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021537484.webp"
   },
   {
     "displayName": "Nano",
     "langName": "나노미터",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021549402.webp"
   },
   {
     "displayName": "ultra-high definition",
     "langName": "초고화질",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021601485.webp"
   },
   {
     "displayName": "4k",
     "langName": "4k",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021613507.webp"
   },
   {
     "displayName": "8K",
     "langName": "8K",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225092105100.webp"
   },
   {
     "displayName": "16k",
     "langName": "16k",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021635791.webp"
   },
   {
     "displayName": "32k",
     "langName": "3 만 2 천",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021647649.webp"
   },
   {
     "displayName": "Full-HD",
     "langName": "풀 HD",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021659453.webp"
   },
   {
     "displayName": "HD",
     "langName": "HD",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021715675.webp"
   },
   {
     "displayName": "Ultra-HD",
     "langName": "초고화질",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021731398.webp"
   },
   {
     "displayName": "Super-Resolution",
     "langName": "초고해상도",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021746855.webp"
   },
   {
     "displayName": "Megapixel",
     "langName": "메가픽셀",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021759053.webp"
   },
   {
     "displayName": "absurdres",
     "langName": "초고해상도",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021811240.webp"
   },
   {
     "displayName": "incredibly absurdres",
     "langName": "매우 높은 해상도",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021823301.webp"
   },
   {
     "displayName": "huge filesize",
     "langName": "초고해상도/대용량 파일",
     "object": "후처리",
-    "attribute": "해상도",
+    "attribute": "스케일",
     "preview": "https://img.aishort.top/imgprompt/20260225021835252.webp"
   },
   {

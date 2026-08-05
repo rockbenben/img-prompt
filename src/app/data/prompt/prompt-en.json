@@ -2907,7 +2907,7 @@
   },
   {
     "displayName": "hollow_eyes",
-    "langName": "star-shaped_pupils",
+    "langName": "lifeless eyes",
     "object": "Character",
     "attribute": "Eye",
     "preview": "https://img.aishort.top/imgprompt/20260211141950217.webp"
@@ -5384,7 +5384,7 @@
   },
   {
     "displayName": "lunar",
-    "langName": "lunar, _lunar;",
+    "langName": "lunar",
     "object": "Environment",
     "attribute": "Sky",
     "preview": "https://img.aishort.top/imgprompt/20260211153840964.webp"
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "double_v",
+    "langName": "double v",
     "object": "Action",
     "attribute": "Hand Signals",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -10923,406 +10923,406 @@
     "displayName": "grabbing",
     "langName": "catch | grasp",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211182746767.webp"
   },
   {
     "displayName": "arm_grab",
     "langName": "grab arm",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211182801016.webp"
   },
   {
     "displayName": "hair_grab",
     "langName": "grabbing hair",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211182815653.webp"
   },
   {
     "displayName": "leg_grab",
     "langName": "holding on to legs",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211182830383.webp"
   },
   {
     "displayName": "wrist_grab",
     "langName": "grabbing the wrist",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211182844025.webp"
   },
   {
     "displayName": "hands_on_another's",
     "langName": "Put your hands on someone else's face",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
     "langName": "Put your hands on each other's cheeks",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
     "langName": "Put your hands on someone else's shoulders",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
   },
   {
     "displayName": "hands_on_own_chest",
     "langName": "Put your hands on your chest",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211182940481.webp"
   },
   {
     "displayName": "hands_on_own_face",
     "langName": "Put your hands on your face",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211182954450.webp"
   },
   {
     "displayName": "hands_on_own_cheeks",
     "langName": "Put your hands on your cheeks",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183008227.webp"
   },
   {
     "displayName": "hands_on_own_head",
     "langName": "Put your hands on your head",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183022984.webp"
   },
   {
     "displayName": "hands_on_own_knees",
     "langName": "Put your hands on your knees",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183037077.webp"
   },
   {
     "displayName": "hands_on_own_stomach",
     "langName": "Put your hands on your belly",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183050952.webp"
   },
   {
     "displayName": "hands_on_own_thighs",
     "langName": "Put your hands on your thighs",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260317065619129.webp"
   },
   {
     "displayName": "hands_on_hips",
     "langName": "hands on hips | hands on hips",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260213094956459.webp"
   },
   {
     "displayName": "hands_on_lap",
     "langName": "Put your hands between your legs",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183130992.webp"
   },
   {
     "displayName": "ass_grab",
     "langName": "grabbing ass",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183144840.webp"
   },
   {
     "displayName": "flat_chest_grab",
     "langName": "Grasping small breasts",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260317065640430.webp"
   },
   {
     "displayName": "grabbing_another's_ass",
     "langName": "Grabbing each other's butt",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183204452.webp"
   },
   {
     "displayName": "grabbing_another's_hair",
     "langName": "Grabbing each other's hair",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183218156.webp"
   },
   {
     "displayName": "grabbing_from_behind",
     "langName": "Rub breasts from behind | Grab breasts from behind",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
   },
   {
     "displayName": "grabbing_own_ass",
     "langName": "grabbing one's ass",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260212075317813.webp"
   },
   {
     "displayName": "thigh_grab",
     "langName": "Grabbing the thigh",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260225084111877.webp"
   },
   {
     "displayName": "torso_grab",
     "langName": "clutching torso",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260213095227366.webp"
   },
   {
     "displayName": "hands_on_ass",
     "langName": "Put your hands on your butt",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260317092444164.webp"
   },
   {
     "displayName": "hands_on_feet",
     "langName": "Put your hands on your feet",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260317092444169.webp"
   },
   {
     "displayName": "hands_on_headwear",
     "langName": "Touching the ornaments on the head with both hands",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
     "langName": "Put your hands on the handle of the knife",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
   },
   {
     "displayName": "necktie_grab",
     "langName": "Holding on to the tie",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183430733.webp"
   },
   {
     "displayName": "neckwear_grab",
     "langName": "Clutching the clothes around the neck",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
   },
   {
     "displayName": "pillow_grab",
     "langName": "Grabbing a pillow",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183459740.webp"
   },
   {
     "displayName": "sheet_grab",
     "langName": "clutching the sheets",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183513700.webp"
   },
   {
     "displayName": "tail_grab",
     "langName": "grabbing the tail",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183527324.webp"
   },
   {
     "displayName": "breast lift",
     "langName": "Holding breasts with hands",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260317093139915.webp"
   },
   {
     "displayName": "hand between legs",
     "langName": "Hands between legs",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183554596.webp"
   },
   {
     "displayName": "hand_in_another's_hair",
     "langName": "Put your hands on the other person’s hair",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
   },
   {
     "displayName": "hand_in_hair",
     "langName": "hands buried in hair",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183624075.webp"
   },
   {
     "displayName": "hand_in_pocket",
     "langName": "hands in pockets",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183638062.webp"
   },
   {
     "displayName": "hand_on_another's",
     "langName": "Hands touch the other person's face",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183651733.webp"
   },
   {
     "displayName": "hand_on_another's_cheek",
     "langName": "Hand touching each other's cheek",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183705492.webp"
   },
   {
     "displayName": "hand_on_another's_chest",
     "langName": "Put your hands on the other person's chest",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183718013.webp"
   },
   {
     "displayName": "hand_on_another's_chin",
     "langName": "Hold the other person's chin with your hand",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
   },
   {
     "displayName": "hand_on_another's_head",
     "langName": "Put your hands on the other person's head",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183743006.webp"
   },
   {
     "displayName": "hand_on_another's_shoulder",
     "langName": "Put your hands on the other person's shoulders",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183755722.webp"
   },
   {
     "displayName": "hand_on_another's_stomach",
     "langName": "Put your hands on the other person’s belly",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
   },
   {
     "displayName": "hand_on_ass",
     "langName": "hands on butt",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183820817.webp"
   },
   {
     "displayName": "hand_on_head",
     "langName": "hands on head",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183833258.webp"
   },
   {
     "displayName": "hand_on_headwear",
     "langName": "hand touching hat",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183845740.webp"
   },
   {
     "displayName": "hand_on_hilt",
     "langName": "Hand resting on the handle of the knife",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
   },
   {
     "displayName": "hand_on_hip",
     "langName": "hands on hips | hands on hips",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183911177.webp"
   },
   {
     "displayName": "hand_on_own",
     "langName": "Put your hands on your face",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183923564.webp"
   },
   {
     "displayName": "hand_on_own_cheek",
     "langName": "Put your hands on your cheeks",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183936115.webp"
   },
   {
     "displayName": "hand_on_own_chest",
     "langName": "Put your hands on your chest",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260212075434682.webp"
   },
   {
     "displayName": "hand_on_own_chin",
     "langName": "Hand touches his chin",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211184000337.webp"
   },
   {
     "displayName": "hand_on_own_stomach",
     "langName": "Put your hands on your belly",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260212075648271.webp"
   },
   {
     "displayName": "hand_on_shoulder",
     "langName": "hands on shoulders",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211184024343.webp"
   },
   {
     "displayName": "leg hold",
     "langName": "Holding the legs with hands",
     "object": "Action",
-    "attribute": "Hand (put somewhere)",
+    "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211184036829.webp"
   },
   {
@@ -13763,14 +13763,14 @@
   },
   {
     "displayName": ":d",
-    "langName": "Happy smile_:D😀",
+    "langName": "Happy smile",
     "object": "Expression",
     "attribute": "Laugh",
     "preview": "https://img.aishort.top/imgprompt/20260211195749422.webp"
   },
   {
     "displayName": ";d",
-    "langName": "Wink and smile_:D",
+    "langName": "Wink and smile",
     "object": "Expression",
     "attribute": "Laugh",
     "preview": "https://img.aishort.top/imgprompt/20260211195810245.webp"
@@ -14093,7 +14093,7 @@
   },
   {
     "displayName": "sulking",
-    "langName": "angry_sulky",
+    "langName": "sulking",
     "object": "Expression",
     "attribute": "Angry",
     "preview": "https://img.aishort.top/imgprompt/20260213103708924.webp"
@@ -14751,7 +14751,7 @@
   },
   {
     "displayName": "obi",
-    "langName": "Garments (and clothing)",
+    "langName": "Obi (kimono sash)",
     "object": "Apparel",
     "attribute": "Clothing Style",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "cardigan jacket (with spread_legs)",
+    "langName": "cardigan jacket (with spread legs)",
     "object": "Apparel",
     "attribute": "Coat",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -20763,7 +20763,7 @@
   },
   {
     "displayName": "pumps",
-    "langName": "Low-cut dress with high heels",
+    "langName": "Pumps",
     "object": "Apparel",
     "attribute": "Shoe",
     "preview": "https://img.aishort.top/imgprompt/20260213164252308.webp"
@@ -21003,238 +21003,238 @@
     "displayName": "wide_sleeves",
     "langName": "wide sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213174402264.webp"
   },
   {
     "displayName": "single_sleeve",
     "langName": "single sleeve",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213174421142.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
     "langName": "asymmetrical sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213174433704.webp"
   },
   {
     "displayName": "puffy_sleeves",
     "langName": "puffy sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213174452709.webp"
   },
   {
     "displayName": "puffy_long_sleeves",
     "langName": "puffy long sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213174505622.webp"
   },
   {
     "displayName": "puffy_short_sleeves",
     "langName": "puffy short sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
   },
   {
     "displayName": "frilled_sleeves",
     "langName": "ruffled sleeve edges",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213174936053.webp"
   },
   {
     "displayName": "juliet_sleeves",
     "langName": "Juliet sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260225105600224.webp"
   },
   {
     "displayName": "bandaged_arm",
     "langName": "arm bandaged",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175209308.webp"
   },
   {
     "displayName": "raglan_sleeves",
     "langName": "Raglan sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175222011.webp"
   },
   {
     "displayName": "vambraces",
     "langName": "Lower arm armor",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175234968.webp"
   },
   {
     "displayName": "layered_sleeves",
     "langName": "layered sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175248597.webp"
   },
   {
     "displayName": "fur-trimmed_sleeves",
     "langName": "raw edge sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175301700.webp"
   },
   {
     "displayName": "see-through_sleeves",
     "langName": "Transparent sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175314655.webp"
   },
   {
     "displayName": "torn_sleeves",
     "langName": "torn sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175327401.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "Sleeves longer than fingers",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
     "langName": "Sleeves above wrist",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175353319.webp"
   },
   {
     "displayName": "sleeves_past_elbows",
     "langName": "Sleeves above elbow",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175608643.webp"
   },
   {
     "displayName": "sleeves_pushed_up",
     "langName": "push up sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175621831.webp"
   },
   {
     "displayName": "arm_out_of_sleeve",
     "langName": "arms in sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175635409.webp"
   },
   {
     "displayName": "uneven_sleeves",
     "langName": "uneven sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175647988.webp"
   },
   {
     "displayName": "mismatched_sleeves",
     "langName": "mismatched sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175701248.webp"
   },
   {
     "displayName": "sleeve_rolled_up",
     "langName": "sleeves rolled up",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
     "langName": "One sleeve rolled up",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175726967.webp"
   },
   {
     "displayName": "feather-trimmed_sleeves",
     "langName": "Feather trimmed sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213175941889.webp"
   },
   {
     "displayName": "lace-trimmed_sleeves",
     "langName": "lace sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213180156786.webp"
   },
   {
     "displayName": "pinching_sleeves",
     "langName": "Pinch your sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213180210307.webp"
   },
   {
     "displayName": "puffy_detached_sleeves",
     "langName": "puffy sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213180223059.webp"
   },
   {
     "displayName": "ribbed_sleeves",
     "langName": "ribbed sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
   },
   {
     "displayName": "single_detached_sleeve",
     "langName": "Sleeve that remains on one side",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213180855076.webp"
   },
   {
     "displayName": "sleeves_folded_up",
     "langName": "folded sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213181110146.webp"
   },
   {
     "displayName": "striped_sleeves",
     "langName": "striped sleeves",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213181123268.webp"
   },
   {
     "displayName": "armband",
     "langName": "armband (armband)",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
   },
   {
     "displayName": "armlet",
     "langName": "arm bracelet",
     "object": "Apparel",
-    "attribute": "Arm",
+    "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213190711002.webp"
   },
   {
@@ -24074,7 +24074,7 @@
   },
   {
     "displayName": "Aerial View",
-    "langName": "top view",
+    "langName": "aerial view",
     "object": "Photography",
     "attribute": "Perspective",
     "preview": "https://img.aishort.top/imgprompt/20260214023207316.webp"
@@ -26219,168 +26219,168 @@
     "displayName": "Transparent",
     "langName": "transparent",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224210545565.webp"
   },
   {
     "displayName": "Translucent",
     "langName": "translucent",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224210800718.webp"
   },
   {
     "displayName": "Opaque",
     "langName": "opaque",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224210814362.webp"
   },
   {
     "displayName": "Rough",
     "langName": "rough",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224210828738.webp"
   },
   {
     "displayName": "Matte",
     "langName": "matte",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224210842440.webp"
   },
   {
     "displayName": "Glossy",
     "langName": "luster",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224210855666.webp"
   },
   {
     "displayName": "smooth",
     "langName": "smooth",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224211112706.webp"
   },
   {
     "displayName": "Shiny",
     "langName": "shiny",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224211127584.webp"
   },
   {
     "displayName": "Reflective",
     "langName": "Reflective",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224211141551.webp"
   },
   {
     "displayName": "Polished",
     "langName": "polishing",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224211358630.webp"
   },
   {
     "displayName": "Shadows",
     "langName": "shadow",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224211614929.webp"
   },
   {
     "displayName": "Shimmer",
     "langName": "shimmer",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224211830714.webp"
   },
   {
     "displayName": "Shimmering",
     "langName": "sparkling",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224212046910.webp"
   },
   {
     "displayName": "Caustics",
     "langName": "Caustics",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224212303506.webp"
   },
   {
     "displayName": "Refractive",
     "langName": "refraction",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224212519913.webp"
   },
   {
     "displayName": "reflection light",
     "langName": "light reflection",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224212736462.webp"
   },
   {
     "displayName": "Ray Tracing Reflections",
     "langName": "Ray traced reflections",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224212952871.webp"
   },
   {
     "displayName": "Lumen Reflections",
     "langName": "Lumen reflection",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224213208810.webp"
   },
   {
     "displayName": "Screen Space Reflections",
     "langName": "screen space reflection",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224213425137.webp"
   },
   {
     "displayName": "ray tracing",
     "langName": "Ray tracing",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224213641871.webp"
   },
   {
     "displayName": "Ambient Occlusion",
     "langName": "ambient occlusion",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224213859041.webp"
   },
   {
     "displayName": "Scattering",
     "langName": "scattering",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224214116698.webp"
   },
   {
     "displayName": "Diffraction Grading",
     "langName": "diffraction grating",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224214535915.webp"
   },
   {
     "displayName": "RGB Displacement",
     "langName": "RGB shift",
     "object": "Light and shadow effects",
-    "attribute": "Reflection/Refraction",
+    "attribute": "Material Properties",
     "preview": "https://img.aishort.top/imgprompt/20260224214552526.webp"
   },
   {
@@ -26756,7 +26756,7 @@
   },
   {
     "displayName": "paleturquoise",
-    "langName": "light cyan",
+    "langName": "pale turquoise",
     "object": "Color & Atmosphere",
     "attribute": "Light Tones",
     "preview": "https://img.aishort.top/imgprompt/20260224220418876.webp"
@@ -27162,7 +27162,7 @@
   },
   {
     "displayName": "navy",
-    "langName": "navy blue",
+    "langName": "navy",
     "object": "Color & Atmosphere",
     "attribute": "Spectral Colors",
     "preview": "https://img.aishort.top/imgprompt/20260224221845774.webp"
@@ -27176,7 +27176,7 @@
   },
   {
     "displayName": "darkcyan",
-    "langName": "Teal",
+    "langName": "dark cyan",
     "object": "Color & Atmosphere",
     "attribute": "Spectral Colors",
     "preview": "https://img.aishort.top/imgprompt/20260224221915905.webp"
@@ -27204,21 +27204,21 @@
   },
   {
     "displayName": "aquamarine",
-    "langName": "turquoise",
+    "langName": "aquamarine",
     "object": "Color & Atmosphere",
     "attribute": "Spectral Colors",
     "preview": "https://img.aishort.top/imgprompt/20260224222012509.webp"
   },
   {
     "displayName": "lightcyan",
-    "langName": "blue",
+    "langName": "light cyan",
     "object": "Color & Atmosphere",
     "attribute": "Spectral Colors",
     "preview": "https://img.aishort.top/imgprompt/20260224222026323.webp"
   },
   {
     "displayName": "cyan",
-    "langName": "turquoise",
+    "langName": "cyan",
     "object": "Color & Atmosphere",
     "attribute": "Spectral Colors",
     "preview": "https://img.aishort.top/imgprompt/20260224222040633.webp"
@@ -27624,7 +27624,7 @@
   },
   {
     "displayName": "Supplementary-Colors",
-    "langName": "complementary colors",
+    "langName": "supplementary colors",
     "object": "Color & Atmosphere",
     "attribute": "Color palette",
     "preview": "https://img.aishort.top/imgprompt/20260224223528366.webp"
@@ -27919,21 +27919,21 @@
   },
   {
     "displayName": "HSV",
-    "langName": "Hue, saturation, lightness",
+    "langName": "Hue, Saturation, Value",
     "object": "Color & Atmosphere",
     "attribute": "Monitor color palette",
     "preview": "https://img.aishort.top/imgprompt/20260224224548087.webp"
   },
   {
     "displayName": "HSL",
-    "langName": "Hue, saturation, brightness",
+    "langName": "Hue, Saturation, Lightness",
     "object": "Color & Atmosphere",
     "attribute": "Monitor color palette",
     "preview": "https://img.aishort.top/imgprompt/20260224224601439.webp"
   },
   {
     "displayName": "HCL",
-    "langName": "Hue, chroma, illumination",
+    "langName": "Hue, Chroma, Luminance",
     "object": "Color & Atmosphere",
     "attribute": "Monitor color palette",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
@@ -28073,7 +28073,7 @@
   },
   {
     "displayName": "Kinemacolor",
-    "langName": "film color",
+    "langName": "Kinemacolor",
     "object": "Color & Atmosphere",
     "attribute": "Film production",
     "preview": "https://img.aishort.top/imgprompt/20260224225130563.webp"
@@ -28087,7 +28087,7 @@
   },
   {
     "displayName": "Cinecolor",
-    "langName": "movie color",
+    "langName": "Cinecolor",
     "object": "Color & Atmosphere",
     "attribute": "Film production",
     "preview": "https://img.aishort.top/imgprompt/20260224225201683.webp"
@@ -28124,35 +28124,35 @@
     "displayName": "Bump Map",
     "langName": "Bump map",
     "object": "Material",
-    "attribute": "Map",
+    "attribute": "Texture Maps",
     "preview": "https://img.aishort.top/imgprompt/20260224225344573.webp"
   },
   {
     "displayName": "Bump Mapped",
     "langName": "With bump map",
     "object": "Material",
-    "attribute": "Map",
+    "attribute": "Texture Maps",
     "preview": "https://img.aishort.top/imgprompt/20260224225400692.webp"
   },
   {
     "displayName": "Bump Mapping",
     "langName": "Bump mapping",
     "object": "Material",
-    "attribute": "Map",
+    "attribute": "Texture Maps",
     "preview": "https://img.aishort.top/imgprompt/20260224225415653.webp"
   },
   {
     "displayName": "Normal Map",
     "langName": "normal map",
     "object": "Material",
-    "attribute": "Map",
+    "attribute": "Texture Maps",
     "preview": "https://img.aishort.top/imgprompt/20260224225432546.webp"
   },
   {
     "displayName": "Depth Map",
     "langName": "Depth map",
     "object": "Material",
-    "attribute": "Map",
+    "attribute": "Texture Maps",
     "preview": "https://img.aishort.top/imgprompt/20260224225447643.webp"
   },
   {
@@ -30243,7 +30243,7 @@
   },
   {
     "displayName": "Entoloma-Hochstetteri",
-    "langName": "Powderygophyllum holophylla",
+    "langName": "Entoloma hochstetteri",
     "object": "Material",
     "attribute": "Fungi",
     "preview": "https://img.aishort.top/imgprompt/20260225001107659.webp"
@@ -30384,945 +30384,945 @@
   {
     "displayName": "Point",
     "langName": "point",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260317125622840.webp"
   },
   {
     "displayName": "Dot",
     "langName": "point",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225001648256.webp"
   },
   {
     "displayName": "Line",
     "langName": "Wire",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225001701560.webp"
   },
   {
     "displayName": "Curve",
     "langName": "curve",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225001719200.webp"
   },
   {
     "displayName": "Bezier Curve",
     "langName": "Bezier curve",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260317125632465.webp"
   },
   {
     "displayName": "Triangle",
     "langName": "triangle",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225001751586.webp"
   },
   {
     "displayName": "Square",
     "langName": "square",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225001807806.webp"
   },
   {
     "displayName": "Pentagon",
     "langName": "pentagon",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225001823638.webp"
   },
   {
     "displayName": "Hexagon",
     "langName": "hexagon",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225001837829.webp"
   },
   {
     "displayName": "Hexagonal",
     "langName": "hexagon",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225001854127.webp"
   },
   {
     "displayName": "Heptagon",
     "langName": "heptagon",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225001914291.webp"
   },
   {
     "displayName": "Octagon",
     "langName": "octagon",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225001926820.webp"
   },
   {
     "displayName": "Nonagon",
     "langName": "nonagon",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225001939367.webp"
   },
   {
     "displayName": "Decagon",
     "langName": "decagon",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225001952286.webp"
   },
   {
     "displayName": "Rectangle",
     "langName": "rectangle",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225002005291.webp"
   },
   {
     "displayName": "Rectangular",
     "langName": "Rectangular",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225002020029.webp"
   },
   {
     "displayName": "Parallelogram",
     "langName": "parallelogram",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225002034684.webp"
   },
   {
     "displayName": "Rhombus",
     "langName": "diamond",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225002048358.webp"
   },
   {
     "displayName": "Heart",
     "langName": "Heart",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225002101003.webp"
   },
   {
     "displayName": "Spirangle",
     "langName": "spiral",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Shape",
     "preview": "https://img.aishort.top/imgprompt/20260225002113662.webp"
   },
   {
     "displayName": "Cube",
     "langName": "cube",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002127316.webp"
   },
   {
     "displayName": "Cuboid",
     "langName": "cuboid",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002140434.webp"
   },
   {
     "displayName": "Sphere",
     "langName": "sphere",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002154295.webp"
   },
   {
     "displayName": "Cone",
     "langName": "cone",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002209873.webp"
   },
   {
     "displayName": "Cylinder",
     "langName": "cylinder",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002224773.webp"
   },
   {
     "displayName": "Pyramid",
     "langName": "pyramid",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002240031.webp"
   },
   {
     "displayName": "Torus",
     "langName": "torus",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002254551.webp"
   },
   {
     "displayName": "Rectangular Prism",
     "langName": "right angle prism",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002310105.webp"
   },
   {
     "displayName": "Star Prism",
     "langName": "star prism",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002323623.webp"
   },
   {
     "displayName": "Wedge",
     "langName": "Wedge",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002337795.webp"
   },
   {
     "displayName": "Zonohedron",
     "langName": "Polyhedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002353504.webp"
   },
   {
     "displayName": "Tetrahedron",
     "langName": "tetrahedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002408261.webp"
   },
   {
     "displayName": "Octahedron",
     "langName": "octahedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002421259.webp"
   },
   {
     "displayName": "Dodecahedron",
     "langName": "Dodecahedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002435064.webp"
   },
   {
     "displayName": "Icosahedron",
     "langName": "icosahedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002450070.webp"
   },
   {
     "displayName": "Kepler-Poinsot Polyhedra",
     "langName": "Kepler point polyhedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002502267.webp"
   },
   {
     "displayName": "Cuboctahedron",
     "langName": "cuboctahedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002515961.webp"
   },
   {
     "displayName": "Rhombicuboctahedron",
     "langName": "rhombohedral cuboctahedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002531621.webp"
   },
   {
     "displayName": "Icosidodecahedron",
     "langName": "icosahedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002547086.webp"
   },
   {
     "displayName": "Rhombicosidodecahedron",
     "langName": "rhombohedral icosahedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002559328.webp"
   },
   {
     "displayName": "Trapezohedron",
     "langName": "trapezoidal body",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002611910.webp"
   },
   {
     "displayName": "Cupola",
     "langName": "dome",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002624860.webp"
   },
   {
     "displayName": "Anticupola",
     "langName": "reverse dome",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002637534.webp"
   },
   {
     "displayName": "Hypercupolae",
     "langName": "super dome",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002653816.webp"
   },
   {
     "displayName": "Bicupola",
     "langName": "double dome",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002709584.webp"
   },
   {
     "displayName": "Frustum",
     "langName": "truncated cone",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002725220.webp"
   },
   {
     "displayName": "Bifrustum",
     "langName": "double frustum",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002740853.webp"
   },
   {
     "displayName": "Rotunda",
     "langName": "rotunda",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002756804.webp"
   },
   {
     "displayName": "Birotunda",
     "langName": "Double rotunda",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002809431.webp"
   },
   {
     "displayName": "Prismatoid",
     "langName": "prism",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002824251.webp"
   },
   {
     "displayName": "Scutoid",
     "langName": "scaly polyhedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002837306.webp"
   },
   {
     "displayName": "Bipyramid",
     "langName": "double cone",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002850494.webp"
   },
   {
     "displayName": "Star Bipyramid",
     "langName": "star double cone",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002904338.webp"
   },
   {
     "displayName": "Anti-Prism",
     "langName": "Antiprism",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002918169.webp"
   },
   {
     "displayName": "Trapezohedra",
     "langName": "trapezoidal cone",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002931727.webp"
   },
   {
     "displayName": "Star Trapezohedron",
     "langName": "star trapezoidal cone",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002945269.webp"
   },
   {
     "displayName": "Spherical polyhedron",
     "langName": "spherical polyhedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225002957718.webp"
   },
   {
     "displayName": "Mobius strip",
     "langName": "Möbius strip",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225003010574.webp"
   },
   {
     "displayName": "Hexaflexagon",
     "langName": "Hexagonal carton",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260225003023844.webp"
   },
   {
     "displayName": "Miura fold",
     "langName": "Miura folding",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Object",
     "preview": "https://img.aishort.top/imgprompt/20260317080039422.webp"
   },
   {
     "displayName": "Hypercube",
     "langName": "hypercube",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003040457.webp"
   },
   {
     "displayName": "Hyperprism",
     "langName": "super prism",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003055122.webp"
   },
   {
     "displayName": "Hyperpyramid",
     "langName": "super pyramid",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003109109.webp"
   },
   {
     "displayName": "Hypertorus",
     "langName": "hyper torus",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003121717.webp"
   },
   {
     "displayName": "Hypersphere",
     "langName": "Hypersphere",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003136681.webp"
   },
   {
     "displayName": "Hypercone",
     "langName": "Hypercone",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003151169.webp"
   },
   {
     "displayName": "Hypercylinder",
     "langName": "hypercylinder",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003210079.webp"
   },
   {
     "displayName": "Hyperzonohedron",
     "langName": "super polyhedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003229194.webp"
   },
   {
     "displayName": "Hypertetrahedron",
     "langName": "Hypertetrahedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003242504.webp"
   },
   {
     "displayName": "Hyperoctahedron",
     "langName": "superoctahedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003258039.webp"
   },
   {
     "displayName": "Hyperdodecahedron",
     "langName": "superdodecahedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003313806.webp"
   },
   {
     "displayName": "Hypericosahedron",
     "langName": "Supericosahedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003328264.webp"
   },
   {
     "displayName": "Flexible Polyhedron",
     "langName": "elastic polyhedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003341494.webp"
   },
   {
     "displayName": "Klein bottle",
     "langName": "Klein bottle",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003355111.webp"
   },
   {
     "displayName": "Monogon",
     "langName": "Hedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003407817.webp"
   },
   {
     "displayName": "Digon",
     "langName": "dihedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Super shape",
     "preview": "https://img.aishort.top/imgprompt/20260225003423861.webp"
   },
   {
     "displayName": "AR",
     "langName": "Augmented reality",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003436353.webp"
   },
   {
     "displayName": "VR",
     "langName": "virtual reality",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003450517.webp"
   },
   {
     "displayName": "2-Dimensional",
     "langName": "two-dimensional",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003503523.webp"
   },
   {
     "displayName": "2D",
     "langName": "2D",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003517597.webp"
   },
   {
     "displayName": "2.5-Dimensional",
     "langName": "2.5 dimensions",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003530065.webp"
   },
   {
     "displayName": "2.5D",
     "langName": "2.5D",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003546536.webp"
   },
   {
     "displayName": "3-Dimensional",
     "langName": "three dimensional",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003559620.webp"
   },
   {
     "displayName": "3D",
     "langName": "3D",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003613094.webp"
   },
   {
     "displayName": "4-Dimensional",
     "langName": "four dimensional",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003625943.webp"
   },
   {
     "displayName": "4D",
     "langName": "4D",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003640503.webp"
   },
   {
     "displayName": "5-Dimensional",
     "langName": "five dimensions",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003653264.webp"
   },
   {
     "displayName": "5D",
     "langName": "5D",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003707609.webp"
   },
   {
     "displayName": "Overdimensional",
     "langName": "hyperdimensional",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003720889.webp"
   },
   {
     "displayName": "Underdimensional",
     "langName": "second dimension",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003736660.webp"
   },
   {
     "displayName": "Hyperdimensional",
     "langName": "hyperdimensionality",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003749551.webp"
   },
   {
     "displayName": "Subdimensional",
     "langName": "secondary dimension",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003809121.webp"
   },
   {
     "displayName": "Omnidimensional",
     "langName": "full dimension",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003823515.webp"
   },
   {
     "displayName": "Everdimensional",
     "langName": "eternal dimension",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003836946.webp"
   },
   {
     "displayName": "Extradimensional",
     "langName": "Different dimension",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003849661.webp"
   },
   {
     "displayName": "Beyond-Dimensional",
     "langName": "beyond dimensions",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003903819.webp"
   },
   {
     "displayName": "Excessively-dimensional",
     "langName": "excessive dimensionality",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003917272.webp"
   },
   {
     "displayName": "Alldimensional",
     "langName": "full dimension",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003932407.webp"
   },
   {
     "displayName": "Multiverse",
     "langName": "multiverse",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003944859.webp"
   },
   {
     "displayName": "Low Poly",
     "langName": "low-profile modeling",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225003957184.webp"
   },
   {
     "displayName": "Geometric",
     "langName": "geometry",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004009120.webp"
   },
   {
     "displayName": "Non-Euclidian",
     "langName": "Non-Euclidean",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004022234.webp"
   },
   {
     "displayName": "Poly",
     "langName": "Poly",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004035491.webp"
   },
   {
     "displayName": "Polygon",
     "langName": "polygon",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004049585.webp"
   },
   {
     "displayName": "Polygonal",
     "langName": "multilateral",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004103043.webp"
   },
   {
     "displayName": "Polyhedron",
     "langName": "polyhedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004116487.webp"
   },
   {
     "displayName": "Polyhedral",
     "langName": "Many sides",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004129113.webp"
   },
   {
     "displayName": "Platonic Solids",
     "langName": "Platonic solids",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004142601.webp"
   },
   {
     "displayName": "Archimedean Solids",
     "langName": "Archimedean solid",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004154997.webp"
   },
   {
     "displayName": "Catalan solids",
     "langName": "Catalonia Stereotype",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Style",
     "preview": "https://img.aishort.top/imgprompt/20260225004213839.webp"
   },
   {
     "displayName": "Array",
     "langName": "a series",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Structural Attributes",
     "preview": "https://img.aishort.top/imgprompt/20260225004227381.webp"
   },
   {
     "displayName": "Thick",
     "langName": "thick",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Structural Attributes",
     "preview": "https://img.aishort.top/imgprompt/20260225091801001.webp"
   },
   {
     "displayName": "Flexible",
     "langName": "Flexible",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Structural Attributes",
     "preview": "https://img.aishort.top/imgprompt/20260225004304932.webp"
   },
   {
     "displayName": "Vertex",
     "langName": "vertex",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004319879.webp"
   },
   {
     "displayName": "Edge",
     "langName": "edge",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004335931.webp"
   },
   {
     "displayName": "Surface",
     "langName": "surface",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004351465.webp"
   },
   {
     "displayName": "Interior",
     "langName": "internal",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004403628.webp"
   },
   {
     "displayName": "Exterior",
     "langName": "external",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004418860.webp"
   },
   {
     "displayName": "Convex",
     "langName": "convex",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004433806.webp"
   },
   {
     "displayName": "Concave",
     "langName": "concave",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004446011.webp"
   },
   {
     "displayName": "Equiangular",
     "langName": "Equiangular",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004458378.webp"
   },
   {
     "displayName": "Equilateral",
     "langName": "Equilateral",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004512848.webp"
   },
   {
     "displayName": "Cyclic",
     "langName": "circular",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004525059.webp"
   },
   {
     "displayName": "Tangential",
     "langName": "tangent",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004539372.webp"
   },
   {
     "displayName": "Rectilinear",
     "langName": "straight line",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004552798.webp"
   },
   {
     "displayName": "Traverse",
     "langName": "across",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004605836.webp"
   },
   {
     "displayName": "Quasi",
     "langName": "plan",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004618449.webp"
   },
   {
     "displayName": "Quasi-Regular",
     "langName": "quasi-rules",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004630788.webp"
   },
   {
     "displayName": "Isogonal",
     "langName": "Equiangular",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004643952.webp"
   },
   {
     "displayName": "Isotoxal",
     "langName": "Waiting for poison",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004703355.webp"
   },
   {
     "displayName": "Isohedral",
     "langName": "Equal noodles",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004720817.webp"
   },
   {
     "displayName": "Stellation",
     "langName": "star shape",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004733028.webp"
   },
   {
     "displayName": "Ehrhart Polynomial",
     "langName": "Ehrhart polynomial",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004759911.webp"
   },
   {
     "displayName": "Ideal polyhedron",
     "langName": "ideal polyhedron",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004820319.webp"
   },
   {
     "displayName": "Polytope",
     "langName": "polytope",
-    "object": "Geometric composition",
+    "object": "Shape & Space",
     "attribute": "Characteristic",
     "preview": "https://img.aishort.top/imgprompt/20260225004835943.webp"
   },
@@ -31776,7 +31776,7 @@
   },
   {
     "displayName": "Fountain Pen",
-    "langName": "pen",
+    "langName": "fountain pen",
     "object": "Image type",
     "attribute": "Ink",
     "preview": "https://img.aishort.top/imgprompt/20260225010527552.webp"
@@ -33710,154 +33710,154 @@
     "displayName": "Massive Scale",
     "langName": "large scale",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021412442.webp"
   },
   {
     "displayName": "Massive",
     "langName": "A lot of",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021424661.webp"
   },
   {
     "displayName": "Huge",
     "langName": "huge",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021436915.webp"
   },
   {
     "displayName": "Large",
     "langName": "big",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021449153.webp"
   },
   {
     "displayName": "Big",
     "langName": "big",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021501425.webp"
   },
   {
     "displayName": "Mini",
     "langName": "mini",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021513495.webp"
   },
   {
     "displayName": "Tiny",
     "langName": "small",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021525298.webp"
   },
   {
     "displayName": "Micro",
     "langName": "microscopic",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021537484.webp"
   },
   {
     "displayName": "Nano",
     "langName": "nanometer",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021549402.webp"
   },
   {
     "displayName": "ultra-high definition",
     "langName": "ultra high definition",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021601485.webp"
   },
   {
     "displayName": "4k",
     "langName": "4k",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021613507.webp"
   },
   {
     "displayName": "8K",
     "langName": "8K",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225092105100.webp"
   },
   {
     "displayName": "16k",
     "langName": "16k",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021635791.webp"
   },
   {
     "displayName": "32k",
     "langName": "32k",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021647649.webp"
   },
   {
     "displayName": "Full-HD",
     "langName": "Full HD",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021659453.webp"
   },
   {
     "displayName": "HD",
     "langName": "HD",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021715675.webp"
   },
   {
     "displayName": "Ultra-HD",
     "langName": "ultra high definition",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021731398.webp"
   },
   {
     "displayName": "Super-Resolution",
     "langName": "super resolution",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021746855.webp"
   },
   {
     "displayName": "Megapixel",
     "langName": "megapixels",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021759053.webp"
   },
   {
     "displayName": "absurdres",
     "langName": "ultra high resolution",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021811240.webp"
   },
   {
     "displayName": "incredibly absurdres",
     "langName": "extremely high resolution",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021823301.webp"
   },
   {
     "displayName": "huge filesize",
     "langName": "Super high resolution/large files",
     "object": "Post processing",
-    "attribute": "Resolution",
+    "attribute": "Scale",
     "preview": "https://img.aishort.top/imgprompt/20260225021835252.webp"
   },
   {

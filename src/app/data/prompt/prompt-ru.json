@@ -1206,7 +1206,7 @@
   },
   {
     "displayName": "oil_skin",
-    "langName": "oil skin",
+    "langName": "жирная кожа",
     "object": "Человек",
     "attribute": "Кожа",
     "preview": "https://img.aishort.top/imgprompt/20260210195122883.webp"
@@ -2907,7 +2907,7 @@
   },
   {
     "displayName": "hollow_eyes",
-    "langName": "зрачки_в_форме_звезды",
+    "langName": "глаза без блеска",
     "object": "Человек",
     "attribute": "Глаза",
     "preview": "https://img.aishort.top/imgprompt/20260211141950217.webp"
@@ -5384,7 +5384,7 @@
   },
   {
     "displayName": "lunar",
-    "langName": "лунный, _лунный;",
+    "langName": "лунный",
     "object": "Окружение",
     "attribute": "Небо",
     "preview": "https://img.aishort.top/imgprompt/20260211153840964.webp"
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "двойной_в",
+    "langName": "двойной в",
     "object": "Действие",
     "attribute": "Жесты",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -13763,14 +13763,14 @@
   },
   {
     "displayName": ":d",
-    "langName": "Счастливая улыбка_:D😀",
+    "langName": "Счастливая улыбка",
     "object": "Мимика",
     "attribute": "Смех",
     "preview": "https://img.aishort.top/imgprompt/20260211195749422.webp"
   },
   {
     "displayName": ";d",
-    "langName": "Подмигни и улыбнись_:D",
+    "langName": "Подмигни и улыбнись",
     "object": "Мимика",
     "attribute": "Смех",
     "preview": "https://img.aishort.top/imgprompt/20260211195810245.webp"
@@ -14093,7 +14093,7 @@
   },
   {
     "displayName": "sulking",
-    "langName": "сердитая_надутая",
+    "langName": "надутая",
     "object": "Мимика",
     "attribute": "Злость",
     "preview": "https://img.aishort.top/imgprompt/20260213103708924.webp"
@@ -14751,7 +14751,7 @@
   },
   {
     "displayName": "obi",
-    "langName": "Предметы одежды (и одежда)",
+    "langName": "Оби (пояс кимоно)",
     "object": "Одежда",
     "attribute": "Стиль одежды",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -20763,7 +20763,7 @@
   },
   {
     "displayName": "pumps",
-    "langName": "Платье с глубоким вырезом и высокими каблуками.",
+    "langName": "Туфли-лодочки",
     "object": "Одежда",
     "attribute": "Обувь",
     "preview": "https://img.aishort.top/imgprompt/20260213164252308.webp"
@@ -23934,14 +23934,14 @@
   },
   {
     "displayName": "cross-body bag",
-    "langName": "сумка через плечо",
+    "langName": "сумка кросс-боди",
     "object": "Украшения",
     "attribute": "Аксессуары",
     "preview": "https://img.aishort.top/imgprompt/20260214014456643.webp"
   },
   {
     "displayName": "One shoulder bag",
-    "langName": "сумка через плечо",
+    "langName": "сумка на одно плечо",
     "object": "Украшения",
     "attribute": "Аксессуары",
     "preview": "https://img.aishort.top/imgprompt/20260214014509390.webp"
@@ -24074,7 +24074,7 @@
   },
   {
     "displayName": "Aerial View",
-    "langName": "вид сверху",
+    "langName": "вид с высоты",
     "object": "Фотография",
     "attribute": "Ракурс",
     "preview": "https://img.aishort.top/imgprompt/20260214023207316.webp"
@@ -26756,7 +26756,7 @@
   },
   {
     "displayName": "paleturquoise",
-    "langName": "светло-голубой",
+    "langName": "бледно-бирюзовый",
     "object": "Цветовая атмосфера",
     "attribute": "Светлые тона",
     "preview": "https://img.aishort.top/imgprompt/20260224220418876.webp"
@@ -27155,28 +27155,28 @@
   },
   {
     "displayName": "darkblue",
-    "langName": "темно-синий",
+    "langName": "тёмно-синий",
     "object": "Цветовая атмосфера",
     "attribute": "Спектральные цвета",
     "preview": "https://img.aishort.top/imgprompt/20260224221832342.webp"
   },
   {
     "displayName": "navy",
-    "langName": "темно-синий",
+    "langName": "нэви",
     "object": "Цветовая атмосфера",
     "attribute": "Спектральные цвета",
     "preview": "https://img.aishort.top/imgprompt/20260224221845774.webp"
   },
   {
     "displayName": "midnightblue",
-    "langName": "темно-синий",
+    "langName": "полуночно-синий",
     "object": "Цветовая атмосфера",
     "attribute": "Спектральные цвета",
     "preview": "https://img.aishort.top/imgprompt/20260224221901073.webp"
   },
   {
     "displayName": "darkcyan",
-    "langName": "Бирюзовый",
+    "langName": "тёмный циан",
     "object": "Цветовая атмосфера",
     "attribute": "Спектральные цвета",
     "preview": "https://img.aishort.top/imgprompt/20260224221915905.webp"
@@ -27204,21 +27204,21 @@
   },
   {
     "displayName": "aquamarine",
-    "langName": "бирюзовый",
+    "langName": "аквамарин",
     "object": "Цветовая атмосфера",
     "attribute": "Спектральные цвета",
     "preview": "https://img.aishort.top/imgprompt/20260224222012509.webp"
   },
   {
     "displayName": "lightcyan",
-    "langName": "синий",
+    "langName": "светлый циан",
     "object": "Цветовая атмосфера",
     "attribute": "Спектральные цвета",
     "preview": "https://img.aishort.top/imgprompt/20260224222026323.webp"
   },
   {
     "displayName": "cyan",
-    "langName": "бирюзовый",
+    "langName": "циан",
     "object": "Цветовая атмосфера",
     "attribute": "Спектральные цвета",
     "preview": "https://img.aishort.top/imgprompt/20260224222040633.webp"
@@ -27610,7 +27610,7 @@
   },
   {
     "displayName": "Complimentary-Colors",
-    "langName": "Комплементарные цвета",
+    "langName": "дополнительные цвета",
     "object": "Цветовая атмосфера",
     "attribute": "Цветовая палитра",
     "preview": "https://img.aishort.top/imgprompt/20260224223458770.webp"
@@ -27624,7 +27624,7 @@
   },
   {
     "displayName": "Supplementary-Colors",
-    "langName": "дополнительные цвета",
+    "langName": "вспомогательные цвета",
     "object": "Цветовая атмосфера",
     "attribute": "Цветовая палитра",
     "preview": "https://img.aishort.top/imgprompt/20260224223528366.webp"
@@ -27919,21 +27919,21 @@
   },
   {
     "displayName": "HSV",
-    "langName": "Оттенок, насыщенность, светлота",
+    "langName": "Оттенок, насыщенность, значение",
     "object": "Цветовая атмосфера",
     "attribute": "Цветовая палитра монитора",
     "preview": "https://img.aishort.top/imgprompt/20260224224548087.webp"
   },
   {
     "displayName": "HSL",
-    "langName": "Оттенок, насыщенность, яркость",
+    "langName": "Оттенок, насыщенность, светлота",
     "object": "Цветовая атмосфера",
     "attribute": "Цветовая палитра монитора",
     "preview": "https://img.aishort.top/imgprompt/20260224224601439.webp"
   },
   {
     "displayName": "HCL",
-    "langName": "Оттенок, цветность, освещенность",
+    "langName": "Оттенок, цветность, яркость",
     "object": "Цветовая атмосфера",
     "attribute": "Цветовая палитра монитора",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
@@ -28073,7 +28073,7 @@
   },
   {
     "displayName": "Kinemacolor",
-    "langName": "цвет пленки",
+    "langName": "Кинемаколор",
     "object": "Цветовая атмосфера",
     "attribute": "Кинопроизводство",
     "preview": "https://img.aishort.top/imgprompt/20260224225130563.webp"
@@ -28087,7 +28087,7 @@
   },
   {
     "displayName": "Cinecolor",
-    "langName": "цвет фильма",
+    "langName": "Синеколор",
     "object": "Цветовая атмосфера",
     "attribute": "Кинопроизводство",
     "preview": "https://img.aishort.top/imgprompt/20260224225201683.webp"
@@ -30243,7 +30243,7 @@
   },
   {
     "displayName": "Entoloma-Hochstetteri",
-    "langName": "Powderygophyllum holophylla",
+    "langName": "Энтолома Хохштеттера",
     "object": "Материалы",
     "attribute": "Грибы",
     "preview": "https://img.aishort.top/imgprompt/20260225001107659.webp"
@@ -31776,7 +31776,7 @@
   },
   {
     "displayName": "Fountain Pen",
-    "langName": "ручка",
+    "langName": "перьевая ручка",
     "object": "Тип изображения",
     "attribute": "Чернила",
     "preview": "https://img.aishort.top/imgprompt/20260225010527552.webp"

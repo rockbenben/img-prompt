@@ -2907,7 +2907,7 @@
   },
   {
     "displayName": "hollow_eyes",
-    "langName": "pupilas_en_forma_de_estrella",
+    "langName": "ojos sin brillo",
     "object": "Personas",
     "attribute": "Ojos",
     "preview": "https://img.aishort.top/imgprompt/20260211141950217.webp"
@@ -3229,7 +3229,7 @@
   },
   {
     "displayName": "blue_pupils",
-    "langName": "pupilas naranjas",
+    "langName": "pupilas azules",
     "object": "Personas",
     "attribute": "Pupila",
     "preview": "https://img.aishort.top/imgprompt/20260211143024647.webp"
@@ -4684,7 +4684,7 @@
   },
   {
     "displayName": "crop_top_overhang",
-    "langName": "Voladizo",
+    "langName": "Voladizo del top corto",
     "object": "Entorno",
     "attribute": "Fondo",
     "preview": "https://img.aishort.top/imgprompt/20260225095914537.webp"
@@ -5384,7 +5384,7 @@
   },
   {
     "displayName": "lunar",
-    "langName": "lunar, _lunar;",
+    "langName": "lunar",
     "object": "Entorno",
     "attribute": "Cielo",
     "preview": "https://img.aishort.top/imgprompt/20260211153840964.webp"
@@ -9873,301 +9873,301 @@
     "displayName": "arms_up",
     "langName": "Levante la mano",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175530980.webp"
   },
   {
     "displayName": "arms_crossed",
     "langName": "manos cruzadas sobre el pecho",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175543922.webp"
   },
   {
     "displayName": "crossed_arms",
     "langName": "brazos cruzados",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175556789.webp"
   },
   {
     "displayName": "arms_at_sides",
     "langName": "sin lugar a dudas",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175609687.webp"
   },
   {
     "displayName": "arm_at_side",
     "langName": "Colgando una mano hacia abajo",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175622234.webp"
   },
   {
     "displayName": "arms_behind_back",
     "langName": "manos a la espalda",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175634829.webp"
   },
   {
     "displayName": "arms_behind_head",
     "langName": "Sujetar la cabeza con las manos",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175647169.webp"
   },
   {
     "displayName": "arm_behind_head",
     "langName": "manos detrás de la cabeza",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175659736.webp"
   },
   {
     "displayName": "arm_behind_back",
     "langName": "Pon una mano detrás de la espalda",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260212075132956.webp"
   },
   {
     "displayName": "hands_clasped",
     "langName": "Dedos de ambas manos cruzados | Manos apretadas",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
   },
   {
     "displayName": "interlocked_fingers",
     "langName": "manos juntas",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175736751.webp"
   },
   {
     "displayName": "arm_support",
     "langName": "apoyo con las manos",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175748994.webp"
   },
   {
     "displayName": "arm_above_head",
     "langName": "manos en la cabeza",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260213094908585.webp"
   },
   {
     "displayName": "outstretched_arms",
     "langName": "estirar los brazos",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175813007.webp"
   },
   {
     "displayName": "hands_in_opposite_sleeves",
     "langName": "Cruza las manos y mételas en las mangas",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
   },
   {
     "displayName": "v_arms",
     "langName": "Haz una V con ambos brazos",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175838045.webp"
   },
   {
     "displayName": "w_arms",
     "langName": "Brazos en posición W",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175850840.webp"
   },
   {
     "displayName": "sharp_fingernails",
     "langName": "uñas afiladas",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
   },
   {
     "displayName": "spread_fingers",
     "langName": "separa los dedos",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175916068.webp"
   },
   {
     "displayName": "trigger_discipline",
     "langName": "Sin el dedo en el gatillo",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175928974.webp"
   },
   {
     "displayName": "w",
     "langName": "Dedo que W",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175941737.webp"
   },
   {
     "displayName": "bound_arms",
     "langName": "Los brazos están atados",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211175955270.webp"
   },
   {
     "displayName": "extra_arms",
     "langName": "varios brazos",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180008191.webp"
   },
   {
     "displayName": "locked_arms",
     "langName": "Brazos en alto",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180021217.webp"
   },
   {
     "displayName": "convenient_arm",
     "langName": "Cubrir las partes clave de los brazos",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180033673.webp"
   },
   {
     "displayName": "arm_cannon",
     "langName": "cañón de mano",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180046505.webp"
   },
   {
     "displayName": "arm_ribbon",
     "langName": "cinta del brazo",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180058970.webp"
   },
   {
     "displayName": "arm_held_back",
     "langName": "Tira de los brazos hacia atrás",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180112475.webp"
   },
   {
     "displayName": "hugging_own_legs",
     "langName": "Abraza tus piernas",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180124920.webp"
   },
   {
     "displayName": "trembling",
     "langName": "tiemble",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180137998.webp"
   },
   {
     "displayName": "rolleyes",
     "langName": "Poner los ojos en blanco",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180150675.webp"
   },
   {
     "displayName": "clenched hand",
     "langName": "puño cerrado",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180203512.webp"
   },
   {
     "displayName": "covering_xx",
     "langName": "portada xx",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
   },
   {
     "displayName": "double piece pose",
     "langName": "Manos signo V",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260212075155741.webp"
   },
   {
     "displayName": "hands in hair",
     "langName": "peinarse con las manos",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180240957.webp"
   },
   {
     "displayName": "hidden hands",
     "langName": "esconde tus manos",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180253482.webp"
   },
   {
     "displayName": "open hands",
     "langName": "manos abiertas",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180305978.webp"
   },
   {
     "displayName": "own hands clasped",
     "langName": "manos juntas",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180318354.webp"
   },
   {
     "displayName": "own hands together",
     "langName": "manos juntas",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180330982.webp"
   },
   {
     "displayName": "peace sign",
     "langName": "Manos de tijera",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180343460.webp"
   },
   {
     "displayName": "presenting armpit",
     "langName": "mostrar axilas",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180356051.webp"
   },
   {
     "displayName": "spread arms",
     "langName": "brazos abiertos",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180408733.webp"
   },
   {
     "displayName": "tying hair",
     "langName": "atar el pelo",
     "object": "Acción",
-    "attribute": "Acciones de manos",
+    "attribute": "Poses de brazos",
     "preview": "https://img.aishort.top/imgprompt/20260211180421654.webp"
   },
   {
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "doble_v",
+    "langName": "doble v",
     "object": "Acción",
     "attribute": "Señales con la mano",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -13763,14 +13763,14 @@
   },
   {
     "displayName": ":d",
-    "langName": "Sonrisa feliz_:D😀",
+    "langName": "Sonrisa feliz",
     "object": "Expresión",
     "attribute": "Risa",
     "preview": "https://img.aishort.top/imgprompt/20260211195749422.webp"
   },
   {
     "displayName": ";d",
-    "langName": "Guiño y sonrisa_:D",
+    "langName": "Guiño y sonrisa",
     "object": "Expresión",
     "attribute": "Risa",
     "preview": "https://img.aishort.top/imgprompt/20260211195810245.webp"
@@ -14093,7 +14093,7 @@
   },
   {
     "displayName": "sulking",
-    "langName": "angry_sulky",
+    "langName": "enfurruñado",
     "object": "Expresión",
     "attribute": "Enojado",
     "preview": "https://img.aishort.top/imgprompt/20260213103708924.webp"
@@ -14751,7 +14751,7 @@
   },
   {
     "displayName": "obi",
-    "langName": "Prendas de vestir",
+    "langName": "Obi (faja de kimono)",
     "object": "Ropa",
     "attribute": "Estilo de ropa",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "chaqueta cardigan (con spread_legs)",
+    "langName": "chaqueta cardigan (con piernas abiertas)",
     "object": "Ropa",
     "attribute": "Abrigo",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -20763,7 +20763,7 @@
   },
   {
     "displayName": "pumps",
-    "langName": "Vestido escotado con tacones altos",
+    "langName": "Zapatos de salón",
     "object": "Ropa",
     "attribute": "Zapatos",
     "preview": "https://img.aishort.top/imgprompt/20260213164252308.webp"
@@ -21003,238 +21003,238 @@
     "displayName": "wide_sleeves",
     "langName": "mangas anchas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213174402264.webp"
   },
   {
     "displayName": "single_sleeve",
     "langName": "manga simple",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213174421142.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
     "langName": "mangas asimétricas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213174433704.webp"
   },
   {
     "displayName": "puffy_sleeves",
     "langName": "mangas abullonadas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213174452709.webp"
   },
   {
     "displayName": "puffy_long_sleeves",
     "langName": "mangas largas abullonadas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213174505622.webp"
   },
   {
     "displayName": "puffy_short_sleeves",
     "langName": "mangas cortas abullonadas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
   },
   {
     "displayName": "frilled_sleeves",
     "langName": "bordes de las mangas con volantes",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213174936053.webp"
   },
   {
     "displayName": "juliet_sleeves",
     "langName": "Mangas Julieta",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260225105600224.webp"
   },
   {
     "displayName": "bandaged_arm",
     "langName": "brazo vendado",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175209308.webp"
   },
   {
     "displayName": "raglan_sleeves",
     "langName": "Mangas raglán",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175222011.webp"
   },
   {
     "displayName": "vambraces",
     "langName": "Armadura inferior",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175234968.webp"
   },
   {
     "displayName": "layered_sleeves",
     "langName": "mangas en capas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175248597.webp"
   },
   {
     "displayName": "fur-trimmed_sleeves",
     "langName": "mangas de borde crudo",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175301700.webp"
   },
   {
     "displayName": "see-through_sleeves",
     "langName": "Fundas transparentes",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175314655.webp"
   },
   {
     "displayName": "torn_sleeves",
     "langName": "mangas rasgadas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175327401.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "Mangas más largas que los dedos",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
     "langName": "Mangas por encima de la muñeca",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175353319.webp"
   },
   {
     "displayName": "sleeves_past_elbows",
     "langName": "Mangas por encima del codo",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175608643.webp"
   },
   {
     "displayName": "sleeves_pushed_up",
     "langName": "mangas de empuje",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175621831.webp"
   },
   {
     "displayName": "arm_out_of_sleeve",
     "langName": "brazos en mangas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175635409.webp"
   },
   {
     "displayName": "uneven_sleeves",
     "langName": "mangas desiguales",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175647988.webp"
   },
   {
     "displayName": "mismatched_sleeves",
     "langName": "mangas desparejadas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175701248.webp"
   },
   {
     "displayName": "sleeve_rolled_up",
     "langName": "mangas remangadas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
     "langName": "Una manga remangada",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175726967.webp"
   },
   {
     "displayName": "feather-trimmed_sleeves",
     "langName": "Mangas con adornos de plumas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213175941889.webp"
   },
   {
     "displayName": "lace-trimmed_sleeves",
     "langName": "mangas de encaje",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213180156786.webp"
   },
   {
     "displayName": "pinching_sleeves",
     "langName": "Pellizcarse las mangas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213180210307.webp"
   },
   {
     "displayName": "puffy_detached_sleeves",
     "langName": "mangas abullonadas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213180223059.webp"
   },
   {
     "displayName": "ribbed_sleeves",
     "langName": "mangas acanaladas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
   },
   {
     "displayName": "single_detached_sleeve",
     "langName": "Manguito que queda en un lado",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213180855076.webp"
   },
   {
     "displayName": "sleeves_folded_up",
     "langName": "mangas dobladas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213181110146.webp"
   },
   {
     "displayName": "striped_sleeves",
     "langName": "mangas a rayas",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213181123268.webp"
   },
   {
     "displayName": "armband",
     "langName": "brazalete (brazalete)",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
   },
   {
     "displayName": "armlet",
     "langName": "brazalete",
     "object": "Ropa",
-    "attribute": "Brazo",
+    "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213190711002.webp"
   },
   {
@@ -23941,7 +23941,7 @@
   },
   {
     "displayName": "One shoulder bag",
-    "langName": "bandolera",
+    "langName": "bolso de hombro",
     "object": "Accesorios",
     "attribute": "Complementos",
     "preview": "https://img.aishort.top/imgprompt/20260214014509390.webp"
@@ -24074,14 +24074,14 @@
   },
   {
     "displayName": "Aerial View",
-    "langName": "vista superior",
+    "langName": "vista aérea",
     "object": "Fotografía",
     "attribute": "Perspectiva",
     "preview": "https://img.aishort.top/imgprompt/20260214023207316.webp"
   },
   {
     "displayName": "Top-View",
-    "langName": "vista superior",
+    "langName": "vista cenital",
     "object": "Fotografía",
     "attribute": "Perspectiva",
     "preview": "https://img.aishort.top/imgprompt/20260214023423183.webp"
@@ -26219,168 +26219,168 @@
     "displayName": "Transparent",
     "langName": "transparente",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224210545565.webp"
   },
   {
     "displayName": "Translucent",
     "langName": "translúcido",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224210800718.webp"
   },
   {
     "displayName": "Opaque",
     "langName": "opaco",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224210814362.webp"
   },
   {
     "displayName": "Rough",
     "langName": "áspero",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224210828738.webp"
   },
   {
     "displayName": "Matte",
     "langName": "mate",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224210842440.webp"
   },
   {
     "displayName": "Glossy",
     "langName": "brillo",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224210855666.webp"
   },
   {
     "displayName": "smooth",
     "langName": "suave",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224211112706.webp"
   },
   {
     "displayName": "Shiny",
     "langName": "brillante",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224211127584.webp"
   },
   {
     "displayName": "Reflective",
     "langName": "Reflectante",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224211141551.webp"
   },
   {
     "displayName": "Polished",
     "langName": "pulido",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224211358630.webp"
   },
   {
     "displayName": "Shadows",
     "langName": "sombra",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224211614929.webp"
   },
   {
     "displayName": "Shimmer",
     "langName": "brillo",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224211830714.webp"
   },
   {
     "displayName": "Shimmering",
     "langName": "espumoso",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224212046910.webp"
   },
   {
     "displayName": "Caustics",
     "langName": "Cáusticas",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224212303506.webp"
   },
   {
     "displayName": "Refractive",
     "langName": "refracción",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224212519913.webp"
   },
   {
     "displayName": "reflection light",
     "langName": "reflexión de la luz",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224212736462.webp"
   },
   {
     "displayName": "Ray Tracing Reflections",
     "langName": "Reflejos trazados por rayos",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224212952871.webp"
   },
   {
     "displayName": "Lumen Reflections",
     "langName": "Reflejo lumínico",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224213208810.webp"
   },
   {
     "displayName": "Screen Space Reflections",
     "langName": "reflejo del espacio en pantalla",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224213425137.webp"
   },
   {
     "displayName": "ray tracing",
     "langName": "Trazado de rayos",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224213641871.webp"
   },
   {
     "displayName": "Ambient Occlusion",
     "langName": "oclusión ambiental",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224213859041.webp"
   },
   {
     "displayName": "Scattering",
     "langName": "dispersión",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224214116698.webp"
   },
   {
     "displayName": "Diffraction Grading",
     "langName": "rejilla de difracción",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224214535915.webp"
   },
   {
     "displayName": "RGB Displacement",
     "langName": "Desplazamiento RGB",
     "object": "Efectos de luces y sombras",
-    "attribute": "Reflexión/Refracción",
+    "attribute": "Propiedades del material",
     "preview": "https://img.aishort.top/imgprompt/20260224214552526.webp"
   },
   {
@@ -26742,7 +26742,7 @@
   },
   {
     "displayName": "powderblue",
-    "langName": "azul polvo",
+    "langName": "azul pólvora",
     "object": "Atmósfera de color",
     "attribute": "Tonos claros",
     "preview": "https://img.aishort.top/imgprompt/20260224220347304.webp"
@@ -26756,7 +26756,7 @@
   },
   {
     "displayName": "paleturquoise",
-    "langName": "cian claro",
+    "langName": "turquesa pálido",
     "object": "Atmósfera de color",
     "attribute": "Tonos claros",
     "preview": "https://img.aishort.top/imgprompt/20260224220418876.webp"
@@ -27169,7 +27169,7 @@
   },
   {
     "displayName": "midnightblue",
-    "langName": "azul noche",
+    "langName": "azul medianoche",
     "object": "Atmósfera de color",
     "attribute": "Colores espectrales",
     "preview": "https://img.aishort.top/imgprompt/20260224221901073.webp"
@@ -27204,21 +27204,21 @@
   },
   {
     "displayName": "aquamarine",
-    "langName": "turquesa",
+    "langName": "aguamarina",
     "object": "Atmósfera de color",
     "attribute": "Colores espectrales",
     "preview": "https://img.aishort.top/imgprompt/20260224222012509.webp"
   },
   {
     "displayName": "lightcyan",
-    "langName": "azul",
+    "langName": "cian claro",
     "object": "Atmósfera de color",
     "attribute": "Colores espectrales",
     "preview": "https://img.aishort.top/imgprompt/20260224222026323.webp"
   },
   {
     "displayName": "cyan",
-    "langName": "turquesa",
+    "langName": "cian",
     "object": "Atmósfera de color",
     "attribute": "Colores espectrales",
     "preview": "https://img.aishort.top/imgprompt/20260224222040633.webp"
@@ -27624,7 +27624,7 @@
   },
   {
     "displayName": "Supplementary-Colors",
-    "langName": "colores complementarios",
+    "langName": "colores suplementarios",
     "object": "Atmósfera de color",
     "attribute": "Paleta de colores",
     "preview": "https://img.aishort.top/imgprompt/20260224223528366.webp"
@@ -27919,21 +27919,21 @@
   },
   {
     "displayName": "HSV",
-    "langName": "Tono, saturación, luminosidad",
+    "langName": "Tono, saturación, valor",
     "object": "Atmósfera de color",
     "attribute": "Paleta de colores del monitor",
     "preview": "https://img.aishort.top/imgprompt/20260224224548087.webp"
   },
   {
     "displayName": "HSL",
-    "langName": "Tono, saturación, brillo",
+    "langName": "Tono, saturación, luminosidad",
     "object": "Atmósfera de color",
     "attribute": "Paleta de colores del monitor",
     "preview": "https://img.aishort.top/imgprompt/20260224224601439.webp"
   },
   {
     "displayName": "HCL",
-    "langName": "Tono, croma, iluminación",
+    "langName": "Tono, croma, luminancia",
     "object": "Atmósfera de color",
     "attribute": "Paleta de colores del monitor",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
@@ -28073,7 +28073,7 @@
   },
   {
     "displayName": "Kinemacolor",
-    "langName": "color de la película",
+    "langName": "Kinemacolor",
     "object": "Atmósfera de color",
     "attribute": "Producción cinematográfica",
     "preview": "https://img.aishort.top/imgprompt/20260224225130563.webp"
@@ -28087,7 +28087,7 @@
   },
   {
     "displayName": "Cinecolor",
-    "langName": "color de la película",
+    "langName": "Cinecolor",
     "object": "Atmósfera de color",
     "attribute": "Producción cinematográfica",
     "preview": "https://img.aishort.top/imgprompt/20260224225201683.webp"
@@ -28124,35 +28124,35 @@
     "displayName": "Bump Map",
     "langName": "Mapa de baches",
     "object": "Material",
-    "attribute": "Mapa",
+    "attribute": "Mapas de textura",
     "preview": "https://img.aishort.top/imgprompt/20260224225344573.webp"
   },
   {
     "displayName": "Bump Mapped",
     "langName": "Con mapa de relieve",
     "object": "Material",
-    "attribute": "Mapa",
+    "attribute": "Mapas de textura",
     "preview": "https://img.aishort.top/imgprompt/20260224225400692.webp"
   },
   {
     "displayName": "Bump Mapping",
     "langName": "Cartografía de protuberancias",
     "object": "Material",
-    "attribute": "Mapa",
+    "attribute": "Mapas de textura",
     "preview": "https://img.aishort.top/imgprompt/20260224225415653.webp"
   },
   {
     "displayName": "Normal Map",
     "langName": "mapa normal",
     "object": "Material",
-    "attribute": "Mapa",
+    "attribute": "Mapas de textura",
     "preview": "https://img.aishort.top/imgprompt/20260224225432546.webp"
   },
   {
     "displayName": "Depth Map",
     "langName": "Mapa de profundidad",
     "object": "Material",
-    "attribute": "Mapa",
+    "attribute": "Mapas de textura",
     "preview": "https://img.aishort.top/imgprompt/20260224225447643.webp"
   },
   {
@@ -30189,147 +30189,147 @@
     "displayName": "Fungi",
     "langName": "hongos",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225000902602.webp"
   },
   {
     "displayName": "Mushrooms",
     "langName": "setas",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225000920028.webp"
   },
   {
     "displayName": "Mycelium",
     "langName": "hifas",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225000934335.webp"
   },
   {
     "displayName": "Moldy",
     "langName": "mohoso",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225000950611.webp"
   },
   {
     "displayName": "Lactarius-Indigo",
     "langName": "Seta de leche índigo",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001006384.webp"
   },
   {
     "displayName": "Latticed-Stinkhorn",
     "langName": "Hongo enrejado",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001021630.webp"
   },
   {
     "displayName": "Clathrus-Ruber",
     "langName": "Rhodococcus",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001036116.webp"
   },
   {
     "displayName": "Laccaria-Amethystina",
     "langName": "seta púrpura",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001052173.webp"
   },
   {
     "displayName": "Entoloma-Hochstetteri",
     "langName": "Powderygophyllum holophylla",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001107659.webp"
   },
   {
     "displayName": "Clavaria-Zollingeri",
     "langName": "Hongo coralino púrpura",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001123325.webp"
   },
   {
     "displayName": "Chlorociboria",
     "langName": "hongo verde",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001139570.webp"
   },
   {
     "displayName": "Golden-Scruffy-Collybia",
     "langName": "Pata de gallo dorada",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260317125532956.webp"
   },
   {
     "displayName": "Cyptotrama-Asprata",
     "langName": "seta pie de sierra críptica",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260317125542896.webp"
   },
   {
     "displayName": "Mycena Acicula",
     "langName": "Phallophyllum acuminata",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001231425.webp"
   },
   {
     "displayName": "Hygrocybe-Cantharellus",
     "langName": "Seta de patas rojas",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001252601.webp"
   },
   {
     "displayName": "Amanita-Muscaria",
     "langName": "Amanita roja y blanca",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001309984.webp"
   },
   {
     "displayName": "Favolaschia-Calocera",
     "langName": "hongo del dedo del orangután",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001333847.webp"
   },
   {
     "displayName": "Marasmius-Haematocephalus",
     "langName": "hongos pelirrojos",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001348763.webp"
   },
   {
     "displayName": "Cystoagaricus-Trisulphuratus",
     "langName": "Trisulfato de setas",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001403668.webp"
   },
   {
     "displayName": "Tremella-Mesenterica",
     "langName": "Xanthomonas",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001419657.webp"
   },
   {
     "displayName": "Tremella-Fuciformis",
     "langName": "Tremella",
     "object": "Material",
-    "attribute": "Bacterias",
+    "attribute": "Hongos",
     "preview": "https://img.aishort.top/imgprompt/20260225001434385.webp"
   },
   {
@@ -31776,7 +31776,7 @@
   },
   {
     "displayName": "Fountain Pen",
-    "langName": "bolígrafo",
+    "langName": "pluma estilográfica",
     "object": "Tipo de imagen",
     "attribute": "Tinta",
     "preview": "https://img.aishort.top/imgprompt/20260225010527552.webp"
@@ -33710,154 +33710,154 @@
     "displayName": "Massive Scale",
     "langName": "a gran escala",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021412442.webp"
   },
   {
     "displayName": "Massive",
     "langName": "Muchos",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021424661.webp"
   },
   {
     "displayName": "Huge",
     "langName": "enorme",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021436915.webp"
   },
   {
     "displayName": "Large",
     "langName": "gran",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021449153.webp"
   },
   {
     "displayName": "Big",
     "langName": "gran",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021501425.webp"
   },
   {
     "displayName": "Mini",
     "langName": "mini",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021513495.webp"
   },
   {
     "displayName": "Tiny",
     "langName": "pequeño",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021525298.webp"
   },
   {
     "displayName": "Micro",
     "langName": "microscópico",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021537484.webp"
   },
   {
     "displayName": "Nano",
     "langName": "nanómetro",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021549402.webp"
   },
   {
     "displayName": "ultra-high definition",
     "langName": "ultra alta definición",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021601485.webp"
   },
   {
     "displayName": "4k",
     "langName": "4k",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021613507.webp"
   },
   {
     "displayName": "8K",
     "langName": "8K",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225092105100.webp"
   },
   {
     "displayName": "16k",
     "langName": "16k",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021635791.webp"
   },
   {
     "displayName": "32k",
     "langName": "32k",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021647649.webp"
   },
   {
     "displayName": "Full-HD",
     "langName": "Full HD",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021659453.webp"
   },
   {
     "displayName": "HD",
     "langName": "HD",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021715675.webp"
   },
   {
     "displayName": "Ultra-HD",
     "langName": "ultra alta definición",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021731398.webp"
   },
   {
     "displayName": "Super-Resolution",
     "langName": "súper resolución",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021746855.webp"
   },
   {
     "displayName": "Megapixel",
     "langName": "megapíxeles",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021759053.webp"
   },
   {
     "displayName": "absurdres",
     "langName": "ultra alta resolución",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021811240.webp"
   },
   {
     "displayName": "incredibly absurdres",
     "langName": "resolución extremadamente alta",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021823301.webp"
   },
   {
     "displayName": "huge filesize",
     "langName": "Archivos de alta resolución y gran tamaño",
     "object": "Posprocesado",
-    "attribute": "Resolución",
+    "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021835252.webp"
   },
   {

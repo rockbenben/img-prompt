@@ -2907,7 +2907,7 @@
   },
   {
     "displayName": "hollow_eyes",
-    "langName": "đồng tử hình ngôi sao",
+    "langName": "đôi mắt vô hồn",
     "object": "Nhân vật",
     "attribute": "Mắt",
     "preview": "https://img.aishort.top/imgprompt/20260211141950217.webp"
@@ -3215,7 +3215,7 @@
   },
   {
     "displayName": "pupils",
-    "langName": "học sinh",
+    "langName": "đồng tử",
     "object": "Nhân vật",
     "attribute": "Đồng tử",
     "preview": "https://img.aishort.top/imgprompt/20260211142958172.webp"
@@ -3229,7 +3229,7 @@
   },
   {
     "displayName": "blue_pupils",
-    "langName": "đồng tử màu cam",
+    "langName": "đồng tử màu xanh",
     "object": "Nhân vật",
     "attribute": "Đồng tử",
     "preview": "https://img.aishort.top/imgprompt/20260211143024647.webp"
@@ -3390,14 +3390,14 @@
   },
   {
     "displayName": "extra_pupils",
-    "langName": "học sinh thêm",
+    "langName": "đồng tử thêm",
     "object": "Nhân vật",
     "attribute": "Đồng tử",
     "preview": "https://img.aishort.top/imgprompt/20260211143515703.webp"
   },
   {
     "displayName": "no_pupils",
-    "langName": "không có học sinh",
+    "langName": "không có đồng tử",
     "object": "Nhân vật",
     "attribute": "Đồng tử",
     "preview": "https://img.aishort.top/imgprompt/20260317094748513.webp"
@@ -4684,7 +4684,7 @@
   },
   {
     "displayName": "crop_top_overhang",
-    "langName": "Áo crop top hở vai",
+    "langName": "Phần rủ của áo croptop",
     "object": "Môi trường",
     "attribute": "Bối cảnh",
     "preview": "https://img.aishort.top/imgprompt/20260225095914537.webp"
@@ -5384,7 +5384,7 @@
   },
   {
     "displayName": "lunar",
-    "langName": "âm lịch, _âm lịch;",
+    "langName": "thuộc mặt trăng",
     "object": "Môi trường",
     "attribute": "Bầu trời",
     "preview": "https://img.aishort.top/imgprompt/20260211153840964.webp"
@@ -9873,301 +9873,301 @@
     "displayName": "arms_up",
     "langName": "Hãy giơ tay lên",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175530980.webp"
   },
   {
     "displayName": "arms_crossed",
     "langName": "hai tay bắt chéo trước ngực",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175543922.webp"
   },
   {
     "displayName": "crossed_arms",
     "langName": "khoanh tay",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175556789.webp"
   },
   {
     "displayName": "arms_at_sides",
     "langName": "không còn nghi ngờ gì nữa",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175609687.webp"
   },
   {
     "displayName": "arm_at_side",
     "langName": "Treo một tay xuống",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175622234.webp"
   },
   {
     "displayName": "arms_behind_back",
     "langName": "hai tay ra sau lưng",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175634829.webp"
   },
   {
     "displayName": "arms_behind_head",
     "langName": "Giữ đầu bằng tay",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175647169.webp"
   },
   {
     "displayName": "arm_behind_head",
     "langName": "hai tay đặt sau đầu",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175659736.webp"
   },
   {
     "displayName": "arm_behind_back",
     "langName": "Đặt một tay ra sau lưng",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260212075132956.webp"
   },
   {
     "displayName": "hands_clasped",
     "langName": "Hai bàn tay bắt chéo | Hai bàn tay nắm chặt",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
   },
   {
     "displayName": "interlocked_fingers",
     "langName": "hai tay nắm chặt",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175736751.webp"
   },
   {
     "displayName": "arm_support",
     "langName": "hỗ trợ bằng tay",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175748994.webp"
   },
   {
     "displayName": "arm_above_head",
     "langName": "tay trên đầu",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260213094908585.webp"
   },
   {
     "displayName": "outstretched_arms",
     "langName": "dang rộng cánh tay",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175813007.webp"
   },
   {
     "displayName": "hands_in_opposite_sleeves",
     "langName": "Bắt chéo tay và cho vào tay áo",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
   },
   {
     "displayName": "v_arms",
     "langName": "Tạo hình chữ V bằng cả hai tay",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175838045.webp"
   },
   {
     "displayName": "w_arms",
     "langName": "Cánh tay ở vị trí W",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175850840.webp"
   },
   {
     "displayName": "sharp_fingernails",
     "langName": "móng tay sắc nhọn",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
   },
   {
     "displayName": "spread_fingers",
     "langName": "xòe ngón tay của bạn ra",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175916068.webp"
   },
   {
     "displayName": "trigger_discipline",
     "langName": "Không có ngón tay trên cò súng",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175928974.webp"
   },
   {
     "displayName": "w",
     "langName": "Ngón tay hơn W",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175941737.webp"
   },
   {
     "displayName": "bound_arms",
     "langName": "Cánh tay bị trói",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175955270.webp"
   },
   {
     "displayName": "extra_arms",
     "langName": "nhiều cánh tay",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180008191.webp"
   },
   {
     "displayName": "locked_arms",
     "langName": "Giữ vũ khí",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180021217.webp"
   },
   {
     "displayName": "convenient_arm",
     "langName": "Che phủ các bộ phận quan trọng của cánh tay",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180033673.webp"
   },
   {
     "displayName": "arm_cannon",
     "langName": "súng thần công cầm tay",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180046505.webp"
   },
   {
     "displayName": "arm_ribbon",
     "langName": "ruy băng cánh tay",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180058970.webp"
   },
   {
     "displayName": "arm_held_back",
     "langName": "Kéo tay về phía sau",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180112475.webp"
   },
   {
     "displayName": "hugging_own_legs",
     "langName": "Ôm chặt đôi chân của bạn",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180124920.webp"
   },
   {
     "displayName": "trembling",
     "langName": "run rẩy",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180137998.webp"
   },
   {
     "displayName": "rolleyes",
     "langName": "Đảo mắt",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180150675.webp"
   },
   {
     "displayName": "clenched hand",
     "langName": "nắm chặt tay",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180203512.webp"
   },
   {
     "displayName": "covering_xx",
     "langName": "bìa xx",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
   },
   {
     "displayName": "double piece pose",
     "langName": "Tay giơ dấu chữ V",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260212075155741.webp"
   },
   {
     "displayName": "hands in hair",
     "langName": "chải tóc bằng tay",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180240957.webp"
   },
   {
     "displayName": "hidden hands",
     "langName": "giấu tay bạn đi",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180253482.webp"
   },
   {
     "displayName": "open hands",
     "langName": "mở rộng bàn tay",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180305978.webp"
   },
   {
     "displayName": "own hands clasped",
     "langName": "hai tay nắm chặt vào nhau",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180318354.webp"
   },
   {
     "displayName": "own hands together",
     "langName": "chắp tay lại",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180330982.webp"
   },
   {
     "displayName": "peace sign",
     "langName": "Người kéo",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180343460.webp"
   },
   {
     "displayName": "presenting armpit",
     "langName": "khoe nách",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180356051.webp"
   },
   {
     "displayName": "spread arms",
     "langName": "vòng tay rộng mở",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180408733.webp"
   },
   {
     "displayName": "tying hair",
     "langName": "buộc tóc",
     "object": "Động tác",
-    "attribute": "Động tác tay",
+    "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180421654.webp"
   },
   {
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "double_v",
+    "langName": "double v",
     "object": "Động tác",
     "attribute": "Cử chỉ tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -13763,14 +13763,14 @@
   },
   {
     "displayName": ":d",
-    "langName": "Cười vui vẻ_:D😀",
+    "langName": "Cười vui vẻ",
     "object": "Biểu cảm",
     "attribute": "Cười",
     "preview": "https://img.aishort.top/imgprompt/20260211195749422.webp"
   },
   {
     "displayName": ";d",
-    "langName": "Nháy mắt và mỉm cười_:D",
+    "langName": "Nháy mắt và mỉm cười",
     "object": "Biểu cảm",
     "attribute": "Cười",
     "preview": "https://img.aishort.top/imgprompt/20260211195810245.webp"
@@ -14751,7 +14751,7 @@
   },
   {
     "displayName": "obi",
-    "langName": "Quần áo (và trang phục)",
+    "langName": "Obi (đai kimono)",
     "object": "Trang phục",
     "attribute": "Phong cách quần áo",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -20763,7 +20763,7 @@
   },
   {
     "displayName": "pumps",
-    "langName": "Váy khoét cổ sâu kết hợp giày cao gót",
+    "langName": "Giày cao gót bít mũi",
     "object": "Trang phục",
     "attribute": "Giày",
     "preview": "https://img.aishort.top/imgprompt/20260213164252308.webp"
@@ -21003,238 +21003,238 @@
     "displayName": "wide_sleeves",
     "langName": "tay áo rộng",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213174402264.webp"
   },
   {
     "displayName": "single_sleeve",
     "langName": "tay áo đơn",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213174421142.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
     "langName": "tay áo không đối xứng",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213174433704.webp"
   },
   {
     "displayName": "puffy_sleeves",
     "langName": "tay áo phồng",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213174452709.webp"
   },
   {
     "displayName": "puffy_long_sleeves",
     "langName": "tay áo dài phồng",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213174505622.webp"
   },
   {
     "displayName": "puffy_short_sleeves",
     "langName": "tay áo ngắn phồng",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
   },
   {
     "displayName": "frilled_sleeves",
     "langName": "viền tay áo nhún bèo",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213174936053.webp"
   },
   {
     "displayName": "juliet_sleeves",
     "langName": "Tay áo Juliet",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260225105600224.webp"
   },
   {
     "displayName": "bandaged_arm",
     "langName": "cánh tay bị băng bó",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175209308.webp"
   },
   {
     "displayName": "raglan_sleeves",
     "langName": "Tay áo raglan",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175222011.webp"
   },
   {
     "displayName": "vambraces",
     "langName": "Giáp cánh tay dưới",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175234968.webp"
   },
   {
     "displayName": "layered_sleeves",
     "langName": "tay áo nhiều lớp",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175248597.webp"
   },
   {
     "displayName": "fur-trimmed_sleeves",
     "langName": "tay áo viền thô",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175301700.webp"
   },
   {
     "displayName": "see-through_sleeves",
     "langName": "Tay áo trong suốt",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175314655.webp"
   },
   {
     "displayName": "torn_sleeves",
     "langName": "tay áo rách",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175327401.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "Tay áo dài hơn ngón tay",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
     "langName": "Tay áo trên cổ tay",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175353319.webp"
   },
   {
     "displayName": "sleeves_past_elbows",
     "langName": "Tay áo trên khuỷu tay",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175608643.webp"
   },
   {
     "displayName": "sleeves_pushed_up",
     "langName": "đẩy tay áo lên",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175621831.webp"
   },
   {
     "displayName": "arm_out_of_sleeve",
     "langName": "tay trong tay áo",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175635409.webp"
   },
   {
     "displayName": "uneven_sleeves",
     "langName": "tay áo không đều",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175647988.webp"
   },
   {
     "displayName": "mismatched_sleeves",
     "langName": "tay áo không đồng bộ",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175701248.webp"
   },
   {
     "displayName": "sleeve_rolled_up",
     "langName": "tay áo xắn lên",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
     "langName": "Một tay áo được xắn lên",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175726967.webp"
   },
   {
     "displayName": "feather-trimmed_sleeves",
     "langName": "Tay áo cắt tỉa lông vũ",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213175941889.webp"
   },
   {
     "displayName": "lace-trimmed_sleeves",
     "langName": "tay áo ren",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213180156786.webp"
   },
   {
     "displayName": "pinching_sleeves",
     "langName": "Véo tay áo của bạn",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213180210307.webp"
   },
   {
     "displayName": "puffy_detached_sleeves",
     "langName": "tay áo phồng",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213180223059.webp"
   },
   {
     "displayName": "ribbed_sleeves",
     "langName": "tay áo có gân",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
   },
   {
     "displayName": "single_detached_sleeve",
     "langName": "Tay áo vẫn còn ở một bên",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213180855076.webp"
   },
   {
     "displayName": "sleeves_folded_up",
     "langName": "tay áo gấp",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213181110146.webp"
   },
   {
     "displayName": "striped_sleeves",
     "langName": "tay áo sọc",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213181123268.webp"
   },
   {
     "displayName": "armband",
     "langName": "băng tay (băng tay)",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
   },
   {
     "displayName": "armlet",
     "langName": "vòng tay",
     "object": "Trang phục",
-    "attribute": "Cánh tay",
+    "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213190711002.webp"
   },
   {
@@ -24074,7 +24074,7 @@
   },
   {
     "displayName": "Aerial View",
-    "langName": "nhìn từ trên xuống",
+    "langName": "góc nhìn từ trên cao",
     "object": "Nhiếp ảnh",
     "attribute": "Góc nhìn",
     "preview": "https://img.aishort.top/imgprompt/20260214023207316.webp"
@@ -26735,14 +26735,14 @@
   },
   {
     "displayName": "lightblue",
-    "langName": "màu xanh nhạt",
+    "langName": "xanh lam nhạt",
     "object": "Màu sắc & Không khí",
     "attribute": "Tông màu sáng",
     "preview": "https://img.aishort.top/imgprompt/20260224220333904.webp"
   },
   {
     "displayName": "powderblue",
-    "langName": "màu xanh bột",
+    "langName": "xanh phấn",
     "object": "Màu sắc & Không khí",
     "attribute": "Tông màu sáng",
     "preview": "https://img.aishort.top/imgprompt/20260224220347304.webp"
@@ -26756,7 +26756,7 @@
   },
   {
     "displayName": "paleturquoise",
-    "langName": "màu lục lam nhạt",
+    "langName": "ngọc lam nhạt",
     "object": "Màu sắc & Không khí",
     "attribute": "Tông màu sáng",
     "preview": "https://img.aishort.top/imgprompt/20260224220418876.webp"
@@ -27134,7 +27134,7 @@
   },
   {
     "displayName": "royalblue",
-    "langName": "màu xanh hoàng gia",
+    "langName": "xanh hoàng gia",
     "object": "Màu sắc & Không khí",
     "attribute": "Màu quang phổ",
     "preview": "https://img.aishort.top/imgprompt/20260224221743869.webp"
@@ -27148,35 +27148,35 @@
   },
   {
     "displayName": "blue",
-    "langName": "màu xanh da trời",
+    "langName": "xanh lam",
     "object": "Màu sắc & Không khí",
     "attribute": "Màu quang phổ",
     "preview": "https://img.aishort.top/imgprompt/20260224221817783.webp"
   },
   {
     "displayName": "darkblue",
-    "langName": "màu xanh đậm",
+    "langName": "xanh lam đậm",
     "object": "Màu sắc & Không khí",
     "attribute": "Màu quang phổ",
     "preview": "https://img.aishort.top/imgprompt/20260224221832342.webp"
   },
   {
     "displayName": "navy",
-    "langName": "màu xanh nước biển",
+    "langName": "xanh navy",
     "object": "Màu sắc & Không khí",
     "attribute": "Màu quang phổ",
     "preview": "https://img.aishort.top/imgprompt/20260224221845774.webp"
   },
   {
     "displayName": "midnightblue",
-    "langName": "màu xanh nửa đêm",
+    "langName": "xanh nửa đêm",
     "object": "Màu sắc & Không khí",
     "attribute": "Màu quang phổ",
     "preview": "https://img.aishort.top/imgprompt/20260224221901073.webp"
   },
   {
     "displayName": "darkcyan",
-    "langName": "Màu xanh mòng két",
+    "langName": "xanh lơ đậm",
     "object": "Màu sắc & Không khí",
     "attribute": "Màu quang phổ",
     "preview": "https://img.aishort.top/imgprompt/20260224221915905.webp"
@@ -27204,21 +27204,21 @@
   },
   {
     "displayName": "aquamarine",
-    "langName": "màu ngọc lam",
+    "langName": "ngọc biển",
     "object": "Màu sắc & Không khí",
     "attribute": "Màu quang phổ",
     "preview": "https://img.aishort.top/imgprompt/20260224222012509.webp"
   },
   {
     "displayName": "lightcyan",
-    "langName": "màu xanh da trời",
+    "langName": "xanh lơ nhạt",
     "object": "Màu sắc & Không khí",
     "attribute": "Màu quang phổ",
     "preview": "https://img.aishort.top/imgprompt/20260224222026323.webp"
   },
   {
     "displayName": "cyan",
-    "langName": "màu ngọc lam",
+    "langName": "xanh lơ",
     "object": "Màu sắc & Không khí",
     "attribute": "Màu quang phổ",
     "preview": "https://img.aishort.top/imgprompt/20260224222040633.webp"
@@ -27610,7 +27610,7 @@
   },
   {
     "displayName": "Complimentary-Colors",
-    "langName": "màu bổ sung",
+    "langName": "màu bổ túc",
     "object": "Màu sắc & Không khí",
     "attribute": "Bảng màu",
     "preview": "https://img.aishort.top/imgprompt/20260224223458770.webp"
@@ -27919,7 +27919,7 @@
   },
   {
     "displayName": "HSV",
-    "langName": "Sắc thái, độ bão hòa, độ sáng",
+    "langName": "Sắc độ, độ bão hòa, giá trị",
     "object": "Màu sắc & Không khí",
     "attribute": "Bảng màu màn hình",
     "preview": "https://img.aishort.top/imgprompt/20260224224548087.webp"
@@ -27933,7 +27933,7 @@
   },
   {
     "displayName": "HCL",
-    "langName": "Sắc độ, độ bão hòa, độ sáng",
+    "langName": "Sắc độ, sắc độ màu, độ chói",
     "object": "Màu sắc & Không khí",
     "attribute": "Bảng màu màn hình",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
@@ -28073,7 +28073,7 @@
   },
   {
     "displayName": "Kinemacolor",
-    "langName": "màu phim",
+    "langName": "Kinemacolor",
     "object": "Màu sắc & Không khí",
     "attribute": "Sản xuất phim",
     "preview": "https://img.aishort.top/imgprompt/20260224225130563.webp"
@@ -28087,7 +28087,7 @@
   },
   {
     "displayName": "Cinecolor",
-    "langName": "màu phim",
+    "langName": "Cinecolor",
     "object": "Màu sắc & Không khí",
     "attribute": "Sản xuất phim",
     "preview": "https://img.aishort.top/imgprompt/20260224225201683.webp"
@@ -28124,35 +28124,35 @@
     "displayName": "Bump Map",
     "langName": "Bản đồ va chạm",
     "object": "Vật liệu",
-    "attribute": "Bản đồ",
+    "attribute": "Bản đồ kết cấu",
     "preview": "https://img.aishort.top/imgprompt/20260224225344573.webp"
   },
   {
     "displayName": "Bump Mapped",
     "langName": "Với bản đồ va chạm",
     "object": "Vật liệu",
-    "attribute": "Bản đồ",
+    "attribute": "Bản đồ kết cấu",
     "preview": "https://img.aishort.top/imgprompt/20260224225400692.webp"
   },
   {
     "displayName": "Bump Mapping",
     "langName": "Bản đồ va chạm",
     "object": "Vật liệu",
-    "attribute": "Bản đồ",
+    "attribute": "Bản đồ kết cấu",
     "preview": "https://img.aishort.top/imgprompt/20260224225415653.webp"
   },
   {
     "displayName": "Normal Map",
     "langName": "bản đồ bình thường",
     "object": "Vật liệu",
-    "attribute": "Bản đồ",
+    "attribute": "Bản đồ kết cấu",
     "preview": "https://img.aishort.top/imgprompt/20260224225432546.webp"
   },
   {
     "displayName": "Depth Map",
     "langName": "Bản đồ độ sâu",
     "object": "Vật liệu",
-    "attribute": "Bản đồ",
+    "attribute": "Bản đồ kết cấu",
     "preview": "https://img.aishort.top/imgprompt/20260224225447643.webp"
   },
   {
@@ -31776,7 +31776,7 @@
   },
   {
     "displayName": "Fountain Pen",
-    "langName": "cái bút",
+    "langName": "bút máy",
     "object": "Loại hình ảnh",
     "attribute": "Mực",
     "preview": "https://img.aishort.top/imgprompt/20260225010527552.webp"

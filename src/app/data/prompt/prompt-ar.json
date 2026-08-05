@@ -106,7 +106,7 @@
   },
   {
     "displayName": "milf",
-    "langName": "جبهة تحرير مورو الإسلامية",
+    "langName": "ميلف",
     "object": "شخصية",
     "attribute": "أساسي",
     "preview": "https://img.aishort.top/imgprompt/20260207193855010.webp"
@@ -758,7 +758,7 @@
   },
   {
     "displayName": "orc",
-    "langName": "شركة مصفاة نفط عمان",
+    "langName": "أورك",
     "object": "شخصية",
     "attribute": "أنيمي",
     "preview": "https://img.aishort.top/imgprompt/20260209063108912.webp"
@@ -975,7 +975,7 @@
   },
   {
     "displayName": "furry",
-    "langName": "شركة مصفاة نفط عمان",
+    "langName": "فيرّي",
     "object": "شخصية",
     "attribute": "أنيمي",
     "preview": "https://img.aishort.top/imgprompt/20260210072537632.webp"
@@ -1206,7 +1206,7 @@
   },
   {
     "displayName": "oil_skin",
-    "langName": "oil skin",
+    "langName": "بشرة دهنية",
     "object": "شخصية",
     "attribute": "بشرة",
     "preview": "https://img.aishort.top/imgprompt/20260210195122883.webp"
@@ -2907,7 +2907,7 @@
   },
   {
     "displayName": "hollow_eyes",
-    "langName": "تلاميذ على شكل نجمة",
+    "langName": "عيون بلا بريق",
     "object": "شخصية",
     "attribute": "عين",
     "preview": "https://img.aishort.top/imgprompt/20260211141950217.webp"
@@ -3222,28 +3222,28 @@
   },
   {
     "displayName": "bright_pupils",
-    "langName": "التلاميذ مشرق",
+    "langName": "بؤبؤ لامع",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143011456.webp"
   },
   {
     "displayName": "blue_pupils",
-    "langName": "التلاميذ البرتقاليون",
+    "langName": "بؤبؤ أزرق",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143024647.webp"
   },
   {
     "displayName": "purple_pupils",
-    "langName": "التلاميذ الأرجواني",
+    "langName": "بؤبؤ بنفسجي",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143037152.webp"
   },
   {
     "displayName": "orange_pupils",
-    "langName": "التلاميذ البرتقاليون",
+    "langName": "بؤبؤ برتقالي",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143049459.webp"
@@ -3257,126 +3257,126 @@
   },
   {
     "displayName": "mismatched_pupils",
-    "langName": "تلاميذ غير متطابقين",
+    "langName": "بؤبؤان غير متطابقين",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143115346.webp"
   },
   {
     "displayName": "solid_circle_pupils",
-    "langName": "نسخة Q التلاميذ المستديرة الصلبة",
+    "langName": "بؤبؤ دائري مصمت",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143127812.webp"
   },
   {
     "displayName": "dilated_pupils",
-    "langName": "التلاميذ المتوسعة",
+    "langName": "بؤبؤ متسع",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143140879.webp"
   },
   {
     "displayName": "constricted_pupils",
-    "langName": "التلاميذ المقيدين",
+    "langName": "بؤبؤ منقبض",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143153508.webp"
   },
   {
     "displayName": "slit_pupils",
-    "langName": "التلاميذ العموديين / عيون القط",
+    "langName": "بؤبؤ شقّي (عيون القط)",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260317093802688.webp"
   },
   {
     "displayName": "snake_pupils",
-    "langName": "التلاميذ الأفعى (وميض التلميذ)",
+    "langName": "بؤبؤ أفعواني",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260317093813015.webp"
   },
   {
     "displayName": "horizontal_pupils",
-    "langName": "تلميذ أفقي",
+    "langName": "بؤبؤ أفقي",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143231312.webp"
   },
   {
     "displayName": "rectangular_pupils",
-    "langName": "التلاميذ مستطيلة",
+    "langName": "بؤبؤ مستطيل",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143243842.webp"
   },
   {
     "displayName": "square_pupils",
-    "langName": "التلاميذ المربعين",
+    "langName": "بؤبؤ مربع",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143256433.webp"
   },
   {
     "displayName": "dot_pupils",
-    "langName": "نقطة التلميذ",
+    "langName": "بؤبؤ نقطي",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143308943.webp"
   },
   {
     "displayName": "star-shaped_pupils",
-    "langName": "التلاميذ على شكل نجمة خماسية",
+    "langName": "بؤبؤ نجمي الشكل",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143321388.webp"
   },
   {
     "displayName": "flower-shaped pupils",
-    "langName": "التلاميذ على شكل زهرة",
+    "langName": "بؤبؤ زهري الشكل",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143334652.webp"
   },
   {
     "displayName": "heart-shaped_pupils",
-    "langName": "التلاميذ على شكل قلب",
+    "langName": "بؤبؤ قلبي الشكل",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260317093823349.webp"
   },
   {
     "displayName": "diamond-shaped_pupils",
-    "langName": "التلاميذ على شكل الماس",
+    "langName": "بؤبؤ ماسي الشكل",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143400233.webp"
   },
   {
     "displayName": "butterfly-shaped_pupils",
-    "langName": "التلاميذ على شكل فراشة",
+    "langName": "بؤبؤ فراشي الشكل",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260317093834432.webp"
   },
   {
     "displayName": "symbol-shaped_pupils",
-    "langName": "تلاميذ رمزيون",
+    "langName": "بؤبؤ رمزي الشكل",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143425446.webp"
   },
   {
     "displayName": "x-shaped_pupils",
-    "langName": "التلاميذ على شكل X",
+    "langName": "بؤبؤ على شكل X",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260317094021925.webp"
   },
   {
     "displayName": "cross-shaped_pupils",
-    "langName": "التلاميذ الرمزيون (لا يوجد تأثير",
+    "langName": "بؤبؤ صليبي الشكل",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143449975.webp"
@@ -3390,28 +3390,28 @@
   },
   {
     "displayName": "extra_pupils",
-    "langName": "تلاميذ إضافيين",
+    "langName": "بؤبؤ إضافي",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143515703.webp"
   },
   {
     "displayName": "no_pupils",
-    "langName": "لا التلاميذ",
+    "langName": "بلا بؤبؤ",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260317094748513.webp"
   },
   {
     "displayName": "devil pupils",
-    "langName": "التلميذ السحري",
+    "langName": "بؤبؤ شيطاني",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260317094053112.webp"
   },
   {
     "displayName": "pupils sparkling",
-    "langName": "وميض التلاميذ",
+    "langName": "بؤبؤ متلألئ",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260317094104457.webp"
@@ -4684,7 +4684,7 @@
   },
   {
     "displayName": "crop_top_overhang",
-    "langName": "المحاصيل الأعلى المتراكمة",
+    "langName": "تدلّي الكروب توب",
     "object": "بيئة",
     "attribute": "خلفية",
     "preview": "https://img.aishort.top/imgprompt/20260225095914537.webp"
@@ -5384,7 +5384,7 @@
   },
   {
     "displayName": "lunar",
-    "langName": "قمري، _lunar؛",
+    "langName": "قمري",
     "object": "بيئة",
     "attribute": "سماء",
     "preview": "https://img.aishort.top/imgprompt/20260211153840964.webp"
@@ -9873,301 +9873,301 @@
     "displayName": "arms_up",
     "langName": "ارفع يدك",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175530980.webp"
   },
   {
     "displayName": "arms_crossed",
     "langName": "عبرت الأيدي على الصدر",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175543922.webp"
   },
   {
     "displayName": "crossed_arms",
     "langName": "عبرت الأسلحة",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175556789.webp"
   },
   {
     "displayName": "arms_at_sides",
     "langName": "أيدي أسفل",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175609687.webp"
   },
   {
     "displayName": "arm_at_side",
     "langName": "معلقة يد واحدة إلى أسفل",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175622234.webp"
   },
   {
     "displayName": "arms_behind_back",
     "langName": "يديك خلف ظهرك",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175634829.webp"
   },
   {
     "displayName": "arms_behind_head",
     "langName": "أمسك الرأس بيديك",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175647169.webp"
   },
   {
     "displayName": "arm_behind_head",
     "langName": "الأيدي خلف الرأس",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175659736.webp"
   },
   {
     "displayName": "arm_behind_back",
     "langName": "ضع يد واحدة خلف ظهرك",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260212075132956.webp"
   },
   {
     "displayName": "hands_clasped",
     "langName": "أصابع متقاطعة من كلتا اليدين | الأيدي المشدودة",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
   },
   {
     "displayName": "interlocked_fingers",
     "langName": "الأيدي مشدودة",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175736751.webp"
   },
   {
     "displayName": "arm_support",
     "langName": "الدعم بالأيدي",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175748994.webp"
   },
   {
     "displayName": "arm_above_head",
     "langName": "الأيدي على الرأس",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260213094908585.webp"
   },
   {
     "displayName": "outstretched_arms",
     "langName": "تمتد الأسلحة",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175813007.webp"
   },
   {
     "displayName": "hands_in_opposite_sleeves",
     "langName": "اعبر يديك وضعهما في أكمامك",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
   },
   {
     "displayName": "v_arms",
     "langName": "اصنع حرف V بكلتا ذراعيك",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175838045.webp"
   },
   {
     "displayName": "w_arms",
     "langName": "الأسلحة في وضع W",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175850840.webp"
   },
   {
     "displayName": "sharp_fingernails",
     "langName": "أظافر حادة",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
   },
   {
     "displayName": "spread_fingers",
     "langName": "انشر أصابعك",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175916068.webp"
   },
   {
     "displayName": "trigger_discipline",
     "langName": "لا إصبع على الزناد",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175928974.webp"
   },
   {
     "displayName": "w",
     "langName": "إصبع من W",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175941737.webp"
   },
   {
     "displayName": "bound_arms",
     "langName": "الأسلحة مقيدة",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175955270.webp"
   },
   {
     "displayName": "extra_arms",
     "langName": "أذرع متعددة",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180008191.webp"
   },
   {
     "displayName": "locked_arms",
     "langName": "عقد الأسلحة",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180021217.webp"
   },
   {
     "displayName": "convenient_arm",
     "langName": "تغطية الأجزاء الرئيسية من الأسلحة",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180033673.webp"
   },
   {
     "displayName": "arm_cannon",
     "langName": "مدفع اليد",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180046505.webp"
   },
   {
     "displayName": "arm_ribbon",
     "langName": "شريط الذراع",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180058970.webp"
   },
   {
     "displayName": "arm_held_back",
     "langName": "سحب الأسلحة إلى الوراء",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180112475.webp"
   },
   {
     "displayName": "hugging_own_legs",
     "langName": "عانق ساقيك",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180124920.webp"
   },
   {
     "displayName": "trembling",
     "langName": "ترتعش",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180137998.webp"
   },
   {
     "displayName": "rolleyes",
     "langName": "لفة عينيك",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180150675.webp"
   },
   {
     "displayName": "clenched hand",
     "langName": "قبضة مشدودة",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180203512.webp"
   },
   {
     "displayName": "covering_xx",
     "langName": "غطاء XX",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
   },
   {
     "displayName": "double piece pose",
     "langName": "علامة الأيدي V",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260212075155741.webp"
   },
   {
     "displayName": "hands in hair",
     "langName": "تمشيط الشعر باليدين",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180240957.webp"
   },
   {
     "displayName": "hidden hands",
     "langName": "إخفاء يديك",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180253482.webp"
   },
   {
     "displayName": "open hands",
     "langName": "أيدي مفتوحة",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180305978.webp"
   },
   {
     "displayName": "own hands clasped",
     "langName": "الأيدي مشبوكة معًا",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180318354.webp"
   },
   {
     "displayName": "own hands together",
     "langName": "الأيدي معا",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180330982.webp"
   },
   {
     "displayName": "peace sign",
     "langName": "أيدي المقص",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180343460.webp"
   },
   {
     "displayName": "presenting armpit",
     "langName": "إظهار الإبطين",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180356051.webp"
   },
   {
     "displayName": "spread arms",
     "langName": "أذرع مفتوحة",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180408733.webp"
   },
   {
     "displayName": "tying hair",
     "langName": "ربط الشعر",
     "object": "حركة",
-    "attribute": "حركات اليد",
+    "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180421654.webp"
   },
   {
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "double_v",
+    "langName": "علامة النصر بكلتا اليدين",
     "object": "حركة",
     "attribute": "إشارات اليد",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -13763,14 +13763,14 @@
   },
   {
     "displayName": ":d",
-    "langName": "ابتسامة سعيدة_:D😀",
+    "langName": "ابتسامة سعيدة",
     "object": "تعبير",
     "attribute": "ضحك",
     "preview": "https://img.aishort.top/imgprompt/20260211195749422.webp"
   },
   {
     "displayName": ";d",
-    "langName": "غمز وابتسم_:د",
+    "langName": "غمز وابتسم",
     "object": "تعبير",
     "attribute": "ضحك",
     "preview": "https://img.aishort.top/imgprompt/20260211195810245.webp"
@@ -14093,7 +14093,7 @@
   },
   {
     "displayName": "sulking",
-    "langName": "Angry_sulky",
+    "langName": "غاضب ومتجهم",
     "object": "تعبير",
     "attribute": "غاضب",
     "preview": "https://img.aishort.top/imgprompt/20260213103708924.webp"
@@ -14751,7 +14751,7 @@
   },
   {
     "displayName": "obi",
-    "langName": "الملابس (والملابس)",
+    "langName": "أوبي (حزام الكيمونو)",
     "object": "ملابس",
     "attribute": "نمط الملابس",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -20763,7 +20763,7 @@
   },
   {
     "displayName": "pumps",
-    "langName": "فستان بقصة منخفضة مع الكعب العالي",
+    "langName": "حذاء بامب",
     "object": "ملابس",
     "attribute": "حذاء",
     "preview": "https://img.aishort.top/imgprompt/20260213164252308.webp"
@@ -21003,238 +21003,238 @@
     "displayName": "wide_sleeves",
     "langName": "أكمام واسعة",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213174402264.webp"
   },
   {
     "displayName": "single_sleeve",
     "langName": "كم واحد",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213174421142.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
     "langName": "الأكمام غير المتكافئة",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213174433704.webp"
   },
   {
     "displayName": "puffy_sleeves",
     "langName": "الأكمام منتفخة",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213174452709.webp"
   },
   {
     "displayName": "puffy_long_sleeves",
     "langName": "اكمام طويلة منتفخة",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213174505622.webp"
   },
   {
     "displayName": "puffy_short_sleeves",
     "langName": "أكمام قصيرة منتفخة",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
   },
   {
     "displayName": "frilled_sleeves",
     "langName": "حواف الأكمام تكدرت",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213174936053.webp"
   },
   {
     "displayName": "juliet_sleeves",
     "langName": "أكمام جولييت",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260225105600224.webp"
   },
   {
     "displayName": "bandaged_arm",
     "langName": "ضمادات الذراع",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175209308.webp"
   },
   {
     "displayName": "raglan_sleeves",
     "langName": "أكمام راجلان",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175222011.webp"
   },
   {
     "displayName": "vambraces",
     "langName": "درع أسفل الذراع",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175234968.webp"
   },
   {
     "displayName": "layered_sleeves",
     "langName": "الأكمام الطبقات",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175248597.webp"
   },
   {
     "displayName": "fur-trimmed_sleeves",
     "langName": "الأكمام حافة الخام",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175301700.webp"
   },
   {
     "displayName": "see-through_sleeves",
     "langName": "أكمام شفافة",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175314655.webp"
   },
   {
     "displayName": "torn_sleeves",
     "langName": "الأكمام الممزقة",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175327401.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "الأكمام أطول من الأصابع",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
     "langName": "الأكمام فوق المعصم",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175353319.webp"
   },
   {
     "displayName": "sleeves_past_elbows",
     "langName": "الأكمام فوق الكوع",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175608643.webp"
   },
   {
     "displayName": "sleeves_pushed_up",
     "langName": "رفع الأكمام",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175621831.webp"
   },
   {
     "displayName": "arm_out_of_sleeve",
     "langName": "الأسلحة في الأكمام",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175635409.webp"
   },
   {
     "displayName": "uneven_sleeves",
     "langName": "الأكمام غير المستوية",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175647988.webp"
   },
   {
     "displayName": "mismatched_sleeves",
     "langName": "أكمام غير متطابقة",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175701248.webp"
   },
   {
     "displayName": "sleeve_rolled_up",
     "langName": "الأكمام مطوية",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
     "langName": "كم واحد ملفوف",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175726967.webp"
   },
   {
     "displayName": "feather-trimmed_sleeves",
     "langName": "أكمام مزينة بالريش",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213175941889.webp"
   },
   {
     "displayName": "lace-trimmed_sleeves",
     "langName": "الأكمام الدانتيل",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213180156786.webp"
   },
   {
     "displayName": "pinching_sleeves",
     "langName": "قرصة الأكمام الخاصة بك",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213180210307.webp"
   },
   {
     "displayName": "puffy_detached_sleeves",
     "langName": "الأكمام منتفخة",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213180223059.webp"
   },
   {
     "displayName": "ribbed_sleeves",
     "langName": "أكمام مضلعة",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
   },
   {
     "displayName": "single_detached_sleeve",
     "langName": "الأكمام التي تبقى على جانب واحد",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213180855076.webp"
   },
   {
     "displayName": "sleeves_folded_up",
     "langName": "الأكمام مطوية",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213181110146.webp"
   },
   {
     "displayName": "striped_sleeves",
     "langName": "أكمام مخططة",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213181123268.webp"
   },
   {
     "displayName": "armband",
     "langName": "شارة (شارة)",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
   },
   {
     "displayName": "armlet",
     "langName": "سوار الذراع",
     "object": "ملابس",
-    "attribute": "ذراع",
+    "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213190711002.webp"
   },
   {
@@ -23941,7 +23941,7 @@
   },
   {
     "displayName": "One shoulder bag",
-    "langName": "حقيبة الكتف",
+    "langName": "حقيبة كتف",
     "object": "إكسسوارات",
     "attribute": "إكسسوارات",
     "preview": "https://img.aishort.top/imgprompt/20260214014509390.webp"
@@ -24074,14 +24074,14 @@
   },
   {
     "displayName": "Aerial View",
-    "langName": "عرض أعلى",
+    "langName": "منظر جوي",
     "object": "التصوير",
     "attribute": "زاوية الرؤية",
     "preview": "https://img.aishort.top/imgprompt/20260214023207316.webp"
   },
   {
     "displayName": "Top-View",
-    "langName": "عرض أعلى",
+    "langName": "منظر علوي",
     "object": "التصوير",
     "attribute": "زاوية الرؤية",
     "preview": "https://img.aishort.top/imgprompt/20260214023423183.webp"
@@ -26742,7 +26742,7 @@
   },
   {
     "displayName": "powderblue",
-    "langName": "مسحوق أزرق",
+    "langName": "أزرق بودري",
     "object": "أجواء الألوان",
     "attribute": "درجات فاتحة",
     "preview": "https://img.aishort.top/imgprompt/20260224220347304.webp"
@@ -26756,7 +26756,7 @@
   },
   {
     "displayName": "paleturquoise",
-    "langName": "سماوي فاتح",
+    "langName": "فيروزي شاحب",
     "object": "أجواء الألوان",
     "attribute": "درجات فاتحة",
     "preview": "https://img.aishort.top/imgprompt/20260224220418876.webp"
@@ -27134,7 +27134,7 @@
   },
   {
     "displayName": "royalblue",
-    "langName": "الأزرق الملكي",
+    "langName": "أزرق ملكي",
     "object": "أجواء الألوان",
     "attribute": "ألوان الطيف",
     "preview": "https://img.aishort.top/imgprompt/20260224221743869.webp"
@@ -27155,28 +27155,28 @@
   },
   {
     "displayName": "darkblue",
-    "langName": "أزرق غامق",
+    "langName": "أزرق داكن",
     "object": "أجواء الألوان",
     "attribute": "ألوان الطيف",
     "preview": "https://img.aishort.top/imgprompt/20260224221832342.webp"
   },
   {
     "displayName": "navy",
-    "langName": "الأزرق الداكن",
+    "langName": "كحلي",
     "object": "أجواء الألوان",
     "attribute": "ألوان الطيف",
     "preview": "https://img.aishort.top/imgprompt/20260224221845774.webp"
   },
   {
     "displayName": "midnightblue",
-    "langName": "منتصف الليل الأزرق",
+    "langName": "أزرق منتصف الليل",
     "object": "أجواء الألوان",
     "attribute": "ألوان الطيف",
     "preview": "https://img.aishort.top/imgprompt/20260224221901073.webp"
   },
   {
     "displayName": "darkcyan",
-    "langName": "البط البري",
+    "langName": "سماوي داكن",
     "object": "أجواء الألوان",
     "attribute": "ألوان الطيف",
     "preview": "https://img.aishort.top/imgprompt/20260224221915905.webp"
@@ -27204,21 +27204,21 @@
   },
   {
     "displayName": "aquamarine",
-    "langName": "الفيروز",
+    "langName": "أكوامارين",
     "object": "أجواء الألوان",
     "attribute": "ألوان الطيف",
     "preview": "https://img.aishort.top/imgprompt/20260224222012509.webp"
   },
   {
     "displayName": "lightcyan",
-    "langName": "أزرق",
+    "langName": "سماوي فاتح",
     "object": "أجواء الألوان",
     "attribute": "ألوان الطيف",
     "preview": "https://img.aishort.top/imgprompt/20260224222026323.webp"
   },
   {
     "displayName": "cyan",
-    "langName": "الفيروز",
+    "langName": "سماوي",
     "object": "أجواء الألوان",
     "attribute": "ألوان الطيف",
     "preview": "https://img.aishort.top/imgprompt/20260224222040633.webp"
@@ -27435,14 +27435,14 @@
   },
   {
     "displayName": "violet",
-    "langName": "أرجواني",
+    "langName": "بنفسجي",
     "object": "أجواء الألوان",
     "attribute": "ألوان الطيف",
     "preview": "https://img.aishort.top/imgprompt/20260317075647695.webp"
   },
   {
     "displayName": "magenta",
-    "langName": "أرجواني",
+    "langName": "ماجنتا",
     "object": "أجواء الألوان",
     "attribute": "ألوان الطيف",
     "preview": "https://img.aishort.top/imgprompt/20260224222833820.webp"
@@ -27610,7 +27610,7 @@
   },
   {
     "displayName": "Complimentary-Colors",
-    "langName": "الألوان التكميلية",
+    "langName": "ألوان متكاملة",
     "object": "أجواء الألوان",
     "attribute": "لوحة الألوان",
     "preview": "https://img.aishort.top/imgprompt/20260224223458770.webp"
@@ -27624,7 +27624,7 @@
   },
   {
     "displayName": "Supplementary-Colors",
-    "langName": "الألوان التكميلية",
+    "langName": "ألوان تكميلية",
     "object": "أجواء الألوان",
     "attribute": "لوحة الألوان",
     "preview": "https://img.aishort.top/imgprompt/20260224223528366.webp"
@@ -27870,7 +27870,7 @@
   },
   {
     "displayName": "HDR",
-    "langName": "تقرير التنمية البشرية",
+    "langName": "HDR",
     "object": "أجواء الألوان",
     "attribute": "لوحة ألوان الشاشة",
     "preview": "https://img.aishort.top/imgprompt/20260224224401445.webp"
@@ -27919,21 +27919,21 @@
   },
   {
     "displayName": "HSV",
-    "langName": "هوى والتشبع والخفة",
+    "langName": "صبغة، تشبع، قيمة",
     "object": "أجواء الألوان",
     "attribute": "لوحة ألوان الشاشة",
     "preview": "https://img.aishort.top/imgprompt/20260224224548087.webp"
   },
   {
     "displayName": "HSL",
-    "langName": "هوى، التشبع، السطوع",
+    "langName": "صبغة، تشبع، إضاءة",
     "object": "أجواء الألوان",
     "attribute": "لوحة ألوان الشاشة",
     "preview": "https://img.aishort.top/imgprompt/20260224224601439.webp"
   },
   {
     "displayName": "HCL",
-    "langName": "هوى، صفاء، الإضاءة",
+    "langName": "صبغة، إشباع لوني، لمعان",
     "object": "أجواء الألوان",
     "attribute": "لوحة ألوان الشاشة",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
@@ -28073,7 +28073,7 @@
   },
   {
     "displayName": "Kinemacolor",
-    "langName": "لون الفيلم",
+    "langName": "كينيماكولور",
     "object": "أجواء الألوان",
     "attribute": "إنتاج سينمائي",
     "preview": "https://img.aishort.top/imgprompt/20260224225130563.webp"
@@ -28087,7 +28087,7 @@
   },
   {
     "displayName": "Cinecolor",
-    "langName": "لون الفيلم",
+    "langName": "سينيكولور",
     "object": "أجواء الألوان",
     "attribute": "إنتاج سينمائي",
     "preview": "https://img.aishort.top/imgprompt/20260224225201683.webp"
@@ -28124,35 +28124,35 @@
     "displayName": "Bump Map",
     "langName": "خريطة عثرة",
     "object": "مادة",
-    "attribute": "خريطة",
+    "attribute": "خرائط النسيج",
     "preview": "https://img.aishort.top/imgprompt/20260224225344573.webp"
   },
   {
     "displayName": "Bump Mapped",
     "langName": "مع خريطة عثرة",
     "object": "مادة",
-    "attribute": "خريطة",
+    "attribute": "خرائط النسيج",
     "preview": "https://img.aishort.top/imgprompt/20260224225400692.webp"
   },
   {
     "displayName": "Bump Mapping",
     "langName": "رسم الخرائط عثرة",
     "object": "مادة",
-    "attribute": "خريطة",
+    "attribute": "خرائط النسيج",
     "preview": "https://img.aishort.top/imgprompt/20260224225415653.webp"
   },
   {
     "displayName": "Normal Map",
     "langName": "خريطة عادية",
     "object": "مادة",
-    "attribute": "خريطة",
+    "attribute": "خرائط النسيج",
     "preview": "https://img.aishort.top/imgprompt/20260224225432546.webp"
   },
   {
     "displayName": "Depth Map",
     "langName": "خريطة العمق",
     "object": "مادة",
-    "attribute": "خريطة",
+    "attribute": "خرائط النسيج",
     "preview": "https://img.aishort.top/imgprompt/20260224225447643.webp"
   },
   {
@@ -31776,7 +31776,7 @@
   },
   {
     "displayName": "Fountain Pen",
-    "langName": "قلم",
+    "langName": "قلم حبر سائل",
     "object": "نوع الصورة",
     "attribute": "حبر",
     "preview": "https://img.aishort.top/imgprompt/20260225010527552.webp"

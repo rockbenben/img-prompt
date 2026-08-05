@@ -1206,7 +1206,7 @@
   },
   {
     "displayName": "oil_skin",
-    "langName": "oil skin",
+    "langName": "脂性肌",
     "object": "キャラクター",
     "attribute": "肌",
     "preview": "https://img.aishort.top/imgprompt/20260210195122883.webp"
@@ -2907,7 +2907,7 @@
   },
   {
     "displayName": "hollow_eyes",
-    "langName": "星型の瞳孔",
+    "langName": "光のない目",
     "object": "キャラクター",
     "attribute": "目",
     "preview": "https://img.aishort.top/imgprompt/20260211141950217.webp"
@@ -3229,7 +3229,7 @@
   },
   {
     "displayName": "blue_pupils",
-    "langName": "オレンジ色の瞳",
+    "langName": "青い瞳",
     "object": "キャラクター",
     "attribute": "瞳",
     "preview": "https://img.aishort.top/imgprompt/20260211143024647.webp"
@@ -5384,7 +5384,7 @@
   },
   {
     "displayName": "lunar",
-    "langName": "月の、_月の;",
+    "langName": "月の",
     "object": "環境",
     "attribute": "空",
     "preview": "https://img.aishort.top/imgprompt/20260211153840964.webp"
@@ -9873,301 +9873,301 @@
     "displayName": "arms_up",
     "langName": "手を挙げてください",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175530980.webp"
   },
   {
     "displayName": "arms_crossed",
     "langName": "胸の上で手を組む",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175543922.webp"
   },
   {
     "displayName": "crossed_arms",
     "langName": "腕を組んだ",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175556789.webp"
   },
   {
     "displayName": "arms_at_sides",
     "langName": "間違いなく",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175609687.webp"
   },
   {
     "displayName": "arm_at_side",
     "langName": "片手を下げて",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175622234.webp"
   },
   {
     "displayName": "arms_behind_back",
     "langName": "手を背中に回す",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175634829.webp"
   },
   {
     "displayName": "arms_behind_head",
     "langName": "手で頭を支える",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175647169.webp"
   },
   {
     "displayName": "arm_behind_head",
     "langName": "手を頭の後ろに置く",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175659736.webp"
   },
   {
     "displayName": "arm_behind_back",
     "langName": "片手を背中に回します",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260212075132956.webp"
   },
   {
     "displayName": "hands_clasped",
     "langName": "両手の指を交差 | 握りしめた手",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
   },
   {
     "displayName": "interlocked_fingers",
     "langName": "手を握る",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175736751.webp"
   },
   {
     "displayName": "arm_support",
     "langName": "手で支える",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175748994.webp"
   },
   {
     "displayName": "arm_above_head",
     "langName": "頭に手を当てる",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260213094908585.webp"
   },
   {
     "displayName": "outstretched_arms",
     "langName": "腕を伸ばす",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175813007.webp"
   },
   {
     "displayName": "hands_in_opposite_sleeves",
     "langName": "手を組んで袖の中に入れる",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
   },
   {
     "displayName": "v_arms",
     "langName": "両腕で V 字を作る",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175838045.webp"
   },
   {
     "displayName": "w_arms",
     "langName": "腕を W の位置に置く",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175850840.webp"
   },
   {
     "displayName": "sharp_fingernails",
     "langName": "鋭い爪",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
   },
   {
     "displayName": "spread_fingers",
     "langName": "指を広げる",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175916068.webp"
   },
   {
     "displayName": "trigger_discipline",
     "langName": "引き金に指がかかっていない",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175928974.webp"
   },
   {
     "displayName": "w",
     "langName": "W よりも指",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175941737.webp"
   },
   {
     "displayName": "bound_arms",
     "langName": "腕は縛られている",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175955270.webp"
   },
   {
     "displayName": "extra_arms",
     "langName": "複数の腕",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180008191.webp"
   },
   {
     "displayName": "locked_arms",
     "langName": "腕を組んで",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180021217.webp"
   },
   {
     "displayName": "convenient_arm",
     "langName": "腕の重要な部分をカバーする",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180033673.webp"
   },
   {
     "displayName": "arm_cannon",
     "langName": "ハンドキャノン",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180046505.webp"
   },
   {
     "displayName": "arm_ribbon",
     "langName": "腕リボン",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180058970.webp"
   },
   {
     "displayName": "arm_held_back",
     "langName": "腕を後ろに引く",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180112475.webp"
   },
   {
     "displayName": "hugging_own_legs",
     "langName": "足を抱きしめて",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180124920.webp"
   },
   {
     "displayName": "trembling",
     "langName": "震える",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180137998.webp"
   },
   {
     "displayName": "rolleyes",
     "langName": "目を回して",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180150675.webp"
   },
   {
     "displayName": "clenched hand",
     "langName": "握りこぶし",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180203512.webp"
   },
   {
     "displayName": "covering_xx",
     "langName": "カバーxx",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
   },
   {
     "displayName": "double piece pose",
     "langName": "両手で V サイン",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260212075155741.webp"
   },
   {
     "displayName": "hands in hair",
     "langName": "手で髪をとかす",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180240957.webp"
   },
   {
     "displayName": "hidden hands",
     "langName": "手を隠す",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180253482.webp"
   },
   {
     "displayName": "open hands",
     "langName": "両手を広げる",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180305978.webp"
   },
   {
     "displayName": "own hands clasped",
     "langName": "手を握りしめて",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180318354.webp"
   },
   {
     "displayName": "own hands together",
     "langName": "手を合わせる",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180330982.webp"
   },
   {
     "displayName": "peace sign",
     "langName": "シザーハンズ",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180343460.webp"
   },
   {
     "displayName": "presenting armpit",
     "langName": "脇の下を見せる",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180356051.webp"
   },
   {
     "displayName": "spread arms",
     "langName": "両手を広げて",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180408733.webp"
   },
   {
     "displayName": "tying hair",
     "langName": "髪を結ぶ",
     "object": "アクション",
-    "attribute": "手の動き",
+    "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180421654.webp"
   },
   {
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "ダブル_v",
+    "langName": "ダブルv",
     "object": "アクション",
     "attribute": "ハンドサイン",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -13763,14 +13763,14 @@
   },
   {
     "displayName": ":d",
-    "langName": "幸せな笑顔_:D😀",
+    "langName": "幸せな笑顔",
     "object": "表情",
     "attribute": "笑う",
     "preview": "https://img.aishort.top/imgprompt/20260211195749422.webp"
   },
   {
     "displayName": ";d",
-    "langName": "ウインクして笑って_:D",
+    "langName": "ウインクして笑って",
     "object": "表情",
     "attribute": "笑う",
     "preview": "https://img.aishort.top/imgprompt/20260211195810245.webp"
@@ -14093,7 +14093,7 @@
   },
   {
     "displayName": "sulking",
-    "langName": "怒っている不機嫌な",
+    "langName": "不機嫌",
     "object": "表情",
     "attribute": "怒り",
     "preview": "https://img.aishort.top/imgprompt/20260213103708924.webp"
@@ -14751,7 +14751,7 @@
   },
   {
     "displayName": "obi",
-    "langName": "衣服（衣類）",
+    "langName": "帯",
     "object": "衣装",
     "attribute": "服装スタイル",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -20763,7 +20763,7 @@
   },
   {
     "displayName": "pumps",
-    "langName": "ローカットドレスとハイヒール",
+    "langName": "パンプス",
     "object": "衣装",
     "attribute": "靴",
     "preview": "https://img.aishort.top/imgprompt/20260213164252308.webp"
@@ -21003,238 +21003,238 @@
     "displayName": "wide_sleeves",
     "langName": "ワイドスリーブ",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213174402264.webp"
   },
   {
     "displayName": "single_sleeve",
     "langName": "片袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213174421142.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
     "langName": "非対称の袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213174433704.webp"
   },
   {
     "displayName": "puffy_sleeves",
     "langName": "ふくらんだ袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213174452709.webp"
   },
   {
     "displayName": "puffy_long_sleeves",
     "langName": "ふわふわの長袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213174505622.webp"
   },
   {
     "displayName": "puffy_short_sleeves",
     "langName": "パフ半袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
   },
   {
     "displayName": "frilled_sleeves",
     "langName": "フリル袖の縁",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213174936053.webp"
   },
   {
     "displayName": "juliet_sleeves",
     "langName": "ジュリエットスリーブ",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260225105600224.webp"
   },
   {
     "displayName": "bandaged_arm",
     "langName": "腕に包帯を巻いた",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175209308.webp"
   },
   {
     "displayName": "raglan_sleeves",
     "langName": "ラグランスリーブ",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175222011.webp"
   },
   {
     "displayName": "vambraces",
     "langName": "下腕装甲",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175234968.webp"
   },
   {
     "displayName": "layered_sleeves",
     "langName": "重ね袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175248597.webp"
   },
   {
     "displayName": "fur-trimmed_sleeves",
     "langName": "切りっぱなしの袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175301700.webp"
   },
   {
     "displayName": "see-through_sleeves",
     "langName": "透明スリーブ",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175314655.webp"
   },
   {
     "displayName": "torn_sleeves",
     "langName": "破れた袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175327401.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "袖の長さが指より長い",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
     "langName": "袖丈は手首より上",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175353319.webp"
   },
   {
     "displayName": "sleeves_past_elbows",
     "langName": "肘より上の袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175608643.webp"
   },
   {
     "displayName": "sleeves_pushed_up",
     "langName": "プッシュアップスリーブ",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175621831.webp"
   },
   {
     "displayName": "arm_out_of_sleeve",
     "langName": "袖の中に腕を入れる",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175635409.webp"
   },
   {
     "displayName": "uneven_sleeves",
     "langName": "袖が不揃い",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175647988.webp"
   },
   {
     "displayName": "mismatched_sleeves",
     "langName": "袖が合わない",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175701248.webp"
   },
   {
     "displayName": "sleeve_rolled_up",
     "langName": "袖をまくった",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
     "langName": "片方の袖をまくり上げる",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175726967.webp"
   },
   {
     "displayName": "feather-trimmed_sleeves",
     "langName": "羽根飾りの袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213175941889.webp"
   },
   {
     "displayName": "lace-trimmed_sleeves",
     "langName": "レースの袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213180156786.webp"
   },
   {
     "displayName": "pinching_sleeves",
     "langName": "袖をつまんで",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213180210307.webp"
   },
   {
     "displayName": "puffy_detached_sleeves",
     "langName": "ふくらんだ袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213180223059.webp"
   },
   {
     "displayName": "ribbed_sleeves",
     "langName": "リブ袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
   },
   {
     "displayName": "single_detached_sleeve",
     "langName": "片側に残る袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213180855076.webp"
   },
   {
     "displayName": "sleeves_folded_up",
     "langName": "折り返し袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213181110146.webp"
   },
   {
     "displayName": "striped_sleeves",
     "langName": "ストライプの袖",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213181123268.webp"
   },
   {
     "displayName": "armband",
     "langName": "腕章（アームバンド）",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
   },
   {
     "displayName": "armlet",
     "langName": "腕用ブレスレット",
     "object": "衣装",
-    "attribute": "腕",
+    "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213190711002.webp"
   },
   {
@@ -24074,14 +24074,14 @@
   },
   {
     "displayName": "Aerial View",
-    "langName": "上から見た図",
+    "langName": "俯瞰ビュー",
     "object": "撮影",
     "attribute": "視点",
     "preview": "https://img.aishort.top/imgprompt/20260214023207316.webp"
   },
   {
     "displayName": "Top-View",
-    "langName": "上から見た図",
+    "langName": "真上からの視点",
     "object": "撮影",
     "attribute": "視点",
     "preview": "https://img.aishort.top/imgprompt/20260214023423183.webp"
@@ -26735,7 +26735,7 @@
   },
   {
     "displayName": "lightblue",
-    "langName": "水色",
+    "langName": "ライトブルー",
     "object": "カラームード",
     "attribute": "明るいトーン",
     "preview": "https://img.aishort.top/imgprompt/20260224220333904.webp"
@@ -26756,7 +26756,7 @@
   },
   {
     "displayName": "paleturquoise",
-    "langName": "ライトシアン",
+    "langName": "ペールターコイズ",
     "object": "カラームード",
     "attribute": "明るいトーン",
     "preview": "https://img.aishort.top/imgprompt/20260224220418876.webp"
@@ -27162,7 +27162,7 @@
   },
   {
     "displayName": "navy",
-    "langName": "ネイビーブルー",
+    "langName": "ネイビー",
     "object": "カラームード",
     "attribute": "スペクトル色",
     "preview": "https://img.aishort.top/imgprompt/20260224221845774.webp"
@@ -27176,7 +27176,7 @@
   },
   {
     "displayName": "darkcyan",
-    "langName": "ティール",
+    "langName": "ダークシアン",
     "object": "カラームード",
     "attribute": "スペクトル色",
     "preview": "https://img.aishort.top/imgprompt/20260224221915905.webp"
@@ -27204,21 +27204,21 @@
   },
   {
     "displayName": "aquamarine",
-    "langName": "ターコイズ",
+    "langName": "アクアマリン",
     "object": "カラームード",
     "attribute": "スペクトル色",
     "preview": "https://img.aishort.top/imgprompt/20260224222012509.webp"
   },
   {
     "displayName": "lightcyan",
-    "langName": "青",
+    "langName": "ライトシアン",
     "object": "カラームード",
     "attribute": "スペクトル色",
     "preview": "https://img.aishort.top/imgprompt/20260224222026323.webp"
   },
   {
     "displayName": "cyan",
-    "langName": "ターコイズ",
+    "langName": "シアン",
     "object": "カラームード",
     "attribute": "スペクトル色",
     "preview": "https://img.aishort.top/imgprompt/20260224222040633.webp"
@@ -27624,7 +27624,7 @@
   },
   {
     "displayName": "Supplementary-Colors",
-    "langName": "補色",
+    "langName": "副次色",
     "object": "カラームード",
     "attribute": "カラーパレット",
     "preview": "https://img.aishort.top/imgprompt/20260224223528366.webp"
@@ -27870,7 +27870,7 @@
   },
   {
     "displayName": "HDR",
-    "langName": "高解像度",
+    "langName": "HDR",
     "object": "カラームード",
     "attribute": "モニターのカラーパレット",
     "preview": "https://img.aishort.top/imgprompt/20260224224401445.webp"
@@ -27919,21 +27919,21 @@
   },
   {
     "displayName": "HSV",
-    "langName": "色相、彩度、明度",
+    "langName": "色相・彩度・明度",
     "object": "カラームード",
     "attribute": "モニターのカラーパレット",
     "preview": "https://img.aishort.top/imgprompt/20260224224548087.webp"
   },
   {
     "displayName": "HSL",
-    "langName": "色相、彩度、明度",
+    "langName": "色相・彩度・輝度",
     "object": "カラームード",
     "attribute": "モニターのカラーパレット",
     "preview": "https://img.aishort.top/imgprompt/20260224224601439.webp"
   },
   {
     "displayName": "HCL",
-    "langName": "色相、彩度、照度",
+    "langName": "色相・彩度(クロマ)・輝度",
     "object": "カラームード",
     "attribute": "モニターのカラーパレット",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
@@ -28073,7 +28073,7 @@
   },
   {
     "displayName": "Kinemacolor",
-    "langName": "フィルムカラー",
+    "langName": "キネマカラー",
     "object": "カラームード",
     "attribute": "映画制作",
     "preview": "https://img.aishort.top/imgprompt/20260224225130563.webp"
@@ -28087,7 +28087,7 @@
   },
   {
     "displayName": "Cinecolor",
-    "langName": "映画カラー",
+    "langName": "シネカラー",
     "object": "カラームード",
     "attribute": "映画制作",
     "preview": "https://img.aishort.top/imgprompt/20260224225201683.webp"
@@ -28124,35 +28124,35 @@
     "displayName": "Bump Map",
     "langName": "バンプマップ",
     "object": "テクスチャ",
-    "attribute": "地図",
+    "attribute": "テクスチャマップ",
     "preview": "https://img.aishort.top/imgprompt/20260224225344573.webp"
   },
   {
     "displayName": "Bump Mapped",
     "langName": "バンプマップ付き",
     "object": "テクスチャ",
-    "attribute": "地図",
+    "attribute": "テクスチャマップ",
     "preview": "https://img.aishort.top/imgprompt/20260224225400692.webp"
   },
   {
     "displayName": "Bump Mapping",
     "langName": "バンプマッピング",
     "object": "テクスチャ",
-    "attribute": "地図",
+    "attribute": "テクスチャマップ",
     "preview": "https://img.aishort.top/imgprompt/20260224225415653.webp"
   },
   {
     "displayName": "Normal Map",
     "langName": "法線マップ",
     "object": "テクスチャ",
-    "attribute": "地図",
+    "attribute": "テクスチャマップ",
     "preview": "https://img.aishort.top/imgprompt/20260224225432546.webp"
   },
   {
     "displayName": "Depth Map",
     "langName": "深度マップ",
     "object": "テクスチャ",
-    "attribute": "地図",
+    "attribute": "テクスチャマップ",
     "preview": "https://img.aishort.top/imgprompt/20260224225447643.webp"
   },
   {
@@ -30243,7 +30243,7 @@
   },
   {
     "displayName": "Entoloma-Hochstetteri",
-    "langName": "ウダリゴフィルム ホロフィラ",
+    "langName": "エントロマ・ホッホシュテッテリ",
     "object": "テクスチャ",
     "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001107659.webp"
@@ -31006,7 +31006,7 @@
   },
   {
     "displayName": "Underdimensional",
-    "langName": "二次元",
+    "langName": "亜次元",
     "object": "形状・空間",
     "attribute": "マルチバース",
     "preview": "https://img.aishort.top/imgprompt/20260225003736660.webp"
@@ -31776,7 +31776,7 @@
   },
   {
     "displayName": "Fountain Pen",
-    "langName": "ペン",
+    "langName": "万年筆",
     "object": "画像タイプ",
     "attribute": "インク",
     "preview": "https://img.aishort.top/imgprompt/20260225010527552.webp"
@@ -33710,154 +33710,154 @@
     "displayName": "Massive Scale",
     "langName": "大規模",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021412442.webp"
   },
   {
     "displayName": "Massive",
     "langName": "たくさんの",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021424661.webp"
   },
   {
     "displayName": "Huge",
     "langName": "巨大な",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021436915.webp"
   },
   {
     "displayName": "Large",
     "langName": "大きい",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021449153.webp"
   },
   {
     "displayName": "Big",
     "langName": "大きい",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021501425.webp"
   },
   {
     "displayName": "Mini",
     "langName": "ミニ",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021513495.webp"
   },
   {
     "displayName": "Tiny",
     "langName": "小さい",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021525298.webp"
   },
   {
     "displayName": "Micro",
     "langName": "微視的な",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021537484.webp"
   },
   {
     "displayName": "Nano",
     "langName": "ナノメートル",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021549402.webp"
   },
   {
     "displayName": "ultra-high definition",
     "langName": "超高解像度",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021601485.webp"
   },
   {
     "displayName": "4k",
     "langName": "4k",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021613507.webp"
   },
   {
     "displayName": "8K",
     "langName": "8K",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225092105100.webp"
   },
   {
     "displayName": "16k",
     "langName": "16k",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021635791.webp"
   },
   {
     "displayName": "32k",
     "langName": "32k",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021647649.webp"
   },
   {
     "displayName": "Full-HD",
     "langName": "フル HD",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021659453.webp"
   },
   {
     "displayName": "HD",
     "langName": "高解像度",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021715675.webp"
   },
   {
     "displayName": "Ultra-HD",
     "langName": "超高解像度",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021731398.webp"
   },
   {
     "displayName": "Super-Resolution",
     "langName": "超解像度",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021746855.webp"
   },
   {
     "displayName": "Megapixel",
     "langName": "メガピクセル",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021759053.webp"
   },
   {
     "displayName": "absurdres",
     "langName": "超高解像度",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021811240.webp"
   },
   {
     "displayName": "incredibly absurdres",
     "langName": "非常に高解像度",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021823301.webp"
   },
   {
     "displayName": "huge filesize",
     "langName": "超高解像度/大容量ファイル",
     "object": "後処理",
-    "attribute": "解像度",
+    "attribute": "スケール",
     "preview": "https://img.aishort.top/imgprompt/20260225021835252.webp"
   },
   {

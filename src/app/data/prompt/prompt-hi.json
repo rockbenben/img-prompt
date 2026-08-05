@@ -1206,7 +1206,7 @@
   },
   {
     "displayName": "oil_skin",
-    "langName": "oil skin",
+    "langName": "तैलीय त्वचा",
     "object": "पात्र",
     "attribute": "त्वचा",
     "preview": "https://img.aishort.top/imgprompt/20260210195122883.webp"
@@ -2907,7 +2907,7 @@
   },
   {
     "displayName": "hollow_eyes",
-    "langName": "तारे के आकार की पुतलियां",
+    "langName": "निर्जीव आँखें",
     "object": "पात्र",
     "attribute": "आँख",
     "preview": "https://img.aishort.top/imgprompt/20260211141950217.webp"
@@ -3229,7 +3229,7 @@
   },
   {
     "displayName": "blue_pupils",
-    "langName": "नारंगी पुतलियाँ",
+    "langName": "नीली पुतलियाँ",
     "object": "पात्र",
     "attribute": "पुतली",
     "preview": "https://img.aishort.top/imgprompt/20260211143024647.webp"
@@ -3390,7 +3390,7 @@
   },
   {
     "displayName": "extra_pupils",
-    "langName": "अतिरिक्त छात्र",
+    "langName": "अतिरिक्त पुतलियाँ",
     "object": "पात्र",
     "attribute": "पुतली",
     "preview": "https://img.aishort.top/imgprompt/20260211143515703.webp"
@@ -5384,7 +5384,7 @@
   },
   {
     "displayName": "lunar",
-    "langName": "चंद्र, _चंद्र;",
+    "langName": "चंद्र",
     "object": "पर्यावरण",
     "attribute": "आकाश",
     "preview": "https://img.aishort.top/imgprompt/20260211153840964.webp"
@@ -7246,7 +7246,7 @@
   },
   {
     "displayName": "cell phone",
-    "langName": "cell phone",
+    "langName": "मोबाइल फ़ोन",
     "object": "चीज़",
     "attribute": "डिजिटल उपकरण",
     "preview": "https://img.aishort.top/imgprompt/20260211163619097.webp"
@@ -9873,301 +9873,301 @@
     "displayName": "arms_up",
     "langName": "अपना हाथ बढ़ाएं",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175530980.webp"
   },
   {
     "displayName": "arms_crossed",
     "langName": "हाथ छाती पर पार",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175543922.webp"
   },
   {
     "displayName": "crossed_arms",
     "langName": "हांथ बांधना",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175556789.webp"
   },
   {
     "displayName": "arms_at_sides",
     "langName": "हाथ नीचे करो",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175609687.webp"
   },
   {
     "displayName": "arm_at_side",
     "langName": "एक हाथ नीचे लटका हुआ",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175622234.webp"
   },
   {
     "displayName": "arms_behind_back",
     "langName": "अपनी पीठ के पीछे हाथ",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175634829.webp"
   },
   {
     "displayName": "arms_behind_head",
     "langName": "हाथों से सिर पकड़ें",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175647169.webp"
   },
   {
     "displayName": "arm_behind_head",
     "langName": "हाथ सिर के पीछे",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175659736.webp"
   },
   {
     "displayName": "arm_behind_back",
     "langName": "एक हाथ अपनी पीठ के पीछे रखें",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260212075132956.webp"
   },
   {
     "displayName": "hands_clasped",
     "langName": "दोनों हाथों की उँगलियाँ क्रॉस | हाथ भींच लिया",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
   },
   {
     "displayName": "interlocked_fingers",
     "langName": "हाथ कस कर पकड़े हुए",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175736751.webp"
   },
   {
     "displayName": "arm_support",
     "langName": "हाथों से सहारा",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175748994.webp"
   },
   {
     "displayName": "arm_above_head",
     "langName": "सिर पर हाथ",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260213094908585.webp"
   },
   {
     "displayName": "outstretched_arms",
     "langName": "हथियार फैलाओ",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175813007.webp"
   },
   {
     "displayName": "hands_in_opposite_sleeves",
     "langName": "अपने हाथों को क्रॉस करके अपनी आस्तीन में रखें",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
   },
   {
     "displayName": "v_arms",
     "langName": "दोनों भुजाओं से V बनाएं",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175838045.webp"
   },
   {
     "displayName": "w_arms",
     "langName": "हथियार डब्ल्यू स्थिति में",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175850840.webp"
   },
   {
     "displayName": "sharp_fingernails",
     "langName": "नुकीले नाखून",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
   },
   {
     "displayName": "spread_fingers",
     "langName": "अपनी उँगलियाँ फैलाओ",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175916068.webp"
   },
   {
     "displayName": "trigger_discipline",
     "langName": "ट्रिगर पर कोई उंगली नहीं",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175928974.webp"
   },
   {
     "displayName": "w",
     "langName": "डब्ल्यू की तुलना में उंगली",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175941737.webp"
   },
   {
     "displayName": "bound_arms",
     "langName": "हाथ बंधे हुए हैं",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211175955270.webp"
   },
   {
     "displayName": "extra_arms",
     "langName": "एकाधिक भुजाएँ",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180008191.webp"
   },
   {
     "displayName": "locked_arms",
     "langName": "हथियार पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180021217.webp"
   },
   {
     "displayName": "convenient_arm",
     "langName": "भुजाओं के प्रमुख भागों को ढकना",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180033673.webp"
   },
   {
     "displayName": "arm_cannon",
     "langName": "हाथ का गोला",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180046505.webp"
   },
   {
     "displayName": "arm_ribbon",
     "langName": "बांह का रिबन",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180058970.webp"
   },
   {
     "displayName": "arm_held_back",
     "langName": "हथियार पीछे खींचो",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180112475.webp"
   },
   {
     "displayName": "hugging_own_legs",
     "langName": "अपने पैरों को गले लगाओ",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180124920.webp"
   },
   {
     "displayName": "trembling",
     "langName": "कांपना",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180137998.webp"
   },
   {
     "displayName": "rolleyes",
     "langName": "अपनी आँखें ऊपर की और करो",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180150675.webp"
   },
   {
     "displayName": "clenched hand",
     "langName": "क्लिञ्च्ड मुट्ठी",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180203512.webp"
   },
   {
     "displayName": "covering_xx",
     "langName": "कवर xx",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
   },
   {
     "displayName": "double piece pose",
     "langName": "हाथ पर वी का चिन्ह",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260212075155741.webp"
   },
   {
     "displayName": "hands in hair",
     "langName": "हाथों से बालों में कंघी करना",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180240957.webp"
   },
   {
     "displayName": "hidden hands",
     "langName": "अपने हाथ छिपाओ",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180253482.webp"
   },
   {
     "displayName": "open hands",
     "langName": "हाथ खोलो",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180305978.webp"
   },
   {
     "displayName": "own hands clasped",
     "langName": "हाथ आपस में जुड़े हुए",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180318354.webp"
   },
   {
     "displayName": "own hands together",
     "langName": "हाथ एक साथ",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180330982.webp"
   },
   {
     "displayName": "peace sign",
     "langName": "सिजरहैंड्स",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180343460.webp"
   },
   {
     "displayName": "presenting armpit",
     "langName": "कांख दिखाओ",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180356051.webp"
   },
   {
     "displayName": "spread arms",
     "langName": "खुली बाहों",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180408733.webp"
   },
   {
     "displayName": "tying hair",
     "langName": "बाल बाँधो",
     "object": "कार्रवाई",
-    "attribute": "बांह की मुद्राएं",
+    "attribute": "बाँह की मुद्राएँ",
     "preview": "https://img.aishort.top/imgprompt/20260211180421654.webp"
   },
   {
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "डबल_वी",
+    "langName": "डबल वी",
     "object": "कार्रवाई",
     "attribute": "हाथ के संकेत",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -10923,406 +10923,406 @@
     "displayName": "grabbing",
     "langName": "पकड़ो | पकड़",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211182746767.webp"
   },
   {
     "displayName": "arm_grab",
     "langName": "बांह पकड़ो",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211182801016.webp"
   },
   {
     "displayName": "hair_grab",
     "langName": "बाल पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211182815653.webp"
   },
   {
     "displayName": "leg_grab",
     "langName": "पैरों को पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211182830383.webp"
   },
   {
     "displayName": "wrist_grab",
     "langName": "कलाई पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211182844025.webp"
   },
   {
     "displayName": "hands_on_another's",
     "langName": "अपने हाथ किसी और के चेहरे पर रखो",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
     "langName": "एक दूसरे के गालों पर हाथ रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
     "langName": "अपने हाथ किसी और के कंधे पर रखो",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
   },
   {
     "displayName": "hands_on_own_chest",
     "langName": "अपने हाथ अपनी छाती पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211182940481.webp"
   },
   {
     "displayName": "hands_on_own_face",
     "langName": "अपने हाथ अपने चेहरे पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211182954450.webp"
   },
   {
     "displayName": "hands_on_own_cheeks",
     "langName": "अपने हाथ अपने गालों पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183008227.webp"
   },
   {
     "displayName": "hands_on_own_head",
     "langName": "अपने हाथ अपने सिर पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183022984.webp"
   },
   {
     "displayName": "hands_on_own_knees",
     "langName": "अपने हाथों को अपने घुटनों पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183037077.webp"
   },
   {
     "displayName": "hands_on_own_stomach",
     "langName": "अपने हाथ अपने पेट पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183050952.webp"
   },
   {
     "displayName": "hands_on_own_thighs",
     "langName": "अपने हाथ अपनी जाँघों पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260317065619129.webp"
   },
   {
     "displayName": "hands_on_hips",
     "langName": "कूल्हों पर हाथ | कूल्हों पर हाथ",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260213094956459.webp"
   },
   {
     "displayName": "hands_on_lap",
     "langName": "अपने हाथों को अपने पैरों के बीच रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183130992.webp"
   },
   {
     "displayName": "ass_grab",
     "langName": "गधा पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183144840.webp"
   },
   {
     "displayName": "flat_chest_grab",
     "langName": "छोटे स्तनों को पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260317065640430.webp"
   },
   {
     "displayName": "grabbing_another's_ass",
     "langName": "एक दूसरे का बट पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183204452.webp"
   },
   {
     "displayName": "grabbing_another's_hair",
     "langName": "एक दूसरे के बाल पकड़ रहे हैं",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183218156.webp"
   },
   {
     "displayName": "grabbing_from_behind",
     "langName": "पीछे से छाती पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
   },
   {
     "displayName": "grabbing_own_ass",
     "langName": "किसी की गांड पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260212075317813.webp"
   },
   {
     "displayName": "thigh_grab",
     "langName": "जाँघ पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260225084111877.webp"
   },
   {
     "displayName": "torso_grab",
     "langName": "धड़ को पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260213095227366.webp"
   },
   {
     "displayName": "hands_on_ass",
     "langName": "अपने हाथ अपने बट पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260317092444164.webp"
   },
   {
     "displayName": "hands_on_feet",
     "langName": "अपने हाथ अपने पैरों पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260317092444169.webp"
   },
   {
     "displayName": "hands_on_headwear",
     "langName": "दोनों हाथों से सिर पर रखे गहनों को छूना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
     "langName": "अपने हाथ चाकू के हैंडल पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
   },
   {
     "displayName": "necktie_grab",
     "langName": "टाई को पकड़े हुए",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183430733.webp"
   },
   {
     "displayName": "neckwear_grab",
     "langName": "गले में कपड़े लपेटे हुए",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
   },
   {
     "displayName": "pillow_grab",
     "langName": "तकिया पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183459740.webp"
   },
   {
     "displayName": "sheet_grab",
     "langName": "चादरें पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183513700.webp"
   },
   {
     "displayName": "tail_grab",
     "langName": "पूँछ पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183527324.webp"
   },
   {
     "displayName": "breast lift",
     "langName": "हाथों से स्तनों को पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260317093139915.webp"
   },
   {
     "displayName": "hand between legs",
     "langName": "पैरों के बीच में हाथ",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183554596.webp"
   },
   {
     "displayName": "hand_in_another's_hair",
     "langName": "अपने हाथ दूसरे व्यक्ति के बालों पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
   },
   {
     "displayName": "hand_in_hair",
     "langName": "हाथ बालों में दबे हुए",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183624075.webp"
   },
   {
     "displayName": "hand_in_pocket",
     "langName": "जेब में हाथ",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183638062.webp"
   },
   {
     "displayName": "hand_on_another's",
     "langName": "हाथ दूसरे व्यक्ति के चेहरे को छूते हैं",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183651733.webp"
   },
   {
     "displayName": "hand_on_another's_cheek",
     "langName": "एक दूसरे के गालों को छूते हाथ",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183705492.webp"
   },
   {
     "displayName": "hand_on_another's_chest",
     "langName": "अपने हाथ दूसरे व्यक्ति की छाती पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183718013.webp"
   },
   {
     "displayName": "hand_on_another's_chin",
     "langName": "दूसरे व्यक्ति की ठुड्डी को अपने हाथ से पकड़ें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
   },
   {
     "displayName": "hand_on_another's_head",
     "langName": "अपने हाथ दूसरे व्यक्ति के सिर पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183743006.webp"
   },
   {
     "displayName": "hand_on_another's_shoulder",
     "langName": "अपने हाथ दूसरे व्यक्ति के कंधों पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183755722.webp"
   },
   {
     "displayName": "hand_on_another's_stomach",
     "langName": "अपने हाथ दूसरे व्यक्ति के पेट पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
   },
   {
     "displayName": "hand_on_ass",
     "langName": "बट पर हाथ",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183820817.webp"
   },
   {
     "displayName": "hand_on_head",
     "langName": "सिर पर हाथ",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183833258.webp"
   },
   {
     "displayName": "hand_on_headwear",
     "langName": "हाथ से छूने वाली टोपी",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183845740.webp"
   },
   {
     "displayName": "hand_on_hilt",
     "langName": "हाथ चाकू के हैंडल पर टिका हुआ",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
   },
   {
     "displayName": "hand_on_hip",
     "langName": "कूल्हों पर हाथ | कूल्हों पर हाथ",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183911177.webp"
   },
   {
     "displayName": "hand_on_own",
     "langName": "अपने हाथ अपने चेहरे पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183923564.webp"
   },
   {
     "displayName": "hand_on_own_cheek",
     "langName": "अपने हाथ अपने गालों पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211183936115.webp"
   },
   {
     "displayName": "hand_on_own_chest",
     "langName": "अपने हाथ अपनी छाती पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260212075434682.webp"
   },
   {
     "displayName": "hand_on_own_chin",
     "langName": "हाथ उसकी ठुड्डी को छूता है",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211184000337.webp"
   },
   {
     "displayName": "hand_on_own_stomach",
     "langName": "अपने हाथ अपने पेट पर रखें",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260212075648271.webp"
   },
   {
     "displayName": "hand_on_shoulder",
     "langName": "कंधों पर हाथ",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211184024343.webp"
   },
   {
     "displayName": "leg hold",
     "langName": "पैरों को हाथों से पकड़ना",
     "object": "कार्रवाई",
-    "attribute": "हाथ (कहीं रख दो)",
+    "attribute": "गले लगना और पकड़ना",
     "preview": "https://img.aishort.top/imgprompt/20260211184036829.webp"
   },
   {
@@ -13763,14 +13763,14 @@
   },
   {
     "displayName": ":d",
-    "langName": "प्रसन्न मुस्कान_:D😀",
+    "langName": "प्रसन्न मुस्कान",
     "object": "अभिव्यक्ति",
     "attribute": "हँसना",
     "preview": "https://img.aishort.top/imgprompt/20260211195749422.webp"
   },
   {
     "displayName": ";d",
-    "langName": "आँख मारो और मुस्कुराओ_:D",
+    "langName": "आँख मारो और मुस्कुराओ",
     "object": "अभिव्यक्ति",
     "attribute": "हँसना",
     "preview": "https://img.aishort.top/imgprompt/20260211195810245.webp"
@@ -14093,7 +14093,7 @@
   },
   {
     "displayName": "sulking",
-    "langName": "क्रोधित_क्रोधित",
+    "langName": "रूठा हुआ",
     "object": "अभिव्यक्ति",
     "attribute": "गुस्सा",
     "preview": "https://img.aishort.top/imgprompt/20260213103708924.webp"
@@ -14618,7 +14618,7 @@
   },
   {
     "displayName": "stylish modern outfit",
-    "langName": "stylish modern outfit",
+    "langName": "फ़ैशनेबल आधुनिक पोशाक",
     "object": "परिधान",
     "attribute": "फैशनेबल पोशाक",
     "preview": "https://img.aishort.top/imgprompt/20260212103750327.webp"
@@ -14751,7 +14751,7 @@
   },
   {
     "displayName": "obi",
-    "langName": "परिधान (और कपड़े)",
+    "langName": "ओबी (किमोनो पट्टी)",
     "object": "परिधान",
     "attribute": "कपड़ों की शैली",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "कार्डिगन जैकेट (स्प्रेड_लेग्स के साथ)",
+    "langName": "कार्डिगन जैकेट (टाँगें फैलाए हुए)",
     "object": "परिधान",
     "attribute": "कोट",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -20763,7 +20763,7 @@
   },
   {
     "displayName": "pumps",
-    "langName": "हाई हील्स के साथ लो-कट ड्रेस",
+    "langName": "पंप्स",
     "object": "परिधान",
     "attribute": "जूता",
     "preview": "https://img.aishort.top/imgprompt/20260213164252308.webp"
@@ -21003,238 +21003,238 @@
     "displayName": "wide_sleeves",
     "langName": "चौड़ी आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213174402264.webp"
   },
   {
     "displayName": "single_sleeve",
     "langName": "एकल आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213174421142.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
     "langName": "असममित आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213174433704.webp"
   },
   {
     "displayName": "puffy_sleeves",
     "langName": "फूली हुई आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213174452709.webp"
   },
   {
     "displayName": "puffy_long_sleeves",
     "langName": "फूली हुई लंबी आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213174505622.webp"
   },
   {
     "displayName": "puffy_short_sleeves",
     "langName": "फूली हुई छोटी आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
   },
   {
     "displayName": "frilled_sleeves",
     "langName": "आस्तीन के झालरदार किनारे",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213174936053.webp"
   },
   {
     "displayName": "juliet_sleeves",
     "langName": "जूलियट आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260225105600224.webp"
   },
   {
     "displayName": "bandaged_arm",
     "langName": "बांह पर पट्टी बंधी",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175209308.webp"
   },
   {
     "displayName": "raglan_sleeves",
     "langName": "रागलाण आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175222011.webp"
   },
   {
     "displayName": "vambraces",
     "langName": "निचली बांह का कवच",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175234968.webp"
   },
   {
     "displayName": "layered_sleeves",
     "langName": "स्तरित आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175248597.webp"
   },
   {
     "displayName": "fur-trimmed_sleeves",
     "langName": "कच्चे किनारे की आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175301700.webp"
   },
   {
     "displayName": "see-through_sleeves",
     "langName": "पारदर्शी आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175314655.webp"
   },
   {
     "displayName": "torn_sleeves",
     "langName": "फटी आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175327401.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "बांहें उंगलियों से भी लंबी",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
     "langName": "कलाई के ऊपर आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175353319.webp"
   },
   {
     "displayName": "sleeves_past_elbows",
     "langName": "कोहनी के ऊपर आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175608643.webp"
   },
   {
     "displayName": "sleeves_pushed_up",
     "langName": "आस्तीन ऊपर करो",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175621831.webp"
   },
   {
     "displayName": "arm_out_of_sleeve",
     "langName": "आस्तीन में हथियार",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175635409.webp"
   },
   {
     "displayName": "uneven_sleeves",
     "langName": "असमान आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175647988.webp"
   },
   {
     "displayName": "mismatched_sleeves",
     "langName": "बेमेल आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175701248.webp"
   },
   {
     "displayName": "sleeve_rolled_up",
     "langName": "आस्तीनें ऊपर चढ़ गईं",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
     "langName": "एक आस्तीन ऊपर उठी",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175726967.webp"
   },
   {
     "displayName": "feather-trimmed_sleeves",
     "langName": "पंखदार आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213175941889.webp"
   },
   {
     "displayName": "lace-trimmed_sleeves",
     "langName": "फीता आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213180156786.webp"
   },
   {
     "displayName": "pinching_sleeves",
     "langName": "अपनी आस्तीनें पिंच करो",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213180210307.webp"
   },
   {
     "displayName": "puffy_detached_sleeves",
     "langName": "फूली हुई आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213180223059.webp"
   },
   {
     "displayName": "ribbed_sleeves",
     "langName": "धारीदार आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
   },
   {
     "displayName": "single_detached_sleeve",
     "langName": "आस्तीन जो एक तरफ रहती है",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213180855076.webp"
   },
   {
     "displayName": "sleeves_folded_up",
     "langName": "मुड़ी हुई आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213181110146.webp"
   },
   {
     "displayName": "striped_sleeves",
     "langName": "धारीदार आस्तीन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213181123268.webp"
   },
   {
     "displayName": "armband",
     "langName": "बाजूबंद (बाजूबंद)",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
   },
   {
     "displayName": "armlet",
     "langName": "बांह का कंगन",
     "object": "परिधान",
-    "attribute": "बांह",
+    "attribute": "आस्तीन",
     "preview": "https://img.aishort.top/imgprompt/20260213190711002.webp"
   },
   {
@@ -23934,14 +23934,14 @@
   },
   {
     "displayName": "cross-body bag",
-    "langName": "कंधे पर आड़ा पहने जाने वाला बस्ता",
+    "langName": "क्रॉस-बॉडी बैग",
     "object": "सामान",
     "attribute": "सामान",
     "preview": "https://img.aishort.top/imgprompt/20260214014456643.webp"
   },
   {
     "displayName": "One shoulder bag",
-    "langName": "कंधे पर थैला",
+    "langName": "शोल्डर बैग",
     "object": "सामान",
     "attribute": "सामान",
     "preview": "https://img.aishort.top/imgprompt/20260214014509390.webp"
@@ -24074,7 +24074,7 @@
   },
   {
     "displayName": "Aerial View",
-    "langName": "शीर्ष दृश्य",
+    "langName": "हवाई दृश्य",
     "object": "फोटोग्राफी",
     "attribute": "परिप्रेक्ष्य",
     "preview": "https://img.aishort.top/imgprompt/20260214023207316.webp"
@@ -25457,7 +25457,7 @@
   },
   {
     "displayName": "Camera Dolly Right",
-    "langName": "Camera Dolly Right",
+    "langName": "कैमरा दाएँ खिसकाना",
     "object": "फोटोग्राफी",
     "attribute": "बुनियादी कैमरा",
     "description": "Camera pans right, often used for tracking shots or showcasing space.",
@@ -25465,7 +25465,7 @@
   },
   {
     "displayName": "Camera Dolly Left",
-    "langName": "Camera Dolly Left",
+    "langName": "कैमरा बाएँ खिसकाना",
     "object": "फोटोग्राफी",
     "attribute": "बुनियादी कैमरा",
     "description": "Camera pans left, suitable for dynamic storytelling or spatial transitions.",
@@ -25481,7 +25481,7 @@
   },
   {
     "displayName": "Handheld Shot",
-    "langName": "Handheld Shot",
+    "langName": "हैंडहेल्ड शॉट",
     "object": "फोटोग्राफी",
     "attribute": "उन्नत कैमरा",
     "description": "हाथ में कैमरा लेकर शूट किया गया, जो एक स्वाभाविक, तनावपूर्ण या यथार्थवादी एहसास पैदा करता है।",
@@ -25489,7 +25489,7 @@
   },
   {
     "displayName": "Complex Camera Movement",
-    "langName": "Complex Camera Movement",
+    "langName": "जटिल कैमरा मूवमेंट",
     "object": "फोटोग्राफी",
     "attribute": "उन्नत कैमरा",
     "description": "अधिक जटिल दृश्यों या भावनाओं को व्यक्त करने के लिए कई कैमरा गतिविधियों (जैसे, डॉली + पैन) को जोड़ता है।",
@@ -25497,7 +25497,7 @@
   },
   {
     "displayName": "Follow Shot",
-    "langName": "Follow Shot",
+    "langName": "फ़ॉलो शॉट",
     "object": "फोटोग्राफी",
     "attribute": "उन्नत कैमरा",
     "description": "कैमरा लगातार किसी व्यक्ति या वस्तु का पीछा करता है, जो क्रिया और निरंतरता पर जोर देता है।",
@@ -25505,7 +25505,7 @@
   },
   {
     "displayName": "Orbit Shot",
-    "langName": "Orbit Shot",
+    "langName": "ऑर्बिट शॉट",
     "object": "फोटोग्राफी",
     "attribute": "उन्नत कैमरा",
     "description": "कैमरा विषय के चारों ओर एक घेरे में घूमता है, जिसका उपयोग अक्सर चरित्र को उजागर करने या दृश्य प्रभाव पैदा करने के लिए किया जाता है।",
@@ -25534,7 +25534,7 @@
   },
   {
     "displayName": "Practical Light",
-    "langName": "Practical Light",
+    "langName": "प्रैक्टिकल लाइट",
     "object": "प्रकाश और छाया प्रभाव",
     "attribute": "प्रकाश स्रोत",
     "description": "दृश्य में मौजूद वास्तविक प्रकाश स्रोत जो कैमरे में कैद होते हैं, जैसे लैंप, मोमबत्तियाँ, टीवी स्क्रीन आदि। वास्तविकता को बढ़ाने के लिए उपयोग किया जाता है।",
@@ -25564,7 +25564,7 @@
   },
   {
     "displayName": "Overcast Light",
-    "langName": "Overcast Light",
+    "langName": "बादलों वाली रोशनी",
     "object": "प्रकाश और छाया प्रभाव",
     "attribute": "प्रकाश स्रोत",
     "description": "बादल वाले दिन बादलों द्वारा बिखरा हुआ नरम प्राकृतिक प्रकाश, प्रकाश समान होता है और कोई स्पष्ट छाया नहीं होती है। अक्सर नरम वातावरण बनाने के लिए उपयोग किया जाता है।",
@@ -25572,7 +25572,7 @@
   },
   {
     "displayName": "Mixed Lighting",
-    "langName": "Mixed Lighting",
+    "langName": "मिश्रित प्रकाश",
     "object": "प्रकाश और छाया प्रभाव",
     "attribute": "प्रकाश स्रोत",
     "description": "उस स्थिति को संदर्भित करता है जहां विभिन्न रंग तापमान या प्रकार के कई प्रकाश स्रोत एक साथ मौजूद होते हैं, उदाहरण के लिए, दृश्य में दिन का उजाला और इनडोर लाइटें एक साथ दिखाई देती हैं।",
@@ -25580,7 +25580,7 @@
   },
   {
     "displayName": "Direct Sunlight",
-    "langName": "Direct Sunlight",
+    "langName": "सीधी धूप",
     "object": "प्रकाश और छाया प्रभाव",
     "attribute": "प्रकाश स्रोत",
     "preview": "https://img.aishort.top/imgprompt/20260224195038562.webp"
@@ -25741,28 +25741,28 @@
   },
   {
     "displayName": "Top Lighting",
-    "langName": "Top Lighting",
+    "langName": "ऊपर से रोशनी",
     "object": "प्रकाश और छाया प्रभाव",
     "attribute": "प्रकाश का प्रकार",
     "preview": "https://img.aishort.top/imgprompt/20260224195833635.webp"
   },
   {
     "displayName": "Side Lighting",
-    "langName": "Side Lighting",
+    "langName": "बग़ल से रोशनी",
     "object": "प्रकाश और छाया प्रभाव",
     "attribute": "प्रकाश का प्रकार",
     "preview": "https://img.aishort.top/imgprompt/20260224200050452.webp"
   },
   {
     "displayName": "Bottom Lighting",
-    "langName": "Bottom Lighting",
+    "langName": "नीचे से रोशनी",
     "object": "प्रकाश और छाया प्रभाव",
     "attribute": "प्रकाश का प्रकार",
     "preview": "https://img.aishort.top/imgprompt/20260224200110350.webp"
   },
   {
     "displayName": "Rim Light",
-    "langName": "Rim Light",
+    "langName": "रिम लाइट",
     "object": "प्रकाश और छाया प्रभाव",
     "attribute": "प्रकाश का प्रकार",
     "preview": "https://img.aishort.top/imgprompt/20260224200123793.webp"
@@ -25783,7 +25783,7 @@
   },
   {
     "displayName": "Moody lighting",
-    "langName": "Moody lighting",
+    "langName": "मूडी लाइटिंग",
     "object": "प्रकाश और छाया प्रभाव",
     "attribute": "प्रकाश प्रभाव",
     "preview": "https://img.aishort.top/imgprompt/20260224200209336.webp"
@@ -26133,7 +26133,7 @@
   },
   {
     "displayName": "LED",
-    "langName": "नेतृत्व में प्रदर्शन",
+    "langName": "LED डिस्प्ले",
     "object": "प्रकाश और छाया प्रभाव",
     "attribute": "प्रदर्शन तकनीक",
     "preview": "https://img.aishort.top/imgprompt/20260224203834138.webp"
@@ -26219,168 +26219,168 @@
     "displayName": "Transparent",
     "langName": "पारदर्शी",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224210545565.webp"
   },
   {
     "displayName": "Translucent",
     "langName": "पारदर्शी",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224210800718.webp"
   },
   {
     "displayName": "Opaque",
     "langName": "अस्पष्ट",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224210814362.webp"
   },
   {
     "displayName": "Rough",
     "langName": "किसी न किसी",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224210828738.webp"
   },
   {
     "displayName": "Matte",
     "langName": "मैट",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224210842440.webp"
   },
   {
     "displayName": "Glossy",
     "langName": "आभा",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224210855666.webp"
   },
   {
     "displayName": "smooth",
     "langName": "चिकना",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224211112706.webp"
   },
   {
     "displayName": "Shiny",
     "langName": "चमकदार",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224211127584.webp"
   },
   {
     "displayName": "Reflective",
     "langName": "चिंतनशील",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224211141551.webp"
   },
   {
     "displayName": "Polished",
     "langName": "घर्षण",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224211358630.webp"
   },
   {
     "displayName": "Shadows",
     "langName": "छाया",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224211614929.webp"
   },
   {
     "displayName": "Shimmer",
     "langName": "टिमटिमाना",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224211830714.webp"
   },
   {
     "displayName": "Shimmering",
     "langName": "शानदार",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224212046910.webp"
   },
   {
     "displayName": "Caustics",
     "langName": "कास्टिक्स",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224212303506.webp"
   },
   {
     "displayName": "Refractive",
     "langName": "अपवर्तन",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224212519913.webp"
   },
   {
     "displayName": "reflection light",
     "langName": "प्रकाश प्रतिबिंब",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224212736462.webp"
   },
   {
     "displayName": "Ray Tracing Reflections",
     "langName": "रे ने प्रतिबिंबों का पता लगाया",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224212952871.webp"
   },
   {
     "displayName": "Lumen Reflections",
     "langName": "लुमेन प्रतिबिंब",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224213208810.webp"
   },
   {
     "displayName": "Screen Space Reflections",
     "langName": "स्क्रीन स्पेस प्रतिबिंब",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224213425137.webp"
   },
   {
     "displayName": "ray tracing",
     "langName": "किरण पर करीबी नजर रखना",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224213641871.webp"
   },
   {
     "displayName": "Ambient Occlusion",
     "langName": "परिवेशी बाधा",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224213859041.webp"
   },
   {
     "displayName": "Scattering",
     "langName": "बिखरने",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224214116698.webp"
   },
   {
     "displayName": "Diffraction Grading",
     "langName": "डिफ़्रैक्शन ग्रेटिंग",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224214535915.webp"
   },
   {
     "displayName": "RGB Displacement",
     "langName": "आरजीबी शिफ्ट",
     "object": "प्रकाश और छाया प्रभाव",
-    "attribute": "परावर्तन/अपवर्तन",
+    "attribute": "सामग्री गुण",
     "preview": "https://img.aishort.top/imgprompt/20260224214552526.webp"
   },
   {
@@ -26735,14 +26735,14 @@
   },
   {
     "displayName": "lightblue",
-    "langName": "हल्का नीला रंग",
+    "langName": "हल्का नीला",
     "object": "रंग वातावरण",
     "attribute": "हल्के स्वर",
     "preview": "https://img.aishort.top/imgprompt/20260224220333904.webp"
   },
   {
     "displayName": "powderblue",
-    "langName": "पाउडर नीला",
+    "langName": "पाउडर ब्लू",
     "object": "रंग वातावरण",
     "attribute": "हल्के स्वर",
     "preview": "https://img.aishort.top/imgprompt/20260224220347304.webp"
@@ -26756,7 +26756,7 @@
   },
   {
     "displayName": "paleturquoise",
-    "langName": "हल्का सियान",
+    "langName": "हल्का फ़िरोज़ा",
     "object": "रंग वातावरण",
     "attribute": "हल्के स्वर",
     "preview": "https://img.aishort.top/imgprompt/20260224220418876.webp"
@@ -27134,7 +27134,7 @@
   },
   {
     "displayName": "royalblue",
-    "langName": "शाही नीला",
+    "langName": "रॉयल ब्लू",
     "object": "रंग वातावरण",
     "attribute": "वर्णक्रमीय रंग",
     "preview": "https://img.aishort.top/imgprompt/20260224221743869.webp"
@@ -27162,7 +27162,7 @@
   },
   {
     "displayName": "navy",
-    "langName": "गहरा नीला",
+    "langName": "नेवी ब्लू",
     "object": "रंग वातावरण",
     "attribute": "वर्णक्रमीय रंग",
     "preview": "https://img.aishort.top/imgprompt/20260224221845774.webp"
@@ -27176,7 +27176,7 @@
   },
   {
     "displayName": "darkcyan",
-    "langName": "टील",
+    "langName": "गहरा सियान",
     "object": "रंग वातावरण",
     "attribute": "वर्णक्रमीय रंग",
     "preview": "https://img.aishort.top/imgprompt/20260224221915905.webp"
@@ -27204,21 +27204,21 @@
   },
   {
     "displayName": "aquamarine",
-    "langName": "फ़िरोज़ा",
+    "langName": "एक्वामरीन",
     "object": "रंग वातावरण",
     "attribute": "वर्णक्रमीय रंग",
     "preview": "https://img.aishort.top/imgprompt/20260224222012509.webp"
   },
   {
     "displayName": "lightcyan",
-    "langName": "नीला",
+    "langName": "हल्का सियान",
     "object": "रंग वातावरण",
     "attribute": "वर्णक्रमीय रंग",
     "preview": "https://img.aishort.top/imgprompt/20260224222026323.webp"
   },
   {
     "displayName": "cyan",
-    "langName": "फ़िरोज़ा",
+    "langName": "सियान",
     "object": "रंग वातावरण",
     "attribute": "वर्णक्रमीय रंग",
     "preview": "https://img.aishort.top/imgprompt/20260224222040633.webp"
@@ -27610,7 +27610,7 @@
   },
   {
     "displayName": "Complimentary-Colors",
-    "langName": "सहायक रंग",
+    "langName": "पूरक रंग",
     "object": "रंग वातावरण",
     "attribute": "रंग पैलेट",
     "preview": "https://img.aishort.top/imgprompt/20260224223458770.webp"
@@ -27624,7 +27624,7 @@
   },
   {
     "displayName": "Supplementary-Colors",
-    "langName": "सहायक रंग",
+    "langName": "अनुपूरक रंग",
     "object": "रंग वातावरण",
     "attribute": "रंग पैलेट",
     "preview": "https://img.aishort.top/imgprompt/20260224223528366.webp"
@@ -27779,7 +27779,7 @@
   },
   {
     "displayName": "halftone",
-    "langName": "आंशिक रंग",
+    "langName": "हाफ़टोन",
     "object": "रंग वातावरण",
     "attribute": "मोनोक्रोम पैलेट",
     "preview": "https://img.aishort.top/imgprompt/20260224224039295.webp"
@@ -27919,21 +27919,21 @@
   },
   {
     "displayName": "HSV",
-    "langName": "रंग, संतृप्ति, हल्कापन",
+    "langName": "ह्यू, सैचुरेशन, वैल्यू",
     "object": "रंग वातावरण",
     "attribute": "मॉनिटर कलर पैलेट",
     "preview": "https://img.aishort.top/imgprompt/20260224224548087.webp"
   },
   {
     "displayName": "HSL",
-    "langName": "रंग, संतृप्ति, चमक",
+    "langName": "ह्यू, सैचुरेशन, लाइटनेस",
     "object": "रंग वातावरण",
     "attribute": "मॉनिटर कलर पैलेट",
     "preview": "https://img.aishort.top/imgprompt/20260224224601439.webp"
   },
   {
     "displayName": "HCL",
-    "langName": "रंग, क्रोमा, रोशनी",
+    "langName": "ह्यू, क्रोमा, ल्यूमिनेंस",
     "object": "रंग वातावरण",
     "attribute": "मॉनिटर कलर पैलेट",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
@@ -28073,7 +28073,7 @@
   },
   {
     "displayName": "Kinemacolor",
-    "langName": "फिल्म का रंग",
+    "langName": "किनेमाकलर",
     "object": "रंग वातावरण",
     "attribute": "फ़िल्म निर्माण",
     "preview": "https://img.aishort.top/imgprompt/20260224225130563.webp"
@@ -28087,7 +28087,7 @@
   },
   {
     "displayName": "Cinecolor",
-    "langName": "फिल्म का रंग",
+    "langName": "सिनेकलर",
     "object": "रंग वातावरण",
     "attribute": "फ़िल्म निर्माण",
     "preview": "https://img.aishort.top/imgprompt/20260224225201683.webp"
@@ -28124,35 +28124,35 @@
     "displayName": "Bump Map",
     "langName": "नक्शा टक्कर",
     "object": "सामग्री",
-    "attribute": "मानचित्र",
+    "attribute": "टेक्सचर मैप",
     "preview": "https://img.aishort.top/imgprompt/20260224225344573.webp"
   },
   {
     "displayName": "Bump Mapped",
     "langName": "बंप मानचित्र के साथ",
     "object": "सामग्री",
-    "attribute": "मानचित्र",
+    "attribute": "टेक्सचर मैप",
     "preview": "https://img.aishort.top/imgprompt/20260224225400692.webp"
   },
   {
     "displayName": "Bump Mapping",
     "langName": "बम्प मैपिंग",
     "object": "सामग्री",
-    "attribute": "मानचित्र",
+    "attribute": "टेक्सचर मैप",
     "preview": "https://img.aishort.top/imgprompt/20260224225415653.webp"
   },
   {
     "displayName": "Normal Map",
     "langName": "सामान्य मानचित्र",
     "object": "सामग्री",
-    "attribute": "मानचित्र",
+    "attribute": "टेक्सचर मैप",
     "preview": "https://img.aishort.top/imgprompt/20260224225432546.webp"
   },
   {
     "displayName": "Depth Map",
     "langName": "गहराई का नक्शा",
     "object": "सामग्री",
-    "attribute": "मानचित्र",
+    "attribute": "टेक्सचर मैप",
     "preview": "https://img.aishort.top/imgprompt/20260224225447643.webp"
   },
   {
@@ -30189,147 +30189,147 @@
     "displayName": "Fungi",
     "langName": "कुकुरमुत्ता",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225000902602.webp"
   },
   {
     "displayName": "Mushrooms",
     "langName": "मशरूम",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225000920028.webp"
   },
   {
     "displayName": "Mycelium",
     "langName": "हाईफे",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225000934335.webp"
   },
   {
     "displayName": "Moldy",
     "langName": "खोटा",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225000950611.webp"
   },
   {
     "displayName": "Lactarius-Indigo",
     "langName": "इंडिगो मिल्क मशरूम",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001006384.webp"
   },
   {
     "displayName": "Latticed-Stinkhorn",
     "langName": "जालीदार डंठल वाला कवक",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001021630.webp"
   },
   {
     "displayName": "Clathrus-Ruber",
     "langName": "रोडोकोकस",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001036116.webp"
   },
   {
     "displayName": "Laccaria-Amethystina",
     "langName": "बैंगनी मशरूम",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001052173.webp"
   },
   {
     "displayName": "Entoloma-Hochstetteri",
     "langName": "पाउडरीगोफिलम होलोफिला",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001107659.webp"
   },
   {
     "displayName": "Clavaria-Zollingeri",
     "langName": "बैंगनी मूंगा कवक",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001123325.webp"
   },
   {
     "displayName": "Chlorociboria",
     "langName": "हरा कवक",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001139570.webp"
   },
   {
     "displayName": "Golden-Scruffy-Collybia",
     "langName": "गोल्डन क्रोज़ फ़ुट मशरूम",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260317125532956.webp"
   },
   {
     "displayName": "Cyptotrama-Asprata",
     "langName": "गुप्त सॉफ़ुट मशरूम",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260317125542896.webp"
   },
   {
     "displayName": "Mycena Acicula",
     "langName": "फैलोफिलम एक्यूमिनटा",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001231425.webp"
   },
   {
     "displayName": "Hygrocybe-Cantharellus",
     "langName": "पीले-भूरे लाल पैरों वाला मशरूम",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001252601.webp"
   },
   {
     "displayName": "Amanita-Muscaria",
     "langName": "अमनिता लाल और सफेद",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001309984.webp"
   },
   {
     "displayName": "Favolaschia-Calocera",
     "langName": "ओरंगुटान उंगली कवक",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001333847.webp"
   },
   {
     "displayName": "Marasmius-Haematocephalus",
     "langName": "लाल बालों वाला कवक",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001348763.webp"
   },
   {
     "displayName": "Cystoagaricus-Trisulphuratus",
     "langName": "ट्राइसल्फेट मशरूम",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001403668.webp"
   },
   {
     "displayName": "Tremella-Mesenterica",
     "langName": "ज़ैंथोमोनास",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001419657.webp"
   },
   {
     "displayName": "Tremella-Fuciformis",
     "langName": "ट्रेमेला",
     "object": "सामग्री",
-    "attribute": "जीवाणु",
+    "attribute": "कवक",
     "preview": "https://img.aishort.top/imgprompt/20260225001434385.webp"
   },
   {
@@ -30384,945 +30384,945 @@
   {
     "displayName": "Point",
     "langName": "बिंदु",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260317125622840.webp"
   },
   {
     "displayName": "Dot",
     "langName": "बिंदु",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225001648256.webp"
   },
   {
     "displayName": "Line",
     "langName": "तार",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225001701560.webp"
   },
   {
     "displayName": "Curve",
     "langName": "वक्र",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225001719200.webp"
   },
   {
     "displayName": "Bezier Curve",
     "langName": "बेज़ियर वक्र",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260317125632465.webp"
   },
   {
     "displayName": "Triangle",
     "langName": "त्रिकोण",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225001751586.webp"
   },
   {
     "displayName": "Square",
     "langName": "वर्ग",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225001807806.webp"
   },
   {
     "displayName": "Pentagon",
     "langName": "पंचकोण",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225001823638.webp"
   },
   {
     "displayName": "Hexagon",
     "langName": "षट्भुज",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225001837829.webp"
   },
   {
     "displayName": "Hexagonal",
     "langName": "षट्भुज",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225001854127.webp"
   },
   {
     "displayName": "Heptagon",
     "langName": "सातकोणक",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225001914291.webp"
   },
   {
     "displayName": "Octagon",
     "langName": "अष्टकोना",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225001926820.webp"
   },
   {
     "displayName": "Nonagon",
     "langName": "नॉनगोन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225001939367.webp"
   },
   {
     "displayName": "Decagon",
     "langName": "दसभुज",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225001952286.webp"
   },
   {
     "displayName": "Rectangle",
     "langName": "आयत",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225002005291.webp"
   },
   {
     "displayName": "Rectangular",
     "langName": "आयताकार",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225002020029.webp"
   },
   {
     "displayName": "Parallelogram",
     "langName": "चतुर्भुज",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225002034684.webp"
   },
   {
     "displayName": "Rhombus",
     "langName": "डायमंड",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225002048358.webp"
   },
   {
     "displayName": "Heart",
     "langName": "दिल",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225002101003.webp"
   },
   {
     "displayName": "Spirangle",
     "langName": "कुंडली",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225002113662.webp"
   },
   {
     "displayName": "Cube",
     "langName": "घनक्षेत्र",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002127316.webp"
   },
   {
     "displayName": "Cuboid",
     "langName": "घनाभ",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002140434.webp"
   },
   {
     "displayName": "Sphere",
     "langName": "गोला",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002154295.webp"
   },
   {
     "displayName": "Cone",
     "langName": "कोन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002209873.webp"
   },
   {
     "displayName": "Cylinder",
     "langName": "सिलेंडर",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002224773.webp"
   },
   {
     "displayName": "Pyramid",
     "langName": "पिरामिड",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002240031.webp"
   },
   {
     "displayName": "Torus",
     "langName": "टोरस्र्स",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002254551.webp"
   },
   {
     "displayName": "Rectangular Prism",
     "langName": "समकोण प्रिज्म",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002310105.webp"
   },
   {
     "displayName": "Star Prism",
     "langName": "तारा प्रिज्म",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002323623.webp"
   },
   {
     "displayName": "Wedge",
     "langName": "कील",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002337795.webp"
   },
   {
     "displayName": "Zonohedron",
     "langName": "बहुतल",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002353504.webp"
   },
   {
     "displayName": "Tetrahedron",
     "langName": "चतुर्पाश्वीय",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002408261.webp"
   },
   {
     "displayName": "Octahedron",
     "langName": "अष्टफलक",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002421259.webp"
   },
   {
     "displayName": "Dodecahedron",
     "langName": "द्वादशफ़लक",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002435064.webp"
   },
   {
     "displayName": "Icosahedron",
     "langName": "विंशतिफलक",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002450070.webp"
   },
   {
     "displayName": "Kepler-Poinsot Polyhedra",
     "langName": "केप्लर बिंदु बहुफलक",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002502267.webp"
   },
   {
     "displayName": "Cuboctahedron",
     "langName": "क्यूबोक्टाहेड्रोन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002515961.webp"
   },
   {
     "displayName": "Rhombicuboctahedron",
     "langName": "रॉम्बोहेड्रल क्यूबोक्टाहेड्रोन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002531621.webp"
   },
   {
     "displayName": "Icosidodecahedron",
     "langName": "विंशतिफलक",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002547086.webp"
   },
   {
     "displayName": "Rhombicosidodecahedron",
     "langName": "रंबोहेड्रल इकोसाहेड्रोन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002559328.webp"
   },
   {
     "displayName": "Trapezohedron",
     "langName": "समलम्बाकार शरीर",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002611910.webp"
   },
   {
     "displayName": "Cupola",
     "langName": "गुंबद",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002624860.webp"
   },
   {
     "displayName": "Anticupola",
     "langName": "उलटा गुंबद",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002637534.webp"
   },
   {
     "displayName": "Hypercupolae",
     "langName": "सुपर गुंबद",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002653816.webp"
   },
   {
     "displayName": "Bicupola",
     "langName": "दोहरा गुंबद",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002709584.webp"
   },
   {
     "displayName": "Frustum",
     "langName": "कटा हुआ शंकु",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002725220.webp"
   },
   {
     "displayName": "Bifrustum",
     "langName": "दोहरा छिन्नक",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002740853.webp"
   },
   {
     "displayName": "Rotunda",
     "langName": "रोटोंडा",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002756804.webp"
   },
   {
     "displayName": "Birotunda",
     "langName": "डबल रोटुंडा",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002809431.webp"
   },
   {
     "displayName": "Prismatoid",
     "langName": "चश्मे",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002824251.webp"
   },
   {
     "displayName": "Scutoid",
     "langName": "पपड़ीदार बहुफलक",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002837306.webp"
   },
   {
     "displayName": "Bipyramid",
     "langName": "दोहरा शंकु",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002850494.webp"
   },
   {
     "displayName": "Star Bipyramid",
     "langName": "स्टार डबल कोन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002904338.webp"
   },
   {
     "displayName": "Anti-Prism",
     "langName": "प्रतिवाद",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002918169.webp"
   },
   {
     "displayName": "Trapezohedra",
     "langName": "समलम्बाकार शंकु",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002931727.webp"
   },
   {
     "displayName": "Star Trapezohedron",
     "langName": "तारा समलम्बाकार शंकु",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002945269.webp"
   },
   {
     "displayName": "Spherical polyhedron",
     "langName": "गोलाकार बहुफलक",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225002957718.webp"
   },
   {
     "displayName": "Mobius strip",
     "langName": "मोबियस स्ट्रिप",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225003010574.webp"
   },
   {
     "displayName": "Hexaflexagon",
     "langName": "हेक्सागोनल कार्टन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260225003023844.webp"
   },
   {
     "displayName": "Miura fold",
     "langName": "मिउरा तह",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "वस्तु",
     "preview": "https://img.aishort.top/imgprompt/20260317080039422.webp"
   },
   {
     "displayName": "Hypercube",
     "langName": "अतिविम",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003040457.webp"
   },
   {
     "displayName": "Hyperprism",
     "langName": "सुपर प्रिज्म",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003055122.webp"
   },
   {
     "displayName": "Hyperpyramid",
     "langName": "सुपर पिरामिड",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003109109.webp"
   },
   {
     "displayName": "Hypertorus",
     "langName": "हाइपर टोरस",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003121717.webp"
   },
   {
     "displayName": "Hypersphere",
     "langName": "अति क्षेत्र",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003136681.webp"
   },
   {
     "displayName": "Hypercone",
     "langName": "हाइपरकोन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003151169.webp"
   },
   {
     "displayName": "Hypercylinder",
     "langName": "हाइपरसिलेंडर",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003210079.webp"
   },
   {
     "displayName": "Hyperzonohedron",
     "langName": "सुपर बहुफलक",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003229194.webp"
   },
   {
     "displayName": "Hypertetrahedron",
     "langName": "हाइपरटेट्राहेड्रोन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003242504.webp"
   },
   {
     "displayName": "Hyperoctahedron",
     "langName": "सुपरऑक्टाहेड्रोन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003258039.webp"
   },
   {
     "displayName": "Hyperdodecahedron",
     "langName": "सुपरडोडेकाहेड्रोन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003313806.webp"
   },
   {
     "displayName": "Hypericosahedron",
     "langName": "सुपरिकोसाहेड्रोन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003328264.webp"
   },
   {
     "displayName": "Flexible Polyhedron",
     "langName": "लोचदार बहुफलक",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003341494.webp"
   },
   {
     "displayName": "Klein bottle",
     "langName": "क्लेन बोतल",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003355111.webp"
   },
   {
     "displayName": "Monogon",
     "langName": "हेड्रॉन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003407817.webp"
   },
   {
     "displayName": "Digon",
     "langName": "डायहेड्रोन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "सुपर आकार",
     "preview": "https://img.aishort.top/imgprompt/20260225003423861.webp"
   },
   {
     "displayName": "AR",
     "langName": "संवर्धित वास्तविकता",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003436353.webp"
   },
   {
     "displayName": "VR",
     "langName": "आभासी वास्तविकता",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003450517.webp"
   },
   {
     "displayName": "2-Dimensional",
     "langName": "दो आयामी",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003503523.webp"
   },
   {
     "displayName": "2D",
     "langName": "2डी",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003517597.webp"
   },
   {
     "displayName": "2.5-Dimensional",
     "langName": "2.5 आयाम",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003530065.webp"
   },
   {
     "displayName": "2.5D",
     "langName": "2.5 D",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003546536.webp"
   },
   {
     "displayName": "3-Dimensional",
     "langName": "त्रिआयामी",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003559620.webp"
   },
   {
     "displayName": "3D",
     "langName": "3डी",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003613094.webp"
   },
   {
     "displayName": "4-Dimensional",
     "langName": "चार आयामी",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003625943.webp"
   },
   {
     "displayName": "4D",
     "langName": "4D",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003640503.webp"
   },
   {
     "displayName": "5-Dimensional",
     "langName": "पांच आयाम",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003653264.webp"
   },
   {
     "displayName": "5D",
     "langName": "5D",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003707609.webp"
   },
   {
     "displayName": "Overdimensional",
     "langName": "अतिआयामी",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003720889.webp"
   },
   {
     "displayName": "Underdimensional",
     "langName": "दूसरा आयाम",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003736660.webp"
   },
   {
     "displayName": "Hyperdimensional",
     "langName": "अतिआयामीता",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003749551.webp"
   },
   {
     "displayName": "Subdimensional",
     "langName": "द्वितीयक आयाम",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003809121.webp"
   },
   {
     "displayName": "Omnidimensional",
     "langName": "पूर्ण आयाम",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003823515.webp"
   },
   {
     "displayName": "Everdimensional",
     "langName": "शाश्वत आयाम",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003836946.webp"
   },
   {
     "displayName": "Extradimensional",
     "langName": "अलग आयाम",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003849661.webp"
   },
   {
     "displayName": "Beyond-Dimensional",
     "langName": "आयामों से परे",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003903819.webp"
   },
   {
     "displayName": "Excessively-dimensional",
     "langName": "अत्यधिक आयामीता",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003917272.webp"
   },
   {
     "displayName": "Alldimensional",
     "langName": "पूर्ण आयाम",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003932407.webp"
   },
   {
     "displayName": "Multiverse",
     "langName": "मल्टीवर्स",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "मल्टीवर्स",
     "preview": "https://img.aishort.top/imgprompt/20260225003944859.webp"
   },
   {
     "displayName": "Low Poly",
     "langName": "लो-प्रोफ़ाइल मॉडलिंग",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "शैली",
     "preview": "https://img.aishort.top/imgprompt/20260225003957184.webp"
   },
   {
     "displayName": "Geometric",
     "langName": "ज्यामिति",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "शैली",
     "preview": "https://img.aishort.top/imgprompt/20260225004009120.webp"
   },
   {
     "displayName": "Non-Euclidian",
     "langName": "गैर इयूक्लिडियन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "शैली",
     "preview": "https://img.aishort.top/imgprompt/20260225004022234.webp"
   },
   {
     "displayName": "Poly",
     "langName": "पाली",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "शैली",
     "preview": "https://img.aishort.top/imgprompt/20260225004035491.webp"
   },
   {
     "displayName": "Polygon",
     "langName": "बहुभुज",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "शैली",
     "preview": "https://img.aishort.top/imgprompt/20260225004049585.webp"
   },
   {
     "displayName": "Polygonal",
     "langName": "बहुपक्षीय",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "शैली",
     "preview": "https://img.aishort.top/imgprompt/20260225004103043.webp"
   },
   {
     "displayName": "Polyhedron",
     "langName": "बहुतल",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "शैली",
     "preview": "https://img.aishort.top/imgprompt/20260225004116487.webp"
   },
   {
     "displayName": "Polyhedral",
     "langName": "अनेक पक्ष",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "शैली",
     "preview": "https://img.aishort.top/imgprompt/20260225004129113.webp"
   },
   {
     "displayName": "Platonic Solids",
     "langName": "प्लेटोनिक ठोस",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "शैली",
     "preview": "https://img.aishort.top/imgprompt/20260225004142601.webp"
   },
   {
     "displayName": "Archimedean Solids",
     "langName": "आर्किमिडीयन ठोस",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "शैली",
     "preview": "https://img.aishort.top/imgprompt/20260225004154997.webp"
   },
   {
     "displayName": "Catalan solids",
     "langName": "कैटेलोनिया स्टीरियोटाइप",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "शैली",
     "preview": "https://img.aishort.top/imgprompt/20260225004213839.webp"
   },
   {
     "displayName": "Array",
     "langName": "एक शृंखला",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "संरचनात्मक गुण",
     "preview": "https://img.aishort.top/imgprompt/20260225004227381.webp"
   },
   {
     "displayName": "Thick",
     "langName": "मोटा",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "संरचनात्मक गुण",
     "preview": "https://img.aishort.top/imgprompt/20260225091801001.webp"
   },
   {
     "displayName": "Flexible",
     "langName": "लचीला",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "संरचनात्मक गुण",
     "preview": "https://img.aishort.top/imgprompt/20260225004304932.webp"
   },
   {
     "displayName": "Vertex",
     "langName": "शिखर",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004319879.webp"
   },
   {
     "displayName": "Edge",
     "langName": "किनारा",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004335931.webp"
   },
   {
     "displayName": "Surface",
     "langName": "सतह",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004351465.webp"
   },
   {
     "displayName": "Interior",
     "langName": "आंतरिक",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004403628.webp"
   },
   {
     "displayName": "Exterior",
     "langName": "बाहरी",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004418860.webp"
   },
   {
     "displayName": "Convex",
     "langName": "उत्तल",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004433806.webp"
   },
   {
     "displayName": "Concave",
     "langName": "नतोदर",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004446011.webp"
   },
   {
     "displayName": "Equiangular",
     "langName": "समकोणेवाला",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004458378.webp"
   },
   {
     "displayName": "Equilateral",
     "langName": "समभुज",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004512848.webp"
   },
   {
     "displayName": "Cyclic",
     "langName": "परिपत्र",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004525059.webp"
   },
   {
     "displayName": "Tangential",
     "langName": "स्पर्शरेखा",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004539372.webp"
   },
   {
     "displayName": "Rectilinear",
     "langName": "सरल रेखा",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004552798.webp"
   },
   {
     "displayName": "Traverse",
     "langName": "आर-पार",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004605836.webp"
   },
   {
     "displayName": "Quasi",
     "langName": "योजना",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004618449.webp"
   },
   {
     "displayName": "Quasi-Regular",
     "langName": "अर्ध-नियम",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004630788.webp"
   },
   {
     "displayName": "Isogonal",
     "langName": "समकोणेवाला",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004643952.webp"
   },
   {
     "displayName": "Isotoxal",
     "langName": "जहर का इंतजार है",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004703355.webp"
   },
   {
     "displayName": "Isohedral",
     "langName": "बराबर नूडल्स",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004720817.webp"
   },
   {
     "displayName": "Stellation",
     "langName": "तारा आकार",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004733028.webp"
   },
   {
     "displayName": "Ehrhart Polynomial",
     "langName": "एहरहार्ट बहुपद",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004759911.webp"
   },
   {
     "displayName": "Ideal polyhedron",
     "langName": "आदर्श बहुफलक",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004820319.webp"
   },
   {
     "displayName": "Polytope",
     "langName": "बहुवचन",
-    "object": "ज्यामितीय रचना",
+    "object": "आकार और स्थान",
     "attribute": "विशेषता",
     "preview": "https://img.aishort.top/imgprompt/20260225004835943.webp"
   },
@@ -31776,7 +31776,7 @@
   },
   {
     "displayName": "Fountain Pen",
-    "langName": "कलम",
+    "langName": "फाउंटेन पेन",
     "object": "छवि प्रकार",
     "attribute": "स्याही",
     "preview": "https://img.aishort.top/imgprompt/20260225010527552.webp"

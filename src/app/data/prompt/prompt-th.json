@@ -2907,7 +2907,7 @@
   },
   {
     "displayName": "hollow_eyes",
-    "langName": "รูม่านตาทรงดาว",
+    "langName": "ดวงตาไร้ประกาย",
     "object": "ตัวละคร",
     "attribute": "ตา",
     "preview": "https://img.aishort.top/imgprompt/20260211141950217.webp"
@@ -3222,14 +3222,14 @@
   },
   {
     "displayName": "bright_pupils",
-    "langName": "นักเรียนที่ตั้งใจเรียน",
+    "langName": "รูม่านตาสว่าง",
     "object": "ตัวละคร",
     "attribute": "รูม่านตา",
     "preview": "https://img.aishort.top/imgprompt/20260211143011456.webp"
   },
   {
     "displayName": "blue_pupils",
-    "langName": "ม่านตาดำสีส้ม",
+    "langName": "ม่านตาสีน้ำเงิน",
     "object": "ตัวละคร",
     "attribute": "รูม่านตา",
     "preview": "https://img.aishort.top/imgprompt/20260211143024647.webp"
@@ -3362,7 +3362,7 @@
   },
   {
     "displayName": "symbol-shaped_pupils",
-    "langName": "นักเรียนเชิงสัญลักษณ์",
+    "langName": "รูม่านตารูปสัญลักษณ์",
     "object": "ตัวละคร",
     "attribute": "รูม่านตา",
     "preview": "https://img.aishort.top/imgprompt/20260211143425446.webp"
@@ -3390,14 +3390,14 @@
   },
   {
     "displayName": "extra_pupils",
-    "langName": "นักเรียนเพิ่มเติม",
+    "langName": "รูม่านตาเพิ่มเติม",
     "object": "ตัวละคร",
     "attribute": "รูม่านตา",
     "preview": "https://img.aishort.top/imgprompt/20260211143515703.webp"
   },
   {
     "displayName": "no_pupils",
-    "langName": "ไม่มีนักเรียน",
+    "langName": "ไม่มีรูม่านตา",
     "object": "ตัวละคร",
     "attribute": "รูม่านตา",
     "preview": "https://img.aishort.top/imgprompt/20260317094748513.webp"
@@ -4684,7 +4684,7 @@
   },
   {
     "displayName": "crop_top_overhang",
-    "langName": "การตัดยอดพืช",
+    "langName": "ชายเสื้อครอปที่ยื่นออกมา",
     "object": "สภาพแวดล้อม",
     "attribute": "พื้นหลัง",
     "preview": "https://img.aishort.top/imgprompt/20260225095914537.webp"
@@ -5384,7 +5384,7 @@
   },
   {
     "displayName": "lunar",
-    "langName": "lunar, ของดวงจันทร์;",
+    "langName": "เกี่ยวกับดวงจันทร์",
     "object": "สภาพแวดล้อม",
     "attribute": "ท้องฟ้า",
     "preview": "https://img.aishort.top/imgprompt/20260211153840964.webp"
@@ -9873,301 +9873,301 @@
     "displayName": "arms_up",
     "langName": "ยกมือขึ้น",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175530980.webp"
   },
   {
     "displayName": "arms_crossed",
     "langName": "กอดอก",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175543922.webp"
   },
   {
     "displayName": "crossed_arms",
     "langName": "กอดอก",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175556789.webp"
   },
   {
     "displayName": "arms_at_sides",
     "langName": "มือห้อยลงข้างลำตัว",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175609687.webp"
   },
   {
     "displayName": "arm_at_side",
     "langName": "ห้อยลงด้วยมือข้างเดียว",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175622234.webp"
   },
   {
     "displayName": "arms_behind_back",
     "langName": "มืออยู่ด้านหลัง",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175634829.webp"
   },
   {
     "displayName": "arms_behind_head",
     "langName": "การยกศีรษะขึ้นด้วยสองมือ",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175647169.webp"
   },
   {
     "displayName": "arm_behind_head",
     "langName": "หลังจากวางมือบนศีรษะ",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175659736.webp"
   },
   {
     "displayName": "arm_behind_back",
     "langName": "ด้วยมือข้างหนึ่งอยู่หลังหลัง",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260212075132956.webp"
   },
   {
     "displayName": "hands_clasped",
     "langName": "นิ้วมือประสานกัน มือจับแน่น",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
   },
   {
     "displayName": "interlocked_fingers",
     "langName": "กำมือแน่น",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175736751.webp"
   },
   {
     "displayName": "arm_support",
     "langName": "สนับสนุนด้วยมือของคุณ",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175748994.webp"
   },
   {
     "displayName": "arm_above_head",
     "langName": "มือจับศีรษะ",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260213094908585.webp"
   },
   {
     "displayName": "outstretched_arms",
     "langName": "ยืดแขนของคุณออกไป",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175813007.webp"
   },
   {
     "displayName": "hands_in_opposite_sleeves",
     "langName": "แขนไขว้กันซุกอยู่ในแขนเสื้อ",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
   },
   {
     "displayName": "v_arms",
     "langName": "แขนทำเป็นรูปตัว V",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175838045.webp"
   },
   {
     "displayName": "w_arms",
     "langName": "แขนยื่นออกเป็นรูปตัว W",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175850840.webp"
   },
   {
     "displayName": "sharp_fingernails",
     "langName": "เล็บที่คม",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
   },
   {
     "displayName": "spread_fingers",
     "langName": "กางนิ้วออก",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175916068.webp"
   },
   {
     "displayName": "trigger_discipline",
     "langName": "นิ้วไม่ได้อยู่บนไกปืน",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175928974.webp"
   },
   {
     "displayName": "w",
     "langName": "นิ้วมือทำเป็นรูปตัว W",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175941737.webp"
   },
   {
     "displayName": "bound_arms",
     "langName": "แขนถูกควบคุม",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175955270.webp"
   },
   {
     "displayName": "extra_arms",
     "langName": "หลายแขน",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180008191.webp"
   },
   {
     "displayName": "locked_arms",
     "langName": "คล้องแขน",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180021217.webp"
   },
   {
     "displayName": "convenient_arm",
     "langName": "แขนที่ปกคลุมบริเวณสำคัญ",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180033673.webp"
   },
   {
     "displayName": "arm_cannon",
     "langName": "ปืนพก",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180046505.webp"
   },
   {
     "displayName": "arm_ribbon",
     "langName": "ริบบิ้นแขน",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180058970.webp"
   },
   {
     "displayName": "arm_held_back",
     "langName": "ดึงแขนของคุณกลับ",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180112475.webp"
   },
   {
     "displayName": "hugging_own_legs",
     "langName": "กอดขาตัวเอง",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180124920.webp"
   },
   {
     "displayName": "trembling",
     "langName": "สั่นเทา",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180137998.webp"
   },
   {
     "displayName": "rolleyes",
     "langName": "กลอกตา",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180150675.webp"
   },
   {
     "displayName": "clenched hand",
     "langName": "กำหมัดแน่น",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180203512.webp"
   },
   {
     "displayName": "covering_xx",
     "langName": "ปิดไว้หน่อย xx",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
   },
   {
     "displayName": "double piece pose",
     "langName": "สัญลักษณ์สองมือทำท่า V",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260212075155741.webp"
   },
   {
     "displayName": "hands in hair",
     "langName": "การใช้นิ้วมือสางผม",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180240957.webp"
   },
   {
     "displayName": "hidden hands",
     "langName": "ซ่อนมือของคุณไว้",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180253482.webp"
   },
   {
     "displayName": "open hands",
     "langName": "กางแขนออกให้กว้าง",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180305978.webp"
   },
   {
     "displayName": "own hands clasped",
     "langName": "มือประสานกัน",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180318354.webp"
   },
   {
     "displayName": "own hands together",
     "langName": "ฝ่ามือประกบกัน",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180330982.webp"
   },
   {
     "displayName": "peace sign",
     "langName": "กรรไกรมือ",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180343460.webp"
   },
   {
     "displayName": "presenting armpit",
     "langName": "แสดงรักแร้",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180356051.webp"
   },
   {
     "displayName": "spread arms",
     "langName": "กางแขนออกกว้าง",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180408733.webp"
   },
   {
     "displayName": "tying hair",
     "langName": "การมัดผม",
     "object": "ท่าทาง",
-    "attribute": "ท่าทางแขน",
+    "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180421654.webp"
   },
   {
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "ดับเบิล_วี",
+    "langName": "ดับเบิลวี",
     "object": "ท่าทาง",
     "attribute": "สัญญาณมือ",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -13763,14 +13763,14 @@
   },
   {
     "displayName": ":d",
-    "langName": "รอยยิ้มที่แสนสุข_:D😀",
+    "langName": "รอยยิ้มที่แสนสุข",
     "object": "การแสดงอารมณ์",
     "attribute": "ยิ้ม",
     "preview": "https://img.aishort.top/imgprompt/20260211195749422.webp"
   },
   {
     "displayName": ";d",
-    "langName": "ยิ้มแฉ่ง :D",
+    "langName": "ยิ้มแฉ่ง",
     "object": "การแสดงอารมณ์",
     "attribute": "ยิ้ม",
     "preview": "https://img.aishort.top/imgprompt/20260211195810245.webp"
@@ -14093,7 +14093,7 @@
   },
   {
     "displayName": "sulking",
-    "langName": "เก็บความแค้น",
+    "langName": "งอน",
     "object": "การแสดงอารมณ์",
     "attribute": "โกรธ",
     "preview": "https://img.aishort.top/imgprompt/20260213103708924.webp"
@@ -14751,7 +14751,7 @@
   },
   {
     "displayName": "obi",
-    "langName": "ผ้าคาดเอว (สำหรับเครื่องแต่งกายในพิธีการ)",
+    "langName": "ผ้าคาดเอวโอบิ",
     "object": "เครื่องแต่งกาย",
     "attribute": "สไตล์เสื้อผ้า",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -20763,7 +20763,7 @@
   },
   {
     "displayName": "pumps",
-    "langName": "เสื้อเปิดไหล่และรองเท้าส้นสูง",
+    "langName": "รองเท้าคัตชู",
     "object": "เครื่องแต่งกาย",
     "attribute": "รองเท้า",
     "preview": "https://img.aishort.top/imgprompt/20260213164252308.webp"
@@ -21003,238 +21003,238 @@
     "displayName": "wide_sleeves",
     "langName": "แขนเสื้อบาน",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213174402264.webp"
   },
   {
     "displayName": "single_sleeve",
     "langName": "แขนเดียว",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213174421142.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
     "langName": "แขนเสื้อไม่สมมาตร",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213174433704.webp"
   },
   {
     "displayName": "puffy_sleeves",
     "langName": "แขนเสื้อพอง",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213174452709.webp"
   },
   {
     "displayName": "puffy_long_sleeves",
     "langName": "แขนเสื้อพอง",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213174505622.webp"
   },
   {
     "displayName": "puffy_short_sleeves",
     "langName": "แขนสั้นพอง",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
   },
   {
     "displayName": "frilled_sleeves",
     "langName": "ปลายแขนเสื้อจีบ",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213174936053.webp"
   },
   {
     "displayName": "juliet_sleeves",
     "langName": "แขนเสื้อจูเลียต",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260225105600224.webp"
   },
   {
     "displayName": "bandaged_arm",
     "langName": "แขนพันผ้าพันแผล",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175209308.webp"
   },
   {
     "displayName": "raglan_sleeves",
     "langName": "แขนเสื้อแบบไหล่ตก",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175222011.webp"
   },
   {
     "displayName": "vambraces",
     "langName": "เกราะแขนท่อนล่าง",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175234968.webp"
   },
   {
     "displayName": "layered_sleeves",
     "langName": "แขนเสื้อแบบซ้อนชั้น",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175248597.webp"
   },
   {
     "displayName": "fur-trimmed_sleeves",
     "langName": "แขนเสื้อที่ขาดรุ่ย",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175301700.webp"
   },
   {
     "displayName": "see-through_sleeves",
     "langName": "ปลอกแขนใส",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175314655.webp"
   },
   {
     "displayName": "torn_sleeves",
     "langName": "แขนเสื้อขาด",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175327401.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "แขนเสื้อทอดยาวเลยปลายนิ้วมือ",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
     "langName": "แขนเสื้อที่ยาวเกินข้อมือ",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175353319.webp"
   },
   {
     "displayName": "sleeves_past_elbows",
     "langName": "แขนเสื้อที่ยาวเลยข้อศอก",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175608643.webp"
   },
   {
     "displayName": "sleeves_pushed_up",
     "langName": "พับแขนเสื้อขึ้น",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175621831.webp"
   },
   {
     "displayName": "arm_out_of_sleeve",
     "langName": "แขนที่อยู่ภายในแขนเสื้อ",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175635409.webp"
   },
   {
     "displayName": "uneven_sleeves",
     "langName": "แขนเสื้อไม่เท่ากัน",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175647988.webp"
   },
   {
     "displayName": "mismatched_sleeves",
     "langName": "แขนเสื้อไม่เข้าคู่",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175701248.webp"
   },
   {
     "displayName": "sleeve_rolled_up",
     "langName": "แขนเสื้อพับขึ้น",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
     "langName": "แขนเสื้อข้างหนึ่งม้วนขึ้น",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175726967.webp"
   },
   {
     "displayName": "feather-trimmed_sleeves",
     "langName": "แขนเสื้อตกแต่งด้วยขนนก",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213175941889.webp"
   },
   {
     "displayName": "lace-trimmed_sleeves",
     "langName": "แขนเสื้อตกแต่งด้วยลูกไม้",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213180156786.webp"
   },
   {
     "displayName": "pinching_sleeves",
     "langName": "บีบแขนเสื้อ",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213180210307.webp"
   },
   {
     "displayName": "puffy_detached_sleeves",
     "langName": "แขนเสื้อพอง",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213180223059.webp"
   },
   {
     "displayName": "ribbed_sleeves",
     "langName": "แขนเสื้อแบบมีรอยหยัก",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
   },
   {
     "displayName": "single_detached_sleeve",
     "langName": "ปลอกที่ยังไม่ได้ถอดออกจากด้านหนึ่ง",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213180855076.webp"
   },
   {
     "displayName": "sleeves_folded_up",
     "langName": "แขนเสื้อพับขึ้น",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213181110146.webp"
   },
   {
     "displayName": "striped_sleeves",
     "langName": "แขนเสื้อลายทาง",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213181123268.webp"
   },
   {
     "displayName": "armband",
     "langName": "ปลอกแขน",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
   },
   {
     "displayName": "armlet",
     "langName": "สร้อยข้อมือ",
     "object": "เครื่องแต่งกาย",
-    "attribute": "แขน",
+    "attribute": "แขนเสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213190711002.webp"
   },
   {
@@ -23934,7 +23934,7 @@
   },
   {
     "displayName": "cross-body bag",
-    "langName": "กระเป๋าสะพายข้าง",
+    "langName": "กระเป๋าสะพายเฉียง",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับ",
     "preview": "https://img.aishort.top/imgprompt/20260214014456643.webp"
@@ -24074,14 +24074,14 @@
   },
   {
     "displayName": "Aerial View",
-    "langName": "มุมมองจากมุมสูง",
+    "langName": "มุมมองทางอากาศ",
     "object": "การถ่ายภาพ",
     "attribute": "มุมมอง",
     "preview": "https://img.aishort.top/imgprompt/20260214023207316.webp"
   },
   {
     "displayName": "Top-View",
-    "langName": "มุมมองด้านบน",
+    "langName": "มุมมองจากด้านบน",
     "object": "การถ่ายภาพ",
     "attribute": "มุมมอง",
     "preview": "https://img.aishort.top/imgprompt/20260214023423183.webp"
@@ -25428,7 +25428,7 @@
     "langName": "การถ่ายภาพแบบเอียงและเบลอ",
     "object": "การถ่ายภาพ",
     "attribute": "เอฟเฟกต์",
-    "description": "通过使用特殊的镜头和技术来模拟微缩模型的效果，通常用于拍摄城市景观或其他大型场景。",
+    "description": "ใช้เลนส์และเทคนิคพิเศษเพื่อจำลองเอฟเฟกต์โมเดลจำลอง มักใช้ถ่ายทิวทัศน์เมืองหรือฉากขนาดใหญ่",
     "preview": "https://img.aishort.top/imgprompt/20260224194336197.webp"
   },
   {
@@ -25436,7 +25436,7 @@
     "langName": "การถ่ายภาพแบบไทม์แลปส์",
     "object": "การถ่ายภาพ",
     "attribute": "เอฟเฟกต์",
-    "description": "通过在较长时间内拍摄一系列图像，然后以较快的速度播放这些图像来创建的效果。",
+    "description": "เกิดจากการถ่ายภาพต่อเนื่องเป็นชุดในช่วงเวลานาน แล้วนำมาเล่นด้วยความเร็วสูงกว่าปกติ",
     "preview": "https://img.aishort.top/imgprompt/20260224194351589.webp"
   },
   {
@@ -25444,7 +25444,7 @@
     "langName": "กล้องเลื่อนเข้า",
     "object": "การถ่ายภาพ",
     "attribute": "กล้องพื้นฐาน",
-    "description": "镜头向拍摄对象缓慢推进，用于加强情感或突出主体。",
+    "description": "กล้องเคลื่อนเข้าหาตัวแบบอย่างช้า ๆ เพื่อเน้นอารมณ์หรือขับเน้นตัวแบบ",
     "preview": "https://img.aishort.top/imgprompt/20260224193313317.webp"
   },
   {
@@ -25452,7 +25452,7 @@
     "langName": "ดึงกล้องกลับ",
     "object": "การถ่ายภาพ",
     "attribute": "กล้องพื้นฐาน",
-    "description": "镜头逐渐远离拍摄对象，用于展现环境或减弱紧张感。",
+    "description": "กล้องค่อย ๆ เคลื่อนออกห่างจากตัวแบบ เพื่อเผยให้เห็นสภาพแวดล้อมหรือลดความตึงเครียด",
     "preview": "https://img.aishort.top/imgprompt/20260224193529241.webp"
   },
   {
@@ -25460,7 +25460,7 @@
     "langName": "กล้องแพนไปทางขวา",
     "object": "การถ่ายภาพ",
     "attribute": "กล้องพื้นฐาน",
-    "description": "摄影机整体向右平移，常用于跟拍或展示空间。",
+    "description": "กล้องเคลื่อนขนานไปทางขวาทั้งตัว มักใช้ในช็อตติดตามหรือแสดงพื้นที่โดยรอบ",
     "preview": "https://img.aishort.top/imgprompt/20260224193745270.webp"
   },
   {
@@ -25468,7 +25468,7 @@
     "langName": "กล้องแพนไปทางซ้าย",
     "object": "การถ่ายภาพ",
     "attribute": "กล้องพื้นฐาน",
-    "description": "摄影机整体向左平移，适合动态叙事或空间转换。",
+    "description": "กล้องเคลื่อนขนานไปทางซ้ายทั้งตัว เหมาะกับการเล่าเรื่องแบบเคลื่อนไหวหรือการเปลี่ยนพื้นที่ในฉาก",
     "preview": "https://img.aishort.top/imgprompt/20260224194002254.webp"
   },
   {
@@ -25476,7 +25476,7 @@
     "langName": "แพนขึ้น",
     "object": "การถ่ายภาพ",
     "attribute": "กล้องพื้นฐาน",
-    "description": "镜头向上摇动，常用于展示建筑高度或抬头视角。",
+    "description": "กล้องเงยขึ้นด้านบน มักใช้แสดงความสูงของสิ่งก่อสร้างหรือมุมมองแบบแหงนมอง",
     "preview": "https://img.aishort.top/imgprompt/20260224194016059.webp"
   },
   {
@@ -25484,7 +25484,7 @@
     "langName": "เลนส์แบบมือถือ",
     "object": "การถ่ายภาพ",
     "attribute": "กล้องขั้นสูง",
-    "description": "摄影师手持设备拍摄，营造自然、紧张或真实感。",
+    "description": "ถ่ายด้วยการถือกล้องด้วยมือ ให้ความรู้สึกเป็นธรรมชาติ ตึงเครียด หรือสมจริง",
     "preview": "https://img.aishort.top/imgprompt/20260224194029563.webp"
   },
   {
@@ -25492,7 +25492,7 @@
     "langName": "การเคลื่อนไหวของกล้องแบบผสม",
     "object": "การถ่ายภาพ",
     "attribute": "กล้องขั้นสูง",
-    "description": "结合多种运镜方式（如推进+侧移），表现更复杂的场景或情绪。",
+    "description": "ผสมการเคลื่อนกล้องหลายแบบเข้าด้วยกัน เช่น เลื่อนเข้าพร้อมเลื่อนด้านข้าง เพื่อถ่ายทอดฉากหรืออารมณ์ที่ซับซ้อนขึ้น",
     "preview": "https://img.aishort.top/imgprompt/20260224194043291.webp"
   },
   {
@@ -25500,7 +25500,7 @@
     "langName": "ติดตามกล้อง",
     "object": "การถ่ายภาพ",
     "attribute": "กล้องขั้นสูง",
-    "description": "镜头持续跟随人物或物体移动，强调动作和连续性。",
+    "description": "กล้องเคลื่อนตามตัวบุคคลหรือวัตถุอย่างต่อเนื่อง เน้นการเคลื่อนไหวและความต่อเนื่อง",
     "preview": "https://img.aishort.top/imgprompt/20260224194306759.webp"
   },
   {
@@ -25508,7 +25508,7 @@
     "langName": "การถ่ายภาพแบบหมุนวน",
     "object": "การถ่ายภาพ",
     "attribute": "กล้องขั้นสูง",
-    "description": "摄影机环绕拍摄对象移动一圈，常用于突出人物或营造视觉冲击力。",
+    "description": "กล้องเคลื่อนเป็นวงรอบตัวแบบหนึ่งรอบ มักใช้ขับเน้นตัวละครหรือสร้างความตื่นตาทางภาพ",
     "preview": "https://img.aishort.top/imgprompt/20260224194321570.webp"
   },
   {
@@ -25537,7 +25537,7 @@
     "langName": "แสงสว่างที่ใช้งานได้จริง",
     "object": "แสงและเงา",
     "attribute": "แหล่งกำเนิดแสง",
-    "description": "画面中真实存在的、被拍摄入镜的光源，例如台灯、蜡烛、电视屏幕等。通常用于增强画面真实感。",
+    "description": "แหล่งกำเนิดแสงที่มีอยู่จริงในฉากและปรากฏในภาพ เช่น โคมไฟตั้งโต๊ะ เทียน หรือจอโทรทัศน์ มักใช้เพิ่มความสมจริงให้ภาพ",
     "preview": "https://img.aishort.top/imgprompt/20260224194856204.webp"
   },
   {
@@ -25545,7 +25545,7 @@
     "langName": "เปลวไฟ",
     "object": "แสงและเงา",
     "attribute": "แหล่งกำเนิดแสง",
-    "description": "来自火焰的光源，比如篝火、蜡烛、壁炉等，具有自然、动态、温暖的光线效果。",
+    "description": "แสงจากเปลวไฟ เช่น กองไฟ เทียน หรือเตาผิง ให้แสงที่เป็นธรรมชาติ เคลื่อนไหว และอบอุ่น",
     "preview": "https://img.aishort.top/imgprompt/20260224194929799.webp"
   },
   {
@@ -25567,7 +25567,7 @@
     "langName": "แสงครึ้ม",
     "object": "แสงและเงา",
     "attribute": "แหล่งกำเนิดแสง",
-    "description": "指阴天时由云层散射的柔和自然光，光线均匀、无明显阴影，常用于营造柔和氛围。",
+    "description": "แสงธรรมชาตินุ่มนวลที่ถูกเมฆกระจายในวันฟ้าครึ้ม ให้แสงสม่ำเสมอและไม่มีเงาชัด มักใช้สร้างบรรยากาศนุ่มนวล",
     "preview": "https://img.aishort.top/imgprompt/20260224195011361.webp"
   },
   {
@@ -25575,7 +25575,7 @@
     "langName": "แสงผสม",
     "object": "แสงและเงา",
     "attribute": "แหล่งกำเนิดแสง",
-    "description": "指多种不同色温或类型光源同时存在的情况，例如日光与室内灯光同时出现在画面中。",
+    "description": "กรณีที่มีแหล่งกำเนิดแสงหลายชนิดหรือหลายอุณหภูมิสีอยู่พร้อมกัน เช่น แสงแดดกับแสงไฟในอาคารปรากฏในภาพเดียวกัน",
     "preview": "https://img.aishort.top/imgprompt/20260224195024984.webp"
   },
   {
@@ -26742,7 +26742,7 @@
   },
   {
     "displayName": "powderblue",
-    "langName": "สีฟ้าอ่อน",
+    "langName": "สีฟ้าผงนวล",
     "object": "บรรยากาศสี",
     "attribute": "โทนสีอ่อน",
     "preview": "https://img.aishort.top/imgprompt/20260224220347304.webp"
@@ -26756,7 +26756,7 @@
   },
   {
     "displayName": "paleturquoise",
-    "langName": "สีฟ้าอ่อน",
+    "langName": "สีเทอร์ควอยซ์ซีด",
     "object": "บรรยากาศสี",
     "attribute": "โทนสีอ่อน",
     "preview": "https://img.aishort.top/imgprompt/20260224220418876.webp"
@@ -27134,7 +27134,7 @@
   },
   {
     "displayName": "royalblue",
-    "langName": "สีน้ำเงินเข้ม",
+    "langName": "สีน้ำเงินรอยัล",
     "object": "บรรยากาศสี",
     "attribute": "สีสเปกตรัม",
     "preview": "https://img.aishort.top/imgprompt/20260224221743869.webp"
@@ -27155,28 +27155,28 @@
   },
   {
     "displayName": "darkblue",
-    "langName": "สีน้ำเงินกรมท่า",
+    "langName": "สีน้ำเงินเข้ม",
     "object": "บรรยากาศสี",
     "attribute": "สีสเปกตรัม",
     "preview": "https://img.aishort.top/imgprompt/20260224221832342.webp"
   },
   {
     "displayName": "navy",
-    "langName": "สีน้ำเงินกรมท่า",
+    "langName": "สีกรมท่า",
     "object": "บรรยากาศสี",
     "attribute": "สีสเปกตรัม",
     "preview": "https://img.aishort.top/imgprompt/20260224221845774.webp"
   },
   {
     "displayName": "midnightblue",
-    "langName": "สีน้ำเงินเข้ม",
+    "langName": "สีน้ำเงินเที่ยงคืน",
     "object": "บรรยากาศสี",
     "attribute": "สีสเปกตรัม",
     "preview": "https://img.aishort.top/imgprompt/20260224221901073.webp"
   },
   {
     "displayName": "darkcyan",
-    "langName": "สีฟ้าอมเขียว",
+    "langName": "สีฟ้าอมเขียวเข้ม",
     "object": "บรรยากาศสี",
     "attribute": "สีสเปกตรัม",
     "preview": "https://img.aishort.top/imgprompt/20260224221915905.webp"
@@ -27204,21 +27204,21 @@
   },
   {
     "displayName": "aquamarine",
-    "langName": "เทอร์ควอยซ์",
+    "langName": "สีอความารีน",
     "object": "บรรยากาศสี",
     "attribute": "สีสเปกตรัม",
     "preview": "https://img.aishort.top/imgprompt/20260224222012509.webp"
   },
   {
     "displayName": "lightcyan",
-    "langName": "สีฟ้าอมเขียว",
+    "langName": "สีฟ้าอ่อนมาก",
     "object": "บรรยากาศสี",
     "attribute": "สีสเปกตรัม",
     "preview": "https://img.aishort.top/imgprompt/20260224222026323.webp"
   },
   {
     "displayName": "cyan",
-    "langName": "สีเขียวมรกต",
+    "langName": "สีฟ้าอมเขียว",
     "object": "บรรยากาศสี",
     "attribute": "สีสเปกตรัม",
     "preview": "https://img.aishort.top/imgprompt/20260224222040633.webp"
@@ -27610,7 +27610,7 @@
   },
   {
     "displayName": "Complimentary-Colors",
-    "langName": "สีที่เสริมกัน",
+    "langName": "สีคู่ตรงข้าม",
     "object": "บรรยากาศสี",
     "attribute": "จานสีสดใส",
     "preview": "https://img.aishort.top/imgprompt/20260224223458770.webp"
@@ -27919,21 +27919,21 @@
   },
   {
     "displayName": "HSV",
-    "langName": "ค่าความเข้ม สี ความอิ่มตัว ความสว่าง",
+    "langName": "เฉดสี ความอิ่มตัว ค่าความสว่าง",
     "object": "บรรยากาศสี",
     "attribute": "จานสีจอแสดงผล",
     "preview": "https://img.aishort.top/imgprompt/20260224224548087.webp"
   },
   {
     "displayName": "HSL",
-    "langName": "ค่าความเข้มของสี, ความอิ่มตัวของสี, ความสว่าง",
+    "langName": "เฉดสี ความอิ่มตัว ความสว่าง",
     "object": "บรรยากาศสี",
     "attribute": "จานสีจอแสดงผล",
     "preview": "https://img.aishort.top/imgprompt/20260224224601439.webp"
   },
   {
     "displayName": "HCL",
-    "langName": "สี, โครมาติก, ความสว่าง",
+    "langName": "เฉดสี โครมา ความส่องสว่าง",
     "object": "บรรยากาศสี",
     "attribute": "จานสีจอแสดงผล",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
@@ -28073,7 +28073,7 @@
   },
   {
     "displayName": "Kinemacolor",
-    "langName": "สีสันแบบภาพยนตร์",
+    "langName": "คิเนมาคัลเลอร์",
     "object": "บรรยากาศสี",
     "attribute": "การผลิตภาพยนตร์",
     "preview": "https://img.aishort.top/imgprompt/20260224225130563.webp"
@@ -28087,7 +28087,7 @@
   },
   {
     "displayName": "Cinecolor",
-    "langName": "สีสันแบบภาพยนตร์",
+    "langName": "ซีเนคัลเลอร์",
     "object": "บรรยากาศสี",
     "attribute": "การผลิตภาพยนตร์",
     "preview": "https://img.aishort.top/imgprompt/20260224225201683.webp"
@@ -28124,35 +28124,35 @@
     "displayName": "Bump Map",
     "langName": "การแมปบัมป์",
     "object": "วัสดุ",
-    "attribute": "แผนที่",
+    "attribute": "เท็กซ์เจอร์แมป",
     "preview": "https://img.aishort.top/imgprompt/20260224225344573.webp"
   },
   {
     "displayName": "Bump Mapped",
     "langName": "การแมปบัมป์",
     "object": "วัสดุ",
-    "attribute": "แผนที่",
+    "attribute": "เท็กซ์เจอร์แมป",
     "preview": "https://img.aishort.top/imgprompt/20260224225400692.webp"
   },
   {
     "displayName": "Bump Mapping",
     "langName": "การแมปบัมป์",
     "object": "วัสดุ",
-    "attribute": "แผนที่",
+    "attribute": "เท็กซ์เจอร์แมป",
     "preview": "https://img.aishort.top/imgprompt/20260224225415653.webp"
   },
   {
     "displayName": "Normal Map",
     "langName": "แผนที่ปกติ",
     "object": "วัสดุ",
-    "attribute": "แผนที่",
+    "attribute": "เท็กซ์เจอร์แมป",
     "preview": "https://img.aishort.top/imgprompt/20260224225432546.webp"
   },
   {
     "displayName": "Depth Map",
     "langName": "แผนที่ความลึก",
     "object": "วัสดุ",
-    "attribute": "แผนที่",
+    "attribute": "เท็กซ์เจอร์แมป",
     "preview": "https://img.aishort.top/imgprompt/20260224225447643.webp"
   },
   {

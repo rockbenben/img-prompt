@@ -2907,7 +2907,7 @@
   },
   {
     "displayName": "hollow_eyes",
-    "langName": "star-shaped_pupils",
+    "langName": "無神的眼睛",
     "object": "人物",
     "attribute": "眼睛",
     "preview": "https://img.aishort.top/imgprompt/20260211141950217.webp"
@@ -3229,7 +3229,7 @@
   },
   {
     "displayName": "blue_pupils",
-    "langName": "橙色瞳孔",
+    "langName": "藍色瞳孔",
     "object": "人物",
     "attribute": "瞳孔",
     "preview": "https://img.aishort.top/imgprompt/20260211143024647.webp"
@@ -4684,7 +4684,7 @@
   },
   {
     "displayName": "crop_top_overhang",
-    "langName": "作物頂部懸垂",
+    "langName": "露臍上衣下襬外露",
     "object": "環境",
     "attribute": "背景",
     "preview": "https://img.aishort.top/imgprompt/20260225095914537.webp"
@@ -5384,7 +5384,7 @@
   },
   {
     "displayName": "lunar",
-    "langName": "月的,_月球的;",
+    "langName": "月的",
     "object": "環境",
     "attribute": "天空",
     "preview": "https://img.aishort.top/imgprompt/20260211153840964.webp"
@@ -9873,301 +9873,301 @@
     "displayName": "arms_up",
     "langName": "抬手",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175530980.webp"
   },
   {
     "displayName": "arms_crossed",
     "langName": "手交叉於胸前",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175543922.webp"
   },
   {
     "displayName": "crossed_arms",
     "langName": "交叉雙臂",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175556789.webp"
   },
   {
     "displayName": "arms_at_sides",
     "langName": "雙手垂放",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175609687.webp"
   },
   {
     "displayName": "arm_at_side",
     "langName": "單手垂放",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175622234.webp"
   },
   {
     "displayName": "arms_behind_back",
     "langName": "手放在身後",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175634829.webp"
   },
   {
     "displayName": "arms_behind_head",
     "langName": "雙手抱頭",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175647169.webp"
   },
   {
     "displayName": "arm_behind_head",
     "langName": "手放頭後",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175659736.webp"
   },
   {
     "displayName": "arm_behind_back",
     "langName": "單手背到身後",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260212075132956.webp"
   },
   {
     "displayName": "hands_clasped",
     "langName": "雙手手指交叉|雙手緊握",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
   },
   {
     "displayName": "interlocked_fingers",
     "langName": "雙手緊握",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175736751.webp"
   },
   {
     "displayName": "arm_support",
     "langName": "用手支撐住",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175748994.webp"
   },
   {
     "displayName": "arm_above_head",
     "langName": "手在頭上",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260213094908585.webp"
   },
   {
     "displayName": "outstretched_arms",
     "langName": "伸出雙臂",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175813007.webp"
   },
   {
     "displayName": "hands_in_opposite_sleeves",
     "langName": "雙手交叉伸進袖子裏",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
   },
   {
     "displayName": "v_arms",
     "langName": "雙臂擺出V",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175838045.webp"
   },
   {
     "displayName": "w_arms",
     "langName": "雙臂擺出W",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175850840.webp"
   },
   {
     "displayName": "sharp_fingernails",
     "langName": "銳利的手指甲",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
   },
   {
     "displayName": "spread_fingers",
     "langName": "張開手指",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175916068.webp"
   },
   {
     "displayName": "trigger_discipline",
     "langName": "手指沒放在扳機上",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175928974.webp"
   },
   {
     "displayName": "w",
     "langName": "手指比W",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175941737.webp"
   },
   {
     "displayName": "bound_arms",
     "langName": "手臂被束縛",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175955270.webp"
   },
   {
     "displayName": "extra_arms",
     "langName": "多隻手臂",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180008191.webp"
   },
   {
     "displayName": "locked_arms",
     "langName": "互挽手臂",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180021217.webp"
   },
   {
     "displayName": "convenient_arm",
     "langName": "遮住關鍵部位的手臂",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180033673.webp"
   },
   {
     "displayName": "arm_cannon",
     "langName": "手炮",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180046505.webp"
   },
   {
     "displayName": "arm_ribbon",
     "langName": "手臂絲帶",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180058970.webp"
   },
   {
     "displayName": "arm_held_back",
     "langName": "手臂往後拉",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180112475.webp"
   },
   {
     "displayName": "hugging_own_legs",
     "langName": "抱自己的雙腿",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180124920.webp"
   },
   {
     "displayName": "trembling",
     "langName": "顫抖",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180137998.webp"
   },
   {
     "displayName": "rolleyes",
     "langName": "翻白眼",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180150675.webp"
   },
   {
     "displayName": "clenched hand",
     "langName": "攥拳",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180203512.webp"
   },
   {
     "displayName": "covering_xx",
     "langName": "遮蓋xx",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
   },
   {
     "displayName": "double piece pose",
     "langName": "雙手 V 手勢",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260212075155741.webp"
   },
   {
     "displayName": "hands in hair",
     "langName": "雙手撥頭髮",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180240957.webp"
   },
   {
     "displayName": "hidden hands",
     "langName": "將手藏起來",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180253482.webp"
   },
   {
     "displayName": "open hands",
     "langName": "張開雙手",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180305978.webp"
   },
   {
     "displayName": "own hands clasped",
     "langName": "雙手相扣",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180318354.webp"
   },
   {
     "displayName": "own hands together",
     "langName": "雙手相合",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180330982.webp"
   },
   {
     "displayName": "peace sign",
     "langName": "剪刀手",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180343460.webp"
   },
   {
     "displayName": "presenting armpit",
     "langName": "展示腋窩",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180356051.webp"
   },
   {
     "displayName": "spread arms",
     "langName": "張開雙臂",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180408733.webp"
   },
   {
     "displayName": "tying hair",
     "langName": "扎頭髮",
     "object": "動作",
-    "attribute": "手部動作",
+    "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180421654.webp"
   },
   {
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "雙_v",
+    "langName": "雙v",
     "object": "動作",
     "attribute": "手勢表達",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -13763,14 +13763,14 @@
   },
   {
     "displayName": ":d",
-    "langName": "開心的笑_:D😀",
+    "langName": "開心的笑",
     "object": "表情",
     "attribute": "笑",
     "preview": "https://img.aishort.top/imgprompt/20260211195749422.webp"
   },
   {
     "displayName": ";d",
-    "langName": "眨眼笑_:D",
+    "langName": "眨眼笑",
     "object": "表情",
     "attribute": "笑",
     "preview": "https://img.aishort.top/imgprompt/20260211195810245.webp"
@@ -14093,7 +14093,7 @@
   },
   {
     "displayName": "sulking",
-    "langName": "生_悶氣",
+    "langName": "生悶氣",
     "object": "表情",
     "attribute": "生氣",
     "preview": "https://img.aishort.top/imgprompt/20260213103708924.webp"
@@ -14751,7 +14751,7 @@
   },
   {
     "displayName": "obi",
-    "langName": "衣帶(和服用)",
+    "langName": "和服腰帶",
     "object": "服飾",
     "attribute": "服飾風格",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "開襟夾克(配合spread_legs)",
+    "langName": "開襟夾克（配合張開腿）",
     "object": "服飾",
     "attribute": "外套",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -20763,7 +20763,7 @@
   },
   {
     "displayName": "pumps",
-    "langName": "低胸裝高跟鞋打扮",
+    "langName": "淺口高跟鞋",
     "object": "服飾",
     "attribute": "鞋子",
     "preview": "https://img.aishort.top/imgprompt/20260213164252308.webp"
@@ -21003,238 +21003,238 @@
     "displayName": "wide_sleeves",
     "langName": "寬袖",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213174402264.webp"
   },
   {
     "displayName": "single_sleeve",
     "langName": "單袖",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213174421142.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
     "langName": "不對稱袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213174433704.webp"
   },
   {
     "displayName": "puffy_sleeves",
     "langName": "蓬鬆的袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213174452709.webp"
   },
   {
     "displayName": "puffy_long_sleeves",
     "langName": "蓬蓬長袖",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213174505622.webp"
   },
   {
     "displayName": "puffy_short_sleeves",
     "langName": "蓬蓬短袖",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
   },
   {
     "displayName": "frilled_sleeves",
     "langName": "褶袖邊",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213174936053.webp"
   },
   {
     "displayName": "juliet_sleeves",
     "langName": "朱麗葉袖",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260225105600224.webp"
   },
   {
     "displayName": "bandaged_arm",
     "langName": "手臂纏着繃帶",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175209308.webp"
   },
   {
     "displayName": "raglan_sleeves",
     "langName": "插肩袖",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175222011.webp"
   },
   {
     "displayName": "vambraces",
     "langName": "下臂護甲",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175234968.webp"
   },
   {
     "displayName": "layered_sleeves",
     "langName": "分層袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175248597.webp"
   },
   {
     "displayName": "fur-trimmed_sleeves",
     "langName": "毛邊袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175301700.webp"
   },
   {
     "displayName": "see-through_sleeves",
     "langName": "透明袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175314655.webp"
   },
   {
     "displayName": "torn_sleeves",
     "langName": "撕裂的袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175327401.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "袖子長過手指",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
     "langName": "袖子過腕",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175353319.webp"
   },
   {
     "displayName": "sleeves_past_elbows",
     "langName": "袖子過肘",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175608643.webp"
   },
   {
     "displayName": "sleeves_pushed_up",
     "langName": "袖子上推",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175621831.webp"
   },
   {
     "displayName": "arm_out_of_sleeve",
     "langName": "袖子裏的手臂",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175635409.webp"
   },
   {
     "displayName": "uneven_sleeves",
     "langName": "不均勻的袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175647988.webp"
   },
   {
     "displayName": "mismatched_sleeves",
     "langName": "不匹配的袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175701248.webp"
   },
   {
     "displayName": "sleeve_rolled_up",
     "langName": "袖子捲起",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
     "langName": "單隻袖子捲起",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175726967.webp"
   },
   {
     "displayName": "feather-trimmed_sleeves",
     "langName": "羽毛裝飾的袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213175941889.webp"
   },
   {
     "displayName": "lace-trimmed_sleeves",
     "langName": "蕾絲邊袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213180156786.webp"
   },
   {
     "displayName": "pinching_sleeves",
     "langName": "掐袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213180210307.webp"
   },
   {
     "displayName": "puffy_detached_sleeves",
     "langName": "蓬蓬的袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213180223059.webp"
   },
   {
     "displayName": "ribbed_sleeves",
     "langName": "棱紋袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
   },
   {
     "displayName": "single_detached_sleeve",
     "langName": "單邊沒脫掉的袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213180855076.webp"
   },
   {
     "displayName": "sleeves_folded_up",
     "langName": "疊起來的袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213181110146.webp"
   },
   {
     "displayName": "striped_sleeves",
     "langName": "條紋袖子",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213181123268.webp"
   },
   {
     "displayName": "armband",
     "langName": "袖章(臂帶)",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
   },
   {
     "displayName": "armlet",
     "langName": "臂鐲",
     "object": "服飾",
-    "attribute": "手臂",
+    "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213190711002.webp"
   },
   {
@@ -23934,7 +23934,7 @@
   },
   {
     "displayName": "cross-body bag",
-    "langName": "斜挎包",
+    "langName": "斜揹包",
     "object": "飾品",
     "attribute": "配飾",
     "preview": "https://img.aishort.top/imgprompt/20260214014456643.webp"
@@ -28124,35 +28124,35 @@
     "displayName": "Bump Map",
     "langName": "凹凸貼圖",
     "object": "素材",
-    "attribute": "地圖",
+    "attribute": "貼圖",
     "preview": "https://img.aishort.top/imgprompt/20260224225344573.webp"
   },
   {
     "displayName": "Bump Mapped",
     "langName": "帶凹凸貼圖",
     "object": "素材",
-    "attribute": "地圖",
+    "attribute": "貼圖",
     "preview": "https://img.aishort.top/imgprompt/20260224225400692.webp"
   },
   {
     "displayName": "Bump Mapping",
     "langName": "凹凸映射",
     "object": "素材",
-    "attribute": "地圖",
+    "attribute": "貼圖",
     "preview": "https://img.aishort.top/imgprompt/20260224225415653.webp"
   },
   {
     "displayName": "Normal Map",
     "langName": "法線貼圖",
     "object": "素材",
-    "attribute": "地圖",
+    "attribute": "貼圖",
     "preview": "https://img.aishort.top/imgprompt/20260224225432546.webp"
   },
   {
     "displayName": "Depth Map",
     "langName": "深度圖",
     "object": "素材",
-    "attribute": "地圖",
+    "attribute": "貼圖",
     "preview": "https://img.aishort.top/imgprompt/20260224225447643.webp"
   },
   {
@@ -30189,147 +30189,147 @@
     "displayName": "Fungi",
     "langName": "菌類",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225000902602.webp"
   },
   {
     "displayName": "Mushrooms",
     "langName": "蘑菇",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225000920028.webp"
   },
   {
     "displayName": "Mycelium",
     "langName": "菌絲",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225000934335.webp"
   },
   {
     "displayName": "Moldy",
     "langName": "發黴的",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225000950611.webp"
   },
   {
     "displayName": "Lactarius-Indigo",
     "langName": "靛青乳菇",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001006384.webp"
   },
   {
     "displayName": "Latticed-Stinkhorn",
     "langName": "格子柄燈盞菌",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001021630.webp"
   },
   {
     "displayName": "Clathrus-Ruber",
     "langName": "紅籠菌",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001036116.webp"
   },
   {
     "displayName": "Laccaria-Amethystina",
     "langName": "紫蘑",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001052173.webp"
   },
   {
     "displayName": "Entoloma-Hochstetteri",
     "langName": "霍氏粉褶菌",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001107659.webp"
   },
   {
     "displayName": "Clavaria-Zollingeri",
     "langName": "紫紅珊瑚菌",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001123325.webp"
   },
   {
     "displayName": "Chlorociboria",
     "langName": "青綠木耳",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001139570.webp"
   },
   {
     "displayName": "Golden-Scruffy-Collybia",
     "langName": "金絲烏鴉腳蘑菇",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260317125532956.webp"
   },
   {
     "displayName": "Cyptotrama-Asprata",
     "langName": "隱色鋸腳蘑",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260317125542896.webp"
   },
   {
     "displayName": "Mycena Acicula",
     "langName": "尖銳鬼筆菌",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001231425.webp"
   },
   {
     "displayName": "Hygrocybe-Cantharellus",
     "langName": "黃褐紅腳燈蘑",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001252601.webp"
   },
   {
     "displayName": "Amanita-Muscaria",
     "langName": "紅白鵝膏菌",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001309984.webp"
   },
   {
     "displayName": "Favolaschia-Calocera",
     "langName": "紅猩猩手指菌",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001333847.webp"
   },
   {
     "displayName": "Marasmius-Haematocephalus",
     "langName": "紅頭髮菌",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001348763.webp"
   },
   {
     "displayName": "Cystoagaricus-Trisulphuratus",
     "langName": "三硫囊菇",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001403668.webp"
   },
   {
     "displayName": "Tremella-Mesenterica",
     "langName": "黃腦菌",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001419657.webp"
   },
   {
     "displayName": "Tremella-Fuciformis",
     "langName": "銀耳",
     "object": "素材",
-    "attribute": "菌",
+    "attribute": "菌類",
     "preview": "https://img.aishort.top/imgprompt/20260225001434385.webp"
   },
   {
