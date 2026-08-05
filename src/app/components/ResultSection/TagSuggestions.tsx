@@ -1,7 +1,7 @@
 import { FC } from "react";
 import { Flex, Tag, Tooltip } from "antd";
 import { CheckCircleOutlined } from "@ant-design/icons";
-import { normalizeString } from "@/app/utils/normalizeString";
+import { tagLabels } from "@/app/utils/tagLabels";
 import { TagItem } from "../types";
 
 interface TagSuggestionsProps {
@@ -14,11 +14,11 @@ export const TagSuggestions: FC<TagSuggestionsProps> = ({ suggestedTags, exactMa
   if (!exactMatchTag && suggestedTags.length === 0) return null;
 
   const chipBody = (tag: TagItem) => {
-    const langName = normalizeString(tag.langName) !== normalizeString(tag.displayName) ? tag.langName : "";
+    const { gloss, en } = tagLabels(tag);
     return (
       <>
-        {langName && <span className="pp-sug-cn">{langName}</span>}
-        <span className="pp-sug-en">{tag.displayName}</span>
+        {gloss && <span className="pp-sug-cn">{gloss}</span>}
+        {en && <span className="pp-sug-en">{en}</span>}
       </>
     );
   };

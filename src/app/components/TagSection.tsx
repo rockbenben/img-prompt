@@ -1,5 +1,5 @@
 import React, { FC } from "react";
-import { normalizeString } from "@/app/utils/normalizeString";
+import { tagLabels } from "@/app/utils/tagLabels";
 import { TagItem } from "./types";
 import TagTooltipWrapper from "./TagTooltipWrapper";
 
@@ -21,7 +21,7 @@ const TagSection: FC<TagSectionProps> = ({ tags = [], selectedNameSet, onTagClic
     <div className="flex flex-wrap mt-2 mb-1">
       {tags.map((tag, index) => {
         const isSelected = selectedNameSet.has(tag.displayName);
-        const tagLangName = normalizeString(tag.langName) !== normalizeString(tag.displayName) ? tag.langName : "";
+        const { gloss: tagLangName, en } = tagLabels(tag);
         const key = `${tag.object}-${tag.attribute}-${tag.displayName}`;
         const tone = mono ? "pp-mono" : `pp-c-${Math.floor(index / BLOCK_SIZE) % CANDY_COUNT}`;
 
@@ -30,7 +30,7 @@ const TagSection: FC<TagSectionProps> = ({ tags = [], selectedNameSet, onTagClic
             {/* 母语浏览，英文输出：母语领先为主，英文（实际输出值）次级跟随 */}
             <span className="pp-tag-dot" aria-hidden="true" />
             {tagLangName && <span className="pp-tag-cn">{tagLangName}</span>}
-            <span className="pp-tag-en">{tag.displayName}</span>
+            {en && <span className="pp-tag-en">{en}</span>}
           </button>
         );
 

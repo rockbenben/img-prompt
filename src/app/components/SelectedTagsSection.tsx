@@ -1,6 +1,6 @@
 import React, { FC, useMemo } from "react";
 import { useTranslations } from "next-intl";
-import { normalizeString } from "@/app/utils/normalizeString";
+import { tagLabels } from "@/app/utils/tagLabels";
 import { TagItem } from "./types";
 
 interface SelectedTagsSectionProps {
@@ -39,7 +39,7 @@ const SelectedTagsSection: FC<SelectedTagsSectionProps> = ({ selectedTags = [], 
           <span className="pp-sel-obj">{object}</span>
           <div className="pp-sel-tokens">
             {tags.map((tag) => {
-              const gloss = normalizeString(tag.langName) !== normalizeString(tag.displayName) ? tag.langName : "";
+              const { gloss, en } = tagLabels(tag);
               return (
                 <button
                   key={tag.displayName}
@@ -48,7 +48,7 @@ const SelectedTagsSection: FC<SelectedTagsSectionProps> = ({ selectedTags = [], 
                   title={gloss ? `${gloss} · ${tag.displayName}` : tag.displayName}
                   onClick={() => onTagClick(tag)}>
                   {gloss && <span className="pp-token-cn">{gloss}</span>}
-                  <span className="pp-token-en">{tag.displayName}</span>
+                  {en && <span className="pp-token-en">{en}</span>}
                   <span className="pp-token-x" aria-hidden="true">
                     ×
                   </span>
