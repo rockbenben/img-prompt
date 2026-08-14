@@ -72,6 +72,10 @@ Full installation, deployment and Docker instructions live in the [deployment gu
 
 Pull requests are welcome; for major changes, open an issue first to discuss direction. Prompt data contributions — adding or refining tags for a language — are especially appreciated, and the files are plain JSON with no tooling required.
 
+## Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=rockbenben/img-prompt&type=Date)](https://star-history.dera.page/#rockbenben/img-prompt&Date)
+
 ## Credits and licensing
 
 IMGPrompt's own code is [MIT](LICENSE). The prompt library is aggregated and curated from several open sources — huge thanks to:

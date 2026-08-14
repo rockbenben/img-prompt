@@ -72,6 +72,10 @@ yarn lint
 
 欢迎 PR，较大的改动建议先开 Issue 讨论方向。提示词数据相关的贡献尤其欢迎——文件都是标准 JSON，不需要额外工具链，直接改就行。
 
+## Star 历史
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=rockbenben/img-prompt&type=Date)](https://star-history.dera.page/#rockbenben/img-prompt&Date)
+
 ## 致谢与授权
 
 IMGPrompt 自身代码采用 [MIT](LICENSE) 协议。提示词数据汇集并整理自多个开源项目，特别感谢：
