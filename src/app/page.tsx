@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { routing } from "@/i18n/routing";
+import { localeRedirectScript } from "@/app/localeRedirect";
 
 // 裸域名根页：兜底跳转到默认 locale。noindex 防止爬虫索引这个无内容的中转页。
 //
@@ -16,6 +17,9 @@ export default function RootPage() {
   const home = `/${routing.defaultLocale}`;
   return (
     <>
+      {/* 语言落点：已选语言 > 浏览器偏好 > defaultLocale。解析不出或就是默认值时
+          什么都不做，由下面那条 meta refresh 兜底（也是禁用 JS 时的唯一出路）。 */}
+      <script dangerouslySetInnerHTML={{ __html: localeRedirectScript }} />
       <meta httpEquiv="refresh" content={`0;url=${home}`} />
       <p style={{ fontFamily: "sans-serif", padding: 24 }}>
         <a href={home}>Redirecting…</a>
