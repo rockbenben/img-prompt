@@ -10,7 +10,7 @@ import { routing } from "@/i18n/routing";
 import { AntdRegistry } from "@ant-design/nextjs-registry";
 import ThemesProvider from "@/app/ThemesProvider";
 import {
-  SITE_URL, SITE_NAME, AUTHOR,
+  SITE_URL, SITE_NAME, AUTHOR, REPO_URL,
   ogLocale, bcp47,
 } from "@/app/lib/seo";
 
@@ -106,7 +106,11 @@ export default async function LocaleLayout({ children, params }: Props) {
   setRequestLocale(locale);
   const direction = RTL_LOCALES.includes(locale) ? "rtl" : "ltr";
 
-  const messages = await getMessages();
+  const [messages, tNav, tFooter] = await Promise.all([
+    getMessages(),
+    getTranslations({ locale, namespace: "Nav" }),
+    getTranslations({ locale, namespace: "Footer" }),
+  ]);
 
   // Slim payload sent to the client: only namespaces hit by `'use client'` components.
   // Server-only namespaces (Metadata, Home, About, HowTo, FAQ, Tips, Compare, Terminology, Schema)
@@ -122,8 +126,26 @@ export default async function LocaleLayout({ children, params }: Props) {
         <AntdRegistry>
           <NextIntlClientProvider messages={clientMessages}>
             <ThemesProvider>
+              {/* 绕过选词区（WCAG 2.4.1）：首页大半可聚焦元素排在提示词框之前。
+                  必须是文档里第一个可聚焦元素，所以放在 Navigation 之前。 */}
+              <a href="#pp-prompt" className="pp-skip">
+                {tNav("skipToPrompt")}
+              </a>
               <Navigation />
               <main style={{ maxWidth: 1280, width: "100%", marginTop: 8, marginInline: "auto", paddingInline: "clamp(16px, 4vw, 24px)", paddingBlock: 16 }}>{children}</main>
+              {/* 页脚只留 GitHub 入口 + 签名（本仓库无指南/反馈路由）。这个 GitHub
+                  链接不是装饰：globals.css 在 ≤520px 隐藏顶栏的 GitHub 图标，
+                  正是因为页脚有同一入口。 */}
+              <footer className="pp-footer">
+                <div className="pp-footer-links">
+                  <a href={REPO_URL} target="_blank" rel="noopener noreferrer">
+                    GitHub
+                  </a>
+                </div>
+                <div className="pp-footer-sig">
+                  <b className="pp-footer-mark">IMGPROMPT</b> · {tFooter("signature")}
+                </div>
+              </footer>
             </ThemesProvider>
           </NextIntlClientProvider>
         </AntdRegistry>

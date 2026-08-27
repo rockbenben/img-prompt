@@ -61,10 +61,6 @@ const lightTheme: ThemeConfig = {
       primaryShadow: "none",
       contentFontSize: 13,
     },
-    Card: {
-      colorBorderSecondary: INK,
-      lineWidth: 2,
-    },
     Segmented: {
       itemSelectedBg: INK,
       itemSelectedColor: "#faf9f4",
@@ -129,10 +125,6 @@ const darkTheme: ThemeConfig = {
       primaryColor: "#16171c",
       contentFontSize: 13,
     },
-    Card: {
-      colorBorderSecondary: "#3a3d45",
-      lineWidth: 2,
-    },
     Segmented: {
       itemSelectedBg: PAPER_INK,
       itemSelectedColor: "#16171c",
@@ -180,7 +172,10 @@ function AntdConfigProvider({ children }: { children: ReactNode }) {
   }, [isDark]);
 
   return (
-    <ConfigProvider theme={isDark ? darkTheme : lightTheme}>
+    // autoInsertSpace=false：antd 默认给「恰好两个汉字、且没有图标」的按钮中间
+    // 插一个空格，于是同一排上「清 空」「翻 译」被撑开，而带图标的「复制」「负面词」
+    // 不会 —— 同一组按钮两种字距，看着像没对齐。整站统一关掉。
+    <ConfigProvider theme={isDark ? darkTheme : lightTheme} button={{ autoInsertSpace: false }}>
       <App>
         <Layout style={{ minHeight: "100vh", background: "transparent" }}>{children}</Layout>
       </App>

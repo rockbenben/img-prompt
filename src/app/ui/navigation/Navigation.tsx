@@ -47,17 +47,21 @@ export function Navigation() {
   const themeIcon = mounted && resolvedTheme === "light" ? <SunOutlined style={iconStyle} /> : <MoonOutlined style={iconStyle} />;
 
   return (
-    <Header style={{ padding: 0, background: "transparent", height: 48, lineHeight: "48px" }}>
-      <Flex className="pp-topbar" justify="space-between" align="center" style={{ padding: "0 16px" }}>
+    // 实底条通栏，条内内容收进与 <main> 同一根 1280 栏。底色/边框/栏宽必须走 inline：
+    // 写进 CSS 会被 antd 同权重、后注入的样式静默盖掉（详见 globals.css 顶栏一节）。
+    <Header style={{ padding: 0, background: "var(--pp-card)", borderBottom: "2px solid var(--pp-line)", height: 48, lineHeight: "48px" }}>
+      <Flex className="pp-topbar" justify="space-between" align="center" style={{ maxWidth: 1280, marginInline: "auto", paddingInline: "clamp(16px, 4vw, 24px)" }}>
         <Link href={`/${locale}`} className="pp-wordmark">
           <span className="pp-blob" aria-hidden="true" />
           IMGPrompt
         </Link>
-        {/* minWidth 保底 = antd 溢出折叠触发器（···）的宽度。设 0 时窄屏下
-            Menu 会被右侧图标组挤成 12px，连折叠触发器都渲染不出来——整个主导航
-            在手机上不可达。 */}
-        <Menu selectedKeys={[currentMenuKey]} mode="horizontal" items={menuItems} style={{ flex: 1, minWidth: 46, border: "none", background: "transparent" }} />
-        <Space size="middle">
+        {/* 装不下时的兜底（min-width + 横滚）在 globals.css 的 `.pp-nav` 上，别删 */}
+        <nav className="pp-nav" aria-label="Primary">
+          <Menu selectedKeys={[currentMenuKey]} mode="horizontal" items={menuItems} style={{ flex: 1, minWidth: 0, border: "none", background: "transparent" }} />
+        </nav>
+        {/* size="small"：顶栏宽度是稀缺资源，四个图标按钮收紧到 8px 间距，
+            每档分辨率稳定给主导航多让出 24px。按钮各 40px 宽，不影响点击区。 */}
+        <Space size="small">
           <LanguageSelector />
 
           <Dropdown

@@ -70,7 +70,8 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
   };
 
   return (
-    <Flex vertical gap={16}>
+    // pp-side：桌面上整栏 sticky（见 globals.css），滚到已选/FAQ 时提示词仍在视野里
+    <Flex vertical gap={16} className="pp-side">
       {/* tabIndex=-1：跳转链接的落点，锚点跳过来时焦点真的落在这里，
           下一次 Tab 就进输入框（只设 id 的话焦点还留在链接上） */}
       <div className="pp-mixer" id="pp-prompt" tabIndex={-1}>

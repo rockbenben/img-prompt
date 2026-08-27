@@ -21,9 +21,8 @@ interface SectionTitleProps {
   gloss: string;
 }
 
-// 托盘头：candy 编号徽章 + 标题 + 英文小注。
-// 小注复刻标签「母语 + 英文」的双语骨架，所以只在非英文界面成立；en 下它退化成
-// "Subject SUBJECT"、甚至 "Category" 配 "FACET"（同一件事两个词），看着像出错。
+// 托盘头：编号徽章 + 标题 + 英文小注。小注复刻标签的「母语 + 英文」骨架，
+// 只在非英文界面成立 —— en 下会退化成 "Subject SUBJECT"，看着像出错。
 const SectionTitle: FC<SectionTitleProps & { showGloss: boolean }> = ({ index, title, gloss, showGloss }) => (
   <Flex align="center" gap={10}>
     <span aria-hidden="true" className={`pp-badge pp-badge-${index}`}>
@@ -216,9 +215,8 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
   return (
     <>
       <Row gutter={[18, 18]}>
-        {/* 6/24 的右栏在 992–1200 只有 ~230px：提示词框每行放不下 20 个字符、
-            翻译输入框的 placeholder 被截断，而右栏下方留着几百像素空白。
-            提示词是本工具的产出，按 8→7 给它实际可读的宽度。 */}
+        {/* 右栏给到 8/7 而不是 6：6/24 在 992–1200 只有 ~230px，提示词框一行放不下
+            20 个字符，而它是本工具的产出 */}
         <Col xs={24} lg={16} xl={17}>
           <Flex vertical gap={16}>
             <section className="pp-tray">
@@ -230,13 +228,17 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
 
             <section className="pp-tray">
               <div style={{ marginBottom: 13 }}>
-                <SectionTitle index={2} title={t("section2")} gloss="Facet" showGloss={showGloss} />
+                {/* 小注是标题的英文对照，不是另起一个词（曾写 "Facet"，德语用户
+                    看到的是「Kategorie FACET」） */}
+                <SectionTitle index={2} title={t("section2")} gloss="Category" showGloss={showGloss} />
               </div>
               <CategoryRadio className="pp-subs" items={attributes} value={activeAttribute} onChange={handleAttributeClick} />
             </section>
 
             <section className="pp-tray">
-              <Flex justify="space-between" align="center" gap={8} style={{ marginBottom: 10 }}>
+              {/* wrap：320px 的长语言里「多彩 / 单色」放不进标题右边，不许换行
+                  就把整页顶出横向滚动 */}
+              <Flex wrap justify="space-between" align="center" gap={8} style={{ marginBottom: 10 }}>
                 <SectionTitle index={3} title={t("section3")} gloss="Pick your pigments" showGloss={showGloss} />
                 <Segmented
                   size="small"
@@ -250,15 +252,12 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
               </Flex>
               <div style={{ maxHeight: "clamp(280px, 36vh, 400px)", overflowY: "auto" }}>
                 {/* 有标签就渲染，不拿网络状态当门槛：prompt-custom.json 的自定义标签
-                    已经打进包里、根本不需要网络，分块抓取失败时它们照样该能点。
-                    原来写成 status==="ready" 三元，自托管用户在 CDN 抽风时会连自己
-                    的词库一起看不到，重试按钮又只会反复打同一个坏 URL。 */}
+                    打进了包里，分块抓取失败时它们照样该能点 */}
                 {filteredTags.length > 0 && (
                   <TagSection tags={filteredTags} selectedNameSet={selectedNameSet} onTagClick={handleTagClick} mono={!useColorBlocks} />
                 )}
-                {/* 状态条常驻：aria-live 区域必须先存在于无障碍树里，之后内容变化才会被
-                    播报；容器连着文字一起插入的话读屏一个字都不念。ready 时这里是空
-                    div，由 .pp-tag-state:empty 压成 0 高，不占位 */}
+                {/* aria-live 容器必须常驻：连着文字一起插入的话读屏一个字都不念。
+                    空态由 .pp-tag-state:empty 压成 0 高 */}
                 <div className="pp-tag-state" role="status" aria-live="polite">
                   {tagsStatus === "loading" && (
                     <>
