@@ -53,24 +53,32 @@
 
 ## 已知限制
 
-- **翻译走的是免费公共接口**，不需要你出 API Key，代价是会被限流；MyMemory 还硬性拒绝超过 500 字节的文本。应用会沿着服务列表逐个降级，但长段落仍有可能整段翻不出来。
+- **翻译框是唯一会离开你浏览器的功能。** 你在那里输入的文字会发给免费公共接口，不需要你出 API Key，代价是会被限流；MyMemory 还硬性拒绝超过 500 字节的文本。应用会沿着服务列表逐个降级，但长段落仍有可能整段翻不出来。
 - **标签示意图由 CDN 提供。** 标签数据本身随应用打包，但悬停预览图需要联网才能加载，桌面客户端同样如此。
 
-## 本地开发与部署
+## 自托管
 
-Next.js 16（App Router + React Compiler）+ React 19 + TypeScript，Ant Design 6 与 Tailwind CSS 4，由 `next-intl` 按语种生成静态导出。Node 版本需要 `>=20.9.0`。
+镜像里装的是已经构建好的 18 语言站点，不需要本地构建：
 
 ```bash
-yarn install
-yarn dev          # http://localhost:3000
-yarn build        # 静态导出到 out/
-yarn build:lang   # 单语种构建（scripts/buildWithLang.js）
-yarn lint
+docker run -d -p 5666:5666 --name imgprompt ghcr.io/rockbenben/img-prompt:latest
 ```
 
-完整的安装、部署与 Docker 说明见[部署文档](https://prompt.newzone.top/zh/guide/deploy.html)。
+打开 `http://localhost:5666` 就是你自己的一份——放进 NAS、家庭服务器，或者一台不联外网的机器都行。仓库里带了 `docker-compose.yml`；应用本身是纯静态导出，扔进任意静态托管同样能跑。Node 版本、构建命令与 Vercel 部署见[部署文档](https://prompt.newzone.top/zh/guide/deploy.html)。
 
-欢迎 PR，较大的改动建议先开 Issue 讨论方向。提示词数据相关的贡献尤其欢迎——文件都是标准 JSON，不需要额外工具链，直接改就行。
+## 参与贡献
+
+最有用的贡献是词条，而且不需要任何工具链：每种语言就是 `src/app/data/prompt/` 下的一个 JSON 文件，给你的母语补一个词、改一处译法，都只是改一行。代码方面的技术栈是 Next.js 16 + React 19 + TypeScript，配 Ant Design 6 与 Tailwind CSS 4——改动较大时请先开 Issue。
+
+## Star History
+
+<a href="https://star-history.com/#rockbenben/img-prompt&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=rockbenben/img-prompt&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=rockbenben/img-prompt&type=Date" />
+    <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=rockbenben/img-prompt&type=Date" width="600" />
+  </picture>
+</a>
 
 ## 致谢与授权
 

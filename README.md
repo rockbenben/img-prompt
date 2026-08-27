@@ -53,24 +53,32 @@ The filter you are viewing is written into the URL (`?object=Character&attribute
 
 ## Limitations
 
-- **The translate box uses free public endpoints** and no API key of yours. They rate-limit, and MyMemory refuses anything over 500 bytes — the app falls through the provider list, but a long paragraph can still come back untranslated.
+- **The translate box is the one thing that leaves your browser.** What you type there is sent to free public endpoints, using no API key of yours. They rate-limit, and MyMemory refuses anything over 500 bytes — the app falls through the provider list, but a long paragraph can still come back untranslated.
 - **Tag preview images are served from a CDN.** The tag data itself ships with the app, but the hover previews need a network connection, including in the desktop build.
 
-## Development
+## Self-host
 
-Next.js 16 (App Router, React Compiler) + React 19 + TypeScript, Ant Design 6 and Tailwind CSS 4, with `next-intl` generating a static export per locale. Node `>=20.9.0`.
+The published image carries the finished 18-language site, so there is nothing to build:
 
 ```bash
-yarn install
-yarn dev          # http://localhost:3000
-yarn build        # static export into out/
-yarn build:lang   # single-locale build (scripts/buildWithLang.js)
-yarn lint
+docker run -d -p 5666:5666 --name imgprompt ghcr.io/rockbenben/img-prompt:latest
 ```
 
-Full installation, deployment and Docker instructions live in the [deployment guide](https://prompt.newzone.top/en/guide/deploy.html).
+Open `http://localhost:5666` and it is yours — on a NAS, a home server, or an air-gapped machine. A `docker-compose.yml` ships in the repo, and because the app is a plain static export, any static host works just as well. Node versions, build commands and Vercel steps are in the [deployment guide](https://prompt.newzone.top/en/guide/deploy.html).
 
-Pull requests are welcome; for major changes, open an issue first to discuss direction. Prompt data contributions — adding or refining tags for a language — are especially appreciated, and the files are plain JSON with no tooling required.
+## Contributing
+
+Tag contributions are the most useful kind, and they need no toolchain: every language is one JSON file under `src/app/data/prompt/`, so adding or correcting a term for your language is a single edit. For code, the stack is Next.js 16 + React 19 + TypeScript with Ant Design 6 and Tailwind CSS 4 — open an issue first if the change is a large one.
+
+## Star History
+
+<a href="https://star-history.com/#rockbenben/img-prompt&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=rockbenben/img-prompt&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=rockbenben/img-prompt&type=Date" />
+    <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=rockbenben/img-prompt&type=Date" width="600" />
+  </picture>
+</a>
 
 ## Credits and licensing
 
