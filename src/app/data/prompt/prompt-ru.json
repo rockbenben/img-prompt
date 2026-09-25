@@ -435,7 +435,7 @@
   },
   {
     "displayName": "cleric",
-    "langName": "Духовенство (христианское)",
+    "langName": "Клерик / Священник",
     "object": "Человек",
     "attribute": "Роль",
     "preview": "https://img.aishort.top/imgprompt/20260208072159895.webp"
@@ -541,14 +541,14 @@
   },
   {
     "displayName": "otoko_no_ko",
-    "langName": "Отоконоко (мальчик с женской внешностью)",
+    "langName": "Отоконоко",
     "object": "Человек",
     "attribute": "Роль",
     "preview": "https://img.aishort.top/imgprompt/20260208074725601.webp"
   },
   {
     "displayName": "gyaru",
-    "langName": "Горячие девушки (японские девушки)",
+    "langName": "Гяру",
     "object": "Человек",
     "attribute": "Роль",
     "preview": "https://img.aishort.top/imgprompt/20260210193812753.webp"
@@ -562,14 +562,14 @@
   },
   {
     "displayName": "yaoi",
-    "langName": "Будь геем",
+    "langName": "Яой / BL",
     "object": "Человек",
     "attribute": "Роль",
     "preview": "https://img.aishort.top/imgprompt/20260208074725603.webp"
   },
   {
     "displayName": "yuri",
-    "langName": "Лили",
+    "langName": "Юри / GL",
     "object": "Человек",
     "attribute": "Роль",
     "preview": "https://img.aishort.top/imgprompt/20260209061704191.webp"
@@ -646,7 +646,7 @@
   },
   {
     "displayName": "mazinger",
-    "langName": "чудо-женщина",
+    "langName": "Мазингер Зет",
     "object": "Человек",
     "attribute": "Аниме",
     "preview": "https://img.aishort.top/imgprompt/20260210072537640.webp"
@@ -772,7 +772,7 @@
   },
   {
     "displayName": "elf",
-    "langName": "гоблин",
+    "langName": "Эльф",
     "object": "Человек",
     "attribute": "Аниме",
     "preview": "https://img.aishort.top/imgprompt/20260209063126234.webp"
@@ -786,7 +786,7 @@
   },
   {
     "displayName": "fairy",
-    "langName": "эльф",
+    "langName": "Фея",
     "object": "Человек",
     "attribute": "Аниме",
     "preview": "https://img.aishort.top/imgprompt/20260209063141969.webp"
@@ -828,14 +828,14 @@
   },
   {
     "displayName": "monster_girl",
-    "langName": "Мать иностранца",
+    "langName": "Девушка-монстр",
     "object": "Человек",
     "attribute": "Аниме",
     "preview": "https://img.aishort.top/imgprompt/20260209063226407.webp"
   },
   {
     "displayName": "dominatrix",
-    "langName": "Королева (SM средний)",
+    "langName": "Доминатрикс",
     "object": "Человек",
     "attribute": "Аниме",
     "preview": "https://img.aishort.top/imgprompt/20260209063233422.webp"
@@ -968,21 +968,21 @@
   },
   {
     "displayName": "horse_girl",
-    "langName": "Ма Ньянг",
+    "langName": "Девушка-лошадь",
     "object": "Человек",
     "attribute": "Аниме",
     "preview": "https://img.aishort.top/imgprompt/20260210072537637.webp"
   },
   {
     "displayName": "furry",
-    "langName": "орк",
+    "langName": "Фурри / Антропоморф",
     "object": "Человек",
     "attribute": "Аниме",
     "preview": "https://img.aishort.top/imgprompt/20260210072537632.webp"
   },
   {
     "displayName": "furry/orc",
-    "langName": "Орки/Орки",
+    "langName": "Фурри / Орк",
     "object": "Человек",
     "attribute": "Аниме",
     "preview": "https://img.aishort.top/imgprompt/20260210072537646.webp"
@@ -1010,14 +1010,14 @@
   },
   {
     "displayName": "mesugaki",
-    "langName": "самка чертенка",
+    "langName": "Мэсугаки",
     "object": "Человек",
     "attribute": "Аниме",
     "preview": "https://img.aishort.top/imgprompt/20260210072537644.webp"
   },
   {
     "displayName": "santa alter",
-    "langName": "Санта Клаус",
+    "langName": "Санта Альтер",
     "object": "Человек",
     "attribute": "Аниме",
     "preview": "https://img.aishort.top/imgprompt/20260210072537639.webp"
@@ -1052,7 +1052,7 @@
   },
   {
     "displayName": "kindergartener",
-    "langName": "детский сад",
+    "langName": "Детсадовец / Ребёнок",
     "object": "Человек",
     "attribute": "Возраст",
     "preview": "https://img.aishort.top/imgprompt/20260210192804244.webp"
@@ -1073,14 +1073,14 @@
   },
   {
     "displayName": "early teen",
-    "langName": "Ранний подростковый возраст (11-15)",
+    "langName": "Ранний подростковый возраст",
     "object": "Человек",
     "attribute": "Возраст",
     "preview": "https://img.aishort.top/imgprompt/20260210192804238.webp"
   },
   {
     "displayName": "teenager",
-    "langName": "Подростки (13-19)",
+    "langName": "Подросток",
     "object": "Человек",
     "attribute": "Возраст",
     "preview": "https://img.aishort.top/imgprompt/20260210192804240.webp"
@@ -1192,7 +1192,7 @@
   },
   {
     "displayName": "tanlines",
-    "langName": "повреждение от солнца",
+    "langName": "Следы загара",
     "object": "Человек",
     "attribute": "Кожа",
     "preview": "https://img.aishort.top/imgprompt/20260210193621164.webp"
@@ -1297,7 +1297,7 @@
   },
   {
     "displayName": "chibi",
-    "langName": "Стиль печати Mengmeng/Q",
+    "langName": "Милый стиль чиби",
     "object": "Человек",
     "attribute": "Фигура",
     "preview": "https://img.aishort.top/imgprompt/20260210195122885.webp"
@@ -1829,7 +1829,7 @@
   },
   {
     "displayName": "braided bangs",
-    "langName": "косички челки",
+    "langName": "Челка-косичка",
     "object": "Человек",
     "attribute": "Прическа",
     "preview": "https://img.aishort.top/imgprompt/20260211134418672.webp"
@@ -1955,7 +1955,7 @@
   },
   {
     "displayName": "blunt bangs",
-    "langName": "Ци челки",
+    "langName": "Прямая челка",
     "object": "Человек",
     "attribute": "Прическа",
     "preview": "https://img.aishort.top/imgprompt/20260211134928539.webp"
@@ -1976,7 +1976,7 @@
   },
   {
     "displayName": "air bangs",
-    "langName": "воздушные удары",
+    "langName": "Легкая челка",
     "object": "Человек",
     "attribute": "Прическа",
     "preview": "https://img.aishort.top/imgprompt/20260211135006710.webp"
@@ -2004,7 +2004,7 @@
   },
   {
     "displayName": "side_blunt_bangs",
-    "langName": "боковые воздушные удары",
+    "langName": "Боковая воздушная челка",
     "object": "Человек",
     "attribute": "Прическа",
     "preview": "https://img.aishort.top/imgprompt/20260211135057869.webp"
@@ -2081,7 +2081,7 @@
   },
   {
     "displayName": "ahoge",
-    "langName": "Тупой",
+    "langName": "Ахоге",
     "object": "Человек",
     "attribute": "Прическа",
     "preview": "https://img.aishort.top/imgprompt/20260211135331864.webp"
@@ -2214,7 +2214,7 @@
   },
   {
     "displayName": "mole",
-    "langName": "крот",
+    "langName": "Родинка",
     "object": "Человек",
     "attribute": "Лицо",
     "preview": "https://img.aishort.top/imgprompt/20260317125729198.webp"
@@ -2767,7 +2767,7 @@
   },
   {
     "displayName": "eye_relfection",
-    "langName": "Глазной рефлекс (реакция зрачка на свет)",
+    "langName": "Блик в глазах",
     "object": "Человек",
     "attribute": "Глаза",
     "preview": "https://img.aishort.top/imgprompt/20260211141526968.webp"
@@ -2970,7 +2970,7 @@
   },
   {
     "displayName": "solid_oval_eyes",
-    "langName": "Q-версия, сплошные овальные глаза",
+    "langName": "Сплошные овальные глаза чиби",
     "object": "Человек",
     "attribute": "Глаза",
     "preview": "https://img.aishort.top/imgprompt/20260211142239019.webp"
@@ -2984,7 +2984,7 @@
   },
   {
     "displayName": "blush_stickers",
-    "langName": "наклейка румян Q-версии",
+    "langName": "Чиби-наклейки румянца",
     "object": "Человек",
     "attribute": "Глаза",
     "preview": "https://img.aishort.top/imgprompt/20260211142304171.webp"
@@ -3019,14 +3019,14 @@
   },
   {
     "displayName": "sanpaku",
-    "langName": "Синдром тройного белого (смещение зрачка)",
+    "langName": "Санпаку",
     "object": "Человек",
     "attribute": "Глаза",
     "preview": "https://img.aishort.top/imgprompt/20260211142408606.webp"
   },
   {
     "displayName": "flaming_eye",
-    "langName": "Хомура",
+    "langName": "Пылающие глаза",
     "object": "Человек",
     "attribute": "Глаза",
     "preview": "https://img.aishort.top/imgprompt/20260211142422174.webp"
@@ -3082,7 +3082,7 @@
   },
   {
     "displayName": "half_closed_eye",
-    "langName": "Полузакрытый глаз (один глаз)",
+    "langName": "Полуприкрытый глаз",
     "object": "Человек",
     "attribute": "Глаза",
     "preview": "https://img.aishort.top/imgprompt/20260211142557836.webp"
@@ -3180,14 +3180,14 @@
   },
   {
     "displayName": "no_blindfold",
-    "langName": "Удален (оригинальный) элемент повязки на глаза.",
+    "langName": "Без повязки на глазах",
     "object": "Человек",
     "attribute": "Глаза",
     "preview": "https://img.aishort.top/imgprompt/20260211220153156.webp"
   },
   {
     "displayName": "no_eyepatch",
-    "langName": "Удалил (существующую) маску для глаз",
+    "langName": "Без глазной повязки",
     "object": "Человек",
     "attribute": "Глаза",
     "preview": "https://img.aishort.top/imgprompt/20260211142907966.webp"
@@ -3264,7 +3264,7 @@
   },
   {
     "displayName": "solid_circle_pupils",
-    "langName": "Q-версия со сплошными круглыми зрачками",
+    "langName": "Сплошные круглые зрачки чиби",
     "object": "Человек",
     "attribute": "Зрачки",
     "preview": "https://img.aishort.top/imgprompt/20260211143127812.webp"
@@ -3292,7 +3292,7 @@
   },
   {
     "displayName": "snake_pupils",
-    "langName": "Змеиные зрачки (мигание зрачков)",
+    "langName": "Змеиные зрачки",
     "object": "Человек",
     "attribute": "Зрачки",
     "preview": "https://img.aishort.top/imgprompt/20260317093813015.webp"
@@ -3376,7 +3376,7 @@
   },
   {
     "displayName": "cross-shaped_pupils",
-    "langName": "Символические зрачки (без эффекта)",
+    "langName": "Крестообразные зрачки",
     "object": "Человек",
     "attribute": "Зрачки",
     "preview": "https://img.aishort.top/imgprompt/20260211143449975.webp"
@@ -3670,7 +3670,7 @@
   },
   {
     "displayName": "gasping",
-    "langName": "Задыхаясь (открывая рот)",
+    "langName": "Затаив дыхание / Ахнув",
     "object": "Человек",
     "attribute": "Рот",
     "preview": "https://img.aishort.top/imgprompt/20260317100011869.webp"
@@ -3726,7 +3726,7 @@
   },
   {
     "displayName": ":3",
-    "langName": "Маозуй",
+    "langName": "Кошачий рот",
     "object": "Человек",
     "attribute": "Рот",
     "preview": "https://img.aishort.top/imgprompt/20260317100112576.webp"
@@ -3761,7 +3761,7 @@
   },
   {
     "displayName": "chestnut_mouth",
-    "langName": "Лизизуи",
+    "langName": "Треугольный рот",
     "object": "Человек",
     "attribute": "Рот",
     "preview": "https://img.aishort.top/imgprompt/20260211144640830.webp"
@@ -3817,7 +3817,7 @@
   },
   {
     "displayName": "homu",
-    "langName": "Надутые губки | Надутые губки",
+    "langName": "Надутые губки",
     "object": "Человек",
     "attribute": "Рот",
     "preview": "https://img.aishort.top/imgprompt/20260211144827721.webp"
@@ -3901,7 +3901,7 @@
   },
   {
     "displayName": "mouth_drool",
-    "langName": "В углу рта имеется щель в форме капли слюны.",
+    "langName": "Слюна в уголке рта",
     "object": "Человек",
     "attribute": "Рот",
     "preview": "https://img.aishort.top/imgprompt/20260317100321880.webp"
@@ -3964,7 +3964,7 @@
   },
   {
     "displayName": "fang_out",
-    "langName": "Обнажить клыки | Обнажить клыки",
+    "langName": "Обнажить клыки",
     "object": "Человек",
     "attribute": "Зубы",
     "preview": "https://img.aishort.top/imgprompt/20260317100418214.webp"
@@ -4048,7 +4048,7 @@
   },
   {
     "displayName": "uvula",
-    "langName": "язычок | язычок | язычок",
+    "langName": "язычок",
     "object": "Человек",
     "attribute": "Язык",
     "preview": "https://img.aishort.top/imgprompt/20260211145547542.webp"
@@ -4111,7 +4111,7 @@
   },
   {
     "displayName": "nail",
-    "langName": "Гвозди | Гвозди",
+    "langName": "Ногти",
     "object": "Человек",
     "attribute": "Ногти",
     "preview": "https://img.aishort.top/imgprompt/20260211145741915.webp"
@@ -4167,42 +4167,42 @@
   },
   {
     "displayName": "flat chest",
-    "langName": "Маленькая грудь (А)",
+    "langName": "Плоская грудь",
     "object": "Человек",
     "attribute": "Грудь",
     "preview": "https://img.aishort.top/imgprompt/20260212064123283.webp"
   },
   {
     "displayName": "small_breasts",
-    "langName": "Маленькие сиськи (Б)",
+    "langName": "Маленькая грудь",
     "object": "Человек",
     "attribute": "Грудь",
     "preview": "https://img.aishort.top/imgprompt/20260212071540871.webp"
   },
   {
     "displayName": "medium breasts",
-    "langName": "Средняя грудь (С)",
+    "langName": "Средняя грудь",
     "object": "Человек",
     "attribute": "Грудь",
     "preview": "https://img.aishort.top/imgprompt/20260212071540873.webp"
   },
   {
     "displayName": "big breasts",
-    "langName": "Большие сиськи (D)",
+    "langName": "Большая грудь",
     "object": "Человек",
     "attribute": "Грудь",
     "preview": "https://img.aishort.top/imgprompt/20260212071540872.webp"
   },
   {
     "displayName": "huge breasts",
-    "langName": "Большая грудь (Е)",
+    "langName": "Очень большая грудь",
     "object": "Человек",
     "attribute": "Грудь",
     "preview": "https://img.aishort.top/imgprompt/20260212071540870.webp"
   },
   {
     "displayName": "gigantic breasts",
-    "langName": "Очень большая грудь (Ж)",
+    "langName": "Гигантская грудь",
     "object": "Человек",
     "attribute": "Грудь",
     "preview": "https://img.aishort.top/imgprompt/20260212071540874.webp"
@@ -4334,7 +4334,7 @@
   },
   {
     "displayName": "toe-point",
-    "langName": "кончик пальца ноги | кончик пальца ноги",
+    "langName": "кончик пальца ноги",
     "object": "Человек",
     "attribute": "Ступни",
     "preview": "https://img.aishort.top/imgprompt/20260211150409118.webp"
@@ -4383,7 +4383,7 @@
   },
   {
     "displayName": "detached_wings",
-    "langName": "Крылья, не соединенные с телом",
+    "langName": "Парящие / Отдельные крылья",
     "object": "Человек",
     "attribute": "Крылья",
     "preview": "https://img.aishort.top/imgprompt/20260211150537125.webp"
@@ -4453,7 +4453,7 @@
   },
   {
     "displayName": "no_wings",
-    "langName": "Удалены (оригинальные) крылья",
+    "langName": "Без крыльев",
     "object": "Человек",
     "attribute": "Крылья",
     "preview": "https://img.aishort.top/imgprompt/20260212072704705.webp"
@@ -4579,7 +4579,7 @@
   },
   {
     "displayName": "foral_background",
-    "langName": "Цветочный узор декоративный фон",
+    "langName": "Фон с цветочным узором",
     "object": "Окружение",
     "attribute": "Фон",
     "preview": "https://img.aishort.top/imgprompt/20260211151130102.webp"
@@ -4698,7 +4698,7 @@
   },
   {
     "displayName": "rounded_corners",
-    "langName": "Фон или рамка имеют закругленные углы.",
+    "langName": "Скругленные углы",
     "object": "Окружение",
     "attribute": "Фон",
     "preview": "https://img.aishort.top/imgprompt/20260211151506847.webp"
@@ -4712,7 +4712,7 @@
   },
   {
     "displayName": "outside_border",
-    "langName": "Часть картины находится за пределами фоновой рамы.",
+    "langName": "Выход за рамку",
     "object": "Окружение",
     "attribute": "Фон",
     "preview": "https://img.aishort.top/imgprompt/20260211151532945.webp"
@@ -4726,7 +4726,7 @@
   },
   {
     "displayName": "windowboxed",
-    "langName": "Набор рамок для фотографий (фон)",
+    "langName": "Оконная рамка",
     "object": "Окружение",
     "attribute": "Фон",
     "preview": "https://img.aishort.top/imgprompt/20260211151559726.webp"
@@ -4929,7 +4929,7 @@
   },
   {
     "displayName": "beautiful detailed sky,beautiful detailed water",
-    "langName": "Хорошая погода и хорошая вода",
+    "langName": "Детализированное небо и вода",
     "object": "Окружение",
     "attribute": "Природа",
     "preview": "https://img.aishort.top/imgprompt/20260211152348882.webp"
@@ -4992,7 +4992,7 @@
   },
   {
     "displayName": "Dreamy forest",
-    "langName": "Лес мечты (нереальный смысл. Тихие частицы света)",
+    "langName": "Сказочный лес",
     "object": "Окружение",
     "attribute": "Природа",
     "preview": "https://img.aishort.top/imgprompt/20260211152548353.webp"
@@ -5293,7 +5293,7 @@
   },
   {
     "displayName": "star_(sky)",
-    "langName": "звёзды (на небе)",
+    "langName": "Звезды на небе",
     "object": "Окружение",
     "attribute": "Небо",
     "preview": "https://img.aishort.top/imgprompt/20260211153554967.webp"
@@ -5643,7 +5643,7 @@
   },
   {
     "displayName": "stratus_undulatus",
-    "langName": "Wavestratus",
+    "langName": "Волнисто-слоистые облака",
     "object": "Окружение",
     "attribute": "Облака",
     "preview": "https://img.aishort.top/imgprompt/20260211154633096.webp"
@@ -5699,7 +5699,7 @@
   },
   {
     "displayName": "cumulus_congestus",
-    "langName": "Cumulus congestus",
+    "langName": "Мощно-кучевые облака",
     "object": "Окружение",
     "attribute": "Облака",
     "preview": "https://img.aishort.top/imgprompt/20260211154815121.webp"
@@ -5923,7 +5923,7 @@
   },
   {
     "displayName": "rappelling",
-    "langName": "Выравнивание (подвешивание)",
+    "langName": "Дюльфер",
     "object": "Окружение",
     "attribute": "На открытом воздухе",
     "preview": "https://img.aishort.top/imgprompt/20260211155514112.webp"
@@ -7589,7 +7589,7 @@
   },
   {
     "displayName": "school_bag",
-    "langName": "Школьная сумка (рюкзак)",
+    "langName": "Школьная сумка",
     "object": "Предметы",
     "attribute": "Школьные принадлежности",
     "preview": "https://img.aishort.top/imgprompt/20260211164633641.webp"
@@ -7820,14 +7820,14 @@
   },
   {
     "displayName": "diamond_(shape)",
-    "langName": "ромб(форма)",
+    "langName": "Форма ромба",
     "object": "Предметы",
     "attribute": "Другие предметы",
     "preview": "https://img.aishort.top/imgprompt/20260211165329674.webp"
   },
   {
     "displayName": "chibi_inset",
-    "langName": "чиби-иллюстрация",
+    "langName": "Врезка с чиби",
     "object": "Предметы",
     "attribute": "Другие предметы",
     "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
@@ -7932,7 +7932,7 @@
   },
   {
     "displayName": "sword",
-    "langName": "нож",
+    "langName": "Меч",
     "object": "Предметы",
     "attribute": "Оружие",
     "preview": "https://img.aishort.top/imgprompt/20260211165652659.webp"
@@ -7960,7 +7960,7 @@
   },
   {
     "displayName": "saber_(weapon)",
-    "langName": "сабля (оружие)",
+    "langName": "Сабля",
     "object": "Предметы",
     "attribute": "Оружие",
     "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
@@ -7988,7 +7988,7 @@
   },
   {
     "displayName": "stake",
-    "langName": "палка",
+    "langName": "Деревянный кол",
     "object": "Предметы",
     "attribute": "Оружие",
     "preview": "https://img.aishort.top/imgprompt/20260211165832380.webp"
@@ -8030,7 +8030,7 @@
   },
   {
     "displayName": "claw_(weapon)",
-    "langName": "коготь (оружие)",
+    "langName": "Боевые когти",
     "object": "Предметы",
     "attribute": "Оружие",
     "preview": "https://img.aishort.top/imgprompt/20260211165949084.webp"
@@ -8065,7 +8065,7 @@
   },
   {
     "displayName": "magazine_(weapon)",
-    "langName": "магазин (оружие)",
+    "langName": "Оружейный магазин",
     "object": "Предметы",
     "attribute": "Оружие",
     "preview": "https://img.aishort.top/imgprompt/20260211170050212.webp"
@@ -8100,7 +8100,7 @@
   },
   {
     "displayName": "tank",
-    "langName": "танк",
+    "langName": "Танк",
     "object": "Предметы",
     "attribute": "Оружие",
     "preview": "https://img.aishort.top/imgprompt/20260211170154753.webp"
@@ -9059,7 +9059,7 @@
   },
   {
     "displayName": "shell",
-    "langName": "оболочка",
+    "langName": "Ракушка",
     "object": "Предметы",
     "attribute": "Животные",
     "preview": "https://img.aishort.top/imgprompt/20260211173051134.webp"
@@ -9332,7 +9332,7 @@
   },
   {
     "displayName": "Tree Bark",
-    "langName": "лаять",
+    "langName": "Кора дерева",
     "object": "Предметы",
     "attribute": "Растения",
     "preview": "https://img.aishort.top/imgprompt/20260211173914807.webp"
@@ -9444,7 +9444,7 @@
   },
   {
     "displayName": "leaning",
-    "langName": "Бережливый | Бережливый",
+    "langName": "Бережливый",
     "object": "Действие",
     "attribute": "Основные позы",
     "preview": "https://img.aishort.top/imgprompt/20260211174241891.webp"
@@ -9563,7 +9563,7 @@
   },
   {
     "displayName": "the_pose",
-    "langName": "Лягте на пол и поднимите ноги.",
+    "langName": "Лежа на животе с поднятыми ногами",
     "object": "Действие",
     "attribute": "Основные позы",
     "preview": "https://img.aishort.top/imgprompt/20260211174615259.webp"
@@ -9591,14 +9591,14 @@
   },
   {
     "displayName": "fetal_position",
-    "langName": "Поза плода (лежа)",
+    "langName": "Поза эмбриона",
     "object": "Действие",
     "attribute": "Основные позы",
     "preview": "https://img.aishort.top/imgprompt/20260211174706202.webp"
   },
   {
     "displayName": "against_glass",
-    "langName": "выдавливание стекла (недействительно)",
+    "langName": "Прислонившись к стеклу",
     "object": "Действие",
     "attribute": "Основные позы",
     "preview": "https://img.aishort.top/imgprompt/20260211174718789.webp"
@@ -9612,7 +9612,7 @@
   },
   {
     "displayName": "presenting",
-    "langName": "Дисплей (задняя часть)",
+    "langName": "Демонстрационная поза",
     "object": "Действие",
     "attribute": "Основные позы",
     "preview": "https://img.aishort.top/imgprompt/20260211174744336.webp"
@@ -9675,7 +9675,7 @@
   },
   {
     "displayName": "eye_contact",
-    "langName": "Зрительный контакт (смотрим друг на друга)",
+    "langName": "Зрительный контакт",
     "object": "Действие",
     "attribute": "Взгляд",
     "preview": "https://img.aishort.top/imgprompt/20260211174937637.webp"
@@ -9836,7 +9836,7 @@
   },
   {
     "displayName": "aiming_at_viewer",
-    "langName": "Нацельтесь на читателя (перспектива)",
+    "langName": "Целится в зрителя",
     "object": "Действие",
     "attribute": "Взгляд",
     "preview": "https://img.aishort.top/imgprompt/20260211175428502.webp"
@@ -9934,7 +9934,7 @@
   },
   {
     "displayName": "hands_clasped",
-    "langName": "Скрещенные пальцы обеих рук | Сжатые руки",
+    "langName": "Сцепленные пальцы рук",
     "object": "Действие",
     "attribute": "Движения рук",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
@@ -9969,7 +9969,7 @@
   },
   {
     "displayName": "hands_in_opposite_sleeves",
-    "langName": "Скрестите руки и спрячьте их в рукава.",
+    "langName": "Руки спрятаны в рукавах",
     "object": "Действие",
     "attribute": "Движения рук",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
@@ -10095,7 +10095,7 @@
   },
   {
     "displayName": "covering_xx",
-    "langName": "обложка хх",
+    "langName": "Прикрытие определенной части",
     "object": "Действие",
     "attribute": "Движения рук",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
@@ -10172,14 +10172,14 @@
   },
   {
     "displayName": "waving",
-    "langName": "помахать рукой (поздороваться/попрощаться)",
+    "langName": "Махать рукой",
     "object": "Действие",
     "attribute": "Жесты",
     "preview": "https://img.aishort.top/imgprompt/20260211180434501.webp"
   },
   {
     "displayName": "pointing_at_viewer",
-    "langName": "Укажите на человека, смотрящего на картинку.",
+    "langName": "Указывает пальцем на зрителя",
     "object": "Действие",
     "attribute": "Жесты",
     "preview": "https://img.aishort.top/imgprompt/20260211180447245.webp"
@@ -10249,7 +10249,7 @@
   },
   {
     "displayName": "reaching",
-    "langName": "Протянуть руку (целенаправленно)",
+    "langName": "Протягивать руку",
     "object": "Действие",
     "attribute": "Жесты",
     "preview": "https://img.aishort.top/imgprompt/20260211180655272.webp"
@@ -10270,7 +10270,7 @@
   },
   {
     "displayName": "shushing",
-    "langName": "жест &quot;тссс&quot;",
+    "langName": "жест \"тссс\"",
     "object": "Действие",
     "attribute": "Жесты",
     "preview": "https://img.aishort.top/imgprompt/20260211180734175.webp"
@@ -10312,7 +10312,7 @@
   },
   {
     "displayName": "paw_pose",
-    "langName": "Поза кошачьей лапы (запястье согнуто)",
+    "langName": "Поза кошачьей лапки",
     "object": "Действие",
     "attribute": "Жесты",
     "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
@@ -10347,7 +10347,7 @@
   },
   {
     "displayName": "fingersmile",
-    "langName": "Сделай пальцами смайлик",
+    "langName": "Улыбка с помощью пальцев",
     "object": "Действие",
     "attribute": "Жесты",
     "preview": "https://img.aishort.top/imgprompt/20260211180951696.webp"
@@ -10368,7 +10368,7 @@
   },
   {
     "displayName": "double_fox_shadow_puppet",
-    "langName": "Кукла-тень Double Fox",
+    "langName": "Театр теней: две лисы",
     "object": "Действие",
     "attribute": "Жесты",
     "preview": "https://img.aishort.top/imgprompt/20260211181029100.webp"
@@ -10634,7 +10634,7 @@
   },
   {
     "displayName": "holding_eyewear",
-    "langName": "Держать очки | Снимать очки",
+    "langName": "Держать очки / Поправлять",
     "object": "Действие",
     "attribute": "Предмет в руках",
     "preview": "https://img.aishort.top/imgprompt/20260211181827087.webp"
@@ -10956,21 +10956,21 @@
   },
   {
     "displayName": "hands_on_another's",
-    "langName": "Положи руки на лицо другого человека",
+    "langName": "Руки на лице другого",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
-    "langName": "Положите руки друг другу на щеки.",
+    "langName": "Руки на щеках другого",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
-    "langName": "Положи руки на плечи кому-нибудь другому",
+    "langName": "Руки на плечах другого",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
@@ -11026,7 +11026,7 @@
   },
   {
     "displayName": "hands_on_hips",
-    "langName": "руки на бедрах | руки на бедрах",
+    "langName": "руки на бедрах",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260213094956459.webp"
@@ -11068,7 +11068,7 @@
   },
   {
     "displayName": "grabbing_from_behind",
-    "langName": "Потри грудь сзади | Схватить грудь сзади",
+    "langName": "Хват за грудь сзади",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
@@ -11110,14 +11110,14 @@
   },
   {
     "displayName": "hands_on_headwear",
-    "langName": "Прикосновение к украшениям на голове обеими руками",
+    "langName": "Руки на головном уборе",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
-    "langName": "Положите руки на рукоятку ножа.",
+    "langName": "Обе руки на рукояти меча",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
@@ -11131,7 +11131,7 @@
   },
   {
     "displayName": "neckwear_grab",
-    "langName": "Сжимая одежду вокруг шеи",
+    "langName": "Хват за воротник",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
@@ -11173,7 +11173,7 @@
   },
   {
     "displayName": "hand_in_another's_hair",
-    "langName": "Положи руки на волосы другого человека.",
+    "langName": "Рука в волосах другого",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
@@ -11208,35 +11208,35 @@
   },
   {
     "displayName": "hand_on_another's_chest",
-    "langName": "Положите руки на грудь другого человека.",
+    "langName": "Рука на груди другого",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260211183718013.webp"
   },
   {
     "displayName": "hand_on_another's_chin",
-    "langName": "Возьмитесь рукой за подбородок другого человека.",
+    "langName": "Рука на подбородке другого",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
   },
   {
     "displayName": "hand_on_another's_head",
-    "langName": "Положите руки на голову другого человека.",
+    "langName": "Рука на голове другого",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260211183743006.webp"
   },
   {
     "displayName": "hand_on_another's_shoulder",
-    "langName": "Положите руки на плечи другого человека.",
+    "langName": "Рука на плече другого",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260211183755722.webp"
   },
   {
     "displayName": "hand_on_another's_stomach",
-    "langName": "Положите руки на живот другого человека.",
+    "langName": "Рука на животе другого",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
@@ -11264,14 +11264,14 @@
   },
   {
     "displayName": "hand_on_hilt",
-    "langName": "Рука лежит на рукояти ножа",
+    "langName": "Рука на эфесе / рукояти",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
   },
   {
     "displayName": "hand_on_hip",
-    "langName": "руки на бедрах | руки на бедрах",
+    "langName": "руки на бедрах",
     "object": "Действие",
     "attribute": "Объятия и захваты",
     "preview": "https://img.aishort.top/imgprompt/20260211183911177.webp"
@@ -11404,14 +11404,14 @@
   },
   {
     "displayName": "standing_split",
-    "langName": "Шпагат стоя | Подъемы ног стоя",
+    "langName": "Вертикальный шпагат",
     "object": "Действие",
     "attribute": "Движения ног",
     "preview": "https://img.aishort.top/imgprompt/20260211184306372.webp"
   },
   {
     "displayName": "curtsy",
-    "langName": "Реверанс (приветствие горничной)",
+    "langName": "Реверанс",
     "object": "Действие",
     "attribute": "Движения ног",
     "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
@@ -11502,7 +11502,7 @@
   },
   {
     "displayName": "folded",
-    "langName": "Поднимите ноги, чтобы обнажить влагалище.",
+    "langName": "Поза с поджатыми ногами",
     "object": "Действие",
     "attribute": "Движения ног",
     "preview": "https://img.aishort.top/imgprompt/20260211184601937.webp"
@@ -11544,7 +11544,7 @@
   },
   {
     "displayName": "k/da_(league_of_legends)",
-    "langName": "Команда KDA (Лига Легенд)",
+    "langName": "K/DA (League of Legends)",
     "object": "Действие",
     "attribute": "Движения ног",
     "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
@@ -11705,14 +11705,14 @@
   },
   {
     "displayName": "tail_between_legs",
-    "langName": "Хвост закручен между ног.",
+    "langName": "Хвост поджат между ног",
     "object": "Действие",
     "attribute": "Движения ног",
     "preview": "https://img.aishort.top/imgprompt/20260225100419147.webp"
   },
   {
     "displayName": "covering",
-    "langName": "акт покрытия",
+    "langName": "Прикрывающий жест",
     "object": "Действие",
     "attribute": "Прикосновение",
     "preview": "https://img.aishort.top/imgprompt/20260211185216454.webp"
@@ -11922,14 +11922,14 @@
   },
   {
     "displayName": "spitting",
-    "langName": "акт выплевывания жидкости изо рта",
+    "langName": "Сплевывание жидкости",
     "object": "Действие",
     "attribute": "Реакция тела",
     "preview": "https://img.aishort.top/imgprompt/20260211185836921.webp"
   },
   {
     "displayName": "spilling",
-    "langName": "Процесс выливания жидкости из емкости.",
+    "langName": "Проливание жидкости",
     "object": "Действие",
     "attribute": "Реакция тела",
     "preview": "https://img.aishort.top/imgprompt/20260211185849710.webp"
@@ -12006,7 +12006,7 @@
   },
   {
     "displayName": "dropping",
-    "langName": "(случайное) падение",
+    "langName": "Выронить / Падение",
     "object": "Действие",
     "attribute": "Реакция тела",
     "preview": "https://img.aishort.top/imgprompt/20260211190102259.webp"
@@ -12055,7 +12055,7 @@
   },
   {
     "displayName": "lifted_by_another",
-    "langName": "Поднятие за одежду другого человека",
+    "langName": "Одежду поднимает другой",
     "object": "Действие",
     "attribute": "Реакция тела",
     "preview": "https://img.aishort.top/imgprompt/20260211190232075.webp"
@@ -12111,7 +12111,7 @@
   },
   {
     "displayName": "drying",
-    "langName": "Сухой (после купания)",
+    "langName": "Вытираться полотенцем",
     "object": "Действие",
     "attribute": "Повседневная жизнь",
     "preview": "https://img.aishort.top/imgprompt/20260211190415978.webp"
@@ -12125,14 +12125,14 @@
   },
   {
     "displayName": "cleaning",
-    "langName": "убирать |",
+    "langName": "убирать",
     "object": "Действие",
     "attribute": "Повседневная жизнь",
     "preview": "https://img.aishort.top/imgprompt/20260211190440252.webp"
   },
   {
     "displayName": "sweeping",
-    "langName": "Уборка | Подметание (работа по дому)",
+    "langName": "Подметание / Уборка",
     "object": "Действие",
     "attribute": "Повседневная жизнь",
     "preview": "https://img.aishort.top/imgprompt/20260211190452774.webp"
@@ -12258,7 +12258,7 @@
   },
   {
     "displayName": "sleeping_upright",
-    "langName": "(не лежа) спать | спать в вертикальном положении",
+    "langName": "Сон сидя или стоя",
     "object": "Действие",
     "attribute": "Повседневная жизнь",
     "preview": "https://img.aishort.top/imgprompt/20260211190844518.webp"
@@ -12412,14 +12412,14 @@
   },
   {
     "displayName": "shared_food",
-    "langName": "Делиться едой | Кормление изо рта в рот",
+    "langName": "Делиться едой / Кормить",
     "object": "Действие",
     "attribute": "Эмоциональное взаимодействие",
     "preview": "https://img.aishort.top/imgprompt/20260211191325544.webp"
   },
   {
     "displayName": "shared_bathing",
-    "langName": "Совместное купание | Купание в Юаньяне",
+    "langName": "Совместное купание",
     "object": "Действие",
     "attribute": "Эмоциональное взаимодействие",
     "preview": "https://img.aishort.top/imgprompt/20260211191338217.webp"
@@ -12461,14 +12461,14 @@
   },
   {
     "displayName": "asymmetrical_docking",
-    "langName": "груди соприкасаются | груди соприкасаются груди",
+    "langName": "Соприкосновение грудями",
     "object": "Действие",
     "attribute": "Эмоциональное взаимодействие",
     "preview": "https://img.aishort.top/imgprompt/20260211191454771.webp"
   },
   {
     "displayName": "special_feeling_(meme)",
-    "langName": "Влюбленные держат зонтик в снегу",
+    "langName": "Мем 'Особая атмосфера'",
     "object": "Действие",
     "attribute": "Эмоциональное взаимодействие",
     "preview": "https://img.aishort.top/imgprompt/20260211191507001.webp"
@@ -12608,7 +12608,7 @@
   },
   {
     "displayName": "wrestling",
-    "langName": "борьба (спорт)",
+    "langName": "Реслинг / Борьба",
     "object": "Действие",
     "attribute": "Спорт и фитнес",
     "preview": "https://img.aishort.top/imgprompt/20260211191925002.webp"
@@ -12818,7 +12818,7 @@
   },
   {
     "displayName": "skirt_flip",
-    "langName": "Юбка поднята (включая аварийное значение)",
+    "langName": "Задирание юбки",
     "object": "Действие",
     "attribute": "Действия с одеждой",
     "preview": "https://img.aishort.top/imgprompt/20260317125226840.webp"
@@ -12895,7 +12895,7 @@
   },
   {
     "displayName": "tying",
-    "langName": "Завязать узел (действие)",
+    "langName": "Завязывание узла",
     "object": "Действие",
     "attribute": "Действия с одеждой",
     "preview": "https://img.aishort.top/imgprompt/20260211192806302.webp"
@@ -12930,7 +12930,7 @@
   },
   {
     "displayName": "pulled_by_another",
-    "langName": "Тянут за собой",
+    "langName": "Когда тянет другой",
     "object": "Действие",
     "attribute": "Действия с одеждой",
     "preview": "https://img.aishort.top/imgprompt/20260317125423077.webp"
@@ -12993,7 +12993,7 @@
   },
   {
     "displayName": "holding_bow_(weapon)",
-    "langName": "Держит лук (оружие)",
+    "langName": "Держит лук",
     "object": "Действие",
     "attribute": "Оружие и снаряжение",
     "preview": "https://img.aishort.top/imgprompt/20260211193102894.webp"
@@ -13084,7 +13084,7 @@
   },
   {
     "displayName": "Kabedon",
-    "langName": "удар в стену",
+    "langName": "Кабэдон",
     "object": "Действие",
     "attribute": "Специальные позы",
     "preview": "https://img.aishort.top/imgprompt/20260211193512046.webp"
@@ -13412,7 +13412,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211194606041.webp"
   },
   {
-    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset)),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
+    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset))),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
     "langName": "сумеречный метод",
     "object": "Действие",
     "attribute": "Магия",
@@ -13525,7 +13525,7 @@
   },
   {
     "displayName": "((full body)),(helpless),tear,crying,(((((falling from the sky))))),((Weathering With You)),((falling)),((face towards the sky)),(hair flows upwards),((disheveled hair)),(1 girl),floating,beautiful detailed sky",
-    "langName": "Стиль падения (сцена в небе)",
+    "langName": "Свободное падение с неба",
     "object": "Действие",
     "attribute": "Магия",
     "preview": "https://img.aishort.top/imgprompt/20260211194938656.webp"
@@ -13727,7 +13727,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195607630.webp"
   },
   {
-    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood))),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
+    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood)),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
     "langName": "закон реформы крови",
     "object": "Действие",
     "attribute": "Магия",
@@ -14002,7 +14002,7 @@
   },
   {
     "displayName": "disgust",
-    "langName": "Отвращение (выглядит как мусор)",
+    "langName": "Презрение / Отвращение",
     "object": "Мимика",
     "attribute": "Презрение",
     "preview": "https://img.aishort.top/imgprompt/20260317071358725.webp"
@@ -14023,7 +14023,7 @@
   },
   {
     "displayName": "shaded_face",
-    "langName": "На лице тень, соответствующая презрению.",
+    "langName": "Тень на лице",
     "object": "Мимика",
     "attribute": "Презрение",
     "preview": "https://img.aishort.top/imgprompt/20260212085009132.webp"
@@ -14044,7 +14044,7 @@
   },
   {
     "displayName": "wince",
-    "langName": "Нахмуривание (перед половым актом)",
+    "langName": "Поморщиться / Скривиться",
     "object": "Мимика",
     "attribute": "Презрение",
     "preview": "https://img.aishort.top/imgprompt/20260212085045682.webp"
@@ -14079,7 +14079,7 @@
   },
   {
     "displayName": "serious",
-    "langName": "Серьёзный (похож на сердитый)",
+    "langName": "Серьезный",
     "object": "Мимика",
     "attribute": "Злость",
     "preview": "https://img.aishort.top/imgprompt/20260212085145957.webp"
@@ -14100,7 +14100,7 @@
   },
   {
     "displayName": "screaming",
-    "langName": "кричать | кричать",
+    "langName": "кричать",
     "object": "Мимика",
     "attribute": "Злость",
     "preview": "https://img.aishort.top/imgprompt/20260212085219929.webp"
@@ -14163,7 +14163,7 @@
   },
   {
     "displayName": "embarrass",
-    "langName": "застенчивый (неловкий)",
+    "langName": "Смущенный",
     "object": "Мимика",
     "attribute": "Другие выражения",
     "preview": "https://img.aishort.top/imgprompt/20260212085408608.webp"
@@ -14380,7 +14380,7 @@
   },
   {
     "displayName": "torogao",
-    "langName": "Торогао (затуманенный взгляд)",
+    "langName": "Торогао",
     "object": "Мимика",
     "attribute": "Другие выражения",
     "preview": "https://img.aishort.top/imgprompt/20260228103646110.webp"
@@ -14702,7 +14702,7 @@
   },
   {
     "displayName": "hanten_clothes",
-    "langName": "Тоумата (в японском стиле)",
+    "langName": "Хантэн",
     "object": "Одежда",
     "attribute": "Стиль одежды",
     "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
@@ -14716,7 +14716,7 @@
   },
   {
     "displayName": "furisode",
-    "langName": "Фурисодэ (часть кимоно)",
+    "langName": "Фурисодэ",
     "object": "Одежда",
     "attribute": "Стиль одежды",
     "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
@@ -14744,14 +14744,14 @@
   },
   {
     "displayName": "uchikake",
-    "langName": "Бай Уцзя (японское свадебное платье)",
+    "langName": "Утикакэ / Сиромуку",
     "object": "Одежда",
     "attribute": "Стиль одежды",
     "preview": "https://img.aishort.top/imgprompt/20260212110020279.webp"
   },
   {
     "displayName": "obi",
-    "langName": "Оби (пояс кимоно)",
+    "langName": "Оби (пояс)",
     "object": "Одежда",
     "attribute": "Стиль одежды",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -14800,7 +14800,7 @@
   },
   {
     "displayName": "Ao_Dai",
-    "langName": "Вьетнамская одежда (Аозай)",
+    "langName": "Аозай",
     "object": "Одежда",
     "attribute": "Стиль одежды",
     "preview": "https://img.aishort.top/imgprompt/20260212112032273.webp"
@@ -14947,14 +14947,14 @@
   },
   {
     "displayName": "alternate_costume",
-    "langName": "Альтернативный костюм (отличный от оригинала)",
+    "langName": "Альтернативный костюм",
     "object": "Одежда",
     "attribute": "Стиль одежды",
     "preview": "https://img.aishort.top/imgprompt/20260212120626953.webp"
   },
   {
     "displayName": "costume_switch",
-    "langName": "переодеться играть",
+    "langName": "Обмен костюмами",
     "object": "Одежда",
     "attribute": "Стиль одежды",
     "preview": "https://img.aishort.top/imgprompt/20260212120842799.webp"
@@ -15059,7 +15059,7 @@
   },
   {
     "displayName": "green floral songmo",
-    "langName": "Зеленый цветочный Song Mo",
+    "langName": "Зеленый цветочный наряд династии Сун",
     "object": "Одежда",
     "attribute": "Древний стиль",
     "preview": "https://img.aishort.top/imgprompt/20260212124434597.webp"
@@ -15136,7 +15136,7 @@
   },
   {
     "displayName": "suit",
-    "langName": "Подходить",
+    "langName": "Костюм",
     "object": "Одежда",
     "attribute": "Официальная одежда",
     "preview": "https://img.aishort.top/imgprompt/20260212125712788.webp"
@@ -15164,7 +15164,7 @@
   },
   {
     "displayName": "evening_gown",
-    "langName": "Платье в пол (вечернее)",
+    "langName": "Вечернее платье",
     "object": "Одежда",
     "attribute": "Официальная одежда",
     "preview": "https://img.aishort.top/imgprompt/20260212125805414.webp"
@@ -15206,7 +15206,7 @@
   },
   {
     "displayName": "serafuku",
-    "langName": "Матросская форма (школьная форма)",
+    "langName": "Матроска",
     "object": "Одежда",
     "attribute": "Официальная одежда",
     "preview": "https://img.aishort.top/imgprompt/20260212130530516.webp"
@@ -15542,7 +15542,7 @@
   },
   {
     "displayName": "school_swimsuit",
-    "langName": "Школьные купальники (вода Suiku)",
+    "langName": "Школьный купальник",
     "object": "Одежда",
     "attribute": "Купальник",
     "preview": "https://img.aishort.top/imgprompt/20260225102036109.webp"
@@ -15605,7 +15605,7 @@
   },
   {
     "displayName": "swimsuit_of_perpetual_summer",
-    "langName": "Купальник Чан Ся (костюм школьницы fgo)",
+    "langName": "Купальник вечного лета (FGO)",
     "object": "Одежда",
     "attribute": "Купальник",
     "preview": "https://img.aishort.top/imgprompt/20260317071630637.webp"
@@ -15878,14 +15878,14 @@
   },
   {
     "displayName": "swimsuit_aside",
-    "langName": "Отодвиньте промежность купальника в сторону.",
+    "langName": "Сдвинутый купальник",
     "object": "Одежда",
     "attribute": "Купальник",
     "preview": "https://img.aishort.top/imgprompt/20260212152012611.webp"
   },
   {
     "displayName": "swimsuit_under_clothes",
-    "langName": "Ношение купальника под одеждой",
+    "langName": "Купальник под одеждой",
     "object": "Одежда",
     "attribute": "Купальник",
     "preview": "https://img.aishort.top/imgprompt/20260317072817093.webp"
@@ -15976,7 +15976,7 @@
   },
   {
     "displayName": "bc_freedom_military_uniform",
-    "langName": "Форма BC Free Academy",
+    "langName": "Форма академии БК Фридом",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260212153126044.webp"
@@ -15990,7 +15990,7 @@
   },
   {
     "displayName": "chi-hatan_military_uniform",
-    "langName": "Форма Академии Чжиха Дан",
+    "langName": "Военная форма академии Чихатан",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260212153151798.webp"
@@ -16025,21 +16025,21 @@
   },
   {
     "displayName": "hikarizaka_private_high_school_uniform",
-    "langName": "Форма частной средней школы Мицусака",
+    "langName": "Школьная форма частной старшей школы Хикаридзака",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260212153257185.webp"
   },
   {
     "displayName": "homurahara_academy_uniform",
-    "langName": "Форма Академии Суи Гунхара",
+    "langName": "Школьная форма академии Хомурахара",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260212153310241.webp"
   },
   {
     "displayName": "kamiyama_high_school_uniform",
-    "langName": "Форма средней школы Кайлаш",
+    "langName": "Школьная форма старшей школы Камияма",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260212153323486.webp"
@@ -16088,21 +16088,21 @@
   },
   {
     "displayName": "nami_junior_high_school_uniform",
-    "langName": "Форма средней школы Болу",
+    "langName": "Школьная форма средней школы Нами",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260212153455870.webp"
   },
   {
     "displayName": "nanairogaoka_middle_school_uniform",
-    "langName": "Форма средней школы Цисэцю",
+    "langName": "Школьная форма средней школы Нанаирогаока",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260212153509132.webp"
   },
   {
     "displayName": "nanamori_school_uniform",
-    "langName": "Форма средней школы Цисен",
+    "langName": "Школьная форма средней школы Нанамори",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260212153725574.webp"
@@ -16130,7 +16130,7 @@
   },
   {
     "displayName": "ooarai_school_uniform",
-    "langName": "Школьная форма Oarai United",
+    "langName": "Школьная форма Ооараи",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260212153818410.webp"
@@ -16172,14 +16172,14 @@
   },
   {
     "displayName": "rabbit_house_uniform",
-    "langName": "Униформа дома Дьянтуту",
+    "langName": "Униформа кафе Rabbit House",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260213055157775.webp"
   },
   {
     "displayName": "raimon_soccer_uniform",
-    "langName": "Футбольная форма Thunder Gate",
+    "langName": "Футбольная форма команды Раймон",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260213055210653.webp"
@@ -16193,7 +16193,7 @@
   },
   {
     "displayName": "sakugawa_school_uniform",
-    "langName": "Форма средней школы Чжачуань",
+    "langName": "Школьная форма средней школы Сакугава",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260213055439290.webp"
@@ -16242,7 +16242,7 @@
   },
   {
     "displayName": "shuujin_academy_uniform",
-    "langName": "Похвастайтесь студенческой формой",
+    "langName": "Школьная форма академии Сюдзин",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260213060421601.webp"
@@ -16256,35 +16256,35 @@
   },
   {
     "displayName": "st._gloriana's_school_uniform",
-    "langName": "Школьная форма для девочек St. Gloria Anna",
+    "langName": "Школьная форма Св. Глорианы",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260213060447466.webp"
   },
   {
     "displayName": "starlight_academy_uniform",
-    "langName": "Звездная оптическая парковая форма",
+    "langName": "Школьная форма академии Старлайт",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260213060500805.webp"
   },
   {
     "displayName": "tokisadame_school_uniform",
-    "langName": "Обычная форма колледжа",
+    "langName": "Школьная форма старшей школы Токисадамэ",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260213060513970.webp"
   },
   {
     "displayName": "tokiwadai_school_uniform",
-    "langName": "Школьная форма Tokiwa Taichung",
+    "langName": "Школьная форма средней школы Токивадай",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260213060526744.webp"
   },
   {
     "displayName": "tomoeda_elementary_school_uniform",
-    "langName": "Форма начальной школы Ючжи",
+    "langName": "Школьная форма начальной школы Томоэда",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260213060539748.webp"
@@ -16298,14 +16298,14 @@
   },
   {
     "displayName": "u.a._school_uniform",
-    "langName": "Форма средней школы Сюнъин",
+    "langName": "Школьная форма академии Юэй",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260213060607357.webp"
   },
   {
     "displayName": "uranohoshi_school_uniform",
-    "langName": "Форма женского колледжа Ура но Хоши",
+    "langName": "Школьная форма женской школы Уранохоси",
     "object": "Одежда",
     "attribute": "Школьная форма",
     "preview": "https://img.aishort.top/imgprompt/20260213060620807.webp"
@@ -16424,7 +16424,7 @@
   },
   {
     "displayName": "short sleeve T-shirts",
-    "langName": "Футболка с коротким рукавом (плечевая рубашка)",
+    "langName": "Футболка с коротким рукавом",
     "object": "Одежда",
     "attribute": "Рубашки и топы",
     "preview": "https://img.aishort.top/imgprompt/20260213063027450.webp"
@@ -16466,7 +16466,7 @@
   },
   {
     "displayName": "tank_top",
-    "langName": "жилет (домашний)",
+    "langName": "Майка",
     "object": "Одежда",
     "attribute": "Рубашки и топы",
     "preview": "https://img.aishort.top/imgprompt/20260213064156253.webp"
@@ -16494,7 +16494,7 @@
   },
   {
     "displayName": "vest",
-    "langName": "жилет (формальный)",
+    "langName": "Костюмный жилет",
     "object": "Одежда",
     "attribute": "Рубашки и топы",
     "preview": "https://img.aishort.top/imgprompt/20260213064408586.webp"
@@ -16508,7 +16508,7 @@
   },
   {
     "displayName": "waistcoat",
-    "langName": "Жилет (официальный)",
+    "langName": "Жилет-безрукавка",
     "object": "Одежда",
     "attribute": "Рубашки и топы",
     "preview": "https://img.aishort.top/imgprompt/20260213064435011.webp"
@@ -16599,7 +16599,7 @@
   },
   {
     "displayName": "kappougi",
-    "langName": "блузка (надевается во время готовки)",
+    "langName": "Каппоги (кухонный халат)",
     "object": "Одежда",
     "attribute": "Рубашки и топы",
     "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
@@ -16662,7 +16662,7 @@
   },
   {
     "displayName": "tied_shirt",
-    "langName": "Завяжите рубашку (завяжите углы и подол)",
+    "langName": "Рубашка, завязанная узлом",
     "object": "Одежда",
     "attribute": "Рубашки и топы",
     "preview": "https://img.aishort.top/imgprompt/20260213070412064.webp"
@@ -16746,7 +16746,7 @@
   },
   {
     "displayName": "button_gap",
-    "langName": "Зазор между пуговицами (не расстегнут)",
+    "langName": "Просвет между пуговицами",
     "object": "Одежда",
     "attribute": "Рубашки и топы",
     "preview": "https://img.aishort.top/imgprompt/20260213071455826.webp"
@@ -16886,14 +16886,14 @@
   },
   {
     "displayName": "wedgie",
-    "langName": "Врезавшееся белье (Wedgie)",
+    "langName": "Врезавшееся белье",
     "object": "Одежда",
     "attribute": "Рубашки и топы",
     "preview": "https://img.aishort.top/imgprompt/20260225103744943.webp"
   },
   {
     "displayName": "wardrobe_malfunction",
-    "langName": "Неисправность одежды (разрыв)",
+    "langName": "Конфуз с одеждой / Разрыв",
     "object": "Одежда",
     "attribute": "Рубашки и топы",
     "preview": "https://img.aishort.top/imgprompt/20260213075235531.webp"
@@ -16984,7 +16984,7 @@
   },
   {
     "displayName": "double-breasted",
-    "langName": "Двубортные пуговицы (двубортные пуговицы",
+    "langName": "Двубортный",
     "object": "Одежда",
     "attribute": "Верхняя одежда",
     "preview": "https://img.aishort.top/imgprompt/20260213075715469.webp"
@@ -17054,7 +17054,7 @@
   },
   {
     "displayName": "jacket_partially_removed",
-    "langName": "Куртка частично снята.",
+    "langName": "Куртка спущена с плеч",
     "object": "Одежда",
     "attribute": "Верхняя одежда",
     "preview": "https://img.aishort.top/imgprompt/20260213081023629.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "кардиган-жакет (с раздвинутыми ногами)",
+    "langName": "Распахнутая куртка",
     "object": "Одежда",
     "attribute": "Верхняя одежда",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -18048,7 +18048,7 @@
   },
   {
     "displayName": "corset",
-    "langName": "Корсет (жилет)",
+    "langName": "Корсет",
     "object": "Одежда",
     "attribute": "Талия",
     "preview": "https://img.aishort.top/imgprompt/20260225104053785.webp"
@@ -18097,7 +18097,7 @@
   },
   {
     "displayName": "kusazuri",
-    "langName": "Фудан | Кусадзури (японская нижняя часть доспеха)",
+    "langName": "Кусадзури (набедренники)",
     "object": "Одежда",
     "attribute": "Доспехи",
     "preview": "https://img.aishort.top/imgprompt/20260213115508736.webp"
@@ -18118,7 +18118,7 @@
   },
   {
     "displayName": "kabuto",
-    "langName": "Шлем (в японском стиле)",
+    "langName": "Кабуто (шлем)",
     "object": "Одежда",
     "attribute": "Доспехи",
     "preview": "https://img.aishort.top/imgprompt/20260213115548290.webp"
@@ -18132,7 +18132,7 @@
   },
   {
     "displayName": "shoulder_armor",
-    "langName": "Плечи",
+    "langName": "Наплечники",
     "object": "Одежда",
     "attribute": "Доспехи",
     "preview": "https://img.aishort.top/imgprompt/20260213115612426.webp"
@@ -18153,14 +18153,14 @@
   },
   {
     "displayName": "faulds",
-    "langName": "пластрон",
+    "langName": "Набрюшник (Faulds)",
     "object": "Одежда",
     "attribute": "Доспехи",
     "preview": "https://img.aishort.top/imgprompt/20260213115855297.webp"
   },
   {
     "displayName": "greaves",
-    "langName": "Гривз",
+    "langName": "Поножи",
     "object": "Одежда",
     "attribute": "Доспехи",
     "preview": "https://img.aishort.top/imgprompt/20260213115908428.webp"
@@ -18237,7 +18237,7 @@
   },
   {
     "displayName": "sundress",
-    "langName": "Сарафан (летнее платье)",
+    "langName": "Сарафан",
     "object": "Одежда",
     "attribute": "Платья и юбки",
     "preview": "https://img.aishort.top/imgprompt/20260213121003959.webp"
@@ -18342,7 +18342,7 @@
   },
   {
     "displayName": "impossible_dress",
-    "langName": "Слишком тесная одежда",
+    "langName": "Сверхблегающее платье",
     "object": "Одежда",
     "attribute": "Платья и юбки",
     "preview": "https://img.aishort.top/imgprompt/20260213122932976.webp"
@@ -18454,14 +18454,14 @@
   },
   {
     "displayName": "ballgown",
-    "langName": "пачка (платье)",
+    "langName": "Бальное платье",
     "object": "Одежда",
     "attribute": "Платья и юбки",
     "preview": "https://img.aishort.top/imgprompt/20260213123502356.webp"
   },
   {
     "displayName": "pettiskirt",
-    "langName": "пачка (детская)",
+    "langName": "Пышная юбка с рюшами",
     "object": "Одежда",
     "attribute": "Платья и юбки",
     "preview": "https://img.aishort.top/imgprompt/20260213123515479.webp"
@@ -18657,7 +18657,7 @@
   },
   {
     "displayName": "skirt_tug",
-    "langName": "Придержи подол юбки | Придержи подол юбки",
+    "langName": "Придержи подол юбки",
     "object": "Одежда",
     "attribute": "Платья и юбки",
     "preview": "https://img.aishort.top/imgprompt/20260213132657290.webp"
@@ -18811,14 +18811,14 @@
   },
   {
     "displayName": "dolphin_shorts",
-    "langName": "Шорты «Дельфин» (брюки «Правда»)",
+    "langName": "Шорты Dolphin",
     "object": "Одежда",
     "attribute": "Брюки",
     "preview": "https://img.aishort.top/imgprompt/20260213134352207.webp"
   },
   {
     "displayName": "dolfin_shorts",
-    "langName": "Шорты «Дельфин» (брюки «Правда»)",
+    "langName": "Шорты Dolphin",
     "object": "Одежда",
     "attribute": "Брюки",
     "preview": "https://img.aishort.top/imgprompt/20260213134404755.webp"
@@ -18832,7 +18832,7 @@
   },
   {
     "displayName": "crotchless_pants",
-    "langName": "Брюки с вырезом (узкие)",
+    "langName": "Брюки с открытым шаговым швом",
     "object": "Одежда",
     "attribute": "Брюки",
     "preview": "https://img.aishort.top/imgprompt/20260213134430564.webp"
@@ -18937,14 +18937,14 @@
   },
   {
     "displayName": "chaps",
-    "langName": "Кожаные краги (широкие сверху и узкие снизу)",
+    "langName": "Чапы",
     "object": "Одежда",
     "attribute": "Брюки",
     "preview": "https://img.aishort.top/imgprompt/20260213134945047.webp"
   },
   {
     "displayName": "jumpsuit",
-    "langName": "(особенно женский) комбинезон",
+    "langName": "Комбинезон",
     "object": "Одежда",
     "attribute": "Брюки",
     "preview": "https://img.aishort.top/imgprompt/20260213134957992.webp"
@@ -18979,7 +18979,7 @@
   },
   {
     "displayName": "leotard_aside",
-    "langName": "Отогните промежность комбинезона в сторону.",
+    "langName": "Сдвинутое трико",
     "object": "Одежда",
     "attribute": "Брюки",
     "preview": "https://img.aishort.top/imgprompt/20260213135915193.webp"
@@ -19140,21 +19140,21 @@
   },
   {
     "displayName": "pantyhose",
-    "langName": "колготки | колготки",
+    "langName": "колготки",
     "object": "Одежда",
     "attribute": "Носки",
     "preview": "https://img.aishort.top/imgprompt/20260213142442251.webp"
   },
   {
     "displayName": "legwear",
-    "langName": "Колготки (обычно относится к колготкам или чулкам)",
+    "langName": "Чулочно-носочные изделия",
     "object": "Одежда",
     "attribute": "Носки",
     "preview": "https://img.aishort.top/imgprompt/20260225104603819.webp"
   },
   {
     "displayName": "thighhighs",
-    "langName": "Чулки (гольфы)",
+    "langName": "Чулки выше колена",
     "object": "Одежда",
     "attribute": "Носки",
     "preview": "https://img.aishort.top/imgprompt/20260213142506603.webp"
@@ -19217,7 +19217,7 @@
   },
   {
     "displayName": "pantylines",
-    "langName": "Плотные колготки (обведите линии)",
+    "langName": "Проступающие линии белья",
     "object": "Одежда",
     "attribute": "Носки",
     "preview": "https://img.aishort.top/imgprompt/20260317074408132.webp"
@@ -19357,7 +19357,7 @@
   },
   {
     "displayName": "back-seamed_legwear",
-    "langName": "Носки с черной полосой посередине",
+    "langName": "Чулки со стрелкой сзади",
     "object": "Одежда",
     "attribute": "Носки",
     "preview": "https://img.aishort.top/imgprompt/20260225104949341.webp"
@@ -19413,14 +19413,14 @@
   },
   {
     "displayName": "bobby_socks",
-    "langName": "Носки Бобби (белые носки)",
+    "langName": "Носки с отворотом (Бобби-сокс)",
     "object": "Одежда",
     "attribute": "Носки",
     "preview": "https://img.aishort.top/imgprompt/20260213144125119.webp"
   },
   {
     "displayName": "tabi",
-    "langName": "Таби (японские носки)",
+    "langName": "Таби (носки с пальцем)",
     "object": "Одежда",
     "attribute": "Носки",
     "preview": "https://img.aishort.top/imgprompt/20260213144138485.webp"
@@ -19434,7 +19434,7 @@
   },
   {
     "displayName": "leg_warmers",
-    "langName": "Гетры | гетры",
+    "langName": "Гетры",
     "object": "Одежда",
     "attribute": "Носки",
     "preview": "https://img.aishort.top/imgprompt/20260213144203562.webp"
@@ -19518,7 +19518,7 @@
   },
   {
     "displayName": "thigh_holster",
-    "langName": "Набедренный ремень / кобура / сумка",
+    "langName": "Кобура на бедро",
     "object": "Одежда",
     "attribute": "Носки",
     "preview": "https://img.aishort.top/imgprompt/20260213144441392.webp"
@@ -19546,7 +19546,7 @@
   },
   {
     "displayName": "arm_garter",
-    "langName": "подвязки для бумов",
+    "langName": "Подвязка для рукава",
     "object": "Одежда",
     "attribute": "Носки",
     "preview": "https://img.aishort.top/imgprompt/20260213144735280.webp"
@@ -19658,14 +19658,14 @@
   },
   {
     "displayName": "sock_pull",
-    "langName": "Натягивание носков (носков)",
+    "langName": "Подтягивание носков",
     "object": "Одежда",
     "attribute": "Носки",
     "preview": "https://img.aishort.top/imgprompt/20260213150519193.webp"
   },
   {
     "displayName": "thighhighs_pull",
-    "langName": "Надевание носков (чулок)",
+    "langName": "Подтягивание чулок",
     "object": "Одежда",
     "attribute": "Носки",
     "preview": "https://img.aishort.top/imgprompt/20260225090322289.webp"
@@ -19686,7 +19686,7 @@
   },
   {
     "displayName": "crease",
-    "langName": "морщинистый (складчатый)",
+    "langName": "Складки на ткани",
     "object": "Одежда",
     "attribute": "Отделка",
     "preview": "https://img.aishort.top/imgprompt/20260213150609920.webp"
@@ -19755,7 +19755,7 @@
   },
   {
     "displayName": "back_bow",
-    "langName": "(одежда) узел, завязанный за спиной",
+    "langName": "Бант на спине",
     "object": "Одежда",
     "attribute": "Отделка",
     "preview": "https://img.aishort.top/imgprompt/20260213151221218.webp"
@@ -19769,7 +19769,7 @@
   },
   {
     "displayName": "double_vertical_stripe",
-    "langName": "На одежде две параллельные полосы.",
+    "langName": "Двойные вертикальные полосы",
     "object": "Одежда",
     "attribute": "Отделка",
     "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
@@ -19818,14 +19818,14 @@
   },
   {
     "displayName": "single_kneehigh",
-    "langName": "Ношение одежды длиной до колена с одной стороны",
+    "langName": "Гольф выше колена на одну ногу",
     "object": "Одежда",
     "attribute": "Отделка",
     "preview": "https://img.aishort.top/imgprompt/20260213151419710.webp"
   },
   {
     "displayName": "single_vertical_stripe",
-    "langName": "Одиночная вертикальная полоса (сбоку)",
+    "langName": "Одинарная вертикальная полоса",
     "object": "Одежда",
     "attribute": "Отделка",
     "preview": "https://img.aishort.top/imgprompt/20260213151432314.webp"
@@ -19839,7 +19839,7 @@
   },
   {
     "displayName": "two-sided_fabric",
-    "langName": "Метод рисования одежды в двухслойном стиле",
+    "langName": "Двусторонняя ткань",
     "object": "Одежда",
     "attribute": "Отделка",
     "preview": "https://img.aishort.top/imgprompt/20260213151458665.webp"
@@ -19860,21 +19860,21 @@
   },
   {
     "displayName": "fringe_trim",
-    "langName": "Край (конец шарфа)",
+    "langName": "Бахрома по краю",
     "object": "Одежда",
     "attribute": "Отделка",
     "preview": "https://img.aishort.top/imgprompt/20260213151538074.webp"
   },
   {
     "displayName": "loose_belt",
-    "langName": "Свободные ремни (одежда)",
+    "langName": "Свободно свисающий ремень",
     "object": "Одежда",
     "attribute": "Отделка",
     "preview": "https://img.aishort.top/imgprompt/20260213151551376.webp"
   },
   {
     "displayName": "pom_pom_(clothes)",
-    "langName": "Маленькие помпоны (аксессуары для одежды)",
+    "langName": "Помпон на одежде",
     "object": "Одежда",
     "attribute": "Отделка",
     "preview": "https://img.aishort.top/imgprompt/20260213151807325.webp"
@@ -19895,7 +19895,7 @@
   },
   {
     "displayName": "gathers",
-    "langName": "складки (одежда)",
+    "langName": "Присборенная ткань",
     "object": "Одежда",
     "attribute": "Отделка",
     "preview": "https://img.aishort.top/imgprompt/20260213151846596.webp"
@@ -20441,7 +20441,7 @@
   },
   {
     "displayName": "peace_symbol",
-    "langName": "☮(На одежде Хигашиката Джоске)",
+    "langName": "Символ мира (Пацифик ☮)",
     "object": "Одежда",
     "attribute": "Узоры",
     "preview": "https://img.aishort.top/imgprompt/20260213154359591.webp"
@@ -20595,7 +20595,7 @@
   },
   {
     "displayName": "black_loafers",
-    "langName": "Лоферы (маленькие кожаные туфли)",
+    "langName": "Черные лоферы",
     "object": "Одежда",
     "attribute": "Обувь",
     "preview": "https://img.aishort.top/imgprompt/20260213160300808.webp"
@@ -20651,7 +20651,7 @@
   },
   {
     "displayName": "rudder_footwear",
-    "langName": "Специальная обувь для судовых девушек Ship C",
+    "langName": "Обувь девушек-кораблей",
     "object": "Одежда",
     "attribute": "Обувь",
     "preview": "https://img.aishort.top/imgprompt/20260213161458045.webp"
@@ -20868,7 +20868,7 @@
   },
   {
     "displayName": "knee_boots",
-    "langName": "Сапоги выше колена (сапоги для верховой езды)",
+    "langName": "Сапоги до колен",
     "object": "Одежда",
     "attribute": "Сапоги",
     "preview": "https://img.aishort.top/imgprompt/20260213170630231.webp"
@@ -21225,7 +21225,7 @@
   },
   {
     "displayName": "armband",
-    "langName": "повязка на руку (повязка на руку)",
+    "langName": "Нарукавная повязка",
     "object": "Одежда",
     "attribute": "Рукава",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
@@ -21680,7 +21680,7 @@
   },
   {
     "displayName": "alternate_headwear",
-    "langName": "Головной убор, отличающийся от оригинального",
+    "langName": "Альтернативный головной убор",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213191902200.webp"
@@ -21715,7 +21715,7 @@
   },
   {
     "displayName": "xx_on_head",
-    "langName": "хх на голове",
+    "langName": "Предмет на голове",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213192411659.webp"
@@ -21778,21 +21778,21 @@
   },
   {
     "displayName": "hachimaki",
-    "langName": "тюрбан (существительное)",
+    "langName": "Хатимаки (головная повязка)",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213194023586.webp"
   },
   {
     "displayName": "helm",
-    "langName": "носить шлем",
+    "langName": "Шлем на голове",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213194036779.webp"
   },
   {
     "displayName": "helmet_removed",
-    "langName": "шлем снят | шлем снят",
+    "langName": "шлем снят",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213194050047.webp"
@@ -21827,7 +21827,7 @@
   },
   {
     "displayName": "skull_and_crossbones",
-    "langName": "Череп и кости (пираты, опасность)",
+    "langName": "Череп и скрещенные кости",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213195005290.webp"
@@ -21841,7 +21841,7 @@
   },
   {
     "displayName": "headdress",
-    "langName": "Головной убор (более общий)",
+    "langName": "Головной убор / Украшение",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213195638458.webp"
@@ -21876,14 +21876,14 @@
   },
   {
     "displayName": "no_headwear",
-    "langName": "Удалённый (существующий) головной убор",
+    "langName": "Без головного убора",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213200147284.webp"
   },
   {
     "displayName": "object_on_head",
-    "langName": "На голове есть что-то, кроме головного убора.",
+    "langName": "Предмет на голове",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213200200049.webp"
@@ -21925,7 +21925,7 @@
   },
   {
     "displayName": "behind-the-head_headphones",
-    "langName": "Наушники, надеваемые на затылок",
+    "langName": "Наушники с затылочной дужкой",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213200337721.webp"
@@ -21988,14 +21988,14 @@
   },
   {
     "displayName": "head_mounted_display",
-    "langName": "В шлеме виртуальной реальности (HMD)",
+    "langName": "Шлем виртуальной реальности (HMD)",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213201344092.webp"
   },
   {
     "displayName": "head_out_of_frame",
-    "langName": "Часть головы не прорисована в кадре.",
+    "langName": "Голова за кадром",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213201559216.webp"
@@ -22016,7 +22016,7 @@
   },
   {
     "displayName": "headgear",
-    "langName": "Головной убор (Научная фантастика)",
+    "langName": "Фантастическая гарнитура / Шлем",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213201840823.webp"
@@ -22030,7 +22030,7 @@
   },
   {
     "displayName": "heads-up_display",
-    "langName": "Строка состояния (HUD)",
+    "langName": "Индикатор на лобовом стекле (HUD)",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213201907728.webp"
@@ -22065,7 +22065,7 @@
   },
   {
     "displayName": "single_head_wing",
-    "langName": "На одной стороне головы есть крылья.",
+    "langName": "Крылышко на голове с одной стороны",
     "object": "Украшения",
     "attribute": "Украшения для головы",
     "preview": "https://img.aishort.top/imgprompt/20260213202620422.webp"
@@ -22261,7 +22261,7 @@
   },
   {
     "displayName": "hairpods",
-    "langName": "Заколки в виде наушников (Hairpods)",
+    "langName": "Хейрподы",
     "object": "Украшения",
     "attribute": "Аксессуары для волос",
     "preview": "https://img.aishort.top/imgprompt/20260213210909139.webp"
@@ -22296,7 +22296,7 @@
   },
   {
     "displayName": "snake_hair_ornament",
-    "langName": "Украшение для волос змея / лягушка",
+    "langName": "Заколка в виде змеи",
     "object": "Украшения",
     "attribute": "Аксессуары для волос",
     "preview": "https://img.aishort.top/imgprompt/20260213211418419.webp"
@@ -22779,7 +22779,7 @@
   },
   {
     "displayName": "hat_removed",
-    "langName": "шляпа снята | шляпа снята",
+    "langName": "шляпа снята",
     "object": "Украшения",
     "attribute": "Головные уборы",
     "preview": "https://img.aishort.top/imgprompt/20260213224231603.webp"
@@ -22800,7 +22800,7 @@
   },
   {
     "displayName": "hatching_(texture)",
-    "langName": "Затенение линий (текстура)",
+    "langName": "Штриховка",
     "object": "Украшения",
     "attribute": "Головные уборы",
     "preview": "https://img.aishort.top/imgprompt/20260213224329155.webp"
@@ -22926,14 +22926,14 @@
   },
   {
     "displayName": "sunglasses",
-    "langName": "Солнцезащитные очки (закрывающие глаза)",
+    "langName": "Непрозрачные темные очки",
     "object": "Украшения",
     "attribute": "Очки",
     "preview": "https://img.aishort.top/imgprompt/20260213230746663.webp"
   },
   {
     "displayName": "reflection glasses",
-    "langName": "Солнцезащитные очки (глаза видны)",
+    "langName": "Полупрозрачные темные очки",
     "object": "Украшения",
     "attribute": "Очки",
     "preview": "https://img.aishort.top/imgprompt/20260213230759909.webp"
@@ -22954,7 +22954,7 @@
   },
   {
     "displayName": "eyepatch",
-    "langName": "Повязка на глаз (один глаз)",
+    "langName": "Повязка на один глаз",
     "object": "Украшения",
     "attribute": "Очки",
     "preview": "https://img.aishort.top/imgprompt/20260213230839662.webp"
@@ -22989,7 +22989,7 @@
   },
   {
     "displayName": "no_eyewear",
-    "langName": "Удалены (существующие) очки",
+    "langName": "Без очков",
     "object": "Украшения",
     "attribute": "Очки",
     "preview": "https://img.aishort.top/imgprompt/20260213230945224.webp"
@@ -23178,7 +23178,7 @@
   },
   {
     "displayName": "domino_mask",
-    "langName": "СМ маска",
+    "langName": "Маска домино",
     "object": "Украшения",
     "attribute": "Маска",
     "preview": "https://img.aishort.top/imgprompt/20260213233359905.webp"
@@ -23241,7 +23241,7 @@
   },
   {
     "displayName": "single_earring",
-    "langName": "Ношение сережек только с одной стороны",
+    "langName": "Серьга в одном ухе",
     "object": "Украшения",
     "attribute": "Серьги",
     "preview": "https://img.aishort.top/imgprompt/20260213235633818.webp"
@@ -23297,7 +23297,7 @@
   },
   {
     "displayName": "cuffs",
-    "langName": "позорный столб",
+    "langName": "Наручники",
     "object": "Украшения",
     "attribute": "Украшения для рук",
     "preview": "https://img.aishort.top/imgprompt/20260213235839451.webp"
@@ -23325,7 +23325,7 @@
   },
   {
     "displayName": "leash",
-    "langName": "пояс",
+    "langName": "Поводок",
     "object": "Украшения",
     "attribute": "Украшения для рук",
     "preview": "https://img.aishort.top/imgprompt/20260213235930034.webp"
@@ -23437,7 +23437,7 @@
   },
   {
     "displayName": "no_gloves",
-    "langName": "Снятые (существующие) перчатки",
+    "langName": "Без перчаток",
     "object": "Украшения",
     "attribute": "Перчатки",
     "preview": "https://img.aishort.top/imgprompt/20260214001315236.webp"
@@ -23451,7 +23451,7 @@
   },
   {
     "displayName": "single_elbow_glove",
-    "langName": "Ношение перчатки длиной до локтя на одной руке",
+    "langName": "Перчатка до локтя на одну руку",
     "object": "Украшения",
     "attribute": "Перчатки",
     "preview": "https://img.aishort.top/imgprompt/20260214001744860.webp"
@@ -23465,7 +23465,7 @@
   },
   {
     "displayName": "elbow_gloves",
-    "langName": "Перчатки с длинными рукавами (до локтя)",
+    "langName": "Перчатки до локтя",
     "object": "Украшения",
     "attribute": "Перчатки",
     "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
@@ -23500,14 +23500,14 @@
   },
   {
     "displayName": "paw_gloves",
-    "langName": "Перчатки с когтями (перчатки с пальцами)",
+    "langName": "Перчатки с лапками",
     "object": "Украшения",
     "attribute": "Перчатки",
     "preview": "https://img.aishort.top/imgprompt/20260214002522561.webp"
   },
   {
     "displayName": "mittens",
-    "langName": "Варежки (двупалые перчатки)",
+    "langName": "Варежки (Рукавицы)",
     "object": "Украшения",
     "attribute": "Перчатки",
     "preview": "https://img.aishort.top/imgprompt/20260214002535788.webp"
@@ -23759,14 +23759,14 @@
   },
   {
     "displayName": "st._gloriana's_(emblem)",
-    "langName": "Эмблема школы для девочек St. Gloria Anna",
+    "langName": "Эмблема школы Св. Глорианы",
     "object": "Украшения",
     "attribute": "Мелкие украшения",
     "preview": "https://img.aishort.top/imgprompt/20260214010157304.webp"
   },
   {
     "displayName": "heart_lock_(kantai_collection)",
-    "langName": "Шлюз для судовой девушки (корабль C)",
+    "langName": "Замок в виде сердца (Kancolle)",
     "object": "Украшения",
     "attribute": "Мелкие украшения",
     "preview": "https://img.aishort.top/imgprompt/20260214010210385.webp"
@@ -23990,14 +23990,14 @@
   },
   {
     "displayName": "Wu Xing",
-    "langName": "Пять стихий (металл, дерево, вода, огонь и земля)",
+    "langName": "У-син (Пять элементов)",
     "object": "Украшения",
     "attribute": "Символ",
     "preview": "https://img.aishort.top/imgprompt/20260214020503233.webp"
   },
   {
     "displayName": "dynamic pose",
-    "langName": "Динамичные позы (энергичные)",
+    "langName": "Динамичная поза",
     "object": "Фотография",
     "attribute": "Ракурс",
     "preview": "https://img.aishort.top/imgprompt/20260214020718871.webp"
@@ -24319,28 +24319,28 @@
   },
   {
     "displayName": "cowboy_shot",
-    "langName": "Верхняя часть тела + верхняя часть бедер (Ковбойский план)",
+    "langName": "Американский план (Ковбойский кадр)",
     "object": "Фотография",
     "attribute": "Крупность плана",
     "preview": "https://img.aishort.top/imgprompt/20260214032314849.webp"
   },
   {
     "displayName": "portrait",
-    "langName": "Портрет (лицо + плечи + иногда грудь)",
+    "langName": "Портретный план",
     "object": "Фотография",
     "attribute": "Крупность плана",
     "preview": "https://img.aishort.top/imgprompt/20260214032327856.webp"
   },
   {
     "displayName": "very close portrait",
-    "langName": "Портрет крупным планом (камера ближе)",
+    "langName": "Сверхкрупный портретный план",
     "object": "Фотография",
     "attribute": "Крупность плана",
     "preview": "https://img.aishort.top/imgprompt/20260214032544032.webp"
   },
   {
     "displayName": "profile",
-    "langName": "Профильный портрет (профильная версия портрета)",
+    "langName": "Портрет в профиль",
     "object": "Фотография",
     "attribute": "Крупность плана",
     "preview": "https://img.aishort.top/imgprompt/20260214032759101.webp"
@@ -24375,7 +24375,7 @@
   },
   {
     "displayName": "wide_shot",
-    "langName": "Панорамный объектив (широкоугольный объектив)",
+    "langName": "Широкий план / Общий план",
     "object": "Фотография",
     "attribute": "Фокусировка объектива",
     "preview": "https://img.aishort.top/imgprompt/20260214033851759.webp"
@@ -24389,7 +24389,7 @@
   },
   {
     "displayName": "inset",
-    "langName": "Вставьте дополнительные кадры или изображения",
+    "langName": "Врезка / Дополнительный кадр",
     "object": "Фотография",
     "attribute": "Фокусировка объектива",
     "preview": "https://img.aishort.top/imgprompt/20260214033931731.webp"
@@ -24403,21 +24403,21 @@
   },
   {
     "displayName": "male focus",
-    "langName": "Мужской фокус (Женский фокус)",
+    "langName": "Фокус на мужском персонаже",
     "object": "Фотография",
     "attribute": "Фокусировка объектива",
     "preview": "https://img.aishort.top/imgprompt/20260214033958195.webp"
   },
   {
     "displayName": "solo_focus",
-    "langName": "Фокус на одном персонаже (сложная сцена)",
+    "langName": "Фокус на одном персонаже",
     "object": "Фотография",
     "attribute": "Фокусировка объектива",
     "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
   },
   {
     "displayName": "xx_focus",
-    "langName": "сосредоточиться на хх",
+    "langName": "Фокус на отдельной детали",
     "object": "Фотография",
     "attribute": "Фокусировка объектива",
     "preview": "https://img.aishort.top/imgprompt/20260214034023889.webp"
@@ -24459,7 +24459,7 @@
   },
   {
     "displayName": "vehicle_focus",
-    "langName": "Фокус на транспортном средстве",
+    "langName": "Фокус на транспорте",
     "object": "Фотография",
     "attribute": "Фокусировка объектива",
     "preview": "https://img.aishort.top/imgprompt/20260214034759257.webp"
@@ -24473,21 +24473,21 @@
   },
   {
     "displayName": "between_legs",
-    "langName": "(выделено) между ног",
+    "langName": "Ракурс между ног",
     "object": "Фотография",
     "attribute": "Фокусировка объектива",
     "preview": "https://img.aishort.top/imgprompt/20260214035455577.webp"
   },
   {
     "displayName": "between_breasts",
-    "langName": "(выступающая) грудь",
+    "langName": "Крупный план декольте",
     "object": "Фотография",
     "attribute": "Фокусировка объектива",
     "preview": "https://img.aishort.top/imgprompt/20260225091239828.webp"
   },
   {
     "displayName": "between_fingers",
-    "langName": "(выступ) между пальцами",
+    "langName": "Ракурс сквозь пальцы",
     "object": "Фотография",
     "attribute": "Фокусировка объектива",
     "preview": "https://img.aishort.top/imgprompt/20260214035531987.webp"
@@ -24501,14 +24501,14 @@
   },
   {
     "displayName": "peeking_out",
-    "langName": "подглядывание (жест)",
+    "langName": "Выглядывание из укрытия",
     "object": "Фотография",
     "attribute": "Фокусировка объектива",
     "preview": "https://img.aishort.top/imgprompt/20260214035557635.webp"
   },
   {
     "displayName": "peeping",
-    "langName": "Вуайерист (акцент на перспективе)",
+    "langName": "Взгляд украдкой",
     "object": "Фотография",
     "attribute": "Фокусировка объектива",
     "preview": "https://img.aishort.top/imgprompt/20260214035610390.webp"
@@ -24662,7 +24662,7 @@
   },
   {
     "displayName": "Brenizer Method",
-    "langName": "Метод Бренайзера",
+    "langName": "Метод Бренайзера (Боке-панорама)",
     "object": "Фотография",
     "attribute": "Линзы/Оптические эффекты",
     "preview": "https://img.aishort.top/imgprompt/20260214041350224.webp"
@@ -24697,7 +24697,7 @@
   },
   {
     "displayName": "landscape",
-    "langName": "Пейзажный снимок (дальний план)",
+    "langName": "Пейзажная съемка",
     "object": "Фотография",
     "attribute": "Линзы/Оптические эффекты",
     "preview": "https://img.aishort.top/imgprompt/20260214041814281.webp"
@@ -24844,7 +24844,7 @@
   },
   {
     "displayName": "polaroid",
-    "langName": "Фотографии (Полароид)",
+    "langName": "Снимок полароид",
     "object": "Фотография",
     "attribute": "Стиль фотографии",
     "preview": "https://img.aishort.top/imgprompt/20260214044251180.webp"
@@ -25292,7 +25292,7 @@
   },
   {
     "displayName": "depth of field",
-    "langName": "Глубина резкости (координация человеческих сцен)",
+    "langName": "Глубина резкости",
     "object": "Фотография",
     "attribute": "Эффекты",
     "preview": "https://img.aishort.top/imgprompt/20260224191234161.webp"
@@ -25320,14 +25320,14 @@
   },
   {
     "displayName": "bokeh",
-    "langName": "Каустика (размытый фон)",
+    "langName": "Боке",
     "object": "Фотография",
     "attribute": "Эффекты",
     "preview": "https://img.aishort.top/imgprompt/20260224191333274.webp"
   },
   {
     "displayName": "chromatic_aberration",
-    "langName": "Хроматическая аберрация, цвет вне фокуса",
+    "langName": "Хроматическая аберрация",
     "object": "Фотография",
     "attribute": "Эффекты",
     "preview": "https://img.aishort.top/imgprompt/20260224191548893.webp"
@@ -25818,7 +25818,7 @@
   },
   {
     "displayName": "Crepuscular Rays",
-    "langName": "тусклый свет",
+    "langName": "Сумеречные лучи (Лучи бога)",
     "object": "Эффекты света и тени",
     "attribute": "Световые эффекты",
     "preview": "https://img.aishort.top/imgprompt/20260224200322540.webp"
@@ -25860,7 +25860,7 @@
   },
   {
     "displayName": "lens flare",
-    "langName": "Блики объектива (контровое освещение)",
+    "langName": "Блик в объективе",
     "object": "Эффекты света и тени",
     "attribute": "Световые эффекты",
     "preview": "https://img.aishort.top/imgprompt/20260224200437632.webp"
@@ -27113,7 +27113,7 @@
   },
   {
     "displayName": "Dispersion",
-    "langName": "Хроматическая аберрация",
+    "langName": "Дисперсия света",
     "object": "Цветовая атмосфера",
     "attribute": "Темные тона",
     "preview": "https://img.aishort.top/imgprompt/20260224221649393.webp"
@@ -27645,7 +27645,7 @@
   },
   {
     "displayName": "Tetradic-Colors",
-    "langName": "Четыре цвета (прямоугольное сопоставление цветов)",
+    "langName": "Тетрадная цветовая схема",
     "object": "Цветовая атмосфера",
     "attribute": "Цветовая палитра",
     "preview": "https://img.aishort.top/imgprompt/20260224223613371.webp"
@@ -27940,14 +27940,14 @@
   },
   {
     "displayName": "YCbCr",
-    "langName": "икБ",
+    "langName": "YCbCr",
     "object": "Цветовая атмосфера",
     "attribute": "Цветовая палитра монитора",
     "preview": "https://img.aishort.top/imgprompt/20260224224629664.webp"
   },
   {
     "displayName": "YPbPr",
-    "langName": "wxya",
+    "langName": "YPbPr",
     "object": "Цветовая атмосфера",
     "attribute": "Цветовая палитра монитора",
     "preview": "https://img.aishort.top/imgprompt/20260224224643063.webp"
@@ -29914,7 +29914,7 @@
   },
   {
     "displayName": "Putty",
-    "langName": "Клеи для герметизации и заполнения пустот",
+    "langName": "Шпатлевка / Замазка",
     "object": "Материалы",
     "attribute": "Слизь",
     "preview": "https://img.aishort.top/imgprompt/20260224235936705.webp"
@@ -31356,7 +31356,7 @@
   },
   {
     "displayName": "((dyeing)),((oil painting)),((impasto))",
-    "langName": "Масляная живопись (комбинированная)",
+    "langName": "Масляная живопись импасто",
     "object": "Тип изображения",
     "attribute": "Живопись",
     "preview": "https://img.aishort.top/imgprompt/20260225004949979.webp"
@@ -31622,7 +31622,7 @@
   },
   {
     "displayName": "extremely detailed cg",
-    "langName": "Очень подробная компьютерная графика",
+    "langName": "Крайне детализированная графика CG",
     "object": "Тип изображения",
     "attribute": "Иллюстрация",
     "preview": "https://img.aishort.top/imgprompt/20260225010029642.webp"
@@ -31825,7 +31825,7 @@
   },
   {
     "displayName": "copics",
-    "langName": "Маркер (нейтральный серый)",
+    "langName": "Рисунок маркерами Copic",
     "object": "Тип изображения",
     "attribute": "Чернила",
     "preview": "https://img.aishort.top/imgprompt/20260225010656308.webp"
@@ -32126,7 +32126,7 @@
   },
   {
     "displayName": "Pokemon Card",
-    "langName": "Карты покемонов (карманные монстры)",
+    "langName": "Стиль карты Покемон",
     "object": "Тип изображения",
     "attribute": "Печать",
     "preview": "https://img.aishort.top/imgprompt/20260225011638981.webp"
@@ -32518,7 +32518,7 @@
   },
   {
     "displayName": "traditional_media",
-    "langName": "Традиционный холст (например, бумага и т.п.)",
+    "langName": "Традиционные арт-материалы",
     "object": "Тип изображения",
     "attribute": "Другие медиа",
     "preview": "https://img.aishort.top/imgprompt/20260225013600028.webp"
@@ -33078,7 +33078,7 @@
   },
   {
     "displayName": "miserablism",
-    "langName": "Мизерабилизм (социальная критика)",
+    "langName": "Мизераблизм",
     "object": "Художественный стиль",
     "attribute": "Вымысел и реальность",
     "preview": "https://img.aishort.top/imgprompt/20260225015538415.webp"
@@ -33169,7 +33169,7 @@
   },
   {
     "displayName": "illustration,(((ukiyoe))),((sketch)),((japanese_art))",
-    "langName": "Укиё-э (группа)",
+    "langName": "Иллюстрация в стиле укиё-э",
     "object": "Художественный стиль",
     "attribute": "Азиатское искусство",
     "preview": "https://img.aishort.top/imgprompt/20260225015830944.webp"
@@ -33260,7 +33260,7 @@
   },
   {
     "displayName": "heavy contrast",
-    "langName": "Сильный контраст (акцент на цвете)",
+    "langName": "Глубокий высокий контраст",
     "object": "Художественный стиль",
     "attribute": "Стиль фотографии/живописи",
     "preview": "https://img.aishort.top/imgprompt/20260225020108984.webp"
@@ -33323,7 +33323,7 @@
   },
   {
     "displayName": "film noir",
-    "langName": "Фильм нуар (вина, желание, месть)",
+    "langName": "Эстетика фильм-нуар",
     "object": "Художественный стиль",
     "attribute": "Стиль фотографии/живописи",
     "preview": "https://img.aishort.top/imgprompt/20260225020255566.webp"
@@ -33337,7 +33337,7 @@
   },
   {
     "displayName": "fantasy",
-    "langName": "Подходит для научно-фантастических сцен.",
+    "langName": "Стиль фэнтези",
     "object": "Художественный стиль",
     "attribute": "Научная фантастика",
     "preview": "https://img.aishort.top/imgprompt/20260225020323046.webp"
@@ -33393,7 +33393,7 @@
   },
   {
     "displayName": "ww3 style",
-    "langName": "стиль 3 мировой войны",
+    "langName": "Стиль Третьей мировой войны",
     "object": "Художественный стиль",
     "attribute": "Научная фантастика",
     "preview": "https://img.aishort.top/imgprompt/20260225020500212.webp"
@@ -33624,14 +33624,14 @@
   },
   {
     "displayName": "column lineup",
-    "langName": "Большое изображение, составленное из рядов маленьких картинок",
+    "langName": "Многоколоночная компоновка",
     "object": "Художественный стиль",
     "attribute": "Издания",
     "preview": "https://img.aishort.top/imgprompt/20260225021130372.webp"
   },
   {
     "displayName": "zoom layer",
-    "langName": "Фон — увеличенная версия переднего плана",
+    "langName": "Зум-слой",
     "object": "Художественный стиль",
     "attribute": "Издания",
     "preview": "https://img.aishort.top/imgprompt/20260225021142834.webp"
@@ -33680,7 +33680,7 @@
   },
   {
     "displayName": "highres",
-    "langName": "импасто (стиль)",
+    "langName": "Цифровой импасто",
     "object": "Художественный стиль",
     "attribute": "Цифровое искусство",
     "preview": "https://img.aishort.top/imgprompt/20260225021323241.webp"
@@ -34233,7 +34233,7 @@
   },
   {
     "displayName": "Sabattier Effect",
-    "langName": "Мягкие, размытые края и растекание цветов",
+    "langName": "Эффект Сабатье (Соляризация)",
     "object": "Постобработка",
     "attribute": "Обработка изображений",
     "preview": "https://img.aishort.top/imgprompt/20260225022949265.webp"
@@ -34268,7 +34268,7 @@
   },
   {
     "displayName": "Harris Shutter",
-    "langName": "Затвор Харриса (движение/слабое освещение)",
+    "langName": "Эффект затвора Харриса",
     "object": "Постобработка",
     "attribute": "Обработка изображений",
     "description": "Захватывает быстро движущиеся объекты или сохраняет чёткость изображения при слабом освещении",
@@ -34703,7 +34703,7 @@
   },
   {
     "displayName": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space,a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve,gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline,Beacon Hill brownstones,Acorn Street,Boston Public Garden,Swan Boats,Zakim Bridge,Fenway-inspired details,historic brick architecture,harbor ferries,and the city’s waterfront atmosphere. Soft morning fog,golden spring light,subtle festive accents in crimson and gold,rich detail,layered depth,sophisticated city-poster aesthetics,fresh and refined,visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON,A CITY OF RIVER,MEMORY,AND INVENTION”,text clear and beautifully composed,premium graphic design,9:16",
-    "langName": "Городской постер Boston весна 2026",
+    "langName": "Весенний городской плакат Бостона 2026",
     "object": "Примеры работ",
     "attribute": "Постер",
     "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
@@ -34711,7 +34711,7 @@
   },
   {
     "displayName": "Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast,Italy,panoramic coastal cliff road scene,classic 1960s white car driving along a curved seaside road,deep blue Mediterranean sea with small sailboats,colorful pastel hillside village,bright blue sky with soft clouds,lemon tree branches with vibrant yellow lemons framing the foreground,warm summer sunlight,bold vibrant colors,retro 1950s travel poster style,cinematic composition,high detail,screen print texture,graphic illustration. Hand-drawn style,illustration with loose strokes and defined contours. High-contrast color palette,maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.",
-    "langName": "Винтажный туристический постер Amalfi",
+    "langName": "Винтажный туристический плакат Амальфи",
     "object": "Примеры работ",
     "attribute": "Постер",
     "description": "by @WolfRiccardo (https://x.com/WolfRiccardo)",
@@ -34719,7 +34719,7 @@
   },
   {
     "displayName": "一张手绘风格的城市美食地图,以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底,标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等,每个插画约占地图的 5% 面积,旁边用手写体标注店名和一句推荐语\"凌晨两点还在排队的那家\"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题\"成都·吃货暴走地图\"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感,颜色以暖色系（辣椒红、姜黄、翠绿）为主,图片比例 1:1。",
-    "langName": "Иллюстрация гастрономической карты Chengdu",
+    "langName": "Иллюстрация гастрономической карты Чэнду",
     "object": "Примеры работ",
     "attribute": "Постер",
     "description": "by @Panda20230902 (https://x.com/Panda20230902)",
@@ -34734,8 +34734,8 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151157243.webp"
   },
   {
-    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑(广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
-    "langName": "Постер города Гуанчжоу весна 2026",
+    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑（广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
+    "langName": "Весенний городской плакат Гуанчжоу 2026",
     "object": "Примеры работ",
     "attribute": "Постер",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34743,7 +34743,7 @@
   },
   {
     "displayName": "以涂鸦速写风表现【一个厉害的AI builder】,整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一,略显凌乱但具有节奏和表现力,强调概括、夸张、趣味和随性,而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现,可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感,色彩根据【主题/主体】自动适配,但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果,不要细腻水彩过渡,不要纸纹理,不要柔和雾化,不要梦幻质感。  背景以留白为主,保持简洁、轻松、未完成感和设计感,可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素,以增强速写本或随笔式视觉语言,但不可过于拥挤,不可破坏主体和留白气质。  画面内容不需要预先写清楚,由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景,整体保持统一的涂鸦速写风和夸张概括的表现方式,避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“BlanPlan”,作为画面的一部分,位置低调但清晰,可放在左下角、右下角或标题附近,风格需与整体版式统一,像作品署名或设计落款；签名字体精致、克制、高级,不可过大,不可破坏主体构图,不可显得突兀或廉价。",
-    "langName": "Набросок-дудл AI Builder",
+    "langName": "Дудл-скетч AI-разработчика",
     "object": "Примеры работ",
     "attribute": "Постер",
     "description": "by @blanplan (https://x.com/blanplan)",
@@ -34759,7 +34759,7 @@
   },
   {
     "displayName": "小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて",
-    "langName": "Стиль постера Super Famicom",
+    "langName": "Плакат в стиле Super Famicom (SNES)",
     "object": "Примеры работ",
     "attribute": "Постер",
     "description": "by @lilimliliychan (https://x.com/lilimliliychan)",
@@ -34783,7 +34783,7 @@
   },
   {
     "displayName": "纯黑深邃底色,一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端,构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟,内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列,前景有白鹤与湖面,远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀,东方美学与现代意象交融,8K 超高清渲染,比例 9:16。",
-    "langName": "Постер эстетики Гуанчжоу с чернильными изгибами",
+    "langName": "Эстетический плакат Гуанчжоу с чернильными линиями",
     "object": "Примеры работ",
     "attribute": "Постер",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34799,7 +34799,7 @@
   },
   {
     "displayName": "一张充满新春喜庆但高雅的 2026 广州城市宣传海报,9:16 竖版,双重曝光,S 型流动构图。纯白纹理背景,右下角微缩传统服饰人物挥舞长红绸,红绸变形成山脉河流,内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。",
-    "langName": "Промо-постер Гуанчжоу весна 2026",
+    "langName": "Рекламный плакат Гуанчжоу весна 2026",
     "object": "Примеры работ",
     "attribute": "Постер",
     "description": "by @grok (https://x.com/grok)",
@@ -34823,7 +34823,7 @@
   },
   {
     "displayName": "以珠江新城现代都市景观为灵感的剪纸艺术,通过精巧的镂空手法在一整幅纸上,立体刻画广州塔、东西双塔等地标建筑与繁华城景。\n所有建筑与元素均以流畅的线条与结构相连,无孤立部分,构成一幅完整的都市画卷。\n画面采用金属箔或光泽纸材质,表面带有细腻的明暗光泽,在光照下呈现柔和的高光与阴影,仿佛被城市灯光轻轻照亮。\n背景以虚化的珠江新城天际线为衬,点缀隐约可见的花城广场与树木轮廓,整体透出现代浪漫的氛围。\n作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点,象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉,细节丰富,真实而富有艺术感染力。",
-    "langName": "Постер города Гуанчжоу в технике вырезки из бумаги",
+    "langName": "Городской плакат Гуанчжоу из вырезной бумаги",
     "object": "Примеры работ",
     "attribute": "Постер",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34879,7 +34879,7 @@
   },
   {
     "displayName": "以涂鸦速写风表现【一个厉害的AI builder】。",
-    "langName": "Набросок AI Builder",
+    "langName": "Набросок AI-разработчика",
     "object": "Примеры работ",
     "attribute": "Постер",
     "description": "by @opc_8838 (https://x.com/opc_8838)",
@@ -34919,7 +34919,7 @@
   },
   {
     "displayName": "平面插画,东方幻想风格高端城市海报设计,竖版9:16构图,整体采用对角线+S型流动构图,从左下向右上延展,画面以深邃黑色为背景,自上而下渐变至浓烈暗红色,形成强烈冷暖对比与空间纵深,背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿,自底部向上延伸,具有流体质感、粒子光效与渐变高光,局部带细微能量碎屑与体积光。\n\n金色流光中逐层浮现广州城市地标建筑群:广州塔为视觉核心,比例突出,周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素,建筑采用“精细线描 + 金色发光体块”表现,轮廓清晰、细节丰富,在金色光晕映衬下仿佛悬浮于虚空,形成超现实空间层次,远景轻微雾化增强纵深感。\n\n画面底部为一位东方白发女性形象,长发飘逸,如烟似雾,与金色流光自然衔接并逐渐融合,发丝半透明带渐变光感,姿态柔美,双目微闭,神情宁静,怀抱一束多彩鲜花,花间点缀微光粒子与星点效果,象征人与城市能量的精神连接,人物细节适度简化以突出整体设计感。\n\n光影集中于金色流线、建筑与人物轮廓,形成强烈明暗对比与视觉聚焦,整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底,高亮鎏金为主视觉强调,金色具备丰富明暗层次,辅以小面积高饱和花束色彩点缀,整体高级克制。\n\n页面文字与画面融合排版:顶部居中宋体大字“广州·中国”,下方小字“2026/04/20”,再下方小字“LIYUE”,文字采用淡金色或柔和暖白色,与整体光影统一。高品质细节,电影级光影表现,体积光与粒子细节丰富,画面干净无噪点,超高清8K分辨率,商业级海报质感。",
-    "langName": "Тёмно-фэнтезийный постер города Гуанчжоу",
+    "langName": "Городской плакат Гуанчжоу в стиле тёмного фэнтези",
     "object": "Примеры работ",
     "attribute": "Постер",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34951,7 +34951,7 @@
   },
   {
     "displayName": "A refined 2026 Silicon Valley city promotional poster with a futuristic yet elegant atmosphere.\n\nDouble exposure composition,preserving an S-shaped sense of flowing movement. On a pure white textured background,in the lower-right corner,a miniature figure dressed in sleek modern techwear is releasing a long ribbon of luminous silver-blue light. The ribbon flows gracefully through the air,showing a soft silk-like texture,and as it drifts toward the upper-left,it magically transforms into a grand landscape of rolling hills,coastline,data streams,and illuminated urban terrain.\n\nWithin this flowing “river of light,” overlay a hand-drawn panoramic map of Silicon Valley,blending technology,nature,innovation,and California sunlight. The scene feels visionary,expansive,sophisticated,and inspiring.\n\nInclude iconic Silicon Valley and Bay Area elements: Stanford University arches,Apple Park,Google campus-inspired buildings,Meta-like glass offices,Tesla-style innovation imagery,venture capital offices on Sand Hill Road,Palo Alto tree-lined streets,San Jose skyline,the Santa Cruz Mountains,San Francisco Bay,highways,autonomous vehicles,startup labs,semiconductor patterns,AI data centers,and subtle circuit-board textures.\n\nSurrounded by soft mist,golden California light,floating clouds,and delicate digital particles. Rich colors,complex structure,highly detailed,grand and breathtaking,yet still fresh and minimal because of the large areas of white space.\n\nIn the lower-left corner,elegant typography reads “SILICON VALLEY 2026” with a vertical promotional slogan: “Where Ideas Shape Tomorrow.” Beautiful editorial layout,graceful spacing,clear and complete lettering,premium city branding poster,cinematic lighting,sophisticated details,9:16 aspect ratio.",
-    "langName": "Промо-постер Silicon Valley 2026",
+    "langName": "Рекламный плакат Кремниевой долины 2026",
     "object": "Примеры работ",
     "attribute": "Постер",
     "description": "by @carsonyungos (https://x.com/carsonyungos)",
@@ -35111,7 +35111,7 @@
   },
   {
     "displayName": "最新モデルの画像生成ツールを使用して、\nこのちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）\nギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。\n\n「ここに自己紹介」\n\n名前:（ここに名前） \nイメージカラー:（ここに色） \n身長:（ここに身長）cm \n体重:（ここに体重）kg\nキャッチコピー:”「ここにセリフ」”",
-    "langName": "Страница представления персонажа Gal Game",
+    "langName": "Страница представления персонажа визуальной новеллы",
     "object": "Примеры работ",
     "attribute": "Персонаж",
     "description": "by @09lyco (https://x.com/09lyco)",
@@ -35119,7 +35119,7 @@
   },
   {
     "displayName": "このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 \n・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 \n・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる \n・全体は整理されたレイアウト\n（白背景、図解風） \n・アスペクト比16：9\n\n高解像度、プロのコンセプトアートスタイル",
-    "langName": "Официальный лист персонажа (JP)",
+    "langName": "Официальный концепт-арт персонажа",
     "object": "Примеры работ",
     "attribute": "Персонаж",
     "description": "by @Toshi_nyaruo_AI (https://x.com/Toshi_nyaruo_AI)",
@@ -35135,7 +35135,7 @@
   },
   {
     "displayName": "生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片,每张卡牌上写上对应的中文名,每行4个,宽高比16:9。",
-    "langName": "Сетка карточек Золотых Святых Saint Seiya",
+    "langName": "Сетка карт Золотых святых (Святой Сэйя)",
     "object": "Примеры работ",
     "attribute": "Персонаж",
     "description": "by @songguoxiansen (https://x.com/songguoxiansen)",
@@ -35159,7 +35159,7 @@
   },
   {
     "displayName": "Amateur iPhone photo at Apple Park during the iPhone 20 keynote,Tim Cook presenting on stage. Shot from the crowd at a distance",
-    "langName": "Любительский снимок iPhone Keynote",
+    "langName": "Любительский снимок презентации iPhone",
     "object": "Примеры работ",
     "attribute": "UI",
     "description": "by @patrickassale (https://x.com/patrickassale)",
@@ -35191,7 +35191,7 @@
   },
   {
     "displayName": "9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊！",
-    "langName": "Скриншот трансляции Douyin Liu Yifei",
+    "langName": "Скриншот прямого эфира Лю Ифэй в Douyin / TikTok",
     "object": "Примеры работ",
     "attribute": "UI",
     "description": "by @alanblogsooo (https://x.com/alanblogsooo)",
@@ -35199,7 +35199,7 @@
   },
   {
     "displayName": "태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.",
-    "langName": "Страница X короля Тэджо Ли Сонге",
+    "langName": "Страница короля Тхэджо Ли Сонге в X",
     "object": "Примеры работ",
     "attribute": "UI",
     "description": "by @SKA_Neotype (https://x.com/SKA_Neotype)",
@@ -35215,7 +35215,7 @@
   },
   {
     "displayName": "「いらすとや」のほのぼのとした雰囲気と、「霞ヶ関スライド」の圧倒的な情報密度を融合させた、桃太郎の解説スライド（ポンチ絵）を作成して",
-    "langName": "Объясняющий слайд Момотаро",
+    "langName": "Информационный слайд о Момотаро",
     "object": "Примеры работ",
     "attribute": "UI",
     "description": "by @yammamon (https://x.com/yammamon)",
@@ -35223,7 +35223,7 @@
   },
   {
     "displayName": "请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。\n\n要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构,用户无需再提供其他信息。\n\n整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图,而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感,整体高级、克制、专业、可收藏。\n\n版式固定为：\n- 顶部：中文主标题 + 副标题 + 导语\n- 左侧：结构拆解区,中文引线标注关键部件,并配局部特写\n- 右上：材质 / 工艺 / 质感区,展示真实纹理小样并附说明\n- 右中：纹样 / 色彩 / 寓意区,展示主色板、纹样样本和文化解释\n- 底部：穿着顺序 / 构成流程图 + 核心特征总结\n\n若主题适合人物展示,则以真实人物全身站姿为中央主体；若更适合器物或单体结构,则改为中心主体拆解图,但整体仍保持完整中文信息图形式。所有文字必须为简体中文,清晰、规整、可读,不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。\n\n避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。",
-    "langName": "Инфографика разбора Ханьфу в стиле музея",
+    "langName": "Музейная инфографика разбора ханьфу",
     "object": "Примеры работ",
     "attribute": "UI",
     "description": "by @MrLarus (https://x.com/MrLarus)",
@@ -35231,7 +35231,7 @@
   },
   {
     "displayName": "この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。",
-    "langName": "Экран статуса японской RPG",
+    "langName": "Экран характеристик в японской RPG",
     "object": "Примеры работ",
     "attribute": "UI",
     "description": "by @Kashiko_AIart (https://x.com/Kashiko_AIart)",
@@ -35239,7 +35239,7 @@
   },
   {
     "displayName": "玄武门之变的朋友圈",
-    "langName": "Социальная лента Ворот Сюаньу",
+    "langName": "Лента соцсетей: Инцидент у ворот Сюаньу",
     "object": "Примеры работ",
     "attribute": "UI",
     "description": "by @Tz_2022 (https://x.com/Tz_2022)",
@@ -35263,7 +35263,7 @@
   },
   {
     "displayName": "生成一张慈禧的X主页",
-    "langName": "Страница X Вдовствующей Императрицы Цыси",
+    "langName": "Страница императрицы Цыси в X",
     "object": "Примеры работ",
     "attribute": "UI",
     "description": "by @Cryptohaifeng_ (https://x.com/Cryptohaifeng_)",
@@ -35287,7 +35287,7 @@
   },
   {
     "displayName": "GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください",
-    "langName": "Промо поп-постер Don Quijote",
+    "langName": "Рекламный рукописный POP-плакат в стиле Don Quijote",
     "object": "Примеры работ",
     "attribute": "UI",
     "description": "by @loglogrog (https://x.com/loglogrog)",
@@ -35303,7 +35303,7 @@
   },
   {
     "displayName": "A 9:16 vertical version,high-detail realistic style Chinese TikTok live screenshot,Elon Musk is talking to the mobile phone camera in the live broadcast room,excited,smiling,and the live atmosphere is warm and real. He held a white handwritten sign in one hand,which clearly said: \"Thank you Shinning\". There are obvious Chinese TikTok interface elements in the live broadcast screen,including likes,comments and share icons arranged vertically on the right,scrolling Chinese bullet screens and interactive comments below,and the \"live broadcast\" logo at the top,which looks like a real mobile phone screenshot. There is an eye-catching gift prompt special effect in the screen: \"Shinning sent TikTok No. 1\",with gift animation light effect and platform-style prompt box. Musk is in a professional live broadcast environment,with a mobile phone holder,a ring fill light and a desktop microphone in front of him. The background is a modern technology live broadcast room with bright lights and a slight neon atmosphere. The composition is real and natural,like the ongoing live screenshot of the Chinese short video platform. The interface information is rich but not messy,the characters are clear,the expression is vivid,the details are rich,the sense of real photography,the depth of field,high definition,cinematic,photorealistic,realistic livestream screenshot,social media UI,Chinese Douyin live room,detailed lighting,natural skin texture.\n\nNegative prompts:\n\nLow definition,blur,cartoon,illustration,too strong CG sense,two-dimensional,deformed fingers,wrong text,scrambled code,multiple mobile phones,multiple brands,character repetition,face collapse,facial features distortion,excessive skin polishing,overexposure,too dark,messy background,wrong UI,non-Chinese short video interface,too many English bullet screens,gift special effects are not obvious,cropping error,proportional error\n\nSupplementary reinforcement words:\n\nReal mobile phone screen recording screenshot feeling,the live broadcast UI is complete,the gift prompt box conforms to the style of the Chinese short video platform,the Chinese comment area is active,the number of people online in the live broadcast room is clearly displayed,and the time,power and signal bar are visible.",
-    "langName": "Скриншот трансляции Douyin Elon Musk",
+    "langName": "Скриншот прямого эфира Илона Маска в Douyin / TikTok",
     "object": "Примеры работ",
     "attribute": "UI",
     "description": "by @Shinning1010 (https://x.com/Shinning1010)",
@@ -35311,7 +35311,7 @@
   },
   {
     "displayName": "9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊!",
-    "langName": "Скриншот трансляции Douyin Liu Yifei",
+    "langName": "Скриншот прямого эфира Лю Ифэй в Douyin / TikTok",
     "object": "Примеры работ",
     "attribute": "UI",
     "description": "by @kylegeeks (https://x.com/kylegeeks)",
@@ -35327,7 +35327,7 @@
   },
   {
     "displayName": "1、生成特朗普和金正恩在抖音直播间打PK的截图  \n2、生成不知火舞的小红书主页截图  \n3、生成图片: 手写在教室黑板上的出师表全文,真实感的粉笔字迹,晴朗白天用iPhone手机实拍  \n4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图,产品价格,产品细节,功能和使用场景等",
-    "langName": "Скриншот прямого эфира PK Trump и Kim",
+    "langName": "Скриншот баттла Трампа и Ким Чен Ына в прямом эфире",
     "object": "Примеры работ",
     "attribute": "UI",
     "description": "by @alanlovelq (https://x.com/alanlovelq)",

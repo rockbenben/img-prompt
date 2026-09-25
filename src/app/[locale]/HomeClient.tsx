@@ -41,6 +41,9 @@ interface HomeClientProps {
   objects: string[];
   attributes: Record<string, string[]>;
   firstChunk: TagItem[];
+  // SSG 内联的 firstChunk 可能只是首块前缀（sliceData 的 FIRST_INLINE），
+  // 全集长度在这里声明，供截断感知逻辑判断
+  firstChunkTotal: number;
 }
 
 // 分享链接参数解析：索引（新格式，locale 无关）→ 对应名字；
@@ -51,7 +54,7 @@ const resolveCategoryParam = (param: string | null, list: string[]): string | nu
   return list.includes(param) ? param : null;
 };
 
-const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObject, firstChunk }) => {
+const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObject, firstChunk, firstChunkTotal }) => {
   const t = useTranslations("ToolPage");
   const searchParams = useSearchParams();
   const locale = useLocale();
@@ -65,7 +68,7 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
   );
 
   // 仅当前 object 的 tags（按需 fetch）
-  const { tags: objectTags, status: tagsStatus, retry: retryTags } = useObjectTags(locale, activeObjectIndex, firstChunk);
+  const { tags: objectTags, status: tagsStatus, retry: retryTags } = useObjectTags(locale, activeObjectIndex, firstChunk, firstChunkTotal);
 
   // 合并 custom 标签（小）
   const combinedTagsData = useMemo<TagItem[]>(

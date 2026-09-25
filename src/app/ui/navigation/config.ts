@@ -30,7 +30,7 @@ const LABELS: Record<string, string> = {
   tr: "Türkçe",
   "zh-hant": "繁體中文",
   bn: "বাংলা",
-  id: "Indonesia",
+  id: "Bahasa Indonesia",
   it: "Italiano",
 };
 

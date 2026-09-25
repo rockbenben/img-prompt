@@ -117,7 +117,13 @@ export function LanguageSelector() {
       {isMobile ? (
         <>
           {trigger}
-          <Drawer title={t("language")} placement="bottom" onClose={() => setLangOpen(false)} open={langOpen} styles={{ body: { padding: 16 } }}>
+          <Drawer
+            title={t("language")}
+            placement="bottom"
+            closable={{ "aria-label": t("close") }}
+            onClose={() => setLangOpen(false)}
+            open={langOpen}
+            styles={{ body: { padding: 16 } }}>
             {renderLanguageList()}
           </Drawer>
         </>

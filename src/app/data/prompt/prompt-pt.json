@@ -435,7 +435,7 @@
   },
   {
     "displayName": "cleric",
-    "langName": "Clero (cristão)",
+    "langName": "Clérigo",
     "object": "Personagem",
     "attribute": "Identidade",
     "preview": "https://img.aishort.top/imgprompt/20260208072159895.webp"
@@ -526,7 +526,7 @@
   },
   {
     "displayName": "trap",
-    "langName": "Trap",
+    "langName": "Femboy / Travesti",
     "object": "Personagem",
     "attribute": "Identidade",
     "description": "Personagem masculino com traços femininos que pode ser confundido com uma mulher",
@@ -541,14 +541,14 @@
   },
   {
     "displayName": "otoko_no_ko",
-    "langName": "Otokonoko (menino com aparência feminina)",
+    "langName": "Otokonoko",
     "object": "Personagem",
     "attribute": "Identidade",
     "preview": "https://img.aishort.top/imgprompt/20260208074725601.webp"
   },
   {
     "displayName": "gyaru",
-    "langName": "Raparigas quentes (raparigas japonesas)",
+    "langName": "Gyaru",
     "object": "Personagem",
     "attribute": "Identidade",
     "preview": "https://img.aishort.top/imgprompt/20260210193812753.webp"
@@ -562,14 +562,14 @@
   },
   {
     "displayName": "yaoi",
-    "langName": "Ser gay",
+    "langName": "Yaoi / Boys' Love",
     "object": "Personagem",
     "attribute": "Identidade",
     "preview": "https://img.aishort.top/imgprompt/20260208074725603.webp"
   },
   {
     "displayName": "yuri",
-    "langName": "lírio",
+    "langName": "Yuri / Girls' Love",
     "object": "Personagem",
     "attribute": "Identidade",
     "preview": "https://img.aishort.top/imgprompt/20260209061704191.webp"
@@ -646,7 +646,7 @@
   },
   {
     "displayName": "mazinger",
-    "langName": "mulher maravilha",
+    "langName": "Mazinger Z",
     "object": "Personagem",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537640.webp"
@@ -723,7 +723,7 @@
   },
   {
     "displayName": "magister",
-    "langName": "Magister",
+    "langName": "Grão-mago",
     "object": "Personagem",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063029682.webp"
@@ -758,7 +758,7 @@
   },
   {
     "displayName": "orc",
-    "langName": "orc",
+    "langName": "Orque",
     "object": "Personagem",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063108912.webp"
@@ -772,7 +772,7 @@
   },
   {
     "displayName": "elf",
-    "langName": "duende",
+    "langName": "Elfo",
     "object": "Personagem",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063126234.webp"
@@ -786,14 +786,14 @@
   },
   {
     "displayName": "fairy",
-    "langName": "elfo",
+    "langName": "Fada",
     "object": "Personagem",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063141969.webp"
   },
   {
     "displayName": "succubus",
-    "langName": "súcubo",
+    "langName": "Súcubo",
     "object": "Personagem",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063148926.webp"
@@ -828,14 +828,14 @@
   },
   {
     "displayName": "monster_girl",
-    "langName": "Mãe do estrangeiro",
+    "langName": "Garota monstro",
     "object": "Personagem",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063226407.webp"
   },
   {
     "displayName": "dominatrix",
-    "langName": "Rainha (SM Medium)",
+    "langName": "Dominatrix",
     "object": "Personagem",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063233422.webp"
@@ -968,21 +968,21 @@
   },
   {
     "displayName": "horse_girl",
-    "langName": "Ma Niang",
+    "langName": "Garota cavalo",
     "object": "Personagem",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537637.webp"
   },
   {
     "displayName": "furry",
-    "langName": "orc",
+    "langName": "Furry / Antropomórfico",
     "object": "Personagem",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537632.webp"
   },
   {
     "displayName": "furry/orc",
-    "langName": "Orcs/Orcs",
+    "langName": "Furry / Orc",
     "object": "Personagem",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537646.webp"
@@ -1010,14 +1010,14 @@
   },
   {
     "displayName": "mesugaki",
-    "langName": "diabinha",
+    "langName": "Mesugaki",
     "object": "Personagem",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537644.webp"
   },
   {
     "displayName": "santa alter",
-    "langName": "Papai Noel",
+    "langName": "Santa Alter",
     "object": "Personagem",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537639.webp"
@@ -1052,7 +1052,7 @@
   },
   {
     "displayName": "kindergartener",
-    "langName": "jardim de infância",
+    "langName": "Criança do jardim de infância",
     "object": "Personagem",
     "attribute": "Idade",
     "preview": "https://img.aishort.top/imgprompt/20260210192804244.webp"
@@ -1073,14 +1073,14 @@
   },
   {
     "displayName": "early teen",
-    "langName": "Início da adolescência (11-15)",
+    "langName": "Início da adolescência",
     "object": "Personagem",
     "attribute": "Idade",
     "preview": "https://img.aishort.top/imgprompt/20260210192804238.webp"
   },
   {
     "displayName": "teenager",
-    "langName": "Adolescente (13-19)",
+    "langName": "Adolescente",
     "object": "Personagem",
     "attribute": "Idade",
     "preview": "https://img.aishort.top/imgprompt/20260210192804240.webp"
@@ -1192,7 +1192,7 @@
   },
   {
     "displayName": "tanlines",
-    "langName": "danos causados pelo sol",
+    "langName": "Marcas de bronzeado",
     "object": "Personagem",
     "attribute": "Pele",
     "preview": "https://img.aishort.top/imgprompt/20260210193621164.webp"
@@ -1206,7 +1206,7 @@
   },
   {
     "displayName": "oil_skin",
-    "langName": "oil skin",
+    "langName": "Pele oleosa",
     "object": "Personagem",
     "attribute": "Pele",
     "preview": "https://img.aishort.top/imgprompt/20260210195122883.webp"
@@ -1220,7 +1220,7 @@
   },
   {
     "displayName": "skinny",
-    "langName": "Magro",
+    "langName": "Muito magro / Esbelto",
     "object": "Personagem",
     "attribute": "Corpo",
     "preview": "https://img.aishort.top/imgprompt/20260210220225600.webp"
@@ -1318,7 +1318,7 @@
   },
   {
     "displayName": "(cleavage visible,large breasts)",
-    "langName": "Seios grandes (com decote)",
+    "langName": "Seios grandes (decote visível)",
     "object": "Personagem",
     "attribute": "Corpo",
     "preview": "https://img.aishort.top/imgprompt/20260211065136926.webp"
@@ -1808,14 +1808,14 @@
   },
   {
     "displayName": "hair bun",
-    "langName": "Pão | Bolinho de Massa",
+    "langName": "Coque",
     "object": "Personagem",
     "attribute": "Penteado",
     "preview": "https://img.aishort.top/imgprompt/20260211134337333.webp"
   },
   {
     "displayName": "single_hair_bun",
-    "langName": "pão único",
+    "langName": "Coque único",
     "object": "Personagem",
     "attribute": "Penteado",
     "preview": "https://img.aishort.top/imgprompt/20260211134351469.webp"
@@ -1850,14 +1850,14 @@
   },
   {
     "displayName": "doughnut hair bun",
-    "langName": "pão de donut",
+    "langName": "Coque donut",
     "object": "Personagem",
     "attribute": "Penteado",
     "preview": "https://img.aishort.top/imgprompt/20260212070356611.webp"
   },
   {
     "displayName": "heart hair bun",
-    "langName": "pãozinho de coração",
+    "langName": "Coque de coração",
     "object": "Personagem",
     "attribute": "Penteado",
     "preview": "https://img.aishort.top/imgprompt/20260211134516445.webp"
@@ -1948,14 +1948,14 @@
   },
   {
     "displayName": "bangs",
-    "langName": "Pancadas",
+    "langName": "Franja",
     "object": "Personagem",
     "attribute": "Penteado",
     "preview": "https://img.aishort.top/imgprompt/20260211134915118.webp"
   },
   {
     "displayName": "blunt bangs",
-    "langName": "Qi bangs",
+    "langName": "Franja reta",
     "object": "Personagem",
     "attribute": "Penteado",
     "preview": "https://img.aishort.top/imgprompt/20260211134928539.webp"
@@ -1976,7 +1976,7 @@
   },
   {
     "displayName": "air bangs",
-    "langName": "franja de ar",
+    "langName": "Franja desfiada",
     "object": "Personagem",
     "attribute": "Penteado",
     "preview": "https://img.aishort.top/imgprompt/20260211135006710.webp"
@@ -2004,7 +2004,7 @@
   },
   {
     "displayName": "side_blunt_bangs",
-    "langName": "franjas de ar laterais",
+    "langName": "Franja leve lateral",
     "object": "Personagem",
     "attribute": "Penteado",
     "preview": "https://img.aishort.top/imgprompt/20260211135057869.webp"
@@ -2081,7 +2081,7 @@
   },
   {
     "displayName": "ahoge",
-    "langName": "Estúpido",
+    "langName": "Ahoge",
     "object": "Personagem",
     "attribute": "Penteado",
     "preview": "https://img.aishort.top/imgprompt/20260211135331864.webp"
@@ -2214,7 +2214,7 @@
   },
   {
     "displayName": "mole",
-    "langName": "toupeira",
+    "langName": "Pinta",
     "object": "Personagem",
     "attribute": "Rosto",
     "preview": "https://img.aishort.top/imgprompt/20260317125729198.webp"
@@ -2767,7 +2767,7 @@
   },
   {
     "displayName": "eye_relfection",
-    "langName": "Reflexo ocular (reação da pupila à luz)",
+    "langName": "Reflexo nos olhos",
     "object": "Personagem",
     "attribute": "Olho",
     "preview": "https://img.aishort.top/imgprompt/20260211141526968.webp"
@@ -2970,7 +2970,7 @@
   },
   {
     "displayName": "solid_oval_eyes",
-    "langName": "Versão Q olhos ovais sólidos",
+    "langName": "Olhos ovais estilo chibi",
     "object": "Personagem",
     "attribute": "Olho",
     "preview": "https://img.aishort.top/imgprompt/20260211142239019.webp"
@@ -2984,7 +2984,7 @@
   },
   {
     "displayName": "blush_stickers",
-    "langName": "Autocolante blush versão Q",
+    "langName": "Adesivos de blush chibi",
     "object": "Personagem",
     "attribute": "Olho",
     "preview": "https://img.aishort.top/imgprompt/20260211142304171.webp"
@@ -3019,14 +3019,14 @@
   },
   {
     "displayName": "sanpaku",
-    "langName": "Síndrome do triplo branco (desvio da pupila)",
+    "langName": "Olhos sanpaku",
     "object": "Personagem",
     "attribute": "Olho",
     "preview": "https://img.aishort.top/imgprompt/20260211142408606.webp"
   },
   {
     "displayName": "flaming_eye",
-    "langName": "Homura",
+    "langName": "Olhos flamejantes",
     "object": "Personagem",
     "attribute": "Olho",
     "preview": "https://img.aishort.top/imgprompt/20260211142422174.webp"
@@ -3082,7 +3082,7 @@
   },
   {
     "displayName": "half_closed_eye",
-    "langName": "Olho meio fechado (olho único)",
+    "langName": "Olho semiaberto",
     "object": "Personagem",
     "attribute": "Olho",
     "preview": "https://img.aishort.top/imgprompt/20260211142557836.webp"
@@ -3180,21 +3180,21 @@
   },
   {
     "displayName": "no_blindfold",
-    "langName": "Removido o elemento da venda (original)",
+    "langName": "Sem venda nos olhos",
     "object": "Personagem",
     "attribute": "Olho",
     "preview": "https://img.aishort.top/imgprompt/20260211220153156.webp"
   },
   {
     "displayName": "no_eyepatch",
-    "langName": "Remoção da máscara ocular (existente)",
+    "langName": "Sem tapa-olho",
     "object": "Personagem",
     "attribute": "Olho",
     "preview": "https://img.aishort.top/imgprompt/20260211142907966.webp"
   },
   {
     "displayName": "eyeliner",
-    "langName": "Eyeliner",
+    "langName": "Delineador de olhos",
     "object": "Personagem",
     "attribute": "Olho",
     "preview": "https://img.aishort.top/imgprompt/20260211142920494.webp"
@@ -3222,7 +3222,7 @@
   },
   {
     "displayName": "bright_pupils",
-    "langName": "alunos brilhantes",
+    "langName": "Pupilas brilhantes",
     "object": "Personagem",
     "attribute": "Pupila",
     "preview": "https://img.aishort.top/imgprompt/20260211143011456.webp"
@@ -3236,7 +3236,7 @@
   },
   {
     "displayName": "purple_pupils",
-    "langName": "Alunos roxos",
+    "langName": "Pupilas roxas",
     "object": "Personagem",
     "attribute": "Pupila",
     "preview": "https://img.aishort.top/imgprompt/20260211143037152.webp"
@@ -3257,14 +3257,14 @@
   },
   {
     "displayName": "mismatched_pupils",
-    "langName": "alunos incompatíveis",
+    "langName": "Pupilas desiguais",
     "object": "Personagem",
     "attribute": "Pupila",
     "preview": "https://img.aishort.top/imgprompt/20260211143115346.webp"
   },
   {
     "displayName": "solid_circle_pupils",
-    "langName": "Versão Q pupilas redondas sólidas",
+    "langName": "Pupilas redondas estilo chibi",
     "object": "Personagem",
     "attribute": "Pupila",
     "preview": "https://img.aishort.top/imgprompt/20260211143127812.webp"
@@ -3292,7 +3292,7 @@
   },
   {
     "displayName": "snake_pupils",
-    "langName": "Pupilas de serpentes (flash de pupilas)",
+    "langName": "Pupilas de cobra",
     "object": "Personagem",
     "attribute": "Pupila",
     "preview": "https://img.aishort.top/imgprompt/20260317093813015.webp"
@@ -3313,14 +3313,14 @@
   },
   {
     "displayName": "square_pupils",
-    "langName": "alunos quadrados",
+    "langName": "Pupilas quadradas",
     "object": "Personagem",
     "attribute": "Pupila",
     "preview": "https://img.aishort.top/imgprompt/20260211143256433.webp"
   },
   {
     "displayName": "dot_pupils",
-    "langName": "aluno ponto",
+    "langName": "Pupilas pontuais",
     "object": "Personagem",
     "attribute": "Pupila",
     "preview": "https://img.aishort.top/imgprompt/20260211143308943.webp"
@@ -3362,7 +3362,7 @@
   },
   {
     "displayName": "symbol-shaped_pupils",
-    "langName": "Alunos simbólicos",
+    "langName": "Pupilas em forma de símbolo",
     "object": "Personagem",
     "attribute": "Pupila",
     "preview": "https://img.aishort.top/imgprompt/20260211143425446.webp"
@@ -3376,7 +3376,7 @@
   },
   {
     "displayName": "cross-shaped_pupils",
-    "langName": "Alunos simbólicos (sem efeito",
+    "langName": "Pupilas em cruz",
     "object": "Personagem",
     "attribute": "Pupila",
     "preview": "https://img.aishort.top/imgprompt/20260211143449975.webp"
@@ -3390,21 +3390,21 @@
   },
   {
     "displayName": "extra_pupils",
-    "langName": "pupilas extras",
+    "langName": "Pupilas extras",
     "object": "Personagem",
     "attribute": "Pupila",
     "preview": "https://img.aishort.top/imgprompt/20260211143515703.webp"
   },
   {
     "displayName": "no_pupils",
-    "langName": "nenhum aluno",
+    "langName": "Sem pupilas",
     "object": "Personagem",
     "attribute": "Pupila",
     "preview": "https://img.aishort.top/imgprompt/20260317094748513.webp"
   },
   {
     "displayName": "devil pupils",
-    "langName": "aluno mágico",
+    "langName": "Pupilas demoníacas",
     "object": "Personagem",
     "attribute": "Pupila",
     "preview": "https://img.aishort.top/imgprompt/20260317094053112.webp"
@@ -3670,7 +3670,7 @@
   },
   {
     "displayName": "gasping",
-    "langName": "Arfar (abrir a boca)",
+    "langName": "Ofegante",
     "object": "Personagem",
     "attribute": "Boca",
     "preview": "https://img.aishort.top/imgprompt/20260317100011869.webp"
@@ -3726,7 +3726,7 @@
   },
   {
     "displayName": ":3",
-    "langName": "Maozui",
+    "langName": "Boca de gato",
     "object": "Personagem",
     "attribute": "Boca",
     "preview": "https://img.aishort.top/imgprompt/20260317100112576.webp"
@@ -3761,7 +3761,7 @@
   },
   {
     "displayName": "chestnut_mouth",
-    "langName": "Lizizui",
+    "langName": "Boca triangular",
     "object": "Personagem",
     "attribute": "Boca",
     "preview": "https://img.aishort.top/imgprompt/20260211144640830.webp"
@@ -3817,7 +3817,7 @@
   },
   {
     "displayName": "homu",
-    "langName": "Pout | Pout",
+    "langName": "Pout",
     "object": "Personagem",
     "attribute": "Boca",
     "preview": "https://img.aishort.top/imgprompt/20260211144827721.webp"
@@ -3901,7 +3901,7 @@
   },
   {
     "displayName": "mouth_drool",
-    "langName": "Gota de baba (canto da boca)",
+    "langName": "Babando no canto da boca",
     "object": "Personagem",
     "attribute": "Boca",
     "preview": "https://img.aishort.top/imgprompt/20260317100321880.webp"
@@ -3964,7 +3964,7 @@
   },
   {
     "displayName": "fang_out",
-    "langName": "Desnudar as presas | Desnudar as presas",
+    "langName": "Desnudar as presas",
     "object": "Personagem",
     "attribute": "Dentes",
     "preview": "https://img.aishort.top/imgprompt/20260317100418214.webp"
@@ -4048,7 +4048,7 @@
   },
   {
     "displayName": "uvula",
-    "langName": "úvula | úvula | úvula",
+    "langName": "úvula",
     "object": "Personagem",
     "attribute": "Língua",
     "preview": "https://img.aishort.top/imgprompt/20260211145547542.webp"
@@ -4111,7 +4111,7 @@
   },
   {
     "displayName": "nail",
-    "langName": "Unhas | Unhas",
+    "langName": "Unhas",
     "object": "Personagem",
     "attribute": "Unha",
     "preview": "https://img.aishort.top/imgprompt/20260211145741915.webp"
@@ -4167,42 +4167,42 @@
   },
   {
     "displayName": "flat chest",
-    "langName": "Peitos pequenos (A)",
+    "langName": "Peito reto",
     "object": "Personagem",
     "attribute": "Peito",
     "preview": "https://img.aishort.top/imgprompt/20260212064123283.webp"
   },
   {
     "displayName": "small_breasts",
-    "langName": "Mamas pequenas (B)",
+    "langName": "Seios pequenos",
     "object": "Personagem",
     "attribute": "Peito",
     "preview": "https://img.aishort.top/imgprompt/20260212071540871.webp"
   },
   {
     "displayName": "medium breasts",
-    "langName": "Peito médio (C)",
+    "langName": "Seios médios",
     "object": "Personagem",
     "attribute": "Peito",
     "preview": "https://img.aishort.top/imgprompt/20260212071540873.webp"
   },
   {
     "displayName": "big breasts",
-    "langName": "Mamas grandes (D)",
+    "langName": "Seios grandes",
     "object": "Personagem",
     "attribute": "Peito",
     "preview": "https://img.aishort.top/imgprompt/20260212071540872.webp"
   },
   {
     "displayName": "huge breasts",
-    "langName": "Seios grandes (E)",
+    "langName": "Seios enormes",
     "object": "Personagem",
     "attribute": "Peito",
     "preview": "https://img.aishort.top/imgprompt/20260212071540870.webp"
   },
   {
     "displayName": "gigantic breasts",
-    "langName": "Seios super grandes (F)",
+    "langName": "Seios gigantescos",
     "object": "Personagem",
     "attribute": "Peito",
     "preview": "https://img.aishort.top/imgprompt/20260212071540874.webp"
@@ -4334,7 +4334,7 @@
   },
   {
     "displayName": "toe-point",
-    "langName": "ponta do dedo do pé | ponta do dedo do pé",
+    "langName": "ponta do dedo do pé",
     "object": "Personagem",
     "attribute": "Pé",
     "preview": "https://img.aishort.top/imgprompt/20260211150409118.webp"
@@ -4383,7 +4383,7 @@
   },
   {
     "displayName": "detached_wings",
-    "langName": "Asas que não estão ligadas ao corpo",
+    "langName": "Asas flutuantes / separadas",
     "object": "Personagem",
     "attribute": "Asa",
     "preview": "https://img.aishort.top/imgprompt/20260211150537125.webp"
@@ -4453,7 +4453,7 @@
   },
   {
     "displayName": "no_wings",
-    "langName": "Asas removidas (originais)",
+    "langName": "Sem asas",
     "object": "Personagem",
     "attribute": "Asa",
     "preview": "https://img.aishort.top/imgprompt/20260212072704705.webp"
@@ -4579,7 +4579,7 @@
   },
   {
     "displayName": "foral_background",
-    "langName": "Fundo decorativo com padrão floral",
+    "langName": "Fundo com estampa floral",
     "object": "Ambiente",
     "attribute": "Fundo",
     "preview": "https://img.aishort.top/imgprompt/20260211151130102.webp"
@@ -4698,7 +4698,7 @@
   },
   {
     "displayName": "rounded_corners",
-    "langName": "O fundo ou a moldura tem cantos arredondados",
+    "langName": "Cantos arredondados",
     "object": "Ambiente",
     "attribute": "Fundo",
     "preview": "https://img.aishort.top/imgprompt/20260211151506847.webp"
@@ -4712,7 +4712,7 @@
   },
   {
     "displayName": "outside_border",
-    "langName": "Parte da pintura está fora da moldura de fundo",
+    "langName": "Saindo da moldura",
     "object": "Ambiente",
     "attribute": "Fundo",
     "preview": "https://img.aishort.top/imgprompt/20260211151532945.webp"
@@ -4726,7 +4726,7 @@
   },
   {
     "displayName": "windowboxed",
-    "langName": "Conjunto de molduras para fotografias (fundo)",
+    "langName": "Enquadramento em janela",
     "object": "Ambiente",
     "attribute": "Fundo",
     "preview": "https://img.aishort.top/imgprompt/20260211151559726.webp"
@@ -4929,7 +4929,7 @@
   },
   {
     "displayName": "beautiful detailed sky,beautiful detailed water",
-    "langName": "Bom tempo e boa água",
+    "langName": "Céu e água detalhados",
     "object": "Ambiente",
     "attribute": "Natureza",
     "preview": "https://img.aishort.top/imgprompt/20260211152348882.webp"
@@ -4992,7 +4992,7 @@
   },
   {
     "displayName": "Dreamy forest",
-    "langName": "Floresta dos sonhos (etéreo, partículas de luz)",
+    "langName": "Floresta dos sonhos",
     "object": "Ambiente",
     "attribute": "Natureza",
     "preview": "https://img.aishort.top/imgprompt/20260211152548353.webp"
@@ -5293,7 +5293,7 @@
   },
   {
     "displayName": "star_(sky)",
-    "langName": "estrelas (no céu)",
+    "langName": "Estrelas",
     "object": "Ambiente",
     "attribute": "Céu",
     "preview": "https://img.aishort.top/imgprompt/20260211153554967.webp"
@@ -5923,7 +5923,7 @@
   },
   {
     "displayName": "rappelling",
-    "langName": "Nivelamento (suspenso)",
+    "langName": "Rapel",
     "object": "Ambiente",
     "attribute": "Ao ar livre",
     "preview": "https://img.aishort.top/imgprompt/20260211155514112.webp"
@@ -6126,7 +6126,7 @@
   },
   {
     "displayName": "Trapeze",
-    "langName": "cabide; baloiço",
+    "langName": "Trapézio",
     "object": "Ambiente",
     "attribute": "Ao ar livre",
     "preview": "https://img.aishort.top/imgprompt/20260211160132928.webp"
@@ -6700,7 +6700,7 @@
   },
   {
     "displayName": "otaku room",
-    "langName": "Quarto Otaku",
+    "langName": "Quarto de otaku",
     "object": "Ambiente",
     "attribute": "Interior",
     "preview": "https://img.aishort.top/imgprompt/20260211161944413.webp"
@@ -7239,7 +7239,7 @@
   },
   {
     "displayName": "mouse",
-    "langName": "mouse",
+    "langName": "Rato de computador",
     "object": "Objetos",
     "attribute": "Equipamento digital",
     "preview": "https://img.aishort.top/imgprompt/20260211163606205.webp"
@@ -7589,7 +7589,7 @@
   },
   {
     "displayName": "school_bag",
-    "langName": "Mala de escola (bolsa de mão)",
+    "langName": "Bolsa escolar",
     "object": "Objetos",
     "attribute": "Material escolar",
     "preview": "https://img.aishort.top/imgprompt/20260211164633641.webp"
@@ -7820,14 +7820,14 @@
   },
   {
     "displayName": "diamond_(shape)",
-    "langName": "diamante(forma)",
+    "langName": "Forma de losango",
     "object": "Objetos",
     "attribute": "Outros itens",
     "preview": "https://img.aishort.top/imgprompt/20260211165329674.webp"
   },
   {
     "displayName": "chibi_inset",
-    "langName": "ilustração chibi",
+    "langName": "Inserção chibi",
     "object": "Objetos",
     "attribute": "Outros itens",
     "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
@@ -7932,7 +7932,7 @@
   },
   {
     "displayName": "sword",
-    "langName": "faca",
+    "langName": "Espada",
     "object": "Objetos",
     "attribute": "Armas",
     "preview": "https://img.aishort.top/imgprompt/20260211165652659.webp"
@@ -7960,7 +7960,7 @@
   },
   {
     "displayName": "saber_(weapon)",
-    "langName": "sabre (arma)",
+    "langName": "Sabre",
     "object": "Objetos",
     "attribute": "Armas",
     "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
@@ -7988,7 +7988,7 @@
   },
   {
     "displayName": "stake",
-    "langName": "pau",
+    "langName": "Estaca de madeira",
     "object": "Objetos",
     "attribute": "Armas",
     "preview": "https://img.aishort.top/imgprompt/20260211165832380.webp"
@@ -8030,7 +8030,7 @@
   },
   {
     "displayName": "claw_(weapon)",
-    "langName": "garra (arma)",
+    "langName": "Garra de combate",
     "object": "Objetos",
     "attribute": "Armas",
     "preview": "https://img.aishort.top/imgprompt/20260211165949084.webp"
@@ -8065,7 +8065,7 @@
   },
   {
     "displayName": "magazine_(weapon)",
-    "langName": "carregador (arma)",
+    "langName": "Carregador de munição",
     "object": "Objetos",
     "attribute": "Armas",
     "preview": "https://img.aishort.top/imgprompt/20260211170050212.webp"
@@ -8100,7 +8100,7 @@
   },
   {
     "displayName": "tank",
-    "langName": "tanque",
+    "langName": "Tanque de guerra",
     "object": "Objetos",
     "attribute": "Armas",
     "preview": "https://img.aishort.top/imgprompt/20260211170154753.webp"
@@ -8296,7 +8296,7 @@
   },
   {
     "displayName": "Pretzel",
-    "langName": "pretzels",
+    "langName": "Pretzel",
     "object": "Objetos",
     "attribute": "Alimento básico",
     "preview": "https://img.aishort.top/imgprompt/20260211170751619.webp"
@@ -8429,7 +8429,7 @@
   },
   {
     "displayName": "sundae",
-    "langName": "sundae",
+    "langName": "Sorvete sundae",
     "object": "Objetos",
     "attribute": "Sobremesas e doces",
     "preview": "https://img.aishort.top/imgprompt/20260211171150131.webp"
@@ -8527,7 +8527,7 @@
   },
   {
     "displayName": "Cannoli",
-    "langName": "rolo de donut",
+    "langName": "Cannoli",
     "object": "Objetos",
     "attribute": "Sobremesas e doces",
     "preview": "https://img.aishort.top/imgprompt/20260211171446338.webp"
@@ -9052,7 +9052,7 @@
   },
   {
     "displayName": "bat",
-    "langName": "taco",
+    "langName": "morcego",
     "object": "Objetos",
     "attribute": "Animal",
     "preview": "https://img.aishort.top/imgprompt/20260211173038319.webp"
@@ -9073,7 +9073,7 @@
   },
   {
     "displayName": "dog_tags",
-    "langName": "etiquetas para cães",
+    "langName": "Plaqueta de identificação",
     "object": "Objetos",
     "attribute": "Animal",
     "preview": "https://img.aishort.top/imgprompt/20260211173116860.webp"
@@ -9094,7 +9094,7 @@
   },
   {
     "displayName": "plant",
-    "langName": "fábrica",
+    "langName": "planta",
     "object": "Objetos",
     "attribute": "Planta",
     "preview": "https://img.aishort.top/imgprompt/20260211173154890.webp"
@@ -9444,7 +9444,7 @@
   },
   {
     "displayName": "leaning",
-    "langName": "Lean | Lean",
+    "langName": "Lean",
     "object": "Ação",
     "attribute": "Poses básicas",
     "preview": "https://img.aishort.top/imgprompt/20260211174241891.webp"
@@ -9563,7 +9563,7 @@
   },
   {
     "displayName": "the_pose",
-    "langName": "Deite-se no chão e levante os pés",
+    "langName": "Pose de bruços com pés para cima",
     "object": "Ação",
     "attribute": "Poses básicas",
     "preview": "https://img.aishort.top/imgprompt/20260211174615259.webp"
@@ -9591,14 +9591,14 @@
   },
   {
     "displayName": "fetal_position",
-    "langName": "Posição fetal (deitado)",
+    "langName": "Posição fetal",
     "object": "Ação",
     "attribute": "Poses básicas",
     "preview": "https://img.aishort.top/imgprompt/20260211174706202.webp"
   },
   {
     "displayName": "against_glass",
-    "langName": "copo espremido (inválido)",
+    "langName": "Contra o vidro",
     "object": "Ação",
     "attribute": "Poses básicas",
     "preview": "https://img.aishort.top/imgprompt/20260211174718789.webp"
@@ -9612,7 +9612,7 @@
   },
   {
     "displayName": "presenting",
-    "langName": "apresentando",
+    "langName": "Pose de apresentação",
     "object": "Ação",
     "attribute": "Poses básicas",
     "preview": "https://img.aishort.top/imgprompt/20260211174744336.webp"
@@ -9675,7 +9675,7 @@
   },
   {
     "displayName": "eye_contact",
-    "langName": "Contacto visual (olhar um para o outro)",
+    "langName": "Contato visual",
     "object": "Ação",
     "attribute": "Expressão do olhar",
     "preview": "https://img.aishort.top/imgprompt/20260211174937637.webp"
@@ -9836,7 +9836,7 @@
   },
   {
     "displayName": "aiming_at_viewer",
-    "langName": "mirando no observador (perspectiva)",
+    "langName": "Mirando no espectador",
     "object": "Ação",
     "attribute": "Expressão do olhar",
     "preview": "https://img.aishort.top/imgprompt/20260211175428502.webp"
@@ -9934,7 +9934,7 @@
   },
   {
     "displayName": "hands_clasped",
-    "langName": "Dedos cruzados de ambas as mãos | Mãos cerradas",
+    "langName": "Mãos entrelaçadas",
     "object": "Ação",
     "attribute": "Poses de braço",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
@@ -9969,7 +9969,7 @@
   },
   {
     "displayName": "hands_in_opposite_sleeves",
-    "langName": "Cruzar as mãos e colocá-las nas mangas",
+    "langName": "Mãos nas mangas opostas",
     "object": "Ação",
     "attribute": "Poses de braço",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
@@ -10172,7 +10172,7 @@
   },
   {
     "displayName": "waving",
-    "langName": "acenar (dizer olá/despedida)",
+    "langName": "Acenar",
     "object": "Ação",
     "attribute": "Gestos das mãos",
     "preview": "https://img.aishort.top/imgprompt/20260211180434501.webp"
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "double v",
+    "langName": "Sinal V duplo",
     "object": "Ação",
     "attribute": "Gestos das mãos",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -10249,7 +10249,7 @@
   },
   {
     "displayName": "reaching",
-    "langName": "Estender a mão (propositadamente)",
+    "langName": "Estender a mão",
     "object": "Ação",
     "attribute": "Gestos das mãos",
     "preview": "https://img.aishort.top/imgprompt/20260211180655272.webp"
@@ -10312,7 +10312,7 @@
   },
   {
     "displayName": "paw_pose",
-    "langName": "Pose de pata de gato (punho dobrado)",
+    "langName": "Pose de patinha de gato",
     "object": "Ação",
     "attribute": "Gestos das mãos",
     "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
@@ -10347,7 +10347,7 @@
   },
   {
     "displayName": "fingersmile",
-    "langName": "Fazer uma cara sorridente com os dedos",
+    "langName": "Sorriso puxado com dedos",
     "object": "Ação",
     "attribute": "Gestos das mãos",
     "preview": "https://img.aishort.top/imgprompt/20260211180951696.webp"
@@ -10634,7 +10634,7 @@
   },
   {
     "displayName": "holding_eyewear",
-    "langName": "Segurar nos óculos | Tirar os óculos",
+    "langName": "Segurar / Ajustar óculos",
     "object": "Ação",
     "attribute": "Segurar objeto",
     "preview": "https://img.aishort.top/imgprompt/20260211181827087.webp"
@@ -10956,21 +10956,21 @@
   },
   {
     "displayName": "hands_on_another's",
-    "langName": "Pôr as mãos na cara de outra pessoa",
+    "langName": "Mãos no rosto de outro",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
-    "langName": "Ponham as mãos nas bochechas um do outro",
+    "langName": "Mãos nas bochechas de outro",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
-    "langName": "Pôr as mãos nos ombros de outra pessoa",
+    "langName": "Mãos nos ombros de outro",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
@@ -11026,7 +11026,7 @@
   },
   {
     "displayName": "hands_on_hips",
-    "langName": "mãos nas ancas | mãos nas ancas",
+    "langName": "mãos nas ancas",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260213094956459.webp"
@@ -11068,7 +11068,7 @@
   },
   {
     "displayName": "grabbing_from_behind",
-    "langName": "Segurando os seios por trás",
+    "langName": "Agarrar seios por trás",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
@@ -11110,14 +11110,14 @@
   },
   {
     "displayName": "hands_on_headwear",
-    "langName": "Tocar nos ornamentos da cabeça com as duas mãos",
+    "langName": "Mãos no enfeite de cabeça",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
-    "langName": "Colocar as mãos no cabo da faca",
+    "langName": "Mãos no cabo da espada",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
@@ -11131,7 +11131,7 @@
   },
   {
     "displayName": "neckwear_grab",
-    "langName": "Agarrar a roupa ao pescoço",
+    "langName": "Agarrar pelo colarinho",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
@@ -11173,7 +11173,7 @@
   },
   {
     "displayName": "hand_in_another's_hair",
-    "langName": "Pôr as mãos no cabelo da outra pessoa",
+    "langName": "Mão no cabelo de outro",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
@@ -11208,35 +11208,35 @@
   },
   {
     "displayName": "hand_on_another's_chest",
-    "langName": "Colocar as mãos no peito da outra pessoa",
+    "langName": "Mão no peito de outro",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260211183718013.webp"
   },
   {
     "displayName": "hand_on_another's_chin",
-    "langName": "Segure o queixo da outra pessoa com a sua mão",
+    "langName": "Mão no queixo de outro",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
   },
   {
     "displayName": "hand_on_another's_head",
-    "langName": "Colocar as mãos na cabeça da outra pessoa",
+    "langName": "Mão na cabeça de outro",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260211183743006.webp"
   },
   {
     "displayName": "hand_on_another's_shoulder",
-    "langName": "Colocar as mãos nos ombros da outra pessoa",
+    "langName": "Mão no ombro de outro",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260211183755722.webp"
   },
   {
     "displayName": "hand_on_another's_stomach",
-    "langName": "Colocar as mãos na barriga da outra pessoa",
+    "langName": "Mão na barriga de outro",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
@@ -11264,14 +11264,14 @@
   },
   {
     "displayName": "hand_on_hilt",
-    "langName": "Mão apoiada no cabo da faca",
+    "langName": "Mão no cabo",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
   },
   {
     "displayName": "hand_on_hip",
-    "langName": "mãos nas ancas | mãos nas ancas",
+    "langName": "mãos nas ancas",
     "object": "Ação",
     "attribute": "Abraçar e segurar",
     "preview": "https://img.aishort.top/imgprompt/20260211183911177.webp"
@@ -11404,14 +11404,14 @@
   },
   {
     "displayName": "standing_split",
-    "langName": "Flexões em pé | Levantamento de pernas em pé",
+    "langName": "Espacate em pé",
     "object": "Ação",
     "attribute": "Ações das pernas",
     "preview": "https://img.aishort.top/imgprompt/20260211184306372.webp"
   },
   {
     "displayName": "curtsy",
-    "langName": "Curtsey (saudação de empregada)",
+    "langName": "Reverência",
     "object": "Ação",
     "attribute": "Ações das pernas",
     "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
@@ -11474,7 +11474,7 @@
   },
   {
     "displayName": "cameltoe",
-    "langName": "dedo do pé de camelo",
+    "langName": "Marcação na virilha",
     "object": "Ação",
     "attribute": "Ações das pernas",
     "preview": "https://img.aishort.top/imgprompt/20260317070444618.webp"
@@ -11502,7 +11502,7 @@
   },
   {
     "displayName": "folded",
-    "langName": "Levantar as pernas para expor a vagina",
+    "langName": "Pose de pernas dobradas",
     "object": "Ação",
     "attribute": "Ações das pernas",
     "preview": "https://img.aishort.top/imgprompt/20260211184601937.webp"
@@ -11544,7 +11544,7 @@
   },
   {
     "displayName": "k/da_(league_of_legends)",
-    "langName": "equipe K/DA (League of Legends)",
+    "langName": "K/DA (League of Legends)",
     "object": "Ação",
     "attribute": "Ações das pernas",
     "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
@@ -11705,14 +11705,14 @@
   },
   {
     "displayName": "tail_between_legs",
-    "langName": "A cauda está enrolada entre as pernas",
+    "langName": "Rabo entre as pernas",
     "object": "Ação",
     "attribute": "Ações das pernas",
     "preview": "https://img.aishort.top/imgprompt/20260225100419147.webp"
   },
   {
     "displayName": "covering",
-    "langName": "o ato de cobrir",
+    "langName": "Gesto de se cobrir",
     "object": "Ação",
     "attribute": "Toque corporal",
     "preview": "https://img.aishort.top/imgprompt/20260211185216454.webp"
@@ -11922,14 +11922,14 @@
   },
   {
     "displayName": "spitting",
-    "langName": "o ato de cuspir um líquido pela boca",
+    "langName": "Cuspir líquido",
     "object": "Ação",
     "attribute": "Reação corporal",
     "preview": "https://img.aishort.top/imgprompt/20260211185836921.webp"
   },
   {
     "displayName": "spilling",
-    "langName": "O ato de verter um líquido de um recipiente",
+    "langName": "Derramar líquido",
     "object": "Ação",
     "attribute": "Reação corporal",
     "preview": "https://img.aishort.top/imgprompt/20260211185849710.webp"
@@ -12006,7 +12006,7 @@
   },
   {
     "displayName": "dropping",
-    "langName": "queda (acidental)",
+    "langName": "Deixar cair",
     "object": "Ação",
     "attribute": "Reação corporal",
     "preview": "https://img.aishort.top/imgprompt/20260211190102259.webp"
@@ -12055,7 +12055,7 @@
   },
   {
     "displayName": "lifted_by_another",
-    "langName": "Ser levantado pelas roupas da outra pessoa",
+    "langName": "Roupa levantada por outro",
     "object": "Ação",
     "attribute": "Reação corporal",
     "preview": "https://img.aishort.top/imgprompt/20260211190232075.webp"
@@ -12111,7 +12111,7 @@
   },
   {
     "displayName": "drying",
-    "langName": "Seco (após o banho)",
+    "langName": "Secar-se",
     "object": "Ação",
     "attribute": "Vida cotidiana",
     "preview": "https://img.aishort.top/imgprompt/20260211190415978.webp"
@@ -12132,7 +12132,7 @@
   },
   {
     "displayName": "sweeping",
-    "langName": "Limpeza | Varrer (trabalho doméstico)",
+    "langName": "Varrer / Limpar",
     "object": "Ação",
     "attribute": "Vida cotidiana",
     "preview": "https://img.aishort.top/imgprompt/20260211190452774.webp"
@@ -12258,7 +12258,7 @@
   },
   {
     "displayName": "sleeping_upright",
-    "langName": "(não deitado) dormir | dormir de pé",
+    "langName": "Dormir sentado / de pé",
     "object": "Ação",
     "attribute": "Vida cotidiana",
     "preview": "https://img.aishort.top/imgprompt/20260211190844518.webp"
@@ -12412,14 +12412,14 @@
   },
   {
     "displayName": "shared_food",
-    "langName": "Partilhar alimentos | Passar alimentos pela boca",
+    "langName": "Compartilhar comida",
     "object": "Ação",
     "attribute": "Interação emocional",
     "preview": "https://img.aishort.top/imgprompt/20260211191325544.webp"
   },
   {
     "displayName": "shared_bathing",
-    "langName": "Banho partilhado | Banho Yuanyang",
+    "langName": "Banho compartilhado",
     "object": "Ação",
     "attribute": "Interação emocional",
     "preview": "https://img.aishort.top/imgprompt/20260211191338217.webp"
@@ -12461,14 +12461,14 @@
   },
   {
     "displayName": "asymmetrical_docking",
-    "langName": "Seios se tocando | Pressão no peito",
+    "langName": "Seios encostados",
     "object": "Ação",
     "attribute": "Interação emocional",
     "preview": "https://img.aishort.top/imgprompt/20260211191454771.webp"
   },
   {
     "displayName": "special_feeling_(meme)",
-    "langName": "Amantes segurando um guarda-chuva na neve",
+    "langName": "Meme sentimento especial na neve",
     "object": "Ação",
     "attribute": "Interação emocional",
     "preview": "https://img.aishort.top/imgprompt/20260211191507001.webp"
@@ -12608,7 +12608,7 @@
   },
   {
     "displayName": "wrestling",
-    "langName": "luta livre",
+    "langName": "Luta livre",
     "object": "Ação",
     "attribute": "Exercício",
     "preview": "https://img.aishort.top/imgprompt/20260211191925002.webp"
@@ -12818,7 +12818,7 @@
   },
   {
     "displayName": "skirt_flip",
-    "langName": "Saia levantada (incluindo o sentido de emergência)",
+    "langName": "Saia levantada",
     "object": "Ação",
     "attribute": "Ajustar roupas",
     "preview": "https://img.aishort.top/imgprompt/20260317125226840.webp"
@@ -12895,7 +12895,7 @@
   },
   {
     "displayName": "tying",
-    "langName": "Dar um nó (ação)",
+    "langName": "Amarrar / Dar nó",
     "object": "Ação",
     "attribute": "Ajustar roupas",
     "preview": "https://img.aishort.top/imgprompt/20260211192806302.webp"
@@ -12930,7 +12930,7 @@
   },
   {
     "displayName": "pulled_by_another",
-    "langName": "ser puxado (ou puxado pela roupa) por outra pessoa",
+    "langName": "Sendo puxado por outro",
     "object": "Ação",
     "attribute": "Ajustar roupas",
     "preview": "https://img.aishort.top/imgprompt/20260317125423077.webp"
@@ -12993,7 +12993,7 @@
   },
   {
     "displayName": "holding_bow_(weapon)",
-    "langName": "Segurar um arco (arma)",
+    "langName": "Segurando um arco",
     "object": "Ação",
     "attribute": "Armas e equipamentos",
     "preview": "https://img.aishort.top/imgprompt/20260211193102894.webp"
@@ -13084,7 +13084,7 @@
   },
   {
     "displayName": "Kabedon",
-    "langName": "pancada na parede",
+    "langName": "Kabedon",
     "object": "Ação",
     "attribute": "Poses especiais",
     "preview": "https://img.aishort.top/imgprompt/20260211193512046.webp"
@@ -13412,7 +13412,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211194606041.webp"
   },
   {
-    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset)),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
+    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset))),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
     "langName": "método crepuscular",
     "object": "Ação",
     "attribute": "Magia",
@@ -13525,7 +13525,7 @@
   },
   {
     "displayName": "((full body)),(helpless),tear,crying,(((((falling from the sky))))),((Weathering With You)),((falling)),((face towards the sky)),(hair flows upwards),((disheveled hair)),(1 girl),floating,beautiful detailed sky",
-    "langName": "Estilo de queda (cena do céu)",
+    "langName": "Composição de queda livre",
     "object": "Ação",
     "attribute": "Magia",
     "preview": "https://img.aishort.top/imgprompt/20260211194938656.webp"
@@ -13727,7 +13727,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195607630.webp"
   },
   {
-    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood))),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
+    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood)),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
     "langName": "lei da reforma do sangue",
     "object": "Ação",
     "attribute": "Magia",
@@ -14002,7 +14002,7 @@
   },
   {
     "displayName": "disgust",
-    "langName": "Desgostoso (parece lixo)",
+    "langName": "Nojo / Desprezo",
     "object": "Expressão",
     "attribute": "Desprezo",
     "preview": "https://img.aishort.top/imgprompt/20260317071358725.webp"
@@ -14023,7 +14023,7 @@
   },
   {
     "displayName": "shaded_face",
-    "langName": "Há uma sombra no rosto, a condizer com o desprezo",
+    "langName": "Rosto sombreado",
     "object": "Expressão",
     "attribute": "Desprezo",
     "preview": "https://img.aishort.top/imgprompt/20260212085009132.webp"
@@ -14044,7 +14044,7 @@
   },
   {
     "displayName": "wince",
-    "langName": "Franzir o sobrolho (antes da relação sexual)",
+    "langName": "Estremecer / Franzir o cenho",
     "object": "Expressão",
     "attribute": "Desprezo",
     "preview": "https://img.aishort.top/imgprompt/20260212085045682.webp"
@@ -14079,7 +14079,7 @@
   },
   {
     "displayName": "serious",
-    "langName": "Sério (semelhante a zangado)",
+    "langName": "Sério",
     "object": "Expressão",
     "attribute": "Zangado",
     "preview": "https://img.aishort.top/imgprompt/20260212085145957.webp"
@@ -14163,7 +14163,7 @@
   },
   {
     "displayName": "embarrass",
-    "langName": "tímido (desajeitado)",
+    "langName": "Envergonhado",
     "object": "Expressão",
     "attribute": "Outras expressões",
     "preview": "https://img.aishort.top/imgprompt/20260212085408608.webp"
@@ -14380,7 +14380,7 @@
   },
   {
     "displayName": "torogao",
-    "langName": "Olhar enevoado (Torogao)",
+    "langName": "Torogao",
     "object": "Expressão",
     "attribute": "Outras expressões",
     "preview": "https://img.aishort.top/imgprompt/20260228103646110.webp"
@@ -14702,7 +14702,7 @@
   },
   {
     "displayName": "hanten_clothes",
-    "langName": "Toumata (estilo japonês)",
+    "langName": "Hanten",
     "object": "Vestuário",
     "attribute": "Estilo de vestuário",
     "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
@@ -14716,7 +14716,7 @@
   },
   {
     "displayName": "furisode",
-    "langName": "Furisode (parte do quimono)",
+    "langName": "Furisode",
     "object": "Vestuário",
     "attribute": "Estilo de vestuário",
     "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
@@ -14744,14 +14744,14 @@
   },
   {
     "displayName": "uchikake",
-    "langName": "Bai Wujia (vestido de noiva japonês)",
+    "langName": "Uchikake / Shiromuku",
     "object": "Vestuário",
     "attribute": "Estilo de vestuário",
     "preview": "https://img.aishort.top/imgprompt/20260212110020279.webp"
   },
   {
     "displayName": "obi",
-    "langName": "Obi (faixa de quimono)",
+    "langName": "Obi (faixa)",
     "object": "Vestuário",
     "attribute": "Estilo de vestuário",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -14800,7 +14800,7 @@
   },
   {
     "displayName": "Ao_Dai",
-    "langName": "Vestuário vietnamita (Ao Dai)",
+    "langName": "Áo dài",
     "object": "Vestuário",
     "attribute": "Estilo de vestuário",
     "preview": "https://img.aishort.top/imgprompt/20260212112032273.webp"
@@ -14947,14 +14947,14 @@
   },
   {
     "displayName": "alternate_costume",
-    "langName": "Traje alternativo (diferente do original)",
+    "langName": "Traje alternativo",
     "object": "Vestuário",
     "attribute": "Estilo de vestuário",
     "preview": "https://img.aishort.top/imgprompt/20260212120626953.webp"
   },
   {
     "displayName": "costume_switch",
-    "langName": "trocar de roupa brincar",
+    "langName": "Troca de roupas",
     "object": "Vestuário",
     "attribute": "Estilo de vestuário",
     "preview": "https://img.aishort.top/imgprompt/20260212120842799.webp"
@@ -15164,7 +15164,7 @@
   },
   {
     "displayName": "evening_gown",
-    "langName": "Vestido longo (gala)",
+    "langName": "Vestido de gala",
     "object": "Vestuário",
     "attribute": "Roupa formal",
     "preview": "https://img.aishort.top/imgprompt/20260212125805414.webp"
@@ -15206,7 +15206,7 @@
   },
   {
     "displayName": "serafuku",
-    "langName": "Uniforme de marinheiro (uniforme escolar)",
+    "langName": "Uniforme marinheiro",
     "object": "Vestuário",
     "attribute": "Roupa formal",
     "preview": "https://img.aishort.top/imgprompt/20260212130530516.webp"
@@ -15346,7 +15346,7 @@
   },
   {
     "displayName": "hoodie",
-    "langName": "Casaco com capuz",
+    "langName": "Moletom com capuz",
     "object": "Vestuário",
     "attribute": "Roupa casual",
     "preview": "https://img.aishort.top/imgprompt/20260212134236901.webp"
@@ -15542,7 +15542,7 @@
   },
   {
     "displayName": "school_swimsuit",
-    "langName": "maiô escolar (sukumizu)",
+    "langName": "Maiô escolar",
     "object": "Vestuário",
     "attribute": "Traje de banho",
     "preview": "https://img.aishort.top/imgprompt/20260225102036109.webp"
@@ -15605,7 +15605,7 @@
   },
   {
     "displayName": "swimsuit_of_perpetual_summer",
-    "langName": "Maiô de verão perpétuo (FGO)",
+    "langName": "Traje de banho do verão perpétuo (FGO)",
     "object": "Vestuário",
     "attribute": "Traje de banho",
     "preview": "https://img.aishort.top/imgprompt/20260317071630637.webp"
@@ -15878,14 +15878,14 @@
   },
   {
     "displayName": "swimsuit_aside",
-    "langName": "maiô puxado de lado",
+    "langName": "Maiô puxado de lado",
     "object": "Vestuário",
     "attribute": "Traje de banho",
     "preview": "https://img.aishort.top/imgprompt/20260212152012611.webp"
   },
   {
     "displayName": "swimsuit_under_clothes",
-    "langName": "traje de banho por baixo da roupa",
+    "langName": "Maiô sob a roupa",
     "object": "Vestuário",
     "attribute": "Traje de banho",
     "preview": "https://img.aishort.top/imgprompt/20260317072817093.webp"
@@ -15990,7 +15990,7 @@
   },
   {
     "displayName": "chi-hatan_military_uniform",
-    "langName": "Uniforme da Academia Zhiha Dan",
+    "langName": "Uniforme militar da Academia Chi-Ha-Tan",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260212153151798.webp"
@@ -16025,21 +16025,21 @@
   },
   {
     "displayName": "hikarizaka_private_high_school_uniform",
-    "langName": "Uniforme da Escola Hikarizaka",
+    "langName": "Uniforme do colégio particular Hikarizaka",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260212153257185.webp"
   },
   {
     "displayName": "homurahara_academy_uniform",
-    "langName": "Uniforme da Academia Sui Gunhara",
+    "langName": "Uniforme da Academia Homurahara",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260212153310241.webp"
   },
   {
     "displayName": "kamiyama_high_school_uniform",
-    "langName": "Uniforme da Kailash High School",
+    "langName": "Uniforme do colégio Kamiyama",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260212153323486.webp"
@@ -16088,21 +16088,21 @@
   },
   {
     "displayName": "nami_junior_high_school_uniform",
-    "langName": "Uniforme da escola secundária de Bolu",
+    "langName": "Uniforme do ensino fundamental Nami",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260212153455870.webp"
   },
   {
     "displayName": "nanairogaoka_middle_school_uniform",
-    "langName": "Uniforme da escola secundária de Qiseqiu",
+    "langName": "Uniforme do ensino fundamental Nanairogaoka",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260212153509132.webp"
   },
   {
     "displayName": "nanamori_school_uniform",
-    "langName": "Uniforme da Qisen Middle School",
+    "langName": "Uniforme do ensino fundamental Nanamori",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260212153725574.webp"
@@ -16172,14 +16172,14 @@
   },
   {
     "displayName": "rabbit_house_uniform",
-    "langName": "Uniforme da Casa Diantutu",
+    "langName": "Uniforme da Rabbit House",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260213055157775.webp"
   },
   {
     "displayName": "raimon_soccer_uniform",
-    "langName": "Uniforme de futebol Thunder Gate",
+    "langName": "Uniforme de futebol da Raimon",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260213055210653.webp"
@@ -16193,7 +16193,7 @@
   },
   {
     "displayName": "sakugawa_school_uniform",
-    "langName": "Uniforme da escola secundária de Zhachuan",
+    "langName": "Uniforme do ensino fundamental Sakugawa",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260213055439290.webp"
@@ -16242,7 +16242,7 @@
   },
   {
     "displayName": "shuujin_academy_uniform",
-    "langName": "Mostrar os uniformes da faculdade",
+    "langName": "Uniforme da Academia Shujin",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260213060421601.webp"
@@ -16263,28 +16263,28 @@
   },
   {
     "displayName": "starlight_academy_uniform",
-    "langName": "Uniforme Star Optical Park",
+    "langName": "Uniforme da Academia Starlight",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260213060500805.webp"
   },
   {
     "displayName": "tokisadame_school_uniform",
-    "langName": "Uniformes universitários normais",
+    "langName": "Uniforme do colégio Tokisadame",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260213060513970.webp"
   },
   {
     "displayName": "tokiwadai_school_uniform",
-    "langName": "Uniforme escolar Tokiwa Taichung",
+    "langName": "Uniforme do ensino fundamental Tokiwadai",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260213060526744.webp"
   },
   {
     "displayName": "tomoeda_elementary_school_uniform",
-    "langName": "Uniforme da escola primária de Youzhi",
+    "langName": "Uniforme da escola primária Tomoeda",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260213060539748.webp"
@@ -16298,14 +16298,14 @@
   },
   {
     "displayName": "u.a._school_uniform",
-    "langName": "Uniforme da escola secundária de Xiongying",
+    "langName": "Uniforme do colégio U.A.",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260213060607357.webp"
   },
   {
     "displayName": "uranohoshi_school_uniform",
-    "langName": "Uniforme do Colégio de Raparigas Ura no Hoshi",
+    "langName": "Uniforme do colégio feminino Uranohoshi",
     "object": "Vestuário",
     "attribute": "Uniforme escolar",
     "preview": "https://img.aishort.top/imgprompt/20260213060620807.webp"
@@ -16424,7 +16424,7 @@
   },
   {
     "displayName": "short sleeve T-shirts",
-    "langName": "camiseta de manga curta",
+    "langName": "Camiseta de manga curta",
     "object": "Vestuário",
     "attribute": "Parte de cima",
     "preview": "https://img.aishort.top/imgprompt/20260213063027450.webp"
@@ -16466,7 +16466,7 @@
   },
   {
     "displayName": "tank_top",
-    "langName": "colete (casa)",
+    "langName": "Regata",
     "object": "Vestuário",
     "attribute": "Parte de cima",
     "preview": "https://img.aishort.top/imgprompt/20260213064156253.webp"
@@ -16494,7 +16494,7 @@
   },
   {
     "displayName": "vest",
-    "langName": "colete (formal)",
+    "langName": "Colete formal",
     "object": "Vestuário",
     "attribute": "Parte de cima",
     "preview": "https://img.aishort.top/imgprompt/20260213064408586.webp"
@@ -16508,7 +16508,7 @@
   },
   {
     "displayName": "waistcoat",
-    "langName": "Colete (formal)",
+    "langName": "Colete social",
     "object": "Vestuário",
     "attribute": "Parte de cima",
     "preview": "https://img.aishort.top/imgprompt/20260213064435011.webp"
@@ -16599,7 +16599,7 @@
   },
   {
     "displayName": "kappougi",
-    "langName": "uma blusa (para usar enquanto cozinha)",
+    "langName": "Kappougi (avental)",
     "object": "Vestuário",
     "attribute": "Parte de cima",
     "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
@@ -16662,7 +16662,7 @@
   },
   {
     "displayName": "tied_shirt",
-    "langName": "Camisa atada (dar um nó nos cantos e na bainha)",
+    "langName": "Camisa com nó na barra",
     "object": "Vestuário",
     "attribute": "Parte de cima",
     "preview": "https://img.aishort.top/imgprompt/20260213070412064.webp"
@@ -16746,7 +16746,7 @@
   },
   {
     "displayName": "button_gap",
-    "langName": "O espaço entre os botões (não desabotoados)",
+    "langName": "Abertura entre botões",
     "object": "Vestuário",
     "attribute": "Parte de cima",
     "preview": "https://img.aishort.top/imgprompt/20260213071455826.webp"
@@ -16879,21 +16879,21 @@
   },
   {
     "displayName": "strap_slip",
-    "langName": "A alça de ombro escorregou (provocando uma fuga)",
+    "langName": "Alça caída",
     "object": "Vestuário",
     "attribute": "Parte de cima",
     "preview": "https://img.aishort.top/imgprompt/20260228101844680.webp"
   },
   {
     "displayName": "wedgie",
-    "langName": "Cuecafião (roupa presa)",
+    "langName": "Calcinha atolada",
     "object": "Vestuário",
     "attribute": "Parte de cima",
     "preview": "https://img.aishort.top/imgprompt/20260225103744943.webp"
   },
   {
     "displayName": "wardrobe_malfunction",
-    "langName": "Falha no guarda-roupa (explodindo)",
+    "langName": "Acidente de figurino",
     "object": "Vestuário",
     "attribute": "Parte de cima",
     "preview": "https://img.aishort.top/imgprompt/20260213075235531.webp"
@@ -16984,7 +16984,7 @@
   },
   {
     "displayName": "double-breasted",
-    "langName": "Botões trespassados (botões trespassados",
+    "langName": "Botoamento duplo",
     "object": "Vestuário",
     "attribute": "Casaco",
     "preview": "https://img.aishort.top/imgprompt/20260213075715469.webp"
@@ -17054,7 +17054,7 @@
   },
   {
     "displayName": "jacket_partially_removed",
-    "langName": "O casaco foi parcialmente retirado",
+    "langName": "Jaqueta semi-removida",
     "object": "Vestuário",
     "attribute": "Casaco",
     "preview": "https://img.aishort.top/imgprompt/20260213081023629.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "casaco de malha (com pernas abertas)",
+    "langName": "Jaqueta aberta",
     "object": "Vestuário",
     "attribute": "Casaco",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -18048,7 +18048,7 @@
   },
   {
     "displayName": "corset",
-    "langName": "Espartilho (colete)",
+    "langName": "Espartilho / Corset",
     "object": "Vestuário",
     "attribute": "Cintura",
     "preview": "https://img.aishort.top/imgprompt/20260225104053785.webp"
@@ -18097,7 +18097,7 @@
   },
   {
     "displayName": "kusazuri",
-    "langName": "Fudang | Kusazuri (armadura inferior japonesa)",
+    "langName": "Kusazuri (tassets)",
     "object": "Vestuário",
     "attribute": "Armadura",
     "preview": "https://img.aishort.top/imgprompt/20260213115508736.webp"
@@ -18118,7 +18118,7 @@
   },
   {
     "displayName": "kabuto",
-    "langName": "Capacete (estilo japonês)",
+    "langName": "Kabuto (capacete)",
     "object": "Vestuário",
     "attribute": "Armadura",
     "preview": "https://img.aishort.top/imgprompt/20260213115548290.webp"
@@ -18132,7 +18132,7 @@
   },
   {
     "displayName": "shoulder_armor",
-    "langName": "Ombros",
+    "langName": "Ombreiras de armadura",
     "object": "Vestuário",
     "attribute": "Armadura",
     "preview": "https://img.aishort.top/imgprompt/20260213115612426.webp"
@@ -18153,14 +18153,14 @@
   },
   {
     "displayName": "faulds",
-    "langName": "plastrão",
+    "langName": "Armadura de cintura (Faulds)",
     "object": "Vestuário",
     "attribute": "Armadura",
     "preview": "https://img.aishort.top/imgprompt/20260213115855297.webp"
   },
   {
     "displayName": "greaves",
-    "langName": "Greaves",
+    "langName": "Grevas",
     "object": "Vestuário",
     "attribute": "Armadura",
     "preview": "https://img.aishort.top/imgprompt/20260213115908428.webp"
@@ -18237,7 +18237,7 @@
   },
   {
     "displayName": "sundress",
-    "langName": "Vestido de verão (sem mangas)",
+    "langName": "Vestido de verão",
     "object": "Vestuário",
     "attribute": "Saia",
     "preview": "https://img.aishort.top/imgprompt/20260213121003959.webp"
@@ -18342,7 +18342,7 @@
   },
   {
     "displayName": "impossible_dress",
-    "langName": "Roupas demasiado apertadas",
+    "langName": "Vestido ultra-ajustado",
     "object": "Vestuário",
     "attribute": "Saia",
     "preview": "https://img.aishort.top/imgprompt/20260213122932976.webp"
@@ -18454,14 +18454,14 @@
   },
   {
     "displayName": "ballgown",
-    "langName": "tutu (vestido)",
+    "langName": "Vestido de baile",
     "object": "Vestuário",
     "attribute": "Saia",
     "preview": "https://img.aishort.top/imgprompt/20260213123502356.webp"
   },
   {
     "displayName": "pettiskirt",
-    "langName": "tutu (crianças)",
+    "langName": "Saia tutu rodada",
     "object": "Vestuário",
     "attribute": "Saia",
     "preview": "https://img.aishort.top/imgprompt/20260213123515479.webp"
@@ -18811,14 +18811,14 @@
   },
   {
     "displayName": "dolphin_shorts",
-    "langName": "shorts dolphin",
+    "langName": "Shorts estilo dolphin",
     "object": "Vestuário",
     "attribute": "Calças",
     "preview": "https://img.aishort.top/imgprompt/20260213134352207.webp"
   },
   {
     "displayName": "dolfin_shorts",
-    "langName": "shorts dolphin",
+    "langName": "Shorts estilo dolphin",
     "object": "Vestuário",
     "attribute": "Calças",
     "preview": "https://img.aishort.top/imgprompt/20260213134404755.webp"
@@ -18832,7 +18832,7 @@
   },
   {
     "displayName": "crotchless_pants",
-    "langName": "Calças sem entrepernas (justas)",
+    "langName": "Calça sem entrepernas",
     "object": "Vestuário",
     "attribute": "Calças",
     "preview": "https://img.aishort.top/imgprompt/20260213134430564.webp"
@@ -18937,14 +18937,14 @@
   },
   {
     "displayName": "chaps",
-    "langName": "Perneiras (chaps)",
+    "langName": "Perneiras de couro",
     "object": "Vestuário",
     "attribute": "Calças",
     "preview": "https://img.aishort.top/imgprompt/20260213134945047.webp"
   },
   {
     "displayName": "jumpsuit",
-    "langName": "macacão (especialmente de senhora)",
+    "langName": "Macacão",
     "object": "Vestuário",
     "attribute": "Calças",
     "preview": "https://img.aishort.top/imgprompt/20260213134957992.webp"
@@ -18979,7 +18979,7 @@
   },
   {
     "displayName": "leotard_aside",
-    "langName": "Descascar a virilha do macacão para o lado",
+    "langName": "Collant puxado de lado",
     "object": "Vestuário",
     "attribute": "Calças",
     "preview": "https://img.aishort.top/imgprompt/20260213135915193.webp"
@@ -19077,7 +19077,7 @@
   },
   {
     "displayName": "thong",
-    "langName": "fio dental",
+    "langName": "Tanga",
     "object": "Vestuário",
     "attribute": "Parte de baixo",
     "preview": "https://img.aishort.top/imgprompt/20260317073619796.webp"
@@ -19140,21 +19140,21 @@
   },
   {
     "displayName": "pantyhose",
-    "langName": "meia-calça | meia-calça",
+    "langName": "meia-calça",
     "object": "Vestuário",
     "attribute": "Meia",
     "preview": "https://img.aishort.top/imgprompt/20260213142442251.webp"
   },
   {
     "displayName": "legwear",
-    "langName": "Meia-calça",
+    "langName": "Meias e calças",
     "object": "Vestuário",
     "attribute": "Meia",
     "preview": "https://img.aishort.top/imgprompt/20260225104603819.webp"
   },
   {
     "displayName": "thighhighs",
-    "langName": "Meias (meias até ao joelho)",
+    "langName": "Meias 7/8 (acima do joelho)",
     "object": "Vestuário",
     "attribute": "Meia",
     "preview": "https://img.aishort.top/imgprompt/20260213142506603.webp"
@@ -19217,7 +19217,7 @@
   },
   {
     "displayName": "pantylines",
-    "langName": "Collants justos (contornar as linhas",
+    "langName": "Marcas de calcinha visíveis",
     "object": "Vestuário",
     "attribute": "Meia",
     "preview": "https://img.aishort.top/imgprompt/20260317074408132.webp"
@@ -19357,7 +19357,7 @@
   },
   {
     "displayName": "back-seamed_legwear",
-    "langName": "Meias com uma linha preta no meio",
+    "langName": "Meias com costura atrás",
     "object": "Vestuário",
     "attribute": "Meia",
     "preview": "https://img.aishort.top/imgprompt/20260225104949341.webp"
@@ -19413,7 +19413,7 @@
   },
   {
     "displayName": "bobby_socks",
-    "langName": "Meias Bobby (meias brancas)",
+    "langName": "Soquetes bobby",
     "object": "Vestuário",
     "attribute": "Meia",
     "preview": "https://img.aishort.top/imgprompt/20260213144125119.webp"
@@ -19434,7 +19434,7 @@
   },
   {
     "displayName": "leg_warmers",
-    "langName": "Aquecedores de pernas | aquecedores de pernas",
+    "langName": "Aquecedores de pernas",
     "object": "Vestuário",
     "attribute": "Meia",
     "preview": "https://img.aishort.top/imgprompt/20260213144203562.webp"
@@ -19518,7 +19518,7 @@
   },
   {
     "displayName": "thigh_holster",
-    "langName": "Tira na coxa / coldre / bolsa de perna",
+    "langName": "Coldre de coxa",
     "object": "Vestuário",
     "attribute": "Meia",
     "preview": "https://img.aishort.top/imgprompt/20260213144441392.webp"
@@ -19546,7 +19546,7 @@
   },
   {
     "displayName": "arm_garter",
-    "langName": "ligas de lança",
+    "langName": "Braçadeira de manga",
     "object": "Vestuário",
     "attribute": "Meia",
     "preview": "https://img.aishort.top/imgprompt/20260213144735280.webp"
@@ -19658,14 +19658,14 @@
   },
   {
     "displayName": "sock_pull",
-    "langName": "Puxar as meias (meias)",
+    "langName": "Puxando as meias",
     "object": "Vestuário",
     "attribute": "Meia",
     "preview": "https://img.aishort.top/imgprompt/20260213150519193.webp"
   },
   {
     "displayName": "thighhighs_pull",
-    "langName": "Calçar meias (meias de ligas)",
+    "langName": "Puxando as meias compridas",
     "object": "Vestuário",
     "attribute": "Meia",
     "preview": "https://img.aishort.top/imgprompt/20260225090322289.webp"
@@ -19686,7 +19686,7 @@
   },
   {
     "displayName": "crease",
-    "langName": "enrugado (plissado)",
+    "langName": "Vinco no tecido",
     "object": "Vestuário",
     "attribute": "Decoração",
     "preview": "https://img.aishort.top/imgprompt/20260213150609920.webp"
@@ -19755,7 +19755,7 @@
   },
   {
     "displayName": "back_bow",
-    "langName": "(vestuário) nó atado atrás das costas",
+    "langName": "Laço nas costas",
     "object": "Vestuário",
     "attribute": "Decoração",
     "preview": "https://img.aishort.top/imgprompt/20260213151221218.webp"
@@ -19769,7 +19769,7 @@
   },
   {
     "displayName": "double_vertical_stripe",
-    "langName": "Há duas riscas paralelas no vestuário",
+    "langName": "Listras verticais duplas",
     "object": "Vestuário",
     "attribute": "Decoração",
     "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
@@ -19818,14 +19818,14 @@
   },
   {
     "displayName": "single_kneehigh",
-    "langName": "Usar roupa até ao joelho num dos lados",
+    "langName": "Meia alta em uma perna",
     "object": "Vestuário",
     "attribute": "Decoração",
     "preview": "https://img.aishort.top/imgprompt/20260213151419710.webp"
   },
   {
     "displayName": "single_vertical_stripe",
-    "langName": "Listra vertical única (lateral)",
+    "langName": "Listra vertical única",
     "object": "Vestuário",
     "attribute": "Decoração",
     "preview": "https://img.aishort.top/imgprompt/20260213151432314.webp"
@@ -19839,7 +19839,7 @@
   },
   {
     "displayName": "two-sided_fabric",
-    "langName": "Método de desenho de vestuário de dupla camada",
+    "langName": "Tecido dupla face",
     "object": "Vestuário",
     "attribute": "Decoração",
     "preview": "https://img.aishort.top/imgprompt/20260213151458665.webp"
@@ -19860,21 +19860,21 @@
   },
   {
     "displayName": "fringe_trim",
-    "langName": "O bordo (a extremidade do lenço)",
+    "langName": "Acabamento com franjas",
     "object": "Vestuário",
     "attribute": "Decoração",
     "preview": "https://img.aishort.top/imgprompt/20260213151538074.webp"
   },
   {
     "displayName": "loose_belt",
-    "langName": "Correias soltas (vestuário)",
+    "langName": "Cinto frouxo",
     "object": "Vestuário",
     "attribute": "Decoração",
     "preview": "https://img.aishort.top/imgprompt/20260213151551376.webp"
   },
   {
     "displayName": "pom_pom_(clothes)",
-    "langName": "Pequenos pompons (acessórios de vestuário)",
+    "langName": "Pompom decorativo",
     "object": "Vestuário",
     "attribute": "Decoração",
     "preview": "https://img.aishort.top/imgprompt/20260213151807325.webp"
@@ -19895,7 +19895,7 @@
   },
   {
     "displayName": "gathers",
-    "langName": "pregas (vestuário)",
+    "langName": "Franzido de tecido",
     "object": "Vestuário",
     "attribute": "Decoração",
     "preview": "https://img.aishort.top/imgprompt/20260213151846596.webp"
@@ -20441,7 +20441,7 @@
   },
   {
     "displayName": "peace_symbol",
-    "langName": "☮(Nas roupas de Higashikata Josuke)",
+    "langName": "Símbolo da paz (☮)",
     "object": "Vestuário",
     "attribute": "Padrão",
     "preview": "https://img.aishort.top/imgprompt/20260213154359591.webp"
@@ -20595,7 +20595,7 @@
   },
   {
     "displayName": "black_loafers",
-    "langName": "Loafers (pequenos sapatos de couro)",
+    "langName": "Mocassins pretos",
     "object": "Vestuário",
     "attribute": "Sapato",
     "preview": "https://img.aishort.top/imgprompt/20260213160300808.webp"
@@ -20868,7 +20868,7 @@
   },
   {
     "displayName": "knee_boots",
-    "langName": "Botas até ao joelho (botas de montar)",
+    "langName": "Botas de cano alto",
     "object": "Vestuário",
     "attribute": "Botas",
     "preview": "https://img.aishort.top/imgprompt/20260213170630231.webp"
@@ -21225,7 +21225,7 @@
   },
   {
     "displayName": "armband",
-    "langName": "braçadeira (braçadeira)",
+    "langName": "Braçadeira",
     "object": "Vestuário",
     "attribute": "Mangas",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
@@ -21680,7 +21680,7 @@
   },
   {
     "displayName": "alternate_headwear",
-    "langName": "Um arnês diferente do original",
+    "langName": "Adorno de cabeça alternativo",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213191902200.webp"
@@ -21715,7 +21715,7 @@
   },
   {
     "displayName": "xx_on_head",
-    "langName": "xx na cabeça",
+    "langName": "Objeto na cabeça",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213192411659.webp"
@@ -21778,21 +21778,21 @@
   },
   {
     "displayName": "hachimaki",
-    "langName": "turbante (substantivo)",
+    "langName": "Hachimaki (faixa de cabeça)",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213194023586.webp"
   },
   {
     "displayName": "helm",
-    "langName": "usar um capacete",
+    "langName": "Capacete usado",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213194036779.webp"
   },
   {
     "displayName": "helmet_removed",
-    "langName": "capacete retirado | capacete retirado",
+    "langName": "capacete retirado",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213194050047.webp"
@@ -21827,7 +21827,7 @@
   },
   {
     "displayName": "skull_and_crossbones",
-    "langName": "Caveira e ossos cruzados (pirata, perigo, aviso)",
+    "langName": "Caveira e ossos cruzados",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213195005290.webp"
@@ -21841,7 +21841,7 @@
   },
   {
     "displayName": "headdress",
-    "langName": "Chapéus (mais gerais)",
+    "langName": "Adorno de cabeça",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213195638458.webp"
@@ -21869,21 +21869,21 @@
   },
   {
     "displayName": "horns_through_headwear",
-    "langName": "Um toucado com orifícios para os chifres",
+    "langName": "Chapéu adaptado para chifres",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213200134487.webp"
   },
   {
     "displayName": "no_headwear",
-    "langName": "Capacete removido (existente)",
+    "langName": "Sem adorno de cabeça",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213200147284.webp"
   },
   {
     "displayName": "object_on_head",
-    "langName": "Há algo mais do que um arnês na cabeça",
+    "langName": "Objeto na cabeça",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213200200049.webp"
@@ -21925,7 +21925,7 @@
   },
   {
     "displayName": "behind-the-head_headphones",
-    "langName": "fones de ouvido atrás da cabeça",
+    "langName": "Fones de nuca",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213200337721.webp"
@@ -21988,14 +21988,14 @@
   },
   {
     "displayName": "head_mounted_display",
-    "langName": "Usando HMD (Head-Mounted Display)",
+    "langName": "Visor montado na cabeça (HMD)",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213201344092.webp"
   },
   {
     "displayName": "head_out_of_frame",
-    "langName": "Parte da cabeça não está desenhada na moldura",
+    "langName": "Cabeça fora do enquadramento",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213201559216.webp"
@@ -22016,7 +22016,7 @@
   },
   {
     "displayName": "headgear",
-    "langName": "Capacete/Adorno (Ficção Científica)",
+    "langName": "Capacete futurista",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213201840823.webp"
@@ -22030,7 +22030,7 @@
   },
   {
     "displayName": "heads-up_display",
-    "langName": "Barra de estado (estilo jogo e ficção científica)",
+    "langName": "Visor frontal (HUD)",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213201907728.webp"
@@ -22065,7 +22065,7 @@
   },
   {
     "displayName": "single_head_wing",
-    "langName": "Há asas de um lado da cabeça",
+    "langName": "Asa unilateral na cabeça",
     "object": "Acessórios",
     "attribute": "Adornos de cabeça",
     "preview": "https://img.aishort.top/imgprompt/20260213202620422.webp"
@@ -22261,7 +22261,7 @@
   },
   {
     "displayName": "hairpods",
-    "langName": "Hairpods (acessórios de cabelo tipo fone)",
+    "langName": "Hairpods",
     "object": "Acessórios",
     "attribute": "Acessórios para o cabelo",
     "preview": "https://img.aishort.top/imgprompt/20260213210909139.webp"
@@ -22296,7 +22296,7 @@
   },
   {
     "displayName": "snake_hair_ornament",
-    "langName": "Enfeite de cabelo de cobra / sapo",
+    "langName": "Enfeite de cabelo de serpente",
     "object": "Acessórios",
     "attribute": "Acessórios para o cabelo",
     "preview": "https://img.aishort.top/imgprompt/20260213211418419.webp"
@@ -22779,7 +22779,7 @@
   },
   {
     "displayName": "hat_removed",
-    "langName": "tira-se o chapéu | tira-se o chapéu",
+    "langName": "tira-se o chapéu",
     "object": "Acessórios",
     "attribute": "Chapéu",
     "preview": "https://img.aishort.top/imgprompt/20260213224231603.webp"
@@ -22800,7 +22800,7 @@
   },
   {
     "displayName": "hatching_(texture)",
-    "langName": "Sombreamento de linhas (textura)",
+    "langName": "Hachuras",
     "object": "Acessórios",
     "attribute": "Chapéu",
     "preview": "https://img.aishort.top/imgprompt/20260213224329155.webp"
@@ -22926,14 +22926,14 @@
   },
   {
     "displayName": "sunglasses",
-    "langName": "Óculos de sol (para cobrir os olhos)",
+    "langName": "Óculos de sol escuros",
     "object": "Acessórios",
     "attribute": "Óculos",
     "preview": "https://img.aishort.top/imgprompt/20260213230746663.webp"
   },
   {
     "displayName": "reflection glasses",
-    "langName": "Óculos de sol (olhos visíveis)",
+    "langName": "Óculos de sol translúcidos",
     "object": "Acessórios",
     "attribute": "Óculos",
     "preview": "https://img.aishort.top/imgprompt/20260213230759909.webp"
@@ -22954,7 +22954,7 @@
   },
   {
     "displayName": "eyepatch",
-    "langName": "Pala para os olhos (um olho)",
+    "langName": "Tapa-olho",
     "object": "Acessórios",
     "attribute": "Óculos",
     "preview": "https://img.aishort.top/imgprompt/20260213230839662.webp"
@@ -22989,7 +22989,7 @@
   },
   {
     "displayName": "no_eyewear",
-    "langName": "Óculos removidos (existentes)",
+    "langName": "Sem óculos",
     "object": "Acessórios",
     "attribute": "Óculos",
     "preview": "https://img.aishort.top/imgprompt/20260213230945224.webp"
@@ -23241,7 +23241,7 @@
   },
   {
     "displayName": "single_earring",
-    "langName": "Usar brincos apenas de um lado",
+    "langName": "Brinco único",
     "object": "Acessórios",
     "attribute": "Brinco",
     "preview": "https://img.aishort.top/imgprompt/20260213235633818.webp"
@@ -23297,7 +23297,7 @@
   },
   {
     "displayName": "cuffs",
-    "langName": "pelourinho",
+    "langName": "Algemas",
     "object": "Acessórios",
     "attribute": "Joias de mão",
     "preview": "https://img.aishort.top/imgprompt/20260213235839451.webp"
@@ -23325,7 +23325,7 @@
   },
   {
     "displayName": "leash",
-    "langName": "cinto",
+    "langName": "Coleira com guia",
     "object": "Acessórios",
     "attribute": "Joias de mão",
     "preview": "https://img.aishort.top/imgprompt/20260213235930034.webp"
@@ -23437,7 +23437,7 @@
   },
   {
     "displayName": "no_gloves",
-    "langName": "Luvas removidas (existentes)",
+    "langName": "Sem luvas",
     "object": "Acessórios",
     "attribute": "Luvas",
     "preview": "https://img.aishort.top/imgprompt/20260214001315236.webp"
@@ -23451,7 +23451,7 @@
   },
   {
     "displayName": "single_elbow_glove",
-    "langName": "Usar uma luva à altura do cotovelo numa mão",
+    "langName": "Luva longa em um braço",
     "object": "Acessórios",
     "attribute": "Luvas",
     "preview": "https://img.aishort.top/imgprompt/20260214001744860.webp"
@@ -23465,7 +23465,7 @@
   },
   {
     "displayName": "elbow_gloves",
-    "langName": "Luvas de manga comprida (luvas de cotovelo)",
+    "langName": "Luvas longas até o cotovelo",
     "object": "Acessórios",
     "attribute": "Luvas",
     "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
@@ -23500,14 +23500,14 @@
   },
   {
     "displayName": "paw_gloves",
-    "langName": "Luvas com garras (luvas de dedos)",
+    "langName": "Luvas de patinha",
     "object": "Acessórios",
     "attribute": "Luvas",
     "preview": "https://img.aishort.top/imgprompt/20260214002522561.webp"
   },
   {
     "displayName": "mittens",
-    "langName": "Luvas (luvas com dois dedos)",
+    "langName": "Luvas sem dedos (Moufles)",
     "object": "Acessórios",
     "attribute": "Luvas",
     "preview": "https://img.aishort.top/imgprompt/20260214002535788.webp"
@@ -23759,14 +23759,14 @@
   },
   {
     "displayName": "st._gloriana's_(emblem)",
-    "langName": "Emblema da escola St. Gloria Anna Girls' School",
+    "langName": "Emblema de St. Gloriana",
     "object": "Acessórios",
     "attribute": "Pequena decoração",
     "preview": "https://img.aishort.top/imgprompt/20260214010157304.webp"
   },
   {
     "displayName": "heart_lock_(kantai_collection)",
-    "langName": "Eclusa da rapariga do navio (Navio C)",
+    "langName": "Bloqueio de coração (Kantai Collection)",
     "object": "Acessórios",
     "attribute": "Pequena decoração",
     "preview": "https://img.aishort.top/imgprompt/20260214010210385.webp"
@@ -23990,14 +23990,14 @@
   },
   {
     "displayName": "Wu Xing",
-    "langName": "Cinco Elementos (Metal, Madeira, Água, Fogo, Terra)",
+    "langName": "Cinco Elementos (Wu Xing)",
     "object": "Acessórios",
     "attribute": "Símbolo",
     "preview": "https://img.aishort.top/imgprompt/20260214020503233.webp"
   },
   {
     "displayName": "dynamic pose",
-    "langName": "Poses dinâmicas (energéticas)",
+    "langName": "Pose dinâmica",
     "object": "Fotografia",
     "attribute": "Perspectiva",
     "preview": "https://img.aishort.top/imgprompt/20260214020718871.webp"
@@ -24319,35 +24319,35 @@
   },
   {
     "displayName": "cowboy_shot",
-    "langName": "Parte superior do corpo + coxas superiores (Plano americano)",
+    "langName": "Plano americano (Cowboy shot)",
     "object": "Fotografia",
     "attribute": "Altura do enquadramento",
     "preview": "https://img.aishort.top/imgprompt/20260214032314849.webp"
   },
   {
     "displayName": "portrait",
-    "langName": "Retrato (rosto + ombros + ocasionalmente peito)",
+    "langName": "Foto de retrato",
     "object": "Fotografia",
     "attribute": "Altura do enquadramento",
     "preview": "https://img.aishort.top/imgprompt/20260214032327856.webp"
   },
   {
     "displayName": "very close portrait",
-    "langName": "retrato de perto (câmera mais próxima)",
+    "langName": "Retrato em primeiro plano extremo",
     "object": "Fotografia",
     "attribute": "Altura do enquadramento",
     "preview": "https://img.aishort.top/imgprompt/20260214032544032.webp"
   },
   {
     "displayName": "profile",
-    "langName": "Retrato de perfil (versão de perfil do retrato)",
+    "langName": "Retrato de perfil",
     "object": "Fotografia",
     "attribute": "Altura do enquadramento",
     "preview": "https://img.aishort.top/imgprompt/20260214032759101.webp"
   },
   {
     "displayName": "close-up",
-    "langName": "grande plano",
+    "langName": "Primeiro plano",
     "object": "Fotografia",
     "attribute": "Altura do enquadramento",
     "preview": "https://img.aishort.top/imgprompt/20260214033014149.webp"
@@ -24375,7 +24375,7 @@
   },
   {
     "displayName": "wide_shot",
-    "langName": "Lente panorâmica (lente grande angular)",
+    "langName": "Plano aberto",
     "object": "Fotografia",
     "attribute": "Foco da lente",
     "preview": "https://img.aishort.top/imgprompt/20260214033851759.webp"
@@ -24389,7 +24389,7 @@
   },
   {
     "displayName": "inset",
-    "langName": "Inserir filmagens ou imagens adicionais",
+    "langName": "Imagem inserida",
     "object": "Fotografia",
     "attribute": "Foco da lente",
     "preview": "https://img.aishort.top/imgprompt/20260214033931731.webp"
@@ -24403,21 +24403,21 @@
   },
   {
     "displayName": "male focus",
-    "langName": "Foco masculino (Foco feminino)",
+    "langName": "Foco em personagem masculino",
     "object": "Fotografia",
     "attribute": "Foco da lente",
     "preview": "https://img.aishort.top/imgprompt/20260214033958195.webp"
   },
   {
     "displayName": "solo_focus",
-    "langName": "Foco em um personagem",
+    "langName": "Foco em figura única",
     "object": "Fotografia",
     "attribute": "Foco da lente",
     "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
   },
   {
     "displayName": "xx_focus",
-    "langName": "foco em xx",
+    "langName": "Foco em detalhe específico",
     "object": "Fotografia",
     "attribute": "Foco da lente",
     "preview": "https://img.aishort.top/imgprompt/20260214034023889.webp"
@@ -24459,7 +24459,7 @@
   },
   {
     "displayName": "vehicle_focus",
-    "langName": "Foco no veículo (automóvel)",
+    "langName": "Foco no veículo",
     "object": "Fotografia",
     "attribute": "Foco da lente",
     "preview": "https://img.aishort.top/imgprompt/20260214034759257.webp"
@@ -24473,21 +24473,21 @@
   },
   {
     "displayName": "between_legs",
-    "langName": "(ênfase) entre as pernas",
+    "langName": "Vista entre as pernas",
     "object": "Fotografia",
     "attribute": "Foco da lente",
     "preview": "https://img.aishort.top/imgprompt/20260214035455577.webp"
   },
   {
     "displayName": "between_breasts",
-    "langName": "peito (saliente)",
+    "langName": "Foco entre os seios",
     "object": "Fotografia",
     "attribute": "Foco da lente",
     "preview": "https://img.aishort.top/imgprompt/20260225091239828.webp"
   },
   {
     "displayName": "between_fingers",
-    "langName": "(proeminência) entre os dedos",
+    "langName": "Visão por entre os dedos",
     "object": "Fotografia",
     "attribute": "Foco da lente",
     "preview": "https://img.aishort.top/imgprompt/20260214035531987.webp"
@@ -24501,14 +24501,14 @@
   },
   {
     "displayName": "peeking_out",
-    "langName": "espreitar (gesto)",
+    "langName": "Espiando de canto",
     "object": "Fotografia",
     "attribute": "Foco da lente",
     "preview": "https://img.aishort.top/imgprompt/20260214035557635.webp"
   },
   {
     "displayName": "peeping",
-    "langName": "voyeur (ênfase na perspectiva)",
+    "langName": "Perspectiva voyeur",
     "object": "Fotografia",
     "attribute": "Foco da lente",
     "preview": "https://img.aishort.top/imgprompt/20260214035610390.webp"
@@ -24662,7 +24662,7 @@
   },
   {
     "displayName": "Brenizer Method",
-    "langName": "tiro em espiral",
+    "langName": "Método Brenizer (Panorama bokeh)",
     "object": "Fotografia",
     "attribute": "Lentes/Efeitos ópticos",
     "preview": "https://img.aishort.top/imgprompt/20260214041350224.webp"
@@ -24697,7 +24697,7 @@
   },
   {
     "displayName": "landscape",
-    "langName": "Fotografia de paisagem (fotografia longa)",
+    "langName": "Foto de paisagem",
     "object": "Fotografia",
     "attribute": "Lentes/Efeitos ópticos",
     "preview": "https://img.aishort.top/imgprompt/20260214041814281.webp"
@@ -24711,7 +24711,7 @@
   },
   {
     "displayName": "Zoom",
-    "langName": "zoom",
+    "langName": "Zoom",
     "object": "Fotografia",
     "attribute": "Lentes/Efeitos ópticos",
     "preview": "https://img.aishort.top/imgprompt/20260214041853284.webp"
@@ -24844,7 +24844,7 @@
   },
   {
     "displayName": "polaroid",
-    "langName": "Fotografias (Polaroid)",
+    "langName": "Foto Polaroid",
     "object": "Fotografia",
     "attribute": "Estilo de fotografia",
     "preview": "https://img.aishort.top/imgprompt/20260214044251180.webp"
@@ -25320,14 +25320,14 @@
   },
   {
     "displayName": "bokeh",
-    "langName": "Cáusticos (fundo desfocado)",
+    "langName": "Efeito bokeh",
     "object": "Fotografia",
     "attribute": "Efeito",
     "preview": "https://img.aishort.top/imgprompt/20260224191333274.webp"
   },
   {
     "displayName": "chromatic_aberration",
-    "langName": "Aberração cromática, cor fora de foco",
+    "langName": "Aberração cromática",
     "object": "Fotografia",
     "attribute": "Efeito",
     "preview": "https://img.aishort.top/imgprompt/20260224191548893.webp"
@@ -25341,7 +25341,7 @@
   },
   {
     "displayName": "Vignette",
-    "langName": "Vinheta",
+    "langName": "Efeito de vinhetagem",
     "object": "Fotografia",
     "attribute": "Efeito",
     "preview": "https://img.aishort.top/imgprompt/20260224191615184.webp"
@@ -25818,7 +25818,7 @@
   },
   {
     "displayName": "Crepuscular Rays",
-    "langName": "luz fraca",
+    "langName": "Raios crepusculares (Raios divinos)",
     "object": "Efeitos de luz e sombra",
     "attribute": "Efeitos de iluminação",
     "preview": "https://img.aishort.top/imgprompt/20260224200322540.webp"
@@ -25860,7 +25860,7 @@
   },
   {
     "displayName": "lens flare",
-    "langName": "Reflexo da lente (retroiluminação)",
+    "langName": "Reflexo de lente",
     "object": "Efeitos de luz e sombra",
     "attribute": "Efeitos de iluminação",
     "preview": "https://img.aishort.top/imgprompt/20260224200437632.webp"
@@ -27113,7 +27113,7 @@
   },
   {
     "displayName": "Dispersion",
-    "langName": "Aberração cromática",
+    "langName": "Dispersão de luz",
     "object": "Atmosfera de cor",
     "attribute": "Tons escuros",
     "preview": "https://img.aishort.top/imgprompt/20260224221649393.webp"
@@ -27645,7 +27645,7 @@
   },
   {
     "displayName": "Tetradic-Colors",
-    "langName": "Quatro cores (correspondência de cores retangular)",
+    "langName": "Esquema de cores tetrádico",
     "object": "Atmosfera de cor",
     "attribute": "Paleta de cores",
     "preview": "https://img.aishort.top/imgprompt/20260224223613371.webp"
@@ -27940,14 +27940,14 @@
   },
   {
     "displayName": "YCbCr",
-    "langName": "ikB",
+    "langName": "YCbCr",
     "object": "Atmosfera de cor",
     "attribute": "Paleta de cores do monitor",
     "preview": "https://img.aishort.top/imgprompt/20260224224629664.webp"
   },
   {
     "displayName": "YPbPr",
-    "langName": "wxya",
+    "langName": "YPbPr",
     "object": "Atmosfera de cor",
     "attribute": "Paleta de cores do monitor",
     "preview": "https://img.aishort.top/imgprompt/20260224224643063.webp"
@@ -29914,7 +29914,7 @@
   },
   {
     "displayName": "Putty",
-    "langName": "Calafetagem (selante)",
+    "langName": "Massa corrida / Putty",
     "object": "Material",
     "attribute": "Gosma",
     "preview": "https://img.aishort.top/imgprompt/20260224235936705.webp"
@@ -30467,7 +30467,7 @@
   },
   {
     "displayName": "Nonagon",
-    "langName": "nonagon",
+    "langName": "eneágono",
     "object": "Forma | Espaço",
     "attribute": "Forma",
     "preview": "https://img.aishort.top/imgprompt/20260225001939367.webp"
@@ -31069,7 +31069,7 @@
   },
   {
     "displayName": "Multiverse",
-    "langName": "multiverso",
+    "langName": "Multiverso",
     "object": "Forma | Espaço",
     "attribute": "Multiverso",
     "preview": "https://img.aishort.top/imgprompt/20260225003944859.webp"
@@ -31195,7 +31195,7 @@
   },
   {
     "displayName": "Interior",
-    "langName": "interno",
+    "langName": "Interior",
     "object": "Forma | Espaço",
     "attribute": "Característica",
     "preview": "https://img.aishort.top/imgprompt/20260225004403628.webp"
@@ -31356,7 +31356,7 @@
   },
   {
     "displayName": "((dyeing)),((oil painting)),((impasto))",
-    "langName": "Pintura a óleo (combinação)",
+    "langName": "Pintura a óleo com empaste",
     "object": "Tipo de imagem",
     "attribute": "Pintura",
     "preview": "https://img.aishort.top/imgprompt/20260225004949979.webp"
@@ -31587,7 +31587,7 @@
   },
   {
     "displayName": "wallpaper",
-    "langName": "papel de parede",
+    "langName": "Papel de parede",
     "object": "Tipo de imagem",
     "attribute": "Ilustração",
     "preview": "https://img.aishort.top/imgprompt/20260225005924692.webp"
@@ -31825,7 +31825,7 @@
   },
   {
     "displayName": "copics",
-    "langName": "Marcador (cinzento neutro)",
+    "langName": "Estilo marcador Copic",
     "object": "Tipo de imagem",
     "attribute": "Tinta",
     "preview": "https://img.aishort.top/imgprompt/20260225010656308.webp"
@@ -31916,7 +31916,7 @@
   },
   {
     "displayName": "Font",
-    "langName": "fonte",
+    "langName": "Fonte tipográfica",
     "object": "Tipo de imagem",
     "attribute": "Texto",
     "preview": "https://img.aishort.top/imgprompt/20260225010954580.webp"
@@ -32126,7 +32126,7 @@
   },
   {
     "displayName": "Pokemon Card",
-    "langName": "Cartas Pokémon (Monstros de Bolso)",
+    "langName": "Estilo carta de Pokémon",
     "object": "Tipo de imagem",
     "attribute": "Impressão",
     "preview": "https://img.aishort.top/imgprompt/20260225011638981.webp"
@@ -32518,7 +32518,7 @@
   },
   {
     "displayName": "traditional_media",
-    "langName": "Telas tradicionais (por exemplo, papel, etc.)",
+    "langName": "Mídias artísticas tradicionais",
     "object": "Tipo de imagem",
     "attribute": "Outras mídias",
     "preview": "https://img.aishort.top/imgprompt/20260225013600028.webp"
@@ -32735,7 +32735,7 @@
   },
   {
     "displayName": "Mural",
-    "langName": "mural",
+    "langName": "Pintura mural",
     "object": "Tipo de imagem",
     "attribute": "Arte tradicional",
     "preview": "https://img.aishort.top/imgprompt/20260225091932044.webp"
@@ -33078,7 +33078,7 @@
   },
   {
     "displayName": "miserablism",
-    "langName": "Miserabilismo (crítica social)",
+    "langName": "Miserabilismo",
     "object": "Estilo artístico",
     "attribute": "Ficção e realidade",
     "preview": "https://img.aishort.top/imgprompt/20260225015538415.webp"
@@ -33169,7 +33169,7 @@
   },
   {
     "displayName": "illustration,(((ukiyoe))),((sketch)),((japanese_art))",
-    "langName": "Ukiyo-e (grupo)",
+    "langName": "Ilustração estilo Ukiyo-e",
     "object": "Estilo artístico",
     "attribute": "Arte asiática",
     "preview": "https://img.aishort.top/imgprompt/20260225015830944.webp"
@@ -33260,7 +33260,7 @@
   },
   {
     "displayName": "heavy contrast",
-    "langName": "Forte contraste (ênfase na cor)",
+    "langName": "Alto contraste expressivo",
     "object": "Estilo artístico",
     "attribute": "Estilo de fotografia/pintura",
     "preview": "https://img.aishort.top/imgprompt/20260225020108984.webp"
@@ -33323,7 +33323,7 @@
   },
   {
     "displayName": "film noir",
-    "langName": "Filme noir (culpa, desejo, vingança)",
+    "langName": "Estética Film Noir",
     "object": "Estilo artístico",
     "attribute": "Estilo de fotografia/pintura",
     "preview": "https://img.aishort.top/imgprompt/20260225020255566.webp"
@@ -33337,7 +33337,7 @@
   },
   {
     "displayName": "fantasy",
-    "langName": "Adequado para cenas de ficção científica",
+    "langName": "Estética Fantasia",
     "object": "Estilo artístico",
     "attribute": "Ficção científica",
     "preview": "https://img.aishort.top/imgprompt/20260225020323046.webp"
@@ -33393,7 +33393,7 @@
   },
   {
     "displayName": "ww3 style",
-    "langName": "estilo ww3",
+    "langName": "estilo Terceira Guerra Mundial",
     "object": "Estilo artístico",
     "attribute": "Ficção científica",
     "preview": "https://img.aishort.top/imgprompt/20260225020500212.webp"
@@ -33624,14 +33624,14 @@
   },
   {
     "displayName": "column lineup",
-    "langName": "Imagem grande composta por filas de pequenas imagens",
+    "langName": "Alinhamento em colunas",
     "object": "Estilo artístico",
     "attribute": "Publicação",
     "preview": "https://img.aishort.top/imgprompt/20260225021130372.webp"
   },
   {
     "displayName": "zoom layer",
-    "langName": "O fundo é uma versão ampliada do primeiro plano",
+    "langName": "Camada de zoom",
     "object": "Estilo artístico",
     "attribute": "Publicação",
     "preview": "https://img.aishort.top/imgprompt/20260225021142834.webp"
@@ -33680,7 +33680,7 @@
   },
   {
     "displayName": "highres",
-    "langName": "impasto (estilo)",
+    "langName": "Estilo empaste digital",
     "object": "Estilo artístico",
     "attribute": "Arte digital",
     "preview": "https://img.aishort.top/imgprompt/20260225021323241.webp"
@@ -33813,7 +33813,7 @@
   },
   {
     "displayName": "HD",
-    "langName": "HD",
+    "langName": "Alta Definição",
     "object": "Pós-processamento",
     "attribute": "Escala",
     "preview": "https://img.aishort.top/imgprompt/20260225021715675.webp"
@@ -33897,7 +33897,7 @@
   },
   {
     "displayName": "Anti-Aliasing",
-    "langName": "Anti-aliasing",
+    "langName": "Suavização de serrilhado",
     "object": "Pós-processamento",
     "attribute": "Anti-aliasing",
     "preview": "https://img.aishort.top/imgprompt/20260225021947817.webp"
@@ -34233,7 +34233,7 @@
   },
   {
     "displayName": "Sabattier Effect",
-    "langName": "Bordas suaves e desfocadas e sangramento de cores",
+    "langName": "Efeito Sabattier (Solarização)",
     "object": "Pós-processamento",
     "attribute": "Processamento de imagens",
     "preview": "https://img.aishort.top/imgprompt/20260225022949265.webp"
@@ -34268,7 +34268,7 @@
   },
   {
     "displayName": "Harris Shutter",
-    "langName": "Obturador Harris (movimento/pouca luz)",
+    "langName": "Efeito obturador Harris",
     "object": "Pós-processamento",
     "attribute": "Processamento de imagens",
     "description": "Captura objetos em movimento rápido ou mantém a clareza da imagem em ambientes de baixa luminosidade",
@@ -34682,7 +34682,7 @@
   },
   {
     "displayName": "beautiful Korean idol in an intimate pose with a man in a blurred indoor setting,soft lighting,moody atmosphere",
-    "langName": "linda idol coreana em pose íntima com um homem em um ambiente interno desfocado, luz suave, atmosfera intimista",
+    "langName": "Ensaio de casal intimista",
     "object": "Vitrine",
     "attribute": "Retrato",
     "preview": "https://img.aishort.top/imgprompt/20260228063106088.webp"
@@ -34703,7 +34703,7 @@
   },
   {
     "displayName": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space,a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve,gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline,Beacon Hill brownstones,Acorn Street,Boston Public Garden,Swan Boats,Zakim Bridge,Fenway-inspired details,historic brick architecture,harbor ferries,and the city’s waterfront atmosphere. Soft morning fog,golden spring light,subtle festive accents in crimson and gold,rich detail,layered depth,sophisticated city-poster aesthetics,fresh and refined,visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON,A CITY OF RIVER,MEMORY,AND INVENTION”,text clear and beautifully composed,premium graphic design,9:16",
-    "langName": "Pôster Cidade Boston Primavera 2026",
+    "langName": "Pôster urbano de Boston Primavera 2026",
     "object": "Vitrine",
     "attribute": "Pôster",
     "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
@@ -34711,7 +34711,7 @@
   },
   {
     "displayName": "Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast,Italy,panoramic coastal cliff road scene,classic 1960s white car driving along a curved seaside road,deep blue Mediterranean sea with small sailboats,colorful pastel hillside village,bright blue sky with soft clouds,lemon tree branches with vibrant yellow lemons framing the foreground,warm summer sunlight,bold vibrant colors,retro 1950s travel poster style,cinematic composition,high detail,screen print texture,graphic illustration. Hand-drawn style,illustration with loose strokes and defined contours. High-contrast color palette,maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.",
-    "langName": "Pôster de Viagem Vintage Amalfi",
+    "langName": "Pôster de viagem vintage da Costa Amalfitana",
     "object": "Vitrine",
     "attribute": "Pôster",
     "description": "by @WolfRiccardo (https://x.com/WolfRiccardo)",
@@ -34719,7 +34719,7 @@
   },
   {
     "displayName": "一张手绘风格的城市美食地图,以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底,标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等,每个插画约占地图的 5% 面积,旁边用手写体标注店名和一句推荐语\"凌晨两点还在排队的那家\"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题\"成都·吃货暴走地图\"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感,颜色以暖色系（辣椒红、姜黄、翠绿）为主,图片比例 1:1。",
-    "langName": "Ilustração Mapa Gastronômico Chengdu",
+    "langName": "Mapa gastronômico ilustrado de Chengdu",
     "object": "Vitrine",
     "attribute": "Pôster",
     "description": "by @Panda20230902 (https://x.com/Panda20230902)",
@@ -34734,7 +34734,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151157243.webp"
   },
   {
-    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑(广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
+    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑（广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
     "langName": "Pôster Cidade Guangzhou Primavera 2026",
     "object": "Vitrine",
     "attribute": "Pôster",
@@ -34951,7 +34951,7 @@
   },
   {
     "displayName": "A refined 2026 Silicon Valley city promotional poster with a futuristic yet elegant atmosphere.\n\nDouble exposure composition,preserving an S-shaped sense of flowing movement. On a pure white textured background,in the lower-right corner,a miniature figure dressed in sleek modern techwear is releasing a long ribbon of luminous silver-blue light. The ribbon flows gracefully through the air,showing a soft silk-like texture,and as it drifts toward the upper-left,it magically transforms into a grand landscape of rolling hills,coastline,data streams,and illuminated urban terrain.\n\nWithin this flowing “river of light,” overlay a hand-drawn panoramic map of Silicon Valley,blending technology,nature,innovation,and California sunlight. The scene feels visionary,expansive,sophisticated,and inspiring.\n\nInclude iconic Silicon Valley and Bay Area elements: Stanford University arches,Apple Park,Google campus-inspired buildings,Meta-like glass offices,Tesla-style innovation imagery,venture capital offices on Sand Hill Road,Palo Alto tree-lined streets,San Jose skyline,the Santa Cruz Mountains,San Francisco Bay,highways,autonomous vehicles,startup labs,semiconductor patterns,AI data centers,and subtle circuit-board textures.\n\nSurrounded by soft mist,golden California light,floating clouds,and delicate digital particles. Rich colors,complex structure,highly detailed,grand and breathtaking,yet still fresh and minimal because of the large areas of white space.\n\nIn the lower-left corner,elegant typography reads “SILICON VALLEY 2026” with a vertical promotional slogan: “Where Ideas Shape Tomorrow.” Beautiful editorial layout,graceful spacing,clear and complete lettering,premium city branding poster,cinematic lighting,sophisticated details,9:16 aspect ratio.",
-    "langName": "Pôster Promo Silicon Valley 2026",
+    "langName": "Pôster promocional do Vale do Silício 2026",
     "object": "Vitrine",
     "attribute": "Pôster",
     "description": "by @carsonyungos (https://x.com/carsonyungos)",

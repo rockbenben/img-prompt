@@ -435,7 +435,7 @@
   },
   {
     "displayName": "cleric",
-    "langName": "นักบวช (คริสเตียน)",
+    "langName": "นักบวช / พระ",
     "object": "ตัวละคร",
     "attribute": "ตัวตน",
     "preview": "https://img.aishort.top/imgprompt/20260208072159895.webp"
@@ -534,21 +534,21 @@
   },
   {
     "displayName": "crossdressing",
-    "langName": "แต่งหญิง (สวมเสื้อผ้าต่างเพศ)",
+    "langName": "แต่งกายข้ามเพศ",
     "object": "ตัวละคร",
     "attribute": "ตัวตน",
     "preview": "https://img.aishort.top/imgprompt/20260209061704193.webp"
   },
   {
     "displayName": "otoko_no_ko",
-    "langName": "โอโตโกะโนะโกะ (ผู้ชายที่ดูเหมือนผู้หญิง)",
+    "langName": "โอโตโกะโนะโกะ",
     "object": "ตัวละคร",
     "attribute": "ตัวตน",
     "preview": "https://img.aishort.top/imgprompt/20260208074725601.webp"
   },
   {
     "displayName": "gyaru",
-    "langName": "สาวซ่า (สาวแสบชาวญี่ปุ่น)",
+    "langName": "เกียรุ",
     "object": "ตัวละคร",
     "attribute": "ตัวตน",
     "preview": "https://img.aishort.top/imgprompt/20260210193812753.webp"
@@ -562,14 +562,14 @@
   },
   {
     "displayName": "yaoi",
-    "langName": "ยาโออิ",
+    "langName": "ยาโอย / BL",
     "object": "ตัวละคร",
     "attribute": "ตัวตน",
     "preview": "https://img.aishort.top/imgprompt/20260208074725603.webp"
   },
   {
     "displayName": "yuri",
-    "langName": "ยูริ",
+    "langName": "ยูริ / GL",
     "object": "ตัวละคร",
     "attribute": "ตัวตน",
     "preview": "https://img.aishort.top/imgprompt/20260209061704191.webp"
@@ -646,7 +646,7 @@
   },
   {
     "displayName": "mazinger",
-    "langName": "มาซิงเกอร์",
+    "langName": "มาซิงเกอร์ แซด",
     "object": "ตัวละคร",
     "attribute": "อนิเมะ",
     "preview": "https://img.aishort.top/imgprompt/20260210072537640.webp"
@@ -786,7 +786,7 @@
   },
   {
     "displayName": "fairy",
-    "langName": "แฟรี่",
+    "langName": "ภูติน้อย / แฟรี่",
     "object": "ตัวละคร",
     "attribute": "อนิเมะ",
     "preview": "https://img.aishort.top/imgprompt/20260209063141969.webp"
@@ -828,14 +828,14 @@
   },
   {
     "displayName": "monster_girl",
-    "langName": "มอนสเตอร์เกิร์ล",
+    "langName": "สาวมอนสเตอร์",
     "object": "ตัวละคร",
     "attribute": "อนิเมะ",
     "preview": "https://img.aishort.top/imgprompt/20260209063226407.webp"
   },
   {
     "displayName": "dominatrix",
-    "langName": "โดมิแนทริกซ์ (SM)",
+    "langName": "ดอมินาทริกซ์",
     "object": "ตัวละคร",
     "attribute": "อนิเมะ",
     "preview": "https://img.aishort.top/imgprompt/20260209063233422.webp"
@@ -968,28 +968,28 @@
   },
   {
     "displayName": "horse_girl",
-    "langName": "หญิงสาวแห่งม้า",
+    "langName": "สาวม้า",
     "object": "ตัวละคร",
     "attribute": "อนิเมะ",
     "preview": "https://img.aishort.top/imgprompt/20260210072537637.webp"
   },
   {
     "displayName": "furry",
-    "langName": "บีสต์เมน",
+    "langName": "เฟอร์รี่",
     "object": "ตัวละคร",
     "attribute": "อนิเมะ",
     "preview": "https://img.aishort.top/imgprompt/20260210072537632.webp"
   },
   {
     "displayName": "furry/orc",
-    "langName": "ออร์ค/ครึ่งออร์ค",
+    "langName": "เฟอร์รี่ / ออร์ค",
     "object": "ตัวละคร",
     "attribute": "อนิเมะ",
     "preview": "https://img.aishort.top/imgprompt/20260210072537646.webp"
   },
   {
     "displayName": "kemonomimi_mode",
-    "langName": "โหมดลoliขนฟู",
+    "langName": "โหมดหูสัตว์ขนฟู",
     "object": "ตัวละคร",
     "attribute": "อนิเมะ",
     "preview": "https://img.aishort.top/imgprompt/20260210072537626.webp"
@@ -1010,14 +1010,14 @@
   },
   {
     "displayName": "mesugaki",
-    "langName": "นางปีศาจ",
+    "langName": "เมสึงากิ",
     "object": "ตัวละคร",
     "attribute": "อนิเมะ",
     "preview": "https://img.aishort.top/imgprompt/20260210072537644.webp"
   },
   {
     "displayName": "santa alter",
-    "langName": "คุณพ่อคริสต์มาส",
+    "langName": "ซานต้า อัลเตอร์",
     "object": "ตัวละคร",
     "attribute": "อนิเมะ",
     "preview": "https://img.aishort.top/imgprompt/20260210072537639.webp"
@@ -1052,7 +1052,7 @@
   },
   {
     "displayName": "kindergartener",
-    "langName": "โรงเรียนอนุบาล",
+    "langName": "เด็กอนุบาล",
     "object": "ตัวละคร",
     "attribute": "อายุ",
     "preview": "https://img.aishort.top/imgprompt/20260210192804244.webp"
@@ -1073,14 +1073,14 @@
   },
   {
     "displayName": "early teen",
-    "langName": "วัยรุ่นตอนต้น (11–15 ปี)",
+    "langName": "วัยรุ่นตอนต้น",
     "object": "ตัวละคร",
     "attribute": "อายุ",
     "preview": "https://img.aishort.top/imgprompt/20260210192804238.webp"
   },
   {
     "displayName": "teenager",
-    "langName": "เยาวชน (อายุ 13–19 ปี)",
+    "langName": "วัยรุ่น",
     "object": "ตัวละคร",
     "attribute": "อายุ",
     "preview": "https://img.aishort.top/imgprompt/20260210192804240.webp"
@@ -1129,7 +1129,7 @@
   },
   {
     "displayName": "pale_skin",
-    "langName": "ผิวขาวซีด (เหมาะกับสีเข้มหรือสีสดใส)",
+    "langName": "ผิวขาวซีด",
     "object": "ตัวละคร",
     "attribute": "ผิว",
     "preview": "https://img.aishort.top/imgprompt/20260210193300398.webp"
@@ -1192,7 +1192,7 @@
   },
   {
     "displayName": "tanlines",
-    "langName": "รอยไหม้จากแดด",
+    "langName": "รอยผิวไหม้แดด",
     "object": "ตัวละคร",
     "attribute": "ผิว",
     "preview": "https://img.aishort.top/imgprompt/20260210193621164.webp"
@@ -1206,7 +1206,7 @@
   },
   {
     "displayName": "oil_skin",
-    "langName": "น้ำมันผิว",
+    "langName": "ผิวมัน",
     "object": "ตัวละคร",
     "attribute": "ผิว",
     "preview": "https://img.aishort.top/imgprompt/20260210195122883.webp"
@@ -1318,7 +1318,7 @@
   },
   {
     "displayName": "(cleavage visible,large breasts)",
-    "langName": "หน้าอกใหญ่ (พร้อมร่องอก)",
+    "langName": "หน้าอกใหญ่ (เห็นร่องอก)",
     "object": "ตัวละคร",
     "attribute": "รูปร่าง",
     "preview": "https://img.aishort.top/imgprompt/20260211065136926.webp"
@@ -1780,7 +1780,7 @@
   },
   {
     "displayName": "drill hair",
-    "langName": "ดอกสว่านม้วนผม ม้วนผมแบบเจ้าหญิง",
+    "langName": "ผมลอนเกลียวสว่าน ลอนเจ้าหญิง",
     "object": "ตัวละคร",
     "attribute": "ทรงผม",
     "preview": "https://img.aishort.top/imgprompt/20260211134240236.webp"
@@ -1822,7 +1822,7 @@
   },
   {
     "displayName": "double_bun",
-    "langName": "ขนมปังสองก้อน",
+    "langName": "มวยผมสองข้าง",
     "object": "ตัวละคร",
     "attribute": "ทรงผม",
     "preview": "https://img.aishort.top/imgprompt/20260212070356612.webp"
@@ -1857,7 +1857,7 @@
   },
   {
     "displayName": "heart hair bun",
-    "langName": "ขนมปังรูปหัวใจ",
+    "langName": "มวยผมรูปหัวใจ",
     "object": "ตัวละคร",
     "attribute": "ทรงผม",
     "preview": "https://img.aishort.top/imgprompt/20260211134516445.webp"
@@ -1941,14 +1941,14 @@
   },
   {
     "displayName": "crossed bangs",
-    "langName": "ชายครุยไขว้",
+    "langName": "ผมหน้าม้าไขว้",
     "object": "ตัวละคร",
     "attribute": "ทรงผม",
     "preview": "https://img.aishort.top/imgprompt/20260317085523411.webp"
   },
   {
     "displayName": "bangs",
-    "langName": "ขอบ",
+    "langName": "ผมหน้าม้า",
     "object": "ตัวละคร",
     "attribute": "ทรงผม",
     "preview": "https://img.aishort.top/imgprompt/20260211134915118.webp"
@@ -1969,28 +1969,28 @@
   },
   {
     "displayName": "long bangs",
-    "langName": "ชายยาว",
+    "langName": "ผมหน้าม้ายาว",
     "object": "ตัวละคร",
     "attribute": "ทรงผม",
     "preview": "https://img.aishort.top/imgprompt/20260211134954164.webp"
   },
   {
     "displayName": "air bangs",
-    "langName": "ผมหน้าม้า",
+    "langName": "หน้าม้าซีทรู",
     "object": "ตัวละคร",
     "attribute": "ทรงผม",
     "preview": "https://img.aishort.top/imgprompt/20260211135006710.webp"
   },
   {
     "displayName": "asymmetric bangs",
-    "langName": "ชายผ้าไม่สมมาตร",
+    "langName": "ผมหน้าม้าอสมมาตร",
     "object": "ตัวละคร",
     "attribute": "ทรงผม",
     "preview": "https://img.aishort.top/imgprompt/20260211135019506.webp"
   },
   {
     "displayName": "asymmetrical bangs",
-    "langName": "ชายผ้าไม่สมมาตร",
+    "langName": "ผมหน้าม้าอสมมาตร",
     "object": "ตัวละคร",
     "attribute": "ทรงผม",
     "preview": "https://img.aishort.top/imgprompt/20260211135032224.webp"
@@ -2081,7 +2081,7 @@
   },
   {
     "displayName": "ahoge",
-    "langName": "ผมแหลม",
+    "langName": "อะโฮเกะ",
     "object": "ตัวละคร",
     "attribute": "ทรงผม",
     "preview": "https://img.aishort.top/imgprompt/20260211135331864.webp"
@@ -2529,7 +2529,7 @@
   },
   {
     "displayName": "tiger_ears",
-    "langName": "ฮัวตู่ยี (ฮวาตู่ยี)",
+    "langName": "ฮัวตู่ยี",
     "object": "ตัวละคร",
     "attribute": "หู",
     "preview": "https://img.aishort.top/imgprompt/20260211140746748.webp"
@@ -2767,7 +2767,7 @@
   },
   {
     "displayName": "eye_relfection",
-    "langName": "การตอบสนองของตา (การตอบสนองของรูม่านตาต่อแสง)",
+    "langName": "ประกายตา",
     "object": "ตัวละคร",
     "attribute": "ตา",
     "preview": "https://img.aishort.top/imgprompt/20260211141526968.webp"
@@ -2984,7 +2984,7 @@
   },
   {
     "displayName": "blush_stickers",
-    "langName": "สติ๊กเกอร์บลัชออนสไตล์ชิบิ",
+    "langName": "สติกเกอร์แก้มแดงแบบชิบิ",
     "object": "ตัวละคร",
     "attribute": "ตา",
     "preview": "https://img.aishort.top/imgprompt/20260211142304171.webp"
@@ -3019,14 +3019,14 @@
   },
   {
     "displayName": "sanpaku",
-    "langName": "การเบี่ยงเบนของรูม่านตา",
+    "langName": "ตาสามขาว",
     "object": "ตัวละคร",
     "attribute": "ตา",
     "preview": "https://img.aishort.top/imgprompt/20260211142408606.webp"
   },
   {
     "displayName": "flaming_eye",
-    "langName": "ดวงตาเปลวไฟ",
+    "langName": "ดวงตาลุกเป็นไฟ",
     "object": "ตัวละคร",
     "attribute": "ตา",
     "preview": "https://img.aishort.top/imgprompt/20260211142422174.webp"
@@ -3082,7 +3082,7 @@
   },
   {
     "displayName": "half_closed_eye",
-    "langName": "ตาปิดครึ่ง (ตาเดียว)",
+    "langName": "ตาหรี่ข้างเดียว",
     "object": "ตัวละคร",
     "attribute": "ตา",
     "preview": "https://img.aishort.top/imgprompt/20260211142557836.webp"
@@ -3180,14 +3180,14 @@
   },
   {
     "displayName": "no_blindfold",
-    "langName": "ลบองค์ประกอบผ้าปิดตา (ที่เคยรวมไว้ก่อนหน้านี้)",
+    "langName": "ไม่ปิดตา",
     "object": "ตัวละคร",
     "attribute": "ตา",
     "preview": "https://img.aishort.top/imgprompt/20260211220153156.webp"
   },
   {
     "displayName": "no_eyepatch",
-    "langName": "ถอด (เคยติดตั้งไว้) หน้ากากปิดตา",
+    "langName": "ไม่คาดที่ปิดตา",
     "object": "ตัวละคร",
     "attribute": "ตา",
     "preview": "https://img.aishort.top/imgprompt/20260211142907966.webp"
@@ -3292,7 +3292,7 @@
   },
   {
     "displayName": "snake_pupils",
-    "langName": "ตาเหลือก (การกระตุกของม่านตา)",
+    "langName": "ตางู",
     "object": "ตัวละคร",
     "attribute": "รูม่านตา",
     "preview": "https://img.aishort.top/imgprompt/20260317093813015.webp"
@@ -3670,7 +3670,7 @@
   },
   {
     "displayName": "gasping",
-    "langName": "หายใจหอบ (อ้าปากกว้าง)",
+    "langName": "อ้าปากหอบ",
     "object": "ตัวละคร",
     "attribute": "ปาก",
     "preview": "https://img.aishort.top/imgprompt/20260317100011869.webp"
@@ -3761,7 +3761,7 @@
   },
   {
     "displayName": "chestnut_mouth",
-    "langName": "ปากสีเกาลัด",
+    "langName": "ปากทรงสามเหลี่ยม",
     "object": "ตัวละคร",
     "attribute": "ปาก",
     "preview": "https://img.aishort.top/imgprompt/20260211144640830.webp"
@@ -3901,7 +3901,7 @@
   },
   {
     "displayName": "mouth_drool",
-    "langName": "รอยหยักรูปหยดน้ำที่มุมปาก",
+    "langName": "น้ำลายไหลมุมปาก",
     "object": "ตัวละคร",
     "attribute": "ปาก",
     "preview": "https://img.aishort.top/imgprompt/20260317100321880.webp"
@@ -4111,7 +4111,7 @@
   },
   {
     "displayName": "nail",
-    "langName": "ตะปู",
+    "langName": "เล็บ",
     "object": "ตัวละคร",
     "attribute": "เล็บ",
     "preview": "https://img.aishort.top/imgprompt/20260211145741915.webp"
@@ -4167,42 +4167,42 @@
   },
   {
     "displayName": "flat chest",
-    "langName": "หน้าอกเล็ก (คัพ A)",
+    "langName": "อกแบนราบ",
     "object": "ตัวละคร",
     "attribute": "หน้าอก",
     "preview": "https://img.aishort.top/imgprompt/20260212064123283.webp"
   },
   {
     "displayName": "small_breasts",
-    "langName": "อกเล็ก (B)",
+    "langName": "หน้าอกเล็ก",
     "object": "ตัวละคร",
     "attribute": "หน้าอก",
     "preview": "https://img.aishort.top/imgprompt/20260212071540871.webp"
   },
   {
     "displayName": "medium breasts",
-    "langName": "ขนาดกลาง (C)",
+    "langName": "หน้าอกขนาดกลาง",
     "object": "ตัวละคร",
     "attribute": "หน้าอก",
     "preview": "https://img.aishort.top/imgprompt/20260212071540873.webp"
   },
   {
     "displayName": "big breasts",
-    "langName": "หน้าอกใหญ่ (D)",
+    "langName": "หน้าอกใหญ่",
     "object": "ตัวละคร",
     "attribute": "หน้าอก",
     "preview": "https://img.aishort.top/imgprompt/20260212071540872.webp"
   },
   {
     "displayName": "huge breasts",
-    "langName": "หน้าอกใหญ่ (คัพ E)",
+    "langName": "หน้าอกมหึมา",
     "object": "ตัวละคร",
     "attribute": "หน้าอก",
     "preview": "https://img.aishort.top/imgprompt/20260212071540870.webp"
   },
   {
     "displayName": "gigantic breasts",
-    "langName": "หน้าอกขนาดใหญ่พิเศษ (คัพ F)",
+    "langName": "หน้าอกมหึมาระดับสุดยอด",
     "object": "ตัวละคร",
     "attribute": "หน้าอก",
     "preview": "https://img.aishort.top/imgprompt/20260212071540874.webp"
@@ -4383,7 +4383,7 @@
   },
   {
     "displayName": "detached_wings",
-    "langName": "ปีกที่ไม่ได้เชื่อมต่อกับร่างกาย",
+    "langName": "ปีกแยกจากตัว",
     "object": "ตัวละคร",
     "attribute": "ปีก",
     "preview": "https://img.aishort.top/imgprompt/20260211150537125.webp"
@@ -4453,7 +4453,7 @@
   },
   {
     "displayName": "no_wings",
-    "langName": "ตัดปีกออก (ที่เคยมีอยู่)",
+    "langName": "ไม่มีปีก",
     "object": "ตัวละคร",
     "attribute": "ปีก",
     "preview": "https://img.aishort.top/imgprompt/20260212072704705.webp"
@@ -4579,7 +4579,7 @@
   },
   {
     "displayName": "foral_background",
-    "langName": "พื้นหลังตกแต่งลวดลายดอกไม้",
+    "langName": "พื้นหลังลายดอกไม้",
     "object": "สภาพแวดล้อม",
     "attribute": "พื้นหลัง",
     "preview": "https://img.aishort.top/imgprompt/20260211151130102.webp"
@@ -4698,7 +4698,7 @@
   },
   {
     "displayName": "rounded_corners",
-    "langName": "พื้นหลังหรือกรอบรูปมีมุมโค้งมน",
+    "langName": "กรอบมุมโค้งมน",
     "object": "สภาพแวดล้อม",
     "attribute": "พื้นหลัง",
     "preview": "https://img.aishort.top/imgprompt/20260211151506847.webp"
@@ -4712,7 +4712,7 @@
   },
   {
     "displayName": "outside_border",
-    "langName": "ส่วนหนึ่งของภาพวาดยื่นออกไปนอกกรอบพื้นหลัง",
+    "langName": "ภาพล้นกรอบ",
     "object": "สภาพแวดล้อม",
     "attribute": "พื้นหลัง",
     "preview": "https://img.aishort.top/imgprompt/20260211151532945.webp"
@@ -4726,7 +4726,7 @@
   },
   {
     "displayName": "windowboxed",
-    "langName": "ติดกรอบ (พื้นหลัง)",
+    "langName": "กรอบหน้าต่างภาพ",
     "object": "สภาพแวดล้อม",
     "attribute": "พื้นหลัง",
     "preview": "https://img.aishort.top/imgprompt/20260211151559726.webp"
@@ -4929,7 +4929,7 @@
   },
   {
     "displayName": "beautiful detailed sky,beautiful detailed water",
-    "langName": "อากาศดีและน้ำใส",
+    "langName": "ฟ้าสวยน้ำใส",
     "object": "สภาพแวดล้อม",
     "attribute": "ธรรมชาติ",
     "preview": "https://img.aishort.top/imgprompt/20260211152348882.webp"
@@ -4992,7 +4992,7 @@
   },
   {
     "displayName": "Dreamy forest",
-    "langName": "ป่าแห่งความฝัน (บรรยากาศโปร่งใส · อนุภาคแสงอันสงบ)",
+    "langName": "ป่าชวนฝัน",
     "object": "สภาพแวดล้อม",
     "attribute": "ธรรมชาติ",
     "preview": "https://img.aishort.top/imgprompt/20260211152548353.webp"
@@ -5293,7 +5293,7 @@
   },
   {
     "displayName": "star_(sky)",
-    "langName": "ดาว (บนท้องฟ้า)",
+    "langName": "ดวงดาวบนท้องฟ้า",
     "object": "สภาพแวดล้อม",
     "attribute": "ท้องฟ้า",
     "preview": "https://img.aishort.top/imgprompt/20260211153554967.webp"
@@ -5545,7 +5545,7 @@
   },
   {
     "displayName": "altocumulus_strataformis",
-    "langName": "เมฆชั้นกลางเป็นชั้น (อัลโตคิวมูลัส)",
+    "langName": "เมฆชั้นกลางเป็นชั้น",
     "object": "สภาพแวดล้อม",
     "attribute": "เมฆ",
     "preview": "https://img.aishort.top/imgprompt/20260211154335682.webp"
@@ -5923,7 +5923,7 @@
   },
   {
     "displayName": "rappelling",
-    "langName": "ระดับ (การระงับ)",
+    "langName": "โรยตัวด้วยเชือก",
     "object": "สภาพแวดล้อม",
     "attribute": "กลางแจ้ง",
     "preview": "https://img.aishort.top/imgprompt/20260211155514112.webp"
@@ -6427,7 +6427,7 @@
   },
   {
     "displayName": "rubble_ruins",
-    "langName": "ซากปรักหักพัง | ซากปรักหักพัง",
+    "langName": "ซากปรักหักพัง",
     "object": "สภาพแวดล้อม",
     "attribute": "กลางแจ้ง",
     "preview": "https://img.aishort.top/imgprompt/20260211161129937.webp"
@@ -7589,7 +7589,7 @@
   },
   {
     "displayName": "school_bag",
-    "langName": "กระเป๋านักเรียน (กระเป๋าถือ)",
+    "langName": "กระเป๋านักเรียน",
     "object": "สิ่งของ",
     "attribute": "อุปกรณ์การเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260211164633641.webp"
@@ -7799,7 +7799,7 @@
   },
   {
     "displayName": "scales",
-    "langName": "สเกล",
+    "langName": "ตราชั่ง",
     "object": "สิ่งของ",
     "attribute": "รายการอื่นๆ",
     "preview": "https://img.aishort.top/imgprompt/20260211165251868.webp"
@@ -7820,14 +7820,14 @@
   },
   {
     "displayName": "diamond_(shape)",
-    "langName": "เพชร (รูปทรง)",
+    "langName": "รูปทรงสี่เหลี่ยมขนมเปียกปูน",
     "object": "สิ่งของ",
     "attribute": "รายการอื่นๆ",
     "preview": "https://img.aishort.top/imgprompt/20260211165329674.webp"
   },
   {
     "displayName": "chibi_inset",
-    "langName": "ภาพประกอบยุทธการที่ผาแดง",
+    "langName": "ภาพตัวละครจิ๋ว",
     "object": "สิ่งของ",
     "attribute": "รายการอื่นๆ",
     "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
@@ -7932,7 +7932,7 @@
   },
   {
     "displayName": "sword",
-    "langName": "มีด",
+    "langName": "ดาบ",
     "object": "สิ่งของ",
     "attribute": "อาวุธ",
     "preview": "https://img.aishort.top/imgprompt/20260211165652659.webp"
@@ -7960,7 +7960,7 @@
   },
   {
     "displayName": "saber_(weapon)",
-    "langName": "เซเบอร์ (อาวุธ)",
+    "langName": "ดาบเซเบอร์",
     "object": "สิ่งของ",
     "attribute": "อาวุธ",
     "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
@@ -7988,7 +7988,7 @@
   },
   {
     "displayName": "stake",
-    "langName": "กาว",
+    "langName": "ลิ่มไม้แหลม",
     "object": "สิ่งของ",
     "attribute": "อาวุธ",
     "preview": "https://img.aishort.top/imgprompt/20260211165832380.webp"
@@ -8030,7 +8030,7 @@
   },
   {
     "displayName": "claw_(weapon)",
-    "langName": "กรงเล็บ (อาวุธ)",
+    "langName": "กรงเล็บสังหาร",
     "object": "สิ่งของ",
     "attribute": "อาวุธ",
     "preview": "https://img.aishort.top/imgprompt/20260211165949084.webp"
@@ -8065,7 +8065,7 @@
   },
   {
     "displayName": "magazine_(weapon)",
-    "langName": "แม็กกาซีน (อาวุธ)",
+    "langName": "แม็กกาซีนปืน",
     "object": "สิ่งของ",
     "attribute": "อาวุธ",
     "preview": "https://img.aishort.top/imgprompt/20260211170050212.webp"
@@ -8100,7 +8100,7 @@
   },
   {
     "displayName": "tank",
-    "langName": "ถัง",
+    "langName": "รถถัง",
     "object": "สิ่งของ",
     "attribute": "อาวุธ",
     "preview": "https://img.aishort.top/imgprompt/20260211170154753.webp"
@@ -9563,7 +9563,7 @@
   },
   {
     "displayName": "the_pose",
-    "langName": "นอนราบกับพื้นโดยยกเท้าขึ้น",
+    "langName": "ท่านอนคว่ำยกขาชัน",
     "object": "ท่าทาง",
     "attribute": "ท่าทางพื้นฐาน",
     "preview": "https://img.aishort.top/imgprompt/20260211174615259.webp"
@@ -9591,14 +9591,14 @@
   },
   {
     "displayName": "fetal_position",
-    "langName": "ท่าทารกในครรภ์ (นอนราบ)",
+    "langName": "ท่านอนขดตัวแบบทารก",
     "object": "ท่าทาง",
     "attribute": "ท่าทางพื้นฐาน",
     "preview": "https://img.aishort.top/imgprompt/20260211174706202.webp"
   },
   {
     "displayName": "against_glass",
-    "langName": "พิงอยู่กับกระจก",
+    "langName": "แนบชิดกระจก",
     "object": "ท่าทาง",
     "attribute": "ท่าทางพื้นฐาน",
     "preview": "https://img.aishort.top/imgprompt/20260211174718789.webp"
@@ -9612,7 +9612,7 @@
   },
   {
     "displayName": "presenting",
-    "langName": "แสดง (ตามด้วยส่วน)",
+    "langName": "โพสท่าอวดเรือนร่าง",
     "object": "ท่าทาง",
     "attribute": "ท่าทางพื้นฐาน",
     "preview": "https://img.aishort.top/imgprompt/20260211174744336.webp"
@@ -9675,7 +9675,7 @@
   },
   {
     "displayName": "eye_contact",
-    "langName": "การสบตา (การมองตา)",
+    "langName": "สบตา",
     "object": "ท่าทาง",
     "attribute": "การแสดงออกทางสายตา",
     "preview": "https://img.aishort.top/imgprompt/20260211174937637.webp"
@@ -9836,7 +9836,7 @@
   },
   {
     "displayName": "aiming_at_viewer",
-    "langName": "มุ่งเน้นมุมมองของผู้อ่าน",
+    "langName": "เล็งเป้ามาที่ผู้ชม",
     "object": "ท่าทาง",
     "attribute": "การแสดงออกทางสายตา",
     "preview": "https://img.aishort.top/imgprompt/20260211175428502.webp"
@@ -9934,7 +9934,7 @@
   },
   {
     "displayName": "hands_clasped",
-    "langName": "นิ้วมือประสานกัน มือจับแน่น",
+    "langName": "ประสานนิ้วมือสองข้าง",
     "object": "ท่าทาง",
     "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
@@ -9969,7 +9969,7 @@
   },
   {
     "displayName": "hands_in_opposite_sleeves",
-    "langName": "แขนไขว้กันซุกอยู่ในแขนเสื้อ",
+    "langName": "สอดมือไว้ในแขนเสื้อ",
     "object": "ท่าทาง",
     "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
@@ -10095,7 +10095,7 @@
   },
   {
     "displayName": "covering_xx",
-    "langName": "ปิดไว้หน่อย xx",
+    "langName": "การปกปิดส่วนเฉพาะ",
     "object": "ท่าทาง",
     "attribute": "ท่าแขน",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
@@ -10172,14 +10172,14 @@
   },
   {
     "displayName": "waving",
-    "langName": "โบกมือ (ทักทาย/ลา)",
+    "langName": "โบกมือ",
     "object": "ท่าทาง",
     "attribute": "สัญญาณมือ",
     "preview": "https://img.aishort.top/imgprompt/20260211180434501.webp"
   },
   {
     "displayName": "pointing_at_viewer",
-    "langName": "ชี้ไปที่คนที่กำลังมองรูปภาพ",
+    "langName": "ชี้นิ้วมาที่ผู้ชม",
     "object": "ท่าทาง",
     "attribute": "สัญญาณมือ",
     "preview": "https://img.aishort.top/imgprompt/20260211180447245.webp"
@@ -10249,7 +10249,7 @@
   },
   {
     "displayName": "reaching",
-    "langName": "(ตั้งใจ) ติดต่อ",
+    "langName": "เอื้อมมือ",
     "object": "ท่าทาง",
     "attribute": "สัญญาณมือ",
     "preview": "https://img.aishort.top/imgprompt/20260211180655272.webp"
@@ -10312,7 +10312,7 @@
   },
   {
     "displayName": "paw_pose",
-    "langName": "ท่าทางแมวกวัก (โดยงอข้อมือลงด้านล่าง)",
+    "langName": "ท่าแมวกวัก",
     "object": "ท่าทาง",
     "attribute": "สัญญาณมือ",
     "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
@@ -10347,7 +10347,7 @@
   },
   {
     "displayName": "fingersmile",
-    "langName": "ทำหน้ายิ้มด้วยนิ้วของคุณ",
+    "langName": "ใช้นิ้วดันมุมปากยิ้ม",
     "object": "ท่าทาง",
     "attribute": "สัญญาณมือ",
     "preview": "https://img.aishort.top/imgprompt/20260211180951696.webp"
@@ -10634,7 +10634,7 @@
   },
   {
     "displayName": "holding_eyewear",
-    "langName": "ถือแว่นตา ถอดแว่นตา",
+    "langName": "จับแว่น / ถอดแว่น",
     "object": "ท่าทาง",
     "attribute": "ถือวัตถุ",
     "preview": "https://img.aishort.top/imgprompt/20260211181827087.webp"
@@ -10956,21 +10956,21 @@
   },
   {
     "displayName": "hands_on_another's",
-    "langName": "วางมือทั้งสองข้างบนใบหน้าของใครบางคน",
+    "langName": "สองมือประคองหน้าผู้อื่น",
     "object": "ท่าทาง",
     "attribute": "การกอดและจับ",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
-    "langName": "วางมือทั้งสองข้างบนแก้มของอีกฝ่าย",
+    "langName": "สองมือแนบแก้มผู้อื่น",
     "object": "ท่าทาง",
     "attribute": "การกอดและจับ",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
-    "langName": "วางมือทั้งสองข้างบนไหล่ของใครบางคน",
+    "langName": "วางสองมือบนไหล่ผู้อื่น",
     "object": "ท่าทาง",
     "attribute": "การกอดและจับ",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
@@ -11068,7 +11068,7 @@
   },
   {
     "displayName": "grabbing_from_behind",
-    "langName": "การจับหน้าอกจากด้านหลัง",
+    "langName": "จับหน้าอกตัวละครจากด้านหลัง",
     "object": "ท่าทาง",
     "attribute": "การกอดและจับ",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
@@ -11110,14 +11110,14 @@
   },
   {
     "displayName": "hands_on_headwear",
-    "langName": "ทั้งสองมือสัมผัสเครื่องประดับบนศีรษะ",
+    "langName": "จับเครื่องประดับศีรษะ",
     "object": "ท่าทาง",
     "attribute": "การกอดและจับ",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
-    "langName": "ทั้งสองมือวางอยู่บนด้ามมีด",
+    "langName": "สองมือกุมด้ามดาบ",
     "object": "ท่าทาง",
     "attribute": "การกอดและจับ",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
@@ -11131,7 +11131,7 @@
   },
   {
     "displayName": "neckwear_grab",
-    "langName": "จับเสื้อผ้าบริเวณคอ",
+    "langName": "กระชากคอเสื้อ",
     "object": "ท่าทาง",
     "attribute": "การกอดและจับ",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
@@ -11173,7 +11173,7 @@
   },
   {
     "displayName": "hand_in_another's_hair",
-    "langName": "วางมือของคุณบนผมของคนอื่น",
+    "langName": "ลูบผมผู้อื่น",
     "object": "ท่าทาง",
     "attribute": "การกอดและจับ",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
@@ -11208,35 +11208,35 @@
   },
   {
     "displayName": "hand_on_another's_chest",
-    "langName": "วางมือของคุณบนหน้าอกของอีกฝ่าย",
+    "langName": "วางมือบนหน้าอกผู้อื่น",
     "object": "ท่าทาง",
     "attribute": "การกอดและจับ",
     "preview": "https://img.aishort.top/imgprompt/20260211183718013.webp"
   },
   {
     "displayName": "hand_on_another's_chin",
-    "langName": "ประคองคางของอีกฝ่ายด้วยมือของตนเอง",
+    "langName": "เชยคางผู้อื่น",
     "object": "ท่าทาง",
     "attribute": "การกอดและจับ",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
   },
   {
     "displayName": "hand_on_another's_head",
-    "langName": "วางมือของคุณบนศีรษะของผู้อื่น",
+    "langName": "ลูบหัวผู้อื่น",
     "object": "ท่าทาง",
     "attribute": "การกอดและจับ",
     "preview": "https://img.aishort.top/imgprompt/20260211183743006.webp"
   },
   {
     "displayName": "hand_on_another's_shoulder",
-    "langName": "วางมือของคุณบนไหล่ของอีกฝ่าย",
+    "langName": "แตะไหล่ผู้อื่น",
     "object": "ท่าทาง",
     "attribute": "การกอดและจับ",
     "preview": "https://img.aishort.top/imgprompt/20260211183755722.webp"
   },
   {
     "displayName": "hand_on_another's_stomach",
-    "langName": "วางมือของคุณบนท้องของคนอื่น",
+    "langName": "วางมือบนท้องผู้อื่น",
     "object": "ท่าทาง",
     "attribute": "การกอดและจับ",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
@@ -11264,7 +11264,7 @@
   },
   {
     "displayName": "hand_on_hilt",
-    "langName": "มือวางอยู่บนด้ามมีด",
+    "langName": "จับด้ามดาบ",
     "object": "ท่าทาง",
     "attribute": "การกอดและจับ",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
@@ -11404,14 +11404,14 @@
   },
   {
     "displayName": "standing_split",
-    "langName": "ยืนแยกขา ยืนเตะสูง",
+    "langName": "ฉีกขาในท่ายืน",
     "object": "ท่าทาง",
     "attribute": "การเคลื่อนไหวของขา",
     "preview": "https://img.aishort.top/imgprompt/20260211184306372.webp"
   },
   {
     "displayName": "curtsy",
-    "langName": "การคุกเข่าคำนับ (การคำนับแบบสาวใช้)",
+    "langName": "ถอนสายบัว",
     "object": "ท่าทาง",
     "attribute": "การเคลื่อนไหวของขา",
     "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
@@ -11502,7 +11502,7 @@
   },
   {
     "displayName": "folded",
-    "langName": "การยกขาขึ้นเพื่อเปิดเผยอวัยวะเพศ",
+    "langName": "ท่านั่งกอดเข่า",
     "object": "ท่าทาง",
     "attribute": "การเคลื่อนไหวของขา",
     "preview": "https://img.aishort.top/imgprompt/20260211184601937.webp"
@@ -11544,7 +11544,7 @@
   },
   {
     "displayName": "k/da_(league_of_legends)",
-    "langName": "KDA (ลีกออฟเลเจนด์)",
+    "langName": "วง K/DA (League of Legends)",
     "object": "ท่าทาง",
     "attribute": "การเคลื่อนไหวของขา",
     "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
@@ -11705,14 +11705,14 @@
   },
   {
     "displayName": "tail_between_legs",
-    "langName": "หางซุกอยู่ระหว่างขา",
+    "langName": "หางจุกตูด",
     "object": "ท่าทาง",
     "attribute": "การเคลื่อนไหวของขา",
     "preview": "https://img.aishort.top/imgprompt/20260225100419147.webp"
   },
   {
     "displayName": "covering",
-    "langName": "การกระทำของการปกปิด",
+    "langName": "ท่าทางเอามือปิดบัง",
     "object": "ท่าทาง",
     "attribute": "การสัมผัสร่างกาย",
     "preview": "https://img.aishort.top/imgprompt/20260211185216454.webp"
@@ -11922,14 +11922,14 @@
   },
   {
     "displayName": "spitting",
-    "langName": "การกระทำของการขับของเหลวออกจากปาก",
+    "langName": "ถ่มของเหลว / บ้วนน้ำ",
     "object": "ท่าทาง",
     "attribute": "ปฏิกิริยาของร่างกาย",
     "preview": "https://img.aishort.top/imgprompt/20260211185836921.webp"
   },
   {
     "displayName": "spilling",
-    "langName": "การเทของเหลวจากภาชนะ",
+    "langName": "ทำน้ำหก / เทของเหลว",
     "object": "ท่าทาง",
     "attribute": "ปฏิกิริยาของร่างกาย",
     "preview": "https://img.aishort.top/imgprompt/20260211185849710.webp"
@@ -12006,7 +12006,7 @@
   },
   {
     "displayName": "dropping",
-    "langName": "(อุบัติเหตุ) ตก",
+    "langName": "ทำของตก / หล่น",
     "object": "ท่าทาง",
     "attribute": "ปฏิกิริยาของร่างกาย",
     "preview": "https://img.aishort.top/imgprompt/20260211190102259.webp"
@@ -12055,7 +12055,7 @@
   },
   {
     "displayName": "lifted_by_another",
-    "langName": "ถูกอีกฝ่ายหนึ่งยกเสื้อผ้าขึ้น",
+    "langName": "ถูกผู้อื่นเปิดเสื้อผ้า",
     "object": "ท่าทาง",
     "attribute": "ปฏิกิริยาของร่างกาย",
     "preview": "https://img.aishort.top/imgprompt/20260211190232075.webp"
@@ -12111,7 +12111,7 @@
   },
   {
     "displayName": "drying",
-    "langName": "เช็ดตัวให้แห้ง (หลังอาบน้ำ)",
+    "langName": "เช็ดตัวให้แห้ง",
     "object": "ท่าทาง",
     "attribute": "ชีวิตประจำวัน",
     "preview": "https://img.aishort.top/imgprompt/20260211190415978.webp"
@@ -12132,7 +12132,7 @@
   },
   {
     "displayName": "sweeping",
-    "langName": "ทำความสะอาด | จัดเก็บ (งานบ้าน)",
+    "langName": "กวาดพื้น",
     "object": "ท่าทาง",
     "attribute": "ชีวิตประจำวัน",
     "preview": "https://img.aishort.top/imgprompt/20260211190452774.webp"
@@ -12258,7 +12258,7 @@
   },
   {
     "displayName": "sleeping_upright",
-    "langName": "(ไม่ได้นอนราบ) หลับ | นอนหลับในท่านั่ง",
+    "langName": "นอนสัปหงก",
     "object": "ท่าทาง",
     "attribute": "ชีวิตประจำวัน",
     "preview": "https://img.aishort.top/imgprompt/20260211190844518.webp"
@@ -12412,14 +12412,14 @@
   },
   {
     "displayName": "shared_food",
-    "langName": "การแบ่งปันอาหาร | การส่งอาหารทางปาก",
+    "langName": "ป้อนอาหารกัน",
     "object": "ท่าทาง",
     "attribute": "ปฏิสัมพันธ์ทางอารมณ์",
     "preview": "https://img.aishort.top/imgprompt/20260211191325544.webp"
   },
   {
     "displayName": "shared_bathing",
-    "langName": "การอาบน้ำด้วยกัน | การอาบน้ำของคู่รัก",
+    "langName": "อาบน้ำด้วยกัน",
     "object": "ท่าทาง",
     "attribute": "ปฏิสัมพันธ์ทางอารมณ์",
     "preview": "https://img.aishort.top/imgprompt/20260211191338217.webp"
@@ -12461,14 +12461,14 @@
   },
   {
     "displayName": "asymmetrical_docking",
-    "langName": "การสัมผัสหน้าอกต่อหน้าอก",
+    "langName": "หน้าอกสัมผัสชนกัน",
     "object": "ท่าทาง",
     "attribute": "ปฏิสัมพันธ์ทางอารมณ์",
     "preview": "https://img.aishort.top/imgprompt/20260211191454771.webp"
   },
   {
     "displayName": "special_feeling_(meme)",
-    "langName": "ภาพเปรียบเทียบของคู่รักที่หลบอยู่ใต้ร่มในหิมะ",
+    "langName": "มีมบรรยากาศพิเศษใต้ร่มหิมะ",
     "object": "ท่าทาง",
     "attribute": "ปฏิสัมพันธ์ทางอารมณ์",
     "preview": "https://img.aishort.top/imgprompt/20260211191507001.webp"
@@ -12608,7 +12608,7 @@
   },
   {
     "displayName": "wrestling",
-    "langName": "มวยปล้ำ (กีฬา)",
+    "langName": "มวยปล้ำ",
     "object": "ท่าทาง",
     "attribute": "การออกกำลังกาย",
     "preview": "https://img.aishort.top/imgprompt/20260211191925002.webp"
@@ -12818,7 +12818,7 @@
   },
   {
     "displayName": "skirt_flip",
-    "langName": "การถูกยกกระโปรงขึ้น (รวมถึงสถานการณ์ที่ไม่คาดคิด)",
+    "langName": "เปิดกระโปรง",
     "object": "ท่าทาง",
     "attribute": "จัดเสื้อผ้า",
     "preview": "https://img.aishort.top/imgprompt/20260317125226840.webp"
@@ -12895,7 +12895,7 @@
   },
   {
     "displayName": "tying",
-    "langName": "ผูกปม (การกระทำ)",
+    "langName": "ผูกปม / ผูกเชือก",
     "object": "ท่าทาง",
     "attribute": "จัดเสื้อผ้า",
     "preview": "https://img.aishort.top/imgprompt/20260211192806302.webp"
@@ -12930,7 +12930,7 @@
   },
   {
     "displayName": "pulled_by_another",
-    "langName": "ถูกดึงโดยบุคคลอื่น (หรือมีเสื้อผ้าถูกดึง)",
+    "langName": "ถูกดึงตัวโดยผู้อื่น",
     "object": "ท่าทาง",
     "attribute": "จัดเสื้อผ้า",
     "preview": "https://img.aishort.top/imgprompt/20260317125423077.webp"
@@ -12993,7 +12993,7 @@
   },
   {
     "displayName": "holding_bow_(weapon)",
-    "langName": "ถือคันธนู (อาวุธ)",
+    "langName": "ถือคันธนู",
     "object": "ท่าทาง",
     "attribute": "อาวุธและอุปกรณ์",
     "preview": "https://img.aishort.top/imgprompt/20260211193102894.webp"
@@ -13084,7 +13084,7 @@
   },
   {
     "displayName": "Kabedon",
-    "langName": "ผนังกระแทก",
+    "langName": "คาเบะด้ง",
     "object": "ท่าทาง",
     "attribute": "ท่าทางพิเศษ",
     "preview": "https://img.aishort.top/imgprompt/20260211193512046.webp"
@@ -13412,7 +13412,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211194606041.webp"
   },
   {
-    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset)),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
+    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset))),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
     "langName": "กฎหมายยามพลบค่ำ",
     "object": "ท่าทาง",
     "attribute": "เวทมนตร์",
@@ -13525,7 +13525,7 @@
   },
   {
     "displayName": "((full body)),(helpless),tear,crying,(((((falling from the sky))))),((Weathering With You)),((falling)),((face towards the sky)),(hair flows upwards),((disheveled hair)),(1 girl),floating,beautiful detailed sky",
-    "langName": "วิธีหยด",
+    "langName": "มุมมองดิ่งพสุธา (Weathering With You)",
     "object": "ท่าทาง",
     "attribute": "เวทมนตร์",
     "preview": "https://img.aishort.top/imgprompt/20260211194938656.webp"
@@ -13727,7 +13727,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195607630.webp"
   },
   {
-    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood))),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
+    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood)),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
     "langName": "พระราชบัญญัติการปฏิรูปเลือด",
     "object": "ท่าทาง",
     "attribute": "เวทมนตร์",
@@ -14002,7 +14002,7 @@
   },
   {
     "displayName": "disgust",
-    "langName": "ความรังเกียจ (พร้อมสายตาที่เหมือนมองขยะ)",
+    "langName": "สายตารังเกียจ / ดูถูก",
     "object": "การแสดงอารมณ์",
     "attribute": "เหยียดหยาม",
     "preview": "https://img.aishort.top/imgprompt/20260317071358725.webp"
@@ -14023,7 +14023,7 @@
   },
   {
     "displayName": "shaded_face",
-    "langName": "เงาที่ทอดผ่านใบหน้า ประกอบกับความดูถูกเหยียดหยาม",
+    "langName": "ใบหน้ามีเงาดำพาดผ่าน",
     "object": "การแสดงอารมณ์",
     "attribute": "เหยียดหยาม",
     "preview": "https://img.aishort.top/imgprompt/20260212085009132.webp"
@@ -14044,7 +14044,7 @@
   },
   {
     "displayName": "wince",
-    "langName": "ขมวดคิ้วและขมวดคิ้ว (ก่อนมีเพศสัมพันธ์)",
+    "langName": "ทำหน้าเบ้เจ็บปวด",
     "object": "การแสดงอารมณ์",
     "attribute": "เหยียดหยาม",
     "preview": "https://img.aishort.top/imgprompt/20260212085045682.webp"
@@ -14079,7 +14079,7 @@
   },
   {
     "displayName": "serious",
-    "langName": "จริงจัง (ค่อนข้างเหมือนโกรธ)",
+    "langName": "เคร่งขรึม",
     "object": "การแสดงอารมณ์",
     "attribute": "โกรธ",
     "preview": "https://img.aishort.top/imgprompt/20260212085145957.webp"
@@ -14163,7 +14163,7 @@
   },
   {
     "displayName": "embarrass",
-    "langName": "ขี้อาย (อาย)",
+    "langName": "เขินอาย",
     "object": "การแสดงอารมณ์",
     "attribute": "การแสดงออกอื่นๆ",
     "preview": "https://img.aishort.top/imgprompt/20260212085408608.webp"
@@ -14380,7 +14380,7 @@
   },
   {
     "displayName": "torogao",
-    "langName": "แววตาเลื่อนลอย (Torogao)",
+    "langName": "ใบหน้าเคลิบเคลิ้ม",
     "object": "การแสดงอารมณ์",
     "attribute": "การแสดงออกอื่นๆ",
     "preview": "https://img.aishort.top/imgprompt/20260228103646110.webp"
@@ -14702,7 +14702,7 @@
   },
   {
     "displayName": "hanten_clothes",
-    "langName": "โอบิ แซช (สไตล์ญี่ปุ่น)",
+    "langName": "ฮันเต็น",
     "object": "เครื่องแต่งกาย",
     "attribute": "สไตล์เสื้อผ้า",
     "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
@@ -14716,7 +14716,7 @@
   },
   {
     "displayName": "furisode",
-    "langName": "กิโมโนแขนยาว (ส่วนหนึ่งของกิโมโน)",
+    "langName": "ฟุริโซเดะ",
     "object": "เครื่องแต่งกาย",
     "attribute": "สไตล์เสื้อผ้า",
     "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
@@ -14744,14 +14744,14 @@
   },
   {
     "displayName": "uchikake",
-    "langName": "ชิโรอิ มุโกะ (ชุดแต่งงานญี่ปุ่น)",
+    "langName": "อุจิคาเคะ / ชิโรมุคุ",
     "object": "เครื่องแต่งกาย",
     "attribute": "สไตล์เสื้อผ้า",
     "preview": "https://img.aishort.top/imgprompt/20260212110020279.webp"
   },
   {
     "displayName": "obi",
-    "langName": "ผ้าคาดเอวโอบิ",
+    "langName": "โอบิ",
     "object": "เครื่องแต่งกาย",
     "attribute": "สไตล์เสื้อผ้า",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -14800,7 +14800,7 @@
   },
   {
     "displayName": "Ao_Dai",
-    "langName": "ชุดประจำชาติเวียดนาม (เสื้ออาวเตียง)",
+    "langName": "อ่าวหญ่าย (Ao Dai)",
     "object": "เครื่องแต่งกาย",
     "attribute": "สไตล์เสื้อผ้า",
     "preview": "https://img.aishort.top/imgprompt/20260212112032273.webp"
@@ -14947,14 +14947,14 @@
   },
   {
     "displayName": "alternate_costume",
-    "langName": "ชุดทางเลือกที่แตกต่างจากการออกแบบดั้งเดิมของตัวละคร",
+    "langName": "ชุดทางเลือก",
     "object": "เครื่องแต่งกาย",
     "attribute": "สไตล์เสื้อผ้า",
     "preview": "https://img.aishort.top/imgprompt/20260212120626953.webp"
   },
   {
     "displayName": "costume_switch",
-    "langName": "การชำแหละเนื้อสัตว์",
+    "langName": "สลับชุดคอสตูม",
     "object": "เครื่องแต่งกาย",
     "attribute": "สไตล์เสื้อผ้า",
     "preview": "https://img.aishort.top/imgprompt/20260212120842799.webp"
@@ -15164,7 +15164,7 @@
   },
   {
     "displayName": "evening_gown",
-    "langName": "ชุดราตรี (ชุดผู้หญิงที่ยาวถึงข้อเท้า)",
+    "langName": "ชุดราตรียาว",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดสุภาพ",
     "preview": "https://img.aishort.top/imgprompt/20260212125805414.webp"
@@ -15206,7 +15206,7 @@
   },
   {
     "displayName": "serafuku",
-    "langName": "เครื่องแบบนักเรียน (เครื่องแบบโรงเรียน)",
+    "langName": "ชุดกะลาสี",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดสุภาพ",
     "preview": "https://img.aishort.top/imgprompt/20260212130530516.webp"
@@ -15542,7 +15542,7 @@
   },
   {
     "displayName": "school_swimsuit",
-    "langName": "ชุดว่ายน้ำสำหรับนักเรียน (เซย์คุสุ)",
+    "langName": "ชุดว่ายน้ำโรงเรียน",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดว่ายน้ำ",
     "preview": "https://img.aishort.top/imgprompt/20260225102036109.webp"
@@ -15605,7 +15605,7 @@
   },
   {
     "displayName": "swimsuit_of_perpetual_summer",
-    "langName": "ชุดว่ายน้ำของซัมเมอร์ (FGO น้องสาวจูเนียร์หลิงอี้)",
+    "langName": "ชุดว่ายน้ำฤดูร้อนนิรันดร์ (FGO)",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดว่ายน้ำ",
     "preview": "https://img.aishort.top/imgprompt/20260317071630637.webp"
@@ -15878,14 +15878,14 @@
   },
   {
     "displayName": "swimsuit_aside",
-    "langName": "ดึงเป้าชุดว่ายน้ำไปด้านหนึ่ง",
+    "langName": "ดึงขอบชุดว่ายน้ำไปด้านข้าง",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดว่ายน้ำ",
     "preview": "https://img.aishort.top/imgprompt/20260212152012611.webp"
   },
   {
     "displayName": "swimsuit_under_clothes",
-    "langName": "ชุดว่ายน้ำที่สวมใส่ไว้ใต้เสื้อผ้า",
+    "langName": "ใส่ชุดว่ายน้ำไว้ใต้เสื้อผ้า",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดว่ายน้ำ",
     "preview": "https://img.aishort.top/imgprompt/20260317072817093.webp"
@@ -15976,7 +15976,7 @@
   },
   {
     "displayName": "bc_freedom_military_uniform",
-    "langName": "BC Free Academy ชุดนักเรียน",
+    "langName": "ชุดนักเรียนบีซีฟรีดอม",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260212153126044.webp"
@@ -15990,7 +15990,7 @@
   },
   {
     "displayName": "chi-hatan_military_uniform",
-    "langName": "เครื่องแบบโรงเรียนชิปโป ดาน",
+    "langName": "เครื่องแบบทหารสถาบันจิฮะตัน",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260212153151798.webp"
@@ -16025,21 +16025,21 @@
   },
   {
     "displayName": "hikarizaka_private_high_school_uniform",
-    "langName": "เครื่องแบบนักเรียนโรงเรียนมัธยมปลายฮิคาริซากะ (เอกชน)",
+    "langName": "เครื่องแบบโรงเรียนมัธยมปลายเอกชนฮิคาริซากะ",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260212153257185.webp"
   },
   {
     "displayName": "homurahara_academy_uniform",
-    "langName": "เครื่องแบบนักเรียนโรงเรียนสึอิกุน เก็น กาคุเอน",
+    "langName": "เครื่องแบบสถาบันโฮมุระฮาระ",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260212153310241.webp"
   },
   {
     "displayName": "kamiyama_high_school_uniform",
-    "langName": "เครื่องแบบนักเรียนโรงเรียนมัธยมปลายภูเขาศักดิ์สิทธิ์",
+    "langName": "เครื่องแบบโรงเรียนมัธยมปลายคามิยามะ",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260212153323486.webp"
@@ -16088,21 +16088,21 @@
   },
   {
     "displayName": "nami_junior_high_school_uniform",
-    "langName": "เครื่องแบบนักเรียนโรงเรียนมัธยมโบลู",
+    "langName": "เครื่องแบบโรงเรียนมัธยมต้นนามิ",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260212153455870.webp"
   },
   {
     "displayName": "nanairogaoka_middle_school_uniform",
-    "langName": "เครื่องแบบนักเรียนโรงเรียนมัธยมเซเว่น คัลเลอร์ส ฮิลล์",
+    "langName": "เครื่องแบบโรงเรียนมัธยมต้นนานาอิโระงาโอกะ",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260212153509132.webp"
   },
   {
     "displayName": "nanamori_school_uniform",
-    "langName": "เครื่องแบบนักเรียนโรงเรียนมัธยมต้นนานะโมริ",
+    "langName": "เครื่องแบบโรงเรียนมัธยมต้นนานาโมริ",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260212153725574.webp"
@@ -16172,14 +16172,14 @@
   },
   {
     "displayName": "rabbit_house_uniform",
-    "langName": "ชุดเครื่องแบบบ้าน Dot Rabbit",
+    "langName": "เครื่องแบบคาเฟ่แรบบิทเฮาส์",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260213055157775.webp"
   },
   {
     "displayName": "raimon_soccer_uniform",
-    "langName": "ชุดทีมฟุตบอล Thunder Gate",
+    "langName": "ชุดทีมฟุตบอลไรมง",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260213055210653.webp"
@@ -16193,7 +16193,7 @@
   },
   {
     "displayName": "sakugawa_school_uniform",
-    "langName": "เครื่องแบบนักเรียนโรงเรียนมัธยมกาชวง",
+    "langName": "เครื่องแบบโรงเรียนมัธยมต้นซาคุคาวะ",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260213055439290.webp"
@@ -16242,7 +16242,7 @@
   },
   {
     "displayName": "shuujin_academy_uniform",
-    "langName": "อวดชุดนักเรียน",
+    "langName": "เครื่องแบบโรงเรียนมัธยมปลายชูจิน",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260213060421601.webp"
@@ -16263,28 +16263,28 @@
   },
   {
     "displayName": "starlight_academy_uniform",
-    "langName": "เครื่องแบบสถาบันดาราศาสตร์สตาร์ออปติกส์",
+    "langName": "เครื่องแบบสถาบันสตาร์ไลท์",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260213060500805.webp"
   },
   {
     "displayName": "tokisadame_school_uniform",
-    "langName": "โรงเรียนมหาวิทยาลัยชีดิง ชุดนักเรียน",
+    "langName": "เครื่องแบบโรงเรียนมัธยมปลายโทคิซาดาเมะ",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260213060513970.webp"
   },
   {
     "displayName": "tokiwadai_school_uniform",
-    "langName": "เครื่องแบบนักเรียนโรงเรียนมัธยมต้นโทคิวะได",
+    "langName": "เครื่องแบบโรงเรียนมัธยมต้นโทคิวะได",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260213060526744.webp"
   },
   {
     "displayName": "tomoeda_elementary_school_uniform",
-    "langName": "เครื่องแบบนักเรียนโรงเรียนประถมโทโมเอะ",
+    "langName": "เครื่องแบบโรงเรียนประถมโทโมเอดะ",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260213060539748.webp"
@@ -16298,14 +16298,14 @@
   },
   {
     "displayName": "u.a._school_uniform",
-    "langName": "เครื่องแบบนักเรียนโรงเรียนมัธยมอุเอะอา",
+    "langName": "เครื่องแบบโรงเรียนมัธยมปลายยูเอ",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260213060607357.webp"
   },
   {
     "displayName": "uranohoshi_school_uniform",
-    "langName": "โรงเรียนหญิงล้วนพุซิกซิง ชุดนักเรียน",
+    "langName": "เครื่องแบบสถาบันสตรีอุราโนะโฮชิ",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดนักเรียน",
     "preview": "https://img.aishort.top/imgprompt/20260213060620807.webp"
@@ -16424,7 +16424,7 @@
   },
   {
     "displayName": "short sleeve T-shirts",
-    "langName": "เสื้อยืดแขนสั้น (เสื้อแขนกุด)",
+    "langName": "เสื้อยืดแขนสั้น",
     "object": "เครื่องแต่งกาย",
     "attribute": "เสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213063027450.webp"
@@ -16466,7 +16466,7 @@
   },
   {
     "displayName": "tank_top",
-    "langName": "เสื้อกั๊ก (สำหรับใส่ในบ้าน)",
+    "langName": "เสื้อกล้าม",
     "object": "เครื่องแต่งกาย",
     "attribute": "เสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213064156253.webp"
@@ -16494,7 +16494,7 @@
   },
   {
     "displayName": "vest",
-    "langName": "เสื้อกั๊ก (ทางการ)",
+    "langName": "เสื้อกั๊กสูท",
     "object": "เครื่องแต่งกาย",
     "attribute": "เสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213064408586.webp"
@@ -16508,7 +16508,7 @@
   },
   {
     "displayName": "waistcoat",
-    "langName": "เสื้อกั๊ก (ทางการ)",
+    "langName": "เสื้อเวสต์โค้ต",
     "object": "เครื่องแต่งกาย",
     "attribute": "เสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213064435011.webp"
@@ -16599,7 +16599,7 @@
   },
   {
     "displayName": "kappougi",
-    "langName": "ผ้ากันเปื้อน (สวมใส่ขณะทำอาหาร)",
+    "langName": "คัปโปหงิ (ผ้ากันเปื้อนญี่ปุ่น)",
     "object": "เครื่องแต่งกาย",
     "attribute": "เสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
@@ -16662,7 +16662,7 @@
   },
   {
     "displayName": "tied_shirt",
-    "langName": "เสื้อเชิ้ตผูกหน้า (ผูกชายเสื้อและขอบล่างเข้าด้วยกัน)",
+    "langName": "เสื้อผูกเอว",
     "object": "เครื่องแต่งกาย",
     "attribute": "เสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213070412064.webp"
@@ -16746,7 +16746,7 @@
   },
   {
     "displayName": "button_gap",
-    "langName": "ช่องว่างระหว่างปุ่ม (ไม่ได้ปลดออก)",
+    "langName": "รอยแยกกระดุมปริ",
     "object": "เครื่องแต่งกาย",
     "attribute": "เสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213071455826.webp"
@@ -16879,21 +16879,21 @@
   },
   {
     "displayName": "strap_slip",
-    "langName": "สายสะพายไหล่เลื่อน (ทำให้เปิดเผย)",
+    "langName": "สายเดี่ยวหลุดไหล่",
     "object": "เครื่องแต่งกาย",
     "attribute": "เสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260228101844680.webp"
   },
   {
     "displayName": "wedgie",
-    "langName": "ฝังอยู่ (เกิดจากชุดชั้นใน)",
+    "langName": "กางเกงเข้าวิน",
     "object": "เครื่องแต่งกาย",
     "attribute": "เสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260225103744943.webp"
   },
   {
     "displayName": "wardrobe_malfunction",
-    "langName": "เสื้อผ้าได้รับความเสียหาย (เช่น ฉีกขาด)",
+    "langName": "อุบัติเหตุเสื้อผ้าหลุด",
     "object": "เครื่องแต่งกาย",
     "attribute": "เสื้อ",
     "preview": "https://img.aishort.top/imgprompt/20260213075235531.webp"
@@ -17054,7 +17054,7 @@
   },
   {
     "displayName": "jacket_partially_removed",
-    "langName": "เสื้อแจ็คเก็ตถูกถอดออกบางส่วนแล้ว",
+    "langName": "เสื้อแจ็คเก็ตถอดครึ่งตัว",
     "object": "เครื่องแต่งกาย",
     "attribute": "เสื้อคลุม",
     "preview": "https://img.aishort.top/imgprompt/20260213081023629.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "เสื้อคาร์ดิแกน (จับคู่กับกางเกงขาบาน)",
+    "langName": "เสื้อแจ็คเก็ตเปิดอก",
     "object": "เครื่องแต่งกาย",
     "attribute": "เสื้อคลุม",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -18048,7 +18048,7 @@
   },
   {
     "displayName": "corset",
-    "langName": "คอร์เซ็ต (เสื้อกั๊ก)",
+    "langName": "คอร์เซ็ท",
     "object": "เครื่องแต่งกาย",
     "attribute": "เอว",
     "preview": "https://img.aishort.top/imgprompt/20260225104053785.webp"
@@ -18097,7 +18097,7 @@
   },
   {
     "displayName": "kusazuri",
-    "langName": "แผ่นท้อง | คุสุริ-กามิ (เกราะส่วนล่างของร่างกายแบบญี่ปุ่น)",
+    "langName": "คุซะสุริ (เกราะกระโปรง)",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดเกราะ",
     "preview": "https://img.aishort.top/imgprompt/20260213115508736.webp"
@@ -18118,7 +18118,7 @@
   },
   {
     "displayName": "kabuto",
-    "langName": "หมวกนิรภัย (สไตล์ญี่ปุ่น)",
+    "langName": "คาบูโตะ (หมวกเกราะ)",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดเกราะ",
     "preview": "https://img.aishort.top/imgprompt/20260213115548290.webp"
@@ -18132,7 +18132,7 @@
   },
   {
     "displayName": "shoulder_armor",
-    "langName": "สะบัก",
+    "langName": "เกราะไหล่",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดเกราะ",
     "preview": "https://img.aishort.top/imgprompt/20260213115612426.webp"
@@ -18153,14 +18153,14 @@
   },
   {
     "displayName": "faulds",
-    "langName": "เปลือกหอยท้อง",
+    "langName": "เกราะเอว",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดเกราะ",
     "preview": "https://img.aishort.top/imgprompt/20260213115855297.webp"
   },
   {
     "displayName": "greaves",
-    "langName": "กระดูกหน้าแข้ง",
+    "langName": "เกราะแข้ง",
     "object": "เครื่องแต่งกาย",
     "attribute": "ชุดเกราะ",
     "preview": "https://img.aishort.top/imgprompt/20260213115908428.webp"
@@ -18237,7 +18237,7 @@
   },
   {
     "displayName": "sundress",
-    "langName": "ชุดเดรสเกาะอก (ชุดเดรสไม่มีแขนสำหรับอากาศร้อน)",
+    "langName": "ชุดเดรสรับหน้าร้อน",
     "object": "เครื่องแต่งกาย",
     "attribute": "กระโปรง",
     "preview": "https://img.aishort.top/imgprompt/20260213121003959.webp"
@@ -18342,7 +18342,7 @@
   },
   {
     "displayName": "impossible_dress",
-    "langName": "เสื้อผ้าที่รัดแน่นเกินไป",
+    "langName": "ชุดเดรสรัดรูปแนบเนื้อขั้นสุด",
     "object": "เครื่องแต่งกาย",
     "attribute": "กระโปรง",
     "preview": "https://img.aishort.top/imgprompt/20260213122932976.webp"
@@ -18454,14 +18454,14 @@
   },
   {
     "displayName": "ballgown",
-    "langName": "ชุดกระโปรงยาวเต็มตัว (ชุดราตรี)",
+    "langName": "ชุดราตรีบอลกาวน์",
     "object": "เครื่องแต่งกาย",
     "attribute": "กระโปรง",
     "preview": "https://img.aishort.top/imgprompt/20260213123502356.webp"
   },
   {
     "displayName": "pettiskirt",
-    "langName": "กระโปรงฟู (สำหรับเด็ก)",
+    "langName": "กระโปรงฟูฟ่อง",
     "object": "เครื่องแต่งกาย",
     "attribute": "กระโปรง",
     "preview": "https://img.aishort.top/imgprompt/20260213123515479.webp"
@@ -18811,14 +18811,14 @@
   },
   {
     "displayName": "dolphin_shorts",
-    "langName": "กางเกงขาสั้นโลมา (กางเกงจริงใจ)",
+    "langName": "กางเกงดอลฟิน (ขาสั้นขอบโค้ง)",
     "object": "เครื่องแต่งกาย",
     "attribute": "กางเกง",
     "preview": "https://img.aishort.top/imgprompt/20260213134352207.webp"
   },
   {
     "displayName": "dolfin_shorts",
-    "langName": "กางเกงขาสั้นโลมา (กางเกงจริงใจ)",
+    "langName": "กางเกงดอลฟิน (ขาสั้นขอบโค้ง)",
     "object": "เครื่องแต่งกาย",
     "attribute": "กางเกง",
     "preview": "https://img.aishort.top/imgprompt/20260213134404755.webp"
@@ -18832,7 +18832,7 @@
   },
   {
     "displayName": "crotchless_pants",
-    "langName": "กางเกงในแบบไม่มีเป้า (รัดรูป)",
+    "langName": "กางเกงเปิดเป้า",
     "object": "เครื่องแต่งกาย",
     "attribute": "กางเกง",
     "preview": "https://img.aishort.top/imgprompt/20260213134430564.webp"
@@ -18937,14 +18937,14 @@
   },
   {
     "displayName": "chaps",
-    "langName": "บรีชเชส (กว้างที่ด้านบน แคบที่ด้านล่าง)",
+    "langName": "กางเกงหนังสวมทับแบบคาวบอย",
     "object": "เครื่องแต่งกาย",
     "attribute": "กางเกง",
     "preview": "https://img.aishort.top/imgprompt/20260213134945047.webp"
   },
   {
     "displayName": "jumpsuit",
-    "langName": "(โดยเฉพาะสำหรับผู้หญิง) จัมป์สูท",
+    "langName": "ชุดจั๊มสูท",
     "object": "เครื่องแต่งกาย",
     "attribute": "กางเกง",
     "preview": "https://img.aishort.top/imgprompt/20260213134957992.webp"
@@ -18979,7 +18979,7 @@
   },
   {
     "displayName": "leotard_aside",
-    "langName": "ดึงเป้าของชุดจั๊มสูทไปด้านหนึ่ง",
+    "langName": "ดึงขอบชุดลีโอตาร์ดไปด้านข้าง",
     "object": "เครื่องแต่งกาย",
     "attribute": "กางเกง",
     "preview": "https://img.aishort.top/imgprompt/20260213135915193.webp"
@@ -19147,14 +19147,14 @@
   },
   {
     "displayName": "legwear",
-    "langName": "ถุงน่อง (หมายถึงถุงน่องหรือถุงน่องแบบยาว)",
+    "langName": "เครื่องแต่งกายส่วนขา",
     "object": "เครื่องแต่งกาย",
     "attribute": "ถุงเท้า",
     "preview": "https://img.aishort.top/imgprompt/20260225104603819.webp"
   },
   {
     "displayName": "thighhighs",
-    "langName": "ถุงน่องยาวเหนือเข่า",
+    "langName": "ถุงเท้ายาวเหนือเข่า",
     "object": "เครื่องแต่งกาย",
     "attribute": "ถุงเท้า",
     "preview": "https://img.aishort.top/imgprompt/20260213142506603.webp"
@@ -19217,7 +19217,7 @@
   },
   {
     "displayName": "pantylines",
-    "langName": "กางเกงรัดรูป (เน้นรูปร่าง)",
+    "langName": "รอยขอบกางเกงในเด่นชัด",
     "object": "เครื่องแต่งกาย",
     "attribute": "ถุงเท้า",
     "preview": "https://img.aishort.top/imgprompt/20260317074408132.webp"
@@ -19357,7 +19357,7 @@
   },
   {
     "displayName": "back-seamed_legwear",
-    "langName": "ถุงเท้าที่มีแถบสีดำอยู่ตรงกลาง",
+    "langName": "ถุงน่องมีเส้นตะเข็บหลัง",
     "object": "เครื่องแต่งกาย",
     "attribute": "ถุงเท้า",
     "preview": "https://img.aishort.top/imgprompt/20260225104949341.webp"
@@ -19413,14 +19413,14 @@
   },
   {
     "displayName": "bobby_socks",
-    "langName": "ถุงเท้าบ็อบบี้ (ถุงเท้าข้อสั้นสีขาว)",
+    "langName": "ถุงเท้าพับขอบสไตล์วินเทจ",
     "object": "เครื่องแต่งกาย",
     "attribute": "ถุงเท้า",
     "preview": "https://img.aishort.top/imgprompt/20260213144125119.webp"
   },
   {
     "displayName": "tabi",
-    "langName": "ถุงเท้าข้อเท้าพื้นหนาแบบญี่ปุ่น (ทาบิ)",
+    "langName": "ทาบิ (ถุงเท้าแยกนิ้วโป้ง)",
     "object": "เครื่องแต่งกาย",
     "attribute": "ถุงเท้า",
     "preview": "https://img.aishort.top/imgprompt/20260213144138485.webp"
@@ -19434,7 +19434,7 @@
   },
   {
     "displayName": "leg_warmers",
-    "langName": "ที่รัดขา | ที่รัดขา",
+    "langName": "ที่รัดขา",
     "object": "เครื่องแต่งกาย",
     "attribute": "ถุงเท้า",
     "preview": "https://img.aishort.top/imgprompt/20260213144203562.webp"
@@ -19518,7 +19518,7 @@
   },
   {
     "displayName": "thigh_holster",
-    "langName": "ด้วยสายรัด ชุดเครื่องมือ หรือซองปืนที่ติดกับขา",
+    "langName": "ซองปืนรัดต้นขา",
     "object": "เครื่องแต่งกาย",
     "attribute": "ถุงเท้า",
     "preview": "https://img.aishort.top/imgprompt/20260213144441392.webp"
@@ -19546,7 +19546,7 @@
   },
   {
     "displayName": "arm_garter",
-    "langName": "เข็มขัดสายคล้อง",
+    "langName": "สายรัดแขนเสื้อ",
     "object": "เครื่องแต่งกาย",
     "attribute": "ถุงเท้า",
     "preview": "https://img.aishort.top/imgprompt/20260213144735280.webp"
@@ -19658,14 +19658,14 @@
   },
   {
     "displayName": "sock_pull",
-    "langName": "ดึงถุงเท้าขึ้น (ถุงเท้าสั้น)",
+    "langName": "ดึงถุงเท้าขึ้น",
     "object": "เครื่องแต่งกาย",
     "attribute": "ถุงเท้า",
     "preview": "https://img.aishort.top/imgprompt/20260213150519193.webp"
   },
   {
     "displayName": "thighhighs_pull",
-    "langName": "ดึงถุงน่องขึ้น",
+    "langName": "ดึงถุงเท้ายาวขึ้น",
     "object": "เครื่องแต่งกาย",
     "attribute": "ถุงเท้า",
     "preview": "https://img.aishort.top/imgprompt/20260225090322289.webp"
@@ -19686,7 +19686,7 @@
   },
   {
     "displayName": "crease",
-    "langName": "จีบ (จีบ)",
+    "langName": "รอยพับกลีบผ้า",
     "object": "เครื่องแต่งกาย",
     "attribute": "การตกแต่ง",
     "preview": "https://img.aishort.top/imgprompt/20260213150609920.webp"
@@ -19755,7 +19755,7 @@
   },
   {
     "displayName": "back_bow",
-    "langName": "(เสื้อผ้า) โป่งที่ผูกไว้ด้านหลัง",
+    "langName": "โบว์ด้านหลัง",
     "object": "เครื่องแต่งกาย",
     "attribute": "การตกแต่ง",
     "preview": "https://img.aishort.top/imgprompt/20260213151221218.webp"
@@ -19769,7 +19769,7 @@
   },
   {
     "displayName": "double_vertical_stripe",
-    "langName": "เสื้อผ้าชิ้นนี้มีแถบคู่ขนานสองแถบ",
+    "langName": "แถบเส้นคู่แนวดิ่ง",
     "object": "เครื่องแต่งกาย",
     "attribute": "การตกแต่ง",
     "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
@@ -19818,14 +19818,14 @@
   },
   {
     "displayName": "single_kneehigh",
-    "langName": "สวมใส่เสื้อผ้าที่ยาวเหนือเข่าเพียงข้างเดียว",
+    "langName": "ถุงเท้ายาวข้างเดียว",
     "object": "เครื่องแต่งกาย",
     "attribute": "การตกแต่ง",
     "preview": "https://img.aishort.top/imgprompt/20260213151419710.webp"
   },
   {
     "displayName": "single_vertical_stripe",
-    "langName": "ลายทางแนวตั้งด้านหนึ่งของเสื้อผ้า",
+    "langName": "แถบเส้นเดี่ยวแนวดิ่ง",
     "object": "เครื่องแต่งกาย",
     "attribute": "การตกแต่ง",
     "preview": "https://img.aishort.top/imgprompt/20260213151432314.webp"
@@ -19839,7 +19839,7 @@
   },
   {
     "displayName": "two-sided_fabric",
-    "langName": "เทคนิคการวาดเสื้อผ้าในสไตล์สองชั้น",
+    "langName": "ผ้าสองหน้าสลับสี",
     "object": "เครื่องแต่งกาย",
     "attribute": "การตกแต่ง",
     "preview": "https://img.aishort.top/imgprompt/20260213151458665.webp"
@@ -19860,21 +19860,21 @@
   },
   {
     "displayName": "fringe_trim",
-    "langName": "ขอบพู่ (ปลายผ้าพันคอ)",
+    "langName": "ชายครุย / พู่ประดับขอบ",
     "object": "เครื่องแต่งกาย",
     "attribute": "การตกแต่ง",
     "preview": "https://img.aishort.top/imgprompt/20260213151538074.webp"
   },
   {
     "displayName": "loose_belt",
-    "langName": "เนคไทหลวม (เสื้อผ้า)",
+    "langName": "เข็มขัดคาดหลวมๆ",
     "object": "เครื่องแต่งกาย",
     "attribute": "การตกแต่ง",
     "preview": "https://img.aishort.top/imgprompt/20260213151551376.webp"
   },
   {
     "displayName": "pom_pom_(clothes)",
-    "langName": "ปอมปอมเล็ก (เครื่องประดับเสื้อผ้า)",
+    "langName": "พู่ปอมปอมประดับเสื้อผ้า",
     "object": "เครื่องแต่งกาย",
     "attribute": "การตกแต่ง",
     "preview": "https://img.aishort.top/imgprompt/20260213151807325.webp"
@@ -19895,7 +19895,7 @@
   },
   {
     "displayName": "gathers",
-    "langName": "จีบ (บนเสื้อผ้า)",
+    "langName": "รอยย่นรูดระบาย",
     "object": "เครื่องแต่งกาย",
     "attribute": "การตกแต่ง",
     "preview": "https://img.aishort.top/imgprompt/20260213151846596.webp"
@@ -20441,7 +20441,7 @@
   },
   {
     "displayName": "peace_symbol",
-    "langName": "☮ (บนเสื้อผ้าของโจสุเกะ ฮิงาชิคาตะ)",
+    "langName": "สัญลักษณ์สันติภาพ (☮)",
     "object": "เครื่องแต่งกาย",
     "attribute": "ลวดลาย",
     "preview": "https://img.aishort.top/imgprompt/20260213154359591.webp"
@@ -20595,7 +20595,7 @@
   },
   {
     "displayName": "black_loafers",
-    "langName": "รองเท้าสลิปออน (รองเท้าหนังขนาดเล็ก)",
+    "langName": "รองเท้าโลฟเฟอร์สีดำ",
     "object": "เครื่องแต่งกาย",
     "attribute": "รองเท้า",
     "preview": "https://img.aishort.top/imgprompt/20260213160300808.webp"
@@ -20651,7 +20651,7 @@
   },
   {
     "displayName": "rudder_footwear",
-    "langName": "รองเท้าเฉพาะสำหรับเด็กผู้หญิง รุ่น Ship C",
+    "langName": "รองเท้าเฉพาะสาวเรือรบ",
     "object": "เครื่องแต่งกาย",
     "attribute": "รองเท้า",
     "preview": "https://img.aishort.top/imgprompt/20260213161458045.webp"
@@ -20868,7 +20868,7 @@
   },
   {
     "displayName": "knee_boots",
-    "langName": "รองเท้าบู๊ทสูงถึงเข่า (รองเท้าบู๊ทขี่ม้า)",
+    "langName": "รองเท้าบูทยาวถึงเข่า",
     "object": "เครื่องแต่งกาย",
     "attribute": "บูท",
     "preview": "https://img.aishort.top/imgprompt/20260213170630231.webp"
@@ -21512,7 +21512,7 @@
   },
   {
     "displayName": "Patch",
-    "langName": "patch",
+    "langName": "รอยปะ",
     "object": "เครื่องแต่งกาย",
     "attribute": "ผ้า",
     "preview": "https://img.aishort.top/imgprompt/20260213185701074.webp"
@@ -21680,7 +21680,7 @@
   },
   {
     "displayName": "alternate_headwear",
-    "langName": "เครื่องประดับศีรษะที่แตกต่างจากแบบดั้งเดิม",
+    "langName": "เครื่องประดับศีรษะแบบอื่น",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213191902200.webp"
@@ -21715,7 +21715,7 @@
   },
   {
     "displayName": "xx_on_head",
-    "langName": "xx บนหัว",
+    "langName": "วางของไว้บนหัว",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213192411659.webp"
@@ -21778,14 +21778,14 @@
   },
   {
     "displayName": "hachimaki",
-    "langName": "ผ้าคลุมศีรษะ (คำนาม)",
+    "langName": "ฮะจิมากิ (ผ้าคาดศีรษะ)",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213194023586.webp"
   },
   {
     "displayName": "helm",
-    "langName": "สวมหมวกนิรภัย",
+    "langName": "สวมหมวกเกราะ",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213194036779.webp"
@@ -21827,7 +21827,7 @@
   },
   {
     "displayName": "skull_and_crossbones",
-    "langName": "หัวกะโหลกและกระดูกไขว้ (โจรสลัด, อันตราย, เตือน)",
+    "langName": "กะโหลกไขว้",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213195005290.webp"
@@ -21841,7 +21841,7 @@
   },
   {
     "displayName": "headdress",
-    "langName": "เครื่องสวมศีรษะ (ค่อนข้างคลุมเครือ)",
+    "langName": "เครื่องประดับศีรษะ",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213195638458.webp"
@@ -21869,21 +21869,21 @@
   },
   {
     "displayName": "horns_through_headwear",
-    "langName": "เครื่องประดับศีรษะที่มีรูสำหรับติดเขา",
+    "langName": "หมวกเจาะช่องให้เขายื่น",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213200134487.webp"
   },
   {
     "displayName": "no_headwear",
-    "langName": "เครื่องประดับศีรษะ (ซึ่งเคยอยู่ก่อนหน้านี้) ได้ถูกถอดออกแล้ว",
+    "langName": "ไม่มีเครื่องประดับศีรษะ",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213200147284.webp"
   },
   {
     "displayName": "object_on_head",
-    "langName": "วัตถุที่ไม่ใช่เครื่องสวมศีรษะบนศีรษะ",
+    "langName": "มีสิ่งของอยู่บนศีรษะ",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213200200049.webp"
@@ -21925,7 +21925,7 @@
   },
   {
     "displayName": "behind-the-head_headphones",
-    "langName": "หูฟังที่สวมไว้บนศีรษะ",
+    "langName": "หูฟังแบบคล้องคอด้านหลัง",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213200337721.webp"
@@ -21988,14 +21988,14 @@
   },
   {
     "displayName": "head_mounted_display",
-    "langName": "สวมใส่ชุดแสดงผลที่ติดตั้งบนศีรษะ",
+    "langName": "แว่นแสดงผลสวมศีรษะ (HMD)",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213201344092.webp"
   },
   {
     "displayName": "head_out_of_frame",
-    "langName": "ส่วนหนึ่งของศีรษะไม่ได้ถูกวาดให้อยู่ในกรอบ",
+    "langName": "ศีรษะหลุดเฟรมภาพ",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213201559216.webp"
@@ -22016,7 +22016,7 @@
   },
   {
     "displayName": "headgear",
-    "langName": "เครื่องสวมศีรษะ (รวมองค์ประกอบบางส่วนจากนิยายวิทยาศาสตร์)",
+    "langName": "อุปกรณ์สวมศีรษะไซไฟ",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213201840823.webp"
@@ -22030,7 +22030,7 @@
   },
   {
     "displayName": "heads-up_display",
-    "langName": "แถบสถานะ (สไตล์เกมและไซไฟ)",
+    "langName": "หน้าจอแสดงข้อมูลมุมมองตรง (HUD)",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213201907728.webp"
@@ -22065,7 +22065,7 @@
   },
   {
     "displayName": "single_head_wing",
-    "langName": "ปีกที่อยู่ด้านหนึ่งของศีรษะ",
+    "langName": "ปีกประดับศีรษะข้างเดียว",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับศีรษะ",
     "preview": "https://img.aishort.top/imgprompt/20260213202620422.webp"
@@ -22261,7 +22261,7 @@
   },
   {
     "displayName": "hairpods",
-    "langName": "เครื่องประดับผมที่มีลักษณะคล้ายอุปกรณ์บลูทูธไร้สาย สวมใส่เป็นคู่",
+    "langName": "กิ๊บติดผมทรงหูฟัง",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับผม",
     "preview": "https://img.aishort.top/imgprompt/20260213210909139.webp"
@@ -22296,7 +22296,7 @@
   },
   {
     "displayName": "snake_hair_ornament",
-    "langName": "เครื่องประดับผมรูปงู เครื่องประดับผมรูปกบ",
+    "langName": "เครื่องประดับผมรูปงู",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับผม",
     "preview": "https://img.aishort.top/imgprompt/20260213211418419.webp"
@@ -22800,7 +22800,7 @@
   },
   {
     "displayName": "hatching_(texture)",
-    "langName": "วิธีเงาเส้น (พื้นผิว)",
+    "langName": "การแรเงาเส้นขีด",
     "object": "เครื่องประดับ",
     "attribute": "หมวก",
     "preview": "https://img.aishort.top/imgprompt/20260213224329155.webp"
@@ -22926,14 +22926,14 @@
   },
   {
     "displayName": "sunglasses",
-    "langName": "แว่นกันแดด (ปิดตา)",
+    "langName": "แว่นกันแดดทึบแสง",
     "object": "เครื่องประดับ",
     "attribute": "แว่นตา",
     "preview": "https://img.aishort.top/imgprompt/20260213230746663.webp"
   },
   {
     "displayName": "reflection glasses",
-    "langName": "แว่นกันแดด (ที่มองเห็นดวงตาได้)",
+    "langName": "แว่นกันแดดโปร่งแสง",
     "object": "เครื่องประดับ",
     "attribute": "แว่นตา",
     "preview": "https://img.aishort.top/imgprompt/20260213230759909.webp"
@@ -22954,7 +22954,7 @@
   },
   {
     "displayName": "eyepatch",
-    "langName": "ผ้าปิดตา (สำหรับตาข้างเดียว)",
+    "langName": "ที่ปิดตาข้างเดียว",
     "object": "เครื่องประดับ",
     "attribute": "แว่นตา",
     "preview": "https://img.aishort.top/imgprompt/20260213230839662.webp"
@@ -22982,14 +22982,14 @@
   },
   {
     "displayName": "coke-bottle_glasses",
-    "langName": "แว่นตาหนาเท่าฐานของขวดแก้ว",
+    "langName": "แว่นเลนส์หนาเตอะ",
     "object": "เครื่องประดับ",
     "attribute": "แว่นตา",
     "preview": "https://img.aishort.top/imgprompt/20260213230932442.webp"
   },
   {
     "displayName": "no_eyewear",
-    "langName": "แว่นตาที่ถอดออก (เคยสวมใส่มาก่อน)",
+    "langName": "ไม่ใส่แว่น",
     "object": "เครื่องประดับ",
     "attribute": "แว่นตา",
     "preview": "https://img.aishort.top/imgprompt/20260213230945224.webp"
@@ -23178,7 +23178,7 @@
   },
   {
     "displayName": "domino_mask",
-    "langName": "หน้ากาก SM",
+    "langName": "หน้ากากโดมิโน",
     "object": "เครื่องประดับ",
     "attribute": "หน้ากาก",
     "preview": "https://img.aishort.top/imgprompt/20260213233359905.webp"
@@ -23241,7 +23241,7 @@
   },
   {
     "displayName": "single_earring",
-    "langName": "การใส่ต่างหูเพียงข้างเดียว",
+    "langName": "ต่างหูข้างเดียว",
     "object": "เครื่องประดับ",
     "attribute": "ต่างหู",
     "preview": "https://img.aishort.top/imgprompt/20260213235633818.webp"
@@ -23325,7 +23325,7 @@
   },
   {
     "displayName": "leash",
-    "langName": "เข็มขัด",
+    "langName": "สายจูง",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องประดับมือ",
     "preview": "https://img.aishort.top/imgprompt/20260213235930034.webp"
@@ -23437,7 +23437,7 @@
   },
   {
     "displayName": "no_gloves",
-    "langName": "ถอดถุงมือออก (ที่เคยสวมใส่)",
+    "langName": "ไม่สวมถุงมือ",
     "object": "เครื่องประดับ",
     "attribute": "ถุงมือ",
     "preview": "https://img.aishort.top/imgprompt/20260214001315236.webp"
@@ -23451,7 +23451,7 @@
   },
   {
     "displayName": "single_elbow_glove",
-    "langName": "สวมถุงมือที่ยาวเกินข้อศอกบนมือข้างหนึ่ง",
+    "langName": "ถุงมือยาวถึงข้อศอกข้างเดียว",
     "object": "เครื่องประดับ",
     "attribute": "ถุงมือ",
     "preview": "https://img.aishort.top/imgprompt/20260214001744860.webp"
@@ -23465,7 +23465,7 @@
   },
   {
     "displayName": "elbow_gloves",
-    "langName": "ถุงมือแขนยาว (ถุงมือยาวถึงข้อศอก)",
+    "langName": "ถุงมือยาวถึงข้อศอก",
     "object": "เครื่องประดับ",
     "attribute": "ถุงมือ",
     "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
@@ -23500,14 +23500,14 @@
   },
   {
     "displayName": "paw_gloves",
-    "langName": "ถุงมือแบบไม่มีนิ้ว",
+    "langName": "ถุงมืออุ้งเท้าสัตว์",
     "object": "เครื่องประดับ",
     "attribute": "ถุงมือ",
     "preview": "https://img.aishort.top/imgprompt/20260214002522561.webp"
   },
   {
     "displayName": "mittens",
-    "langName": "ถุงมือสองนิ้ว",
+    "langName": "ถุงมือแบบไม่มีนิ้วแยก (Mittens)",
     "object": "เครื่องประดับ",
     "attribute": "ถุงมือ",
     "preview": "https://img.aishort.top/imgprompt/20260214002535788.webp"
@@ -23759,14 +23759,14 @@
   },
   {
     "displayName": "st._gloriana's_(emblem)",
-    "langName": "ตราประจำโรงเรียนสตรีเซนต์กลอเรียนา",
+    "langName": "ตราสัญลักษณ์โรงเรียนเซนต์กลอเรียนา",
     "object": "เครื่องประดับ",
     "attribute": "ของตกแต่งเล็กๆ",
     "preview": "https://img.aishort.top/imgprompt/20260214010157304.webp"
   },
   {
     "displayName": "heart_lock_(kantai_collection)",
-    "langName": "ล็อกเกม KanColle (KanColle)",
+    "langName": "แม่กุญแจหัวใจ (Kantai Collection)",
     "object": "เครื่องประดับ",
     "attribute": "ของตกแต่งเล็กๆ",
     "preview": "https://img.aishort.top/imgprompt/20260214010210385.webp"
@@ -23815,7 +23815,7 @@
   },
   {
     "displayName": "ring",
-    "langName": "เสียงกริ่ง",
+    "langName": "แหวน",
     "object": "เครื่องประดับ",
     "attribute": "เครื่องเพชรพลอย",
     "preview": "https://img.aishort.top/imgprompt/20260214011757830.webp"
@@ -23990,14 +23990,14 @@
   },
   {
     "displayName": "Wu Xing",
-    "langName": "ห้าธาตุ (โลหะ, ไม้, น้ำ, ไฟ, ดิน)",
+    "langName": "เบญจธาตุ (อู่ซิง)",
     "object": "เครื่องประดับ",
     "attribute": "สัญลักษณ์",
     "preview": "https://img.aishort.top/imgprompt/20260214020503233.webp"
   },
   {
     "displayName": "dynamic pose",
-    "langName": "ท่าทางที่เคลื่อนไหว (มีชีวิตชีวา)",
+    "langName": "ท่าทางทรงพลังและมีชีวิตชีวา",
     "object": "การถ่ายภาพ",
     "attribute": "มุมมอง",
     "preview": "https://img.aishort.top/imgprompt/20260214020718871.webp"
@@ -24319,28 +24319,28 @@
   },
   {
     "displayName": "cowboy_shot",
-    "langName": "ส่วนบนของร่างกาย + ต้นขาด้านบน (ถ่ายในชุดยีนส์)",
+    "langName": "คาวบอยช็อต (ถ่ายระดับต้นขา)",
     "object": "การถ่ายภาพ",
     "attribute": "ความสูงกล้อง",
     "preview": "https://img.aishort.top/imgprompt/20260214032314849.webp"
   },
   {
     "displayName": "portrait",
-    "langName": "ภาพบุคคล (ใบหน้า + ไหล่ + บางครั้งรวมถึงหน้าอก)",
+    "langName": "ภาพถ่ายบุคคล",
     "object": "การถ่ายภาพ",
     "attribute": "ความสูงกล้อง",
     "preview": "https://img.aishort.top/imgprompt/20260214032327856.webp"
   },
   {
     "displayName": "very close portrait",
-    "langName": "ภาพบุคคลระยะใกล้ (เลนส์เข้าใกล้)",
+    "langName": "ภาพโคลสอัพใบหน้าขั้นสุด",
     "object": "การถ่ายภาพ",
     "attribute": "ความสูงกล้อง",
     "preview": "https://img.aishort.top/imgprompt/20260214032544032.webp"
   },
   {
     "displayName": "profile",
-    "langName": "ภาพบุคคลด้านข้าง (เวอร์ชันโปรไฟล์ของภาพบุคคล)",
+    "langName": "ภาพใบหน้าด้านข้าง",
     "object": "การถ่ายภาพ",
     "attribute": "ความสูงกล้อง",
     "preview": "https://img.aishort.top/imgprompt/20260214032759101.webp"
@@ -24375,7 +24375,7 @@
   },
   {
     "displayName": "wide_shot",
-    "langName": "เลนส์พาโนรามา (เลนส์มุมกว้าง)",
+    "langName": "ช็อตมุมกว้าง",
     "object": "การถ่ายภาพ",
     "attribute": "โฟกัสเลนส์",
     "preview": "https://img.aishort.top/imgprompt/20260214033851759.webp"
@@ -24389,7 +24389,7 @@
   },
   {
     "displayName": "inset",
-    "langName": "แทรกฟุตเทจหรือรูปภาพเพิ่มเติม",
+    "langName": "ภาพแทรกขนาดเล็ก",
     "object": "การถ่ายภาพ",
     "attribute": "โฟกัสเลนส์",
     "preview": "https://img.aishort.top/imgprompt/20260214033931731.webp"
@@ -24403,21 +24403,21 @@
   },
   {
     "displayName": "male focus",
-    "langName": "เน้นผู้ชาย (เน้นผู้หญิง)",
+    "langName": "โฟกัสที่ตัวละครชาย",
     "object": "การถ่ายภาพ",
     "attribute": "โฟกัสเลนส์",
     "preview": "https://img.aishort.top/imgprompt/20260214033958195.webp"
   },
   {
     "displayName": "solo_focus",
-    "langName": "มุ่งเน้นไปที่หัวข้อเดียว (เหมาะสำหรับฉากที่ซับซ้อน)",
+    "langName": "โฟกัสที่ตัวละครเดี่ยว",
     "object": "การถ่ายภาพ",
     "attribute": "โฟกัสเลนส์",
     "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
   },
   {
     "displayName": "xx_focus",
-    "langName": "มุ่งเน้นที่ xx",
+    "langName": "โฟกัสเฉพาะจุด",
     "object": "การถ่ายภาพ",
     "attribute": "โฟกัสเลนส์",
     "preview": "https://img.aishort.top/imgprompt/20260214034023889.webp"
@@ -24459,7 +24459,7 @@
   },
   {
     "displayName": "vehicle_focus",
-    "langName": "มุ่งเน้นที่รถยนต์ (รถยนต์)",
+    "langName": "โฟกัสที่ยานพาหนะ",
     "object": "การถ่ายภาพ",
     "attribute": "โฟกัสเลนส์",
     "preview": "https://img.aishort.top/imgprompt/20260214034759257.webp"
@@ -24473,21 +24473,21 @@
   },
   {
     "displayName": "between_legs",
-    "langName": "(เน้น) ระหว่างขา",
+    "langName": "มุมมองระหว่างขา",
     "object": "การถ่ายภาพ",
     "attribute": "โฟกัสเลนส์",
     "preview": "https://img.aishort.top/imgprompt/20260214035455577.webp"
   },
   {
     "displayName": "between_breasts",
-    "langName": "(เน้น) หน้าอก",
+    "langName": "มุมกล้องเน้นร่องอก",
     "object": "การถ่ายภาพ",
     "attribute": "โฟกัสเลนส์",
     "preview": "https://img.aishort.top/imgprompt/20260225091239828.webp"
   },
   {
     "displayName": "between_fingers",
-    "langName": "(เน้น) ปลายนิ้ว",
+    "langName": "มุมมองลอดผ่านช่องนิ้วมือ",
     "object": "การถ่ายภาพ",
     "attribute": "โฟกัสเลนส์",
     "preview": "https://img.aishort.top/imgprompt/20260214035531987.webp"
@@ -24501,14 +24501,14 @@
   },
   {
     "displayName": "peeking_out",
-    "langName": "การแอบดู (การกระทำ)",
+    "langName": "โผล่หน้าแอบมอง",
     "object": "การถ่ายภาพ",
     "attribute": "โฟกัสเลนส์",
     "preview": "https://img.aishort.top/imgprompt/20260214035557635.webp"
   },
   {
     "displayName": "peeping",
-    "langName": "การแอบมอง (เน้นมุมมอง)",
+    "langName": "มุมกล้องแอบส่อง",
     "object": "การถ่ายภาพ",
     "attribute": "โฟกัสเลนส์",
     "preview": "https://img.aishort.top/imgprompt/20260214035610390.webp"
@@ -24662,7 +24662,7 @@
   },
   {
     "displayName": "Brenizer Method",
-    "langName": "การถ่ายทำแบบเกลียว",
+    "langName": "เทคนิคเบรไนเซอร์",
     "object": "การถ่ายภาพ",
     "attribute": "เอฟเฟกต์เลนส์/แสง",
     "preview": "https://img.aishort.top/imgprompt/20260214041350224.webp"
@@ -24697,7 +24697,7 @@
   },
   {
     "displayName": "landscape",
-    "langName": "ภาพทิวทัศน์ (ภาพระยะไกล)",
+    "langName": "ภาพทิวทัศน์ระยะไกล",
     "object": "การถ่ายภาพ",
     "attribute": "เอฟเฟกต์เลนส์/แสง",
     "preview": "https://img.aishort.top/imgprompt/20260214041814281.webp"
@@ -24844,7 +24844,7 @@
   },
   {
     "displayName": "polaroid",
-    "langName": "ภาพถ่ายทันที",
+    "langName": "ภาพถ่ายโพลารอยด์",
     "object": "การถ่ายภาพ",
     "attribute": "สไตล์การถ่ายภาพ",
     "preview": "https://img.aishort.top/imgprompt/20260214044251180.webp"
@@ -25194,7 +25194,7 @@
   },
   {
     "displayName": "Calotype",
-    "langName": "การถ่ายภาพโดย Light Force",
+    "langName": "ภาพถ่ายแคลโลไทป์",
     "object": "การถ่ายภาพ",
     "attribute": "กล้องถ่ายภาพ",
     "preview": "https://img.aishort.top/imgprompt/20260214054127877.webp"
@@ -25292,7 +25292,7 @@
   },
   {
     "displayName": "depth of field",
-    "langName": "ความลึกของสนาม (ปรับฉากบุคคล)",
+    "langName": "ระยะชัดลึกชัดตื้น",
     "object": "การถ่ายภาพ",
     "attribute": "เอฟเฟกต์",
     "preview": "https://img.aishort.top/imgprompt/20260224191234161.webp"
@@ -25320,14 +25320,14 @@
   },
   {
     "displayName": "bokeh",
-    "langName": "โบเก้ (การเบลอพื้นหลัง)",
+    "langName": "โบเก้",
     "object": "การถ่ายภาพ",
     "attribute": "เอฟเฟกต์",
     "preview": "https://img.aishort.top/imgprompt/20260224191333274.webp"
   },
   {
     "displayName": "chromatic_aberration",
-    "langName": "ความคลาดสี, การเบลอของสี",
+    "langName": "ความคลาดสี",
     "object": "การถ่ายภาพ",
     "attribute": "เอฟเฟกต์",
     "preview": "https://img.aishort.top/imgprompt/20260224191548893.webp"
@@ -25818,7 +25818,7 @@
   },
   {
     "displayName": "Crepuscular Rays",
-    "langName": "แสงสลัว",
+    "langName": "ลำแสงทะลุเมฆ (God Rays)",
     "object": "แสงและเงา",
     "attribute": "เอฟเฟกต์แสง",
     "preview": "https://img.aishort.top/imgprompt/20260224200322540.webp"
@@ -25860,7 +25860,7 @@
   },
   {
     "displayName": "lens flare",
-    "langName": "แสงแฟลร์ของเลนส์ (แสงย้อน)",
+    "langName": "แสงสะท้อนเลนส์",
     "object": "แสงและเงา",
     "attribute": "เอฟเฟกต์แสง",
     "preview": "https://img.aishort.top/imgprompt/20260224200437632.webp"
@@ -27113,7 +27113,7 @@
   },
   {
     "displayName": "Dispersion",
-    "langName": "การกระจาย (ปรากฏการณ์ที่แสงสีต่างๆ แยกออกจากกัน)",
+    "langName": "การกระจายของแสง",
     "object": "บรรยากาศสี",
     "attribute": "โทนสีเข้ม",
     "preview": "https://img.aishort.top/imgprompt/20260224221649393.webp"
@@ -27645,7 +27645,7 @@
   },
   {
     "displayName": "Tetradic-Colors",
-    "langName": "สี่สี (รูปแบบสีสี่เหลี่ยมผืนผ้า)",
+    "langName": "ระบบคู่สีสี่เหลี่ยม",
     "object": "บรรยากาศสี",
     "attribute": "จานสีสดใส",
     "preview": "https://img.aishort.top/imgprompt/20260224223613371.webp"
@@ -27842,7 +27842,7 @@
   },
   {
     "displayName": "CMYK",
-    "langName": "สีฟ้า, สีม่วงแดง, สีเหลือง, สีหลัก (สีดำ)",
+    "langName": "สีฟ้า, สีม่วงแดง, สีเหลือง, สีหลัก",
     "object": "บรรยากาศสี",
     "attribute": "จานสีจอแสดงผล",
     "preview": "https://img.aishort.top/imgprompt/20260224224303324.webp"
@@ -27940,14 +27940,14 @@
   },
   {
     "displayName": "YCbCr",
-    "langName": "สีเหลือง สีฟ้าอมเขียว และสีน้ำเงิน",
+    "langName": "YCbCr",
     "object": "บรรยากาศสี",
     "attribute": "จานสีจอแสดงผล",
     "preview": "https://img.aishort.top/imgprompt/20260224224629664.webp"
   },
   {
     "displayName": "YPbPr",
-    "langName": "วายพีอาร์",
+    "langName": "YPbPr",
     "object": "บรรยากาศสี",
     "attribute": "จานสีจอแสดงผล",
     "preview": "https://img.aishort.top/imgprompt/20260224224643063.webp"
@@ -29914,7 +29914,7 @@
   },
   {
     "displayName": "Putty",
-    "langName": "กาวสำหรับปิดผนึกและอุดช่องว่าง",
+    "langName": "สีโป๊ว / ปูนยาแนว",
     "object": "วัสดุ",
     "attribute": "เมือก",
     "preview": "https://img.aishort.top/imgprompt/20260224235936705.webp"
@@ -31356,7 +31356,7 @@
   },
   {
     "displayName": "((dyeing)),((oil painting)),((impasto))",
-    "langName": "ภาพวาดสีน้ำมัน (ชุด)",
+    "langName": "ภาพสีน้ำมันแบบนูนหนา",
     "object": "ประเภทภาพ",
     "attribute": "จิตรกรรม",
     "preview": "https://img.aishort.top/imgprompt/20260225004949979.webp"
@@ -31825,7 +31825,7 @@
   },
   {
     "displayName": "copics",
-    "langName": "ปากกาเมจิก (สีเทาอ่อน)",
+    "langName": "ลายเส้นมาร์กเกอร์โคปิค",
     "object": "ประเภทภาพ",
     "attribute": "หมึก",
     "preview": "https://img.aishort.top/imgprompt/20260225010656308.webp"
@@ -32126,7 +32126,7 @@
   },
   {
     "displayName": "Pokemon Card",
-    "langName": "โปเกมอนการ์ด",
+    "langName": "สไตล์การ์ดโปเกมอน",
     "object": "ประเภทภาพ",
     "attribute": "การพิมพ์",
     "preview": "https://img.aishort.top/imgprompt/20260225011638981.webp"
@@ -32518,7 +32518,7 @@
   },
   {
     "displayName": "traditional_media",
-    "langName": "ผ้าใบแบบดั้งเดิม (เช่น กระดาษ เป็นต้น)",
+    "langName": "สื่อภาพวาดดั้งเดิม",
     "object": "ประเภทภาพ",
     "attribute": "สื่ออื่นๆ",
     "preview": "https://img.aishort.top/imgprompt/20260225013600028.webp"
@@ -33078,7 +33078,7 @@
   },
   {
     "displayName": "miserablism",
-    "langName": "การมองโลกในแง่ร้าย (การวิจารณ์ความยากจนและความอยุติธรรมในสังคม)",
+    "langName": "ลัทธิสะท้อนความทุกข์ยาก",
     "object": "สไตล์ศิลปะ",
     "attribute": "นิยายและความจริง",
     "preview": "https://img.aishort.top/imgprompt/20260225015538415.webp"
@@ -33169,7 +33169,7 @@
   },
   {
     "displayName": "illustration,(((ukiyoe))),((sketch)),((japanese_art))",
-    "langName": "อุคิโยะ-เอะ (ชุด)",
+    "langName": "ภาพประกอบสไตล์ภาพพิมพ์อุคิโยะ",
     "object": "สไตล์ศิลปะ",
     "attribute": "ศิลปะเอเชีย",
     "preview": "https://img.aishort.top/imgprompt/20260225015830944.webp"
@@ -33260,7 +33260,7 @@
   },
   {
     "displayName": "heavy contrast",
-    "langName": "ความตัดกันที่ชัดเจน (เน้นสี)",
+    "langName": "คอนทราสต์จัดจ้าน",
     "object": "สไตล์ศิลปะ",
     "attribute": "สไตล์ภาพถ่าย/จิตรกรรม",
     "preview": "https://img.aishort.top/imgprompt/20260225020108984.webp"
@@ -33323,7 +33323,7 @@
   },
   {
     "displayName": "film noir",
-    "langName": "ฟิล์มนัวร์ (อาชญากรรม, ความปรารถนา, การแก้แค้น)",
+    "langName": "ฟิล์มนัวร์",
     "object": "สไตล์ศิลปะ",
     "attribute": "สไตล์ภาพถ่าย/จิตรกรรม",
     "preview": "https://img.aishort.top/imgprompt/20260225020255566.webp"
@@ -33337,7 +33337,7 @@
   },
   {
     "displayName": "fantasy",
-    "langName": "เหมาะสำหรับฉากในนิยายวิทยาศาสตร์",
+    "langName": "สไตล์แฟนตาซี",
     "object": "สไตล์ศิลปะ",
     "attribute": "ไซไฟ",
     "preview": "https://img.aishort.top/imgprompt/20260225020323046.webp"
@@ -33624,14 +33624,14 @@
   },
   {
     "displayName": "column lineup",
-    "langName": "แถวของภาพขนาดเล็กเรียงตัวกันเป็นภาพขนาดใหญ่",
+    "langName": "การจัดวางแบบหลายคอลัมน์",
     "object": "สไตล์ศิลปะ",
     "attribute": "สิ่งพิมพ์",
     "preview": "https://img.aishort.top/imgprompt/20260225021130372.webp"
   },
   {
     "displayName": "zoom layer",
-    "langName": "พื้นหลังเป็นเวอร์ชันขยายของเบื้องหน้า",
+    "langName": "เลเยอร์ซูมภาพพื้นหลัง",
     "object": "สไตล์ศิลปะ",
     "attribute": "สิ่งพิมพ์",
     "preview": "https://img.aishort.top/imgprompt/20260225021142834.webp"
@@ -33680,7 +33680,7 @@
   },
   {
     "displayName": "highres",
-    "langName": "การทาหนา (สไตล์)",
+    "langName": "จิตรกรรมดิจิทัลแบบหนานูน",
     "object": "สไตล์ศิลปะ",
     "attribute": "ศิลปะดิจิทัล",
     "preview": "https://img.aishort.top/imgprompt/20260225021323241.webp"
@@ -34233,7 +34233,7 @@
   },
   {
     "displayName": "Sabattier Effect",
-    "langName": "แสดงขอบที่นุ่มนวลและพร่ามัวพร้อมกับการไล่ระดับสี",
+    "langName": "เทคนิคซาบาติเยร์ (การแปลงภาพด้วยแสง)",
     "object": "โพสต์โปรเซสซิง",
     "attribute": "การประมวลผลภาพ",
     "preview": "https://img.aishort.top/imgprompt/20260225022949265.webp"
@@ -34268,7 +34268,7 @@
   },
   {
     "displayName": "Harris Shutter",
-    "langName": "การจับภาพวัตถุที่เคลื่อนไหวเร็วหรือรักษาความคมชัดของภาพในสภาพแสงน้อย",
+    "langName": "เอฟเฟกต์ชัตเตอร์แฮร์ริส",
     "object": "โพสต์โปรเซสซิง",
     "attribute": "การประมวลผลภาพ",
     "description": "จับภาพวัตถุที่เคลื่อนที่เร็วหรือรักษาความคมชัดของภาพในสภาพแสงน้อย",
@@ -34509,7 +34509,7 @@
   },
   {
     "displayName": "35mm film photography,warm vintage Japanese onsen ryokan aesthetic,soft ambient wooden lantern lighting mixed with gentle natural window light,subtle film grain,gentle color shift,high atmosphere editorial style,intimate medium shot,early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features,seductive almond-shaped fox eyes with natural double eyelids,high nose bridge,small sharp V-shaped jawline,flawless porcelain skin with warm ivory undertone,visible subtle skin texture and micro pores,soft natural makeup with dewy glow,subtle rosy flush on cheeks,natural soft pink lips slightly parted,long dark brown hair tied in a loose low bun with some messy strands falling around face and neck,wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist,the fabric slightly open revealing smooth skin and subtle cleavage,barefoot,seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan,body slightly turned toward the camera,one leg bent with foot resting on the wooden floor,the other leg gently dangling,one hand lightly holding the yukata collar,the other hand resting on the wooden floor behind her for support,softly arched back to gently accentuate curves,intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth,warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus,gentle rim lighting highlighting skin and fabric texture,authentic vintage film color grading with warm tones,extremely sharp yet soft skin rendering,natural hair strands,realistic fabric wrinkles and drape on the yukata,no plastic skin,no digital over-sharpening,no airbrushing,no blemishes,no moles,no oily skin,no watermark,no text,authentic 35mm film Japanese onsen ryokan atmosphere",
-    "langName": "ภาพเหมือน onsen ryokan ญี่ปุ่น",
+    "langName": "ภาพเหมือนออนเซ็นเรียวกังญี่ปุ่น",
     "object": "โชว์เคส",
     "attribute": "ภาพเหมือน",
     "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
@@ -34517,7 +34517,7 @@
   },
   {
     "displayName": "35mm color film photography with harsh direct on-camera flash,specular highlights on skin and clothing,strong catchlights in eyes,high contrast flash illumination,authentic film grain and color shift,high fashion fresh innocent basketball court editorial style,intimate first-person low-angle POV shot from below,early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features,seductive almond-shaped fox eyes with natural double eyelids,high nose bridge,small sharp V-shaped jawline,flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights,fine delicate skin texture with subtle pores micro details and natural dewy glow under flash,fresh natural sporty makeup with soft dewy glow,subtle natural flush on cheeks,natural pink lips slightly parted,subtle natural freckles across nose and cheeks,long dark brown hair tied in a high playful ponytail with some loose strands framing the face and realistic loose strands,wearing a loose white tank top and white high-waisted basketball shorts,white knee-high sports socks,seductive natural leaning pose against the basketball hoop pole on the outdoor court at dusk,body angled sideways with naturally arched back and hips gently pushed back to accentuate perky round hips and sexy butt curve,one leg naturally extended forward toward the camera and the other leg slightly bent to emphasize long sexy legs,both hands lightly resting on the basketball pole at shoulder height,intensely seductive playful yet pitiable doe-eyed gaze straight at the viewer with soft vulnerable longing eyes and a gentle teasing smile full of quiet temptation and desire,harsh direct on-camera flash creating sharp specular highlights and strong catchlights,background with blurred basketball court and hoop under dusk sky,high contrast film color grading with natural flash look,extremely sharp yet soft skin rendering with authentic 35mm direct flash aesthetic,natural hair strands,realistic fabric texture on tank top and shorts with socks detail,no plastic skin,no digital over-sharpening,no airbrushing,no blemishes,no moles,no oily skin,no watermark,no text,authentic 35mm direct flash film basketball court look --ar 9:16",
-    "langName": "ภาพเหมือน editorial แฟลช 35mm",
+    "langName": "ภาพเหมือนสไตล์นิตยสาร แฟลช 35mm",
     "object": "โชว์เคส",
     "attribute": "ภาพเหมือน",
     "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
@@ -34525,7 +34525,7 @@
   },
   {
     "displayName": "A stunning 18-year-old Chinese girl with a youthful,pure face and realistic skin texture,sitting on a cozy,slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone,capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft natural light (golden hour) streams in from a side window,creating a warm,moody,and cinematic atmosphere. 35mm lens,sharp focus on the subject in the mirror,depth of field with a beautifully blurred background (bokeh). Photorealistic,8K,high resolution,studio quality,masterpiece.\nNegative Prompts: no extra limbs,no deformed hands,no blur,no noise,no watermark,no text,no cartoon/anime style. Aspect Ratio: 3:4.",
-    "langName": "ภาพเหมือนห้องนอน selfie กระจก",
+    "langName": "ภาพเหมือนเซลฟี่กระจกห้องนอน",
     "object": "โชว์เคส",
     "attribute": "ภาพเหมือน",
     "description": "by @Shinning1010 (https://x.com/Shinning1010)",
@@ -34541,7 +34541,7 @@
   },
   {
     "displayName": "Luxury Glam Beauty Portrait:,Beautiful Black woman,youthful spirit,creamy vanilla,silk press,mahogany red,subtle confidence,textured fabric,sapphire blue,minimal jewelry,beachside breeze,lens flare effect,nostalgic,cinematic lens,symmetrical composition,soft focus,high fashion photography,monochromatic,dewy finish,mysterious tension,layered elements",
-    "langName": "ภาพเหมือนความงาม glam หรูหรา",
+    "langName": "ภาพเหมือนความงามหรูหรา",
     "object": "โชว์เคส",
     "attribute": "ภาพเหมือน",
     "description": "by @patrickassale (https://x.com/patrickassale)",
@@ -34549,7 +34549,7 @@
   },
   {
     "displayName": "生成一张竖版手机截图风格的图片,整体比例接近 9:16。画面中心偏上是一位真人 coser,扮演（角色名称）的二次元角色。人物为写实风格,但五官略带动漫感,皮肤细腻,眼睛稍大,表情温柔地看向镜头,坐在室内的休闲场景中,例如咖啡厅或酒吧吧台前,背景有符合场景的道具。画面最上方加入手机系统状态栏 UI,包括时间、电量、信号、网络等图标,让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框,对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字,下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词,由你自动创作。再在对话框下方加一条操作栏,仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。",
-    "langName": "ภาพหน้าจอ cosplayer 9:16",
+    "langName": "ภาพหน้าจอคอสเพลย์เยอร์ 9:16",
     "object": "โชว์เคส",
     "attribute": "ภาพเหมือน",
     "description": "by @Zoulinshen (https://x.com/Zoulinshen)",
@@ -34565,7 +34565,7 @@
   },
   {
     "displayName": "\"Sam Altman on a skateboard at a skatepark with no people.\"",
-    "langName": "ภาพ skatepark ของ Sam Altman",
+    "langName": "ภาพลานสเก็ตบอร์ดของ Sam Altman",
     "object": "โชว์เคส",
     "attribute": "ภาพเหมือน",
     "description": "by @Malek1173989 (https://x.com/Malek1173989)",
@@ -34589,7 +34589,7 @@
   },
   {
     "displayName": "9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol,maintaining 100% consistency in facial features,proportions,hairstyle,and identity across all nine shots.   Natural,ultra-realistic skin texture,no retouching,no smoothing. Clean idol-style minimal makeup,soft glow,subtle imperfections.   Hair: long,voluminous dark hair,slightly tousled,consistent across all frames (natural loose flow,slight movement).  Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit),youthful,clean,slightly casual but styled. Same outfit across all frames.  Setting: minimal studio or simple indoor environment (plain wall,soft window light,clean background). Focus on subject,not environment.  Lighting: soft diffused natural light,gentle highlights,low contrast,slightly airy tones,subtle film-like softness.  Camera style: intimate portrait photography,slightly handheld feel,subtle imperfections (minor grain,slight blur in motion frames,imperfect framing).  Frame breakdown (3x3 grid):  Top row: - Top left: standing naturally,looking slightly away,relaxed expression - Top center: facing camera,casual mid-motion (hair or body slight movement) - Top right: slight side angle,soft gaze,natural candid feel  Middle row: - Center left: looking slightly upward,soft thoughtful expression - Center: close-up portrait,direct eye contact,gentle idol smile - Center right: turning body slightly,mid-motion candid frame  Bottom row: - Bottom left: seated or leaning casually,relaxed posture - Bottom center: back partially turned,looking over shoulder toward camera - Bottom right: standing close to frame,slightly playful or soft expression  Mood: Korean idol photobook / photocard aesthetic,intimate,soft,natural,everyday charm.  Quality: ultra-realistic,8K detail,subtle analog film grain,natural imperfections,soft dreamy tone",
-    "langName": "ภาพ collage 3x3 ไอดอลเกาหลี",
+    "langName": "ภาพคอลลาจ 3x3 ไอดอลเกาหลี",
     "object": "โชว์เคส",
     "attribute": "ภาพเหมือน",
     "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
@@ -34597,7 +34597,7 @@
   },
   {
     "displayName": "9:16 vertical — editorial portrait,single subject  soft black mist filter,subtle haze,gentle highlight bloom,muted tones  minimal indoor space,clean background,slight texture  young Korean woman,minimal makeup,natural skin texture  outfit: fitted ribbed knit top or soft camisole layered under a loose shirt,paired with high-waisted shorts or skirt; fabric slightly clings to body shape,soft and natural,no revealing elements  hair: slightly messy,natural volume  pose: sitting on floor with one leg bent and the other relaxed,body slightly leaning,shoulders not aligned,head tilted  composition: subject slightly off-center,negative space present  expression: calm,slightly distant,natural lips  lighting: soft side light,gentle shadow falloff  mood: understated,quiet,subtly sensual through natural body lines,relaxed and unposed  quality: fine grain,slight softness,realistic look",
-    "langName": "ภาพเหมือน editorial หมอกดำนุ่มนวล",
+    "langName": "ภาพเหมือนสไตล์นิตยสาร หมอกดำนุ่มนวล",
     "object": "โชว์เคส",
     "attribute": "ภาพเหมือน",
     "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
@@ -34645,7 +34645,7 @@
   },
   {
     "displayName": "generate image: Selfie of Sam Altman riding a bear\n\nEdit prompt: Remove the background make it transparent",
-    "langName": "selfie หมีของ Sam Altman",
+    "langName": "เซลฟี่หมีของ Sam Altman",
     "object": "โชว์เคส",
     "attribute": "ภาพเหมือน",
     "description": "by @JustinGorya (https://x.com/JustinGorya)",
@@ -34653,7 +34653,7 @@
   },
   {
     "displayName": "サムアルトマンがメジャーリーガーでバットを構えている。よくあるようなテレビ画面の構図",
-    "langName": "การถ่ายทอดสด baseball ของ Sam Altman",
+    "langName": "การถ่ายทอดสดเบสบอลของ Sam Altman",
     "object": "โชว์เคส",
     "attribute": "ภาพเหมือน",
     "description": "by @16kthir0GRXgNqn (https://x.com/16kthir0GRXgNqn)",
@@ -34682,7 +34682,7 @@
   },
   {
     "displayName": "beautiful Korean idol in an intimate pose with a man in a blurred indoor setting,soft lighting,moody atmosphere",
-    "langName": "ไอดอลเกาหลีที่สวยงามในท่าทางใกล้ชิดกับชายคนหนึ่งในฉากภายในที่เบลอ แสงไฟนุ่มนวล บรรยากาศเศร้า",
+    "langName": "ภาพถ่ายคู่บรรยากาศโรแมนติก",
     "object": "โชว์เคส",
     "attribute": "ภาพเหมือน",
     "preview": "https://img.aishort.top/imgprompt/20260228063106088.webp"
@@ -34703,7 +34703,7 @@
   },
   {
     "displayName": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space,a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve,gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline,Beacon Hill brownstones,Acorn Street,Boston Public Garden,Swan Boats,Zakim Bridge,Fenway-inspired details,historic brick architecture,harbor ferries,and the city’s waterfront atmosphere. Soft morning fog,golden spring light,subtle festive accents in crimson and gold,rich detail,layered depth,sophisticated city-poster aesthetics,fresh and refined,visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON,A CITY OF RIVER,MEMORY,AND INVENTION”,text clear and beautifully composed,premium graphic design,9:16",
-    "langName": "โปสเตอร์เมือง Boston ฤดูใบไม้ผลิ 2026",
+    "langName": "โปสเตอร์เมืองบอสตัน ฤดูใบไม้ผลิ 2026",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
@@ -34711,7 +34711,7 @@
   },
   {
     "displayName": "Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast,Italy,panoramic coastal cliff road scene,classic 1960s white car driving along a curved seaside road,deep blue Mediterranean sea with small sailboats,colorful pastel hillside village,bright blue sky with soft clouds,lemon tree branches with vibrant yellow lemons framing the foreground,warm summer sunlight,bold vibrant colors,retro 1950s travel poster style,cinematic composition,high detail,screen print texture,graphic illustration. Hand-drawn style,illustration with loose strokes and defined contours. High-contrast color palette,maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.",
-    "langName": "โปสเตอร์ท่องเที่ยว Amalfi วินเทจ",
+    "langName": "โปสเตอร์ท่องเที่ยวชายฝั่งอามัลฟีสไตล์วินเทจ",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @WolfRiccardo (https://x.com/WolfRiccardo)",
@@ -34719,7 +34719,7 @@
   },
   {
     "displayName": "一张手绘风格的城市美食地图,以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底,标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等,每个插画约占地图的 5% 面积,旁边用手写体标注店名和一句推荐语\"凌晨两点还在排队的那家\"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题\"成都·吃货暴走地图\"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感,颜色以暖色系（辣椒红、姜黄、翠绿）为主,图片比例 1:1。",
-    "langName": "ภาพประกอบแผนที่อาหาร Chengdu",
+    "langName": "ภาพประกอบแผนที่อาหารเฉิงตู",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @Panda20230902 (https://x.com/Panda20230902)",
@@ -34734,8 +34734,8 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151157243.webp"
   },
   {
-    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑(广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
-    "langName": "โปสเตอร์เมือง Guangzhou ฤดูใบไม้ผลิ 2026",
+    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑（广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
+    "langName": "โปสเตอร์เมืองกว่างโจว ฤดูใบไม้ผลิ 2026",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34743,7 +34743,7 @@
   },
   {
     "displayName": "以涂鸦速写风表现【一个厉害的AI builder】,整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一,略显凌乱但具有节奏和表现力,强调概括、夸张、趣味和随性,而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现,可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感,色彩根据【主题/主体】自动适配,但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果,不要细腻水彩过渡,不要纸纹理,不要柔和雾化,不要梦幻质感。  背景以留白为主,保持简洁、轻松、未完成感和设计感,可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素,以增强速写本或随笔式视觉语言,但不可过于拥挤,不可破坏主体和留白气质。  画面内容不需要预先写清楚,由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景,整体保持统一的涂鸦速写风和夸张概括的表现方式,避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“BlanPlan”,作为画面的一部分,位置低调但清晰,可放在左下角、右下角或标题附近,风格需与整体版式统一,像作品署名或设计落款；签名字体精致、克制、高级,不可过大,不可破坏主体构图,不可显得突兀或廉价。",
-    "langName": "ภาพ doodle AI Builder",
+    "langName": "ภาพดูเดิลสเก็ตช์ AI บิลเดอร์",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @blanplan (https://x.com/blanplan)",
@@ -34751,7 +34751,7 @@
   },
   {
     "displayName": "曼荼羅の近未来SF版を描いて",
-    "langName": "ภาพประกอบ mandala แห่งอนาคต",
+    "langName": "ภาพประกอบแมนดาลาแห่งอนาคต",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @4WEB1 (https://x.com/4WEB1)",
@@ -34759,7 +34759,7 @@
   },
   {
     "displayName": "小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて",
-    "langName": "สไตล์โปสเตอร์ Super Famicom",
+    "langName": "โปสเตอร์สไตล์ซูเปอร์แฟมิคอม (SFC)",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @lilimliliychan (https://x.com/lilimliliychan)",
@@ -34775,7 +34775,7 @@
   },
   {
     "displayName": "一幅超现实主义数字插画风格,采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中,四周环绕着色彩鲜艳的星云与气泡。画面中央还站着一个小人,背对观众,神情平静地仰望空中这条巨大的锦鲤,锦鲤头向下看着小人。整体画面呈现出强烈的大小对比,氛围空灵又梦幻。比例9:16",
-    "langName": "ภาพประกอบเนบิวลาปลาคาร์ปแบบเหนือจริง",
+    "langName": "ภาพประกอบเนบิวลาปลาคาร์ปสไตล์เซอร์เรียล",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34783,7 +34783,7 @@
   },
   {
     "displayName": "纯黑深邃底色,一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端,构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟,内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列,前景有白鹤与湖面,远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀,东方美学与现代意象交融,8K 超高清渲染,比例 9:16。",
-    "langName": "โปสเตอร์ความงาม Guangzhou เส้นโค้งหมึก",
+    "langName": "โปสเตอร์สุนทรียภาพเส้นหมึกเมืองกว่างโจว",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34791,7 +34791,7 @@
   },
   {
     "displayName": "广东省城市足球超级联赛（粤超）邀请函海报设计,比例 9:16。S 型流动构图,以发光足球和动态能量流贯穿画面,沿动线融合广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑、佛山武术剪影、中山文化符号、潮汕英歌舞与清远山水。现代国潮高级海报风格,中国红主视觉,青蓝辅助,金色高光,带完整中文排版与电影级光影。",
-    "langName": "โปสเตอร์เชิญ Super League Guangdong",
+    "langName": "โปสเตอร์เทียบเชิญกวางตุ้งซูเปอร์ลีก",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34799,7 +34799,7 @@
   },
   {
     "displayName": "一张充满新春喜庆但高雅的 2026 广州城市宣传海报,9:16 竖版,双重曝光,S 型流动构图。纯白纹理背景,右下角微缩传统服饰人物挥舞长红绸,红绸变形成山脉河流,内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。",
-    "langName": "โปสเตอร์โปรโมต Guangzhou ฤดูใบไม้ผลิ 2026",
+    "langName": "โปสเตอร์โปรโมตกว่างโจว ฤดูใบไม้ผลิ 2026",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @grok (https://x.com/grok)",
@@ -34807,7 +34807,7 @@
   },
   {
     "displayName": "收藏版史诗海报,人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报加梦幻水彩插画风,安静、宏大、神圣、怀旧,带纸张颗粒、轻雾感、飞白刷痕与高级留白。",
-    "langName": "โปสเตอร์โลก silhouette แบบ epic",
+    "langName": "ภาพเงาดำจักรวาลแบบมหากาพย์",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @Ghhhh3owi (https://x.com/Ghhhh3owi)",
@@ -34815,7 +34815,7 @@
   },
   {
     "displayName": "极简主义,新中式风格立体图形设计,图像下端有楷体中国文字：“东方美学”,“2026/04/18”,署名 “CHINA”,和“@LIYUE\"；\n平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画,不规则的撕纸效果；\n中国的神兽：穷奇,身形图案完整,美轮美奂,线条柔美灵动,眼睛炯炯有神,威严的神态,优雅的姿势,奢华装饰艺术,中国传统纹饰；\n荧光蓝色线条,0.5mm极细金色金属质感勾边,泼白墨大笔触,色彩渲染,红底,蓝色的浪漫诗意视觉；\n冷暖光交织的梦幻唯美场景,强烈的光影对比氛围,花轻舞的时光叙事,东风禅意,画面有大面积留白,框架构图,底部留白,细节清晰。",
-    "langName": "โปสเตอร์ความงามตะวันออก Qiongqi",
+    "langName": "โปสเตอร์สุนทรียศาสตร์ตะวันออกสิ่งมีชีวิตฉงฉี",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34823,7 +34823,7 @@
   },
   {
     "displayName": "以珠江新城现代都市景观为灵感的剪纸艺术,通过精巧的镂空手法在一整幅纸上,立体刻画广州塔、东西双塔等地标建筑与繁华城景。\n所有建筑与元素均以流畅的线条与结构相连,无孤立部分,构成一幅完整的都市画卷。\n画面采用金属箔或光泽纸材质,表面带有细腻的明暗光泽,在光照下呈现柔和的高光与阴影,仿佛被城市灯光轻轻照亮。\n背景以虚化的珠江新城天际线为衬,点缀隐约可见的花城广场与树木轮廓,整体透出现代浪漫的氛围。\n作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点,象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉,细节丰富,真实而富有艺术感染力。",
-    "langName": "โปสเตอร์เมือง Guangzhou แบบตัดกระดาษ",
+    "langName": "โปสเตอร์เมืองกว่างโจวแบบตัดกระดาษ",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34839,7 +34839,7 @@
   },
   {
     "displayName": "Ilustración en acuarela de estilo onírico de [sujeto],con estética impresionista ligera,pinceladas sueltas y lavados translúcidos en tonos [color1] y [color2]. Difuminado suave sobre textura de papel prensado en frío,iluminación delicada,composición limpia,enfoque minimalista,sensación de calma,ligereza y belleza efímera,alta calidad,estilo editorial.",
-    "langName": "ภาพประกอบ editorial สีน้ำแบบฝัน",
+    "langName": "ภาพประกอบสไตล์นิตยสาร สีน้ำแบบฝัน",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @hmontilla_ (https://x.com/hmontilla_)",
@@ -34879,7 +34879,7 @@
   },
   {
     "displayName": "以涂鸦速写风表现【一个厉害的AI builder】。",
-    "langName": "ภาพ doodle ผู้สร้าง AI",
+    "langName": "ภาพดูเดิลสเก็ตช์ AI บิลเดอร์",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @opc_8838 (https://x.com/opc_8838)",
@@ -34895,7 +34895,7 @@
   },
   {
     "displayName": "请根据【主题】生成一张高质量竖版「科普百科图」。 \n\n这张图不是普通海报,也不是单纯插画,而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。\n\n请让画面包含:\n- 一个清晰漂亮的主题主视觉\n- 若干局部特征放大细节\n- 多个圆角模块化信息分区\n- 清楚的标题层级与重点标签\n- 简洁但丰富的百科内容\n- 可视化评分、要点总结或Top 5模块\n\n内容栏目请根据主题自动适配,优先从这些方向中选择并合理组合:\n基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。\n\n视觉要求:\n浅色干净背景,柔和配色,轻阴影,精致小图标,圆角信息框,整洁排版,信息密度高但不拥挤,阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡,而不是广告图。\n\n请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。",
-    "langName": "Infographic สารานุกรมวิทยาศาสตร์",
+    "langName": "อินโฟกราฟิกสารานุกรมวิทยาศาสตร์",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @MrLarus (https://x.com/MrLarus)",
@@ -34919,7 +34919,7 @@
   },
   {
     "displayName": "平面插画,东方幻想风格高端城市海报设计,竖版9:16构图,整体采用对角线+S型流动构图,从左下向右上延展,画面以深邃黑色为背景,自上而下渐变至浓烈暗红色,形成强烈冷暖对比与空间纵深,背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿,自底部向上延伸,具有流体质感、粒子光效与渐变高光,局部带细微能量碎屑与体积光。\n\n金色流光中逐层浮现广州城市地标建筑群:广州塔为视觉核心,比例突出,周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素,建筑采用“精细线描 + 金色发光体块”表现,轮廓清晰、细节丰富,在金色光晕映衬下仿佛悬浮于虚空,形成超现实空间层次,远景轻微雾化增强纵深感。\n\n画面底部为一位东方白发女性形象,长发飘逸,如烟似雾,与金色流光自然衔接并逐渐融合,发丝半透明带渐变光感,姿态柔美,双目微闭,神情宁静,怀抱一束多彩鲜花,花间点缀微光粒子与星点效果,象征人与城市能量的精神连接,人物细节适度简化以突出整体设计感。\n\n光影集中于金色流线、建筑与人物轮廓,形成强烈明暗对比与视觉聚焦,整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底,高亮鎏金为主视觉强调,金色具备丰富明暗层次,辅以小面积高饱和花束色彩点缀,整体高级克制。\n\n页面文字与画面融合排版:顶部居中宋体大字“广州·中国”,下方小字“2026/04/20”,再下方小字“LIYUE”,文字采用淡金色或柔和暖白色,与整体光影统一。高品质细节,电影级光影表现,体积光与粒子细节丰富,画面干净无噪点,超高清8K分辨率,商业级海报质感。",
-    "langName": "โปสเตอร์เมือง Guangzhou แนว dark-fantasy",
+    "langName": "โปสเตอร์เมืองกว่างโจวสไตล์ดาร์กแฟนตาซี",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34935,7 +34935,7 @@
   },
   {
     "displayName": "少し暑くなってきた今の時期に、さわやかにさっぱりしたい、みずみずしさ、みたいなところをもっと強く感じたい。冷たいうどんやナス、つゆを口に含んだ時の爽快感、みたいなものをもっと感じるように",
-    "langName": "โฆษณา udon ฤดูร้อนสดชื่น",
+    "langName": "โฆษณาอุด้งฤดูร้อนสดชื่น",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @genel_ai (https://x.com/genel_ai)",
@@ -34951,7 +34951,7 @@
   },
   {
     "displayName": "A refined 2026 Silicon Valley city promotional poster with a futuristic yet elegant atmosphere.\n\nDouble exposure composition,preserving an S-shaped sense of flowing movement. On a pure white textured background,in the lower-right corner,a miniature figure dressed in sleek modern techwear is releasing a long ribbon of luminous silver-blue light. The ribbon flows gracefully through the air,showing a soft silk-like texture,and as it drifts toward the upper-left,it magically transforms into a grand landscape of rolling hills,coastline,data streams,and illuminated urban terrain.\n\nWithin this flowing “river of light,” overlay a hand-drawn panoramic map of Silicon Valley,blending technology,nature,innovation,and California sunlight. The scene feels visionary,expansive,sophisticated,and inspiring.\n\nInclude iconic Silicon Valley and Bay Area elements: Stanford University arches,Apple Park,Google campus-inspired buildings,Meta-like glass offices,Tesla-style innovation imagery,venture capital offices on Sand Hill Road,Palo Alto tree-lined streets,San Jose skyline,the Santa Cruz Mountains,San Francisco Bay,highways,autonomous vehicles,startup labs,semiconductor patterns,AI data centers,and subtle circuit-board textures.\n\nSurrounded by soft mist,golden California light,floating clouds,and delicate digital particles. Rich colors,complex structure,highly detailed,grand and breathtaking,yet still fresh and minimal because of the large areas of white space.\n\nIn the lower-left corner,elegant typography reads “SILICON VALLEY 2026” with a vertical promotional slogan: “Where Ideas Shape Tomorrow.” Beautiful editorial layout,graceful spacing,clear and complete lettering,premium city branding poster,cinematic lighting,sophisticated details,9:16 aspect ratio.",
-    "langName": "โปสเตอร์โปรโมต Silicon Valley 2026",
+    "langName": "โปสเตอร์โปรโมตซิลิคอนแวลลีย์ 2026",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @carsonyungos (https://x.com/carsonyungos)",
@@ -34967,7 +34967,7 @@
   },
   {
     "displayName": "围绕【主题】自动生成一张顶级暗黑史诗概念海报 / 电影感信息图海报。\n\n唯一需要输入的变量只有:\n【主题】:___特朗普的思考____ \n\n除【主题】之外,其余全部由 AI 自动适配完成,包括但不限于:\n- 核心主体(自动判断更适合人物、守护者、战士、产品、器物、雕像、抽象象征或其他主视觉对象)\n- 中央承载结构(自动判断更适合王座、石座、祭坛、机械基座、遗迹、高台或其他支撑体)\n- 环境空间(自动判断更适合洞穴、神殿、废墟、深渊、地下宫殿、密室或其他封闭史诗空间)\n- 上方开口与光源形式(自动判断更适合月光、神光、能量束、审判之光、圣光或其他单一强光)\n- 象征元素(自动判断更适合骷髅、徽记、残碑、纹章、符文、能量环、神性符号等)\n- 色彩体系\n- 材质组合\n- 标题、副标题、辅助文案\n- 排版与整体叙事气质\n\n【总风格】\n高预算 90 年代好莱坞史诗大片海报气质,融合 cinematic matte painting、超写实摄影质感、极强明暗对比、厚重空间叙事、暗黑英雄主义与仪式感构图。整体必须像一张真正的电影主海报,而不是普通插画或电商图。\n\n【核心结构锁定】\n整张海报必须保留以下结构基因:\n1. 一个巨大、压迫感极强的黑暗封闭空间\n2. 一束从上方斜向切入的强烈体积光,作为画面的第一视觉秩序\n3. 中央偏右或光束终点位置的核心主体与承载结构\n4. 左下角作为高密度标题与信息锚点\n5. 四周保留大量纯黑或近黑负空间,形成电影感呼吸区\n\n【自动适配规则】\nAI 必须依据【主题】自动推导最适合的视觉系统:\n- 如果【主题】偏暗黑英雄、复仇、正义、孤独、宿命,则自动偏向石质王座、孤高人物、冷色神光、废墟或洞穴感空间\n- 如果【主题】偏神秘、幽灵、潜行、幻影、夜行,则自动偏向月光、迷雾、冷蓝色体积光、深渊式黑暗空间\n- 如果【主题】偏权力、统治、王者、秩序,则自动强化 throne / altar / crown-like symbol / ritual space 的表达\n- 如果【主题】偏科技、AI、未来、机械,则自动将王座和空间替换为机械神座、能量基座、金属洞窟、工业神殿等未来化形态\n- 如果【主题】偏产品、品牌、器物,则自动把核心主体替换为最合适的 hero object,并保留被神光审判式凸显的史诗构图\n\n【画布与色彩系统】\n- 背景底层必须是极深、近乎吞噬一切的黑暗空间\n- 主环境色由 AI 根据【主题】自动决定,但整体必须克制,以暗色为主\n- 强光区域色彩必须高度集中,只服务于体积光与主体高光\n- 主题色 / 强调色只能集中用于主视觉核心,不允许全画面泛滥\n- 必须建立明确的“黑暗底色 + 单一主光 + 少量主题强调色”的层级秩序\n\n【构图与视觉重力】\n- 采用强烈的斜向张力与向中心汇聚的视觉引导\n- 视觉重力从上方光源强势落下,最终压在核心主体之上\n- 主体必须处于被命运、审判、神性或权力照中的位置\n- 边缘必须自然融入黑暗,不能出现无意义背景填充\n- 所有元素必须服务于唯一的主叙事核心\n\n【材质与光影】\n- 不使用轮廓线,不使用平面化描边\n- 完全依赖体积光、阴影切割、反射、高光、雾气、粉尘、湿润岩石或其他真实材质来建构画面\n- 材质必须形成明显对比,例如:\n  粗粝岩石 / 冷硬金属 / 柔韧织物 / 古老石雕 / 湿润表面 / 尘雾光柱\n- 光束必须具有强烈 Tyndall effect,真实、厚重、可感知体积密度\n\n【排版系统】\n- 整体 80% 视觉,20% 文字\n- AI 根据【主题】自动生成主标题、副标题和底部信息块\n- 主标题应尽量简洁、有气势、有电影海报感\n- 若主题更适合中文,则优先中文;若更适合英文,则自动英文;也可双语,但必须统一\n- 主标题可沿光束垂直排布,仿佛由光本身构成\n- 左下角设置一个高密度信息模块,包括副标题、小字信息、电影 credits 风格占位文字或品牌说明\n- 文字必须锐利、干净、真实嵌入环境,不得廉价漂浮\n\n【模块结构 —— 必须严格保持 3 块】\n[MOD 1: TOP-TO-CENTER BEAM]\n从顶部开口斜向切下的巨大体积光柱,作为第一视觉通道,并承载主标题或主视觉文字。\n\n[MOD 2: CENTER-RIGHT CORE]\n位于光束终点的核心主体与承载结构,形成整张海报的权力中心 / 命运中心 / 叙事中心。\n\n[MOD 3: BOTTOM-LEFT TEXT]\n位于左下角负空间中的高密度排版区,包含副标题、说明文字、credits 风格信息块、品牌信息或活动信息。\n\n【作者署名】\n在底部角落自然加入作者署名:\n@a9quant\n署名要小而清晰,精致、克制、高级,不喧宾夺主,像正式电影概念海报或艺术作品落款。\n\n【输出要求】\n输出为单张统一构图海报。\n所有视觉系统必须内部一致,不能有风格污染。\n画面必须具备:暗黑感、史诗感、压迫感、仪式感、命运感、电影完成度。\n最大细节密度,超清,电影级,印刷级,高端成片质感。",
-    "langName": "โปสเตอร์แนวคิด epic มืด",
+    "langName": "โปสเตอร์แนวคิดมหากาพย์ด้านมืด",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @A9Quant (https://x.com/A9Quant)",
@@ -34975,7 +34975,7 @@
   },
   {
     "displayName": "ピラティス教室の広告画像を作成したい テキストはよりユーザーが登録をするのに惹かれるような文言にし、画像内には女性がピラティスを実際に行っている様子を映して",
-    "langName": "โปสเตอร์โฆษณาสตูดิโอ Pilates",
+    "langName": "โปสเตอร์โฆษณาสตูดิโอพิลาทิส",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @ck_igarashi (https://x.com/ck_igarashi)",
@@ -34999,7 +34999,7 @@
   },
   {
     "displayName": "360 equirectangular image of Istiklal Street,Istanbul in 1900",
-    "langName": "พรอมต์พาโนรามาถนน Istiklal ปี 1900",
+    "langName": "พรอมต์พาโนรามาถนนอิสติกลาล ปี 1900",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @ai_gezgini (https://x.com/ai_gezgini)",
@@ -35015,7 +35015,7 @@
   },
   {
     "displayName": "用可爱的风格讲述中国远征军的历史故事\n用波普风格讲述金刚经",
-    "langName": "Storyboard กองกำลังสำรวจจีนน่ารัก",
+    "langName": "สตอรี่บอร์ดกองกำลังสำรวจจีนน่ารัก",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @RainHuangapp (https://x.com/RainHuangapp)",
@@ -35031,7 +35031,7 @@
   },
   {
     "displayName": "请围绕【主题】自动生成一张顶级概念海报 / 信息图式电影海报。\n\n唯一输入变量只有:\n【主题】:__中国历史上的皇帝排名_         \n\n要求 AI 根据这个主题,自动推导并统一设计以下全部视觉系统,不需要我额外指定:\n- 核心主体(可以自动判断更适合人物、产品、建筑、器物、符号、场景或抽象意象)\n- 底部支撑结构\n- 上方悬浮符号或精神象征\n- 场景包裹元素\n- 隐喻系统\n- 色彩层级\n- 材质对比\n- 光影逻辑\n- 标题、副标题、辅助文案\n- 品牌感与高级感表达方式\n\n最终画面必须是:\n一张震撼、精密、统一、电影级、超高细节、可用于高端印刷的概念主视觉海报。\n\n【总风格】\n超写实 3D 商业 CGI 渲染,融合电影级布光、奢侈品视觉语言、未来感概念设计与史诗级构图。画面必须具有“唯一主视觉核心”,不能杂乱,不能像拼贴,不能像普通电商海报。\n\n【自动推导规则】\nAI 必须依据【主题】自动决定最合适的:\n1. 核心视觉隐喻\n2. 主体类型与姿态\n3. 支撑结构形式\n4. 悬浮元素形式\n5. 场景外壳与空间氛围\n6. 主色、辅色、强调色\n7. 材质组合\n8. 文字气质与版式风格\n\n例如:\n- 如果主题偏权力、秩序、资本、统治,则自动偏向王座、冠冕、机械、神殿、红幕、金属、权力结构\n- 如果主题偏科技、AI、芯片、未来,则自动偏向机械结构、能量核心、光束、深色金属、全息感\n- 如果主题偏奢侈品、高定、稀缺、收藏,则自动偏向珠宝、镜面材质、黑金体系、展台、博物馆式布光\n- 如果主题偏人物、IP、角色,则自动以人物为主视觉核心,并自动匹配对应世界观与象征系统\n- 如果主题偏城市、文明、史诗、命运,则自动转化为宏大叙事型空间结构与仪式感场景\n\n【构图规则】\n- 绝对高级感\n- 强烈中心秩序,整体统一\n- 允许中轴对称或接近中轴的史诗级构图\n- 视觉重力明确,从上到下形成清晰的层级落点\n- 边缘负空间干净、克制、有呼吸感\n- 不允许无意义装饰,不允许风格污染,不允许多个系统互相打架\n\n【视觉质量】\n- 超高细节\n- 体积光清晰\n- 材质真实\n- 反射、折射、阴影、雾气、景深自然\n- 每个元素都像经过工业级视觉总监审美控制\n- 整体达到高端品牌 campaign key visual / luxury invitation poster / conceptual editorial poster 水准\n\n【排版系统】\n- 整体为 90% 视觉,10% 文字\n- AI 根据【主题】自动生成最匹配的主标题和副标题\n- 标题必须简洁、锋利、有气势\n- 文案分布在安全负空间内,不压主体\n- 若主题适合中文,则优先生成中文标题;若主题更适合英文,则自动生成英文标题;也可中英结合,但必须统一高级\n- 文字必须尽量少而准,不要堆字\n\n【署名要求】\n在画面底部角落自然加入作者署名:\n@a9quant\n署名要小,但清晰、精致、高级,不喧宾夺主,像顶级视觉作品中的正式作者落款。\n\n【输出要求】\n输出为单张统一构图海报。\n自动根据【主题】完成全部视觉决策。\n画面必须具备史诗感、秩序感、控制力、仪式感、商业完成度。\n最大细节密度,超清,电影级,印刷级,高端成片质感。",
-    "langName": "โปสเตอร์แนวคิด infographic แบบซีนีมาติก",
+    "langName": "โปสเตอร์แนวคิดอินโฟกราฟิกแบบภาพยนตร์",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @A9Quant (https://x.com/A9Quant)",
@@ -35039,7 +35039,7 @@
   },
   {
     "displayName": "A wooden bookshelf consisting of three shelves: On the top shelf,there should be one book,on the second shelf,there should be three books,and on the bottom shelf,there should be seven books.",
-    "langName": "ทดสอบ prompt ชั้นหนังสือไม้",
+    "langName": "ทดสอบพรอมต์ชั้นหนังสือไม้",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @chetaslua (https://x.com/chetaslua)",
@@ -35047,7 +35047,7 @@
   },
   {
     "displayName": "请根据【主题：xxx】自动生成一张高审美的“轮廓宇宙 / 收藏版叙事海报”风格作品。不要将画面局限于固定器物或常见容器,不要优先默认瓶子、沙漏、玻璃罩、怀表之类的常规载体,而是由 AI 根据主题自行判断并选择一个最契合、最有象征意义、轮廓最强、最适合承载完整叙事世界的主轮廓载体。这个主轮廓可以是器物、建筑、门、塔、拱门、穹顶、楼梯井、长廊、雕像、侧脸、眼睛、手掌、头骨、羽翼、面具、镜面、王座、圆环、裂缝、光幕、阴影、几何结构、空间切面、舞台框景、抽象符号或其他更有创意与主题代表性的视觉轮廓,要求合理布局。优先选择最能放大主题气质、最能形成强烈视觉记忆点、最能体现史诗感、神秘感、诗意感或设计感的轮廓,而不是最安全、最普通、最常见的容器。\n\n画面的核心不是简单把世界装进某个物体里,而是让完整的主题世界自然生长在这个主轮廓之中、之内、之上、之边界里或与其结构融为一体,形成一种“主题宇宙依附于一个象征性轮廓展开”的高级叙事效果。主轮廓必须清晰、优雅、有辨识度,并在整体构图中占据核心地位。轮廓内部或边界中需要自动生成与主题强绑定的完整叙事世界,内容应当丰富、饱满、层次清晰,包括最能代表主题的标志性场景、核心建筑或空间结构、象征符号与隐喻元素、角色关系或文明痕迹、远景中景近景的空间递进、具有命运感和情绪张力的氛围层次,以及门、台阶、桥梁、水面、烟雾、路径、光源、遗迹、机械结构、自然景观、抽象形态、生物或道具等叙事细节。所有元素必须统一、自然、有主次、有层级地融合,像一个完整世界真实孕育在这个轮廓结构之中,而不是简单拼贴、裁切填充、素材堆叠或模板化背景。\n\n整体构图需要具有强烈的收藏版海报气质与高级设计感,大结构稳定,主轮廓强烈明确,内部世界具有纵深、秩序和呼吸感,细节丰富但不拥挤,内容丰满但不杂乱,可以适度加入小比例人物剪影、远处建筑、光柱、门洞、桥、阶梯、回廊、倒影、天光或远景结构来增强尺度感、故事感与史诗感。整体画面要安静、宏大、凝练、富有余味,不要平均铺满,不要廉价热闹,不要无重点堆砌。\n\n风格融合收藏版电影海报构图、高级叙事型视觉设计、梦幻水彩质感与纸张印刷品气质,强调纸张颗粒感、边缘飞白、水彩刷痕、轻微晕染、空气透视、柔和雾化、局部体积光、光雾穿透、大面积留白与克制版式,让画面看起来像设计师完成的高端收藏版视觉作品,而不是普通 AI 跑图。整体气质要高级、诗意、宏大、神圣、怀旧、安静、具有传说感和叙事感。\n\n色彩由 AI 根据主题自动判断并匹配最合适的高级配色方案,但必须保持统一、克制、耐看、低饱和、高级,不要杂乱高饱和,不要廉价霓虹感,不要塑料数码感。配色可以围绕黑金灰、冷蓝灰、雾白灰、褐红米白、暗铜、旧纸色、深海蓝、暮色紫、银灰等体系自由变化,但必须始终服务主题,并保持海报级审美与整体和谐。\n\n最终要求：第一眼有强烈的主题识别度和轮廓记忆点,第二眼有完整丰富的叙事世界,第三眼仍有细节和余味。轮廓选择必须具有创意和主题匹配度,尽量避免重复、保守、常见的容器套路,优先选择更有象征性、更有空间感、更有设计潜力的轮廓形式。不要普通背景拼接,不要生硬裁切,不要模板化奇幻素材,不要游戏宣传图感,不要过度卡通化,不要过度写实导致失去艺术感,不要形式大于内容。如果合适,可以自然加入低调克制的标题、编号、签名或落款,让它更像收藏版海报设计的一部分,但不要喧宾夺主。",
-    "langName": "โปสเตอร์เล่าเรื่องจักรวาล silhouette",
+    "langName": "โปสเตอร์เล่าเรื่องจักรวาลภาพเงาดำ",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @MrLarus (https://x.com/MrLarus)",
@@ -35071,7 +35071,7 @@
   },
   {
     "displayName": "在计算机博物馆里,一个程序员在展厅中央,正在演示C语言编程,很多参观者在围观,屏幕上的代码清晰可见。旁边的牌子写着:古法编程,现场表演。2D卡通画风,16:9",
-    "langName": "การ์ตูนพิพิธภัณฑ์การเขียนโปรแกรม retro",
+    "langName": "การ์ตูนพิพิธภัณฑ์การเขียนโปรแกรมย้อนยุค",
     "object": "โชว์เคส",
     "attribute": "โปสเตอร์",
     "description": "by @XiaohuiAI666 (https://x.com/XiaohuiAI666)",
@@ -35095,7 +35095,7 @@
   },
   {
     "displayName": "Show me the attached image as a snapshot from an actual anime",
-    "langName": "การแปลงภาพ snapshot อนิเมะ",
+    "langName": "การแปลงภาพสแนปช็อตเป็นอนิเมะ",
     "object": "โชว์เคส",
     "attribute": "ตัวละคร",
     "description": "by @Thereallo1026 (https://x.com/Thereallo1026)",
@@ -35111,7 +35111,7 @@
   },
   {
     "displayName": "最新モデルの画像生成ツールを使用して、\nこのちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）\nギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。\n\n「ここに自己紹介」\n\n名前:（ここに名前） \nイメージカラー:（ここに色） \n身長:（ここに身長）cm \n体重:（ここに体重）kg\nキャッチコピー:”「ここにセリフ」”",
-    "langName": "หน้าแนะนำตัวละครเกม gal",
+    "langName": "หน้าแนะนำตัวละครเกมจีบสาว (Galgame)",
     "object": "โชว์เคส",
     "attribute": "ตัวละคร",
     "description": "by @09lyco (https://x.com/09lyco)",
@@ -35119,7 +35119,7 @@
   },
   {
     "displayName": "このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 \n・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 \n・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる \n・全体は整理されたレイアウト\n（白背景、図解風） \n・アスペクト比16：9\n\n高解像度、プロのコンセプトアートスタイル",
-    "langName": "แผ่นข้อมูลตัวละครทางการ (JP)",
+    "langName": "ชีทตั้งค่าตัวละครอย่างเป็นทางการ (สไตล์ญี่ปุ่น)",
     "object": "โชว์เคส",
     "attribute": "ตัวละคร",
     "description": "by @Toshi_nyaruo_AI (https://x.com/Toshi_nyaruo_AI)",
@@ -35127,7 +35127,7 @@
   },
   {
     "displayName": "A mecha girl mid-teens,pale skin smudged with soot and salt spray,sharp amber eyes with glowing HUD reticles,waist-length ash-white hair tied in a high ponytail whipping in the sea wind,matte gunmetal exoskeleton armor plating her shoulders,forearms and shins,exposed hydraulic pistons at the joints,chest rig with glowing cyan coolant lines,oversized oil-stained hangar jacket half slipping off one shoulder,a massive rail cannon resting on her right shoulder,dog tags and frayed red ribbon at her collar,standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water,weight shifted onto one leg,left hand gripping the cannon strap,head turned slightly toward camera with a quiet defiant stare,steam venting from her back thrusters,her ponytail and jacket streaming sideways in the salt wind,a vast derelict sea-city at dusk,colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes,bone-white monolithic towers fused with barnacled steel,cyclopean ring-shaped constructs canted at broken angles,rusted skeletal gantries threaded with dead cables,dark swells rolling between the pylons,shipwrecks half-swallowed at their feet,thick sea fog clinging to the bases while the upper structures pierce into a bruised sky,scattered faint lights blinking high in the towers like distant eyes,moody low-key lighting,cold teal ambient from the overcast sky,warm amber sodium glow leaking from a distant structure camera-right,hard backlight from a low sun behind the towers carving her silhouette,volumetric god rays cutting through sea mist,wet specular highlights on her armor,35mm anamorphic lens,slight low angle looking up past her shoulder toward the structures,medium-wide shot,shallow depth of field with foreground rust in soft focus,horizontal lens flares,fine atmospheric haze compressing the distant megastructures into layered silhouettes,cinematic anime key visual,painterly digital illustration with crisp line art,desaturated oceanic palette of teal,bone-white and rust punched by small warm accent lights,film grain,high-contrast editorial poster aesthetic . Format 16:9.",
-    "langName": "ภาพหลักเด็กสาว mecha เมืองทะเล",
+    "langName": "ภาพหลักสาวน้อยหุ่นยนต์เมคา เมืองริมทะเล",
     "object": "โชว์เคส",
     "attribute": "ตัวละคร",
     "description": "by @old_pgmrs_will (https://x.com/old_pgmrs_will)",
@@ -35135,7 +35135,7 @@
   },
   {
     "displayName": "生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片,每张卡牌上写上对应的中文名,每行4个,宽高比16:9。",
-    "langName": "กริดการ์ด Gold Saints Saint Seiya",
+    "langName": "กริดการ์ดโกลด์เซนต์ (เซนต์เซย่า)",
     "object": "โชว์เคส",
     "attribute": "ตัวละคร",
     "description": "by @songguoxiansen (https://x.com/songguoxiansen)",
@@ -35151,7 +35151,7 @@
   },
   {
     "displayName": "用这种风格帮我生成一套UI设计系统,包含网页、移动端、卡片、控件、按钮 以及其它",
-    "langName": "สร้างการออกแบบ UI ด้วย prompt เดียว",
+    "langName": "สร้างการออกแบบ UI ด้วยพรอมต์เดียว",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @austinit (https://x.com/austinit)",
@@ -35159,7 +35159,7 @@
   },
   {
     "displayName": "Amateur iPhone photo at Apple Park during the iPhone 20 keynote,Tim Cook presenting on stage. Shot from the crowd at a distance",
-    "langName": "ภาพ Keynote iPhone แบบสมัครเล่น",
+    "langName": "ภาพคีย์โน้ต iPhone แบบมือสมัครเล่น",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @patrickassale (https://x.com/patrickassale)",
@@ -35191,7 +35191,7 @@
   },
   {
     "displayName": "9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊！",
-    "langName": "ภาพหน้าจอไลฟ์สด Douyin ของ Liu Yifei",
+    "langName": "ภาพหน้าจอไลฟ์สตรีม Douyin / TikTok ของหลิวอี้เฟย",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @alanblogsooo (https://x.com/alanblogsooo)",
@@ -35199,7 +35199,7 @@
   },
   {
     "displayName": "태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.",
-    "langName": "หน้า X ของพระเจ้า Taejo Yi Seong-gye",
+    "langName": "หน้า X ของพระเจ้าแทโจ อีซ็องกเย",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @SKA_Neotype (https://x.com/SKA_Neotype)",
@@ -35207,7 +35207,7 @@
   },
   {
     "displayName": "用这种风格帮我生成一套UI设计系统,包含网页、移动端、卡片、控件、按钮以及其它。把这套视觉风格作为参考生成网页。我尝试了宇宙、飞行、蝴蝶主题。",
-    "langName": "ระบบออกแบบ style-to-UI",
+    "langName": "ระบบออกแบบเปลี่ยนสไตล์เป็น UI",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @stark_nico99 (https://x.com/stark_nico99)",
@@ -35215,7 +35215,7 @@
   },
   {
     "displayName": "「いらすとや」のほのぼのとした雰囲気と、「霞ヶ関スライド」の圧倒的な情報密度を融合させた、桃太郎の解説スライド（ポンチ絵）を作成して",
-    "langName": "สไลด์อธิบาย Momotaro",
+    "langName": "สไลด์อธิบายโมโมทาโร่",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @yammamon (https://x.com/yammamon)",
@@ -35223,7 +35223,7 @@
   },
   {
     "displayName": "请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。\n\n要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构,用户无需再提供其他信息。\n\n整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图,而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感,整体高级、克制、专业、可收藏。\n\n版式固定为：\n- 顶部：中文主标题 + 副标题 + 导语\n- 左侧：结构拆解区,中文引线标注关键部件,并配局部特写\n- 右上：材质 / 工艺 / 质感区,展示真实纹理小样并附说明\n- 右中：纹样 / 色彩 / 寓意区,展示主色板、纹样样本和文化解释\n- 底部：穿着顺序 / 构成流程图 + 核心特征总结\n\n若主题适合人物展示,则以真实人物全身站姿为中央主体；若更适合器物或单体结构,则改为中心主体拆解图,但整体仍保持完整中文信息图形式。所有文字必须为简体中文,清晰、规整、可读,不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。\n\n避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。",
-    "langName": "Infographic วิเคราะห์ชุดฮั่นฝูสไตล์พิพิธภัณฑ์",
+    "langName": "อินโฟกราฟิกวิเคราะห์ชุดฮั่นฝูสไตล์พิพิธภัณฑ์",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @MrLarus (https://x.com/MrLarus)",
@@ -35231,7 +35231,7 @@
   },
   {
     "displayName": "この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。",
-    "langName": "หน้าจอสถานะ RPG ญี่ปุ่น",
+    "langName": "หน้าจอสถานะเกม RPG สไตล์ญี่ปุ่น",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @Kashiko_AIart (https://x.com/Kashiko_AIart)",
@@ -35239,7 +35239,7 @@
   },
   {
     "displayName": "玄武门之变的朋友圈",
-    "langName": "ฟีดโซเชียลประตู Xuanwu",
+    "langName": "ฟีดโซเชียลเหตุการณ์ประตูกวนอู",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @Tz_2022 (https://x.com/Tz_2022)",
@@ -35247,7 +35247,7 @@
   },
   {
     "displayName": "生成【城市】三天旅游攻略,就这么简单一句话",
-    "langName": "Infographic คู่มือท่องเที่ยวเมือง",
+    "langName": "อินโฟกราฟิกคู่มือท่องเที่ยวเมือง",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @MrLarus (https://x.com/MrLarus)",
@@ -35255,7 +35255,7 @@
   },
   {
     "displayName": "创作一幅超逼真的 3D 插画,描绘一个略微倾斜的 Twitter/X 个人资料页面,背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X 截图相似,包含真实的布局、认证徽章、粉丝统计、个人资料横幅和推文部分。\n\n个人资料详情:\n\n一位时尚的年轻男子,有着蓬松的亮黑色短发和白皙的皮肤,从个人资料页面的右侧撕开的纸片中跃然而出。他保留了原有的面部特征,只是将表情改为自然自信的微笑。他握着撕开的纸片边缘,纸屑四处飞溅,营造出强烈的 3D 突破效果。\n\n柔和的影棚灯光、电影级的阴影、景深、超高细节、清晰的焦点、逼真的皮肤、逼真的 UI 反射、优质的构图、4K 分辨率、逼真与微妙的皮克斯风格融合。\n\n重要提示:\n\n- 请勿更改头像\n\n- 保持 X UI 界面准确\n\n- 保留原有的面部特征\n\n- 角色为男性\n\n- 仅增强笑容\n\n- 确保所有中文文字清晰易读",
-    "langName": "Mockup โปรไฟล์ X 3D",
+    "langName": "ม็อกอัปโปรไฟล์ 3D X",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @GoSailGlobal (https://x.com/GoSailGlobal)",
@@ -35263,7 +35263,7 @@
   },
   {
     "displayName": "生成一张慈禧的X主页",
-    "langName": "หน้า X พระนางซูสีไทเฮา",
+    "langName": "หน้า X ของพระนางซูสีไทเฮา",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @Cryptohaifeng_ (https://x.com/Cryptohaifeng_)",
@@ -35287,7 +35287,7 @@
   },
   {
     "displayName": "GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください",
-    "langName": "โปสเตอร์ pop โปรโมต Don Quijote",
+    "langName": "โปสเตอร์ POP เขียนมือสไตล์ดองกิโฮเต้",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @loglogrog (https://x.com/loglogrog)",
@@ -35295,7 +35295,7 @@
   },
   {
     "displayName": "日本のソシャゲのガチャ画面を生成して、",
-    "langName": "หน้าจอเกม gacha ญี่ปุ่น",
+    "langName": "หน้าจอเกมกาชาญี่ปุ่น",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @the_wheel_2024 (https://x.com/the_wheel_2024)",
@@ -35303,7 +35303,7 @@
   },
   {
     "displayName": "A 9:16 vertical version,high-detail realistic style Chinese TikTok live screenshot,Elon Musk is talking to the mobile phone camera in the live broadcast room,excited,smiling,and the live atmosphere is warm and real. He held a white handwritten sign in one hand,which clearly said: \"Thank you Shinning\". There are obvious Chinese TikTok interface elements in the live broadcast screen,including likes,comments and share icons arranged vertically on the right,scrolling Chinese bullet screens and interactive comments below,and the \"live broadcast\" logo at the top,which looks like a real mobile phone screenshot. There is an eye-catching gift prompt special effect in the screen: \"Shinning sent TikTok No. 1\",with gift animation light effect and platform-style prompt box. Musk is in a professional live broadcast environment,with a mobile phone holder,a ring fill light and a desktop microphone in front of him. The background is a modern technology live broadcast room with bright lights and a slight neon atmosphere. The composition is real and natural,like the ongoing live screenshot of the Chinese short video platform. The interface information is rich but not messy,the characters are clear,the expression is vivid,the details are rich,the sense of real photography,the depth of field,high definition,cinematic,photorealistic,realistic livestream screenshot,social media UI,Chinese Douyin live room,detailed lighting,natural skin texture.\n\nNegative prompts:\n\nLow definition,blur,cartoon,illustration,too strong CG sense,two-dimensional,deformed fingers,wrong text,scrambled code,multiple mobile phones,multiple brands,character repetition,face collapse,facial features distortion,excessive skin polishing,overexposure,too dark,messy background,wrong UI,non-Chinese short video interface,too many English bullet screens,gift special effects are not obvious,cropping error,proportional error\n\nSupplementary reinforcement words:\n\nReal mobile phone screen recording screenshot feeling,the live broadcast UI is complete,the gift prompt box conforms to the style of the Chinese short video platform,the Chinese comment area is active,the number of people online in the live broadcast room is clearly displayed,and the time,power and signal bar are visible.",
-    "langName": "ภาพหน้าจอไลฟ์สด Douyin ของ Elon Musk",
+    "langName": "ภาพหน้าจอไลฟ์สตรีม Douyin / TikTok ของอีลอน มัสก์",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @Shinning1010 (https://x.com/Shinning1010)",
@@ -35311,7 +35311,7 @@
   },
   {
     "displayName": "9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊!",
-    "langName": "ภาพหน้าจอไลฟ์สด Douyin ของ Liu Yifei",
+    "langName": "ภาพหน้าจอไลฟ์สตรีม Douyin / TikTok ของหลิวอี้เฟย",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @kylegeeks (https://x.com/kylegeeks)",
@@ -35319,7 +35319,7 @@
   },
   {
     "displayName": "用未来都市风格生成UI设计系统,灵感来自赛博朋克城市夜景,包含霓虹灯、玻璃建筑反射、高对比光影,配色以紫色、蓝色、粉色霓虹为主,设计网页Dashboard、移动端界面、卡片、按钮、控件等,视觉炫酷、层次丰富、科技感极强",
-    "langName": "ระบบออกแบบ UI นีออน cyberpunk",
+    "langName": "ระบบออกแบบ UI นีออนไซเบอร์พังก์",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @AZLnfvp (https://x.com/AZLnfvp)",
@@ -35327,7 +35327,7 @@
   },
   {
     "displayName": "1、生成特朗普和金正恩在抖音直播间打PK的截图  \n2、生成不知火舞的小红书主页截图  \n3、生成图片: 手写在教室黑板上的出师表全文,真实感的粉笔字迹,晴朗白天用iPhone手机实拍  \n4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图,产品价格,产品细节,功能和使用场景等",
-    "langName": "ภาพหน้าจอ PK livestream Trump และ Kim",
+    "langName": "การดวลไลฟ์สดระหว่างทรัมป์กับคิม",
     "object": "โชว์เคส",
     "attribute": "UI",
     "description": "by @alanlovelq (https://x.com/alanlovelq)",
@@ -35343,7 +35343,7 @@
   },
   {
     "displayName": "私があなたをどんなふうに扱ってきたか、4 コマ漫画風に描いてください。まずは 800 字くらいのプロットをテキストで出して、私が「描いて」と言ったらプロットに沿った 4 コマ漫画を描いてください。",
-    "langName": "เอาต์พุต A/B Test ที่ลงชื่อ",
+    "langName": "การทดสอบ A/B พรอมต์การ์ตูน 4 ช่อง",
     "object": "โชว์เคส",
     "attribute": "ทดลอง",
     "description": "by @saskr_13 (https://x.com/saskr_13)",
@@ -35351,7 +35351,7 @@
   },
   {
     "displayName": "帮我生成xxxx真迹图片",
-    "langName": "ทดสอบ prompt ผลงานชิ้นเอกปลอม",
+    "langName": "ทดสอบพรอมต์ผลงานชิ้นเอกปลอม",
     "object": "โชว์เคส",
     "attribute": "ทดลอง",
     "description": "by @MrLarus (https://x.com/MrLarus)",
@@ -35359,7 +35359,7 @@
   },
   {
     "displayName": "counter strike in game screenshot,mixed with Terraria",
-    "langName": "ภาพหน้าจอ mashup Counter-Strike x Terraria",
+    "langName": "ภาพหน้าจอผสมผสาน Counter-Strike x Terraria",
     "object": "โชว์เคส",
     "attribute": "เกม",
     "description": "by @yssrski (https://x.com/yssrski)",

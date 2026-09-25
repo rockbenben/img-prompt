@@ -117,7 +117,12 @@
     "language": "Dil seç",
     "languageSearch": "Dil ara",
     "languageEmpty": "Eşleşen dil yok",
-    "skipToPrompt": "Prompt kutusuna atla"
+    "skipToPrompt": "Prompt kutusuna atla",
+    "qq": "QQ Grubu",
+    "lives": "Lives — Yaşam Simülatörü",
+    "learndata": "LearnData Açık Kaynak Notları",
+    "primary": "Ana gezinme",
+    "close": "Kapat"
   },
   "Guide": {
     "fallbackNotice": "Bu sayfa henüz dilinize çevrilmedi; İngilizce sürüm gösteriliyor."

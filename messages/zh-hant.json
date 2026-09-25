@@ -117,7 +117,12 @@
     "language": "選擇語言",
     "languageSearch": "搜尋語言",
     "languageEmpty": "沒有符合的語言",
-    "skipToPrompt": "跳到提示詞框"
+    "skipToPrompt": "跳到提示詞框",
+    "qq": "QQ 群組",
+    "lives": "千世書 人生模擬",
+    "learndata": "LearnData 開源筆記",
+    "primary": "主導航",
+    "close": "關閉"
   },
   "Guide": {
     "fallbackNotice": "此頁面尚未提供繁體中文版，目前顯示簡體中文版。"

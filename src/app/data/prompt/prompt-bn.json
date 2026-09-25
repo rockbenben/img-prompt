@@ -106,7 +106,7 @@
   },
   {
     "displayName": "milf",
-    "langName": "MILF",
+    "langName": "পরিপক্ক নারী",
     "object": "চরিত্র",
     "attribute": "মৌলিক",
     "preview": "https://img.aishort.top/imgprompt/20260207193855010.webp"
@@ -435,7 +435,7 @@
   },
   {
     "displayName": "cleric",
-    "langName": "পাদরি (খ্রিস্টান)",
+    "langName": "পাদ্রী / ধর্মগুরু",
     "object": "চরিত্র",
     "attribute": "পরিচয়",
     "preview": "https://img.aishort.top/imgprompt/20260208072159895.webp"
@@ -541,14 +541,14 @@
   },
   {
     "displayName": "otoko_no_ko",
-    "langName": "ওতোকোনোকো (নারীসুলভ চেহারার পুরুষ)",
+    "langName": "ওটোকোনোকো",
     "object": "চরিত্র",
     "attribute": "পরিচয়",
     "preview": "https://img.aishort.top/imgprompt/20260208074725601.webp"
   },
   {
     "displayName": "gyaru",
-    "langName": "হট গার্লস (জাপানি মেয়েরা)",
+    "langName": "গিয়ারু",
     "object": "চরিত্র",
     "attribute": "পরিচয়",
     "preview": "https://img.aishort.top/imgprompt/20260210193812753.webp"
@@ -562,14 +562,14 @@
   },
   {
     "displayName": "yaoi",
-    "langName": "সমকামী হও",
+    "langName": "ইয়াওই / BL",
     "object": "চরিত্র",
     "attribute": "পরিচয়",
     "preview": "https://img.aishort.top/imgprompt/20260208074725603.webp"
   },
   {
     "displayName": "yuri",
-    "langName": "লিলি",
+    "langName": "ইউরি / GL",
     "object": "চরিত্র",
     "attribute": "পরিচয়",
     "preview": "https://img.aishort.top/imgprompt/20260209061704191.webp"
@@ -604,7 +604,7 @@
   },
   {
     "displayName": "slam dunk",
-    "langName": "স্ল্যাম dunk",
+    "langName": "স্ল্যাম ডাঙ্ক",
     "object": "চরিত্র",
     "attribute": "অ্যানিমে",
     "preview": "https://img.aishort.top/imgprompt/20260210072537642.webp"
@@ -646,7 +646,7 @@
   },
   {
     "displayName": "mazinger",
-    "langName": "আশ্চর্য মহিলা",
+    "langName": "ম্যাজিঙ্গার জেড",
     "object": "চরিত্র",
     "attribute": "অ্যানিমে",
     "preview": "https://img.aishort.top/imgprompt/20260210072537640.webp"
@@ -758,7 +758,7 @@
   },
   {
     "displayName": "orc",
-    "langName": "orc",
+    "langName": "অর্ক",
     "object": "চরিত্র",
     "attribute": "অ্যানিমে",
     "preview": "https://img.aishort.top/imgprompt/20260209063108912.webp"
@@ -772,7 +772,7 @@
   },
   {
     "displayName": "elf",
-    "langName": "গবলিন",
+    "langName": "এল্ফ",
     "object": "চরিত্র",
     "attribute": "অ্যানিমে",
     "preview": "https://img.aishort.top/imgprompt/20260209063126234.webp"
@@ -793,7 +793,7 @@
   },
   {
     "displayName": "succubus",
-    "langName": "succubus",
+    "langName": "সাকিউবাস",
     "object": "চরিত্র",
     "attribute": "অ্যানিমে",
     "preview": "https://img.aishort.top/imgprompt/20260209063148926.webp"
@@ -828,14 +828,14 @@
   },
   {
     "displayName": "monster_girl",
-    "langName": "বিদেশীর মা",
+    "langName": "দানব কন্যা",
     "object": "চরিত্র",
     "attribute": "অ্যানিমে",
     "preview": "https://img.aishort.top/imgprompt/20260209063226407.webp"
   },
   {
     "displayName": "dominatrix",
-    "langName": "রানী (এসএম মিডিয়াম)",
+    "langName": "ডমিনেট্রিক্স",
     "object": "চরিত্র",
     "attribute": "অ্যানিমে",
     "preview": "https://img.aishort.top/imgprompt/20260209063233422.webp"
@@ -968,21 +968,21 @@
   },
   {
     "displayName": "horse_girl",
-    "langName": "মা নিয়াং",
+    "langName": "ঘোড়া কন্যা",
     "object": "চরিত্র",
     "attribute": "অ্যানিমে",
     "preview": "https://img.aishort.top/imgprompt/20260210072537637.webp"
   },
   {
     "displayName": "furry",
-    "langName": "orc",
+    "langName": "ফারি",
     "object": "চরিত্র",
     "attribute": "অ্যানিমে",
     "preview": "https://img.aishort.top/imgprompt/20260210072537632.webp"
   },
   {
     "displayName": "furry/orc",
-    "langName": "Orcs/Orcs",
+    "langName": "ফারি / ওর্ক",
     "object": "চরিত্র",
     "attribute": "অ্যানিমে",
     "preview": "https://img.aishort.top/imgprompt/20260210072537646.webp"
@@ -1010,14 +1010,14 @@
   },
   {
     "displayName": "mesugaki",
-    "langName": "মহিলা imp",
+    "langName": "মেসুগাকি",
     "object": "চরিত্র",
     "attribute": "অ্যানিমে",
     "preview": "https://img.aishort.top/imgprompt/20260210072537644.webp"
   },
   {
     "displayName": "santa alter",
-    "langName": "সান্তা ক্লজ",
+    "langName": "সান্টা অল্টার",
     "object": "চরিত্র",
     "attribute": "অ্যানিমে",
     "preview": "https://img.aishort.top/imgprompt/20260210072537639.webp"
@@ -1052,7 +1052,7 @@
   },
   {
     "displayName": "kindergartener",
-    "langName": "কিন্ডারগার্টেন",
+    "langName": "কিন্ডারগার্টেনের শিশু",
     "object": "চরিত্র",
     "attribute": "বয়স",
     "preview": "https://img.aishort.top/imgprompt/20260210192804244.webp"
@@ -1073,14 +1073,14 @@
   },
   {
     "displayName": "early teen",
-    "langName": "প্রাথমিক কৈশোর (11-15)",
+    "langName": "প্রাথমিক কৈশোর",
     "object": "চরিত্র",
     "attribute": "বয়স",
     "preview": "https://img.aishort.top/imgprompt/20260210192804238.webp"
   },
   {
     "displayName": "teenager",
-    "langName": "কিশোর (13-19)",
+    "langName": "কিশোর",
     "object": "চরিত্র",
     "attribute": "বয়স",
     "preview": "https://img.aishort.top/imgprompt/20260210192804240.webp"
@@ -1108,7 +1108,7 @@
   },
   {
     "displayName": "loli",
-    "langName": "loli",
+    "langName": "লোলি",
     "object": "চরিত্র",
     "attribute": "বয়স",
     "preview": "https://img.aishort.top/imgprompt/20260210192804246.webp"
@@ -1192,7 +1192,7 @@
   },
   {
     "displayName": "tanlines",
-    "langName": "সূর্যের ক্ষতি",
+    "langName": "ট্যান লাইন",
     "object": "চরিত্র",
     "attribute": "ত্বক",
     "preview": "https://img.aishort.top/imgprompt/20260210193621164.webp"
@@ -1318,7 +1318,7 @@
   },
   {
     "displayName": "(cleavage visible,large breasts)",
-    "langName": "বড় স্তন (ক্লিভেজ সহ)",
+    "langName": "বড় স্তন (ক্লিভেজ দৃশ্যমান)",
     "object": "চরিত্র",
     "attribute": "শরীরের গড়ন",
     "preview": "https://img.aishort.top/imgprompt/20260211065136926.webp"
@@ -1780,14 +1780,14 @@
   },
   {
     "displayName": "drill hair",
-    "langName": "ড্রিল রোল রাজকুমারী রোল",
+    "langName": "স্পাইরাল কার্ল / রাজকুমারী কার্ল",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260211134240236.webp"
   },
   {
     "displayName": "twin_drills",
-    "langName": "ডবল ডায়মন্ড hairstyle",
+    "langName": "টুইন ড্রিল হেয়ারস্টাইল",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260211134254803.webp"
@@ -1829,7 +1829,7 @@
   },
   {
     "displayName": "braided bangs",
-    "langName": "বিনুনি bangs",
+    "langName": "বিনুনি করা ব্যাং",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260211134418672.webp"
@@ -1934,14 +1934,14 @@
   },
   {
     "displayName": "swept bangs",
-    "langName": "সাইড সুইপ্ট bangs",
+    "langName": "একপাশে আঁচড়ানো ব্যাং",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260317085511880.webp"
   },
   {
     "displayName": "crossed bangs",
-    "langName": "ক্রস bangs",
+    "langName": "ক্রস ব্যাং",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260317085523411.webp"
@@ -1969,56 +1969,56 @@
   },
   {
     "displayName": "long bangs",
-    "langName": "দীর্ঘ bangs",
+    "langName": "লম্বা ব্যাং",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260211134954164.webp"
   },
   {
     "displayName": "air bangs",
-    "langName": "বায়ু bangs",
+    "langName": "এয়ার ব্যাংগস",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260211135006710.webp"
   },
   {
     "displayName": "asymmetric bangs",
-    "langName": "অপ্রতিসম bangs",
+    "langName": "অসমমিত ব্যাং",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260211135019506.webp"
   },
   {
     "displayName": "asymmetrical bangs",
-    "langName": "অপ্রতিসম bangs",
+    "langName": "অসমমিত ব্যাং",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260211135032224.webp"
   },
   {
     "displayName": "parted bangs",
-    "langName": "অংশ bangs",
+    "langName": "সিঁথিকাটা ব্যাং",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260211135044711.webp"
   },
   {
     "displayName": "side_blunt_bangs",
-    "langName": "পার্শ্ব বায়ু bangs",
+    "langName": "পাশের হালকা ব্যাং",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260211135057869.webp"
   },
   {
     "displayName": "centre parting bangs",
-    "langName": "কেন্দ্র বিভাজিত bangs",
+    "langName": "মাঝখানে সিঁথি করা ব্যাং",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260211135111315.webp"
   },
   {
     "displayName": "middle Fringe",
-    "langName": "কেন্দ্র বিভাজিত bangs",
+    "langName": "মাঝখানে সিঁথি করা ব্যাং",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260211135125221.webp"
@@ -2081,7 +2081,7 @@
   },
   {
     "displayName": "ahoge",
-    "langName": "বোবা",
+    "langName": "আহোগে",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260211135331864.webp"
@@ -2095,7 +2095,7 @@
   },
   {
     "displayName": "dreadlocks",
-    "langName": "Dreadlocks",
+    "langName": "ড্রেডলকস",
     "object": "চরিত্র",
     "attribute": "চুলের স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260211135359047.webp"
@@ -2207,7 +2207,7 @@
   },
   {
     "displayName": "freckles",
-    "langName": "freckle",
+    "langName": "মেচেতা",
     "object": "চরিত্র",
     "attribute": "মুখ",
     "preview": "https://img.aishort.top/imgprompt/20260211135736006.webp"
@@ -2767,7 +2767,7 @@
   },
   {
     "displayName": "eye_relfection",
-    "langName": "অকুলার রিফ্লেক্স (আলোর প্রতি ছাত্রের প্রতিক্রিয়া)",
+    "langName": "চোখের প্রতিফলন",
     "object": "চরিত্র",
     "attribute": "চোখ",
     "preview": "https://img.aishort.top/imgprompt/20260211141526968.webp"
@@ -2970,7 +2970,7 @@
   },
   {
     "displayName": "solid_oval_eyes",
-    "langName": "Q সংস্করণ কঠিন ডিম্বাকৃতি চোখ",
+    "langName": "চিবি ডিম্বাকৃতি চোখ",
     "object": "চরিত্র",
     "attribute": "চোখ",
     "preview": "https://img.aishort.top/imgprompt/20260211142239019.webp"
@@ -2984,7 +2984,7 @@
   },
   {
     "displayName": "blush_stickers",
-    "langName": "Q সংস্করণ ব্লাশ স্টিকার",
+    "langName": "চিবি ব্লাশ স্টিকার",
     "object": "চরিত্র",
     "attribute": "চোখ",
     "preview": "https://img.aishort.top/imgprompt/20260211142304171.webp"
@@ -3019,14 +3019,14 @@
   },
   {
     "displayName": "sanpaku",
-    "langName": "ট্রিপল হোয়াইট সিন্ড্রোম (শিক্ষার্থী স্থানান্তর)",
+    "langName": "সানপাকু চোখ",
     "object": "চরিত্র",
     "attribute": "চোখ",
     "preview": "https://img.aishort.top/imgprompt/20260211142408606.webp"
   },
   {
     "displayName": "flaming_eye",
-    "langName": "হোমুরা",
+    "langName": "জ্বলন্ত চোখ",
     "object": "চরিত্র",
     "attribute": "চোখ",
     "preview": "https://img.aishort.top/imgprompt/20260211142422174.webp"
@@ -3082,7 +3082,7 @@
   },
   {
     "displayName": "half_closed_eye",
-    "langName": "অর্ধ-বন্ধ চোখ (একক চোখ)",
+    "langName": "আধবোজা চোখ",
     "object": "চরিত্র",
     "attribute": "চোখ",
     "preview": "https://img.aishort.top/imgprompt/20260211142557836.webp"
@@ -3103,7 +3103,7 @@
   },
   {
     "displayName": "squinting",
-    "langName": "আপনার চোখ squirt",
+    "langName": "চোখ ছোট করে তাকানো",
     "object": "চরিত্র",
     "attribute": "চোখ",
     "preview": "https://img.aishort.top/imgprompt/20260211142636132.webp"
@@ -3180,14 +3180,14 @@
   },
   {
     "displayName": "no_blindfold",
-    "langName": "(মূল) চোখ বাঁধা উপাদান সরানো হয়েছে",
+    "langName": "চোখে পট্টি ছাড়া",
     "object": "চরিত্র",
     "attribute": "চোখ",
     "preview": "https://img.aishort.top/imgprompt/20260211220153156.webp"
   },
   {
     "displayName": "no_eyepatch",
-    "langName": "(বিদ্যমান) চোখের মাস্ক সরানো হয়েছে",
+    "langName": "আইপ্যাচ ছাড়া",
     "object": "চরিত্র",
     "attribute": "চোখ",
     "preview": "https://img.aishort.top/imgprompt/20260211142907966.webp"
@@ -3222,7 +3222,7 @@
   },
   {
     "displayName": "bright_pupils",
-    "langName": "উজ্জ্বল ছাত্ররা",
+    "langName": "উজ্জ্বল চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143011456.webp"
@@ -3236,147 +3236,147 @@
   },
   {
     "displayName": "purple_pupils",
-    "langName": "বেগুনি ছাত্র",
+    "langName": "বেগুনি চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143037152.webp"
   },
   {
     "displayName": "orange_pupils",
-    "langName": "কমলা ছাত্র",
+    "langName": "কমলা চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143049459.webp"
   },
   {
     "displayName": "heterochromia",
-    "langName": "হেটেরোক্রোমাটিক ছাত্ররা",
+    "langName": "হেটেরোক্রোমিয়া",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143102469.webp"
   },
   {
     "displayName": "mismatched_pupils",
-    "langName": "অমিল ছাত্র",
+    "langName": "অমিল চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143115346.webp"
   },
   {
     "displayName": "solid_circle_pupils",
-    "langName": "Q সংস্করণ কঠিন বৃত্তাকার ছাত্র",
+    "langName": "চিবি গোল চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143127812.webp"
   },
   {
     "displayName": "dilated_pupils",
-    "langName": "প্রসারিত ছাত্র",
+    "langName": "প্রসারিত চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143140879.webp"
   },
   {
     "displayName": "constricted_pupils",
-    "langName": "সংকুচিত ছাত্র",
+    "langName": "সংকুচিত চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143153508.webp"
   },
   {
     "displayName": "slit_pupils",
-    "langName": "উল্লম্ব ছাত্র/বিড়ালের চোখ",
+    "langName": "উল্লম্ব চোখের মণি / বিড়ালের চোখ",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260317093802688.webp"
   },
   {
     "displayName": "snake_pupils",
-    "langName": "সাপের ছাত্র (শিশুর ফ্ল্যাশ)",
+    "langName": "সাপের চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260317093813015.webp"
   },
   {
     "displayName": "horizontal_pupils",
-    "langName": "অনুভূমিক ছাত্র",
+    "langName": "অনুভূমিক চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143231312.webp"
   },
   {
     "displayName": "rectangular_pupils",
-    "langName": "আয়তক্ষেত্রাকার ছাত্র",
+    "langName": "আয়তক্ষেত্রাকার চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143243842.webp"
   },
   {
     "displayName": "square_pupils",
-    "langName": "বর্গাকার ছাত্র",
+    "langName": "বর্গাকার চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143256433.webp"
   },
   {
     "displayName": "dot_pupils",
-    "langName": "পয়েন্ট ছাত্র",
+    "langName": "বিন্দু চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143308943.webp"
   },
   {
     "displayName": "star-shaped_pupils",
-    "langName": "পেন্টাগ্রাম আকৃতির ছাত্ররা",
+    "langName": "তারকা আকৃতির চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143321388.webp"
   },
   {
     "displayName": "flower-shaped pupils",
-    "langName": "ফুল আকৃতির ছাত্র",
+    "langName": "ফুল আকৃতির চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143334652.webp"
   },
   {
     "displayName": "heart-shaped_pupils",
-    "langName": "হৃদয় আকৃতির ছাত্র",
+    "langName": "হৃদয় আকৃতির চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260317093823349.webp"
   },
   {
     "displayName": "diamond-shaped_pupils",
-    "langName": "হীরা আকৃতির ছাত্ররা",
+    "langName": "হীরা আকৃতির চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143400233.webp"
   },
   {
     "displayName": "butterfly-shaped_pupils",
-    "langName": "প্রজাপতি আকৃতির ছাত্র",
+    "langName": "প্রজাপতি আকৃতির চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260317093834432.webp"
   },
   {
     "displayName": "symbol-shaped_pupils",
-    "langName": "প্রতীকী ছাত্ররা",
+    "langName": "প্রতীক আকৃতির চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143425446.webp"
   },
   {
     "displayName": "x-shaped_pupils",
-    "langName": "এক্স-আকৃতির ছাত্ররা",
+    "langName": "এক্স-আকৃতির চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260317094021925.webp"
   },
   {
     "displayName": "cross-shaped_pupils",
-    "langName": "প্রতীকী ছাত্র (কোন প্রভাব নেই",
+    "langName": "ক্রস আকৃতির চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143449975.webp"
@@ -3390,28 +3390,28 @@
   },
   {
     "displayName": "extra_pupils",
-    "langName": "অতিরিক্ত ছাত্র",
+    "langName": "অতিরিক্ত চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260211143515703.webp"
   },
   {
     "displayName": "no_pupils",
-    "langName": "কোন ছাত্র",
+    "langName": "চোখের মণিহীন",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260317094748513.webp"
   },
   {
     "displayName": "devil pupils",
-    "langName": "জাদু ছাত্র",
+    "langName": "রাক্ষসী চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260317094053112.webp"
   },
   {
     "displayName": "pupils sparkling",
-    "langName": "ছাত্ররা ঝিকিমিকি করছে",
+    "langName": "ঝিকিমিকি চোখের মণি",
     "object": "চরিত্র",
     "attribute": "চোখের মণি",
     "preview": "https://img.aishort.top/imgprompt/20260317094104457.webp"
@@ -3670,7 +3670,7 @@
   },
   {
     "displayName": "gasping",
-    "langName": "হাঁপাচ্ছে (মুখ খোলা)",
+    "langName": "হাঁপানো",
     "object": "চরিত্র",
     "attribute": "মুখের গহ্বর",
     "preview": "https://img.aishort.top/imgprompt/20260317100011869.webp"
@@ -3726,7 +3726,7 @@
   },
   {
     "displayName": ":3",
-    "langName": "মাওজুই",
+    "langName": "বিড়ালের মুখ",
     "object": "চরিত্র",
     "attribute": "মুখের গহ্বর",
     "preview": "https://img.aishort.top/imgprompt/20260317100112576.webp"
@@ -3761,7 +3761,7 @@
   },
   {
     "displayName": "chestnut_mouth",
-    "langName": "লিজিজুই",
+    "langName": "ত্রিকোণ মুখ",
     "object": "চরিত্র",
     "attribute": "মুখের গহ্বর",
     "preview": "https://img.aishort.top/imgprompt/20260211144640830.webp"
@@ -3859,7 +3859,7 @@
   },
   {
     "displayName": "Pouted lips",
-    "langName": "pursed ঠোঁট",
+    "langName": "গোল করা ঠোঁট",
     "object": "চরিত্র",
     "attribute": "মুখের গহ্বর",
     "preview": "https://img.aishort.top/imgprompt/20260211144946970.webp"
@@ -3901,7 +3901,7 @@
   },
   {
     "displayName": "mouth_drool",
-    "langName": "মুখের কোণে লালার ফোঁটার আকারে একটি ফাঁক রয়েছে।",
+    "langName": "লালা ঝরা মুখ",
     "object": "চরিত্র",
     "attribute": "মুখের গহ্বর",
     "preview": "https://img.aishort.top/imgprompt/20260317100321880.webp"
@@ -4111,7 +4111,7 @@
   },
   {
     "displayName": "nail",
-    "langName": "নখ | নখ",
+    "langName": "নখ",
     "object": "চরিত্র",
     "attribute": "নখ",
     "preview": "https://img.aishort.top/imgprompt/20260211145741915.webp"
@@ -4167,42 +4167,42 @@
   },
   {
     "displayName": "flat chest",
-    "langName": "ছোট স্তন (A)",
+    "langName": "সমতল বুক",
     "object": "চরিত্র",
     "attribute": "বুক",
     "preview": "https://img.aishort.top/imgprompt/20260212064123283.webp"
   },
   {
     "displayName": "small_breasts",
-    "langName": "ছোট স্তন (B)",
+    "langName": "ছোট স্তন",
     "object": "চরিত্র",
     "attribute": "বুক",
     "preview": "https://img.aishort.top/imgprompt/20260212071540871.webp"
   },
   {
     "displayName": "medium breasts",
-    "langName": "মাঝারি বুক (C)",
+    "langName": "মাঝারি স্তন",
     "object": "চরিত্র",
     "attribute": "বুক",
     "preview": "https://img.aishort.top/imgprompt/20260212071540873.webp"
   },
   {
     "displayName": "big breasts",
-    "langName": "বড় স্তন (D)",
+    "langName": "বড় স্তন",
     "object": "চরিত্র",
     "attribute": "বুক",
     "preview": "https://img.aishort.top/imgprompt/20260212071540872.webp"
   },
   {
     "displayName": "huge breasts",
-    "langName": "বড় স্তন (E)",
+    "langName": "অতি বৃহৎ স্তন",
     "object": "চরিত্র",
     "attribute": "বুক",
     "preview": "https://img.aishort.top/imgprompt/20260212071540870.webp"
   },
   {
     "displayName": "gigantic breasts",
-    "langName": "সুপার বড় স্তন (F)",
+    "langName": "দৈত্যাকার স্তন",
     "object": "চরিত্র",
     "attribute": "বুক",
     "preview": "https://img.aishort.top/imgprompt/20260212071540874.webp"
@@ -4341,7 +4341,7 @@
   },
   {
     "displayName": "wings",
-    "langName": "উইং",
+    "langName": "ডানা",
     "object": "চরিত্র",
     "attribute": "ডানা",
     "preview": "https://img.aishort.top/imgprompt/20260211150421497.webp"
@@ -4383,7 +4383,7 @@
   },
   {
     "displayName": "detached_wings",
-    "langName": "শরীরের সাথে যুক্ত নয় এমন ডানা",
+    "langName": "ভাসমান ডানা",
     "object": "চরিত্র",
     "attribute": "ডানা",
     "preview": "https://img.aishort.top/imgprompt/20260211150537125.webp"
@@ -4453,7 +4453,7 @@
   },
   {
     "displayName": "no_wings",
-    "langName": "সরানো (আসল) ডানা",
+    "langName": "ডানা ছাড়া",
     "object": "চরিত্র",
     "attribute": "ডানা",
     "preview": "https://img.aishort.top/imgprompt/20260212072704705.webp"
@@ -4579,7 +4579,7 @@
   },
   {
     "displayName": "foral_background",
-    "langName": "ফুলের প্যাটার্ন আলংকারিক পটভূমি",
+    "langName": "ফুলের প্যাটার্ন ব্যাকগ্রাউন্ড",
     "object": "পরিবেশ",
     "attribute": "পটভূমি",
     "preview": "https://img.aishort.top/imgprompt/20260211151130102.webp"
@@ -4698,7 +4698,7 @@
   },
   {
     "displayName": "rounded_corners",
-    "langName": "পটভূমি বা ফ্রেমের গোলাকার কোণ রয়েছে",
+    "langName": "গোলাকার কোণা",
     "object": "পরিবেশ",
     "attribute": "পটভূমি",
     "preview": "https://img.aishort.top/imgprompt/20260211151506847.webp"
@@ -4712,7 +4712,7 @@
   },
   {
     "displayName": "outside_border",
-    "langName": "পেইন্টিংয়ের অংশটি ব্যাকগ্রাউন্ড ফ্রেমের বাইরে",
+    "langName": "ফ্রেমের বাইরে দৃশ্য",
     "object": "পরিবেশ",
     "attribute": "পটভূমি",
     "preview": "https://img.aishort.top/imgprompt/20260211151532945.webp"
@@ -4726,7 +4726,7 @@
   },
   {
     "displayName": "windowboxed",
-    "langName": "ছবির ফ্রেমের সেট (পটভূমি)",
+    "langName": "উইন্ডোবক্সড",
     "object": "পরিবেশ",
     "attribute": "পটভূমি",
     "preview": "https://img.aishort.top/imgprompt/20260211151559726.webp"
@@ -4929,7 +4929,7 @@
   },
   {
     "displayName": "beautiful detailed sky,beautiful detailed water",
-    "langName": "ভাল আবহাওয়া এবং ভাল জল",
+    "langName": "বিস্তারিত আকাশ ও জল",
     "object": "পরিবেশ",
     "attribute": "প্রকৃতি",
     "preview": "https://img.aishort.top/imgprompt/20260211152348882.webp"
@@ -4992,7 +4992,7 @@
   },
   {
     "displayName": "Dreamy forest",
-    "langName": "স্বপ্নের বন (অবাস্তব অর্থ। শান্ত আলোক কণা)",
+    "langName": "স্বপ্নের বন",
     "object": "পরিবেশ",
     "attribute": "প্রকৃতি",
     "preview": "https://img.aishort.top/imgprompt/20260211152548353.webp"
@@ -5293,7 +5293,7 @@
   },
   {
     "displayName": "star_(sky)",
-    "langName": "তারা (আকাশে)",
+    "langName": "আকাশের তারা",
     "object": "পরিবেশ",
     "attribute": "আকাশ",
     "preview": "https://img.aishort.top/imgprompt/20260211153554967.webp"
@@ -5412,7 +5412,7 @@
   },
   {
     "displayName": "altocumulus",
-    "langName": "Altocumulus প্রকার",
+    "langName": "অল্টোকিউমুলাস মেঘ",
     "object": "পরিবেশ",
     "attribute": "মেঘ",
     "preview": "https://img.aishort.top/imgprompt/20260211153932663.webp"
@@ -5447,7 +5447,7 @@
   },
   {
     "displayName": "cumulonimbus",
-    "langName": "cumulonimbus",
+    "langName": "কিউমুলোনিম্বাস",
     "object": "পরিবেশ",
     "attribute": "মেঘ",
     "preview": "https://img.aishort.top/imgprompt/20260211154035936.webp"
@@ -5559,14 +5559,14 @@
   },
   {
     "displayName": "altocumulus_castellanus",
-    "langName": "altocumulus দুর্গ",
+    "langName": "অল্টোকিউমুলাস ক্যাস্টেলেইনাস",
     "object": "পরিবেশ",
     "attribute": "মেঘ",
     "preview": "https://img.aishort.top/imgprompt/20260211154401838.webp"
   },
   {
     "displayName": "altocumulus_floccus",
-    "langName": "flocculent altocumulus মেঘ",
+    "langName": "অল্টোকিউমুলাস ফ্লকাস মেঘ",
     "object": "পরিবেশ",
     "attribute": "মেঘ",
     "preview": "https://img.aishort.top/imgprompt/20260211154414788.webp"
@@ -5664,7 +5664,7 @@
   },
   {
     "displayName": "stratocumulus_castellanus",
-    "langName": "castellated স্ট্র্যাটোকুমুলাস মেঘ",
+    "langName": "ক্যাস্টেলেইনাস স্ট্র্যাটোকিউমুলাস মেঘ",
     "object": "পরিবেশ",
     "attribute": "মেঘ",
     "preview": "https://img.aishort.top/imgprompt/20260211154711090.webp"
@@ -5713,7 +5713,7 @@
   },
   {
     "displayName": "cumulonimbus_calvus",
-    "langName": "cumulonimbus টাক",
+    "langName": "কিউমুলোনিম্বাস ক্যালভাস মেঘ",
     "object": "পরিবেশ",
     "attribute": "মেঘ",
     "preview": "https://img.aishort.top/imgprompt/20260211154840636.webp"
@@ -5923,7 +5923,7 @@
   },
   {
     "displayName": "rappelling",
-    "langName": "সমতলকরণ (ঝুলন্ত)",
+    "langName": "র‌্যাপেলিং",
     "object": "পরিবেশ",
     "attribute": "আউটডোর",
     "preview": "https://img.aishort.top/imgprompt/20260211155514112.webp"
@@ -6742,7 +6742,7 @@
   },
   {
     "displayName": "wardrobe",
-    "langName": "পোশাক",
+    "langName": "পোশাকের আলমারি",
     "object": "পরিবেশ",
     "attribute": "আসবাবপত্র",
     "preview": "https://img.aishort.top/imgprompt/20260211162053495.webp"
@@ -6889,7 +6889,7 @@
   },
   {
     "displayName": "clothes_rack",
-    "langName": "কোট হ্যাঙ্গার",
+    "langName": "কাপড় রাখার র্যাক / হ্যাঙ্গার",
     "object": "পরিবেশ",
     "attribute": "আসবাবপত্র",
     "preview": "https://img.aishort.top/imgprompt/20260211162539622.webp"
@@ -7015,7 +7015,7 @@
   },
   {
     "displayName": "bathtub",
-    "langName": "bathtub",
+    "langName": "বাথটাব",
     "object": "পরিবেশ",
     "attribute": "বাথরুম",
     "preview": "https://img.aishort.top/imgprompt/20260211162929808.webp"
@@ -7428,7 +7428,7 @@
   },
   {
     "displayName": "Cheese Grater",
-    "langName": "পনির grater",
+    "langName": "পনির ঘষনি",
     "object": "জিনিস",
     "attribute": "থালাবাসন",
     "preview": "https://img.aishort.top/imgprompt/20260211164142718.webp"
@@ -7484,7 +7484,7 @@
   },
   {
     "displayName": "wind_chime",
-    "langName": "উইন্ড chimes",
+    "langName": "বাতাসের ঘণ্টার আওয়াজ",
     "object": "জিনিস",
     "attribute": "বাদ্যযন্ত্র",
     "preview": "https://img.aishort.top/imgprompt/20260211164323878.webp"
@@ -7589,7 +7589,7 @@
   },
   {
     "displayName": "school_bag",
-    "langName": "স্কুল ব্যাগ (হ্যান্ডব্যাগ)",
+    "langName": "স্কুল ব্যাগ",
     "object": "জিনিস",
     "attribute": "স্কুল সরবরাহ",
     "preview": "https://img.aishort.top/imgprompt/20260211164633641.webp"
@@ -7820,14 +7820,14 @@
   },
   {
     "displayName": "diamond_(shape)",
-    "langName": "হীরা (আকৃতি)",
+    "langName": "হীরা আকৃতি",
     "object": "জিনিস",
     "attribute": "অন্যান্য আইটেম",
     "preview": "https://img.aishort.top/imgprompt/20260211165329674.webp"
   },
   {
     "displayName": "chibi_inset",
-    "langName": "চিবি চিত্রণ",
+    "langName": "চিবি ইনসেট",
     "object": "জিনিস",
     "attribute": "অন্যান্য আইটেম",
     "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
@@ -7932,7 +7932,7 @@
   },
   {
     "displayName": "sword",
-    "langName": "ছুরি",
+    "langName": "তরবারি / তলোয়ার",
     "object": "জিনিস",
     "attribute": "অস্ত্র",
     "preview": "https://img.aishort.top/imgprompt/20260211165652659.webp"
@@ -7960,7 +7960,7 @@
   },
   {
     "displayName": "saber_(weapon)",
-    "langName": "সাবার (অস্ত্র)",
+    "langName": "সাবের",
     "object": "জিনিস",
     "attribute": "অস্ত্র",
     "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
@@ -7981,14 +7981,14 @@
   },
   {
     "displayName": "hatchet",
-    "langName": "হ্যাচেট",
+    "langName": "ছোট কুড়াল",
     "object": "জিনিস",
     "attribute": "অস্ত্র",
     "preview": "https://img.aishort.top/imgprompt/20260211165820289.webp"
   },
   {
     "displayName": "stake",
-    "langName": "লাঠি",
+    "langName": "কাঠের স্টেক",
     "object": "জিনিস",
     "attribute": "অস্ত্র",
     "preview": "https://img.aishort.top/imgprompt/20260211165832380.webp"
@@ -8030,14 +8030,14 @@
   },
   {
     "displayName": "claw_(weapon)",
-    "langName": "নখর (অস্ত্র)",
+    "langName": "নখর অস্ত্র",
     "object": "জিনিস",
     "attribute": "অস্ত্র",
     "preview": "https://img.aishort.top/imgprompt/20260211165949084.webp"
   },
   {
     "displayName": "nose_hatchet",
-    "langName": "হ্যাচেট",
+    "langName": "কাঠ কাটার দা",
     "object": "জিনিস",
     "attribute": "অস্ত্র",
     "preview": "https://img.aishort.top/imgprompt/20260211170002029.webp"
@@ -8065,7 +8065,7 @@
   },
   {
     "displayName": "magazine_(weapon)",
-    "langName": "পত্রিকা (অস্ত্র)",
+    "langName": "ম্যাগাজিন",
     "object": "জিনিস",
     "attribute": "অস্ত্র",
     "preview": "https://img.aishort.top/imgprompt/20260211170050212.webp"
@@ -8100,7 +8100,7 @@
   },
   {
     "displayName": "tank",
-    "langName": "ট্যাঙ্ক",
+    "langName": "সামরিক ট্যাঙ্ক",
     "object": "জিনিস",
     "attribute": "অস্ত্র",
     "preview": "https://img.aishort.top/imgprompt/20260211170154753.webp"
@@ -8373,7 +8373,7 @@
   },
   {
     "displayName": "pancake",
-    "langName": "muffins",
+    "langName": "প্যানকেক",
     "object": "জিনিস",
     "attribute": "মিষ্টান্ন এবং ক্যান্ডি",
     "preview": "https://img.aishort.top/imgprompt/20260211171010839.webp"
@@ -8429,7 +8429,7 @@
   },
   {
     "displayName": "sundae",
-    "langName": "sundae",
+    "langName": "সানডে আইসক্রিম",
     "object": "জিনিস",
     "attribute": "মিষ্টান্ন এবং ক্যান্ডি",
     "preview": "https://img.aishort.top/imgprompt/20260211171150131.webp"
@@ -8485,7 +8485,7 @@
   },
   {
     "displayName": "Sprinkles",
-    "langName": "মিছরি shards",
+    "langName": "মিছরির টুকরো",
     "object": "জিনিস",
     "attribute": "মিষ্টান্ন এবং ক্যান্ডি",
     "preview": "https://img.aishort.top/imgprompt/20260211171330209.webp"
@@ -8499,7 +8499,7 @@
   },
   {
     "displayName": "Royal Icing",
-    "langName": "meringue",
+    "langName": "রয়্যাল আইসিং",
     "object": "জিনিস",
     "attribute": "মিষ্টান্ন এবং ক্যান্ডি",
     "preview": "https://img.aishort.top/imgprompt/20260211171355710.webp"
@@ -8814,7 +8814,7 @@
   },
   {
     "displayName": "kafuu_chino",
-    "langName": "Cavuccino",
+    "langName": "কাফু চিনো",
     "object": "জিনিস",
     "attribute": "পানীয়",
     "preview": "https://img.aishort.top/imgprompt/20260211172324446.webp"
@@ -9052,14 +9052,14 @@
   },
   {
     "displayName": "bat",
-    "langName": "ব্যাট",
+    "langName": "বাদুড়",
     "object": "জিনিস",
     "attribute": "পশু",
     "preview": "https://img.aishort.top/imgprompt/20260211173038319.webp"
   },
   {
     "displayName": "shell",
-    "langName": "শেল",
+    "langName": "ঝিনুক",
     "object": "জিনিস",
     "attribute": "পশু",
     "preview": "https://img.aishort.top/imgprompt/20260211173051134.webp"
@@ -9073,7 +9073,7 @@
   },
   {
     "displayName": "dog_tags",
-    "langName": "কুকুর ট্যাগ",
+    "langName": "ডগ ট্যাগ",
     "object": "জিনিস",
     "attribute": "পশু",
     "preview": "https://img.aishort.top/imgprompt/20260211173116860.webp"
@@ -9206,7 +9206,7 @@
   },
   {
     "displayName": "chrysanthemum",
-    "langName": "chrysanthemum",
+    "langName": "চন্দ্রমল্লিকা",
     "object": "জিনিস",
     "attribute": "উদ্ভিদ",
     "preview": "https://img.aishort.top/imgprompt/20260211173520709.webp"
@@ -9367,7 +9367,7 @@
   },
   {
     "displayName": "Acorn",
-    "langName": "acorns",
+    "langName": "ওক ফল",
     "object": "জিনিস",
     "attribute": "উদ্ভিদ",
     "preview": "https://img.aishort.top/imgprompt/20260211174019881.webp"
@@ -9444,7 +9444,7 @@
   },
   {
     "displayName": "leaning",
-    "langName": "লীন | লীন",
+    "langName": "লীন",
     "object": "অ্যাকশন",
     "attribute": "মৌলিক ভঙ্গি",
     "preview": "https://img.aishort.top/imgprompt/20260211174241891.webp"
@@ -9563,7 +9563,7 @@
   },
   {
     "displayName": "the_pose",
-    "langName": "মাটিতে শুয়ে পা তুলে রাখুন",
+    "langName": "উপুড় হয়ে পা তোলার ভঙ্গি",
     "object": "অ্যাকশন",
     "attribute": "মৌলিক ভঙ্গি",
     "preview": "https://img.aishort.top/imgprompt/20260211174615259.webp"
@@ -9591,14 +9591,14 @@
   },
   {
     "displayName": "fetal_position",
-    "langName": "ভ্রূণের অবস্থান (মিথ্যা কথা বলা)",
+    "langName": "ভ্রূণীয় অবস্থান",
     "object": "অ্যাকশন",
     "attribute": "মৌলিক ভঙ্গি",
     "preview": "https://img.aishort.top/imgprompt/20260211174706202.webp"
   },
   {
     "displayName": "against_glass",
-    "langName": "কাচ চেপে (অবৈধ)",
+    "langName": "কাচের সাথে লাগানো",
     "object": "অ্যাকশন",
     "attribute": "মৌলিক ভঙ্গি",
     "preview": "https://img.aishort.top/imgprompt/20260211174718789.webp"
@@ -9612,7 +9612,7 @@
   },
   {
     "displayName": "presenting",
-    "langName": "প্রদর্শন (পিছন অংশ)",
+    "langName": "উপস্থাপন ভঙ্গি",
     "object": "অ্যাকশন",
     "attribute": "মৌলিক ভঙ্গি",
     "preview": "https://img.aishort.top/imgprompt/20260211174744336.webp"
@@ -9675,7 +9675,7 @@
   },
   {
     "displayName": "eye_contact",
-    "langName": "চোখের যোগাযোগ (একে অপরের দিকে তাকিয়ে)",
+    "langName": "দৃষ্টি বিনিময়",
     "object": "অ্যাকশন",
     "attribute": "দৃষ্টিভঙ্গি",
     "preview": "https://img.aishort.top/imgprompt/20260211174937637.webp"
@@ -9836,7 +9836,7 @@
   },
   {
     "displayName": "aiming_at_viewer",
-    "langName": "পাঠককে লক্ষ্য করুন (দৃষ্টিকোণ)",
+    "langName": "দর্শকের দিকে নিশানা",
     "object": "অ্যাকশন",
     "attribute": "দৃষ্টিভঙ্গি",
     "preview": "https://img.aishort.top/imgprompt/20260211175428502.webp"
@@ -9934,7 +9934,7 @@
   },
   {
     "displayName": "hands_clasped",
-    "langName": "উভয় হাতের আঙ্গুল ক্রস | আবদ্ধ হাত",
+    "langName": "হাত জড়ো করা",
     "object": "অ্যাকশন",
     "attribute": "বাহুর ভঙ্গি",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
@@ -9969,7 +9969,7 @@
   },
   {
     "displayName": "hands_in_opposite_sleeves",
-    "langName": "আপনার হাত ক্রস এবং আপনার sleeves মধ্যে তাদের করা",
+    "langName": "হাতার ভেতর হাত রাখা",
     "object": "অ্যাকশন",
     "attribute": "বাহুর ভঙ্গি",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
@@ -10095,7 +10095,7 @@
   },
   {
     "displayName": "covering_xx",
-    "langName": "কভার xx",
+    "langName": "নির্দিষ্ট অংশ ঢেকে রাখা",
     "object": "অ্যাকশন",
     "attribute": "বাহুর ভঙ্গি",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
@@ -10172,14 +10172,14 @@
   },
   {
     "displayName": "waving",
-    "langName": "তরঙ্গ (হ্যালো/বিদায় বলুন)",
+    "langName": "হাত নাড়ানো",
     "object": "অ্যাকশন",
     "attribute": "হাতের সংকেত",
     "preview": "https://img.aishort.top/imgprompt/20260211180434501.webp"
   },
   {
     "displayName": "pointing_at_viewer",
-    "langName": "দর্শকের দিকে নির্দেশ করা",
+    "langName": "দর্শকের দিকে আঙুল তোলা",
     "object": "অ্যাকশন",
     "attribute": "হাতের সংকেত",
     "preview": "https://img.aishort.top/imgprompt/20260211180447245.webp"
@@ -10249,7 +10249,7 @@
   },
   {
     "displayName": "reaching",
-    "langName": "পৌঁছান (উদ্দেশ্যমূলকভাবে)",
+    "langName": "হাত বাড়ানো",
     "object": "অ্যাকশন",
     "attribute": "হাতের সংকেত",
     "preview": "https://img.aishort.top/imgprompt/20260211180655272.webp"
@@ -10312,7 +10312,7 @@
   },
   {
     "displayName": "paw_pose",
-    "langName": "ভাগ্যবান বিড়ালের হাতের অঙ্গভঙ্গি (কব্জি নিচু করে)",
+    "langName": "পশু থাবা ভঙ্গি",
     "object": "অ্যাকশন",
     "attribute": "হাতের সংকেত",
     "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
@@ -10347,7 +10347,7 @@
   },
   {
     "displayName": "fingersmile",
-    "langName": "আপনার আঙ্গুল দিয়ে একটি স্মাইলি মুখ করুন",
+    "langName": "আঙুল দিয়ে হাসির ভঙ্গি",
     "object": "অ্যাকশন",
     "attribute": "হাতের সংকেত",
     "preview": "https://img.aishort.top/imgprompt/20260211180951696.webp"
@@ -10634,7 +10634,7 @@
   },
   {
     "displayName": "holding_eyewear",
-    "langName": "চশমা ধরা | চশমা খুলে ফেলছে",
+    "langName": "চশমা ধরে থাকা",
     "object": "অ্যাকশন",
     "attribute": "বস্তু ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211181827087.webp"
@@ -10956,21 +10956,21 @@
   },
   {
     "displayName": "hands_on_another's",
-    "langName": "অন্য কারো মুখে হাত দিন",
+    "langName": "অন্যের মুখে হাত রাখা",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
-    "langName": "একে অপরের গালে হাত রাখুন",
+    "langName": "অন্যের গালে হাত রাখা",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
-    "langName": "অন্য কারো কাঁধে হাত রাখুন",
+    "langName": "অন্যের কাঁধে হাত রাখা",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
@@ -11026,7 +11026,7 @@
   },
   {
     "displayName": "hands_on_hips",
-    "langName": "পোঁদের উপর হাত | পোঁদের উপর হাত",
+    "langName": "পোঁদের উপর হাত",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260213094956459.webp"
@@ -11040,7 +11040,7 @@
   },
   {
     "displayName": "ass_grab",
-    "langName": "grabbing গাধা",
+    "langName": "নিতম্ব আঁকড়ে ধরা",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211183144840.webp"
@@ -11068,7 +11068,7 @@
   },
   {
     "displayName": "grabbing_from_behind",
-    "langName": "পেছন থেকে স্তন ঘষা | পেছন থেকে স্তন ধর",
+    "langName": "পিছন থেকে স্তন আঁকড়ে ধরা",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
@@ -11110,14 +11110,14 @@
   },
   {
     "displayName": "hands_on_headwear",
-    "langName": "দুই হাতে মাথার অলঙ্কার স্পর্শ করা",
+    "langName": "মাথার সাজে হাত রাখা",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
-    "langName": "ছুরির হাতলে হাত রাখুন",
+    "langName": "তরবারির হাতলে দুই হাত",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
@@ -11131,7 +11131,7 @@
   },
   {
     "displayName": "neckwear_grab",
-    "langName": "জামাকাপড় গলায় আটকানো",
+    "langName": "কলার চেপে ধরা",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
@@ -11173,7 +11173,7 @@
   },
   {
     "displayName": "hand_in_another's_hair",
-    "langName": "অন্য ব্যক্তির চুলে আপনার হাত রাখুন",
+    "langName": "অন্যের চুলে হাত বোলানো",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
@@ -11208,35 +11208,35 @@
   },
   {
     "displayName": "hand_on_another's_chest",
-    "langName": "অন্য ব্যক্তির বুকে আপনার হাত রাখুন",
+    "langName": "অন্যের বুকে হাত রাখা",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211183718013.webp"
   },
   {
     "displayName": "hand_on_another's_chin",
-    "langName": "আপনার হাত দিয়ে অন্য ব্যক্তির চিবুক ধরুন",
+    "langName": "অন্যের চিবুকে হাত রাখা",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
   },
   {
     "displayName": "hand_on_another's_head",
-    "langName": "অন্য ব্যক্তির মাথায় আপনার হাত রাখুন",
+    "langName": "অন্যের মাথায় হাত রাখা",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211183743006.webp"
   },
   {
     "displayName": "hand_on_another's_shoulder",
-    "langName": "অন্য ব্যক্তির কাঁধে আপনার হাত রাখুন",
+    "langName": "অন্যের কাঁধে হাত",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211183755722.webp"
   },
   {
     "displayName": "hand_on_another's_stomach",
-    "langName": "অন্য ব্যক্তির পেটে আপনার হাত রাখুন",
+    "langName": "অন্যের পেটে হাত রাখা",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
@@ -11264,14 +11264,14 @@
   },
   {
     "displayName": "hand_on_hilt",
-    "langName": "ছুরির হাতলে হাত রেখে বিশ্রাম",
+    "langName": "হাতলে হাত",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
   },
   {
     "displayName": "hand_on_hip",
-    "langName": "পোঁদের উপর হাত | পোঁদের উপর হাত",
+    "langName": "পোঁদের উপর হাত",
     "object": "অ্যাকশন",
     "attribute": "আলিঙ্গন ও ধরা",
     "preview": "https://img.aishort.top/imgprompt/20260211183911177.webp"
@@ -11404,21 +11404,21 @@
   },
   {
     "displayName": "standing_split",
-    "langName": "স্থায়ী বিভাজন | দাঁড়ানো পা বাড়ায়",
+    "langName": "দাঁড়িয়ে স্প্লিট",
     "object": "অ্যাকশন",
     "attribute": "পায়ের কাজ",
     "preview": "https://img.aishort.top/imgprompt/20260211184306372.webp"
   },
   {
     "displayName": "curtsy",
-    "langName": "কার্টসি (দাসীর স্যালুট)",
+    "langName": "কার্টসি",
     "object": "অ্যাকশন",
     "attribute": "পায়ের কাজ",
     "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
   },
   {
     "displayName": "tiptoes",
-    "langName": "tiptoes উপর দাঁড়ানো",
+    "langName": "পায়ের আঙুলে ভর দিয়ে দাঁড়ানো",
     "object": "অ্যাকশন",
     "attribute": "পায়ের কাজ",
     "preview": "https://img.aishort.top/imgprompt/20260211184332228.webp"
@@ -11467,7 +11467,7 @@
   },
   {
     "displayName": "ankle_wrap",
-    "langName": "গোড়ালি cuffs",
+    "langName": "পায়ের গোড়ালির বন্ধনী",
     "object": "অ্যাকশন",
     "attribute": "পায়ের কাজ",
     "preview": "https://img.aishort.top/imgprompt/20260211184500742.webp"
@@ -11502,7 +11502,7 @@
   },
   {
     "displayName": "folded",
-    "langName": "আপনার যোনি উন্মুক্ত করতে আপনার পা বাড়ান",
+    "langName": "পা ভাঁজ করে জড়িয়ে রাখা ভঙ্গি",
     "object": "অ্যাকশন",
     "attribute": "পায়ের কাজ",
     "preview": "https://img.aishort.top/imgprompt/20260211184601937.webp"
@@ -11516,7 +11516,7 @@
   },
   {
     "displayName": "gravure_pose",
-    "langName": "gravure ভঙ্গি",
+    "langName": "গ্র্যাভিউর ফটো ভঙ্গি",
     "object": "অ্যাকশন",
     "attribute": "পায়ের কাজ",
     "preview": "https://img.aishort.top/imgprompt/20260212080212589.webp"
@@ -11544,7 +11544,7 @@
   },
   {
     "displayName": "k/da_(league_of_legends)",
-    "langName": "কেডিএ দল (লিগ অফ লিজেন্ডস)",
+    "langName": "K/DA (League of Legends)",
     "object": "অ্যাকশন",
     "attribute": "পায়ের কাজ",
     "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
@@ -11705,14 +11705,14 @@
   },
   {
     "displayName": "tail_between_legs",
-    "langName": "লেজটি পায়ের মাঝখানে কুঁকড়ে গেছে",
+    "langName": "পায়ের মাঝে লেজ গুটিয়ে রাখা",
     "object": "অ্যাকশন",
     "attribute": "পায়ের কাজ",
     "preview": "https://img.aishort.top/imgprompt/20260225100419147.webp"
   },
   {
     "displayName": "covering",
-    "langName": "আচ্ছাদনের কাজ",
+    "langName": "আড়াল করার ভঙ্গি",
     "object": "অ্যাকশন",
     "attribute": "শরীর স্পর্শ",
     "preview": "https://img.aishort.top/imgprompt/20260211185216454.webp"
@@ -11775,7 +11775,7 @@
   },
   {
     "displayName": "bangs_pinned_back",
-    "langName": "আপনার bangs ফিরে পিন",
+    "langName": "সামনের চুল পেছনে আটকানো",
     "object": "অ্যাকশন",
     "attribute": "শরীর স্পর্শ",
     "preview": "https://img.aishort.top/imgprompt/20260211185410314.webp"
@@ -11908,7 +11908,7 @@
   },
   {
     "displayName": "yawning",
-    "langName": "yawn",
+    "langName": "হাই তোলা",
     "object": "অ্যাকশন",
     "attribute": "শারীরিক প্রতিক্রিয়া",
     "preview": "https://img.aishort.top/imgprompt/20260211185809996.webp"
@@ -11922,14 +11922,14 @@
   },
   {
     "displayName": "spitting",
-    "langName": "মুখ থেকে তরল থুতু ফেলার কাজ",
+    "langName": "তরল থুতু ফেলা",
     "object": "অ্যাকশন",
     "attribute": "শারীরিক প্রতিক্রিয়া",
     "preview": "https://img.aishort.top/imgprompt/20260211185836921.webp"
   },
   {
     "displayName": "spilling",
-    "langName": "একটি পাত্র থেকে তরল ঢালা কাজ",
+    "langName": "তরল উপচে পড়া",
     "object": "অ্যাকশন",
     "attribute": "শারীরিক প্রতিক্রিয়া",
     "preview": "https://img.aishort.top/imgprompt/20260211185849710.webp"
@@ -12006,7 +12006,7 @@
   },
   {
     "displayName": "dropping",
-    "langName": "(দুর্ঘটনাজনিত) পতন",
+    "langName": "ফেলে দেওয়া",
     "object": "অ্যাকশন",
     "attribute": "শারীরিক প্রতিক্রিয়া",
     "preview": "https://img.aishort.top/imgprompt/20260211190102259.webp"
@@ -12055,7 +12055,7 @@
   },
   {
     "displayName": "lifted_by_another",
-    "langName": "অন্য পক্ষের পোশাক দ্বারা উপরে তোলা হচ্ছে",
+    "langName": "অন্যের দ্বারা পোশাক তোলা",
     "object": "অ্যাকশন",
     "attribute": "শারীরিক প্রতিক্রিয়া",
     "preview": "https://img.aishort.top/imgprompt/20260211190232075.webp"
@@ -12111,7 +12111,7 @@
   },
   {
     "displayName": "drying",
-    "langName": "শুকনো (স্নানের পরে)",
+    "langName": "শুকানো",
     "object": "অ্যাকশন",
     "attribute": "দৈনিক জীবন",
     "preview": "https://img.aishort.top/imgprompt/20260211190415978.webp"
@@ -12125,14 +12125,14 @@
   },
   {
     "displayName": "cleaning",
-    "langName": "পরিষ্কার করুন |",
+    "langName": "পরিষ্কার করুন",
     "object": "অ্যাকশন",
     "attribute": "দৈনিক জীবন",
     "preview": "https://img.aishort.top/imgprompt/20260211190440252.webp"
   },
   {
     "displayName": "sweeping",
-    "langName": "পরিষ্কার করা | ঝাড়ু দেওয়া (গৃহকর্ম)",
+    "langName": "ঝাড়ু দেওয়া",
     "object": "অ্যাকশন",
     "attribute": "দৈনিক জীবন",
     "preview": "https://img.aishort.top/imgprompt/20260211190452774.webp"
@@ -12258,7 +12258,7 @@
   },
   {
     "displayName": "sleeping_upright",
-    "langName": "(শুয়ে নেই) ঘুমাচ্ছে | সোজা হয়ে ঘুমাচ্ছে",
+    "langName": "বসে ঘুমানো",
     "object": "অ্যাকশন",
     "attribute": "দৈনিক জীবন",
     "preview": "https://img.aishort.top/imgprompt/20260211190844518.webp"
@@ -12412,14 +12412,14 @@
   },
   {
     "displayName": "shared_food",
-    "langName": "খাবার ভাগ করে নেওয়া | মুখ দিয়ে খাদ্য পাস",
+    "langName": "খাবার ভাগ করে খাওয়া",
     "object": "অ্যাকশন",
     "attribute": "আবেগপূর্ণ মিথস্ক্রিয়া",
     "preview": "https://img.aishort.top/imgprompt/20260211191325544.webp"
   },
   {
     "displayName": "shared_bathing",
-    "langName": "শেয়ার্ড স্নান | Yuanyang স্নান",
+    "langName": "একত্রে স্নান",
     "object": "অ্যাকশন",
     "attribute": "আবেগপূর্ণ মিথস্ক্রিয়া",
     "preview": "https://img.aishort.top/imgprompt/20260211191338217.webp"
@@ -12461,14 +12461,14 @@
   },
   {
     "displayName": "asymmetrical_docking",
-    "langName": "স্তন স্পর্শ | স্তন স্পর্শ স্তন",
+    "langName": "বুকের স্পর্শ",
     "object": "অ্যাকশন",
     "attribute": "আবেগপূর্ণ মিথস্ক্রিয়া",
     "preview": "https://img.aishort.top/imgprompt/20260211191454771.webp"
   },
   {
     "displayName": "special_feeling_(meme)",
-    "langName": "বরফে ছাতা ধরে প্রেমিকরা",
+    "langName": "স্পেশাল ফিলিং মেমে",
     "object": "অ্যাকশন",
     "attribute": "আবেগপূর্ণ মিথস্ক্রিয়া",
     "preview": "https://img.aishort.top/imgprompt/20260211191507001.webp"
@@ -12608,7 +12608,7 @@
   },
   {
     "displayName": "wrestling",
-    "langName": "কুস্তি (খেলাধুলা)",
+    "langName": "কুস্তি",
     "object": "অ্যাকশন",
     "attribute": "ব্যায়াম",
     "preview": "https://img.aishort.top/imgprompt/20260211191925002.webp"
@@ -12762,7 +12762,7 @@
   },
   {
     "displayName": "tripping",
-    "langName": "উপর tripped",
+    "langName": "হোঁচট খাওয়া",
     "object": "অ্যাকশন",
     "attribute": "লড়াই",
     "preview": "https://img.aishort.top/imgprompt/20260317125111120.webp"
@@ -12818,7 +12818,7 @@
   },
   {
     "displayName": "skirt_flip",
-    "langName": "স্কার্ট উত্তোলন (জরুরি অর্থ সহ)",
+    "langName": "স্কার্ট ওড়ানো",
     "object": "অ্যাকশন",
     "attribute": "পোশাক ঠিক করা",
     "preview": "https://img.aishort.top/imgprompt/20260317125226840.webp"
@@ -12895,7 +12895,7 @@
   },
   {
     "displayName": "tying",
-    "langName": "একটি গিঁট বাঁধা (ক্রিয়া)",
+    "langName": "গিঁট বাঁধা",
     "object": "অ্যাকশন",
     "attribute": "পোশাক ঠিক করা",
     "preview": "https://img.aishort.top/imgprompt/20260211192806302.webp"
@@ -12930,7 +12930,7 @@
   },
   {
     "displayName": "pulled_by_another",
-    "langName": "অন্য ব্যক্তির দ্বারা টানা (বা পোশাকের উপর টানা)",
+    "langName": "টেনে নেওয়া",
     "object": "অ্যাকশন",
     "attribute": "পোশাক ঠিক করা",
     "preview": "https://img.aishort.top/imgprompt/20260317125423077.webp"
@@ -12951,7 +12951,7 @@
   },
   {
     "displayName": "bunching_hair",
-    "langName": "braids রাখা",
+    "langName": "হাতে বেণি ধরে থাকা",
     "object": "অ্যাকশন",
     "attribute": "পোশাক ঠিক করা",
     "preview": "https://img.aishort.top/imgprompt/20260211192947462.webp"
@@ -12993,7 +12993,7 @@
   },
   {
     "displayName": "holding_bow_(weapon)",
-    "langName": "ধনুক ধরে রাখা (অস্ত্র)",
+    "langName": "ধনুক ধরে থাকা",
     "object": "অ্যাকশন",
     "attribute": "অস্ত্র এবং সরঞ্জাম",
     "preview": "https://img.aishort.top/imgprompt/20260211193102894.webp"
@@ -13084,7 +13084,7 @@
   },
   {
     "displayName": "Kabedon",
-    "langName": "প্রাচীর ঠুং শব্দ",
+    "langName": "কাবেদোন",
     "object": "অ্যাকশন",
     "attribute": "বিশেষ ভঙ্গি",
     "preview": "https://img.aishort.top/imgprompt/20260211193512046.webp"
@@ -13245,7 +13245,7 @@
   },
   {
     "displayName": "tail_wagging",
-    "langName": "wagging লেজ",
+    "langName": "লেজ নাড়ানো",
     "object": "অ্যাকশন",
     "attribute": "বিশেষ ভঙ্গি",
     "preview": "https://img.aishort.top/imgprompt/20260211194004625.webp"
@@ -13385,7 +13385,7 @@
   },
   {
     "displayName": "floating and rainbow long hair,Iridescence and rainbow,beautiful detailed starry sky",
-    "langName": "iridescence পদ্ধতি",
+    "langName": "রামধনু রঙের ঝলকানি",
     "object": "অ্যাকশন",
     "attribute": "জাদু",
     "preview": "https://img.aishort.top/imgprompt/20260211194525636.webp"
@@ -13412,7 +13412,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211194606041.webp"
   },
   {
-    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset)),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
+    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset))),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
     "langName": "গোধূলি পদ্ধতি",
     "object": "অ্যাকশন",
     "attribute": "জাদু",
@@ -13525,7 +13525,7 @@
   },
   {
     "displayName": "((full body)),(helpless),tear,crying,(((((falling from the sky))))),((Weathering With You)),((falling)),((face towards the sky)),(hair flows upwards),((disheveled hair)),(1 girl),floating,beautiful detailed sky",
-    "langName": "পতন শৈলী (আকাশ দৃশ্য)",
+    "langName": "আকাশ থেকে পড়ার দৃশ্য",
     "object": "অ্যাকশন",
     "attribute": "জাদু",
     "preview": "https://img.aishort.top/imgprompt/20260211194938656.webp"
@@ -13727,7 +13727,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195607630.webp"
   },
   {
-    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood))),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
+    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood)),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
     "langName": "রক্ত সংস্কার আইন",
     "object": "অ্যাকশন",
     "attribute": "জাদু",
@@ -13812,7 +13812,7 @@
   },
   {
     "displayName": "smug",
-    "langName": "smug",
+    "langName": "আত্মতৃপ্ত হাসি",
     "object": "অভিব্যক্তি",
     "attribute": "হাসে",
     "preview": "https://img.aishort.top/imgprompt/20260211195936066.webp"
@@ -14002,7 +14002,7 @@
   },
   {
     "displayName": "disgust",
-    "langName": "বিরক্ত (আবর্জনার মতো দেখায়)",
+    "langName": "ঘৃণা / তাচ্ছিল্য",
     "object": "অভিব্যক্তি",
     "attribute": "অবজ্ঞা",
     "preview": "https://img.aishort.top/imgprompt/20260317071358725.webp"
@@ -14023,7 +14023,7 @@
   },
   {
     "displayName": "shaded_face",
-    "langName": "মুখে একটা ছায়া আছে, মেলে অবজ্ঞা",
+    "langName": "ছায়াময় মুখ",
     "object": "অভিব্যক্তি",
     "attribute": "অবজ্ঞা",
     "preview": "https://img.aishort.top/imgprompt/20260212085009132.webp"
@@ -14044,7 +14044,7 @@
   },
   {
     "displayName": "wince",
-    "langName": "ভ্রুকুটি (যৌন মিলনের আগে)",
+    "langName": "ভ্রুকুটি করা",
     "object": "অভিব্যক্তি",
     "attribute": "অবজ্ঞা",
     "preview": "https://img.aishort.top/imgprompt/20260212085045682.webp"
@@ -14079,7 +14079,7 @@
   },
   {
     "displayName": "serious",
-    "langName": "গুরুতর (রাগীর মত)",
+    "langName": "গুরুগম্ভীর",
     "object": "অভিব্যক্তি",
     "attribute": "রাগ",
     "preview": "https://img.aishort.top/imgprompt/20260212085145957.webp"
@@ -14100,7 +14100,7 @@
   },
   {
     "displayName": "screaming",
-    "langName": "চিৎকার | চিৎকার",
+    "langName": "চিৎকার",
     "object": "অভিব্যক্তি",
     "attribute": "রাগ",
     "preview": "https://img.aishort.top/imgprompt/20260212085219929.webp"
@@ -14163,7 +14163,7 @@
   },
   {
     "displayName": "embarrass",
-    "langName": "লাজুক (বিশ্রী)",
+    "langName": "লজ্জিত",
     "object": "অভিব্যক্তি",
     "attribute": "অন্যান্য অভিব্যক্তি",
     "preview": "https://img.aishort.top/imgprompt/20260212085408608.webp"
@@ -14380,7 +14380,7 @@
   },
   {
     "displayName": "torogao",
-    "langName": "অস্পষ্ট চোখ",
+    "langName": "তোরোগাও",
     "object": "অভিব্যক্তি",
     "attribute": "অন্যান্য অভিব্যক্তি",
     "preview": "https://img.aishort.top/imgprompt/20260228103646110.webp"
@@ -14702,7 +14702,7 @@
   },
   {
     "displayName": "hanten_clothes",
-    "langName": "তোমাতা (জাপানি স্টাইল)",
+    "langName": "হানতেন",
     "object": "পোশাক",
     "attribute": "পোশাক শৈলী",
     "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
@@ -14716,7 +14716,7 @@
   },
   {
     "displayName": "furisode",
-    "langName": "ফুরিসোড (কিমোনোর অংশ)",
+    "langName": "ফুরিসোডে",
     "object": "পোশাক",
     "attribute": "পোশাক শৈলী",
     "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
@@ -14744,14 +14744,14 @@
   },
   {
     "displayName": "uchikake",
-    "langName": "বাই উজিয়া (জাপানি বিয়ের পোশাক)",
+    "langName": "উচিকাখে / শিরোমুকু",
     "object": "পোশাক",
     "attribute": "পোশাক শৈলী",
     "preview": "https://img.aishort.top/imgprompt/20260212110020279.webp"
   },
   {
     "displayName": "obi",
-    "langName": "ওবি (কিমোনো কোমরবন্ধ)",
+    "langName": "ওবি",
     "object": "পোশাক",
     "attribute": "পোশাক শৈলী",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -14765,7 +14765,7 @@
   },
   {
     "displayName": "print_cheongsam",
-    "langName": "মুদ্রিত cheongsam",
+    "langName": "মুদ্রিত চিপাও",
     "object": "পোশাক",
     "attribute": "পোশাক শৈলী",
     "preview": "https://img.aishort.top/imgprompt/20260212111114508.webp"
@@ -14800,7 +14800,7 @@
   },
   {
     "displayName": "Ao_Dai",
-    "langName": "ভিয়েতনামী পোশাক (Ao Dai)",
+    "langName": "আও দাই",
     "object": "পোশাক",
     "attribute": "পোশাক শৈলী",
     "preview": "https://img.aishort.top/imgprompt/20260212112032273.webp"
@@ -14947,14 +14947,14 @@
   },
   {
     "displayName": "alternate_costume",
-    "langName": "বিকল্প পোশাক যা চরিত্রের আসল চেহারা থেকে আলাদা",
+    "langName": "বিকল্প পোশাক",
     "object": "পোশাক",
     "attribute": "পোশাক শৈলী",
     "preview": "https://img.aishort.top/imgprompt/20260212120626953.webp"
   },
   {
     "displayName": "costume_switch",
-    "langName": "জামাকাপড় পরিবর্তন খেলা",
+    "langName": "পোশাক বিনিময়",
     "object": "পোশাক",
     "attribute": "পোশাক শৈলী",
     "preview": "https://img.aishort.top/imgprompt/20260212120842799.webp"
@@ -15010,14 +15010,14 @@
   },
   {
     "displayName": "white chest po skirt",
-    "langName": "busty স্কার্ট",
+    "langName": "বুকের ওপরে পরা স্কার্ট",
     "object": "পোশাক",
     "attribute": "প্রাচীন শৈলী",
     "preview": "https://img.aishort.top/imgprompt/20260317071440831.webp"
   },
   {
     "displayName": "red chest pleated skirt",
-    "langName": "বুকের দৈর্ঘ্যের pleated স্কার্ট",
+    "langName": "বুকের দৈর্ঘ্যের কুঁচিযুক্ত স্কার্ট",
     "object": "পোশাক",
     "attribute": "প্রাচীন শৈলী",
     "preview": "https://img.aishort.top/imgprompt/20260212123059075.webp"
@@ -15038,7 +15038,7 @@
   },
   {
     "displayName": "purple short shan",
-    "langName": "বেগুনি সংক্ষিপ্ত fir",
+    "langName": "বেগুনি খাটো পোশাক",
     "object": "পোশাক",
     "attribute": "প্রাচীন শৈলী",
     "preview": "https://img.aishort.top/imgprompt/20260212123746907.webp"
@@ -15052,7 +15052,7 @@
   },
   {
     "displayName": "translucent white pleated skirt",
-    "langName": "আধা নিছক সাদা pleated স্কার্ট",
+    "langName": "স্বচ্ছ সাদা কুঁচিযুক্ত স্কার্ট",
     "object": "পোশাক",
     "attribute": "প্রাচীন শৈলী",
     "preview": "https://img.aishort.top/imgprompt/20260212124218502.webp"
@@ -15164,7 +15164,7 @@
   },
   {
     "displayName": "evening_gown",
-    "langName": "গাউন (লম্বা পোশাক)",
+    "langName": "ইভনিং গাউন",
     "object": "পোশাক",
     "attribute": "আনুষ্ঠানিক পরিধান",
     "preview": "https://img.aishort.top/imgprompt/20260212125805414.webp"
@@ -15206,7 +15206,7 @@
   },
   {
     "displayName": "serafuku",
-    "langName": "নাবিক ইউনিফর্ম (স্কুল ইউনিফর্ম)",
+    "langName": "সেইলার ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "আনুষ্ঠানিক পরিধান",
     "preview": "https://img.aishort.top/imgprompt/20260212130530516.webp"
@@ -15290,7 +15290,7 @@
   },
   {
     "displayName": "chef_uniform",
-    "langName": "শেফ overalls",
+    "langName": "শেফের পোশাক",
     "object": "পোশাক",
     "attribute": "আনুষ্ঠানিক পরিধান",
     "preview": "https://img.aishort.top/imgprompt/20260212132835316.webp"
@@ -15311,7 +15311,7 @@
   },
   {
     "displayName": "leotard",
-    "langName": "leotard",
+    "langName": "লিওটার্ড",
     "object": "পোশাক",
     "attribute": "আনুষ্ঠানিক পরিধান",
     "preview": "https://img.aishort.top/imgprompt/20260212133523409.webp"
@@ -15542,7 +15542,7 @@
   },
   {
     "displayName": "school_swimsuit",
-    "langName": "স্কুলের সাঁতারের পোশাক (সুইকু ওয়াটার)",
+    "langName": "স্কুল সুইমসুট",
     "object": "পোশাক",
     "attribute": "সাঁতারের পোষাক",
     "preview": "https://img.aishort.top/imgprompt/20260225102036109.webp"
@@ -15605,7 +15605,7 @@
   },
   {
     "displayName": "swimsuit_of_perpetual_summer",
-    "langName": "চিরস্থায়ী গ্রীষ্মের সাঁতারের পোশাক (FGO)",
+    "langName": "গ্রীষ্মের সাঁতারের পোশাক (FGO)",
     "object": "পোশাক",
     "attribute": "সাঁতারের পোষাক",
     "preview": "https://img.aishort.top/imgprompt/20260317071630637.webp"
@@ -15878,14 +15878,14 @@
   },
   {
     "displayName": "swimsuit_aside",
-    "langName": "সাঁতারের পোশাকের ক্রোচটি একপাশে সরিয়ে দিন",
+    "langName": "সুইমসুট একপাশে সরানো",
     "object": "পোশাক",
     "attribute": "সাঁতারের পোষাক",
     "preview": "https://img.aishort.top/imgprompt/20260212152012611.webp"
   },
   {
     "displayName": "swimsuit_under_clothes",
-    "langName": "কাপড়ের নিচে সাঁতারের পোষাক পরা",
+    "langName": "পোশাকের নিচে সাঁতারের পোশাক",
     "object": "পোশাক",
     "attribute": "সাঁতারের পোষাক",
     "preview": "https://img.aishort.top/imgprompt/20260317072817093.webp"
@@ -15948,7 +15948,7 @@
   },
   {
     "displayName": "anzio_military_uniform",
-    "langName": "Anzio সামরিক ইউনিফর্ম",
+    "langName": "আনজিও সামরিক ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260212153032394.webp"
@@ -15990,7 +15990,7 @@
   },
   {
     "displayName": "chi-hatan_military_uniform",
-    "langName": "ঝিহা দান একাডেমী ইউনিফর্ম",
+    "langName": "চি-হা-তান একাডেমি সামরিক ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260212153151798.webp"
@@ -16025,21 +16025,21 @@
   },
   {
     "displayName": "hikarizaka_private_high_school_uniform",
-    "langName": "বেসরকারী মিৎসুসাকা উচ্চ বিদ্যালয়ের ইউনিফর্ম",
+    "langName": "হিকারিজাকা প্রাইভেট হাই স্কুল ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260212153257185.webp"
   },
   {
     "displayName": "homurahara_academy_uniform",
-    "langName": "সুই গুনহারা একাডেমির ইউনিফর্ম",
+    "langName": "হোমুরাহারা একাডেমি ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260212153310241.webp"
   },
   {
     "displayName": "kamiyama_high_school_uniform",
-    "langName": "কৈলাস হাই স্কুল ইউনিফর্ম",
+    "langName": "কামিয়ামা হাই স্কুল ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260212153323486.webp"
@@ -16067,7 +16067,7 @@
   },
   {
     "displayName": "luna_nova_school_uniform",
-    "langName": "Runanova ম্যাজিক স্কুল ইউনিফর্ম",
+    "langName": "লুনা নোভা জাদু স্কুলের ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260212153415593.webp"
@@ -16088,21 +16088,21 @@
   },
   {
     "displayName": "nami_junior_high_school_uniform",
-    "langName": "বোলু মিডল স্কুল ইউনিফর্ম",
+    "langName": "নামি মিডল স্কুল ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260212153455870.webp"
   },
   {
     "displayName": "nanairogaoka_middle_school_uniform",
-    "langName": "কিসেকিউ মিডল স্কুল ইউনিফর্ম",
+    "langName": "নানাইরোগাওকা মিডল স্কুল ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260212153509132.webp"
   },
   {
     "displayName": "nanamori_school_uniform",
-    "langName": "কিসেন মিডল স্কুল ইউনিফর্ম",
+    "langName": "নেনামোরি মিডল স্কুল ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260212153725574.webp"
@@ -16172,14 +16172,14 @@
   },
   {
     "displayName": "rabbit_house_uniform",
-    "langName": "দিয়ানটু হাউস ইউনিফর্ম",
+    "langName": "র‌্যাবিট হাউস ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213055157775.webp"
   },
   {
     "displayName": "raimon_soccer_uniform",
-    "langName": "থান্ডার গেট ফুটবল ইউনিফর্ম",
+    "langName": "রাইমন ফুটবল দলের ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213055210653.webp"
@@ -16193,7 +16193,7 @@
   },
   {
     "displayName": "sakugawa_school_uniform",
-    "langName": "ঝাচুয়ান মিডল স্কুল ইউনিফর্ম",
+    "langName": "সাকুগাওয়া মিডল স্কুল ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213055439290.webp"
@@ -16242,7 +16242,7 @@
   },
   {
     "displayName": "shuujin_academy_uniform",
-    "langName": "কলেজ ইউনিফর্ম দেখান",
+    "langName": "শুজিং একাডেমি ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213060421601.webp"
@@ -16263,49 +16263,49 @@
   },
   {
     "displayName": "starlight_academy_uniform",
-    "langName": "স্টার অপটিক্যাল পার্ক ইউনিফর্ম",
+    "langName": "স্টারলাইট একাডেমি ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213060500805.webp"
   },
   {
     "displayName": "tokisadame_school_uniform",
-    "langName": "নিয়মিত কলেজ ইউনিফর্ম",
+    "langName": "টোকিসাদামে হাই স্কুল ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213060513970.webp"
   },
   {
     "displayName": "tokiwadai_school_uniform",
-    "langName": "টোকিওয়া তাইচুং স্কুল ইউনিফর্ম",
+    "langName": "টোকিওয়াদাই মিডল স্কুল ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213060526744.webp"
   },
   {
     "displayName": "tomoeda_elementary_school_uniform",
-    "langName": "Youzhi প্রাথমিক বিদ্যালয় ইউনিফর্ম",
+    "langName": "তোমোয়েদা প্রাথমিক বিদ্যালয়ের ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213060539748.webp"
   },
   {
     "displayName": "tsab_ground_military_uniform",
-    "langName": "TSAB ইউনিফর্ম",
+    "langName": "টিএসএবি সামরিক ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213060553564.webp"
   },
   {
     "displayName": "u.a._school_uniform",
-    "langName": "Xiongying উচ্চ বিদ্যালয় ইউনিফর্ম",
+    "langName": "ইউ.এ. হাই স্কুল ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213060607357.webp"
   },
   {
     "displayName": "uranohoshi_school_uniform",
-    "langName": "উরা না হোশি গার্লস কলেজের ইউনিফর্ম",
+    "langName": "ইউরানোহোশি গার্লস হাই স্কুল ইউনিফর্ম",
     "object": "পোশাক",
     "attribute": "স্কুল ইউনিফর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213060620807.webp"
@@ -16354,7 +16354,7 @@
   },
   {
     "displayName": "frilled_shirt",
-    "langName": "ruffled শার্ট",
+    "langName": "ঝালরযুক্ত শার্ট",
     "object": "পোশাক",
     "attribute": "জ্যাকেট",
     "preview": "https://img.aishort.top/imgprompt/20260213060752250.webp"
@@ -16424,7 +16424,7 @@
   },
   {
     "displayName": "short sleeve T-shirts",
-    "langName": "শর্ট-হাতা টি-শার্ট (কাঁধের শার্ট)",
+    "langName": "হাফ হাতা টি-শার্ট",
     "object": "পোশাক",
     "attribute": "জ্যাকেট",
     "preview": "https://img.aishort.top/imgprompt/20260213063027450.webp"
@@ -16445,7 +16445,7 @@
   },
   {
     "displayName": "criss-cross_halter",
-    "langName": "ক্রস halter শীর্ষ",
+    "langName": "ক্রস হল্টার টপ",
     "object": "পোশাক",
     "attribute": "জ্যাকেট",
     "preview": "https://img.aishort.top/imgprompt/20260317072856303.webp"
@@ -16466,7 +16466,7 @@
   },
   {
     "displayName": "tank_top",
-    "langName": "ন্যস্ত (বাড়ি)",
+    "langName": "ট্যাঙ্ক টপ",
     "object": "পোশাক",
     "attribute": "জ্যাকেট",
     "preview": "https://img.aishort.top/imgprompt/20260213064156253.webp"
@@ -16494,7 +16494,7 @@
   },
   {
     "displayName": "vest",
-    "langName": "ন্যস্ত (আনুষ্ঠানিক)",
+    "langName": "ফর্মাল ভেস্ট",
     "object": "পোশাক",
     "attribute": "জ্যাকেট",
     "preview": "https://img.aishort.top/imgprompt/20260213064408586.webp"
@@ -16508,7 +16508,7 @@
   },
   {
     "displayName": "waistcoat",
-    "langName": "কোমর কোট (আনুষ্ঠানিক)",
+    "langName": "ওয়েস্টকোট",
     "object": "পোশাক",
     "attribute": "জ্যাকেট",
     "preview": "https://img.aishort.top/imgprompt/20260213064435011.webp"
@@ -16599,7 +16599,7 @@
   },
   {
     "displayName": "kappougi",
-    "langName": "একটি ব্লাউজ (রান্না করার সময় পরা)",
+    "langName": "কাপ্পৌগি",
     "object": "পোশাক",
     "attribute": "জ্যাকেট",
     "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
@@ -16648,7 +16648,7 @@
   },
   {
     "displayName": "shirt_tucked_in",
-    "langName": "শার্ট প্যান্ট মধ্যে tucked",
+    "langName": "ইন করা শার্ট",
     "object": "পোশাক",
     "attribute": "জ্যাকেট",
     "preview": "https://img.aishort.top/imgprompt/20260213070343156.webp"
@@ -16662,7 +16662,7 @@
   },
   {
     "displayName": "tied_shirt",
-    "langName": "টাই-আপ শার্ট (কোণা এবং হেম গিঁট)",
+    "langName": "গিঁট দেওয়া শার্ট",
     "object": "পোশাক",
     "attribute": "জ্যাকেট",
     "preview": "https://img.aishort.top/imgprompt/20260213070412064.webp"
@@ -16746,7 +16746,7 @@
   },
   {
     "displayName": "button_gap",
-    "langName": "বোতামগুলির মধ্যে ফাঁক (বাটন খোলা নয়)",
+    "langName": "বোতামের ফাঁক",
     "object": "পোশাক",
     "attribute": "জ্যাকেট",
     "preview": "https://img.aishort.top/imgprompt/20260213071455826.webp"
@@ -16879,21 +16879,21 @@
   },
   {
     "displayName": "strap_slip",
-    "langName": "কাঁধের চাবুক পিছলে গেছে (ফুঁসের দিকে নিয়ে যাওয়া)",
+    "langName": "স্ট্র্যাপ পিছলে যাওয়া",
     "object": "পোশাক",
     "attribute": "জ্যাকেট",
     "preview": "https://img.aishort.top/imgprompt/20260228101844680.webp"
   },
   {
     "displayName": "wedgie",
-    "langName": "এমবেডেড (ক্রচ এলাকায় কাপড় টানার কারণে)",
+    "langName": "ওয়েজি",
     "object": "পোশাক",
     "attribute": "জ্যাকেট",
     "preview": "https://img.aishort.top/imgprompt/20260225103744943.webp"
   },
   {
     "displayName": "wardrobe_malfunction",
-    "langName": "জামাকাপড়ের কিছু ঘটেছে (যেমন ভেঙে পড়া)",
+    "langName": "পোশাকের ত্রুটি",
     "object": "পোশাক",
     "attribute": "জ্যাকেট",
     "preview": "https://img.aishort.top/imgprompt/20260213075235531.webp"
@@ -16984,7 +16984,7 @@
   },
   {
     "displayName": "double-breasted",
-    "langName": "ডাবল-ব্রেস্টেড বোতাম (ডাবল-ব্রেস্টেড বোতাম",
+    "langName": "ডাবল-ব্রেস্টেড",
     "object": "পোশাক",
     "attribute": "কোট",
     "preview": "https://img.aishort.top/imgprompt/20260213075715469.webp"
@@ -17054,7 +17054,7 @@
   },
   {
     "displayName": "jacket_partially_removed",
-    "langName": "জ্যাকেট আংশিক খুলে ফেলা হয়েছে",
+    "langName": "অর্ধেক খোলা জ্যাকেট",
     "object": "পোশাক",
     "attribute": "কোট",
     "preview": "https://img.aishort.top/imgprompt/20260213081023629.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "কার্ডিগান জ্যাকেট (পা ছড়ানো অবস্থায়)",
+    "langName": "খোলা জ্যাকেট",
     "object": "পোশাক",
     "attribute": "কোট",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -17362,7 +17362,7 @@
   },
   {
     "displayName": "diving suit",
-    "langName": "wetsuit",
+    "langName": "ডাইভিং স্যুট",
     "object": "পোশাক",
     "attribute": "কোট",
     "preview": "https://img.aishort.top/imgprompt/20260213084422283.webp"
@@ -18048,7 +18048,7 @@
   },
   {
     "displayName": "corset",
-    "langName": "কাঁচুলি (কোমর কোট)",
+    "langName": "করসেট",
     "object": "পোশাক",
     "attribute": "কোমর",
     "preview": "https://img.aishort.top/imgprompt/20260225104053785.webp"
@@ -18097,7 +18097,7 @@
   },
   {
     "displayName": "kusazuri",
-    "langName": "ফুডাং | কুসাজুরি (জাপানি নিম্ন অর্ধেক বর্ম",
+    "langName": "কুসাজুরি",
     "object": "পোশাক",
     "attribute": "বর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213115508736.webp"
@@ -18118,7 +18118,7 @@
   },
   {
     "displayName": "kabuto",
-    "langName": "হেলমেট (জাপানি শৈলী)",
+    "langName": "काबুতো",
     "object": "পোশাক",
     "attribute": "বর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213115548290.webp"
@@ -18132,7 +18132,7 @@
   },
   {
     "displayName": "shoulder_armor",
-    "langName": "কাঁধ",
+    "langName": "কাঁধের বর্ম",
     "object": "পোশাক",
     "attribute": "বর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213115612426.webp"
@@ -18153,14 +18153,14 @@
   },
   {
     "displayName": "faulds",
-    "langName": "প্লাস্ট্রন",
+    "langName": "কোমরের বর্ম",
     "object": "পোশাক",
     "attribute": "বর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213115855297.webp"
   },
   {
     "displayName": "greaves",
-    "langName": "গ্রীভস",
+    "langName": "পায়ের বর্ম",
     "object": "পোশাক",
     "attribute": "বর্ম",
     "preview": "https://img.aishort.top/imgprompt/20260213115908428.webp"
@@ -18216,7 +18216,7 @@
   },
   {
     "displayName": "strapless_dress",
-    "langName": "strapless পোষাক",
+    "langName": "স্ট্র্যাপহীন পোশাক",
     "object": "পোশাক",
     "attribute": "স্কার্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213120050532.webp"
@@ -18237,7 +18237,7 @@
   },
   {
     "displayName": "sundress",
-    "langName": "স্লিপ ড্রেস (গরম আবহাওয়ার জন্য স্লিভলেস ড্রেস)",
+    "langName": "সানড্রেস",
     "object": "পোশাক",
     "attribute": "স্কার্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213121003959.webp"
@@ -18321,7 +18321,7 @@
   },
   {
     "displayName": "pleated_dress",
-    "langName": "pleated পোষাক",
+    "langName": "কুঁচিযুক্ত পোশাক",
     "object": "পোশাক",
     "attribute": "স্কার্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213122248114.webp"
@@ -18342,7 +18342,7 @@
   },
   {
     "displayName": "impossible_dress",
-    "langName": "খুব আঁটসাঁট পোশাক",
+    "langName": "অতি আঁটসাঁট পোশাক",
     "object": "পোশাক",
     "attribute": "স্কার্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213122932976.webp"
@@ -18363,7 +18363,7 @@
   },
   {
     "displayName": "ribbed_dress",
-    "langName": "ribbed পোষাক",
+    "langName": "রিবড পোশাক",
     "object": "পোশাক",
     "attribute": "স্কার্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213123213587.webp"
@@ -18426,7 +18426,7 @@
   },
   {
     "displayName": "pleated_skirt",
-    "langName": "pleated স্কার্ট",
+    "langName": "কুঁচিযুক্ত স্কার্ট",
     "object": "পোশাক",
     "attribute": "স্কার্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213123411189.webp"
@@ -18454,14 +18454,14 @@
   },
   {
     "displayName": "ballgown",
-    "langName": "টুটু (পোশাক)",
+    "langName": "বল গাউন",
     "object": "পোশাক",
     "attribute": "স্কার্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213123502356.webp"
   },
   {
     "displayName": "pettiskirt",
-    "langName": "টুটু (শিশু)",
+    "langName": "পেটিকার্ট",
     "object": "পোশাক",
     "attribute": "স্কার্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213123515479.webp"
@@ -18741,7 +18741,7 @@
   },
   {
     "displayName": "side_slit",
-    "langName": "পার্শ্ব slits",
+    "langName": "পাশের চেরা অংশ",
     "object": "পোশাক",
     "attribute": "প্যান্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213134145849.webp"
@@ -18811,14 +18811,14 @@
   },
   {
     "displayName": "dolphin_shorts",
-    "langName": "ডলফিন শর্টস (সত্য প্যান্ট)",
+    "langName": "ডলফিন শর্টস",
     "object": "পোশাক",
     "attribute": "প্যান্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213134352207.webp"
   },
   {
     "displayName": "dolfin_shorts",
-    "langName": "ডলফিন শর্টস (সত্য প্যান্ট)",
+    "langName": "ডলফিন শর্টস",
     "object": "পোশাক",
     "attribute": "প্যান্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213134404755.webp"
@@ -18832,14 +18832,14 @@
   },
   {
     "displayName": "crotchless_pants",
-    "langName": "ক্রোচলেস প্যান্ট (আঁটসাঁট)",
+    "langName": "ক্রচহীন প্যান্ট",
     "object": "পোশাক",
     "attribute": "প্যান্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213134430564.webp"
   },
   {
     "displayName": "track_pants",
-    "langName": "sweatpants",
+    "langName": "ট্র্যাক প্যান্ট",
     "object": "পোশাক",
     "attribute": "প্যান্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213134443338.webp"
@@ -18895,14 +18895,14 @@
   },
   {
     "displayName": "bloomers",
-    "langName": "bloomers",
+    "langName": "ব্লুমার প্যান্ট",
     "object": "পোশাক",
     "attribute": "প্যান্ট",
     "preview": "https://img.aishort.top/imgprompt/20260225104238343.webp"
   },
   {
     "displayName": "buruma",
-    "langName": "মহিলাদের bloomers",
+    "langName": "ব্লুমার শর্টস",
     "object": "পোশাক",
     "attribute": "প্যান্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213134638186.webp"
@@ -18916,7 +18916,7 @@
   },
   {
     "displayName": "cargo_pants",
-    "langName": "overalls",
+    "langName": "কার্গো প্যান্ট",
     "object": "পোশাক",
     "attribute": "প্যান্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213134704117.webp"
@@ -18937,14 +18937,14 @@
   },
   {
     "displayName": "chaps",
-    "langName": "লেদার চ্যাপস (উপরে প্রশস্ত এবং নীচে সরু)",
+    "langName": "চ্যাপস",
     "object": "পোশাক",
     "attribute": "প্যান্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213134945047.webp"
   },
   {
     "displayName": "jumpsuit",
-    "langName": "(বিশেষ করে মহিলাদের) জাম্পস্যুট",
+    "langName": "জাম্পসুট",
     "object": "পোশাক",
     "attribute": "প্যান্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213134957992.webp"
@@ -18979,7 +18979,7 @@
   },
   {
     "displayName": "leotard_aside",
-    "langName": "জাম্পসুটের খোসা ছাড়িয়ে নিন",
+    "langName": "লিওটার্ড একপাশে সরানো",
     "object": "পোশাক",
     "attribute": "প্যান্ট",
     "preview": "https://img.aishort.top/imgprompt/20260213135915193.webp"
@@ -19049,7 +19049,7 @@
   },
   {
     "displayName": "overalls",
-    "langName": "overalls",
+    "langName": "ওভারঅল",
     "object": "পোশাক",
     "attribute": "নিচের পোশাক",
     "preview": "https://img.aishort.top/imgprompt/20260213141346902.webp"
@@ -19140,21 +19140,21 @@
   },
   {
     "displayName": "pantyhose",
-    "langName": "প্যান্টিহোজ | প্যান্টিহোজ",
+    "langName": "প্যান্টিহোজ",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213142442251.webp"
   },
   {
     "displayName": "legwear",
-    "langName": "প্যান্টিহোজ",
+    "langName": "লেগওয়্য়ার",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260225104603819.webp"
   },
   {
     "displayName": "thighhighs",
-    "langName": "স্টকিংস (হাঁটু-উচ্চ মোজা)",
+    "langName": "থাই-হাই মোজা",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213142506603.webp"
@@ -19217,7 +19217,7 @@
   },
   {
     "displayName": "pantylines",
-    "langName": "টাইট আঁটসাঁট পোশাক (লাইনগুলি রূপরেখা করুন",
+    "langName": "দৃশ্যমান প্যান্টি লাইন",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260317074408132.webp"
@@ -19231,7 +19231,7 @@
   },
   {
     "displayName": "panties_under_pantyhose",
-    "langName": "pantyhose মধ্যে অন্তর্বাস",
+    "langName": "প্যান্টিহোসের নিচে অন্তর্বাস",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260317074429396.webp"
@@ -19308,14 +19308,14 @@
   },
   {
     "displayName": "suspenders",
-    "langName": "garters",
+    "langName": "গার্টার্স",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213142956794.webp"
   },
   {
     "displayName": "torn_legwear",
-    "langName": "ছেঁড়া pantyhose",
+    "langName": "ছেঁড়া প্যান্টিহোস",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213143009766.webp"
@@ -19350,14 +19350,14 @@
   },
   {
     "displayName": "seamed_legwear",
-    "langName": "seams সঙ্গে মোজা",
+    "langName": "পেছনের সেলাইযুক্ত মোজা",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213143923460.webp"
   },
   {
     "displayName": "back-seamed_legwear",
-    "langName": "মাঝখানে একটি কালো লাইন সঙ্গে মোজা",
+    "langName": "পেছনে সেলাইযুক্ত মোজা",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260225104949341.webp"
@@ -19413,14 +19413,14 @@
   },
   {
     "displayName": "bobby_socks",
-    "langName": "ববি মোজা (সাদা মোজা)",
+    "langName": "ববি মোজা",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213144125119.webp"
   },
   {
     "displayName": "tabi",
-    "langName": "জাপানি মোটা সোল্ড মোজা (পায়ের পকেট)",
+    "langName": "তাবি",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213144138485.webp"
@@ -19434,7 +19434,7 @@
   },
   {
     "displayName": "leg_warmers",
-    "langName": "পা উষ্ণকারী | পা উষ্ণকারী",
+    "langName": "পা উষ্ণকারী",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213144203562.webp"
@@ -19462,14 +19462,14 @@
   },
   {
     "displayName": "leg_garter",
-    "langName": "পায়ে রিং | garters",
+    "langName": "পায়ের রিং ও গার্টার",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260225090124449.webp"
   },
   {
     "displayName": "garter_straps",
-    "langName": "garters জন্য সাসপেন্ডার",
+    "langName": "গার্টার বেল্টের ফিতা",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213144308157.webp"
@@ -19518,7 +19518,7 @@
   },
   {
     "displayName": "thigh_holster",
-    "langName": "পায়ে একটি স্ট্র্যাপ বা টুল ব্যাগ বা হোলস্টার",
+    "langName": "উরুর হোলস্টার",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213144441392.webp"
@@ -19532,21 +19532,21 @@
   },
   {
     "displayName": "argyle_legwear",
-    "langName": "argyle প্যাটার্ন সঙ্গে আঁটসাঁট পোশাক",
+    "langName": "আর্গাইল নকশার মোজা",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213144507325.webp"
   },
   {
     "displayName": "bow_legwear",
-    "langName": "নম সঙ্গে pantyhose",
+    "langName": "বো বাঁধা প্যান্টিহোস",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213144520046.webp"
   },
   {
     "displayName": "arm_garter",
-    "langName": "বুম গার্টার",
+    "langName": "আর্ম গার্টার",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213144735280.webp"
@@ -19581,7 +19581,7 @@
   },
   {
     "displayName": "garters",
-    "langName": "garters",
+    "langName": "গার্টার বেল্ট",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260317074820087.webp"
@@ -19595,7 +19595,7 @@
   },
   {
     "displayName": "rilled thighhighs",
-    "langName": "frilly স্টকিংস",
+    "langName": "ঝালরযুক্ত উরু-উঁচু মোজা",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213145916679.webp"
@@ -19609,7 +19609,7 @@
   },
   {
     "displayName": "lace legwear",
-    "langName": "জরি pantyhose",
+    "langName": "লেসযুক্ত প্যান্টিহোস",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260317074840960.webp"
@@ -19637,7 +19637,7 @@
   },
   {
     "displayName": "adjusting_legwear",
-    "langName": "pantyhose সংগঠিত",
+    "langName": "প্যান্টিহোস ঠিক করা",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213150030740.webp"
@@ -19658,21 +19658,21 @@
   },
   {
     "displayName": "sock_pull",
-    "langName": "মোজা (মোজা) উপর টানা",
+    "langName": "মোজা টেনে তোলা",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260213150519193.webp"
   },
   {
     "displayName": "thighhighs_pull",
-    "langName": "মোজা উপর টানা (স্টকিংস)",
+    "langName": "লম্বা মোজা টেনে তোলা",
     "object": "পোশাক",
     "attribute": "মোজা",
     "preview": "https://img.aishort.top/imgprompt/20260225090322289.webp"
   },
   {
     "displayName": "frilled",
-    "langName": "frills",
+    "langName": "কুঁচি দেওয়া",
     "object": "পোশাক",
     "attribute": "সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260317125442068.webp"
@@ -19686,7 +19686,7 @@
   },
   {
     "displayName": "crease",
-    "langName": "কুঁচকানো (pleated)",
+    "langName": "ভাঁজের দাগ",
     "object": "পোশাক",
     "attribute": "সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260213150609920.webp"
@@ -19755,7 +19755,7 @@
   },
   {
     "displayName": "back_bow",
-    "langName": "(পোশাক) পিছনে গিঁট বাঁধা",
+    "langName": "পিঠের ফিতা বা বো",
     "object": "পোশাক",
     "attribute": "সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260213151221218.webp"
@@ -19769,7 +19769,7 @@
   },
   {
     "displayName": "double_vertical_stripe",
-    "langName": "পোশাকে দুটি সমান্তরাল স্ট্রাইপ রয়েছে",
+    "langName": "দ্বৈত উল্লম্ব ডোরা",
     "object": "পোশাক",
     "attribute": "সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
@@ -19818,28 +19818,28 @@
   },
   {
     "displayName": "single_kneehigh",
-    "langName": "একদিকে হাঁটু দৈর্ঘ্যের পোশাক পরা",
+    "langName": "এক পায়ে হাঁটু পর্যন্ত মোজা",
     "object": "পোশাক",
     "attribute": "সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260213151419710.webp"
   },
   {
     "displayName": "single_vertical_stripe",
-    "langName": "পোশাকের একপাশে উল্লম্ব স্ট্রাইপগুলি প্রকাশ করুন",
+    "langName": "একক উল্লম্ব ডোরা",
     "object": "পোশাক",
     "attribute": "সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260213151432314.webp"
   },
   {
     "displayName": "turtleneck",
-    "langName": "turtleneck পোশাক",
+    "langName": "টার্টলনেক পোশাক",
     "object": "পোশাক",
     "attribute": "সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260213151445173.webp"
   },
   {
     "displayName": "two-sided_fabric",
-    "langName": "ডাবল লেয়ার শৈলী পোশাক অঙ্কন পদ্ধতি",
+    "langName": "দ্বিমুখী ফ্যাব্রিক",
     "object": "পোশাক",
     "attribute": "সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260213151458665.webp"
@@ -19860,21 +19860,21 @@
   },
   {
     "displayName": "fringe_trim",
-    "langName": "প্রান্ত (স্কার্ফের শেষ)",
+    "langName": "ঝালরযুক্ত কিনারা",
     "object": "পোশাক",
     "attribute": "সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260213151538074.webp"
   },
   {
     "displayName": "loose_belt",
-    "langName": "আলগা স্ট্র্যাপ (পোশাক)",
+    "langName": "আলগা বেল্ট",
     "object": "পোশাক",
     "attribute": "সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260213151551376.webp"
   },
   {
     "displayName": "pom_pom_(clothes)",
-    "langName": "ছোট পোম পোমস (পোশাকের আনুষাঙ্গিক)",
+    "langName": "পোম-পোম",
     "object": "পোশাক",
     "attribute": "সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260213151807325.webp"
@@ -19895,7 +19895,7 @@
   },
   {
     "displayName": "gathers",
-    "langName": "pleats (পোশাক)",
+    "langName": "কুঁচকানো কাপড়ের ভঙ্গি",
     "object": "পোশাক",
     "attribute": "সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260213151846596.webp"
@@ -19916,7 +19916,7 @@
   },
   {
     "displayName": "argyle",
-    "langName": "Argyle প্যাটার্ন",
+    "langName": "আর্গাইল চেক নকশা",
     "object": "পোশাক",
     "attribute": "প্যাটার্ন",
     "preview": "https://img.aishort.top/imgprompt/20260213151923768.webp"
@@ -20441,7 +20441,7 @@
   },
   {
     "displayName": "peace_symbol",
-    "langName": "☮ (হিগাশিকাটা জোসুকের পোশাকে)",
+    "langName": "শান্তির প্রতীক (☮)",
     "object": "পোশাক",
     "attribute": "প্যাটার্ন",
     "preview": "https://img.aishort.top/imgprompt/20260213154359591.webp"
@@ -20595,7 +20595,7 @@
   },
   {
     "displayName": "black_loafers",
-    "langName": "লোফার (ছোট চামড়ার জুতা)",
+    "langName": "কালো লোফার",
     "object": "পোশাক",
     "attribute": "জুতা",
     "preview": "https://img.aishort.top/imgprompt/20260213160300808.webp"
@@ -20637,7 +20637,7 @@
   },
   {
     "displayName": "strappy_heels",
-    "langName": "strappy হাই হিল",
+    "langName": "ফিতাযুক্ত হাই হিল",
     "object": "পোশাক",
     "attribute": "জুতা",
     "preview": "https://img.aishort.top/imgprompt/20260213161028410.webp"
@@ -20791,7 +20791,7 @@
   },
   {
     "displayName": "sneakers",
-    "langName": "sneakers",
+    "langName": "স্নিকার্স",
     "object": "পোশাক",
     "attribute": "জুতা",
     "preview": "https://img.aishort.top/imgprompt/20260213164952053.webp"
@@ -20868,7 +20868,7 @@
   },
   {
     "displayName": "knee_boots",
-    "langName": "হাঁটু-উঁচু বুট (অশ্বারোহী বুট)",
+    "langName": "হাঁটু পর্যন্ত বুট",
     "object": "পোশাক",
     "attribute": "বুট",
     "preview": "https://img.aishort.top/imgprompt/20260213170630231.webp"
@@ -21043,7 +21043,7 @@
   },
   {
     "displayName": "frilled_sleeves",
-    "langName": "ruffled হাতা প্রান্ত",
+    "langName": "ঝালরযুক্ত হাতার কিনারা",
     "object": "পোশাক",
     "attribute": "হাতা",
     "preview": "https://img.aishort.top/imgprompt/20260213174936053.webp"
@@ -21197,7 +21197,7 @@
   },
   {
     "displayName": "ribbed_sleeves",
-    "langName": "ribbed হাতা",
+    "langName": "রিবড হাতা",
     "object": "পোশাক",
     "attribute": "হাতা",
     "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
@@ -21225,7 +21225,7 @@
   },
   {
     "displayName": "armband",
-    "langName": "বাহুবন্ধনী",
+    "langName": "আর্মব্যান্ড",
     "object": "পোশাক",
     "attribute": "হাতা",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
@@ -21421,7 +21421,7 @@
   },
   {
     "displayName": "Lurex",
-    "langName": "purl",
+    "langName": "লুরেক্স",
     "object": "পোশাক",
     "attribute": "কাপড়",
     "preview": "https://img.aishort.top/imgprompt/20260213184154462.webp"
@@ -21526,7 +21526,7 @@
   },
   {
     "displayName": "Applique",
-    "langName": "applique",
+    "langName": "অ্যাপ্লিক",
     "object": "পোশাক",
     "attribute": "কাপড়",
     "preview": "https://img.aishort.top/imgprompt/20260213185727296.webp"
@@ -21680,7 +21680,7 @@
   },
   {
     "displayName": "alternate_headwear",
-    "langName": "একটি হেডগিয়ার যা আসলটির থেকে আলাদা",
+    "langName": "বিকল্প হেডগিয়ার",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213191902200.webp"
@@ -21715,7 +21715,7 @@
   },
   {
     "displayName": "xx_on_head",
-    "langName": "xx মাথায়",
+    "langName": "মাথায় রাখা বস্তু",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213192411659.webp"
@@ -21778,21 +21778,21 @@
   },
   {
     "displayName": "hachimaki",
-    "langName": "পাগড়ি (বিশেষ্য)",
+    "langName": "হাচিমাকি",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213194023586.webp"
   },
   {
     "displayName": "helm",
-    "langName": "একটি হেলমেট পরা",
+    "langName": "হেলমেট পরিহিত",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213194036779.webp"
   },
   {
     "displayName": "helmet_removed",
-    "langName": "হেলমেট খুলে ফেলল | হেলমেট খুলে ফেলল",
+    "langName": "হেলমেট খুলে ফেলল",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213194050047.webp"
@@ -21806,7 +21806,7 @@
   },
   {
     "displayName": "japari_bun",
-    "langName": "Japari steamed বান",
+    "langName": "জাপারি ভাপা পিঠা",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213194117054.webp"
@@ -21827,7 +21827,7 @@
   },
   {
     "displayName": "skull_and_crossbones",
-    "langName": "মাথার খুলি এবং ক্রসবোন (জলদস্যু, বিপদ, সতর্কতা)",
+    "langName": "মাথার খুলি ও আড়াআড়ি হাড়",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213195005290.webp"
@@ -21841,7 +21841,7 @@
   },
   {
     "displayName": "headdress",
-    "langName": "হেডওয়্যার (আরো সাধারণ)",
+    "langName": "হেডড্রেস",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213195638458.webp"
@@ -21869,21 +21869,21 @@
   },
   {
     "displayName": "horns_through_headwear",
-    "langName": "শিং জন্য গর্ত সঙ্গে একটি হেডড্রেস",
+    "langName": "শিং বের করা হেডগিয়ার",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213200134487.webp"
   },
   {
     "displayName": "no_headwear",
-    "langName": "সরানো (বিদ্যমান) হেডগিয়ার",
+    "langName": "মাথার সাজ ছাড়া",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213200147284.webp"
   },
   {
     "displayName": "object_on_head",
-    "langName": "মাথায় হেডগিয়ার ছাড়া অন্য কিছু আছে",
+    "langName": "মাথার ওপরের বস্তু",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213200200049.webp"
@@ -21925,7 +21925,7 @@
   },
   {
     "displayName": "behind-the-head_headphones",
-    "langName": "মাথার পেছন থেকে পরা হেডফোন",
+    "langName": "ঘাড়ের পেছনের হেডফোন",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213200337721.webp"
@@ -21988,14 +21988,14 @@
   },
   {
     "displayName": "head_mounted_display",
-    "langName": "একটি হেড-মাউন্টেড ডিসপ্লে ডিভাইস পরা",
+    "langName": "হেড-মাউন্টেড ডিসপ্লে (HMD)",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213201344092.webp"
   },
   {
     "displayName": "head_out_of_frame",
-    "langName": "মাথার অংশ ফ্রেমে আঁকা হয় না",
+    "langName": "মাথা ফ্রেমের বাইরে",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213201559216.webp"
@@ -22016,7 +22016,7 @@
   },
   {
     "displayName": "headgear",
-    "langName": "মাথার অলঙ্কার (কল্পবিজ্ঞান)",
+    "langName": "সাই-ফাই হেডগিয়ার",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213201840823.webp"
@@ -22030,7 +22030,7 @@
   },
   {
     "displayName": "heads-up_display",
-    "langName": "স্ট্যাটাস বার (গেম এবং সাই-ফাই স্টাইল)",
+    "langName": "হেডস-আপ ডিসপ্লে (HUD)",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213201907728.webp"
@@ -22065,7 +22065,7 @@
   },
   {
     "displayName": "single_head_wing",
-    "langName": "মাথার একপাশে ডানা আছে",
+    "langName": "মাথায় একক ডানা",
     "object": "আনুষাঙ্গিক",
     "attribute": "হেডগিয়ার",
     "preview": "https://img.aishort.top/imgprompt/20260213202620422.webp"
@@ -22261,7 +22261,7 @@
   },
   {
     "displayName": "hairpods",
-    "langName": "চুলে জোড়া বেতার ব্লুটুথ হেয়ার অ্যাকসেসরিজ",
+    "langName": "হেয়ারপডস",
     "object": "আনুষাঙ্গিক",
     "attribute": "চুলের জিনিসপত্র",
     "preview": "https://img.aishort.top/imgprompt/20260213210909139.webp"
@@ -22296,7 +22296,7 @@
   },
   {
     "displayName": "snake_hair_ornament",
-    "langName": "সাপের চুলের আনুষাঙ্গিক | ব্যাঙের চুলের আনুষাঙ্গিক",
+    "langName": "সাপের আকৃতির চুলের সাজ",
     "object": "আনুষাঙ্গিক",
     "attribute": "চুলের জিনিসপত্র",
     "preview": "https://img.aishort.top/imgprompt/20260213211418419.webp"
@@ -22324,14 +22324,14 @@
   },
   {
     "displayName": "hairpin",
-    "langName": "hairpin",
+    "langName": "হেয়ারপিন",
     "object": "আনুষাঙ্গিক",
     "attribute": "চুলের জিনিসপত্র",
     "preview": "https://img.aishort.top/imgprompt/20260213212117251.webp"
   },
   {
     "displayName": "hairclip",
-    "langName": "hairpin",
+    "langName": "চুলের ক্লিপ",
     "object": "আনুষাঙ্গিক",
     "attribute": "চুলের জিনিসপত্র",
     "preview": "https://img.aishort.top/imgprompt/20260213212130299.webp"
@@ -22366,14 +22366,14 @@
   },
   {
     "displayName": "kanzashi",
-    "langName": "hairpin",
+    "langName": "কানজাশি",
     "object": "আনুষাঙ্গিক",
     "attribute": "চুলের জিনিসপত্র",
     "preview": "https://img.aishort.top/imgprompt/20260213093703586.webp"
   },
   {
     "displayName": "hood",
-    "langName": "ফণা",
+    "langName": "হুড",
     "object": "আনুষাঙ্গিক",
     "attribute": "টুপি",
     "preview": "https://img.aishort.top/imgprompt/20260213212235548.webp"
@@ -22394,7 +22394,7 @@
   },
   {
     "displayName": "beret",
-    "langName": "beret",
+    "langName": "বেরেট টুপি",
     "object": "আনুষাঙ্গিক",
     "attribute": "টুপি",
     "preview": "https://img.aishort.top/imgprompt/20260213212516389.webp"
@@ -22527,7 +22527,7 @@
   },
   {
     "displayName": "cloche_hat",
-    "langName": "cloche টুপি",
+    "langName": "ক্লোশ টুপি",
     "object": "আনুষাঙ্গিক",
     "attribute": "টুপি",
     "preview": "https://img.aishort.top/imgprompt/20260213215348492.webp"
@@ -22730,7 +22730,7 @@
   },
   {
     "displayName": "bowknot_over_white_beret",
-    "langName": "সাদা beret উপর নম",
+    "langName": "সাদা বেরেটের ওপর বো",
     "object": "আনুষাঙ্গিক",
     "attribute": "টুপি",
     "preview": "https://img.aishort.top/imgprompt/20260213223433839.webp"
@@ -22779,7 +22779,7 @@
   },
   {
     "displayName": "hat_removed",
-    "langName": "টুপি খুলে ফেলা হয় | টুপি খুলে ফেলা হয়",
+    "langName": "টুপি খুলে ফেলা হয়",
     "object": "আনুষাঙ্গিক",
     "attribute": "টুপি",
     "preview": "https://img.aishort.top/imgprompt/20260213224231603.webp"
@@ -22800,7 +22800,7 @@
   },
   {
     "displayName": "hatching_(texture)",
-    "langName": "লাইন শেডিং (টেক্সচার)",
+    "langName": "হ্যাচিং টেক্সচার",
     "object": "আনুষাঙ্গিক",
     "attribute": "টুপি",
     "preview": "https://img.aishort.top/imgprompt/20260213224329155.webp"
@@ -22926,14 +22926,14 @@
   },
   {
     "displayName": "sunglasses",
-    "langName": "সানগ্লাস (চোখ ঢেকে রাখা)",
+    "langName": "অস্বচ্ছ সানগ্লাস",
     "object": "আনুষাঙ্গিক",
     "attribute": "চশমা",
     "preview": "https://img.aishort.top/imgprompt/20260213230746663.webp"
   },
   {
     "displayName": "reflection glasses",
-    "langName": "সানগ্লাস (চোখ দৃশ্যমান)",
+    "langName": "স্বচ্ছ সানগ্লাস",
     "object": "আনুষাঙ্গিক",
     "attribute": "চশমা",
     "preview": "https://img.aishort.top/imgprompt/20260213230759909.webp"
@@ -22954,7 +22954,7 @@
   },
   {
     "displayName": "eyepatch",
-    "langName": "চোখের প্যাচ (এক চোখ)",
+    "langName": "আইপ্যাচ",
     "object": "আনুষাঙ্গিক",
     "attribute": "চশমা",
     "preview": "https://img.aishort.top/imgprompt/20260213230839662.webp"
@@ -22982,14 +22982,14 @@
   },
   {
     "displayName": "coke-bottle_glasses",
-    "langName": "গোলাকার চশমা কাচের বোতলের মতো মোটা",
+    "langName": "পুরু কাঁচের চশমা",
     "object": "আনুষাঙ্গিক",
     "attribute": "চশমা",
     "preview": "https://img.aishort.top/imgprompt/20260213230932442.webp"
   },
   {
     "displayName": "no_eyewear",
-    "langName": "সরানো (বিদ্যমান) চশমা",
+    "langName": "চশমা ছাড়া",
     "object": "আনুষাঙ্গিক",
     "attribute": "চশমা",
     "preview": "https://img.aishort.top/imgprompt/20260213230945224.webp"
@@ -23241,7 +23241,7 @@
   },
   {
     "displayName": "single_earring",
-    "langName": "শুধু একপাশে কানের দুল পরা",
+    "langName": "এক কানে দুল",
     "object": "আনুষাঙ্গিক",
     "attribute": "কানের দুল",
     "preview": "https://img.aishort.top/imgprompt/20260213235633818.webp"
@@ -23297,7 +23297,7 @@
   },
   {
     "displayName": "cuffs",
-    "langName": "পিলোরি",
+    "langName": "হাতকড়া",
     "object": "আনুষাঙ্গিক",
     "attribute": "হাতের গয়না",
     "preview": "https://img.aishort.top/imgprompt/20260213235839451.webp"
@@ -23325,7 +23325,7 @@
   },
   {
     "displayName": "leash",
-    "langName": "বেল্ট",
+    "langName": "শিকল / দড়ি",
     "object": "আনুষাঙ্গিক",
     "attribute": "হাতের গয়না",
     "preview": "https://img.aishort.top/imgprompt/20260213235930034.webp"
@@ -23437,7 +23437,7 @@
   },
   {
     "displayName": "no_gloves",
-    "langName": "সরানো (বিদ্যমান) গ্লাভস",
+    "langName": "দস্তানা ছাড়া",
     "object": "আনুষাঙ্গিক",
     "attribute": "গ্লাভস",
     "preview": "https://img.aishort.top/imgprompt/20260214001315236.webp"
@@ -23451,7 +23451,7 @@
   },
   {
     "displayName": "single_elbow_glove",
-    "langName": "এক হাতে কনুই-দৈর্ঘ্যের গ্লাভস পরা",
+    "langName": "এক হাতে লম্বা দস্তানা",
     "object": "আনুষাঙ্গিক",
     "attribute": "গ্লাভস",
     "preview": "https://img.aishort.top/imgprompt/20260214001744860.webp"
@@ -23465,7 +23465,7 @@
   },
   {
     "displayName": "elbow_gloves",
-    "langName": "লম্বা হাতা গ্লাভস (কনুই গ্লাভস)",
+    "langName": "কনুই পর্যন্ত লম্বা দস্তানা",
     "object": "আনুষাঙ্গিক",
     "attribute": "গ্লাভস",
     "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
@@ -23500,14 +23500,14 @@
   },
   {
     "displayName": "paw_gloves",
-    "langName": "ক্লো গ্লাভস (আঙুলের গ্লাভস)",
+    "langName": "থাবা আকৃতির দস্তানা",
     "object": "আনুষাঙ্গিক",
     "attribute": "গ্লাভস",
     "preview": "https://img.aishort.top/imgprompt/20260214002522561.webp"
   },
   {
     "displayName": "mittens",
-    "langName": "মিটেনস (দুই আঙ্গুলের গ্লাভস)",
+    "langName": "মিটেন",
     "object": "আনুষাঙ্গিক",
     "attribute": "গ্লাভস",
     "preview": "https://img.aishort.top/imgprompt/20260214002535788.webp"
@@ -23675,7 +23675,7 @@
   },
   {
     "displayName": "stitches",
-    "langName": "seams",
+    "langName": "সেলাই অলংকরণ",
     "object": "আনুষাঙ্গিক",
     "attribute": "ছোট সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260214005314653.webp"
@@ -23759,14 +23759,14 @@
   },
   {
     "displayName": "st._gloriana's_(emblem)",
-    "langName": "সেন্ট গ্লোরিয়া আনা গার্লস স্কুল স্কুলের প্রতীক",
+    "langName": "সেন্ট গ্লোরিয়ানা প্রতীক",
     "object": "আনুষাঙ্গিক",
     "attribute": "ছোট সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260214010157304.webp"
   },
   {
     "displayName": "heart_lock_(kantai_collection)",
-    "langName": "শিপ গার্ল লক (জাহাজ সি)",
+    "langName": "হার্ট লক (কান্টাই)",
     "object": "আনুষাঙ্গিক",
     "attribute": "ছোট সাজসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260214010210385.webp"
@@ -23990,14 +23990,14 @@
   },
   {
     "displayName": "Wu Xing",
-    "langName": "পাঁচটি উপাদান (ধাতু, কাঠ, জল, আগুন এবং পৃথিবী)",
+    "langName": "পঞ্চতত্ত্ব (উ শিং)",
     "object": "আনুষাঙ্গিক",
     "attribute": "প্রতীক",
     "preview": "https://img.aishort.top/imgprompt/20260214020503233.webp"
   },
   {
     "displayName": "dynamic pose",
-    "langName": "গতিশীল ভঙ্গি (শক্তিশালী)",
+    "langName": "গতিশীল ভঙ্গি",
     "object": "আলোকচিত্র",
     "attribute": "দৃষ্টিকোণ",
     "preview": "https://img.aishort.top/imgprompt/20260214020718871.webp"
@@ -24319,28 +24319,28 @@
   },
   {
     "displayName": "cowboy_shot",
-    "langName": "উপরের শরীর + উপরের উরু (ডেনিম লেন্স)",
+    "langName": "কাউবয় শট",
     "object": "আলোকচিত্র",
     "attribute": "দেখার উচ্চতা",
     "preview": "https://img.aishort.top/imgprompt/20260214032314849.webp"
   },
   {
     "displayName": "portrait",
-    "langName": "প্রতিকৃতি (মুখ + কাঁধ + মাঝে মাঝে বুক)",
+    "langName": "প্রতিকৃতি শট",
     "object": "আলোকচিত্র",
     "attribute": "দেখার উচ্চতা",
     "preview": "https://img.aishort.top/imgprompt/20260214032327856.webp"
   },
   {
     "displayName": "very close portrait",
-    "langName": "পোর্ট্রেট বন্ধ করুন (ক্যামেরা কাছাকাছি)",
+    "langName": "খুব কাছাকাছি প্রতিকৃতি",
     "object": "আলোকচিত্র",
     "attribute": "দেখার উচ্চতা",
     "preview": "https://img.aishort.top/imgprompt/20260214032544032.webp"
   },
   {
     "displayName": "profile",
-    "langName": "প্রোফাইল পোর্ট্রেট (প্রতিকৃতির প্রোফাইল সংস্করণ)",
+    "langName": "পার্শ্ব প্রতিকৃতি",
     "object": "আলোকচিত্র",
     "attribute": "দেখার উচ্চতা",
     "preview": "https://img.aishort.top/imgprompt/20260214032759101.webp"
@@ -24375,7 +24375,7 @@
   },
   {
     "displayName": "wide_shot",
-    "langName": "প্যানোরামিক লেন্স (ওয়াইড অ্যাঙ্গেল লেন্স)",
+    "langName": "ওয়াইড শট",
     "object": "আলোকচিত্র",
     "attribute": "লেন্স ফোকাস",
     "preview": "https://img.aishort.top/imgprompt/20260214033851759.webp"
@@ -24389,7 +24389,7 @@
   },
   {
     "displayName": "inset",
-    "langName": "অতিরিক্ত ফুটেজ বা ছবি ঢোকান",
+    "langName": "ইনসেট ছবি",
     "object": "আলোকচিত্র",
     "attribute": "লেন্স ফোকাস",
     "preview": "https://img.aishort.top/imgprompt/20260214033931731.webp"
@@ -24403,21 +24403,21 @@
   },
   {
     "displayName": "male focus",
-    "langName": "পুরুষ ফোকাস (মহিলা ফোকাস)",
+    "langName": "পুরুষ চরিত্রে দৃষ্টি নিবদ্ধ",
     "object": "আলোকচিত্র",
     "attribute": "লেন্স ফোকাস",
     "preview": "https://img.aishort.top/imgprompt/20260214033958195.webp"
   },
   {
     "displayName": "solo_focus",
-    "langName": "একক চরিত্রের উপর ফোকাস (জটিল দৃশ্য)",
+    "langName": "একক চরিত্রে দৃষ্টি নিবদ্ধ",
     "object": "আলোকচিত্র",
     "attribute": "লেন্স ফোকাস",
     "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
   },
   {
     "displayName": "xx_focus",
-    "langName": "xx এর উপর ফোকাস করুন",
+    "langName": "নির্দিষ্ট অংশে দৃষ্টি নিবদ্ধ",
     "object": "আলোকচিত্র",
     "attribute": "লেন্স ফোকাস",
     "preview": "https://img.aishort.top/imgprompt/20260214034023889.webp"
@@ -24459,7 +24459,7 @@
   },
   {
     "displayName": "vehicle_focus",
-    "langName": "গাড়ির উপর ফোকাস করুন (গাড়ি)",
+    "langName": "যানবাহনে দৃষ্টি নিবদ্ধ",
     "object": "আলোকচিত্র",
     "attribute": "লেন্স ফোকাস",
     "preview": "https://img.aishort.top/imgprompt/20260214034759257.webp"
@@ -24473,21 +24473,21 @@
   },
   {
     "displayName": "between_legs",
-    "langName": "(জোর) পায়ের মধ্যে",
+    "langName": "পায়ের মধ্যবর্তী কোণ",
     "object": "আলোকচিত্র",
     "attribute": "লেন্স ফোকাস",
     "preview": "https://img.aishort.top/imgprompt/20260214035455577.webp"
   },
   {
     "displayName": "between_breasts",
-    "langName": "(প্রসারিত) বুক",
+    "langName": "স্তনের মাঝের অংশ",
     "object": "আলোকচিত্র",
     "attribute": "লেন্স ফোকাস",
     "preview": "https://img.aishort.top/imgprompt/20260225091239828.webp"
   },
   {
     "displayName": "between_fingers",
-    "langName": "(প্রধানতা) আঙ্গুলের মধ্যে",
+    "langName": "আঙুলের ফাঁক দিয়ে দৃশ্য",
     "object": "আলোকচিত্র",
     "attribute": "লেন্স ফোকাস",
     "preview": "https://img.aishort.top/imgprompt/20260214035531987.webp"
@@ -24501,14 +24501,14 @@
   },
   {
     "displayName": "peeking_out",
-    "langName": "উঁকি দেওয়া (ভঙ্গিমা)",
+    "langName": "উঁকি দেওয়া",
     "object": "আলোকচিত্র",
     "attribute": "লেন্স ফোকাস",
     "preview": "https://img.aishort.top/imgprompt/20260214035557635.webp"
   },
   {
     "displayName": "peeping",
-    "langName": "ভয়েউর (দৃষ্টিভঙ্গির উপর জোর দেওয়া)",
+    "langName": "উঁকিঝুঁকি দৃষ্টিকোণ",
     "object": "আলোকচিত্র",
     "attribute": "লেন্স ফোকাস",
     "preview": "https://img.aishort.top/imgprompt/20260214035610390.webp"
@@ -24662,7 +24662,7 @@
   },
   {
     "displayName": "Brenizer Method",
-    "langName": "সর্পিল শট",
+    "langName": "ব্রেনাইজার পদ্ধতি",
     "object": "আলোকচিত্র",
     "attribute": "লেন্স/অপটিক্যাল ইফেক্ট",
     "preview": "https://img.aishort.top/imgprompt/20260214041350224.webp"
@@ -24697,7 +24697,7 @@
   },
   {
     "displayName": "landscape",
-    "langName": "ল্যান্ডস্কেপ শট (দীর্ঘ শট)",
+    "langName": "ল্যান্ডস্কেপ শট",
     "object": "আলোকচিত্র",
     "attribute": "লেন্স/অপটিক্যাল ইফেক্ট",
     "preview": "https://img.aishort.top/imgprompt/20260214041814281.webp"
@@ -24844,7 +24844,7 @@
   },
   {
     "displayName": "polaroid",
-    "langName": "ফটো (পোলারয়েড)",
+    "langName": "পোলারয়েড ছবি",
     "object": "আলোকচিত্র",
     "attribute": "ফটোগ্রাফি স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260214044251180.webp"
@@ -25054,7 +25054,7 @@
   },
   {
     "displayName": "Tri-X 400 TX",
-    "langName": "Tri-X 400TX",
+    "langName": "কোডাক ট্রাই-এক্স 400 টিএক্স",
     "object": "আলোকচিত্র",
     "attribute": "ক্যামেরা",
     "preview": "https://img.aishort.top/imgprompt/20260214051043003.webp"
@@ -25082,7 +25082,7 @@
   },
   {
     "displayName": "Fujifilm XT3",
-    "langName": "ফুজিফিল্ম XT3",
+    "langName": "ফুজিফিল্ম এক্স-টি৩",
     "object": "আলোকচিত্র",
     "attribute": "ক্যামেরা",
     "preview": "https://img.aishort.top/imgprompt/20260214051740118.webp"
@@ -25096,7 +25096,7 @@
   },
   {
     "displayName": "Ilford HP5",
-    "langName": "Ilford HP5",
+    "langName": "ইলফোর্ড এইচপি৫",
     "object": "আলোকচিত্র",
     "attribute": "ক্যামেরা",
     "preview": "https://img.aishort.top/imgprompt/20260214051805551.webp"
@@ -25292,7 +25292,7 @@
   },
   {
     "displayName": "depth of field",
-    "langName": "ক্ষেত্রের গভীরতা (মানব দৃশ্য সমন্বয়)",
+    "langName": "ডেপথ অফ ফিল্ড",
     "object": "আলোকচিত্র",
     "attribute": "প্রভাব",
     "preview": "https://img.aishort.top/imgprompt/20260224191234161.webp"
@@ -25320,21 +25320,21 @@
   },
   {
     "displayName": "bokeh",
-    "langName": "কস্টিকস (অস্পষ্ট পটভূমি)",
+    "langName": "বোকেহ ব্লার",
     "object": "আলোকচিত্র",
     "attribute": "প্রভাব",
     "preview": "https://img.aishort.top/imgprompt/20260224191333274.webp"
   },
   {
     "displayName": "chromatic_aberration",
-    "langName": "রঙিন বিকৃতি, ফোকাসের বাইরে রঙ",
+    "langName": "ক্রোমাটিক অ্যাবারেশন",
     "object": "আলোকচিত্র",
     "attribute": "প্রভাব",
     "preview": "https://img.aishort.top/imgprompt/20260224191548893.webp"
   },
   {
     "displayName": "overexposure",
-    "langName": "overexposed",
+    "langName": "ওভারএক্সপোজার",
     "object": "আলোকচিত্র",
     "attribute": "প্রভাব",
     "preview": "https://img.aishort.top/imgprompt/20260224191601890.webp"
@@ -25425,7 +25425,7 @@
   },
   {
     "displayName": "Tilt‑Shift Photography",
-    "langName": "Tilt‑Shift Photography",
+    "langName": "টিল্ট-শিফট ফটোগ্রাফি",
     "object": "আলোকচিত্র",
     "attribute": "প্রভাব",
     "description": "মিনিয়েচার মডেলের প্রভাব অনুকরণ করতে বিশেষ লেন্স এবং কৌশল ব্যবহার করে, যা সাধারণত শহরের দৃশ্য বা বড় দৃশ্য শুট করতে ব্যবহৃত হয়।",
@@ -25441,7 +25441,7 @@
   },
   {
     "displayName": "Camera Push‑In",
-    "langName": "Camera Push‑In",
+    "langName": "ক্যামেরা পুশ-ইন",
     "object": "আলোকচিত্র",
     "attribute": "বেসিক ক্যামেরা",
     "description": "আবেগ তীব্র করতে বা বিষয়কে হাইলাইট করতে ক্যামেরা ধীরে ধীরে বিষয়ের দিকে এগিয়ে যায়।",
@@ -25449,7 +25449,7 @@
   },
   {
     "displayName": "Camera Pull‑Out",
-    "langName": "Camera Pull‑Out",
+    "langName": "ক্যামেরা পুল-আউট",
     "object": "আলোকচিত্র",
     "attribute": "বেসিক ক্যামেরা",
     "description": "পরিবেশ প্রকাশ করতে বা উত্তেজনা কমাতে ক্যামেরা ধীরে ধীরে বিষয় থেকে দূরে সরে যায়।",
@@ -25473,7 +25473,7 @@
   },
   {
     "displayName": "Camera Tilt‑Up",
-    "langName": "Camera Tilt‑Up",
+    "langName": "ক্যামেরা টিল্ট-আপ",
     "object": "আলোকচিত্র",
     "attribute": "বেসিক ক্যামেরা",
     "description": "ক্যামেরাটি উপরের দিকে কাত হয়, প্রায়শই বিল্ডিংয়ের উচ্চতা বা উপরের দিকে তাকানোর দৃষ্টিভঙ্গি দেখাতে ব্যবহৃত হয়।",
@@ -25527,7 +25527,7 @@
   },
   {
     "displayName": "Moonlight",
-    "langName": "Moonlight",
+    "langName": "চাঁদের আলো",
     "object": "আলো এবং ছায়া প্রভাব",
     "attribute": "আলোর উৎস",
     "preview": "https://img.aishort.top/imgprompt/20260224194842846.webp"
@@ -25542,7 +25542,7 @@
   },
   {
     "displayName": "Firelight",
-    "langName": "Firelight",
+    "langName": "আগুনের আলো",
     "object": "আলো এবং ছায়া প্রভাব",
     "attribute": "আলোর উৎস",
     "description": "আগুন থেকে আসা আলোর উৎস, যেমন বনফায়ার, মোমবাতি, ফায়ারপ্লেস ইত্যাদি, যা প্রাকৃতিক, গতিশীল এবং উষ্ণ আলোর প্রভাব প্রদান করে।",
@@ -25790,7 +25790,7 @@
   },
   {
     "displayName": "Tyndall effect",
-    "langName": "Tyndall প্রভাব",
+    "langName": "টিন্ডাল প্রভাব",
     "object": "আলো এবং ছায়া প্রভাব",
     "attribute": "আলোর প্রভাব",
     "preview": "https://img.aishort.top/imgprompt/20260224200222818.webp"
@@ -25818,7 +25818,7 @@
   },
   {
     "displayName": "Crepuscular Rays",
-    "langName": "আবছা আলো",
+    "langName": "গড রেজ / সূর্যালোক রশ্মি",
     "object": "আলো এবং ছায়া প্রভাব",
     "attribute": "আলোর প্রভাব",
     "preview": "https://img.aishort.top/imgprompt/20260224200322540.webp"
@@ -25860,7 +25860,7 @@
   },
   {
     "displayName": "lens flare",
-    "langName": "লেন্স ফ্লেয়ার (ব্যাকলাইটিং)",
+    "langName": "লেন্স ফ্লেয়ার",
     "object": "আলো এবং ছায়া প্রভাব",
     "attribute": "আলোর প্রভাব",
     "preview": "https://img.aishort.top/imgprompt/20260224200437632.webp"
@@ -25972,7 +25972,7 @@
   },
   {
     "displayName": "Krypton Lamp",
-    "langName": "ক্রিপ্টন গ্যাস বাতি",
+    "langName": "ফ্লুরোসেন্ট বাতি",
     "object": "আলো এবং ছায়া প্রভাব",
     "attribute": "আলোকসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260224201430539.webp"
@@ -26000,7 +26000,7 @@
   },
   {
     "displayName": "Vacuum Tube Lamp",
-    "langName": "ভ্যাকুয়াম টিউব ল্যাম্প",
+    "langName": "টাংস্টেন বাতি",
     "object": "আলো এবং ছায়া প্রভাব",
     "attribute": "আলোকসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260224201524568.webp"
@@ -26049,14 +26049,14 @@
   },
   {
     "displayName": "Nightlight",
-    "langName": "রাতের আলো",
+    "langName": "ফ্লাডলাইট",
     "object": "আলো এবং ছায়া প্রভাব",
     "attribute": "আলোকসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260224203113075.webp"
   },
   {
     "displayName": "Christmas Lights",
-    "langName": "ক্রিসমাস লাইট",
+    "langName": "স্ট্রোব লাইট",
     "object": "আলো এবং ছায়া প্রভাব",
     "attribute": "আলোকসজ্জা",
     "preview": "https://img.aishort.top/imgprompt/20260224203126796.webp"
@@ -26147,7 +26147,7 @@
   },
   {
     "displayName": "AMOLED",
-    "langName": "AMOLED ডিসপ্লে",
+    "langName": "অ্যামোলেড ডিসপ্লে",
     "object": "আলো এবং ছায়া প্রভাব",
     "attribute": "প্রদর্শন প্রযুক্তি",
     "preview": "https://img.aishort.top/imgprompt/20260224204305477.webp"
@@ -26413,7 +26413,7 @@
   },
   {
     "displayName": "Chemiluminescence",
-    "langName": "কেমিলুমিনেসেন্স",
+    "langName": "তেজস্ক্রিয় আলোকপ্রভা",
     "object": "আলো এবং ছায়া প্রভাব",
     "attribute": "দীপ্তি",
     "preview": "https://img.aishort.top/imgprompt/20260224214711587.webp"
@@ -26469,7 +26469,7 @@
   },
   {
     "displayName": "Triboluminescence",
-    "langName": "triboluminescence",
+    "langName": "ঘর্ষণ-সন্দীপ্তি",
     "object": "আলো এবং ছায়া প্রভাব",
     "attribute": "দীপ্তি",
     "preview": "https://img.aishort.top/imgprompt/20260224214907409.webp"
@@ -26497,7 +26497,7 @@
   },
   {
     "displayName": "Fractoluminescence",
-    "langName": "Shards জ্বলজ্বল",
+    "langName": "স্ফটিক ভাঙার দীপ্তি",
     "object": "আলো এবং ছায়া প্রভাব",
     "attribute": "দীপ্তি",
     "preview": "https://img.aishort.top/imgprompt/20260224215013852.webp"
@@ -26791,7 +26791,7 @@
   },
   {
     "displayName": "lawngreen",
-    "langName": "Chartreuse সবুজ",
+    "langName": "চার্ট্রুজ সবুজ",
     "object": "রঙের পরিবেশ",
     "attribute": "হালকা টোন",
     "preview": "https://img.aishort.top/imgprompt/20260224220530270.webp"
@@ -27113,7 +27113,7 @@
   },
   {
     "displayName": "Dispersion",
-    "langName": "ক্রোমাটিক অ্যাবারেশন",
+    "langName": "আলোর বিচ্ছুরণ",
     "object": "রঙের পরিবেশ",
     "attribute": "গাঢ় টোন",
     "preview": "https://img.aishort.top/imgprompt/20260224221649393.webp"
@@ -27561,7 +27561,7 @@
   },
   {
     "displayName": "Dichromatism",
-    "langName": "dichroism",
+    "langName": "দ্বিবর্ণতা",
     "object": "রঙের পরিবেশ",
     "attribute": "রঙ প্যালেট",
     "preview": "https://img.aishort.top/imgprompt/20260224223301511.webp"
@@ -27645,7 +27645,7 @@
   },
   {
     "displayName": "Tetradic-Colors",
-    "langName": "চার রঙ (আয়তক্ষেত্রাকার রঙের মিল)",
+    "langName": "টেট্রাডিক রঙের বিন্যাস",
     "object": "রঙের পরিবেশ",
     "attribute": "রঙ প্যালেট",
     "preview": "https://img.aishort.top/imgprompt/20260224223613371.webp"
@@ -27779,7 +27779,7 @@
   },
   {
     "displayName": "halftone",
-    "langName": "হাফটোন",
+    "langName": "হাফটোন প্যাটার্ন",
     "object": "রঙের পরিবেশ",
     "attribute": "একরঙা প্যালেট",
     "preview": "https://img.aishort.top/imgprompt/20260224224039295.webp"
@@ -27940,14 +27940,14 @@
   },
   {
     "displayName": "YCbCr",
-    "langName": "ikB",
+    "langName": "YCbCr",
     "object": "রঙের পরিবেশ",
     "attribute": "রঙ প্যালেট মনিটর",
     "preview": "https://img.aishort.top/imgprompt/20260224224629664.webp"
   },
   {
     "displayName": "YPbPr",
-    "langName": "wxya",
+    "langName": "YPbPr",
     "object": "রঙের পরিবেশ",
     "attribute": "রঙ প্যালেট মনিটর",
     "preview": "https://img.aishort.top/imgprompt/20260224224643063.webp"
@@ -28115,7 +28115,7 @@
   },
   {
     "displayName": "divine",
-    "langName": "divine",
+    "langName": "ঐশ্বরিক",
     "object": "রঙের পরিবেশ",
     "attribute": "আবেগপূর্ণ পরিবেশ",
     "preview": "https://img.aishort.top/imgprompt/20260224225328539.webp"
@@ -28206,7 +28206,7 @@
   },
   {
     "displayName": "Corrugated",
-    "langName": "wrinkled",
+    "langName": "ঢেউখেলানো",
     "object": "উপাদান",
     "attribute": "চারিত্রিক",
     "preview": "https://img.aishort.top/imgprompt/20260224225646226.webp"
@@ -28325,7 +28325,7 @@
   },
   {
     "displayName": "Wooden Planks",
-    "langName": "কাঠের বোর্ড",
+    "langName": "স্প্রুস কাঠ",
     "object": "উপাদান",
     "attribute": "কাঠ এবং কাগজ",
     "preview": "https://img.aishort.top/imgprompt/20260224230105891.webp"
@@ -28395,7 +28395,7 @@
   },
   {
     "displayName": "Graph Paper",
-    "langName": "গ্রাফ পেপার",
+    "langName": "কাঠের ভেনিয়ার",
     "object": "উপাদান",
     "attribute": "কাঠ এবং কাগজ",
     "preview": "https://img.aishort.top/imgprompt/20260224230439364.webp"
@@ -28577,7 +28577,7 @@
   },
   {
     "displayName": "Mud Brick",
-    "langName": "মাটির ইট",
+    "langName": "দোআঁশ মাটি",
     "object": "উপাদান",
     "attribute": "মাটি",
     "preview": "https://img.aishort.top/imgprompt/20260225110246092.webp"
@@ -28591,7 +28591,7 @@
   },
   {
     "displayName": "Sand",
-    "langName": "বালি",
+    "langName": "পিট কয়লা / মাটি",
     "object": "উপাদান",
     "attribute": "মাটি",
     "preview": "https://img.aishort.top/imgprompt/20260224231124003.webp"
@@ -28612,7 +28612,7 @@
   },
   {
     "displayName": "Dust",
-    "langName": "ধুলো",
+    "langName": "কাদামাটি",
     "object": "উপাদান",
     "attribute": "মাটি",
     "preview": "https://img.aishort.top/imgprompt/20260224231212368.webp"
@@ -28647,7 +28647,7 @@
   },
   {
     "displayName": "Cobblestone",
-    "langName": "মুচি পাথর",
+    "langName": "গ্রানাইট পাথর",
     "object": "উপাদান",
     "attribute": "পাথর এবং খনিজ",
     "preview": "https://img.aishort.top/imgprompt/20260224231349860.webp"
@@ -28717,14 +28717,14 @@
   },
   {
     "displayName": "Diorite",
-    "langName": "Diorite",
+    "langName": "ডিওরাইট",
     "object": "উপাদান",
     "attribute": "পাথর এবং খনিজ",
     "preview": "https://img.aishort.top/imgprompt/20260224231618325.webp"
   },
   {
     "displayName": "Andesite",
-    "langName": "andesite",
+    "langName": "অ্যান্ডেসাইট",
     "object": "উপাদান",
     "attribute": "পাথর এবং খনিজ",
     "preview": "https://img.aishort.top/imgprompt/20260224231634529.webp"
@@ -28815,7 +28815,7 @@
   },
   {
     "displayName": "Pottery",
-    "langName": "মৃৎপাত্র",
+    "langName": "স্লেট পাথর",
     "object": "উপাদান",
     "attribute": "পাথর এবং খনিজ",
     "preview": "https://img.aishort.top/imgprompt/20260225091552196.webp"
@@ -28843,7 +28843,7 @@
   },
   {
     "displayName": "Plaster",
-    "langName": "stucco",
+    "langName": "প্লাস্টার",
     "object": "উপাদান",
     "attribute": "পাথর এবং খনিজ",
     "preview": "https://img.aishort.top/imgprompt/20260225091641831.webp"
@@ -28927,14 +28927,14 @@
   },
   {
     "displayName": "Copper",
-    "langName": "তামা",
+    "langName": "ঢালাই লোহা",
     "object": "উপাদান",
     "attribute": "ধাতু",
     "preview": "https://img.aishort.top/imgprompt/20260224232436512.webp"
   },
   {
     "displayName": "Tin",
-    "langName": "টিন",
+    "langName": "পেটানো লোহা",
     "object": "উপাদান",
     "attribute": "ধাতু",
     "preview": "https://img.aishort.top/imgprompt/20260224232451019.webp"
@@ -28969,14 +28969,14 @@
   },
   {
     "displayName": "Iron",
-    "langName": "লোহা",
+    "langName": "তামা",
     "object": "উপাদান",
     "attribute": "ধাতু",
     "preview": "https://img.aishort.top/imgprompt/20260224232609054.webp"
   },
   {
     "displayName": "Wrought Iron",
-    "langName": "তৈরি লোহা",
+    "langName": "রূপা",
     "object": "উপাদান",
     "attribute": "ধাতু",
     "preview": "https://img.aishort.top/imgprompt/20260224232622952.webp"
@@ -29011,7 +29011,7 @@
   },
   {
     "displayName": "Anodized Titanium",
-    "langName": "অ্যানোডাইজড টাইটানিয়াম",
+    "langName": "প্লাটিনাম",
     "object": "উপাদান",
     "attribute": "ধাতু",
     "preview": "https://img.aishort.top/imgprompt/20260224232738425.webp"
@@ -29452,7 +29452,7 @@
   },
   {
     "displayName": "Onyx",
-    "langName": "agate",
+    "langName": "অনিক্স রত্ন",
     "object": "উপাদান",
     "attribute": "কাচ এবং স্ফটিক",
     "preview": "https://img.aishort.top/imgprompt/20260224234343725.webp"
@@ -29494,7 +29494,7 @@
   },
   {
     "displayName": "Opalite",
-    "langName": "ওপাল agate",
+    "langName": "ওপালাইট রত্ন",
     "object": "উপাদান",
     "attribute": "কাচ এবং স্ফটিক",
     "preview": "https://img.aishort.top/imgprompt/20260224234512424.webp"
@@ -29508,14 +29508,14 @@
   },
   {
     "displayName": "Agate",
-    "langName": "agate",
+    "langName": "অ্যাগেট",
     "object": "উপাদান",
     "attribute": "কাচ এবং স্ফটিক",
     "preview": "https://img.aishort.top/imgprompt/20260224234539523.webp"
   },
   {
     "displayName": "Carnelian",
-    "langName": "লাল agate",
+    "langName": "কার্নেলিয়ান",
     "object": "উপাদান",
     "attribute": "কাচ এবং স্ফটিক",
     "preview": "https://img.aishort.top/imgprompt/20260224234555368.webp"
@@ -29718,7 +29718,7 @@
   },
   {
     "displayName": "Carnauba Wax",
-    "langName": "carnauba মোম",
+    "langName": "কার্নাউবা মোম",
     "object": "উপাদান",
     "attribute": "মোম",
     "preview": "https://img.aishort.top/imgprompt/20260224235253903.webp"
@@ -29914,7 +29914,7 @@
   },
   {
     "displayName": "Putty",
-    "langName": "sealing এবং ভরাট voids জন্য আঠালো",
+    "langName": "পুটি",
     "object": "উপাদান",
     "attribute": "স্লাইম",
     "preview": "https://img.aishort.top/imgprompt/20260224235936705.webp"
@@ -29935,7 +29935,7 @@
   },
   {
     "displayName": "Aerogel",
-    "langName": "এয়ারজেল",
+    "langName": "অ্যারোজেল",
     "object": "উপাদান",
     "attribute": "সান্দ্রতা",
     "preview": "https://img.aishort.top/imgprompt/20260225000020068.webp"
@@ -30299,7 +30299,7 @@
   },
   {
     "displayName": "Favolaschia-Calocera",
-    "langName": "orangutan আঙ্গুলের ছত্রাক",
+    "langName": "কমলা প্রবাল ছত্রাক",
     "object": "উপাদান",
     "attribute": "ছত্রাক",
     "preview": "https://img.aishort.top/imgprompt/20260225001333847.webp"
@@ -30467,7 +30467,7 @@
   },
   {
     "displayName": "Nonagon",
-    "langName": "nonagon",
+    "langName": "নবভুজ",
     "object": "আকৃতি ও স্থান",
     "attribute": "আকৃতি",
     "preview": "https://img.aishort.top/imgprompt/20260225001939367.webp"
@@ -30663,7 +30663,7 @@
   },
   {
     "displayName": "Trapezohedron",
-    "langName": "trapezoidal শরীর",
+    "langName": "ট্র্যাপিজোহেড্রন",
     "object": "আকৃতি ও স্থান",
     "attribute": "অবজেক্ট",
     "preview": "https://img.aishort.top/imgprompt/20260225002611910.webp"
@@ -30698,14 +30698,14 @@
   },
   {
     "displayName": "Frustum",
-    "langName": "কাটা শঙ্কু",
+    "langName": "পোর্টিকো",
     "object": "আকৃতি ও স্থান",
     "attribute": "অবজেক্ট",
     "preview": "https://img.aishort.top/imgprompt/20260225002725220.webp"
   },
   {
     "displayName": "Bifrustum",
-    "langName": "ডবল ফ্রাস্টাম",
+    "langName": "পেরিস্টাইল",
     "object": "আকৃতি ও স্থান",
     "attribute": "অবজেক্ট",
     "preview": "https://img.aishort.top/imgprompt/20260225002740853.webp"
@@ -30761,7 +30761,7 @@
   },
   {
     "displayName": "Trapezohedra",
-    "langName": "trapezoidal শঙ্কু",
+    "langName": "ট্র্যাপিজোহেড্রা",
     "object": "আকৃতি ও স্থান",
     "attribute": "অবজেক্ট",
     "preview": "https://img.aishort.top/imgprompt/20260225002931727.webp"
@@ -31307,7 +31307,7 @@
   },
   {
     "displayName": "Ehrhart Polynomial",
-    "langName": "Ehrhart বহুপদ",
+    "langName": "এরহার্ট বহুপদী",
     "object": "আকৃতি ও স্থান",
     "attribute": "চারিত্রিক",
     "preview": "https://img.aishort.top/imgprompt/20260225004759911.webp"
@@ -31356,7 +31356,7 @@
   },
   {
     "displayName": "((dyeing)),((oil painting)),((impasto))",
-    "langName": "তেল পেইন্টিং (সংমিশ্রণ)",
+    "langName": "ইম্পাস্টো তেলচিত্রের মিশ্রণ",
     "object": "ছবির ধরন",
     "attribute": "পেইন্টিং",
     "preview": "https://img.aishort.top/imgprompt/20260225004949979.webp"
@@ -31412,7 +31412,7 @@
   },
   {
     "displayName": "Gouache Paint",
-    "langName": "gouache পেইন্ট",
+    "langName": "গুয়াশ পেইন্ট",
     "object": "ছবির ধরন",
     "attribute": "পেইন্টিং",
     "preview": "https://img.aishort.top/imgprompt/20260225005137639.webp"
@@ -31461,7 +31461,7 @@
   },
   {
     "displayName": "Paper-Marbling",
-    "langName": "gouache",
+    "langName": "গোয়াশ",
     "object": "ছবির ধরন",
     "attribute": "পেইন্টিং",
     "preview": "https://img.aishort.top/imgprompt/20260225005519990.webp"
@@ -31622,7 +31622,7 @@
   },
   {
     "displayName": "extremely detailed cg",
-    "langName": "খুব বিস্তারিত cg",
+    "langName": "অত্যন্ত বিস্তারিত গেম সিজি",
     "object": "ছবির ধরন",
     "attribute": "ইলাস্ট্রেশন",
     "preview": "https://img.aishort.top/imgprompt/20260225010029642.webp"
@@ -31825,7 +31825,7 @@
   },
   {
     "displayName": "copics",
-    "langName": "মার্কার (নিরপেক্ষ ধূসর)",
+    "langName": "কপিক মার্কার শৈলী",
     "object": "ছবির ধরন",
     "attribute": "কালি",
     "preview": "https://img.aishort.top/imgprompt/20260225010656308.webp"
@@ -31958,7 +31958,7 @@
   },
   {
     "displayName": "Lexemes",
-    "langName": "morpheme",
+    "langName": "রূপমূল",
     "object": "ছবির ধরন",
     "attribute": "পাঠ্য",
     "preview": "https://img.aishort.top/imgprompt/20260225011114809.webp"
@@ -32007,7 +32007,7 @@
   },
   {
     "displayName": "Collage",
-    "langName": "কোলাজ",
+    "langName": "কোলাজ শিল্প",
     "object": "ছবির ধরন",
     "attribute": "প্রিন্ট",
     "preview": "https://img.aishort.top/imgprompt/20260225011254764.webp"
@@ -32126,7 +32126,7 @@
   },
   {
     "displayName": "Pokemon Card",
-    "langName": "পোকেমন কার্ড (পকেট মনস্টার)",
+    "langName": "পোকেমন কার্ড শৈলী",
     "object": "ছবির ধরন",
     "attribute": "প্রিন্ট",
     "preview": "https://img.aishort.top/imgprompt/20260225011638981.webp"
@@ -32364,7 +32364,7 @@
   },
   {
     "displayName": "Intaglio",
-    "langName": "gravure মুদ্রণ",
+    "langName": "ইনট্যাগ্লিও খোদাই মুদ্রণ",
     "object": "ছবির ধরন",
     "attribute": "খোদাই, খোদাই এবং মডেলিং",
     "preview": "https://img.aishort.top/imgprompt/20260225012830641.webp"
@@ -32378,7 +32378,7 @@
   },
   {
     "displayName": "Aquatint",
-    "langName": "gravure মুদ্রণ",
+    "langName": "অ্যাকুয়াটিন্ট মুদ্রণ",
     "object": "ছবির ধরন",
     "attribute": "খোদাই, খোদাই এবং মডেলিং",
     "preview": "https://img.aishort.top/imgprompt/20260225012916324.webp"
@@ -32518,7 +32518,7 @@
   },
   {
     "displayName": "traditional_media",
-    "langName": "ঐতিহ্যবাহী ক্যানভাস (যেমন কাগজ, ইত্যাদি)",
+    "langName": "ঐতিহ্যবাহী আর্ট মিডিয়া",
     "object": "ছবির ধরন",
     "attribute": "অন্যান্য মিডিয়া",
     "preview": "https://img.aishort.top/imgprompt/20260225013600028.webp"
@@ -32840,7 +32840,7 @@
   },
   {
     "displayName": "Minimalism",
-    "langName": "minimalism",
+    "langName": "মিনিমালিজম",
     "object": "শিল্প শৈলী",
     "attribute": "আধুনিক শিল্প",
     "preview": "https://img.aishort.top/imgprompt/20260225014632736.webp"
@@ -32924,7 +32924,7 @@
   },
   {
     "displayName": "fauvism",
-    "langName": "fauvism",
+    "langName": "ফভিজম",
     "object": "শিল্প শৈলী",
     "attribute": "আধুনিক শিল্প",
     "preview": "https://img.aishort.top/imgprompt/20260225015105311.webp"
@@ -32938,7 +32938,7 @@
   },
   {
     "displayName": "Pop art",
-    "langName": "পপ শিল্প",
+    "langName": "পপ আর্ট",
     "object": "শিল্প শৈলী",
     "attribute": "আধুনিক শিল্প",
     "preview": "https://img.aishort.top/imgprompt/20260225015129859.webp"
@@ -33078,7 +33078,7 @@
   },
   {
     "displayName": "miserablism",
-    "langName": "বিষণ্ণতা (সমাজে দারিদ্র্য ও অবিচারের সমালোচনা)",
+    "langName": "মিজারেবলিজম",
     "object": "শিল্প শৈলী",
     "attribute": "কল্পকাহিনী এবং বাস্তবতা",
     "preview": "https://img.aishort.top/imgprompt/20260225015538415.webp"
@@ -33148,7 +33148,7 @@
   },
   {
     "displayName": "Visual Agnosia",
-    "langName": "চাক্ষুষ agnosia",
+    "langName": "দৃষ্টিসংক্রান্ত অ্যাগনোসিয়া",
     "object": "শিল্প শৈলী",
     "attribute": "বিমূর্ত ধারণা",
     "preview": "https://img.aishort.top/imgprompt/20260225015750631.webp"
@@ -33169,7 +33169,7 @@
   },
   {
     "displayName": "illustration,(((ukiyoe))),((sketch)),((japanese_art))",
-    "langName": "উকিও-ই (গ্রুপ)",
+    "langName": "উকিয়ো-ই খোদাই ইলাস্ট্রেশন",
     "object": "শিল্প শৈলী",
     "attribute": "এশিয়ান শিল্প",
     "preview": "https://img.aishort.top/imgprompt/20260225015830944.webp"
@@ -33260,7 +33260,7 @@
   },
   {
     "displayName": "heavy contrast",
-    "langName": "শক্তিশালী বৈসাদৃশ্য (রঙের উপর জোর দেওয়া)",
+    "langName": "গাঢ় উচ্চ কনট্রাস্ট",
     "object": "শিল্প শৈলী",
     "attribute": "ফটোগ্রাফি/পেইন্টিং স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260225020108984.webp"
@@ -33316,14 +33316,14 @@
   },
   {
     "displayName": "chiaroscuro",
-    "langName": "chiaroscuro",
+    "langName": "কিয়ারোস্কুরো",
     "object": "শিল্প শৈলী",
     "attribute": "ফটোগ্রাফি/পেইন্টিং স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260225020242731.webp"
   },
   {
     "displayName": "film noir",
-    "langName": "ফিল্ম নোয়ার (অপরাধ, ইচ্ছা, প্রতিশোধ)",
+    "langName": "ফিল্ম নোয়ার নান্দনিকতা",
     "object": "শিল্প শৈলী",
     "attribute": "ফটোগ্রাফি/পেইন্টিং স্টাইল",
     "preview": "https://img.aishort.top/imgprompt/20260225020255566.webp"
@@ -33337,7 +33337,7 @@
   },
   {
     "displayName": "fantasy",
-    "langName": "কল্পবিজ্ঞানের দৃশ্যের জন্য উপযুক্ত",
+    "langName": "ফ্যান্টাসি নান্দনিকতা",
     "object": "শিল্প শৈলী",
     "attribute": "কল্পবিজ্ঞান",
     "preview": "https://img.aishort.top/imgprompt/20260225020323046.webp"
@@ -33372,7 +33372,7 @@
   },
   {
     "displayName": "Dark Fantasy",
-    "langName": "অন্ধকার ফ্যান্টাসি",
+    "langName": "ডার্ক ফ্যান্টাসি",
     "object": "শিল্প শৈলী",
     "attribute": "কল্পবিজ্ঞান",
     "preview": "https://img.aishort.top/imgprompt/20260225020423632.webp"
@@ -33393,7 +33393,7 @@
   },
   {
     "displayName": "ww3 style",
-    "langName": "ww3 শৈলী",
+    "langName": "তৃতীয় বিশ্বযুদ্ধ শৈলী",
     "object": "শিল্প শৈলী",
     "attribute": "কল্পবিজ্ঞান",
     "preview": "https://img.aishort.top/imgprompt/20260225020500212.webp"
@@ -33498,7 +33498,7 @@
   },
   {
     "displayName": "rebecca (cyberpunk)",
-    "langName": "edgewalker",
+    "langName": "এজরানার্স",
     "object": "শিল্প শৈলী",
     "attribute": "উপসংস্কৃতি",
     "preview": "https://img.aishort.top/imgprompt/20260225020803589.webp"
@@ -33624,14 +33624,14 @@
   },
   {
     "displayName": "column lineup",
-    "langName": "ছোট ছবির একটি সিরিজ একটি বড় ছবি তৈরি করে",
+    "langName": "কলাম বিন্যাস",
     "object": "শিল্প শৈলী",
     "attribute": "প্রকাশনা",
     "preview": "https://img.aishort.top/imgprompt/20260225021130372.webp"
   },
   {
     "displayName": "zoom layer",
-    "langName": "পটভূমি হল অগ্রভাগের একটি বর্ধিত সংস্করণ",
+    "langName": "জুম লেয়ার",
     "object": "শিল্প শৈলী",
     "attribute": "প্রকাশনা",
     "preview": "https://img.aishort.top/imgprompt/20260225021142834.webp"
@@ -33680,7 +33680,7 @@
   },
   {
     "displayName": "highres",
-    "langName": "impasto (শৈলী)",
+    "langName": "ডিজিটাল ইম্পাস্টো শৈলী",
     "object": "শিল্প শৈলী",
     "attribute": "ডিজিটাল আর্ট",
     "preview": "https://img.aishort.top/imgprompt/20260225021323241.webp"
@@ -33939,7 +33939,7 @@
   },
   {
     "displayName": "Shaders",
-    "langName": "shader",
+    "langName": "শেডার",
     "object": "পোস্ট প্রসেসিং",
     "attribute": "শেডার",
     "preview": "https://img.aishort.top/imgprompt/20260225022059566.webp"
@@ -34058,7 +34058,7 @@
   },
   {
     "displayName": "Moire Patterns",
-    "langName": "moiré প্যাটার্ন",
+    "langName": "মোয়ারে প্যাটার্ন",
     "object": "পোস্ট প্রসেসিং",
     "attribute": "ইমেজ প্রসেসিং",
     "preview": "https://img.aishort.top/imgprompt/20260225022434402.webp"
@@ -34233,7 +34233,7 @@
   },
   {
     "displayName": "Sabattier Effect",
-    "langName": "নরম, ঝাপসা প্রান্ত এবং রঙের ছায়া প্রদান করে",
+    "langName": "সাব্যাটিয়ার প্রভাব",
     "object": "পোস্ট প্রসেসিং",
     "attribute": "ইমেজ প্রসেসিং",
     "preview": "https://img.aishort.top/imgprompt/20260225022949265.webp"
@@ -34268,7 +34268,7 @@
   },
   {
     "displayName": "Harris Shutter",
-    "langName": "হ্যারিস শাটার (গতি/কম আলো)",
+    "langName": "হ্যারিস শাটার প্রভাব",
     "object": "পোস্ট প্রসেসিং",
     "attribute": "ইমেজ প্রসেসিং",
     "description": "দ্রুতগতির বস্তু ক্যাপচার করে বা কম আলোর পরিবেশে ছবির স্পষ্টতা বজায় রাখে",
@@ -34509,7 +34509,7 @@
   },
   {
     "displayName": "35mm film photography,warm vintage Japanese onsen ryokan aesthetic,soft ambient wooden lantern lighting mixed with gentle natural window light,subtle film grain,gentle color shift,high atmosphere editorial style,intimate medium shot,early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features,seductive almond-shaped fox eyes with natural double eyelids,high nose bridge,small sharp V-shaped jawline,flawless porcelain skin with warm ivory undertone,visible subtle skin texture and micro pores,soft natural makeup with dewy glow,subtle rosy flush on cheeks,natural soft pink lips slightly parted,long dark brown hair tied in a loose low bun with some messy strands falling around face and neck,wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist,the fabric slightly open revealing smooth skin and subtle cleavage,barefoot,seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan,body slightly turned toward the camera,one leg bent with foot resting on the wooden floor,the other leg gently dangling,one hand lightly holding the yukata collar,the other hand resting on the wooden floor behind her for support,softly arched back to gently accentuate curves,intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth,warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus,gentle rim lighting highlighting skin and fabric texture,authentic vintage film color grading with warm tones,extremely sharp yet soft skin rendering,natural hair strands,realistic fabric wrinkles and drape on the yukata,no plastic skin,no digital over-sharpening,no airbrushing,no blemishes,no moles,no oily skin,no watermark,no text,authentic 35mm film Japanese onsen ryokan atmosphere",
-    "langName": "জাপানি Onsen Ryokan পোর্ট্রেট",
+    "langName": "জাপানি অনসেন রিয়োকান পোর্ট্রেট",
     "object": "প্রদর্শনী",
     "attribute": "প্রতিকৃতি",
     "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
@@ -34565,7 +34565,7 @@
   },
   {
     "displayName": "\"Sam Altman on a skateboard at a skatepark with no people.\"",
-    "langName": "Sam Altman স্কেটপার্ক স্ন্যাপশট",
+    "langName": "স্যাম অল্টম্যানের স্কেটপার্কের ছবি",
     "object": "প্রদর্শনী",
     "attribute": "প্রতিকৃতি",
     "description": "by @Malek1173989 (https://x.com/Malek1173989)",
@@ -34645,7 +34645,7 @@
   },
   {
     "displayName": "generate image: Selfie of Sam Altman riding a bear\n\nEdit prompt: Remove the background make it transparent",
-    "langName": "Sam Altman ভালুক সেলফি",
+    "langName": "স্যাম অল্টম্যানের ভাল্লুক সেলফি",
     "object": "প্রদর্শনী",
     "attribute": "প্রতিকৃতি",
     "description": "by @JustinGorya (https://x.com/JustinGorya)",
@@ -34653,7 +34653,7 @@
   },
   {
     "displayName": "サムアルトマンがメジャーリーガーでバットを構えている。よくあるようなテレビ画面の構図",
-    "langName": "Sam Altman বেসবল ব্রডকাস্ট",
+    "langName": "স্যাম অল্টম্যানের বেসবল ম্যাচ",
     "object": "প্রদর্শনী",
     "attribute": "প্রতিকৃতি",
     "description": "by @16kthir0GRXgNqn (https://x.com/16kthir0GRXgNqn)",
@@ -34682,7 +34682,7 @@
   },
   {
     "displayName": "beautiful Korean idol in an intimate pose with a man in a blurred indoor setting,soft lighting,moody atmosphere",
-    "langName": "beautiful Korean idol in an intimate pose with a man in a blurred indoor setting,soft lighting,moody atmosphere",
+    "langName": "দুজনের অন্তরঙ্গ ফটোশুট",
     "object": "প্রদর্শনী",
     "attribute": "প্রতিকৃতি",
     "preview": "https://img.aishort.top/imgprompt/20260228063106088.webp"
@@ -34703,7 +34703,7 @@
   },
   {
     "displayName": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space,a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve,gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline,Beacon Hill brownstones,Acorn Street,Boston Public Garden,Swan Boats,Zakim Bridge,Fenway-inspired details,historic brick architecture,harbor ferries,and the city’s waterfront atmosphere. Soft morning fog,golden spring light,subtle festive accents in crimson and gold,rich detail,layered depth,sophisticated city-poster aesthetics,fresh and refined,visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON,A CITY OF RIVER,MEMORY,AND INVENTION”,text clear and beautifully composed,premium graphic design,9:16",
-    "langName": "Boston বসন্ত 2026 সিটি পোস্টার",
+    "langName": "বোস্টন ২০২৬ বসন্তকালীন শহরের পোস্টার",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
@@ -34711,7 +34711,7 @@
   },
   {
     "displayName": "Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast,Italy,panoramic coastal cliff road scene,classic 1960s white car driving along a curved seaside road,deep blue Mediterranean sea with small sailboats,colorful pastel hillside village,bright blue sky with soft clouds,lemon tree branches with vibrant yellow lemons framing the foreground,warm summer sunlight,bold vibrant colors,retro 1950s travel poster style,cinematic composition,high detail,screen print texture,graphic illustration. Hand-drawn style,illustration with loose strokes and defined contours. High-contrast color palette,maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.",
-    "langName": "ভিন্টেজ Amalfi ট্র্যাভেল পোস্টার",
+    "langName": "ভিন্টেজ আমালফি ভ্রমণ পোস্টার",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @WolfRiccardo (https://x.com/WolfRiccardo)",
@@ -34719,7 +34719,7 @@
   },
   {
     "displayName": "一张手绘风格的城市美食地图,以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底,标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等,每个插画约占地图的 5% 面积,旁边用手写体标注店名和一句推荐语\"凌晨两点还在排队的那家\"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题\"成都·吃货暴走地图\"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感,颜色以暖色系（辣椒红、姜黄、翠绿）为主,图片比例 1:1。",
-    "langName": "Chengdu ফুড ম্যাপ ইলাস্ট্রেশন",
+    "langName": "চেংদু খাদ্য মানচিত্রের চিত্রণ",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @Panda20230902 (https://x.com/Panda20230902)",
@@ -34734,8 +34734,8 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151157243.webp"
   },
   {
-    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑(广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
-    "langName": "2026 বসন্ত Guangzhou শহর পোস্টার",
+    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑（广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
+    "langName": "২০২৬ বসন্ত গুয়াংজু শহরের পোস্টার",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34743,7 +34743,7 @@
   },
   {
     "displayName": "以涂鸦速写风表现【一个厉害的AI builder】,整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一,略显凌乱但具有节奏和表现力,强调概括、夸张、趣味和随性,而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现,可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感,色彩根据【主题/主体】自动适配,但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果,不要细腻水彩过渡,不要纸纹理,不要柔和雾化,不要梦幻质感。  背景以留白为主,保持简洁、轻松、未完成感和设计感,可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素,以增强速写本或随笔式视觉语言,但不可过于拥挤,不可破坏主体和留白气质。  画面内容不需要预先写清楚,由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景,整体保持统一的涂鸦速写风和夸张概括的表现方式,避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“BlanPlan”,作为画面的一部分,位置低调但清晰,可放在左下角、右下角或标题附近,风格需与整体版式统一,像作品署名或设计落款；签名字体精致、克制、高级,不可过大,不可破坏主体构图,不可显得突兀或廉价。",
-    "langName": "ডুডল স্কেচ AI Builder",
+    "langName": "এআই নির্মাতা ডুডল স্কেচ",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @blanplan (https://x.com/blanplan)",
@@ -34759,7 +34759,7 @@
   },
   {
     "displayName": "小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて",
-    "langName": "Super Famicom পোস্টার স্টাইল",
+    "langName": "সুপার ফ্যামিকম পোস্টার শৈলী",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @lilimliliychan (https://x.com/lilimliliychan)",
@@ -34775,7 +34775,7 @@
   },
   {
     "displayName": "一幅超现实主义数字插画风格,采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中,四周环绕着色彩鲜艳的星云与气泡。画面中央还站着一个小人,背对观众,神情平静地仰望空中这条巨大的锦鲤,锦鲤头向下看着小人。整体画面呈现出强烈的大小对比,氛围空灵又梦幻。比例9:16",
-    "langName": "সুরিয়াল Koi নেবুলা ইলাস্ট্রেশন",
+    "langName": "কই মাছ ও নীহারিকার পরাবাস্তব চিত্রণ",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34783,7 +34783,7 @@
   },
   {
     "displayName": "纯黑深邃底色,一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端,构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟,内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列,前景有白鹤与湖面,远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀,东方美学与现代意象交融,8K 超高清渲染,比例 9:16。",
-    "langName": "ইংক-কার্ভ Guangzhou অ্যাসথেটিক্স পোস্টার",
+    "langName": "কালির বক্ররেখায় গুয়াংজু নান্দনিক পোস্টার",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34791,7 +34791,7 @@
   },
   {
     "displayName": "广东省城市足球超级联赛（粤超）邀请函海报设计,比例 9:16。S 型流动构图,以发光足球和动态能量流贯穿画面,沿动线融合广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑、佛山武术剪影、中山文化符号、潮汕英歌舞与清远山水。现代国潮高级海报风格,中国红主视觉,青蓝辅助,金色高光,带完整中文排版与电影级光影。",
-    "langName": "Guangdong সুপার লিগ আমন্ত্রণ পোস্টার",
+    "langName": "গুয়াংডং সুপার লিগ আমন্ত্রণ পোস্টার",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34799,7 +34799,7 @@
   },
   {
     "displayName": "一张充满新春喜庆但高雅的 2026 广州城市宣传海报,9:16 竖版,双重曝光,S 型流动构图。纯白纹理背景,右下角微缩传统服饰人物挥舞长红绸,红绸变形成山脉河流,内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。",
-    "langName": "বসন্ত 2026 Guangzhou প্রমো পোস্টার",
+    "langName": "বসন্ত ২০২৬ গুয়াংজু প্রচারমূলক পোস্টার",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @grok (https://x.com/grok)",
@@ -34815,7 +34815,7 @@
   },
   {
     "displayName": "极简主义,新中式风格立体图形设计,图像下端有楷体中国文字：“东方美学”,“2026/04/18”,署名 “CHINA”,和“@LIYUE\"；\n平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画,不规则的撕纸效果；\n中国的神兽：穷奇,身形图案完整,美轮美奂,线条柔美灵动,眼睛炯炯有神,威严的神态,优雅的姿势,奢华装饰艺术,中国传统纹饰；\n荧光蓝色线条,0.5mm极细金色金属质感勾边,泼白墨大笔触,色彩渲染,红底,蓝色的浪漫诗意视觉；\n冷暖光交织的梦幻唯美场景,强烈的光影对比氛围,花轻舞的时光叙事,东风禅意,画面有大面积留白,框架构图,底部留白,细节清晰。",
-    "langName": "Qiongqi পূর্বীয় নান্দনিকতা পোস্টার",
+    "langName": "কিয়ংকি প্রাচ্য নান্দনিক পোস্টার",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34823,7 +34823,7 @@
   },
   {
     "displayName": "以珠江新城现代都市景观为灵感的剪纸艺术,通过精巧的镂空手法在一整幅纸上,立体刻画广州塔、东西双塔等地标建筑与繁华城景。\n所有建筑与元素均以流畅的线条与结构相连,无孤立部分,构成一幅完整的都市画卷。\n画面采用金属箔或光泽纸材质,表面带有细腻的明暗光泽,在光照下呈现柔和的高光与阴影,仿佛被城市灯光轻轻照亮。\n背景以虚化的珠江新城天际线为衬,点缀隐约可见的花城广场与树木轮廓,整体透出现代浪漫的氛围。\n作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点,象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉,细节丰富,真实而富有艺术感染力。",
-    "langName": "Guangzhou পেপার-কাট সিটি পোস্টার",
+    "langName": "গুয়াংজু পেপার-কাট সিটি পোস্টার",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34879,7 +34879,7 @@
   },
   {
     "displayName": "以涂鸦速写风表现【一个厉害的AI builder】。",
-    "langName": "AI Builder ডুডল স্কেচ",
+    "langName": "এআই নির্মাতা ডুডল স্কেচ",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @opc_8838 (https://x.com/opc_8838)",
@@ -34895,7 +34895,7 @@
   },
   {
     "displayName": "请根据【主题】生成一张高质量竖版「科普百科图」。 \n\n这张图不是普通海报,也不是单纯插画,而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。\n\n请让画面包含:\n- 一个清晰漂亮的主题主视觉\n- 若干局部特征放大细节\n- 多个圆角模块化信息分区\n- 清楚的标题层级与重点标签\n- 简洁但丰富的百科内容\n- 可视化评分、要点总结或Top 5模块\n\n内容栏目请根据主题自动适配,优先从这些方向中选择并合理组合:\n基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。\n\n视觉要求:\n浅色干净背景,柔和配色,轻阴影,精致小图标,圆角信息框,整洁排版,信息密度高但不拥挤,阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡,而不是广告图。\n\n请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。",
-    "langName": "বিজ্ঞান বিশ্বকোষ ইনফোগ্রাফিক",
+    "langName": "বিজ্ঞান বিশ্বকোষীয় ইনফোগ্রাফিক",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @MrLarus (https://x.com/MrLarus)",
@@ -34919,7 +34919,7 @@
   },
   {
     "displayName": "平面插画,东方幻想风格高端城市海报设计,竖版9:16构图,整体采用对角线+S型流动构图,从左下向右上延展,画面以深邃黑色为背景,自上而下渐变至浓烈暗红色,形成强烈冷暖对比与空间纵深,背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿,自底部向上延伸,具有流体质感、粒子光效与渐变高光,局部带细微能量碎屑与体积光。\n\n金色流光中逐层浮现广州城市地标建筑群:广州塔为视觉核心,比例突出,周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素,建筑采用“精细线描 + 金色发光体块”表现,轮廓清晰、细节丰富,在金色光晕映衬下仿佛悬浮于虚空,形成超现实空间层次,远景轻微雾化增强纵深感。\n\n画面底部为一位东方白发女性形象,长发飘逸,如烟似雾,与金色流光自然衔接并逐渐融合,发丝半透明带渐变光感,姿态柔美,双目微闭,神情宁静,怀抱一束多彩鲜花,花间点缀微光粒子与星点效果,象征人与城市能量的精神连接,人物细节适度简化以突出整体设计感。\n\n光影集中于金色流线、建筑与人物轮廓,形成强烈明暗对比与视觉聚焦,整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底,高亮鎏金为主视觉强调,金色具备丰富明暗层次,辅以小面积高饱和花束色彩点缀,整体高级克制。\n\n页面文字与画面融合排版:顶部居中宋体大字“广州·中国”,下方小字“2026/04/20”,再下方小字“LIYUE”,文字采用淡金色或柔和暖白色,与整体光影统一。高品质细节,电影级光影表现,体积光与粒子细节丰富,画面干净无噪点,超高清8K分辨率,商业级海报质感。",
-    "langName": "ডার্ক-ফ্যান্টাসি Guangzhou সিটি পোস্টার",
+    "langName": "ডার্ক-ফ্যান্টাসি গুয়াংজু সিটি পোস্টার",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34935,7 +34935,7 @@
   },
   {
     "displayName": "少し暑くなってきた今の時期に、さわやかにさっぱりしたい、みずみずしさ、みたいなところをもっと強く感じたい。冷たいうどんやナス、つゆを口に含んだ時の爽快感、みたいなものをもっと感じるように",
-    "langName": "সতেজ গ্রীষ্মকালীন Udon বিজ্ঞাপন",
+    "langName": "গ্রীষ্মকালীন উদন নুডলস বিজ্ঞাপন",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @genel_ai (https://x.com/genel_ai)",
@@ -34951,7 +34951,7 @@
   },
   {
     "displayName": "A refined 2026 Silicon Valley city promotional poster with a futuristic yet elegant atmosphere.\n\nDouble exposure composition,preserving an S-shaped sense of flowing movement. On a pure white textured background,in the lower-right corner,a miniature figure dressed in sleek modern techwear is releasing a long ribbon of luminous silver-blue light. The ribbon flows gracefully through the air,showing a soft silk-like texture,and as it drifts toward the upper-left,it magically transforms into a grand landscape of rolling hills,coastline,data streams,and illuminated urban terrain.\n\nWithin this flowing “river of light,” overlay a hand-drawn panoramic map of Silicon Valley,blending technology,nature,innovation,and California sunlight. The scene feels visionary,expansive,sophisticated,and inspiring.\n\nInclude iconic Silicon Valley and Bay Area elements: Stanford University arches,Apple Park,Google campus-inspired buildings,Meta-like glass offices,Tesla-style innovation imagery,venture capital offices on Sand Hill Road,Palo Alto tree-lined streets,San Jose skyline,the Santa Cruz Mountains,San Francisco Bay,highways,autonomous vehicles,startup labs,semiconductor patterns,AI data centers,and subtle circuit-board textures.\n\nSurrounded by soft mist,golden California light,floating clouds,and delicate digital particles. Rich colors,complex structure,highly detailed,grand and breathtaking,yet still fresh and minimal because of the large areas of white space.\n\nIn the lower-left corner,elegant typography reads “SILICON VALLEY 2026” with a vertical promotional slogan: “Where Ideas Shape Tomorrow.” Beautiful editorial layout,graceful spacing,clear and complete lettering,premium city branding poster,cinematic lighting,sophisticated details,9:16 aspect ratio.",
-    "langName": "Silicon Valley 2026 প্রমো পোস্টার",
+    "langName": "সিলিকন ভ্যালি ২০২৬ প্রচারমূলক পোস্টার",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @carsonyungos (https://x.com/carsonyungos)",
@@ -34975,7 +34975,7 @@
   },
   {
     "displayName": "ピラティス教室の広告画像を作成したい テキストはよりユーザーが登録をするのに惹かれるような文言にし、画像内には女性がピラティスを実際に行っている様子を映して",
-    "langName": "পিলাটেস স্টুডিও বিজ্ঞাপন পোস্টার",
+    "langName": "পிலேটিস স্টুডিও বিজ্ঞাপন পোস্টার",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @ck_igarashi (https://x.com/ck_igarashi)",
@@ -34999,7 +34999,7 @@
   },
   {
     "displayName": "360 equirectangular image of Istiklal Street,Istanbul in 1900",
-    "langName": "1900 Istiklal স্ট্রিট প্যানোরামা প্রম্পট",
+    "langName": "১৯০০ ইস্তিকলাল স্ট্রিট প্যানোরামা প্রম্পট",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @ai_gezgini (https://x.com/ai_gezgini)",
@@ -35015,7 +35015,7 @@
   },
   {
     "displayName": "用可爱的风格讲述中国远征军的历史故事\n用波普风格讲述金刚经",
-    "langName": "কিউট চাইনিজ এক্সপিডিশনারি ফোর্স স্টোরিবোর্ড",
+    "langName": "চীনা অভিযাত্রী দলের কিউট স্টোরিবোর্ড",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @RainHuangapp (https://x.com/RainHuangapp)",
@@ -35039,7 +35039,7 @@
   },
   {
     "displayName": "A wooden bookshelf consisting of three shelves: On the top shelf,there should be one book,on the second shelf,there should be three books,and on the bottom shelf,there should be seven books.",
-    "langName": "কাঠের বুকশেলফ প্রম্পট টেস্ট",
+    "langName": "কাঠের বুকশেলফ প্রম্পট পরীক্ষা",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @chetaslua (https://x.com/chetaslua)",
@@ -35047,7 +35047,7 @@
   },
   {
     "displayName": "请根据【主题：xxx】自动生成一张高审美的“轮廓宇宙 / 收藏版叙事海报”风格作品。不要将画面局限于固定器物或常见容器,不要优先默认瓶子、沙漏、玻璃罩、怀表之类的常规载体,而是由 AI 根据主题自行判断并选择一个最契合、最有象征意义、轮廓最强、最适合承载完整叙事世界的主轮廓载体。这个主轮廓可以是器物、建筑、门、塔、拱门、穹顶、楼梯井、长廊、雕像、侧脸、眼睛、手掌、头骨、羽翼、面具、镜面、王座、圆环、裂缝、光幕、阴影、几何结构、空间切面、舞台框景、抽象符号或其他更有创意与主题代表性的视觉轮廓,要求合理布局。优先选择最能放大主题气质、最能形成强烈视觉记忆点、最能体现史诗感、神秘感、诗意感或设计感的轮廓,而不是最安全、最普通、最常见的容器。\n\n画面的核心不是简单把世界装进某个物体里,而是让完整的主题世界自然生长在这个主轮廓之中、之内、之上、之边界里或与其结构融为一体,形成一种“主题宇宙依附于一个象征性轮廓展开”的高级叙事效果。主轮廓必须清晰、优雅、有辨识度,并在整体构图中占据核心地位。轮廓内部或边界中需要自动生成与主题强绑定的完整叙事世界,内容应当丰富、饱满、层次清晰,包括最能代表主题的标志性场景、核心建筑或空间结构、象征符号与隐喻元素、角色关系或文明痕迹、远景中景近景的空间递进、具有命运感和情绪张力的氛围层次,以及门、台阶、桥梁、水面、烟雾、路径、光源、遗迹、机械结构、自然景观、抽象形态、生物或道具等叙事细节。所有元素必须统一、自然、有主次、有层级地融合,像一个完整世界真实孕育在这个轮廓结构之中,而不是简单拼贴、裁切填充、素材堆叠或模板化背景。\n\n整体构图需要具有强烈的收藏版海报气质与高级设计感,大结构稳定,主轮廓强烈明确,内部世界具有纵深、秩序和呼吸感,细节丰富但不拥挤,内容丰满但不杂乱,可以适度加入小比例人物剪影、远处建筑、光柱、门洞、桥、阶梯、回廊、倒影、天光或远景结构来增强尺度感、故事感与史诗感。整体画面要安静、宏大、凝练、富有余味,不要平均铺满,不要廉价热闹,不要无重点堆砌。\n\n风格融合收藏版电影海报构图、高级叙事型视觉设计、梦幻水彩质感与纸张印刷品气质,强调纸张颗粒感、边缘飞白、水彩刷痕、轻微晕染、空气透视、柔和雾化、局部体积光、光雾穿透、大面积留白与克制版式,让画面看起来像设计师完成的高端收藏版视觉作品,而不是普通 AI 跑图。整体气质要高级、诗意、宏大、神圣、怀旧、安静、具有传说感和叙事感。\n\n色彩由 AI 根据主题自动判断并匹配最合适的高级配色方案,但必须保持统一、克制、耐看、低饱和、高级,不要杂乱高饱和,不要廉价霓虹感,不要塑料数码感。配色可以围绕黑金灰、冷蓝灰、雾白灰、褐红米白、暗铜、旧纸色、深海蓝、暮色紫、银灰等体系自由变化,但必须始终服务主题,并保持海报级审美与整体和谐。\n\n最终要求：第一眼有强烈的主题识别度和轮廓记忆点,第二眼有完整丰富的叙事世界,第三眼仍有细节和余味。轮廓选择必须具有创意和主题匹配度,尽量避免重复、保守、常见的容器套路,优先选择更有象征性、更有空间感、更有设计潜力的轮廓形式。不要普通背景拼接,不要生硬裁切,不要模板化奇幻素材,不要游戏宣传图感,不要过度卡通化,不要过度写实导致失去艺术感,不要形式大于内容。如果合适,可以自然加入低调克制的标题、编号、签名或落款,让它更像收藏版海报设计的一部分,但不要喧宾夺主。",
-    "langName": "সিলুয়েট ইউনিভার্স ন্যারেটিভ পোস্টার",
+    "langName": "মহাজাগতিক সিলুয়েট আখ্যান পোস্টার",
     "object": "প্রদর্শনী",
     "attribute": "পোস্টার",
     "description": "by @MrLarus (https://x.com/MrLarus)",
@@ -35111,7 +35111,7 @@
   },
   {
     "displayName": "最新モデルの画像生成ツールを使用して、\nこのちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）\nギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。\n\n「ここに自己紹介」\n\n名前:（ここに名前） \nイメージカラー:（ここに色） \n身長:（ここに身長）cm \n体重:（ここに体重）kg\nキャッチコピー:”「ここにセリフ」”",
-    "langName": "Gal Game ক্যারেক্টার পরিচিতি পেজ",
+    "langName": "রোম্যান্স গেম (গ্যালগেম) চরিত্র পরিচিতি পাতা",
     "object": "প্রদর্শনী",
     "attribute": "চরিত্র",
     "description": "by @09lyco (https://x.com/09lyco)",
@@ -35119,7 +35119,7 @@
   },
   {
     "displayName": "このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 \n・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 \n・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる \n・全体は整理されたレイアウト\n（白背景、図解風） \n・アスペクト比16：9\n\n高解像度、プロのコンセプトアートスタイル",
-    "langName": "অফিসিয়াল ক্যারেক্টার শিট (JP)",
+    "langName": "অফিসিয়াল চরিত্র সেটিং শীট (জাপানি শৈলী)",
     "object": "প্রদর্শনী",
     "attribute": "চরিত্র",
     "description": "by @Toshi_nyaruo_AI (https://x.com/Toshi_nyaruo_AI)",
@@ -35127,7 +35127,7 @@
   },
   {
     "displayName": "A mecha girl mid-teens,pale skin smudged with soot and salt spray,sharp amber eyes with glowing HUD reticles,waist-length ash-white hair tied in a high ponytail whipping in the sea wind,matte gunmetal exoskeleton armor plating her shoulders,forearms and shins,exposed hydraulic pistons at the joints,chest rig with glowing cyan coolant lines,oversized oil-stained hangar jacket half slipping off one shoulder,a massive rail cannon resting on her right shoulder,dog tags and frayed red ribbon at her collar,standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water,weight shifted onto one leg,left hand gripping the cannon strap,head turned slightly toward camera with a quiet defiant stare,steam venting from her back thrusters,her ponytail and jacket streaming sideways in the salt wind,a vast derelict sea-city at dusk,colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes,bone-white monolithic towers fused with barnacled steel,cyclopean ring-shaped constructs canted at broken angles,rusted skeletal gantries threaded with dead cables,dark swells rolling between the pylons,shipwrecks half-swallowed at their feet,thick sea fog clinging to the bases while the upper structures pierce into a bruised sky,scattered faint lights blinking high in the towers like distant eyes,moody low-key lighting,cold teal ambient from the overcast sky,warm amber sodium glow leaking from a distant structure camera-right,hard backlight from a low sun behind the towers carving her silhouette,volumetric god rays cutting through sea mist,wet specular highlights on her armor,35mm anamorphic lens,slight low angle looking up past her shoulder toward the structures,medium-wide shot,shallow depth of field with foreground rust in soft focus,horizontal lens flares,fine atmospheric haze compressing the distant megastructures into layered silhouettes,cinematic anime key visual,painterly digital illustration with crisp line art,desaturated oceanic palette of teal,bone-white and rust punched by small warm accent lights,film grain,high-contrast editorial poster aesthetic . Format 16:9.",
-    "langName": "মেচা গার্ল সি-সিটি কি ভিজ্যুয়াল",
+    "langName": "সাগর-নগরীর মেকা কিশোরীর ভিজ্যুয়াল",
     "object": "প্রদর্শনী",
     "attribute": "চরিত্র",
     "description": "by @old_pgmrs_will (https://x.com/old_pgmrs_will)",
@@ -35135,7 +35135,7 @@
   },
   {
     "displayName": "生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片,每张卡牌上写上对应的中文名,每行4个,宽高比16:9。",
-    "langName": "Saint Seiya গোল্ড সেইন্টস কার্ড গ্রিড",
+    "langName": "সেন্ট সেয়া গোল্ড সেন্টস কার্ড গ্রিড",
     "object": "প্রদর্শনী",
     "attribute": "চরিত্র",
     "description": "by @songguoxiansen (https://x.com/songguoxiansen)",
@@ -35151,7 +35151,7 @@
   },
   {
     "displayName": "用这种风格帮我生成一套UI设计系统,包含网页、移动端、卡片、控件、按钮 以及其它",
-    "langName": "ওয়ান-প্রম্পট UI ডিজাইন জেনারেশন",
+    "langName": "একক প্রম্পটে ইউআই ডিজাইন",
     "object": "প্রদর্শনী",
     "attribute": "UI",
     "description": "by @austinit (https://x.com/austinit)",
@@ -35159,7 +35159,7 @@
   },
   {
     "displayName": "Amateur iPhone photo at Apple Park during the iPhone 20 keynote,Tim Cook presenting on stage. Shot from the crowd at a distance",
-    "langName": "অপেশাদার iPhone Keynote স্ন্যাপশট",
+    "langName": "আইফোন কিনোট অপেশাদার স্ন্যাপশট",
     "object": "প্রদর্শনী",
     "attribute": "UI",
     "description": "by @patrickassale (https://x.com/patrickassale)",
@@ -35191,7 +35191,7 @@
   },
   {
     "displayName": "9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊！",
-    "langName": "Liu Yifei Douyin লাইভস্ট্রিম স্ক্রিনশট",
+    "langName": "লিউ ইফেই টিকটক / ডুইন লাইভ স্ট্রিম স্ক্রিনশট",
     "object": "প্রদর্শনী",
     "attribute": "UI",
     "description": "by @alanblogsooo (https://x.com/alanblogsooo)",
@@ -35199,7 +35199,7 @@
   },
   {
     "displayName": "태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.",
-    "langName": "রাজা Taejo Yi Seong-gye-এর X পেজ",
+    "langName": "রাজা তাইজো ই সং-গাই-এর এক্স প্রোফাইল",
     "object": "প্রদর্শনী",
     "attribute": "UI",
     "description": "by @SKA_Neotype (https://x.com/SKA_Neotype)",
@@ -35215,7 +35215,7 @@
   },
   {
     "displayName": "「いらすとや」のほのぼのとした雰囲気と、「霞ヶ関スライド」の圧倒的な情報密度を融合させた、桃太郎の解説スライド（ポンチ絵）を作成して",
-    "langName": "Momotaro এক্সপ্লেইনার স্লাইড",
+    "langName": "মোমোতারো ব্যাখ্যামূলক স্লাইড",
     "object": "প্রদর্শনী",
     "attribute": "UI",
     "description": "by @yammamon (https://x.com/yammamon)",
@@ -35223,7 +35223,7 @@
   },
   {
     "displayName": "请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。\n\n要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构,用户无需再提供其他信息。\n\n整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图,而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感,整体高级、克制、专业、可收藏。\n\n版式固定为：\n- 顶部：中文主标题 + 副标题 + 导语\n- 左侧：结构拆解区,中文引线标注关键部件,并配局部特写\n- 右上：材质 / 工艺 / 质感区,展示真实纹理小样并附说明\n- 右中：纹样 / 色彩 / 寓意区,展示主色板、纹样样本和文化解释\n- 底部：穿着顺序 / 构成流程图 + 核心特征总结\n\n若主题适合人物展示,则以真实人物全身站姿为中央主体；若更适合器物或单体结构,则改为中心主体拆解图,但整体仍保持完整中文信息图形式。所有文字必须为简体中文,清晰、规整、可读,不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。\n\n避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。",
-    "langName": "মিউজিয়াম-স্টাইল Hanfu ব্রেকডাউন ইনফোগ্রাফিক",
+    "langName": "মিউজিয়াম স্টাইল হানফু বিশদ ইনফোগ্রাফিক",
     "object": "প্রদর্শনী",
     "attribute": "UI",
     "description": "by @MrLarus (https://x.com/MrLarus)",
@@ -35231,7 +35231,7 @@
   },
   {
     "displayName": "この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。",
-    "langName": "জাপানি RPG স্ট্যাটাস স্ক্রিন",
+    "langName": "জাপানি আরপিজি (RPG) স্ট্যাটাস স্ক্রিন",
     "object": "প্রদর্শনী",
     "attribute": "UI",
     "description": "by @Kashiko_AIart (https://x.com/Kashiko_AIart)",
@@ -35239,7 +35239,7 @@
   },
   {
     "displayName": "玄武门之变的朋友圈",
-    "langName": "Xuanwu গেট সোশ্যাল ফিড",
+    "langName": "শুয়ানউ গেট সোশ্যাল ফিড",
     "object": "প্রদর্শনী",
     "attribute": "UI",
     "description": "by @Tz_2022 (https://x.com/Tz_2022)",
@@ -35263,7 +35263,7 @@
   },
   {
     "displayName": "生成一张慈禧的X主页",
-    "langName": "সম্রাজ্ঞী Cixi X পেজ",
+    "langName": "সম্রাজ্ঞী সিশির এক্স পেজ",
     "object": "প্রদর্শনী",
     "attribute": "UI",
     "description": "by @Cryptohaifeng_ (https://x.com/Cryptohaifeng_)",
@@ -35287,7 +35287,7 @@
   },
   {
     "displayName": "GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください",
-    "langName": "Don Quijote প্রমো পপ পোস্টার",
+    "langName": "ডন কুইক্সোট শৈলীর হস্তলিখিত পপ পোস্টার",
     "object": "প্রদর্শনী",
     "attribute": "UI",
     "description": "by @loglogrog (https://x.com/loglogrog)",
@@ -35295,7 +35295,7 @@
   },
   {
     "displayName": "日本のソシャゲのガチャ画面を生成して、",
-    "langName": "জাপানি Gacha গেম স্ক্রিন",
+    "langName": "জাপানি গাছা গেম স্ক্রিন",
     "object": "প্রদর্শনী",
     "attribute": "UI",
     "description": "by @the_wheel_2024 (https://x.com/the_wheel_2024)",
@@ -35303,7 +35303,7 @@
   },
   {
     "displayName": "A 9:16 vertical version,high-detail realistic style Chinese TikTok live screenshot,Elon Musk is talking to the mobile phone camera in the live broadcast room,excited,smiling,and the live atmosphere is warm and real. He held a white handwritten sign in one hand,which clearly said: \"Thank you Shinning\". There are obvious Chinese TikTok interface elements in the live broadcast screen,including likes,comments and share icons arranged vertically on the right,scrolling Chinese bullet screens and interactive comments below,and the \"live broadcast\" logo at the top,which looks like a real mobile phone screenshot. There is an eye-catching gift prompt special effect in the screen: \"Shinning sent TikTok No. 1\",with gift animation light effect and platform-style prompt box. Musk is in a professional live broadcast environment,with a mobile phone holder,a ring fill light and a desktop microphone in front of him. The background is a modern technology live broadcast room with bright lights and a slight neon atmosphere. The composition is real and natural,like the ongoing live screenshot of the Chinese short video platform. The interface information is rich but not messy,the characters are clear,the expression is vivid,the details are rich,the sense of real photography,the depth of field,high definition,cinematic,photorealistic,realistic livestream screenshot,social media UI,Chinese Douyin live room,detailed lighting,natural skin texture.\n\nNegative prompts:\n\nLow definition,blur,cartoon,illustration,too strong CG sense,two-dimensional,deformed fingers,wrong text,scrambled code,multiple mobile phones,multiple brands,character repetition,face collapse,facial features distortion,excessive skin polishing,overexposure,too dark,messy background,wrong UI,non-Chinese short video interface,too many English bullet screens,gift special effects are not obvious,cropping error,proportional error\n\nSupplementary reinforcement words:\n\nReal mobile phone screen recording screenshot feeling,the live broadcast UI is complete,the gift prompt box conforms to the style of the Chinese short video platform,the Chinese comment area is active,the number of people online in the live broadcast room is clearly displayed,and the time,power and signal bar are visible.",
-    "langName": "Elon Musk Douyin লাইভস্ট্রিম স্ক্রিনশট",
+    "langName": "ইলন মাস্ক টিকটক / ডুইন লাইভ স্ট্রিম স্ক্রিনশট",
     "object": "প্রদর্শনী",
     "attribute": "UI",
     "description": "by @Shinning1010 (https://x.com/Shinning1010)",
@@ -35311,7 +35311,7 @@
   },
   {
     "displayName": "9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊!",
-    "langName": "Liu Yifei Douyin লাইভস্ট্রিম স্ক্রিনশট",
+    "langName": "লিউ ইফেই টিকটক / ডুইন লাইভ স্ট্রিম স্ক্রিনশট",
     "object": "প্রদর্শনী",
     "attribute": "UI",
     "description": "by @kylegeeks (https://x.com/kylegeeks)",
@@ -35327,7 +35327,7 @@
   },
   {
     "displayName": "1、生成特朗普和金正恩在抖音直播间打PK的截图  \n2、生成不知火舞的小红书主页截图  \n3、生成图片: 手写在教室黑板上的出师表全文,真实感的粉笔字迹,晴朗白天用iPhone手机实拍  \n4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图,产品价格,产品细节,功能和使用场景等",
-    "langName": "Trump এবং Kim লাইভস্ট্রিম PK স্ক্রিনশট",
+    "langName": "ট্রাম্প বনাম কিম লাইভ স্ট্রিম যুদ্ধ",
     "object": "প্রদর্শনী",
     "attribute": "UI",
     "description": "by @alanlovelq (https://x.com/alanlovelq)",

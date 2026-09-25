@@ -159,31 +159,44 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
     };
   }, [displayedText, locale]);
 
+  // 全量就绪时一次性预计算归一化字段：推荐 effect 每次只查表，不再对
+  // 2×~5000 个字段现调 normalizeString。扫描/排序/合并语义与召回不变。
+  const scanEntries = useMemo(
+    () =>
+      fullTags
+        ? fullTags.map((tag) => ({
+            tag,
+            dn: normalizeString(tag.displayName || ""),
+            ln: normalizeString((tag.langName as string) || ""),
+          }))
+        : null,
+    [fullTags],
+  );
+
   // Recommendation: debounced 150ms, depends on displayedText + fullTags
   useEffect(() => {
     const timer = setTimeout(() => {
       const lastTagName = normalizeString(displayedText.split(", ").pop()?.trim() || "");
-      if (!lastTagName || !fullTags) {
-        // Empty input, or full data not loaded yet (will retrigger when fullTags arrives)
+      if (!lastTagName || !scanEntries) {
+        // Empty input, or full data not loaded yet (will retrigger when scanEntries arrives)
         setSuggestedTags([]);
         setExactMatchTag(null);
         return;
       }
 
-      // 全量扫描（~5000 条 × 防抖 150ms，亚毫秒级）。曾用首两字符分桶加速，
+      // 全量扫描（~5000 条 × 防抖 150ms；归一化已预计算，纯 includes 扫描毫秒级，
+      // 实测前台输入到推荐出现 ~177ms 里防抖占大头）。曾用首两字符分桶加速，
       // 但包含式命中只要不与查询词同前缀就整体漏掉（"seductive_smile" 搜
       // "smile" 不中、"迷人的微笑" 搜 "微笑" 不中），召回比速度重要。
-      const candidates: TagItem[] = fullTags;
-
-      const computeMatches = (searchField: keyof TagItem) => {
+      const computeMatches = (key: "dn" | "ln") => {
         let exact: TagItem | null = null;
         const matches: { tag: TagItem; norm: string }[] = [];
-        for (const tag of candidates) {
-          const norm = normalizeString((tag[searchField] as string) || "");
+        for (const entry of scanEntries) {
+          const norm = entry[key];
           if (norm === lastTagName) {
-            exact = tag;
+            exact = entry.tag;
           } else if (norm.includes(lastTagName)) {
-            matches.push({ tag, norm });
+            matches.push({ tag: entry.tag, norm });
           }
         }
         matches.sort((a, b) => {
@@ -200,8 +213,8 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
       // 双字段都搜再合并：langName（母语，主路径）命中排前，displayName 命中补后。
       // 旧的两段式「displayName 有结果就跳过 langName」会让中文查询撞到
       // 成品范例 displayName 里的噪音命中后，把真正的母语词条整组跳过。
-      const dn = computeMatches("displayName");
-      const ln = computeMatches("langName");
+      const dn = computeMatches("dn");
+      const ln = computeMatches("ln");
       const exact = dn.exact ?? ln.exact;
       const seen = new Set<string>();
       const merged: TagItem[] = [];
@@ -215,13 +228,14 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
       setSuggestedTags(merged.slice(0, 10));
     }, 150);
     return () => clearTimeout(timer);
-  }, [displayedText, fullTags]);
+  }, [displayedText, scanEntries]);
 
   // Handlers — draft text is the editing buffer
 
   // Re-deriving tags from the prompt text uses findTagData, which only sees the
-  // currently-loaded tag data. fullTags is lazy (loaded on textarea focus); until
-  // then only firstChunk = object 0 is searchable. Without this fallback, committing
+  // currently-loaded tag data. fullTags is lazy (textarea focus schedules an
+  // idle-time load); until then only the bootstrap firstChunk = the leading slice
+  // of object 0 is searchable. Without this fallback, committing
   // text (template insert / random color / blur) would resolve a tag picked from any
   // other object to an empty record and silently drop its object/attribute/langName.
   // Preserve the already-selected rich tag when findTagData can't resolve the name.

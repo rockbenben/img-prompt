@@ -435,7 +435,7 @@
   },
   {
     "displayName": "cleric",
-    "langName": "Klerus (Kristen)",
+    "langName": "Klerus / Pendeta",
     "object": "Tokoh",
     "attribute": "Identitas",
     "preview": "https://img.aishort.top/imgprompt/20260208072159895.webp"
@@ -526,7 +526,7 @@
   },
   {
     "displayName": "trap",
-    "langName": "Trap",
+    "langName": "Pria feminin",
     "object": "Tokoh",
     "attribute": "Identitas",
     "description": "Karakter pria dengan ciri-ciri feminin yang dapat disalahartikan sebagai wanita",
@@ -541,14 +541,14 @@
   },
   {
     "displayName": "otoko_no_ko",
-    "langName": "Otokonoko (pria berpenampilan wanita)",
+    "langName": "Otokonoko",
     "object": "Tokoh",
     "attribute": "Identitas",
     "preview": "https://img.aishort.top/imgprompt/20260208074725601.webp"
   },
   {
     "displayName": "gyaru",
-    "langName": "Gadis-gadis seksi (gadis Jepang)",
+    "langName": "Gyaru",
     "object": "Tokoh",
     "attribute": "Identitas",
     "preview": "https://img.aishort.top/imgprompt/20260210193812753.webp"
@@ -562,14 +562,14 @@
   },
   {
     "displayName": "yaoi",
-    "langName": "Gay",
+    "langName": "Yaoi / BL",
     "object": "Tokoh",
     "attribute": "Identitas",
     "preview": "https://img.aishort.top/imgprompt/20260208074725603.webp"
   },
   {
     "displayName": "yuri",
-    "langName": "yuri",
+    "langName": "Yuri / GL",
     "object": "Tokoh",
     "attribute": "Identitas",
     "preview": "https://img.aishort.top/imgprompt/20260209061704191.webp"
@@ -646,7 +646,7 @@
   },
   {
     "displayName": "mazinger",
-    "langName": "Wonder Woman",
+    "langName": "Mazinger Z",
     "object": "Tokoh",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537640.webp"
@@ -723,7 +723,7 @@
   },
   {
     "displayName": "magister",
-    "langName": "Magister",
+    "langName": "Penyihir agung",
     "object": "Tokoh",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063029682.webp"
@@ -758,7 +758,7 @@
   },
   {
     "displayName": "orc",
-    "langName": "orc",
+    "langName": "Orc",
     "object": "Tokoh",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063108912.webp"
@@ -772,7 +772,7 @@
   },
   {
     "displayName": "elf",
-    "langName": "goblin",
+    "langName": "Peri / Elf",
     "object": "Tokoh",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063126234.webp"
@@ -786,14 +786,14 @@
   },
   {
     "displayName": "fairy",
-    "langName": "peri",
+    "langName": "Peri",
     "object": "Tokoh",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063141969.webp"
   },
   {
     "displayName": "succubus",
-    "langName": "succubus",
+    "langName": "Siluman succubus",
     "object": "Tokoh",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063148926.webp"
@@ -828,14 +828,14 @@
   },
   {
     "displayName": "monster_girl",
-    "langName": "Ibu orang asing",
+    "langName": "Gadis monster",
     "object": "Tokoh",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063226407.webp"
   },
   {
     "displayName": "dominatrix",
-    "langName": "Ratu (Media SM)",
+    "langName": "Dominatrix",
     "object": "Tokoh",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063233422.webp"
@@ -968,21 +968,21 @@
   },
   {
     "displayName": "horse_girl",
-    "langName": "Gadis Kuda",
+    "langName": "Gadis kuda",
     "object": "Tokoh",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537637.webp"
   },
   {
     "displayName": "furry",
-    "langName": "orc",
+    "langName": "Furry",
     "object": "Tokoh",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537632.webp"
   },
   {
     "displayName": "furry/orc",
-    "langName": "Orc/Orc",
+    "langName": "Furry / Orc",
     "object": "Tokoh",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537646.webp"
@@ -1010,14 +1010,14 @@
   },
   {
     "displayName": "mesugaki",
-    "langName": "iblis betina",
+    "langName": "Mesugaki",
     "object": "Tokoh",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537644.webp"
   },
   {
     "displayName": "santa alter",
-    "langName": "Sinterklas",
+    "langName": "Santa Alter",
     "object": "Tokoh",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537639.webp"
@@ -1052,7 +1052,7 @@
   },
   {
     "displayName": "kindergartener",
-    "langName": "taman kanak-kanak",
+    "langName": "Anak taman kanak-kanak",
     "object": "Tokoh",
     "attribute": "Usia",
     "preview": "https://img.aishort.top/imgprompt/20260210192804244.webp"
@@ -1073,14 +1073,14 @@
   },
   {
     "displayName": "early teen",
-    "langName": "Masa Remaja Awal (11-15)",
+    "langName": "Remaja awal",
     "object": "Tokoh",
     "attribute": "Usia",
     "preview": "https://img.aishort.top/imgprompt/20260210192804238.webp"
   },
   {
     "displayName": "teenager",
-    "langName": "Remaja (13-19)",
+    "langName": "Remaja",
     "object": "Tokoh",
     "attribute": "Usia",
     "preview": "https://img.aishort.top/imgprompt/20260210192804240.webp"
@@ -1192,7 +1192,7 @@
   },
   {
     "displayName": "tanlines",
-    "langName": "kerusakan akibat matahari",
+    "langName": "Garis belang matahari",
     "object": "Tokoh",
     "attribute": "Kulit",
     "preview": "https://img.aishort.top/imgprompt/20260210193621164.webp"
@@ -1206,7 +1206,7 @@
   },
   {
     "displayName": "oil_skin",
-    "langName": "oil skin",
+    "langName": "Kulit berminyak",
     "object": "Tokoh",
     "attribute": "Kulit",
     "preview": "https://img.aishort.top/imgprompt/20260210195122883.webp"
@@ -1318,7 +1318,7 @@
   },
   {
     "displayName": "(cleavage visible,large breasts)",
-    "langName": "Payudara besar (dengan belahan dada)",
+    "langName": "Payudara besar (belahan terlihat)",
     "object": "Tokoh",
     "attribute": "Bentuk Tubuh",
     "preview": "https://img.aishort.top/imgprompt/20260211065136926.webp"
@@ -1955,7 +1955,7 @@
   },
   {
     "displayName": "blunt bangs",
-    "langName": "poni rata",
+    "langName": "Poni rata",
     "object": "Tokoh",
     "attribute": "Gaya Rambut",
     "preview": "https://img.aishort.top/imgprompt/20260211134928539.webp"
@@ -1976,7 +1976,7 @@
   },
   {
     "displayName": "air bangs",
-    "langName": "poni udara",
+    "langName": "Poni tipis",
     "object": "Tokoh",
     "attribute": "Gaya Rambut",
     "preview": "https://img.aishort.top/imgprompt/20260211135006710.webp"
@@ -2081,7 +2081,7 @@
   },
   {
     "displayName": "ahoge",
-    "langName": "Bodoh",
+    "langName": "Ahoge",
     "object": "Tokoh",
     "attribute": "Gaya Rambut",
     "preview": "https://img.aishort.top/imgprompt/20260211135331864.webp"
@@ -2767,7 +2767,7 @@
   },
   {
     "displayName": "eye_relfection",
-    "langName": "refleksi mata",
+    "langName": "Refleksi mata",
     "object": "Tokoh",
     "attribute": "Mata",
     "preview": "https://img.aishort.top/imgprompt/20260211141526968.webp"
@@ -2970,7 +2970,7 @@
   },
   {
     "displayName": "solid_oval_eyes",
-    "langName": "mata oval padat versi Q",
+    "langName": "Mata oval pekat chibi",
     "object": "Tokoh",
     "attribute": "Mata",
     "preview": "https://img.aishort.top/imgprompt/20260211142239019.webp"
@@ -2984,7 +2984,7 @@
   },
   {
     "displayName": "blush_stickers",
-    "langName": "stiker perona pipi versi Q",
+    "langName": "Stiker rona pipi chibi",
     "object": "Tokoh",
     "attribute": "Mata",
     "preview": "https://img.aishort.top/imgprompt/20260211142304171.webp"
@@ -3019,14 +3019,14 @@
   },
   {
     "displayName": "sanpaku",
-    "langName": "sindrom tiga putih (pergeseran pupil)",
+    "langName": "Mata sanpaku",
     "object": "Tokoh",
     "attribute": "Mata",
     "preview": "https://img.aishort.top/imgprompt/20260211142408606.webp"
   },
   {
     "displayName": "flaming_eye",
-    "langName": "Homura",
+    "langName": "Mata berapi-api",
     "object": "Tokoh",
     "attribute": "Mata",
     "preview": "https://img.aishort.top/imgprompt/20260211142422174.webp"
@@ -3082,7 +3082,7 @@
   },
   {
     "displayName": "half_closed_eye",
-    "langName": "mata setengah tertutup (mata tunggal)",
+    "langName": "Mata setengah tertutup",
     "object": "Tokoh",
     "attribute": "Mata",
     "preview": "https://img.aishort.top/imgprompt/20260211142557836.webp"
@@ -3180,21 +3180,21 @@
   },
   {
     "displayName": "no_blindfold",
-    "langName": "Penutup mata (asli) dilepas",
+    "langName": "Tanpa penutup mata",
     "object": "Tokoh",
     "attribute": "Mata",
     "preview": "https://img.aishort.top/imgprompt/20260211220153156.webp"
   },
   {
     "displayName": "no_eyepatch",
-    "langName": "Masker mata (yang ada) dilepas",
+    "langName": "Tanpa penutup mata",
     "object": "Tokoh",
     "attribute": "Mata",
     "preview": "https://img.aishort.top/imgprompt/20260211142907966.webp"
   },
   {
     "displayName": "eyeliner",
-    "langName": "Eyeliner",
+    "langName": "Riasan garis mata",
     "object": "Tokoh",
     "attribute": "Mata",
     "preview": "https://img.aishort.top/imgprompt/20260211142920494.webp"
@@ -3264,7 +3264,7 @@
   },
   {
     "displayName": "solid_circle_pupils",
-    "langName": "Pupil bulat padat versi Q",
+    "langName": "Pupil bulat pekat chibi",
     "object": "Tokoh",
     "attribute": "Pupil",
     "preview": "https://img.aishort.top/imgprompt/20260211143127812.webp"
@@ -3292,7 +3292,7 @@
   },
   {
     "displayName": "snake_pupils",
-    "langName": "Pupil ular (kilatan pupil)",
+    "langName": "Pupil mata ular",
     "object": "Tokoh",
     "attribute": "Pupil",
     "preview": "https://img.aishort.top/imgprompt/20260317093813015.webp"
@@ -3376,7 +3376,7 @@
   },
   {
     "displayName": "cross-shaped_pupils",
-    "langName": "Pupil simbolis (tanpa efek)",
+    "langName": "Pupil berbentuk salib",
     "object": "Tokoh",
     "attribute": "Pupil",
     "preview": "https://img.aishort.top/imgprompt/20260211143449975.webp"
@@ -3670,7 +3670,7 @@
   },
   {
     "displayName": "gasping",
-    "langName": "Terengah-engah (mulut terbuka)",
+    "langName": "Terengah-engah",
     "object": "Tokoh",
     "attribute": "Mulut",
     "preview": "https://img.aishort.top/imgprompt/20260317100011869.webp"
@@ -3726,7 +3726,7 @@
   },
   {
     "displayName": ":3",
-    "langName": "Mulut Kucing",
+    "langName": "Mulut kucing",
     "object": "Tokoh",
     "attribute": "Mulut",
     "preview": "https://img.aishort.top/imgprompt/20260317100112576.webp"
@@ -3761,7 +3761,7 @@
   },
   {
     "displayName": "chestnut_mouth",
-    "langName": "Lizizui",
+    "langName": "Mulut segitiga",
     "object": "Tokoh",
     "attribute": "Mulut",
     "preview": "https://img.aishort.top/imgprompt/20260211144640830.webp"
@@ -3901,7 +3901,7 @@
   },
   {
     "displayName": "mouth_drool",
-    "langName": "Celah air liur (sudut mulut)",
+    "langName": "Meneteskan air liur",
     "object": "Tokoh",
     "attribute": "Mulut",
     "preview": "https://img.aishort.top/imgprompt/20260317100321880.webp"
@@ -4167,42 +4167,42 @@
   },
   {
     "displayName": "flat chest",
-    "langName": "Dada rata (A)",
+    "langName": "Dada rata",
     "object": "Tokoh",
     "attribute": "Dada",
     "preview": "https://img.aishort.top/imgprompt/20260212064123283.webp"
   },
   {
     "displayName": "small_breasts",
-    "langName": "Payudara kecil (B)",
+    "langName": "Payudara kecil",
     "object": "Tokoh",
     "attribute": "Dada",
     "preview": "https://img.aishort.top/imgprompt/20260212071540871.webp"
   },
   {
     "displayName": "medium breasts",
-    "langName": "Dada sedang (C)",
+    "langName": "Payudara sedang",
     "object": "Tokoh",
     "attribute": "Dada",
     "preview": "https://img.aishort.top/imgprompt/20260212071540873.webp"
   },
   {
     "displayName": "big breasts",
-    "langName": "Payudara besar (D)",
+    "langName": "Payudara besar",
     "object": "Tokoh",
     "attribute": "Dada",
     "preview": "https://img.aishort.top/imgprompt/20260212071540872.webp"
   },
   {
     "displayName": "huge breasts",
-    "langName": "Payudara Besar (E)",
+    "langName": "Payudara sangat besar",
     "object": "Tokoh",
     "attribute": "Dada",
     "preview": "https://img.aishort.top/imgprompt/20260212071540870.webp"
   },
   {
     "displayName": "gigantic breasts",
-    "langName": "Payudara super besar (F)",
+    "langName": "Payudara luar biasa besar",
     "object": "Tokoh",
     "attribute": "Dada",
     "preview": "https://img.aishort.top/imgprompt/20260212071540874.webp"
@@ -4383,7 +4383,7 @@
   },
   {
     "displayName": "detached_wings",
-    "langName": "Sayap yang tidak terhubung ke tubuh",
+    "langName": "Sayap melayang terpisah",
     "object": "Tokoh",
     "attribute": "Sayap",
     "preview": "https://img.aishort.top/imgprompt/20260211150537125.webp"
@@ -4453,7 +4453,7 @@
   },
   {
     "displayName": "no_wings",
-    "langName": "Sayap yang dilepas (asli)",
+    "langName": "Tanpa sayap",
     "object": "Tokoh",
     "attribute": "Sayap",
     "preview": "https://img.aishort.top/imgprompt/20260212072704705.webp"
@@ -4579,7 +4579,7 @@
   },
   {
     "displayName": "foral_background",
-    "langName": "Latar belakang dekoratif pola bunga",
+    "langName": "Latar belakang pola bunga",
     "object": "Lingkungan",
     "attribute": "Latar Belakang",
     "preview": "https://img.aishort.top/imgprompt/20260211151130102.webp"
@@ -4698,7 +4698,7 @@
   },
   {
     "displayName": "rounded_corners",
-    "langName": "Sudut membulat",
+    "langName": "Bingkai sudut melengkung",
     "object": "Lingkungan",
     "attribute": "Latar Belakang",
     "preview": "https://img.aishort.top/imgprompt/20260211151506847.webp"
@@ -4712,7 +4712,7 @@
   },
   {
     "displayName": "outside_border",
-    "langName": "Sebagian digambar di luar bingkai latar belakang",
+    "langName": "Keluar dari batas bingkai",
     "object": "Lingkungan",
     "attribute": "Latar Belakang",
     "preview": "https://img.aishort.top/imgprompt/20260211151532945.webp"
@@ -4726,7 +4726,7 @@
   },
   {
     "displayName": "windowboxed",
-    "langName": "Kumpulan bingkai gambar (latar belakang)",
+    "langName": "Bingkai jendela",
     "object": "Lingkungan",
     "attribute": "Latar Belakang",
     "preview": "https://img.aishort.top/imgprompt/20260211151559726.webp"
@@ -4929,7 +4929,7 @@
   },
   {
     "displayName": "beautiful detailed sky,beautiful detailed water",
-    "langName": "Cuaca yang indah dan air yang indah",
+    "langName": "Langit dan air detail",
     "object": "Lingkungan",
     "attribute": "Alam",
     "preview": "https://img.aishort.top/imgprompt/20260211152348882.webp"
@@ -4992,7 +4992,7 @@
   },
   {
     "displayName": "Dreamy forest",
-    "langName": "Hutan mimpi (halus, partikel cahaya)",
+    "langName": "Hutan penuh mimpi",
     "object": "Lingkungan",
     "attribute": "Alam",
     "preview": "https://img.aishort.top/imgprompt/20260211152548353.webp"
@@ -5293,7 +5293,7 @@
   },
   {
     "displayName": "star_(sky)",
-    "langName": "bintang (di langit)",
+    "langName": "Bintang di langit",
     "object": "Lingkungan",
     "attribute": "Langit",
     "preview": "https://img.aishort.top/imgprompt/20260211153554967.webp"
@@ -5923,7 +5923,7 @@
   },
   {
     "displayName": "rappelling",
-    "langName": "Menuruni Tebing (menggantung)",
+    "langName": "Rappelling",
     "object": "Lingkungan",
     "attribute": "Luar Ruangan",
     "preview": "https://img.aishort.top/imgprompt/20260211155514112.webp"
@@ -6126,7 +6126,7 @@
   },
   {
     "displayName": "Trapeze",
-    "langName": "Trapeze",
+    "langName": "Ayunan akrobat",
     "object": "Lingkungan",
     "attribute": "Luar Ruangan",
     "preview": "https://img.aishort.top/imgprompt/20260211160132928.webp"
@@ -6679,28 +6679,28 @@
   },
   {
     "displayName": "server room",
-    "langName": "Server room",
+    "langName": "Ruang server",
     "object": "Lingkungan",
     "attribute": "Dalam Ruangan",
     "preview": "https://img.aishort.top/imgprompt/20260211161905019.webp"
   },
   {
     "displayName": "electrical room",
-    "langName": "Distribution room",
+    "langName": "Ruang distribusi listrik",
     "object": "Lingkungan",
     "attribute": "Dalam Ruangan",
     "preview": "https://img.aishort.top/imgprompt/20260211161918182.webp"
   },
   {
     "displayName": "dungeon",
-    "langName": "basement",
+    "langName": "Ruang bawah tanah / Penjara bawah tanah",
     "object": "Lingkungan",
     "attribute": "Dalam Ruangan",
     "preview": "https://img.aishort.top/imgprompt/20260211161931208.webp"
   },
   {
     "displayName": "otaku room",
-    "langName": "Otaku room",
+    "langName": "Kamar otaku",
     "object": "Lingkungan",
     "attribute": "Dalam Ruangan",
     "preview": "https://img.aishort.top/imgprompt/20260211161944413.webp"
@@ -6714,7 +6714,7 @@
   },
   {
     "displayName": "bathing",
-    "langName": "bathroom",
+    "langName": "Kamar mandi",
     "object": "Lingkungan",
     "attribute": "Dalam Ruangan",
     "preview": "https://img.aishort.top/imgprompt/20260212073615798.webp"
@@ -6742,7 +6742,7 @@
   },
   {
     "displayName": "wardrobe",
-    "langName": "Wardrobe",
+    "langName": "Lemari pakaian",
     "object": "Lingkungan",
     "attribute": "Furnitur",
     "preview": "https://img.aishort.top/imgprompt/20260211162053495.webp"
@@ -6791,14 +6791,14 @@
   },
   {
     "displayName": "school_desk",
-    "langName": "desk",
+    "langName": "Meja belajar",
     "object": "Lingkungan",
     "attribute": "Furnitur",
     "preview": "https://img.aishort.top/imgprompt/20260211162237008.webp"
   },
   {
     "displayName": "chair",
-    "langName": "Chair",
+    "langName": "Kursi",
     "object": "Lingkungan",
     "attribute": "Furnitur",
     "preview": "https://img.aishort.top/imgprompt/20260211162254060.webp"
@@ -6812,28 +6812,28 @@
   },
   {
     "displayName": "lounge_chair",
-    "langName": "lounge chair",
+    "langName": "Kursi santai",
     "object": "Lingkungan",
     "attribute": "Furnitur",
     "preview": "https://img.aishort.top/imgprompt/20260211162319296.webp"
   },
   {
     "displayName": "beach_chair",
-    "langName": "beach chair",
+    "langName": "Kursi pantai",
     "object": "Lingkungan",
     "attribute": "Furnitur",
     "preview": "https://img.aishort.top/imgprompt/20260211162332482.webp"
   },
   {
     "displayName": "folding_chair",
-    "langName": "folding chair",
+    "langName": "Kursi lipat",
     "object": "Lingkungan",
     "attribute": "Furnitur",
     "preview": "https://img.aishort.top/imgprompt/20260211162344937.webp"
   },
   {
     "displayName": "office_chair",
-    "langName": "office chair",
+    "langName": "Kursi kantor",
     "object": "Lingkungan",
     "attribute": "Furnitur",
     "preview": "https://img.aishort.top/imgprompt/20260211162357025.webp"
@@ -6847,14 +6847,14 @@
   },
   {
     "displayName": "invisible_chair",
-    "langName": "invisible chair",
+    "langName": "Kursi tak terlihat",
     "object": "Lingkungan",
     "attribute": "Furnitur",
     "preview": "https://img.aishort.top/imgprompt/20260211162422118.webp"
   },
   {
     "displayName": "window_",
-    "langName": "window",
+    "langName": "Jendela",
     "object": "Lingkungan",
     "attribute": "Furnitur",
     "preview": "https://img.aishort.top/imgprompt/20260211162435190.webp"
@@ -6868,63 +6868,63 @@
   },
   {
     "displayName": "curtains",
-    "langName": "curtain",
+    "langName": "Tirai",
     "object": "Lingkungan",
     "attribute": "Furnitur",
     "preview": "https://img.aishort.top/imgprompt/20260211162501268.webp"
   },
   {
     "displayName": "sliding_doors",
-    "langName": "sliding door",
+    "langName": "Pintu geser",
     "object": "Lingkungan",
     "attribute": "Furnitur",
     "preview": "https://img.aishort.top/imgprompt/20260211162514149.webp"
   },
   {
     "displayName": "door",
-    "langName": "Door",
+    "langName": "Pintu",
     "object": "Lingkungan",
     "attribute": "Furnitur",
     "preview": "https://img.aishort.top/imgprompt/20260211162527073.webp"
   },
   {
     "displayName": "clothes_rack",
-    "langName": "Coat hanger",
+    "langName": "Gantungan baju",
     "object": "Lingkungan",
     "attribute": "Furnitur",
     "preview": "https://img.aishort.top/imgprompt/20260211162539622.webp"
   },
   {
     "displayName": "air_conditioner",
-    "langName": "air conditioner",
+    "langName": "Pendingin ruangan",
     "object": "Lingkungan",
     "attribute": "Furnitur",
     "preview": "https://img.aishort.top/imgprompt/20260211162552225.webp"
   },
   {
     "displayName": "mattress",
-    "langName": "mattress; mattress",
+    "langName": "Kasur",
     "object": "Lingkungan",
     "attribute": "Perlengkapan Tempat Tidur",
     "preview": "https://img.aishort.top/imgprompt/20260211162605010.webp"
   },
   {
     "displayName": "bed_sheet",
-    "langName": "sheet",
+    "langName": "Sprei",
     "object": "Lingkungan",
     "attribute": "Perlengkapan Tempat Tidur",
     "preview": "https://img.aishort.top/imgprompt/20260211162618132.webp"
   },
   {
     "displayName": "futon",
-    "langName": "Japanese mattress",
+    "langName": "Kasur lipat Jepang",
     "object": "Lingkungan",
     "attribute": "Perlengkapan Tempat Tidur",
     "preview": "https://img.aishort.top/imgprompt/20260211162630784.webp"
   },
   {
     "displayName": "pillow",
-    "langName": "Pillow",
+    "langName": "Bantal",
     "object": "Lingkungan",
     "attribute": "Perlengkapan Tempat Tidur",
     "preview": "https://img.aishort.top/imgprompt/20260211162643465.webp"
@@ -6938,35 +6938,35 @@
   },
   {
     "displayName": "dumpling_Hug_Pillow",
-    "langName": "dumpling pillow",
+    "langName": "Bantal peluk bentuk pangsit",
     "object": "Lingkungan",
     "attribute": "Perlengkapan Tempat Tidur",
     "preview": "https://img.aishort.top/imgprompt/20260211162709467.webp"
   },
   {
     "displayName": "pillow_hug",
-    "langName": "pillow",
+    "langName": "Bantal guling / Bantal peluk",
     "object": "Lingkungan",
     "attribute": "Perlengkapan Tempat Tidur",
     "preview": "https://img.aishort.top/imgprompt/20260211162721941.webp"
   },
   {
     "displayName": "yes-no_pillow",
-    "langName": "Yes/No Pillow",
+    "langName": "Bantal Ya/Tidak dua sisi",
     "object": "Lingkungan",
     "attribute": "Perlengkapan Tempat Tidur",
     "preview": "https://img.aishort.top/imgprompt/20260211162734441.webp"
   },
   {
     "displayName": "stuffed_animal",
-    "langName": "plush doll",
+    "langName": "Boneka binatang / Boneka mewah",
     "object": "Lingkungan",
     "attribute": "Perlengkapan Tempat Tidur",
     "preview": "https://img.aishort.top/imgprompt/20260211162747356.webp"
   },
   {
     "displayName": "stuffed_bunny",
-    "langName": "stuffed bunny",
+    "langName": "Boneka kelinci",
     "object": "Lingkungan",
     "attribute": "Perlengkapan Tempat Tidur",
     "preview": "https://img.aishort.top/imgprompt/20260211162759709.webp"
@@ -6987,28 +6987,28 @@
   },
   {
     "displayName": "shower_head",
-    "langName": "shower head",
+    "langName": "Kepala pancuran",
     "object": "Lingkungan",
     "attribute": "Kamar Mandi",
     "preview": "https://img.aishort.top/imgprompt/20260211162838552.webp"
   },
   {
     "displayName": "toilet",
-    "langName": "toilet",
+    "langName": "Kloset / Toilet",
     "object": "Lingkungan",
     "attribute": "Kamar Mandi",
     "preview": "https://img.aishort.top/imgprompt/20260211162850881.webp"
   },
   {
     "displayName": "squat_toilet",
-    "langName": "Squat toilet",
+    "langName": "Toilet jongkok",
     "object": "Lingkungan",
     "attribute": "Kamar Mandi",
     "preview": "https://img.aishort.top/imgprompt/20260211162903457.webp"
   },
   {
     "displayName": "tiles",
-    "langName": "ceramic tile",
+    "langName": "Ubin keramik",
     "object": "Lingkungan",
     "attribute": "Kamar Mandi",
     "preview": "https://img.aishort.top/imgprompt/20260211162916435.webp"
@@ -7029,14 +7029,14 @@
   },
   {
     "displayName": "soap",
-    "langName": "Soap",
+    "langName": "Sabun",
     "object": "Lingkungan",
     "attribute": "Kamar Mandi",
     "preview": "https://img.aishort.top/imgprompt/20260211162954475.webp"
   },
   {
     "displayName": "rubber_duck",
-    "langName": "rubber duck",
+    "langName": "Bebek karet",
     "object": "Lingkungan",
     "attribute": "Kamar Mandi",
     "preview": "https://img.aishort.top/imgprompt/20260211163006771.webp"
@@ -7239,7 +7239,7 @@
   },
   {
     "displayName": "mouse",
-    "langName": "mouse",
+    "langName": "Tetikus",
     "object": "Benda",
     "attribute": "Peralatan Digital",
     "preview": "https://img.aishort.top/imgprompt/20260211163606205.webp"
@@ -7463,14 +7463,14 @@
   },
   {
     "displayName": "piano",
-    "langName": "piano",
+    "langName": "Piano",
     "object": "Benda",
     "attribute": "Alat Musik",
     "preview": "https://img.aishort.top/imgprompt/20260211164246493.webp"
   },
   {
     "displayName": "cello",
-    "langName": "cello",
+    "langName": "Selo",
     "object": "Benda",
     "attribute": "Alat Musik",
     "preview": "https://img.aishort.top/imgprompt/20260211164258797.webp"
@@ -7589,7 +7589,7 @@
   },
   {
     "displayName": "school_bag",
-    "langName": "Tas sekolah (tas tangan)",
+    "langName": "Tas sekolah",
     "object": "Benda",
     "attribute": "Perlengkapan Sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260211164633641.webp"
@@ -7820,14 +7820,14 @@
   },
   {
     "displayName": "diamond_(shape)",
-    "langName": "berlian (bentuk)",
+    "langName": "Bentuk belah ketupat",
     "object": "Benda",
     "attribute": "Barang Lainnya",
     "preview": "https://img.aishort.top/imgprompt/20260211165329674.webp"
   },
   {
     "displayName": "chibi_inset",
-    "langName": "ilustrasi chibi",
+    "langName": "Sisipan chibi",
     "object": "Benda",
     "attribute": "Barang Lainnya",
     "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
@@ -7932,7 +7932,7 @@
   },
   {
     "displayName": "sword",
-    "langName": "pedang",
+    "langName": "Pedang",
     "object": "Benda",
     "attribute": "Senjata",
     "preview": "https://img.aishort.top/imgprompt/20260211165652659.webp"
@@ -7960,7 +7960,7 @@
   },
   {
     "displayName": "saber_(weapon)",
-    "langName": "saber (senjata)",
+    "langName": "Pedang saber",
     "object": "Benda",
     "attribute": "Senjata",
     "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
@@ -7988,7 +7988,7 @@
   },
   {
     "displayName": "stake",
-    "langName": "tombak",
+    "langName": "Pasak kayu",
     "object": "Benda",
     "attribute": "Senjata",
     "preview": "https://img.aishort.top/imgprompt/20260211165832380.webp"
@@ -8030,7 +8030,7 @@
   },
   {
     "displayName": "claw_(weapon)",
-    "langName": "cakar (senjata)",
+    "langName": "Senjata cakar",
     "object": "Benda",
     "attribute": "Senjata",
     "preview": "https://img.aishort.top/imgprompt/20260211165949084.webp"
@@ -8065,7 +8065,7 @@
   },
   {
     "displayName": "magazine_(weapon)",
-    "langName": "magasin (senjata)",
+    "langName": "Magasin peluru",
     "object": "Benda",
     "attribute": "Senjata",
     "preview": "https://img.aishort.top/imgprompt/20260211170050212.webp"
@@ -8100,7 +8100,7 @@
   },
   {
     "displayName": "tank",
-    "langName": "tank",
+    "langName": "Tank tempur",
     "object": "Benda",
     "attribute": "Senjata",
     "preview": "https://img.aishort.top/imgprompt/20260211170154753.webp"
@@ -8282,7 +8282,7 @@
   },
   {
     "displayName": "Macaroni",
-    "langName": "pasta",
+    "langName": "Makaroni",
     "object": "Benda",
     "attribute": "Makanan Pokok",
     "preview": "https://img.aishort.top/imgprompt/20260211170726041.webp"
@@ -8296,7 +8296,7 @@
   },
   {
     "displayName": "Pretzel",
-    "langName": "pretzel",
+    "langName": "Kue pretzel",
     "object": "Benda",
     "attribute": "Makanan Pokok",
     "preview": "https://img.aishort.top/imgprompt/20260211170751619.webp"
@@ -8429,7 +8429,7 @@
   },
   {
     "displayName": "sundae",
-    "langName": "sundae",
+    "langName": "Es krim sundae",
     "object": "Benda",
     "attribute": "Makanan Penutup & Permen",
     "preview": "https://img.aishort.top/imgprompt/20260211171150131.webp"
@@ -8527,7 +8527,7 @@
   },
   {
     "displayName": "Cannoli",
-    "langName": "cannoli",
+    "langName": "Kue cannoli",
     "object": "Benda",
     "attribute": "Makanan Penutup & Permen",
     "preview": "https://img.aishort.top/imgprompt/20260211171446338.webp"
@@ -8905,7 +8905,7 @@
   },
   {
     "displayName": "dragonfly",
-    "langName": "capung",
+    "langName": "Capung",
     "object": "Benda",
     "attribute": "Hewan",
     "preview": "https://img.aishort.top/imgprompt/20260211172610123.webp"
@@ -8989,7 +8989,7 @@
   },
   {
     "displayName": "panda",
-    "langName": "panda",
+    "langName": "Panda",
     "object": "Benda",
     "attribute": "Hewan",
     "preview": "https://img.aishort.top/imgprompt/20260211172844017.webp"
@@ -9003,7 +9003,7 @@
   },
   {
     "displayName": "hamster",
-    "langName": "hamster",
+    "langName": "Hamster",
     "object": "Benda",
     "attribute": "Hewan",
     "preview": "https://img.aishort.top/imgprompt/20260211172909163.webp"
@@ -9185,7 +9185,7 @@
   },
   {
     "displayName": "wisteria",
-    "langName": "Wisteria",
+    "langName": "Bunga wisteria",
     "object": "Benda",
     "attribute": "Tanaman",
     "preview": "https://img.aishort.top/imgprompt/20260211173441277.webp"
@@ -9206,7 +9206,7 @@
   },
   {
     "displayName": "chrysanthemum",
-    "langName": "krisan",
+    "langName": "Bunga krisan",
     "object": "Benda",
     "attribute": "Tanaman",
     "preview": "https://img.aishort.top/imgprompt/20260211173520709.webp"
@@ -9241,7 +9241,7 @@
   },
   {
     "displayName": "maple_tree",
-    "langName": "maple",
+    "langName": "Pohon mapel",
     "object": "Benda",
     "attribute": "Tanaman",
     "preview": "https://img.aishort.top/imgprompt/20260211173624499.webp"
@@ -9486,7 +9486,7 @@
   },
   {
     "displayName": "seiza",
-    "langName": "Seiza",
+    "langName": "Duduk bersimpuh",
     "object": "Aksi",
     "attribute": "Pose Dasar",
     "preview": "https://img.aishort.top/imgprompt/20260211174356834.webp"
@@ -9563,7 +9563,7 @@
   },
   {
     "displayName": "the_pose",
-    "langName": "Berbaring di tanah dan mengangkat kaki",
+    "langName": "Pose tengkurap mengangkat kaki",
     "object": "Aksi",
     "attribute": "Pose Dasar",
     "preview": "https://img.aishort.top/imgprompt/20260211174615259.webp"
@@ -9591,14 +9591,14 @@
   },
   {
     "displayName": "fetal_position",
-    "langName": "Posisi janin (berbaring)",
+    "langName": "Posisi janin",
     "object": "Aksi",
     "attribute": "Pose Dasar",
     "preview": "https://img.aishort.top/imgprompt/20260211174706202.webp"
   },
   {
     "displayName": "against_glass",
-    "langName": "peras kaca (tidak valid)",
+    "langName": "Menempel pada kaca",
     "object": "Aksi",
     "attribute": "Pose Dasar",
     "preview": "https://img.aishort.top/imgprompt/20260211174718789.webp"
@@ -9612,7 +9612,7 @@
   },
   {
     "displayName": "presenting",
-    "langName": "Tampilkan (bagian belakang)",
+    "langName": "Pose memamerkan",
     "object": "Aksi",
     "attribute": "Pose Dasar",
     "preview": "https://img.aishort.top/imgprompt/20260211174744336.webp"
@@ -9675,7 +9675,7 @@
   },
   {
     "displayName": "eye_contact",
-    "langName": "Kontak mata (saling memandang)",
+    "langName": "Kontak mata",
     "object": "Aksi",
     "attribute": "Pandangan",
     "preview": "https://img.aishort.top/imgprompt/20260211174937637.webp"
@@ -9836,7 +9836,7 @@
   },
   {
     "displayName": "aiming_at_viewer",
-    "langName": "Menargetkan pembaca (perspektif)",
+    "langName": "Membidik penonton",
     "object": "Aksi",
     "attribute": "Pandangan",
     "preview": "https://img.aishort.top/imgprompt/20260211175428502.webp"
@@ -9934,7 +9934,7 @@
   },
   {
     "displayName": "hands_clasped",
-    "langName": "Jari terkunci | Tangan digenggam",
+    "langName": "Jari-jemari bertaut",
     "object": "Aksi",
     "attribute": "Pose Lengan",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
@@ -9969,7 +9969,7 @@
   },
   {
     "displayName": "hands_in_opposite_sleeves",
-    "langName": "Tangan disilangkan di dalam lengan baju",
+    "langName": "Tangan di dalam lengan baju",
     "object": "Aksi",
     "attribute": "Pose Lengan",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
@@ -10172,14 +10172,14 @@
   },
   {
     "displayName": "waving",
-    "langName": "Melambaikan tangan (Halo/Selamat tinggal)",
+    "langName": "Melambaikan tangan",
     "object": "Aksi",
     "attribute": "Isyarat Tangan",
     "preview": "https://img.aishort.top/imgprompt/20260211180434501.webp"
   },
   {
     "displayName": "pointing_at_viewer",
-    "langName": "Menunjuk ke orang yang melihat gambar",
+    "langName": "Menunjuk ke arah penonton",
     "object": "Aksi",
     "attribute": "Isyarat Tangan",
     "preview": "https://img.aishort.top/imgprompt/20260211180447245.webp"
@@ -10249,7 +10249,7 @@
   },
   {
     "displayName": "reaching",
-    "langName": "Menjangkau (dengan sengaja)",
+    "langName": "Mengulurkan tangan",
     "object": "Aksi",
     "attribute": "Isyarat Tangan",
     "preview": "https://img.aishort.top/imgprompt/20260211180655272.webp"
@@ -10312,7 +10312,7 @@
   },
   {
     "displayName": "paw_pose",
-    "langName": "Pose cakar kucing (pergelangan tangan ditekuk)",
+    "langName": "Pose cakar kucing",
     "object": "Aksi",
     "attribute": "Isyarat Tangan",
     "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
@@ -10347,7 +10347,7 @@
   },
   {
     "displayName": "fingersmile",
-    "langName": "Membuat wajah tersenyum dengan jari",
+    "langName": "Membuat senyuman dengan jari",
     "object": "Aksi",
     "attribute": "Isyarat Tangan",
     "preview": "https://img.aishort.top/imgprompt/20260211180951696.webp"
@@ -10634,7 +10634,7 @@
   },
   {
     "displayName": "holding_eyewear",
-    "langName": "memegang kacamata | melepas kacamata",
+    "langName": "Memegang kacamata",
     "object": "Aksi",
     "attribute": "Memegang Objek",
     "preview": "https://img.aishort.top/imgprompt/20260211181827087.webp"
@@ -10956,21 +10956,21 @@
   },
   {
     "displayName": "hands_on_another's",
-    "langName": "Menaruh tangan di wajah orang lain",
+    "langName": "Kedua tangan di wajah orang lain",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
-    "langName": "Menaruh tangan di pipi satu sama lain",
+    "langName": "Kedua tangan di pipi orang lain",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
-    "langName": "Menaruh tangan di bahu orang lain",
+    "langName": "Kedua tangan di pundak orang lain",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
@@ -11026,7 +11026,7 @@
   },
   {
     "displayName": "hands_on_hips",
-    "langName": "tangan di pinggul | tangan di pinggul",
+    "langName": "tangan di pinggul",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260213094956459.webp"
@@ -11068,7 +11068,7 @@
   },
   {
     "displayName": "grabbing_from_behind",
-    "langName": "Memegang dada dari belakang",
+    "langName": "Meremas payudara dari belakang",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
@@ -11110,14 +11110,14 @@
   },
   {
     "displayName": "hands_on_headwear",
-    "langName": "Menyentuh hiasan di kepala dengan kedua tangan",
+    "langName": "Kedua tangan di hiasan kepala",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
-    "langName": "Menaruh tangan di gagang pisau",
+    "langName": "Kedua tangan di gagang pedang",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
@@ -11131,7 +11131,7 @@
   },
   {
     "displayName": "neckwear_grab",
-    "langName": "Mencengkeram pakaian di sekitar leher",
+    "langName": "Mencengkeram kerah baju",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
@@ -11173,7 +11173,7 @@
   },
   {
     "displayName": "hand_in_another's_hair",
-    "langName": "Menaruh tangan di rambut orang lain",
+    "langName": "Tangan di rambut orang lain",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
@@ -11208,35 +11208,35 @@
   },
   {
     "displayName": "hand_on_another's_chest",
-    "langName": "Menaruh tangan di dada orang lain",
+    "langName": "Tangan di dada orang lain",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183718013.webp"
   },
   {
     "displayName": "hand_on_another's_chin",
-    "langName": "Memegang dagu orang lain dengan tangan",
+    "langName": "Tangan di dagu orang lain",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
   },
   {
     "displayName": "hand_on_another's_head",
-    "langName": "Menaruh tangan di kepala orang lain",
+    "langName": "Tangan di kepala orang lain",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183743006.webp"
   },
   {
     "displayName": "hand_on_another's_shoulder",
-    "langName": "Menaruh tangan di bahu orang lain",
+    "langName": "Tangan di pundak orang lain",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183755722.webp"
   },
   {
     "displayName": "hand_on_another's_stomach",
-    "langName": "Menaruh tangan di perut orang lain",
+    "langName": "Tangan di perut orang lain",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
@@ -11264,14 +11264,14 @@
   },
   {
     "displayName": "hand_on_hilt",
-    "langName": "Tangan bersandar di gagang pisau",
+    "langName": "Tangan di gagang senjata",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
   },
   {
     "displayName": "hand_on_hip",
-    "langName": "tangan di pinggul | tangan di pinggul",
+    "langName": "tangan di pinggul",
     "object": "Aksi",
     "attribute": "Memeluk & Menggenggam",
     "preview": "https://img.aishort.top/imgprompt/20260211183911177.webp"
@@ -11404,14 +11404,14 @@
   },
   {
     "displayName": "standing_split",
-    "langName": "Split berdiri | Angkat kaki berdiri",
+    "langName": "Spagat berdiri",
     "object": "Aksi",
     "attribute": "Gerakan Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260211184306372.webp"
   },
   {
     "displayName": "curtsy",
-    "langName": "Berlutut (hormat pelayan)",
+    "langName": "Curtsy",
     "object": "Aksi",
     "attribute": "Gerakan Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
@@ -11474,7 +11474,7 @@
   },
   {
     "displayName": "cameltoe",
-    "langName": "Cameltoe",
+    "langName": "Garis lekuk selangkangan",
     "object": "Aksi",
     "attribute": "Gerakan Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260317070444618.webp"
@@ -11502,7 +11502,7 @@
   },
   {
     "displayName": "folded",
-    "langName": "Angkat kaki Anda untuk mengekspos vagina Anda",
+    "langName": "Pose melipat kaki ke dada",
     "object": "Aksi",
     "attribute": "Gerakan Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260211184601937.webp"
@@ -11544,7 +11544,7 @@
   },
   {
     "displayName": "k/da_(league_of_legends)",
-    "langName": "Tim KDA (League of Legends)",
+    "langName": "K/DA (League of Legends)",
     "object": "Aksi",
     "attribute": "Gerakan Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
@@ -11705,14 +11705,14 @@
   },
   {
     "displayName": "tail_between_legs",
-    "langName": "Ekor meringkuk di antara kaki",
+    "langName": "Ekor terselip di antara kaki",
     "object": "Aksi",
     "attribute": "Gerakan Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260225100419147.webp"
   },
   {
     "displayName": "covering",
-    "langName": "tindakan menutupi",
+    "langName": "Gerakan menutupi tubuh",
     "object": "Aksi",
     "attribute": "Sentuhan Tubuh",
     "preview": "https://img.aishort.top/imgprompt/20260211185216454.webp"
@@ -11922,14 +11922,14 @@
   },
   {
     "displayName": "spitting",
-    "langName": "tindakan meludahkan cairan dari mulut",
+    "langName": "Meludahkan cairan",
     "object": "Aksi",
     "attribute": "Reaksi Tubuh",
     "preview": "https://img.aishort.top/imgprompt/20260211185836921.webp"
   },
   {
     "displayName": "spilling",
-    "langName": "Tindakan menuangkan cairan dari wadah",
+    "langName": "Menumpahkan cairan",
     "object": "Aksi",
     "attribute": "Reaksi Tubuh",
     "preview": "https://img.aishort.top/imgprompt/20260211185849710.webp"
@@ -12006,7 +12006,7 @@
   },
   {
     "displayName": "dropping",
-    "langName": "jatuh (tidak sengaja)",
+    "langName": "Menjatuhkan",
     "object": "Aksi",
     "attribute": "Reaksi Tubuh",
     "preview": "https://img.aishort.top/imgprompt/20260211190102259.webp"
@@ -12055,7 +12055,7 @@
   },
   {
     "displayName": "lifted_by_another",
-    "langName": "Diangkat oleh pakaian pihak lain",
+    "langName": "Pakaian disingkap orang lain",
     "object": "Aksi",
     "attribute": "Reaksi Tubuh",
     "preview": "https://img.aishort.top/imgprompt/20260211190232075.webp"
@@ -12111,7 +12111,7 @@
   },
   {
     "displayName": "drying",
-    "langName": "Keringkan (setelah mandi)",
+    "langName": "Mengeringkan tubuh",
     "object": "Aksi",
     "attribute": "Kehidupan Sehari-hari",
     "preview": "https://img.aishort.top/imgprompt/20260211190415978.webp"
@@ -12132,7 +12132,7 @@
   },
   {
     "displayName": "sweeping",
-    "langName": "Menyapu (pekerjaan rumah tangga)",
+    "langName": "Menyapu / Membersihkan",
     "object": "Aksi",
     "attribute": "Kehidupan Sehari-hari",
     "preview": "https://img.aishort.top/imgprompt/20260211190452774.webp"
@@ -12258,7 +12258,7 @@
   },
   {
     "displayName": "sleeping_upright",
-    "langName": "tidur (tidak berbaring) | tidur tegak",
+    "langName": "Tidur posisi tegak",
     "object": "Aksi",
     "attribute": "Kehidupan Sehari-hari",
     "preview": "https://img.aishort.top/imgprompt/20260211190844518.webp"
@@ -12412,14 +12412,14 @@
   },
   {
     "displayName": "shared_food",
-    "langName": "Berbagi makanan | Memberi makan melalui mulut",
+    "langName": "Berbagi makanan",
     "object": "Aksi",
     "attribute": "Interaksi Emosional",
     "preview": "https://img.aishort.top/imgprompt/20260211191325544.webp"
   },
   {
     "displayName": "shared_bathing",
-    "langName": "Mandi Bersama | Mandi Yuanyang",
+    "langName": "Mandi bersama",
     "object": "Aksi",
     "attribute": "Interaksi Emosional",
     "preview": "https://img.aishort.top/imgprompt/20260211191338217.webp"
@@ -12461,14 +12461,14 @@
   },
   {
     "displayName": "asymmetrical_docking",
-    "langName": "Payudara bersentuhan | Payudara saling bersentuhan",
+    "langName": "Saling menempelkan dada",
     "object": "Aksi",
     "attribute": "Interaksi Emosional",
     "preview": "https://img.aishort.top/imgprompt/20260211191454771.webp"
   },
   {
     "displayName": "special_feeling_(meme)",
-    "langName": "Kekasih memegang payung di salju",
+    "langName": "Meme suasana spesial di salju",
     "object": "Aksi",
     "attribute": "Interaksi Emosional",
     "preview": "https://img.aishort.top/imgprompt/20260211191507001.webp"
@@ -12608,7 +12608,7 @@
   },
   {
     "displayName": "wrestling",
-    "langName": "gulat (olahraga)",
+    "langName": "Gulat",
     "object": "Aksi",
     "attribute": "Olahraga",
     "preview": "https://img.aishort.top/imgprompt/20260211191925002.webp"
@@ -12818,7 +12818,7 @@
   },
   {
     "displayName": "skirt_flip",
-    "langName": "Rok terangkat (termasuk makna darurat)",
+    "langName": "Rok tersingkap",
     "object": "Aksi",
     "attribute": "Menyesuaikan Pakaian",
     "preview": "https://img.aishort.top/imgprompt/20260317125226840.webp"
@@ -12895,7 +12895,7 @@
   },
   {
     "displayName": "tying",
-    "langName": "Mengikat simpul (tindakan)",
+    "langName": "Mengikat simpul",
     "object": "Aksi",
     "attribute": "Menyesuaikan Pakaian",
     "preview": "https://img.aishort.top/imgprompt/20260211192806302.webp"
@@ -12930,7 +12930,7 @@
   },
   {
     "displayName": "pulled_by_another",
-    "langName": "ditarik (atau pakaiannya ditarik) oleh orang lain",
+    "langName": "Ditarik orang lain",
     "object": "Aksi",
     "attribute": "Menyesuaikan Pakaian",
     "preview": "https://img.aishort.top/imgprompt/20260317125423077.webp"
@@ -12993,7 +12993,7 @@
   },
   {
     "displayName": "holding_bow_(weapon)",
-    "langName": "memegang busur (senjata)",
+    "langName": "Memegang busur",
     "object": "Aksi",
     "attribute": "Senjata & Perlengkapan",
     "preview": "https://img.aishort.top/imgprompt/20260211193102894.webp"
@@ -13084,7 +13084,7 @@
   },
   {
     "displayName": "Kabedon",
-    "langName": "menabrak dinding",
+    "langName": "Kabedon",
     "object": "Aksi",
     "attribute": "Pose Khusus",
     "preview": "https://img.aishort.top/imgprompt/20260211193512046.webp"
@@ -13399,7 +13399,7 @@
   },
   {
     "displayName": "beautiful detailed glow,floating ashes,beautiful and detailed explosion,red moon,fire,fire cloud,wings on fire,a cloudy sky,smoke of gunpowder,burning,black dress,dove of peace,(floating cloud:1.2)",
-    "langName": "Huoshaoyun",
+    "langName": "Awan senja merah membara",
     "object": "Aksi",
     "attribute": "Sihir",
     "preview": "https://img.aishort.top/imgprompt/20260211194552890.webp"
@@ -13412,7 +13412,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211194606041.webp"
   },
   {
-    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset)),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
+    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset))),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
     "langName": "metode senja",
     "object": "Aksi",
     "attribute": "Sihir",
@@ -13525,7 +13525,7 @@
   },
   {
     "displayName": "((full body)),(helpless),tear,crying,(((((falling from the sky))))),((Weathering With You)),((falling)),((face towards the sky)),(hair flows upwards),((disheveled hair)),(1 girl),floating,beautiful detailed sky",
-    "langName": "Gaya jatuh (pemandangan langit)",
+    "langName": "Komposisi jatuh dari langit",
     "object": "Aksi",
     "attribute": "Sihir",
     "preview": "https://img.aishort.top/imgprompt/20260211194938656.webp"
@@ -13727,7 +13727,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195607630.webp"
   },
   {
-    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood))),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
+    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood)),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
     "langName": "Hukum Reformasi Darah",
     "object": "Aksi",
     "attribute": "Sihir",
@@ -14002,7 +14002,7 @@
   },
   {
     "displayName": "disgust",
-    "langName": "Jijik (terlihat seperti sampah)",
+    "langName": "Jijik / Pandangan menghina",
     "object": "Ekspresi",
     "attribute": "Meremehkan",
     "preview": "https://img.aishort.top/imgprompt/20260317071358725.webp"
@@ -14023,7 +14023,7 @@
   },
   {
     "displayName": "shaded_face",
-    "langName": "Ada bayangan di wajah, menunjukkan penghinaan",
+    "langName": "Wajah berbayang muram",
     "object": "Ekspresi",
     "attribute": "Meremehkan",
     "preview": "https://img.aishort.top/imgprompt/20260212085009132.webp"
@@ -14044,7 +14044,7 @@
   },
   {
     "displayName": "wince",
-    "langName": "Mengerutkan dahi (sebelum hubungan seksual)",
+    "langName": "Meringis kesakitan",
     "object": "Ekspresi",
     "attribute": "Meremehkan",
     "preview": "https://img.aishort.top/imgprompt/20260212085045682.webp"
@@ -14079,7 +14079,7 @@
   },
   {
     "displayName": "serious",
-    "langName": "Serius (mirip marah)",
+    "langName": "Serius",
     "object": "Ekspresi",
     "attribute": "Marah",
     "preview": "https://img.aishort.top/imgprompt/20260212085145957.webp"
@@ -14100,7 +14100,7 @@
   },
   {
     "displayName": "screaming",
-    "langName": "berteriak | berteriak",
+    "langName": "berteriak",
     "object": "Ekspresi",
     "attribute": "Marah",
     "preview": "https://img.aishort.top/imgprompt/20260212085219929.webp"
@@ -14163,7 +14163,7 @@
   },
   {
     "displayName": "embarrass",
-    "langName": "malu (canggung)",
+    "langName": "Malu / Canggung",
     "object": "Ekspresi",
     "attribute": "Ekspresi lainnya",
     "preview": "https://img.aishort.top/imgprompt/20260212085408608.webp"
@@ -14380,7 +14380,7 @@
   },
   {
     "displayName": "torogao",
-    "langName": "Mata Sayu (Torogao)",
+    "langName": "Torogao",
     "object": "Ekspresi",
     "attribute": "Ekspresi lainnya",
     "preview": "https://img.aishort.top/imgprompt/20260228103646110.webp"
@@ -14702,7 +14702,7 @@
   },
   {
     "displayName": "hanten_clothes",
-    "langName": "Toumata (gaya Jepang)",
+    "langName": "Hanten",
     "object": "Pakaian",
     "attribute": "Gaya Pakaian",
     "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
@@ -14716,7 +14716,7 @@
   },
   {
     "displayName": "furisode",
-    "langName": "Furisode (bagian dari kimono)",
+    "langName": "Furisode",
     "object": "Pakaian",
     "attribute": "Gaya Pakaian",
     "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
@@ -14744,14 +14744,14 @@
   },
   {
     "displayName": "uchikake",
-    "langName": "Bai Wujia (gaun pengantin Jepang)",
+    "langName": "Uchikake / Shiromuku",
     "object": "Pakaian",
     "attribute": "Gaya Pakaian",
     "preview": "https://img.aishort.top/imgprompt/20260212110020279.webp"
   },
   {
     "displayName": "obi",
-    "langName": "Obi (sabuk kimono)",
+    "langName": "Obi",
     "object": "Pakaian",
     "attribute": "Gaya Pakaian",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -14800,7 +14800,7 @@
   },
   {
     "displayName": "Ao_Dai",
-    "langName": "Pakaian Vietnam (Ao Dai)",
+    "langName": "Ao Dai",
     "object": "Pakaian",
     "attribute": "Gaya Pakaian",
     "preview": "https://img.aishort.top/imgprompt/20260212112032273.webp"
@@ -14947,14 +14947,14 @@
   },
   {
     "displayName": "alternate_costume",
-    "langName": "Kostum alternatif (berbeda dari aslinya)",
+    "langName": "Kostum alternatif",
     "object": "Pakaian",
     "attribute": "Gaya Pakaian",
     "preview": "https://img.aishort.top/imgprompt/20260212120626953.webp"
   },
   {
     "displayName": "costume_switch",
-    "langName": "permainan ganti baju",
+    "langName": "Tukar kostum",
     "object": "Pakaian",
     "attribute": "Gaya Pakaian",
     "preview": "https://img.aishort.top/imgprompt/20260212120842799.webp"
@@ -15164,7 +15164,7 @@
   },
   {
     "displayName": "evening_gown",
-    "langName": "Gaun panjang (gaun wanita sepanjang mata kaki)",
+    "langName": "Gaun malam",
     "object": "Pakaian",
     "attribute": "Pakaian formal",
     "preview": "https://img.aishort.top/imgprompt/20260212125805414.webp"
@@ -15206,7 +15206,7 @@
   },
   {
     "displayName": "serafuku",
-    "langName": "Seragam pelaut (seragam sekolah)",
+    "langName": "Seragam pelaut",
     "object": "Pakaian",
     "attribute": "Pakaian formal",
     "preview": "https://img.aishort.top/imgprompt/20260212130530516.webp"
@@ -15346,7 +15346,7 @@
   },
   {
     "displayName": "hoodie",
-    "langName": "Hoodie",
+    "langName": "Jaket hoodie",
     "object": "Pakaian",
     "attribute": "Pakaian kasual",
     "preview": "https://img.aishort.top/imgprompt/20260212134236901.webp"
@@ -15542,7 +15542,7 @@
   },
   {
     "displayName": "school_swimsuit",
-    "langName": "Pakaian renang sekolah",
+    "langName": "Baju renang sekolah",
     "object": "Pakaian",
     "attribute": "Pakaian Renang",
     "preview": "https://img.aishort.top/imgprompt/20260225102036109.webp"
@@ -15605,7 +15605,7 @@
   },
   {
     "displayName": "swimsuit_of_perpetual_summer",
-    "langName": "Pakaian renang musim panas abadi",
+    "langName": "Baju renang musim panas abadi (FGO)",
     "object": "Pakaian",
     "attribute": "Pakaian Renang",
     "preview": "https://img.aishort.top/imgprompt/20260317071630637.webp"
@@ -15878,14 +15878,14 @@
   },
   {
     "displayName": "swimsuit_aside",
-    "langName": "Singkirkan selangkangan pakaian renang",
+    "langName": "Menyibakkan baju renang ke samping",
     "object": "Pakaian",
     "attribute": "Pakaian Renang",
     "preview": "https://img.aishort.top/imgprompt/20260212152012611.webp"
   },
   {
     "displayName": "swimsuit_under_clothes",
-    "langName": "Mengenakan pakaian renang di balik pakaian",
+    "langName": "Baju renang di balik pakaian",
     "object": "Pakaian",
     "attribute": "Pakaian Renang",
     "preview": "https://img.aishort.top/imgprompt/20260317072817093.webp"
@@ -15990,7 +15990,7 @@
   },
   {
     "displayName": "chi-hatan_military_uniform",
-    "langName": "Seragam Akademi Zhiha Dan",
+    "langName": "Seragam militer Akademi Chi-Ha-Tan",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260212153151798.webp"
@@ -16025,7 +16025,7 @@
   },
   {
     "displayName": "hikarizaka_private_high_school_uniform",
-    "langName": "Seragam Sekolah Menengah Swasta Hikarizaka",
+    "langName": "Seragam SMA Swasta Hikarizaka",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260212153257185.webp"
@@ -16039,7 +16039,7 @@
   },
   {
     "displayName": "kamiyama_high_school_uniform",
-    "langName": "Seragam Sekolah Menengah Kamiyama",
+    "langName": "Seragam SMA Kamiyama",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260212153323486.webp"
@@ -16088,21 +16088,21 @@
   },
   {
     "displayName": "nami_junior_high_school_uniform",
-    "langName": "Seragam SMP Bolu",
+    "langName": "Seragam SMP Nami",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260212153455870.webp"
   },
   {
     "displayName": "nanairogaoka_middle_school_uniform",
-    "langName": "Seragam SMP Qiseqiu",
+    "langName": "Seragam SMP Nanairogaoka",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260212153509132.webp"
   },
   {
     "displayName": "nanamori_school_uniform",
-    "langName": "Seragam SMP Qisen",
+    "langName": "Seragam SMP Nanamori",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260212153725574.webp"
@@ -16172,14 +16172,14 @@
   },
   {
     "displayName": "rabbit_house_uniform",
-    "langName": "Seragam Rumah Diantutu",
+    "langName": "Seragam Rabbit House",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260213055157775.webp"
   },
   {
     "displayName": "raimon_soccer_uniform",
-    "langName": "Seragam Sepak Bola Gerbang Petir",
+    "langName": "Seragam tim sepak bola Raimon",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260213055210653.webp"
@@ -16193,7 +16193,7 @@
   },
   {
     "displayName": "sakugawa_school_uniform",
-    "langName": "Seragam SMP Zhachuan",
+    "langName": "Seragam SMP Sakugawa",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260213055439290.webp"
@@ -16242,7 +16242,7 @@
   },
   {
     "displayName": "shuujin_academy_uniform",
-    "langName": "Seragam perguruan tinggi pamer",
+    "langName": "Seragam Akademi Shujin",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260213060421601.webp"
@@ -16263,28 +16263,28 @@
   },
   {
     "displayName": "starlight_academy_uniform",
-    "langName": "Seragam Taman Optik Bintang",
+    "langName": "Seragam Akademi Starlight",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260213060500805.webp"
   },
   {
     "displayName": "tokisadame_school_uniform",
-    "langName": "Seragam perguruan tinggi biasa",
+    "langName": "Seragam SMA Tokisadame",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260213060513970.webp"
   },
   {
     "displayName": "tokiwadai_school_uniform",
-    "langName": "Seragam Sekolah Tokiwa Taichung",
+    "langName": "Seragam SMP Tokiwadai",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260213060526744.webp"
   },
   {
     "displayName": "tomoeda_elementary_school_uniform",
-    "langName": "Seragam SD Youzhi",
+    "langName": "Seragam SD Tomoeda",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260213060539748.webp"
@@ -16298,14 +16298,14 @@
   },
   {
     "displayName": "u.a._school_uniform",
-    "langName": "Seragam SMA Xiongying",
+    "langName": "Seragam SMA U.A.",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260213060607357.webp"
   },
   {
     "displayName": "uranohoshi_school_uniform",
-    "langName": "Seragam Perguruan Tinggi Putri Ura no Hoshi",
+    "langName": "Seragam SMA Putri Uranohoshi",
     "object": "Pakaian",
     "attribute": "Seragam sekolah",
     "preview": "https://img.aishort.top/imgprompt/20260213060620807.webp"
@@ -16424,7 +16424,7 @@
   },
   {
     "displayName": "short sleeve T-shirts",
-    "langName": "Kaos Lengan Pendek (kemeja bahu)",
+    "langName": "Kaos lengan pendek",
     "object": "Pakaian",
     "attribute": "Atasan",
     "preview": "https://img.aishort.top/imgprompt/20260213063027450.webp"
@@ -16466,7 +16466,7 @@
   },
   {
     "displayName": "tank_top",
-    "langName": "rompi (rumah)",
+    "langName": "Baju tanpa lengan",
     "object": "Pakaian",
     "attribute": "Atasan",
     "preview": "https://img.aishort.top/imgprompt/20260213064156253.webp"
@@ -16480,7 +16480,7 @@
   },
   {
     "displayName": "crop_top",
-    "langName": "crop top",
+    "langName": "Baju crop top",
     "object": "Pakaian",
     "attribute": "Atasan",
     "preview": "https://img.aishort.top/imgprompt/20260213110301975.webp"
@@ -16494,7 +16494,7 @@
   },
   {
     "displayName": "vest",
-    "langName": "rompi (formal)",
+    "langName": "Rompi formal",
     "object": "Pakaian",
     "attribute": "Atasan",
     "preview": "https://img.aishort.top/imgprompt/20260213064408586.webp"
@@ -16508,7 +16508,7 @@
   },
   {
     "displayName": "waistcoat",
-    "langName": "Rompi (formal)",
+    "langName": "Rompi jas",
     "object": "Pakaian",
     "attribute": "Atasan",
     "preview": "https://img.aishort.top/imgprompt/20260213064435011.webp"
@@ -16599,7 +16599,7 @@
   },
   {
     "displayName": "kappougi",
-    "langName": "blus (dikenakan saat memasak)",
+    "langName": "Kappougi",
     "object": "Pakaian",
     "attribute": "Atasan",
     "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
@@ -16662,7 +16662,7 @@
   },
   {
     "displayName": "tied_shirt",
-    "langName": "kemeja diikat (simpul sudut dan keliman)",
+    "langName": "Kemeja ikat depan",
     "object": "Pakaian",
     "attribute": "Atasan",
     "preview": "https://img.aishort.top/imgprompt/20260213070412064.webp"
@@ -16746,7 +16746,7 @@
   },
   {
     "displayName": "button_gap",
-    "langName": "Celah antar kancing (tidak dibuka kancingnya)",
+    "langName": "Celah antar kancing",
     "object": "Pakaian",
     "attribute": "Atasan",
     "preview": "https://img.aishort.top/imgprompt/20260213071455826.webp"
@@ -16879,21 +16879,21 @@
   },
   {
     "displayName": "strap_slip",
-    "langName": "Tali bahu melorot (mengakibatkan terbuka)",
+    "langName": "Tali bahu melorot",
     "object": "Pakaian",
     "attribute": "Atasan",
     "preview": "https://img.aishort.top/imgprompt/20260228101844680.webp"
   },
   {
     "displayName": "wedgie",
-    "langName": "Wedgie (celana nyelip)",
+    "langName": "Pakaian menyelip",
     "object": "Pakaian",
     "attribute": "Atasan",
     "preview": "https://img.aishort.top/imgprompt/20260225103744943.webp"
   },
   {
     "displayName": "wardrobe_malfunction",
-    "langName": "Kerusakan pakaian (seperti lepas atau robek)",
+    "langName": "Kecelakaan busana",
     "object": "Pakaian",
     "attribute": "Atasan",
     "preview": "https://img.aishort.top/imgprompt/20260213075235531.webp"
@@ -16935,7 +16935,7 @@
   },
   {
     "displayName": "bra",
-    "langName": "bra",
+    "langName": "Bra",
     "object": "Pakaian",
     "attribute": "Atasan",
     "preview": "https://img.aishort.top/imgprompt/20260317073102623.webp"
@@ -16970,7 +16970,7 @@
   },
   {
     "displayName": "blazer",
-    "langName": "blazer",
+    "langName": "Jas blazer",
     "object": "Pakaian",
     "attribute": "Mantel",
     "preview": "https://img.aishort.top/imgprompt/20260213075446251.webp"
@@ -16984,7 +16984,7 @@
   },
   {
     "displayName": "double-breasted",
-    "langName": "Kancing dua baris (double-breasted)",
+    "langName": "Kancing ganda",
     "object": "Pakaian",
     "attribute": "Mantel",
     "preview": "https://img.aishort.top/imgprompt/20260213075715469.webp"
@@ -17054,7 +17054,7 @@
   },
   {
     "displayName": "jacket_partially_removed",
-    "langName": "Jaket dilepas sebagian",
+    "langName": "Jaket setengah terbuka dilepas",
     "object": "Pakaian",
     "attribute": "Mantel",
     "preview": "https://img.aishort.top/imgprompt/20260213081023629.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "jaket kardigan (dengan kaki terbuka)",
+    "langName": "Jaket terbuka",
     "object": "Pakaian",
     "attribute": "Mantel",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -17145,7 +17145,7 @@
   },
   {
     "displayName": "trench_coat",
-    "langName": "jaket penahan angin",
+    "langName": "Mantel jas hujan",
     "object": "Pakaian",
     "attribute": "Mantel",
     "preview": "https://img.aishort.top/imgprompt/20260213083335416.webp"
@@ -18048,7 +18048,7 @@
   },
   {
     "displayName": "corset",
-    "langName": "Korset (rompi)",
+    "langName": "Korset",
     "object": "Pakaian",
     "attribute": "Pinggang",
     "preview": "https://img.aishort.top/imgprompt/20260225104053785.webp"
@@ -18097,7 +18097,7 @@
   },
   {
     "displayName": "kusazuri",
-    "langName": "Fudang | Kusazuri (baju zirah bagian bawah Jepang)",
+    "langName": "Kusazuri",
     "object": "Pakaian",
     "attribute": "Baju Zirah",
     "preview": "https://img.aishort.top/imgprompt/20260213115508736.webp"
@@ -18118,7 +18118,7 @@
   },
   {
     "displayName": "kabuto",
-    "langName": "Helm (gaya Jepang)",
+    "langName": "Kabuto",
     "object": "Pakaian",
     "attribute": "Baju Zirah",
     "preview": "https://img.aishort.top/imgprompt/20260213115548290.webp"
@@ -18132,7 +18132,7 @@
   },
   {
     "displayName": "shoulder_armor",
-    "langName": "Bahu",
+    "langName": "Zirah bahu",
     "object": "Pakaian",
     "attribute": "Baju Zirah",
     "preview": "https://img.aishort.top/imgprompt/20260213115612426.webp"
@@ -18153,7 +18153,7 @@
   },
   {
     "displayName": "faulds",
-    "langName": "pelindung dada",
+    "langName": "Zirah pinggang",
     "object": "Pakaian",
     "attribute": "Baju Zirah",
     "preview": "https://img.aishort.top/imgprompt/20260213115855297.webp"
@@ -18237,7 +18237,7 @@
   },
   {
     "displayName": "sundress",
-    "langName": "Gaun slip (gaun tanpa lengan untuk cuaca panas)",
+    "langName": "Gaun musim panas",
     "object": "Pakaian",
     "attribute": "Rok",
     "preview": "https://img.aishort.top/imgprompt/20260213121003959.webp"
@@ -18342,7 +18342,7 @@
   },
   {
     "displayName": "impossible_dress",
-    "langName": "Pakaian yang terlalu ketat",
+    "langName": "Gaun ultra ketat melekat",
     "object": "Pakaian",
     "attribute": "Rok",
     "preview": "https://img.aishort.top/imgprompt/20260213122932976.webp"
@@ -18447,21 +18447,21 @@
   },
   {
     "displayName": "tutu",
-    "langName": "tutu",
+    "langName": "Rok balet",
     "object": "Pakaian",
     "attribute": "Rok",
     "preview": "https://img.aishort.top/imgprompt/20260213123449527.webp"
   },
   {
     "displayName": "ballgown",
-    "langName": "tutu (gaun)",
+    "langName": "Gaun pesta dansa",
     "object": "Pakaian",
     "attribute": "Rok",
     "preview": "https://img.aishort.top/imgprompt/20260213123502356.webp"
   },
   {
     "displayName": "pettiskirt",
-    "langName": "tutu (anak-anak)",
+    "langName": "Rok tutu mengembang",
     "object": "Pakaian",
     "attribute": "Rok",
     "preview": "https://img.aishort.top/imgprompt/20260213123515479.webp"
@@ -18657,7 +18657,7 @@
   },
   {
     "displayName": "skirt_tug",
-    "langName": "Pegang ujung rok | Pegang ujung rok",
+    "langName": "Pegang ujung rok",
     "object": "Pakaian",
     "attribute": "Rok",
     "preview": "https://img.aishort.top/imgprompt/20260213132657290.webp"
@@ -18811,14 +18811,14 @@
   },
   {
     "displayName": "dolphin_shorts",
-    "langName": "celana pendek dolphin (celana kebenaran)",
+    "langName": "Celana pendek dolphin",
     "object": "Pakaian",
     "attribute": "Celana",
     "preview": "https://img.aishort.top/imgprompt/20260213134352207.webp"
   },
   {
     "displayName": "dolfin_shorts",
-    "langName": "celana pendek dolphin (celana kebenaran)",
+    "langName": "Celana pendek dolphin",
     "object": "Pakaian",
     "attribute": "Celana",
     "preview": "https://img.aishort.top/imgprompt/20260213134404755.webp"
@@ -18832,14 +18832,14 @@
   },
   {
     "displayName": "crotchless_pants",
-    "langName": "Celana tanpa selangkangan (ketat)",
+    "langName": "Celana tanpa selangkangan",
     "object": "Pakaian",
     "attribute": "Celana",
     "preview": "https://img.aishort.top/imgprompt/20260213134430564.webp"
   },
   {
     "displayName": "track_pants",
-    "langName": "celana training",
+    "langName": "Celana training",
     "object": "Pakaian",
     "attribute": "Celana",
     "preview": "https://img.aishort.top/imgprompt/20260213134443338.webp"
@@ -18909,7 +18909,7 @@
   },
   {
     "displayName": "jeans",
-    "langName": "Jeans",
+    "langName": "Celana jeans",
     "object": "Pakaian",
     "attribute": "Celana",
     "preview": "https://img.aishort.top/imgprompt/20260213134651205.webp"
@@ -18937,14 +18937,14 @@
   },
   {
     "displayName": "chaps",
-    "langName": "Chaps (pelindung kaki)",
+    "langName": "Pelindung kaki kulit",
     "object": "Pakaian",
     "attribute": "Celana",
     "preview": "https://img.aishort.top/imgprompt/20260213134945047.webp"
   },
   {
     "displayName": "jumpsuit",
-    "langName": "Jumpsuit (terutama wanita)",
+    "langName": "Jumpsuit",
     "object": "Pakaian",
     "attribute": "Celana",
     "preview": "https://img.aishort.top/imgprompt/20260213134957992.webp"
@@ -18979,7 +18979,7 @@
   },
   {
     "displayName": "leotard_aside",
-    "langName": "Membuka bagian selangkangan jumpsuit ke samping",
+    "langName": "Menyibakkan leotard",
     "object": "Pakaian",
     "attribute": "Celana",
     "preview": "https://img.aishort.top/imgprompt/20260213135915193.webp"
@@ -19077,7 +19077,7 @@
   },
   {
     "displayName": "thong",
-    "langName": "Thong",
+    "langName": "Celana dalam thong",
     "object": "Pakaian",
     "attribute": "Bawahan",
     "preview": "https://img.aishort.top/imgprompt/20260317073619796.webp"
@@ -19140,21 +19140,21 @@
   },
   {
     "displayName": "pantyhose",
-    "langName": "Pantyhose",
+    "langName": "Kaus kaki celana",
     "object": "Pakaian",
     "attribute": "Kaus Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260213142442251.webp"
   },
   {
     "displayName": "legwear",
-    "langName": "Pantyhose",
+    "langName": "Pakaian kaki / Stoking",
     "object": "Pakaian",
     "attribute": "Kaus Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260225104603819.webp"
   },
   {
     "displayName": "thighhighs",
-    "langName": "Stoking (kaus kaki selutut)",
+    "langName": "Kaus kaki panjang sepaha",
     "object": "Pakaian",
     "attribute": "Kaus Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260213142506603.webp"
@@ -19217,7 +19217,7 @@
   },
   {
     "displayName": "pantylines",
-    "langName": "Stoking ketat (menggambarkan garis)",
+    "langName": "Garis celana dalam terlihat",
     "object": "Pakaian",
     "attribute": "Kaus Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260317074408132.webp"
@@ -19357,7 +19357,7 @@
   },
   {
     "displayName": "back-seamed_legwear",
-    "langName": "Kaus kaki dengan garis hitam di tengah",
+    "langName": "Stoking garis belakang",
     "object": "Pakaian",
     "attribute": "Kaus Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260225104949341.webp"
@@ -19413,14 +19413,14 @@
   },
   {
     "displayName": "bobby_socks",
-    "langName": "Kaus kaki bobby (kaus kaki putih)",
+    "langName": "Kaus kaki bobby",
     "object": "Pakaian",
     "attribute": "Kaus Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260213144125119.webp"
   },
   {
     "displayName": "tabi",
-    "langName": "Kaus kaki bersol tebal Jepang (saku kaki)",
+    "langName": "Tabi",
     "object": "Pakaian",
     "attribute": "Kaus Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260213144138485.webp"
@@ -19434,7 +19434,7 @@
   },
   {
     "displayName": "leg_warmers",
-    "langName": "Penghangat kaki | penghangat kaki",
+    "langName": "Penghangat kaki",
     "object": "Pakaian",
     "attribute": "Kaus Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260213144203562.webp"
@@ -19518,7 +19518,7 @@
   },
   {
     "displayName": "thigh_holster",
-    "langName": "Tali atau tas alat atau sarung di kaki",
+    "langName": "Sarung pistol di paha",
     "object": "Pakaian",
     "attribute": "Kaus Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260213144441392.webp"
@@ -19546,7 +19546,7 @@
   },
   {
     "displayName": "arm_garter",
-    "langName": "Garter lengan",
+    "langName": "Pengikat lengan kemeja",
     "object": "Pakaian",
     "attribute": "Kaus Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260213144735280.webp"
@@ -19658,14 +19658,14 @@
   },
   {
     "displayName": "sock_pull",
-    "langName": "memakai kaus kaki (kaus kaki)",
+    "langName": "Menarik kaus kaki",
     "object": "Pakaian",
     "attribute": "Kaus Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260213150519193.webp"
   },
   {
     "displayName": "thighhighs_pull",
-    "langName": "memakai stoking (stoking)",
+    "langName": "Menarik stoking panjang",
     "object": "Pakaian",
     "attribute": "Kaus Kaki",
     "preview": "https://img.aishort.top/imgprompt/20260225090322289.webp"
@@ -19686,7 +19686,7 @@
   },
   {
     "displayName": "crease",
-    "langName": "kusut (berlipat)",
+    "langName": "Lipatan kain",
     "object": "Pakaian",
     "attribute": "Dekorasi",
     "preview": "https://img.aishort.top/imgprompt/20260213150609920.webp"
@@ -19755,7 +19755,7 @@
   },
   {
     "displayName": "back_bow",
-    "langName": "simpul (pakaian) diikat di belakang punggung",
+    "langName": "Pita di punggung",
     "object": "Pakaian",
     "attribute": "Dekorasi",
     "preview": "https://img.aishort.top/imgprompt/20260213151221218.webp"
@@ -19769,7 +19769,7 @@
   },
   {
     "displayName": "double_vertical_stripe",
-    "langName": "ada dua garis sejajar pada pakaian",
+    "langName": "Garis vertikal ganda",
     "object": "Pakaian",
     "attribute": "Dekorasi",
     "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
@@ -19818,14 +19818,14 @@
   },
   {
     "displayName": "single_kneehigh",
-    "langName": "memakai pakaian selutut di satu sisi",
+    "langName": "Kaus kaki selutut sebelah",
     "object": "Pakaian",
     "attribute": "Dekorasi",
     "preview": "https://img.aishort.top/imgprompt/20260213151419710.webp"
   },
   {
     "displayName": "single_vertical_stripe",
-    "langName": "memperlihatkan garis vertikal di satu sisi pakaian",
+    "langName": "Garis vertikal tunggal",
     "object": "Pakaian",
     "attribute": "Dekorasi",
     "preview": "https://img.aishort.top/imgprompt/20260213151432314.webp"
@@ -19839,7 +19839,7 @@
   },
   {
     "displayName": "two-sided_fabric",
-    "langName": "metode penggambaran pakaian gaya dua lapis",
+    "langName": "Kain dua sisi berbeda warna",
     "object": "Pakaian",
     "attribute": "Dekorasi",
     "preview": "https://img.aishort.top/imgprompt/20260213151458665.webp"
@@ -19860,21 +19860,21 @@
   },
   {
     "displayName": "fringe_trim",
-    "langName": "pinggiran (ujung syal)",
+    "langName": "Rumbai tepi",
     "object": "Pakaian",
     "attribute": "Dekorasi",
     "preview": "https://img.aishort.top/imgprompt/20260213151538074.webp"
   },
   {
     "displayName": "loose_belt",
-    "langName": "tali longgar (pakaian)",
+    "langName": "Sabuk longgar",
     "object": "Pakaian",
     "attribute": "Dekorasi",
     "preview": "https://img.aishort.top/imgprompt/20260213151551376.webp"
   },
   {
     "displayName": "pom_pom_(clothes)",
-    "langName": "pom-pom kecil (aksesori pakaian)",
+    "langName": "Gantungan pom-pom",
     "object": "Pakaian",
     "attribute": "Dekorasi",
     "preview": "https://img.aishort.top/imgprompt/20260213151807325.webp"
@@ -19895,7 +19895,7 @@
   },
   {
     "displayName": "gathers",
-    "langName": "Lipatan (pakaian)",
+    "langName": "Kain berkerut",
     "object": "Pakaian",
     "attribute": "Dekorasi",
     "preview": "https://img.aishort.top/imgprompt/20260213151846596.webp"
@@ -20441,7 +20441,7 @@
   },
   {
     "displayName": "peace_symbol",
-    "langName": "☮(Pada pakaian Higashikata Josuke)",
+    "langName": "Simbol perdamaian (☮)",
     "object": "Pakaian",
     "attribute": "Pola",
     "preview": "https://img.aishort.top/imgprompt/20260213154359591.webp"
@@ -20595,7 +20595,7 @@
   },
   {
     "displayName": "black_loafers",
-    "langName": "Sepatu Loafer (sepatu kulit kecil)",
+    "langName": "Sepatu loafer hitam",
     "object": "Pakaian",
     "attribute": "Sepatu",
     "preview": "https://img.aishort.top/imgprompt/20260213160300808.webp"
@@ -20868,7 +20868,7 @@
   },
   {
     "displayName": "knee_boots",
-    "langName": "Sepatu bot setinggi lutut (sepatu bot berkuda)",
+    "langName": "Sepatu bot selutut",
     "object": "Pakaian",
     "attribute": "Sepatu Bot",
     "preview": "https://img.aishort.top/imgprompt/20260213170630231.webp"
@@ -21225,7 +21225,7 @@
   },
   {
     "displayName": "armband",
-    "langName": "ban lengan",
+    "langName": "Ban lengan",
     "object": "Pakaian",
     "attribute": "Lengan baju",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
@@ -21309,7 +21309,7 @@
   },
   {
     "displayName": "Denim",
-    "langName": "denim",
+    "langName": "Kain denim",
     "object": "Pakaian",
     "attribute": "Kain",
     "preview": "https://img.aishort.top/imgprompt/20260213182609683.webp"
@@ -21386,7 +21386,7 @@
   },
   {
     "displayName": "Rayon",
-    "langName": "rayon",
+    "langName": "Kain rayon",
     "object": "Pakaian",
     "attribute": "Kain",
     "preview": "https://img.aishort.top/imgprompt/20260213183640755.webp"
@@ -21680,7 +21680,7 @@
   },
   {
     "displayName": "alternate_headwear",
-    "langName": "penutup kepala alternatif",
+    "langName": "Penutup kepala alternatif",
     "object": "Aksesori",
     "attribute": "Penutup Kepala",
     "preview": "https://img.aishort.top/imgprompt/20260213191902200.webp"
@@ -21715,7 +21715,7 @@
   },
   {
     "displayName": "xx_on_head",
-    "langName": "xx di kepala",
+    "langName": "Benda di atas kepala",
     "object": "Aksesori",
     "attribute": "Penutup Kepala",
     "preview": "https://img.aishort.top/imgprompt/20260213192411659.webp"
@@ -21778,14 +21778,14 @@
   },
   {
     "displayName": "hachimaki",
-    "langName": "turban",
+    "langName": "Hachimaki (ikat kepala)",
     "object": "Aksesori",
     "attribute": "Penutup Kepala",
     "preview": "https://img.aishort.top/imgprompt/20260213194023586.webp"
   },
   {
     "displayName": "helm",
-    "langName": "memakai helm",
+    "langName": "Mengenakan helm",
     "object": "Aksesori",
     "attribute": "Penutup Kepala",
     "preview": "https://img.aishort.top/imgprompt/20260213194036779.webp"
@@ -21841,7 +21841,7 @@
   },
   {
     "displayName": "headdress",
-    "langName": "Penutup kepala",
+    "langName": "Hiasan kepala",
     "object": "Aksesori",
     "attribute": "Penutup Kepala",
     "preview": "https://img.aishort.top/imgprompt/20260213195638458.webp"
@@ -21869,21 +21869,21 @@
   },
   {
     "displayName": "horns_through_headwear",
-    "langName": "Hiasan kepala dengan lubang untuk tanduk",
+    "langName": "Hiasan kepala berlubang untuk tanduk",
     "object": "Aksesori",
     "attribute": "Penutup Kepala",
     "preview": "https://img.aishort.top/imgprompt/20260213200134487.webp"
   },
   {
     "displayName": "no_headwear",
-    "langName": "Penutup kepala dilepas",
+    "langName": "Tanpa penutup kepala",
     "object": "Aksesori",
     "attribute": "Penutup Kepala",
     "preview": "https://img.aishort.top/imgprompt/20260213200147284.webp"
   },
   {
     "displayName": "object_on_head",
-    "langName": "Ada sesuatu selain penutup kepala di kepala",
+    "langName": "Objek di atas kepala",
     "object": "Aksesori",
     "attribute": "Penutup Kepala",
     "preview": "https://img.aishort.top/imgprompt/20260213200200049.webp"
@@ -21925,7 +21925,7 @@
   },
   {
     "displayName": "behind-the-head_headphones",
-    "langName": "Headphone yang dipakai dari belakang kepala",
+    "langName": "Headphone model leher belakang",
     "object": "Aksesori",
     "attribute": "Penutup Kepala",
     "preview": "https://img.aishort.top/imgprompt/20260213200337721.webp"
@@ -21988,14 +21988,14 @@
   },
   {
     "displayName": "head_mounted_display",
-    "langName": "Mengenakan perangkat tampilan terpasang di kepala",
+    "langName": "Perangkat layar kepala (HMD)",
     "object": "Aksesori",
     "attribute": "Penutup Kepala",
     "preview": "https://img.aishort.top/imgprompt/20260213201344092.webp"
   },
   {
     "displayName": "head_out_of_frame",
-    "langName": "Sebagian kepala tidak tergambar dalam bingkai",
+    "langName": "Kepala di luar bingkai",
     "object": "Aksesori",
     "attribute": "Penutup Kepala",
     "preview": "https://img.aishort.top/imgprompt/20260213201559216.webp"
@@ -22016,7 +22016,7 @@
   },
   {
     "displayName": "headgear",
-    "langName": "Hiasan kepala (Fiksi Ilmiah)",
+    "langName": "Perangkat kepala fiksi ilmiah",
     "object": "Aksesori",
     "attribute": "Penutup Kepala",
     "preview": "https://img.aishort.top/imgprompt/20260213201840823.webp"
@@ -22030,7 +22030,7 @@
   },
   {
     "displayName": "heads-up_display",
-    "langName": "Bilah status (gaya game dan fiksi ilmiah)",
+    "langName": "Antarmuka visual HUD",
     "object": "Aksesori",
     "attribute": "Penutup Kepala",
     "preview": "https://img.aishort.top/imgprompt/20260213201907728.webp"
@@ -22065,7 +22065,7 @@
   },
   {
     "displayName": "single_head_wing",
-    "langName": "Ada sayap di satu sisi kepala",
+    "langName": "Sayap kepala sebelah",
     "object": "Aksesori",
     "attribute": "Penutup Kepala",
     "preview": "https://img.aishort.top/imgprompt/20260213202620422.webp"
@@ -22261,7 +22261,7 @@
   },
   {
     "displayName": "hairpods",
-    "langName": "Hairpods (aksesoris rambut mirip headset)",
+    "langName": "Jepit rambut ala earphone",
     "object": "Aksesori",
     "attribute": "Aksesori Rambut",
     "preview": "https://img.aishort.top/imgprompt/20260213210909139.webp"
@@ -22296,7 +22296,7 @@
   },
   {
     "displayName": "snake_hair_ornament",
-    "langName": "Aksesori Rambut Ular | Aksesori Rambut Katak",
+    "langName": "Hiasan rambut bentuk ular",
     "object": "Aksesori",
     "attribute": "Aksesori Rambut",
     "preview": "https://img.aishort.top/imgprompt/20260213211418419.webp"
@@ -22800,7 +22800,7 @@
   },
   {
     "displayName": "hatching_(texture)",
-    "langName": "Arsiran garis (tekstur)",
+    "langName": "Arsiran garis",
     "object": "Aksesori",
     "attribute": "Topi",
     "preview": "https://img.aishort.top/imgprompt/20260213224329155.webp"
@@ -22926,14 +22926,14 @@
   },
   {
     "displayName": "sunglasses",
-    "langName": "Kacamata hitam (menutupi mata)",
+    "langName": "Kacamata hitam pekat",
     "object": "Aksesori",
     "attribute": "Kacamata",
     "preview": "https://img.aishort.top/imgprompt/20260213230746663.webp"
   },
   {
     "displayName": "reflection glasses",
-    "langName": "Kacamata hitam (mata terlihat)",
+    "langName": "Kacamata hitam tembus pandang",
     "object": "Aksesori",
     "attribute": "Kacamata",
     "preview": "https://img.aishort.top/imgprompt/20260213230759909.webp"
@@ -22954,7 +22954,7 @@
   },
   {
     "displayName": "eyepatch",
-    "langName": "Penutup mata (satu mata)",
+    "langName": "Penutup mata",
     "object": "Aksesori",
     "attribute": "Kacamata",
     "preview": "https://img.aishort.top/imgprompt/20260213230839662.webp"
@@ -22982,14 +22982,14 @@
   },
   {
     "displayName": "coke-bottle_glasses",
-    "langName": "Kacamata bulat setebal dasar botol kaca",
+    "langName": "Kacamata lensa tebal",
     "object": "Aksesori",
     "attribute": "Kacamata",
     "preview": "https://img.aishort.top/imgprompt/20260213230932442.webp"
   },
   {
     "displayName": "no_eyewear",
-    "langName": "Kacamata (yang ada) dilepas",
+    "langName": "Tanpa kacamata",
     "object": "Aksesori",
     "attribute": "Kacamata",
     "preview": "https://img.aishort.top/imgprompt/20260213230945224.webp"
@@ -23241,7 +23241,7 @@
   },
   {
     "displayName": "single_earring",
-    "langName": "Memakai anting hanya di satu sisi",
+    "langName": "Anting sebelah",
     "object": "Aksesori",
     "attribute": "Anting-anting",
     "preview": "https://img.aishort.top/imgprompt/20260213235633818.webp"
@@ -23311,7 +23311,7 @@
   },
   {
     "displayName": "revolver",
-    "langName": "revolver",
+    "langName": "Pistol revolver",
     "object": "Aksesori",
     "attribute": "Perhiasan Tangan",
     "preview": "https://img.aishort.top/imgprompt/20260213235905617.webp"
@@ -23325,7 +23325,7 @@
   },
   {
     "displayName": "leash",
-    "langName": "sabuk",
+    "langName": "Tali kekang",
     "object": "Aksesori",
     "attribute": "Perhiasan Tangan",
     "preview": "https://img.aishort.top/imgprompt/20260213235930034.webp"
@@ -23437,7 +23437,7 @@
   },
   {
     "displayName": "no_gloves",
-    "langName": "Sarung tangan (yang ada) dilepas",
+    "langName": "Tanpa sarung tangan",
     "object": "Aksesori",
     "attribute": "Sarung Tangan",
     "preview": "https://img.aishort.top/imgprompt/20260214001315236.webp"
@@ -23451,7 +23451,7 @@
   },
   {
     "displayName": "single_elbow_glove",
-    "langName": "Satu sarung tangan sebatas siku",
+    "langName": "Sarung tangan panjang sebelah",
     "object": "Aksesori",
     "attribute": "Sarung Tangan",
     "preview": "https://img.aishort.top/imgprompt/20260214001744860.webp"
@@ -23465,7 +23465,7 @@
   },
   {
     "displayName": "elbow_gloves",
-    "langName": "Sarung tangan lengan panjang (sarung tangan siku)",
+    "langName": "Sarung tangan sepanjang siku",
     "object": "Aksesori",
     "attribute": "Sarung Tangan",
     "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
@@ -23500,14 +23500,14 @@
   },
   {
     "displayName": "paw_gloves",
-    "langName": "Sarung tangan cakar (sarung tangan jari)",
+    "langName": "Sarung tangan cakar berbulu",
     "object": "Aksesori",
     "attribute": "Sarung Tangan",
     "preview": "https://img.aishort.top/imgprompt/20260214002522561.webp"
   },
   {
     "displayName": "mittens",
-    "langName": "Sarung tangan jempol (sarung tangan dua jari)",
+    "langName": "Sarung tangan mitten",
     "object": "Aksesori",
     "attribute": "Sarung Tangan",
     "preview": "https://img.aishort.top/imgprompt/20260214002535788.webp"
@@ -23759,14 +23759,14 @@
   },
   {
     "displayName": "st._gloriana's_(emblem)",
-    "langName": "lambang sekolah Putri St. Gloria Anna",
+    "langName": "Lambang sekolah St. Gloriana",
     "object": "Aksesori",
     "attribute": "Dekorasi Kecil",
     "preview": "https://img.aishort.top/imgprompt/20260214010157304.webp"
   },
   {
     "displayName": "heart_lock_(kantai_collection)",
-    "langName": "Kunci Gadis Kapal (Kapal C)",
+    "langName": "Kunci hati (Kantai Collection)",
     "object": "Aksesori",
     "attribute": "Dekorasi Kecil",
     "preview": "https://img.aishort.top/imgprompt/20260214010210385.webp"
@@ -23990,14 +23990,14 @@
   },
   {
     "displayName": "Wu Xing",
-    "langName": "Lima elemen (logam, kayu, air, api, dan tanah)",
+    "langName": "Lima Elemen (Wu Xing)",
     "object": "Aksesori",
     "attribute": "Simbol",
     "preview": "https://img.aishort.top/imgprompt/20260214020503233.webp"
   },
   {
     "displayName": "dynamic pose",
-    "langName": "Pose dinamis (energetik)",
+    "langName": "Pose dinamis penuh energi",
     "object": "Fotografi",
     "attribute": "Perspektif",
     "preview": "https://img.aishort.top/imgprompt/20260214020718871.webp"
@@ -24319,35 +24319,35 @@
   },
   {
     "displayName": "cowboy_shot",
-    "langName": "Tubuh bagian atas + paha atas (lensa denim)",
+    "langName": "Cowboy shot",
     "object": "Fotografi",
     "attribute": "Tinggi pandang",
     "preview": "https://img.aishort.top/imgprompt/20260214032314849.webp"
   },
   {
     "displayName": "portrait",
-    "langName": "Potret (wajah + bahu + kadang dada)",
+    "langName": "Bidikan potret",
     "object": "Fotografi",
     "attribute": "Tinggi pandang",
     "preview": "https://img.aishort.top/imgprompt/20260214032327856.webp"
   },
   {
     "displayName": "very close portrait",
-    "langName": "Potret sangat dekat (kamera lebih dekat)",
+    "langName": "Potret jarak sangat dekat",
     "object": "Fotografi",
     "attribute": "Tinggi pandang",
     "preview": "https://img.aishort.top/imgprompt/20260214032544032.webp"
   },
   {
     "displayName": "profile",
-    "langName": "Potret profil (versi profil dari potret)",
+    "langName": "Potret tampak samping",
     "object": "Fotografi",
     "attribute": "Tinggi pandang",
     "preview": "https://img.aishort.top/imgprompt/20260214032759101.webp"
   },
   {
     "displayName": "close-up",
-    "langName": "close-up",
+    "langName": "Bidikan jarak dekat",
     "object": "Fotografi",
     "attribute": "Tinggi pandang",
     "preview": "https://img.aishort.top/imgprompt/20260214033014149.webp"
@@ -24375,7 +24375,7 @@
   },
   {
     "displayName": "wide_shot",
-    "langName": "Lensa panoramik (lensa sudut lebar)",
+    "langName": "Tangkapan sudut lebar",
     "object": "Fotografi",
     "attribute": "Fokus Lensa",
     "preview": "https://img.aishort.top/imgprompt/20260214033851759.webp"
@@ -24389,7 +24389,7 @@
   },
   {
     "displayName": "inset",
-    "langName": "Sisipkan rekaman atau gambar tambahan",
+    "langName": "Gambar sisipan",
     "object": "Fotografi",
     "attribute": "Fokus Lensa",
     "preview": "https://img.aishort.top/imgprompt/20260214033931731.webp"
@@ -24403,21 +24403,21 @@
   },
   {
     "displayName": "male focus",
-    "langName": "Fokus Pria (Fokus Wanita)",
+    "langName": "Fokus pada tokoh pria",
     "object": "Fotografi",
     "attribute": "Fokus Lensa",
     "preview": "https://img.aishort.top/imgprompt/20260214033958195.webp"
   },
   {
     "displayName": "solo_focus",
-    "langName": "Fokus pada satu karakter",
+    "langName": "Fokus subjek tunggal",
     "object": "Fotografi",
     "attribute": "Fokus Lensa",
     "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
   },
   {
     "displayName": "xx_focus",
-    "langName": "fokus pada xx",
+    "langName": "Fokus pada bagian tertentu",
     "object": "Fotografi",
     "attribute": "Fokus Lensa",
     "preview": "https://img.aishort.top/imgprompt/20260214034023889.webp"
@@ -24459,7 +24459,7 @@
   },
   {
     "displayName": "vehicle_focus",
-    "langName": "Fokus pada kendaraan (mobil)",
+    "langName": "Fokus pada kendaraan",
     "object": "Fotografi",
     "attribute": "Fokus Lensa",
     "preview": "https://img.aishort.top/imgprompt/20260214034759257.webp"
@@ -24473,21 +24473,21 @@
   },
   {
     "displayName": "between_legs",
-    "langName": "(penekanan) di antara kaki",
+    "langName": "Sudut antara kedua kaki",
     "object": "Fotografi",
     "attribute": "Fokus Lensa",
     "preview": "https://img.aishort.top/imgprompt/20260214035455577.webp"
   },
   {
     "displayName": "between_breasts",
-    "langName": "di antara payudara",
+    "langName": "Sudut belahan dada",
     "object": "Fotografi",
     "attribute": "Fokus Lensa",
     "preview": "https://img.aishort.top/imgprompt/20260225091239828.webp"
   },
   {
     "displayName": "between_fingers",
-    "langName": "(penonjolan) di antara jari-jari",
+    "langName": "Melihat dari celah jari",
     "object": "Fotografi",
     "attribute": "Fokus Lensa",
     "preview": "https://img.aishort.top/imgprompt/20260214035531987.webp"
@@ -24501,14 +24501,14 @@
   },
   {
     "displayName": "peeking_out",
-    "langName": "mengintip (gerakan)",
+    "langName": "Mengintip dari balik dinding",
     "object": "Fotografi",
     "attribute": "Fokus Lensa",
     "preview": "https://img.aishort.top/imgprompt/20260214035557635.webp"
   },
   {
     "displayName": "peeping",
-    "langName": "Voyeur (penekanan pada perspektif)",
+    "langName": "Sudut pandang pengintip",
     "object": "Fotografi",
     "attribute": "Fokus Lensa",
     "preview": "https://img.aishort.top/imgprompt/20260214035610390.webp"
@@ -24662,7 +24662,7 @@
   },
   {
     "displayName": "Brenizer Method",
-    "langName": "bidikan spiral",
+    "langName": "Metode Brenizer (Panorama bokeh)",
     "object": "Fotografi",
     "attribute": "Lensa/Efek Optik",
     "preview": "https://img.aishort.top/imgprompt/20260214041350224.webp"
@@ -24697,7 +24697,7 @@
   },
   {
     "displayName": "landscape",
-    "langName": "Pemandangan (bidikan jauh)",
+    "langName": "Bidikan lanskap",
     "object": "Fotografi",
     "attribute": "Lensa/Efek Optik",
     "preview": "https://img.aishort.top/imgprompt/20260214041814281.webp"
@@ -24711,14 +24711,14 @@
   },
   {
     "displayName": "Zoom",
-    "langName": "zoom",
+    "langName": "Perbesaran",
     "object": "Fotografi",
     "attribute": "Lensa/Efek Optik",
     "preview": "https://img.aishort.top/imgprompt/20260214041853284.webp"
   },
   {
     "displayName": "Dolly Zoom",
-    "langName": "dolly zoom",
+    "langName": "Efek zoom dolly",
     "object": "Fotografi",
     "attribute": "Lensa/Efek Optik",
     "preview": "https://img.aishort.top/imgprompt/20260214041910055.webp"
@@ -24844,7 +24844,7 @@
   },
   {
     "displayName": "polaroid",
-    "langName": "Foto (Polaroid)",
+    "langName": "Foto polaroid instan",
     "object": "Fotografi",
     "attribute": "Gaya Fotografi",
     "preview": "https://img.aishort.top/imgprompt/20260214044251180.webp"
@@ -25292,7 +25292,7 @@
   },
   {
     "displayName": "depth of field",
-    "langName": "Kedalaman bidang (DOF)",
+    "langName": "Kedalaman bidang",
     "object": "Fotografi",
     "attribute": "Efek",
     "preview": "https://img.aishort.top/imgprompt/20260224191234161.webp"
@@ -25320,14 +25320,14 @@
   },
   {
     "displayName": "bokeh",
-    "langName": "Kaustik (latar belakang buram)",
+    "langName": "Efek bokeh",
     "object": "Fotografi",
     "attribute": "Efek",
     "preview": "https://img.aishort.top/imgprompt/20260224191333274.webp"
   },
   {
     "displayName": "chromatic_aberration",
-    "langName": "Aberasi kromatik, warna tidak fokus",
+    "langName": "Aberasi kromatik",
     "object": "Fotografi",
     "attribute": "Efek",
     "preview": "https://img.aishort.top/imgprompt/20260224191548893.webp"
@@ -25527,7 +25527,7 @@
   },
   {
     "displayName": "Moonlight",
-    "langName": "cahaya bulan",
+    "langName": "Cahaya bulan",
     "object": "Efek cahaya dan bayangan",
     "attribute": "Sumber cahaya",
     "preview": "https://img.aishort.top/imgprompt/20260224194842846.webp"
@@ -25542,7 +25542,7 @@
   },
   {
     "displayName": "Firelight",
-    "langName": "cahaya api",
+    "langName": "Cahaya api",
     "object": "Efek cahaya dan bayangan",
     "attribute": "Sumber cahaya",
     "description": "Sumber cahaya dari api, seperti api unggun, lilin, perapian, dll., memberikan efek pencahayaan yang alami, dinamis, dan hangat.",
@@ -25818,7 +25818,7 @@
   },
   {
     "displayName": "Crepuscular Rays",
-    "langName": "Cahaya redup",
+    "langName": "Sinar krepuskular (God rays)",
     "object": "Efek cahaya dan bayangan",
     "attribute": "Efek pencahayaan",
     "preview": "https://img.aishort.top/imgprompt/20260224200322540.webp"
@@ -25860,7 +25860,7 @@
   },
   {
     "displayName": "lens flare",
-    "langName": "Suar lensa (cahaya latar)",
+    "langName": "Suar lensa",
     "object": "Efek cahaya dan bayangan",
     "attribute": "Efek pencahayaan",
     "preview": "https://img.aishort.top/imgprompt/20260224200437632.webp"
@@ -26077,7 +26077,7 @@
   },
   {
     "displayName": "Laser",
-    "langName": "Laser",
+    "langName": "Sinar laser",
     "object": "Efek cahaya dan bayangan",
     "attribute": "Pencahayaan",
     "preview": "https://img.aishort.top/imgprompt/20260224203206526.webp"
@@ -27113,7 +27113,7 @@
   },
   {
     "displayName": "Dispersion",
-    "langName": "Aberasi kromatik",
+    "langName": "Dispersi cahaya",
     "object": "Suasana Warna",
     "attribute": "Warna Gelap",
     "preview": "https://img.aishort.top/imgprompt/20260224221649393.webp"
@@ -27442,7 +27442,7 @@
   },
   {
     "displayName": "magenta",
-    "langName": "magenta",
+    "langName": "Merah fanta",
     "object": "Suasana Warna",
     "attribute": "Warna Spektral",
     "preview": "https://img.aishort.top/imgprompt/20260224222833820.webp"
@@ -27645,7 +27645,7 @@
   },
   {
     "displayName": "Tetradic-Colors",
-    "langName": "Empat warna (pencocokan warna persegi)",
+    "langName": "Skema warna tetradik",
     "object": "Suasana Warna",
     "attribute": "Palet warna",
     "preview": "https://img.aishort.top/imgprompt/20260224223613371.webp"
@@ -27722,7 +27722,7 @@
   },
   {
     "displayName": "nostalgia",
-    "langName": "Nostalgia",
+    "langName": "Bernostalgia",
     "object": "Suasana Warna",
     "attribute": "Palet warna",
     "preview": "https://img.aishort.top/imgprompt/20260224223852603.webp"
@@ -27757,7 +27757,7 @@
   },
   {
     "displayName": "Sepia",
-    "langName": "Sepia",
+    "langName": "Warna sepia",
     "object": "Suasana Warna",
     "attribute": "Palet monokrom",
     "description": "Meniru tampilan foto lama, membangkitkan nuansa nostalgia atau vintage",
@@ -27779,7 +27779,7 @@
   },
   {
     "displayName": "halftone",
-    "langName": "Halftone",
+    "langName": "Pola halftone",
     "object": "Suasana Warna",
     "attribute": "Palet monokrom",
     "preview": "https://img.aishort.top/imgprompt/20260224224039295.webp"
@@ -28115,7 +28115,7 @@
   },
   {
     "displayName": "divine",
-    "langName": "ilahi",
+    "langName": "Ilahi",
     "object": "Suasana Warna",
     "attribute": "Suasana Emosional",
     "preview": "https://img.aishort.top/imgprompt/20260224225328539.webp"
@@ -28829,7 +28829,7 @@
   },
   {
     "displayName": "Enamel",
-    "langName": "enamel",
+    "langName": "Enamel",
     "object": "Bahan",
     "attribute": "Batu dan mineral",
     "preview": "https://img.aishort.top/imgprompt/20260225091616349.webp"
@@ -28906,7 +28906,7 @@
   },
   {
     "displayName": "Foil",
-    "langName": "foil",
+    "langName": "Kertas timah",
     "object": "Bahan",
     "attribute": "Logam",
     "preview": "https://img.aishort.top/imgprompt/20260224232351113.webp"
@@ -29046,7 +29046,7 @@
   },
   {
     "displayName": "Platinum",
-    "langName": "platinum",
+    "langName": "Platina",
     "object": "Bahan",
     "attribute": "Logam",
     "preview": "https://img.aishort.top/imgprompt/20260224232858654.webp"
@@ -29459,14 +29459,14 @@
   },
   {
     "displayName": "Lapis Lazuli",
-    "langName": "lapis lazuli",
+    "langName": "Batu lapis lazuli",
     "object": "Bahan",
     "attribute": "Kaca dan kristal",
     "preview": "https://img.aishort.top/imgprompt/20260224234358261.webp"
   },
   {
     "displayName": "Obsidian",
-    "langName": "obsidian",
+    "langName": "Batu obsidian",
     "object": "Bahan",
     "attribute": "Kaca dan kristal",
     "preview": "https://img.aishort.top/imgprompt/20260224234411456.webp"
@@ -29487,7 +29487,7 @@
   },
   {
     "displayName": "Opal",
-    "langName": "opal",
+    "langName": "Batu opal",
     "object": "Bahan",
     "attribute": "Kaca dan kristal",
     "preview": "https://img.aishort.top/imgprompt/20260224234459539.webp"
@@ -29501,7 +29501,7 @@
   },
   {
     "displayName": "Topaz",
-    "langName": "topaz",
+    "langName": "Batu topas",
     "object": "Bahan",
     "attribute": "Kaca dan kristal",
     "preview": "https://img.aishort.top/imgprompt/20260224234525817.webp"
@@ -29627,7 +29627,7 @@
   },
   {
     "displayName": "Styrofoam",
-    "langName": "Styrofoam",
+    "langName": "Gabus",
     "object": "Bahan",
     "attribute": "Plastik/film busa",
     "preview": "https://img.aishort.top/imgprompt/20260224234938213.webp"
@@ -29795,7 +29795,7 @@
   },
   {
     "displayName": "Zebra",
-    "langName": "zebra",
+    "langName": "Kulit zebra",
     "object": "Bahan",
     "attribute": "Rambut/Bulu",
     "preview": "https://img.aishort.top/imgprompt/20260224235528363.webp"
@@ -29914,7 +29914,7 @@
   },
   {
     "displayName": "Putty",
-    "langName": "Perekat untuk menyegel dan mengisi celah",
+    "langName": "Dempul penambal",
     "object": "Bahan",
     "attribute": "Lendir",
     "preview": "https://img.aishort.top/imgprompt/20260224235936705.webp"
@@ -30334,7 +30334,7 @@
   },
   {
     "displayName": "Amber",
-    "langName": "amber",
+    "langName": "Batu ambar",
     "object": "Bahan",
     "attribute": "Bahan lain",
     "preview": "https://img.aishort.top/imgprompt/20260317125552402.webp"
@@ -30369,7 +30369,7 @@
   },
   {
     "displayName": "Transistor",
-    "langName": "transistor",
+    "langName": "Transistor",
     "object": "Bahan",
     "attribute": "Bahan lain",
     "preview": "https://img.aishort.top/imgprompt/20260317125610536.webp"
@@ -30565,7 +30565,7 @@
   },
   {
     "displayName": "Torus",
-    "langName": "torus",
+    "langName": "Torus",
     "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002254551.webp"
@@ -30600,7 +30600,7 @@
   },
   {
     "displayName": "Tetrahedron",
-    "langName": "tetrahedron",
+    "langName": "Tetrahedron",
     "object": "Bentuk & Ruang",
     "attribute": "Objek",
     "preview": "https://img.aishort.top/imgprompt/20260225002408261.webp"
@@ -31069,7 +31069,7 @@
   },
   {
     "displayName": "Multiverse",
-    "langName": "multiverse",
+    "langName": "Multisemesta",
     "object": "Bentuk & Ruang",
     "attribute": "Multiverse",
     "preview": "https://img.aishort.top/imgprompt/20260225003944859.webp"
@@ -31195,7 +31195,7 @@
   },
   {
     "displayName": "Interior",
-    "langName": "interior",
+    "langName": "Bagian dalam",
     "object": "Bentuk & Ruang",
     "attribute": "Karakteristik",
     "preview": "https://img.aishort.top/imgprompt/20260225004403628.webp"
@@ -31356,7 +31356,7 @@
   },
   {
     "displayName": "((dyeing)),((oil painting)),((impasto))",
-    "langName": "Lukisan cat minyak (kombinasi)",
+    "langName": "Campuran lukisan minyak impasto",
     "object": "Jenis gambar",
     "attribute": "Lukisan",
     "preview": "https://img.aishort.top/imgprompt/20260225004949979.webp"
@@ -31587,7 +31587,7 @@
   },
   {
     "displayName": "wallpaper",
-    "langName": "wallpaper",
+    "langName": "Kertas dinding",
     "object": "Jenis gambar",
     "attribute": "Ilustrasi",
     "preview": "https://img.aishort.top/imgprompt/20260225005924692.webp"
@@ -31825,7 +31825,7 @@
   },
   {
     "displayName": "copics",
-    "langName": "Spidol (abu-abu netral)",
+    "langName": "Gaya spidol Copic",
     "object": "Jenis gambar",
     "attribute": "Tinta",
     "preview": "https://img.aishort.top/imgprompt/20260225010656308.webp"
@@ -31916,7 +31916,7 @@
   },
   {
     "displayName": "Font",
-    "langName": "font",
+    "langName": "Jenis huruf",
     "object": "Jenis gambar",
     "attribute": "Teks",
     "preview": "https://img.aishort.top/imgprompt/20260225010954580.webp"
@@ -32098,7 +32098,7 @@
   },
   {
     "displayName": "Poster",
-    "langName": "poster",
+    "langName": "Poster",
     "object": "Jenis gambar",
     "attribute": "Cetak",
     "preview": "https://img.aishort.top/imgprompt/20260225011550150.webp"
@@ -32126,14 +32126,14 @@
   },
   {
     "displayName": "Pokemon Card",
-    "langName": "Kartu Pokémon (Pocket Monsters)",
+    "langName": "Gaya kartu Pokémon",
     "object": "Jenis gambar",
     "attribute": "Cetak",
     "preview": "https://img.aishort.top/imgprompt/20260225011638981.webp"
   },
   {
     "displayName": "Origami",
-    "langName": "origami",
+    "langName": "Seni melipat kertas",
     "object": "Jenis gambar",
     "attribute": "Origami",
     "preview": "https://img.aishort.top/imgprompt/20260225011650928.webp"
@@ -32371,7 +32371,7 @@
   },
   {
     "displayName": "Mezzotint",
-    "langName": "mezzotint",
+    "langName": "Cetakan mezzotint",
     "object": "Jenis gambar",
     "attribute": "Ukiran, etsa, dan pemodelan",
     "preview": "https://img.aishort.top/imgprompt/20260225091844553.webp"
@@ -32518,7 +32518,7 @@
   },
   {
     "displayName": "traditional_media",
-    "langName": "Kanvas tradisional (seperti kertas, dll.)",
+    "langName": "Media seni tradisional",
     "object": "Jenis gambar",
     "attribute": "Media lain",
     "preview": "https://img.aishort.top/imgprompt/20260225013600028.webp"
@@ -32735,7 +32735,7 @@
   },
   {
     "displayName": "Mural",
-    "langName": "mural",
+    "langName": "Lukisan dinding",
     "object": "Jenis gambar",
     "attribute": "Seni tradisional",
     "preview": "https://img.aishort.top/imgprompt/20260225091932044.webp"
@@ -33078,7 +33078,7 @@
   },
   {
     "displayName": "miserablism",
-    "langName": "Miserablisme (kritik sosial)",
+    "langName": "Miserabilisme",
     "object": "Gaya seni",
     "attribute": "Fiksi dan realitas",
     "preview": "https://img.aishort.top/imgprompt/20260225015538415.webp"
@@ -33099,7 +33099,7 @@
   },
   {
     "displayName": "Feng Shui",
-    "langName": "Feng Shui",
+    "langName": "Fengsui",
     "object": "Gaya seni",
     "attribute": "Konsep Abstrak",
     "preview": "https://img.aishort.top/imgprompt/20260225015614377.webp"
@@ -33169,7 +33169,7 @@
   },
   {
     "displayName": "illustration,(((ukiyoe))),((sketch)),((japanese_art))",
-    "langName": "Ukiyo-e (grup)",
+    "langName": "Ilustrasi gaya Ukiyo-e",
     "object": "Gaya seni",
     "attribute": "Seni Asia",
     "preview": "https://img.aishort.top/imgprompt/20260225015830944.webp"
@@ -33260,7 +33260,7 @@
   },
   {
     "displayName": "heavy contrast",
-    "langName": "Kontras kuat (penekanan pada warna)",
+    "langName": "Kontras tajam",
     "object": "Gaya seni",
     "attribute": "Gaya Fotografi/Lukisan",
     "preview": "https://img.aishort.top/imgprompt/20260225020108984.webp"
@@ -33323,7 +33323,7 @@
   },
   {
     "displayName": "film noir",
-    "langName": "Film noir (rasa bersalah, hasrat, balas dendam)",
+    "langName": "Gaya estetika Film Noir",
     "object": "Gaya seni",
     "attribute": "Gaya Fotografi/Lukisan",
     "preview": "https://img.aishort.top/imgprompt/20260225020255566.webp"
@@ -33337,7 +33337,7 @@
   },
   {
     "displayName": "fantasy",
-    "langName": "Cocok untuk adegan fiksi ilmiah",
+    "langName": "Gaya fantasi",
     "object": "Gaya seni",
     "attribute": "Fiksi ilmiah",
     "preview": "https://img.aishort.top/imgprompt/20260225020323046.webp"
@@ -33393,7 +33393,7 @@
   },
   {
     "displayName": "ww3 style",
-    "langName": "gaya PD3",
+    "langName": "gaya Perang Dunia ke-3",
     "object": "Gaya seni",
     "attribute": "Fiksi ilmiah",
     "preview": "https://img.aishort.top/imgprompt/20260225020500212.webp"
@@ -33582,7 +33582,7 @@
   },
   {
     "displayName": "album",
-    "langName": "album",
+    "langName": "Sampul album",
     "object": "Gaya seni",
     "attribute": "Publikasi",
     "preview": "https://img.aishort.top/imgprompt/20260225021019051.webp"
@@ -33624,14 +33624,14 @@
   },
   {
     "displayName": "column lineup",
-    "langName": "Serangkaian gambar kecil membentuk gambar besar",
+    "langName": "Tata letak kolom berjejer",
     "object": "Gaya seni",
     "attribute": "Publikasi",
     "preview": "https://img.aishort.top/imgprompt/20260225021130372.webp"
   },
   {
     "displayName": "zoom layer",
-    "langName": "Latar belakang adalah versi zoom dari latar depan",
+    "langName": "Lapisan zoom latar",
     "object": "Gaya seni",
     "attribute": "Publikasi",
     "preview": "https://img.aishort.top/imgprompt/20260225021142834.webp"
@@ -33680,7 +33680,7 @@
   },
   {
     "displayName": "highres",
-    "langName": "impasto (gaya)",
+    "langName": "Gaya impasto digital",
     "object": "Gaya seni",
     "attribute": "Seni digital",
     "preview": "https://img.aishort.top/imgprompt/20260225021323241.webp"
@@ -33813,7 +33813,7 @@
   },
   {
     "displayName": "HD",
-    "langName": "HD",
+    "langName": "Definisi tinggi",
     "object": "Pasca-Pemrosesan",
     "attribute": "Skala",
     "preview": "https://img.aishort.top/imgprompt/20260225021715675.webp"
@@ -33897,7 +33897,7 @@
   },
   {
     "displayName": "Anti-Aliasing",
-    "langName": "Anti-aliasing",
+    "langName": "Penghalusan tepi",
     "object": "Pasca-Pemrosesan",
     "attribute": "Anti-aliasing",
     "preview": "https://img.aishort.top/imgprompt/20260225021947817.webp"
@@ -34233,7 +34233,7 @@
   },
   {
     "displayName": "Sabattier Effect",
-    "langName": "Tepi lembut, kabur, dan warna memudar",
+    "langName": "Efek Sabattier",
     "object": "Pasca-Pemrosesan",
     "attribute": "Pemrosesan gambar",
     "preview": "https://img.aishort.top/imgprompt/20260225022949265.webp"
@@ -34268,7 +34268,7 @@
   },
   {
     "displayName": "Harris Shutter",
-    "langName": "Harris Shutter (gerakan/cahaya redup)",
+    "langName": "Efek rana Harris",
     "object": "Pasca-Pemrosesan",
     "attribute": "Pemrosesan gambar",
     "description": "Menangkap objek bergerak cepat atau mempertahankan kejernihan gambar di lingkungan cahaya rendah",
@@ -34734,7 +34734,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151157243.webp"
   },
   {
-    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑(广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
+    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑（广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
     "langName": "Poster Kota Guangzhou Musim Semi 2026",
     "object": "Galeri",
     "attribute": "Poster",

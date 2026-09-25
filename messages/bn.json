@@ -117,7 +117,12 @@
     "language": "ভাষা নির্বাচন করুন",
     "languageSearch": "ভাষা খুঁজুন",
     "languageEmpty": "মিলে যায় এমন ভাষা নেই",
-    "skipToPrompt": "প্রম্পট বক্সে যান"
+    "skipToPrompt": "প্রম্পট বক্সে যান",
+    "qq": "QQ গ্রুপ",
+    "lives": "Lives — জীবন সিমুলেটর",
+    "learndata": "LearnData ওপেন সোর্স নোট",
+    "primary": "প্রধান নেভিগেশন",
+    "close": "বন্ধ করুন"
   },
   "Guide": {
     "fallbackNotice": "এই পৃষ্ঠাটি এখনও আপনার ভাষায় অনূদিত হয়নি; ইংরেজি সংস্করণ দেখানো হচ্ছে।"

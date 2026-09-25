@@ -117,7 +117,12 @@
     "language": "Chọn ngôn ngữ",
     "languageSearch": "Tìm ngôn ngữ",
     "languageEmpty": "Không có ngôn ngữ phù hợp",
-    "skipToPrompt": "Chuyển tới ô prompt"
+    "skipToPrompt": "Chuyển tới ô prompt",
+    "qq": "Nhóm QQ",
+    "lives": "Lives — Mô phỏng cuộc sống",
+    "learndata": "LearnData Ghi chú mã nguồn mở",
+    "primary": "Điều hướng chính",
+    "close": "Đóng"
   },
   "Guide": {
     "fallbackNotice": "Trang này chưa được dịch sang ngôn ngữ của bạn; đang hiển thị bản tiếng Anh."

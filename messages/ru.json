@@ -117,7 +117,12 @@
     "language": "Выбрать язык",
     "languageSearch": "Поиск языка",
     "languageEmpty": "Подходящих языков нет",
-    "skipToPrompt": "Перейти к полю промпта"
+    "skipToPrompt": "Перейти к полю промпта",
+    "qq": "Группа в QQ",
+    "lives": "Lives — Симулятор жизни",
+    "learndata": "LearnData Open-source заметки",
+    "primary": "Основная навигация",
+    "close": "Закрыть"
   },
   "Guide": {
     "fallbackNotice": "Эта страница ещё не переведена на ваш язык; показана английская версия."

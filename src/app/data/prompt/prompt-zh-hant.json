@@ -435,7 +435,7 @@
   },
   {
     "displayName": "cleric",
-    "langName": "神職人員(基督教)",
+    "langName": "聖職者 / 牧師",
     "object": "人物",
     "attribute": "身份",
     "preview": "https://img.aishort.top/imgprompt/20260208072159895.webp"
@@ -534,21 +534,21 @@
   },
   {
     "displayName": "crossdressing",
-    "langName": "僞娘（穿着與自己性別身份不相符的服裝）",
+    "langName": "異裝穿搭 / 偽裝穿搭",
     "object": "人物",
     "attribute": "身份",
     "preview": "https://img.aishort.top/imgprompt/20260209061704193.webp"
   },
   {
     "displayName": "otoko_no_ko",
-    "langName": "僞娘（外觀上表現出女性特徵的男性）",
+    "langName": "偽娘 / 男之娘",
     "object": "人物",
     "attribute": "身份",
     "preview": "https://img.aishort.top/imgprompt/20260208074725601.webp"
   },
   {
     "displayName": "gyaru",
-    "langName": "辣妹(日本太妹)",
+    "langName": "辣妹",
     "object": "人物",
     "attribute": "身份",
     "preview": "https://img.aishort.top/imgprompt/20260210193812753.webp"
@@ -562,14 +562,14 @@
   },
   {
     "displayName": "yaoi",
-    "langName": "搞基",
+    "langName": "耽美 / BL",
     "object": "人物",
     "attribute": "身份",
     "preview": "https://img.aishort.top/imgprompt/20260208074725603.webp"
   },
   {
     "displayName": "yuri",
-    "langName": "百合",
+    "langName": "百合 / GL",
     "object": "人物",
     "attribute": "身份",
     "preview": "https://img.aishort.top/imgprompt/20260209061704191.webp"
@@ -772,7 +772,7 @@
   },
   {
     "displayName": "elf",
-    "langName": "妖精",
+    "langName": "精靈/高等精靈",
     "object": "人物",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260209063126234.webp"
@@ -786,7 +786,7 @@
   },
   {
     "displayName": "fairy",
-    "langName": "小精靈",
+    "langName": "小仙子 / 精靈",
     "object": "人物",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260209063141969.webp"
@@ -828,14 +828,14 @@
   },
   {
     "displayName": "monster_girl",
-    "langName": "人外娘",
+    "langName": "魔物娘 / 人外娘",
     "object": "人物",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260209063226407.webp"
   },
   {
     "displayName": "dominatrix",
-    "langName": "女王(SM中)",
+    "langName": "女王 / 支配者",
     "object": "人物",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260209063233422.webp"
@@ -968,14 +968,14 @@
   },
   {
     "displayName": "horse_girl",
-    "langName": "馬娘",
+    "langName": "賽馬娘 / 馬娘",
     "object": "人物",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260210072537637.webp"
   },
   {
     "displayName": "furry",
-    "langName": "獸人",
+    "langName": "獸人 / 毛茸茸",
     "object": "人物",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260210072537632.webp"
@@ -1017,7 +1017,7 @@
   },
   {
     "displayName": "santa alter",
-    "langName": "聖誕老人",
+    "langName": "聖誕黑呆",
     "object": "人物",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260210072537639.webp"
@@ -1052,7 +1052,7 @@
   },
   {
     "displayName": "kindergartener",
-    "langName": "幼兒園",
+    "langName": "幼兒園兒童",
     "object": "人物",
     "attribute": "年齡",
     "preview": "https://img.aishort.top/imgprompt/20260210192804244.webp"
@@ -1073,14 +1073,14 @@
   },
   {
     "displayName": "early teen",
-    "langName": "青少年早期（11-15）",
+    "langName": "少年少女初期",
     "object": "人物",
     "attribute": "年齡",
     "preview": "https://img.aishort.top/imgprompt/20260210192804238.webp"
   },
   {
     "displayName": "teenager",
-    "langName": "青少年(13-19)",
+    "langName": "青少年",
     "object": "人物",
     "attribute": "年齡",
     "preview": "https://img.aishort.top/imgprompt/20260210192804240.webp"
@@ -1129,7 +1129,7 @@
   },
   {
     "displayName": "pale_skin",
-    "langName": "蒼白的皮膚(適合深色或鮮豔顏色的衣服)",
+    "langName": "蒼白皮膚 / 白皙膚色",
     "object": "人物",
     "attribute": "皮膚",
     "preview": "https://img.aishort.top/imgprompt/20260210193300398.webp"
@@ -1192,7 +1192,7 @@
   },
   {
     "displayName": "tanlines",
-    "langName": "日曬痕跡",
+    "langName": "曬痕 / 曬印",
     "object": "人物",
     "attribute": "皮膚",
     "preview": "https://img.aishort.top/imgprompt/20260210193621164.webp"
@@ -1318,7 +1318,7 @@
   },
   {
     "displayName": "(cleavage visible,large breasts)",
-    "langName": "巨乳（有乳溝）",
+    "langName": "巨乳（乳溝顯露）",
     "object": "人物",
     "attribute": "身材",
     "preview": "https://img.aishort.top/imgprompt/20260211065136926.webp"
@@ -1976,7 +1976,7 @@
   },
   {
     "displayName": "air bangs",
-    "langName": "空氣劉海",
+    "langName": "空氣瀏海",
     "object": "人物",
     "attribute": "髮型",
     "preview": "https://img.aishort.top/imgprompt/20260211135006710.webp"
@@ -2767,7 +2767,7 @@
   },
   {
     "displayName": "eye_relfection",
-    "langName": "眼球反射（瞳孔對光線的反應）",
+    "langName": "眼神光 / 眼部反光",
     "object": "人物",
     "attribute": "眼睛",
     "preview": "https://img.aishort.top/imgprompt/20260211141526968.webp"
@@ -3019,14 +3019,14 @@
   },
   {
     "displayName": "sanpaku",
-    "langName": "三白症(瞳孔偏移)",
+    "langName": "三白眼",
     "object": "人物",
     "attribute": "眼睛",
     "preview": "https://img.aishort.top/imgprompt/20260211142408606.webp"
   },
   {
     "displayName": "flaming_eye",
-    "langName": "焰目",
+    "langName": "火眼金睛/燃動的眼眸",
     "object": "人物",
     "attribute": "眼睛",
     "preview": "https://img.aishort.top/imgprompt/20260211142422174.webp"
@@ -3082,7 +3082,7 @@
   },
   {
     "displayName": "half_closed_eye",
-    "langName": "半閉的眼睛(單眼)",
+    "langName": "半睜半閉眼",
     "object": "人物",
     "attribute": "眼睛",
     "preview": "https://img.aishort.top/imgprompt/20260211142557836.webp"
@@ -3180,14 +3180,14 @@
   },
   {
     "displayName": "no_blindfold",
-    "langName": "去掉了(原設有的)矇眼要素",
+    "langName": "無眼罩 / 無蒙眼",
     "object": "人物",
     "attribute": "眼睛",
     "preview": "https://img.aishort.top/imgprompt/20260211220153156.webp"
   },
   {
     "displayName": "no_eyepatch",
-    "langName": "去掉了(原設有的)眼罩",
+    "langName": "無眼罩",
     "object": "人物",
     "attribute": "眼睛",
     "preview": "https://img.aishort.top/imgprompt/20260211142907966.webp"
@@ -3292,7 +3292,7 @@
   },
   {
     "displayName": "snake_pupils",
-    "langName": "蛇瞳（瞳孔閃光）",
+    "langName": "蛇瞳",
     "object": "人物",
     "attribute": "瞳孔",
     "preview": "https://img.aishort.top/imgprompt/20260317093813015.webp"
@@ -3670,7 +3670,7 @@
   },
   {
     "displayName": "gasping",
-    "langName": "喘氣（張大嘴）",
+    "langName": "微喘 / 倒吸冷氣",
     "object": "人物",
     "attribute": "嘴巴",
     "preview": "https://img.aishort.top/imgprompt/20260317100011869.webp"
@@ -3761,7 +3761,7 @@
   },
   {
     "displayName": "chestnut_mouth",
-    "langName": "栗子嘴",
+    "langName": "栗子嘴 / 三角嘴",
     "object": "人物",
     "attribute": "嘴巴",
     "preview": "https://img.aishort.top/imgprompt/20260211144640830.webp"
@@ -3901,7 +3901,7 @@
   },
   {
     "displayName": "mouth_drool",
-    "langName": "嘴角畫着口水滴形狀的缺口",
+    "langName": "嘴角流涎 / 口水滴",
     "object": "人物",
     "attribute": "嘴巴",
     "preview": "https://img.aishort.top/imgprompt/20260317100321880.webp"
@@ -4111,7 +4111,7 @@
   },
   {
     "displayName": "nail",
-    "langName": "釘子|指甲",
+    "langName": "指甲",
     "object": "人物",
     "attribute": "指甲",
     "preview": "https://img.aishort.top/imgprompt/20260211145741915.webp"
@@ -4167,42 +4167,42 @@
   },
   {
     "displayName": "flat chest",
-    "langName": "貧乳(A)",
+    "langName": "平胸 / 貧乳",
     "object": "人物",
     "attribute": "胸部",
     "preview": "https://img.aishort.top/imgprompt/20260212064123283.webp"
   },
   {
     "displayName": "small_breasts",
-    "langName": "小胸部(B)",
+    "langName": "小胸部",
     "object": "人物",
     "attribute": "胸部",
     "preview": "https://img.aishort.top/imgprompt/20260212071540871.webp"
   },
   {
     "displayName": "medium breasts",
-    "langName": "中等胸部(C)",
+    "langName": "中等胸部",
     "object": "人物",
     "attribute": "胸部",
     "preview": "https://img.aishort.top/imgprompt/20260212071540873.webp"
   },
   {
     "displayName": "big breasts",
-    "langName": "大胸部(D)",
+    "langName": "豐滿胸部",
     "object": "人物",
     "attribute": "胸部",
     "preview": "https://img.aishort.top/imgprompt/20260212071540872.webp"
   },
   {
     "displayName": "huge breasts",
-    "langName": "巨乳(E)",
+    "langName": "巨乳",
     "object": "人物",
     "attribute": "胸部",
     "preview": "https://img.aishort.top/imgprompt/20260212071540870.webp"
   },
   {
     "displayName": "gigantic breasts",
-    "langName": "超巨乳(F)",
+    "langName": "超巨乳",
     "object": "人物",
     "attribute": "胸部",
     "preview": "https://img.aishort.top/imgprompt/20260212071540874.webp"
@@ -4383,7 +4383,7 @@
   },
   {
     "displayName": "detached_wings",
-    "langName": "不與本體相連的翅膀",
+    "langName": "懸浮羽翼 / 分離翅膀",
     "object": "人物",
     "attribute": "翅膀",
     "preview": "https://img.aishort.top/imgprompt/20260211150537125.webp"
@@ -4453,7 +4453,7 @@
   },
   {
     "displayName": "no_wings",
-    "langName": "去掉了(原設有的)翅膀",
+    "langName": "無翅膀",
     "object": "人物",
     "attribute": "翅膀",
     "preview": "https://img.aishort.top/imgprompt/20260212072704705.webp"
@@ -4579,7 +4579,7 @@
   },
   {
     "displayName": "foral_background",
-    "langName": "花卉圖案裝飾的背景",
+    "langName": "花卉紋樣背景",
     "object": "環境",
     "attribute": "背景",
     "preview": "https://img.aishort.top/imgprompt/20260211151130102.webp"
@@ -4698,7 +4698,7 @@
   },
   {
     "displayName": "rounded_corners",
-    "langName": "背景或畫框是圓角",
+    "langName": "圓角邊框 / 圓角構圖",
     "object": "環境",
     "attribute": "背景",
     "preview": "https://img.aishort.top/imgprompt/20260211151506847.webp"
@@ -4712,7 +4712,7 @@
   },
   {
     "displayName": "outside_border",
-    "langName": "一部分畫到了背景框外",
+    "langName": "破框構圖 / 越界畫面",
     "object": "環境",
     "attribute": "背景",
     "preview": "https://img.aishort.top/imgprompt/20260211151532945.webp"
@@ -4726,7 +4726,7 @@
   },
   {
     "displayName": "windowboxed",
-    "langName": "套着畫框(背景)",
+    "langName": "畫框構圖 / 視窗黑邊",
     "object": "環境",
     "attribute": "背景",
     "preview": "https://img.aishort.top/imgprompt/20260211151559726.webp"
@@ -4929,7 +4929,7 @@
   },
   {
     "displayName": "beautiful detailed sky,beautiful detailed water",
-    "langName": "好天好水",
+    "langName": "水天一色 / 碧海藍天",
     "object": "環境",
     "attribute": "大自然",
     "preview": "https://img.aishort.top/imgprompt/20260211152348882.webp"
@@ -4992,7 +4992,7 @@
   },
   {
     "displayName": "Dreamy forest",
-    "langName": "夢幻之森(虛幻感.光粒子幽靜)",
+    "langName": "夢幻森林",
     "object": "環境",
     "attribute": "大自然",
     "preview": "https://img.aishort.top/imgprompt/20260211152548353.webp"
@@ -5293,7 +5293,7 @@
   },
   {
     "displayName": "star_(sky)",
-    "langName": "星星(天空中的)",
+    "langName": "繁星 / 星空",
     "object": "環境",
     "attribute": "天空",
     "preview": "https://img.aishort.top/imgprompt/20260211153554967.webp"
@@ -5923,7 +5923,7 @@
   },
   {
     "displayName": "rappelling",
-    "langName": "拉平（懸掛）",
+    "langName": "繩降 / 索降",
     "object": "環境",
     "attribute": "室外",
     "preview": "https://img.aishort.top/imgprompt/20260211155514112.webp"
@@ -6952,7 +6952,7 @@
   },
   {
     "displayName": "yes-no_pillow",
-    "langName": "Yes/No枕頭",
+    "langName": "是/否雙面枕頭",
     "object": "環境",
     "attribute": "床上用品",
     "preview": "https://img.aishort.top/imgprompt/20260211162734441.webp"
@@ -7589,7 +7589,7 @@
   },
   {
     "displayName": "school_bag",
-    "langName": "上學包(手提包)",
+    "langName": "學生書包 / 學生提包",
     "object": "物品",
     "attribute": "學習用品",
     "preview": "https://img.aishort.top/imgprompt/20260211164633641.webp"
@@ -7820,14 +7820,14 @@
   },
   {
     "displayName": "diamond_(shape)",
-    "langName": "鑽石（形狀）",
+    "langName": "菱形 / 鑽石形",
     "object": "物品",
     "attribute": "其它物品",
     "preview": "https://img.aishort.top/imgprompt/20260211165329674.webp"
   },
   {
     "displayName": "chibi_inset",
-    "langName": "赤壁插圖",
+    "langName": "Q版畫中畫 / 迷你角色插圖",
     "object": "物品",
     "attribute": "其它物品",
     "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
@@ -7932,7 +7932,7 @@
   },
   {
     "displayName": "sword",
-    "langName": "刀",
+    "langName": "刀劍/寶劍",
     "object": "物品",
     "attribute": "武器",
     "preview": "https://img.aishort.top/imgprompt/20260211165652659.webp"
@@ -7960,7 +7960,7 @@
   },
   {
     "displayName": "saber_(weapon)",
-    "langName": "軍刀(武器)",
+    "langName": "軍刀 / 佩劍",
     "object": "物品",
     "attribute": "武器",
     "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
@@ -7988,7 +7988,7 @@
   },
   {
     "displayName": "stake",
-    "langName": "棍子",
+    "langName": "尖木樁 / 木樁武器",
     "object": "物品",
     "attribute": "武器",
     "preview": "https://img.aishort.top/imgprompt/20260211165832380.webp"
@@ -8030,7 +8030,7 @@
   },
   {
     "displayName": "claw_(weapon)",
-    "langName": "爪(武器)",
+    "langName": "利爪武器 / 鐵爪",
     "object": "物品",
     "attribute": "武器",
     "preview": "https://img.aishort.top/imgprompt/20260211165949084.webp"
@@ -8065,7 +8065,7 @@
   },
   {
     "displayName": "magazine_(weapon)",
-    "langName": "彈匣(武器)",
+    "langName": "彈匣",
     "object": "物品",
     "attribute": "武器",
     "preview": "https://img.aishort.top/imgprompt/20260211170050212.webp"
@@ -9563,7 +9563,7 @@
   },
   {
     "displayName": "the_pose",
-    "langName": "趴在地上並翹起腳",
+    "langName": "經典趴姿翹腳",
     "object": "動作",
     "attribute": "基本姿態",
     "preview": "https://img.aishort.top/imgprompt/20260211174615259.webp"
@@ -9591,14 +9591,14 @@
   },
   {
     "displayName": "fetal_position",
-    "langName": "胎兒姿勢(躺)",
+    "langName": "蜷縮姿勢 / 胎兒臥姿",
     "object": "動作",
     "attribute": "基本姿態",
     "preview": "https://img.aishort.top/imgprompt/20260211174706202.webp"
   },
   {
     "displayName": "against_glass",
-    "langName": "倚靠玻璃",
+    "langName": "貼靠玻璃 / 倚靠玻璃",
     "object": "動作",
     "attribute": "基本姿態",
     "preview": "https://img.aishort.top/imgprompt/20260211174718789.webp"
@@ -9612,7 +9612,7 @@
   },
   {
     "displayName": "presenting",
-    "langName": "展示（後接部位）",
+    "langName": "展示姿勢",
     "object": "動作",
     "attribute": "基本姿態",
     "preview": "https://img.aishort.top/imgprompt/20260211174744336.webp"
@@ -9675,7 +9675,7 @@
   },
   {
     "displayName": "eye_contact",
-    "langName": "眼神接觸（對視）",
+    "langName": "眼神對視 / 凝視鏡頭",
     "object": "動作",
     "attribute": "眼神表情",
     "preview": "https://img.aishort.top/imgprompt/20260211174937637.webp"
@@ -9836,7 +9836,7 @@
   },
   {
     "displayName": "aiming_at_viewer",
-    "langName": "瞄準了讀者(的視角)",
+    "langName": "對準鏡頭 / 瞄準觀眾",
     "object": "動作",
     "attribute": "眼神表情",
     "preview": "https://img.aishort.top/imgprompt/20260211175428502.webp"
@@ -9934,7 +9934,7 @@
   },
   {
     "displayName": "hands_clasped",
-    "langName": "雙手手指交叉|雙手緊握",
+    "langName": "雙手手指交叉 / 雙手相扣",
     "object": "動作",
     "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
@@ -9969,7 +9969,7 @@
   },
   {
     "displayName": "hands_in_opposite_sleeves",
-    "langName": "雙手交叉伸進袖子裏",
+    "langName": "抱袖 / 袖中插手",
     "object": "動作",
     "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
@@ -10095,7 +10095,7 @@
   },
   {
     "displayName": "covering_xx",
-    "langName": "遮蓋xx",
+    "langName": "遮擋特定部位",
     "object": "動作",
     "attribute": "手臂動作",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
@@ -10172,14 +10172,14 @@
   },
   {
     "displayName": "waving",
-    "langName": "揮手(打招呼/告別)",
+    "langName": "揮手 / 招手",
     "object": "動作",
     "attribute": "手勢表達",
     "preview": "https://img.aishort.top/imgprompt/20260211180434501.webp"
   },
   {
     "displayName": "pointing_at_viewer",
-    "langName": "指向看圖的人",
+    "langName": "指向鏡頭 / 指向觀眾",
     "object": "動作",
     "attribute": "手勢表達",
     "preview": "https://img.aishort.top/imgprompt/20260211180447245.webp"
@@ -10249,7 +10249,7 @@
   },
   {
     "displayName": "reaching",
-    "langName": "(有目的地)伸手",
+    "langName": "伸手 / 伸出雙手",
     "object": "動作",
     "attribute": "手勢表達",
     "preview": "https://img.aishort.top/imgprompt/20260211180655272.webp"
@@ -10312,7 +10312,7 @@
   },
   {
     "displayName": "paw_pose",
-    "langName": "招財貓手勢(下彎手腕)",
+    "langName": "貓爪手勢 / 招財貓手勢",
     "object": "動作",
     "attribute": "手勢表達",
     "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
@@ -10347,7 +10347,7 @@
   },
   {
     "displayName": "fingersmile",
-    "langName": "用手指做出笑臉",
+    "langName": "手指推嘴角笑",
     "object": "動作",
     "attribute": "手勢表達",
     "preview": "https://img.aishort.top/imgprompt/20260211180951696.webp"
@@ -10634,7 +10634,7 @@
   },
   {
     "displayName": "holding_eyewear",
-    "langName": "拿着眼鏡|正在摘眼鏡",
+    "langName": "手扶眼鏡 / 摘戴眼鏡",
     "object": "動作",
     "attribute": "持物動作",
     "preview": "https://img.aishort.top/imgprompt/20260211181827087.webp"
@@ -10956,21 +10956,21 @@
   },
   {
     "displayName": "hands_on_another's",
-    "langName": "雙手放在別人的臉上",
+    "langName": "雙手撫他人臉",
     "object": "動作",
     "attribute": "擁抱抓握",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
-    "langName": "雙手放在對方的臉頰上",
+    "langName": "雙手托對方臉頰",
     "object": "動作",
     "attribute": "擁抱抓握",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
-    "langName": "雙手放在別人的肩膀上",
+    "langName": "雙手搭對方肩膀",
     "object": "動作",
     "attribute": "擁抱抓握",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
@@ -11068,7 +11068,7 @@
   },
   {
     "displayName": "grabbing_from_behind",
-    "langName": "從背後揉胸|從背後抓住胸部",
+    "langName": "背後襲胸 / 背後抓胸",
     "object": "動作",
     "attribute": "擁抱抓握",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
@@ -11110,14 +11110,14 @@
   },
   {
     "displayName": "hands_on_headwear",
-    "langName": "雙手碰到頭上的飾物",
+    "langName": "雙手扶頭飾",
     "object": "動作",
     "attribute": "擁抱抓握",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
-    "langName": "雙手搭在刀柄上",
+    "langName": "雙手按刀柄",
     "object": "動作",
     "attribute": "擁抱抓握",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
@@ -11131,7 +11131,7 @@
   },
   {
     "displayName": "neckwear_grab",
-    "langName": "抓着頸部的衣服",
+    "langName": "抓扯衣領",
     "object": "動作",
     "attribute": "擁抱抓握",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
@@ -11173,7 +11173,7 @@
   },
   {
     "displayName": "hand_in_another's_hair",
-    "langName": "手放在對方的頭髮上",
+    "langName": "撫摸對方頭髮",
     "object": "動作",
     "attribute": "擁抱抓握",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
@@ -11208,35 +11208,35 @@
   },
   {
     "displayName": "hand_on_another's_chest",
-    "langName": "手放在對方的胸前",
+    "langName": "手撫對方胸口",
     "object": "動作",
     "attribute": "擁抱抓握",
     "preview": "https://img.aishort.top/imgprompt/20260211183718013.webp"
   },
   {
     "displayName": "hand_on_another's_chin",
-    "langName": "手託着對方的下巴",
+    "langName": "手托對方下巴",
     "object": "動作",
     "attribute": "擁抱抓握",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
   },
   {
     "displayName": "hand_on_another's_head",
-    "langName": "手放在對方的頭上",
+    "langName": "手撫對方頭部",
     "object": "動作",
     "attribute": "擁抱抓握",
     "preview": "https://img.aishort.top/imgprompt/20260211183743006.webp"
   },
   {
     "displayName": "hand_on_another's_shoulder",
-    "langName": "手放在對方的肩上",
+    "langName": "手搭對方肩膀",
     "object": "動作",
     "attribute": "擁抱抓握",
     "preview": "https://img.aishort.top/imgprompt/20260211183755722.webp"
   },
   {
     "displayName": "hand_on_another's_stomach",
-    "langName": "手放在對方的肚子上",
+    "langName": "手撫對方腹部",
     "object": "動作",
     "attribute": "擁抱抓握",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
@@ -11264,7 +11264,7 @@
   },
   {
     "displayName": "hand_on_hilt",
-    "langName": "手擱在刀柄上",
+    "langName": "單手按刀柄",
     "object": "動作",
     "attribute": "擁抱抓握",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
@@ -11404,14 +11404,14 @@
   },
   {
     "displayName": "standing_split",
-    "langName": "站立劈叉|站立高抬腿",
+    "langName": "站立一字馬 / 站立劈叉",
     "object": "動作",
     "attribute": "腿腳動作",
     "preview": "https://img.aishort.top/imgprompt/20260211184306372.webp"
   },
   {
     "displayName": "curtsy",
-    "langName": "屈膝禮（女僕行禮）",
+    "langName": "屈膝禮",
     "object": "動作",
     "attribute": "腿腳動作",
     "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
@@ -11502,7 +11502,7 @@
   },
   {
     "displayName": "folded",
-    "langName": "抬腿露陰",
+    "langName": "屈膝抱腿坐姿",
     "object": "動作",
     "attribute": "腿腳動作",
     "preview": "https://img.aishort.top/imgprompt/20260211184601937.webp"
@@ -11544,7 +11544,7 @@
   },
   {
     "displayName": "k/da_(league_of_legends)",
-    "langName": "KDA組合(英雄聯盟)",
+    "langName": "K/DA 偶像女團（LOL）",
     "object": "動作",
     "attribute": "腿腳動作",
     "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
@@ -11705,14 +11705,14 @@
   },
   {
     "displayName": "tail_between_legs",
-    "langName": "尾巴蜷到兩腿之間",
+    "langName": "夾緊尾巴 / 尾夾兩腿間",
     "object": "動作",
     "attribute": "腿腳動作",
     "preview": "https://img.aishort.top/imgprompt/20260225100419147.webp"
   },
   {
     "displayName": "covering",
-    "langName": "遮蓋的動作",
+    "langName": "遮掩動作 / 護胸遮羞",
     "object": "動作",
     "attribute": "身體觸碰",
     "preview": "https://img.aishort.top/imgprompt/20260211185216454.webp"
@@ -11922,14 +11922,14 @@
   },
   {
     "displayName": "spitting",
-    "langName": "從嘴裏吐出液體的動作",
+    "langName": "吐出液體 / 吐水",
     "object": "動作",
     "attribute": "身體反應",
     "preview": "https://img.aishort.top/imgprompt/20260211185836921.webp"
   },
   {
     "displayName": "spilling",
-    "langName": "從容器中倒出液體的動作",
+    "langName": "潑灑液體 / 傾倒",
     "object": "動作",
     "attribute": "身體反應",
     "preview": "https://img.aishort.top/imgprompt/20260211185849710.webp"
@@ -12006,7 +12006,7 @@
   },
   {
     "displayName": "dropping",
-    "langName": "(意外)掉落",
+    "langName": "脫手跌落 / 掉落",
     "object": "動作",
     "attribute": "身體反應",
     "preview": "https://img.aishort.top/imgprompt/20260211190102259.webp"
@@ -12055,7 +12055,7 @@
   },
   {
     "displayName": "lifted_by_another",
-    "langName": "被對方掀起衣物",
+    "langName": "被他人掀衣",
     "object": "動作",
     "attribute": "身體反應",
     "preview": "https://img.aishort.top/imgprompt/20260211190232075.webp"
@@ -12111,7 +12111,7 @@
   },
   {
     "displayName": "drying",
-    "langName": "弄乾(浴後)",
+    "langName": "擦拭身體 / 擦乾",
     "object": "動作",
     "attribute": "生活起居",
     "preview": "https://img.aishort.top/imgprompt/20260211190415978.webp"
@@ -12132,7 +12132,7 @@
   },
   {
     "displayName": "sweeping",
-    "langName": "清掃|掃除（家務）",
+    "langName": "打掃 / 掃地",
     "object": "動作",
     "attribute": "生活起居",
     "preview": "https://img.aishort.top/imgprompt/20260211190452774.webp"
@@ -12258,7 +12258,7 @@
   },
   {
     "displayName": "sleeping_upright",
-    "langName": "(不躺着)睡覺|直立睡覺",
+    "langName": "坐著睡 / 靠立入睡",
     "object": "動作",
     "attribute": "生活起居",
     "preview": "https://img.aishort.top/imgprompt/20260211190844518.webp"
@@ -12412,14 +12412,14 @@
   },
   {
     "displayName": "shared_food",
-    "langName": "共享食物|用嘴遞食物",
+    "langName": "共享食物 / 互餵美食",
     "object": "動作",
     "attribute": "情感互動",
     "preview": "https://img.aishort.top/imgprompt/20260211191325544.webp"
   },
   {
     "displayName": "shared_bathing",
-    "langName": "共浴|鴛鴦浴",
+    "langName": "一同沐浴 / 鴛鴦浴",
     "object": "動作",
     "attribute": "情感互動",
     "preview": "https://img.aishort.top/imgprompt/20260211191338217.webp"
@@ -12461,14 +12461,14 @@
   },
   {
     "displayName": "asymmetrical_docking",
-    "langName": "胸部互碰|胸頂着胸",
+    "langName": "貼胸互動",
     "object": "動作",
     "attribute": "情感互動",
     "preview": "https://img.aishort.top/imgprompt/20260211191454771.webp"
   },
   {
     "displayName": "special_feeling_(meme)",
-    "langName": "雪中打傘的戀人梗",
+    "langName": "雪中撐傘戀人梗",
     "object": "動作",
     "attribute": "情感互動",
     "preview": "https://img.aishort.top/imgprompt/20260211191507001.webp"
@@ -12608,7 +12608,7 @@
   },
   {
     "displayName": "wrestling",
-    "langName": "摔角(運動)",
+    "langName": "摔跤 / 摔角",
     "object": "動作",
     "attribute": "運動健身",
     "preview": "https://img.aishort.top/imgprompt/20260211191925002.webp"
@@ -12818,7 +12818,7 @@
   },
   {
     "displayName": "skirt_flip",
-    "langName": "被掀起裙子(含突發情況意義)",
+    "langName": "掀裙 / 裙擺被掀",
     "object": "動作",
     "attribute": "服裝整理",
     "preview": "https://img.aishort.top/imgprompt/20260317125226840.webp"
@@ -12895,7 +12895,7 @@
   },
   {
     "displayName": "tying",
-    "langName": "打結(動作)",
+    "langName": "繫帶 / 打結",
     "object": "動作",
     "attribute": "服裝整理",
     "preview": "https://img.aishort.top/imgprompt/20260211192806302.webp"
@@ -12930,7 +12930,7 @@
   },
   {
     "displayName": "pulled_by_another",
-    "langName": "被另一個人拉(或拉衣物)",
+    "langName": "被他人拉扯",
     "object": "動作",
     "attribute": "服裝整理",
     "preview": "https://img.aishort.top/imgprompt/20260317125423077.webp"
@@ -12993,7 +12993,7 @@
   },
   {
     "displayName": "holding_bow_(weapon)",
-    "langName": "拿着弓(武器)",
+    "langName": "持弓",
     "object": "動作",
     "attribute": "武器裝備",
     "preview": "https://img.aishort.top/imgprompt/20260211193102894.webp"
@@ -13412,7 +13412,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211194606041.webp"
   },
   {
-    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset)),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
+    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset))),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
     "langName": "黃昏法",
     "object": "動作",
     "attribute": "魔法",
@@ -13525,7 +13525,7 @@
   },
   {
     "displayName": "((full body)),(helpless),tear,crying,(((((falling from the sky))))),((Weathering With You)),((falling)),((face towards the sky)),(hair flows upwards),((disheveled hair)),(1 girl),floating,beautiful detailed sky",
-    "langName": "墜落法",
+    "langName": "高空墜落構圖（天氣之子風）",
     "object": "動作",
     "attribute": "魔法",
     "preview": "https://img.aishort.top/imgprompt/20260211194938656.webp"
@@ -13727,7 +13727,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195607630.webp"
   },
   {
-    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood))),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
+    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood)),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
     "langName": "血改法",
     "object": "動作",
     "attribute": "魔法",
@@ -14002,7 +14002,7 @@
   },
   {
     "displayName": "disgust",
-    "langName": "厭惡(看垃圾一樣的眼神)",
+    "langName": "厭惡 / 蔑視",
     "object": "表情",
     "attribute": "蔑視",
     "preview": "https://img.aishort.top/imgprompt/20260317071358725.webp"
@@ -14023,7 +14023,7 @@
   },
   {
     "displayName": "shaded_face",
-    "langName": "臉上有陰影，配合蔑視",
+    "langName": "面部陰影 / 陰沉臉",
     "object": "表情",
     "attribute": "蔑視",
     "preview": "https://img.aishort.top/imgprompt/20260212085009132.webp"
@@ -14044,7 +14044,7 @@
   },
   {
     "displayName": "wince",
-    "langName": "皺眉蹙額(性交前)",
+    "langName": "吃痛皺眉 / 蹙眉畏縮",
     "object": "表情",
     "attribute": "蔑視",
     "preview": "https://img.aishort.top/imgprompt/20260212085045682.webp"
@@ -14079,7 +14079,7 @@
   },
   {
     "displayName": "serious",
-    "langName": "嚴肅的（和angry有點像）",
+    "langName": "嚴肅凝重",
     "object": "表情",
     "attribute": "生氣",
     "preview": "https://img.aishort.top/imgprompt/20260212085145957.webp"
@@ -14163,7 +14163,7 @@
   },
   {
     "displayName": "embarrass",
-    "langName": "害羞的(尷尬的)",
+    "langName": "羞怯尷尬",
     "object": "表情",
     "attribute": "其他表情",
     "preview": "https://img.aishort.top/imgprompt/20260212085408608.webp"
@@ -14380,7 +14380,7 @@
   },
   {
     "displayName": "torogao",
-    "langName": "眼神迷離、瞳孔微微放大",
+    "langName": "恍惚迷離臉",
     "object": "表情",
     "attribute": "其他表情",
     "preview": "https://img.aishort.top/imgprompt/20260228103646110.webp"
@@ -14702,7 +14702,7 @@
   },
   {
     "displayName": "hanten_clothes",
-    "langName": "袢纏(日式)",
+    "langName": "半纏 / 袢纏（日式冬裝）",
     "object": "服飾",
     "attribute": "服飾風格",
     "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
@@ -14716,7 +14716,7 @@
   },
   {
     "displayName": "furisode",
-    "langName": "振袖(和服的一部份)",
+    "langName": "振袖（長袖和服）",
     "object": "服飾",
     "attribute": "服飾風格",
     "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
@@ -14744,7 +14744,7 @@
   },
   {
     "displayName": "uchikake",
-    "langName": "白無垢(日式嫁衣)",
+    "langName": "打褂 / 白無垢（日式嫁衣）",
     "object": "服飾",
     "attribute": "服飾風格",
     "preview": "https://img.aishort.top/imgprompt/20260212110020279.webp"
@@ -14800,7 +14800,7 @@
   },
   {
     "displayName": "Ao_Dai",
-    "langName": "越南服飾（奧黛）",
+    "langName": "奧黛（越南國服）",
     "object": "服飾",
     "attribute": "服飾風格",
     "preview": "https://img.aishort.top/imgprompt/20260212112032273.webp"
@@ -14947,14 +14947,14 @@
   },
   {
     "displayName": "alternate_costume",
-    "langName": "不同於角色原本造型的替代服裝",
+    "langName": "替代服裝 / 異色換裝",
     "object": "服飾",
     "attribute": "服飾風格",
     "preview": "https://img.aishort.top/imgprompt/20260212120626953.webp"
   },
   {
     "displayName": "costume_switch",
-    "langName": "換衣play",
+    "langName": "換裝互穿 / 衣裝互換",
     "object": "服飾",
     "attribute": "服飾風格",
     "preview": "https://img.aishort.top/imgprompt/20260212120842799.webp"
@@ -15164,7 +15164,7 @@
   },
   {
     "displayName": "evening_gown",
-    "langName": "長禮服（長至腳踝的女性禮服）",
+    "langName": "晚禮服 / 長款禮服",
     "object": "服飾",
     "attribute": "正裝",
     "preview": "https://img.aishort.top/imgprompt/20260212125805414.webp"
@@ -15206,7 +15206,7 @@
   },
   {
     "displayName": "serafuku",
-    "langName": "水手服（校服）",
+    "langName": "水手服",
     "object": "服飾",
     "attribute": "正裝",
     "preview": "https://img.aishort.top/imgprompt/20260212130530516.webp"
@@ -15542,7 +15542,7 @@
   },
   {
     "displayName": "school_swimsuit",
-    "langName": "學校泳裝（死庫水）",
+    "langName": "死庫水 / 學校泳裝",
     "object": "服飾",
     "attribute": "泳裝",
     "preview": "https://img.aishort.top/imgprompt/20260225102036109.webp"
@@ -15605,7 +15605,7 @@
   },
   {
     "displayName": "swimsuit_of_perpetual_summer",
-    "langName": "常夏的泳衣(fgo學妹靈衣)",
+    "langName": "常夏的泳裝（瑪修靈衣）",
     "object": "服飾",
     "attribute": "泳裝",
     "preview": "https://img.aishort.top/imgprompt/20260317071630637.webp"
@@ -15878,14 +15878,14 @@
   },
   {
     "displayName": "swimsuit_aside",
-    "langName": "把泳衣的襠部挪到一邊",
+    "langName": "泳衣撥檔 / 側移泳褲",
     "object": "服飾",
     "attribute": "泳裝",
     "preview": "https://img.aishort.top/imgprompt/20260212152012611.webp"
   },
   {
     "displayName": "swimsuit_under_clothes",
-    "langName": "衣服裏面穿着泳衣",
+    "langName": "內著泳裝 / 衣內穿泳裝",
     "object": "服飾",
     "attribute": "泳裝",
     "preview": "https://img.aishort.top/imgprompt/20260317072817093.webp"
@@ -16424,7 +16424,7 @@
   },
   {
     "displayName": "short sleeve T-shirts",
-    "langName": "短袖T恤(搭肩衫)",
+    "langName": "短袖T恤",
     "object": "服飾",
     "attribute": "上衣",
     "preview": "https://img.aishort.top/imgprompt/20260213063027450.webp"
@@ -16466,7 +16466,7 @@
   },
   {
     "displayName": "tank_top",
-    "langName": "背心(居家)",
+    "langName": "跨欄背心 / 吊帶背心",
     "object": "服飾",
     "attribute": "上衣",
     "preview": "https://img.aishort.top/imgprompt/20260213064156253.webp"
@@ -16494,7 +16494,7 @@
   },
   {
     "displayName": "vest",
-    "langName": "背心(正式)",
+    "langName": "正裝西裝馬甲",
     "object": "服飾",
     "attribute": "上衣",
     "preview": "https://img.aishort.top/imgprompt/20260213064408586.webp"
@@ -16508,7 +16508,7 @@
   },
   {
     "displayName": "waistcoat",
-    "langName": "馬甲(正式)",
+    "langName": "英式西服背心",
     "object": "服飾",
     "attribute": "上衣",
     "preview": "https://img.aishort.top/imgprompt/20260213064435011.webp"
@@ -16599,7 +16599,7 @@
   },
   {
     "displayName": "kappougi",
-    "langName": "(烹飪時穿的)罩衫",
+    "langName": "割烹著（日式料理圍裙）",
     "object": "服飾",
     "attribute": "上衣",
     "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
@@ -16662,7 +16662,7 @@
   },
   {
     "displayName": "tied_shirt",
-    "langName": "繫帶襯衫(把衣角和下擺打結)",
+    "langName": "衣角打結襯衫 / 綁帶襯衫",
     "object": "服飾",
     "attribute": "上衣",
     "preview": "https://img.aishort.top/imgprompt/20260213070412064.webp"
@@ -16746,7 +16746,7 @@
   },
   {
     "displayName": "button_gap",
-    "langName": "紐扣之間的縫隙(沒解開)",
+    "langName": "胸前鈕扣繃開縫隙",
     "object": "服飾",
     "attribute": "上衣",
     "preview": "https://img.aishort.top/imgprompt/20260213071455826.webp"
@@ -16879,21 +16879,21 @@
   },
   {
     "displayName": "strap_slip",
-    "langName": "肩帶滑落(導致走光)",
+    "langName": "肩帶滑落",
     "object": "服飾",
     "attribute": "上衣",
     "preview": "https://img.aishort.top/imgprompt/20260228101844680.webp"
   },
   {
     "displayName": "wedgie",
-    "langName": "嵌入(拉襠部衣物所致)",
+    "langName": "勒入衣物 / 卡襠",
     "object": "服飾",
     "attribute": "上衣",
     "preview": "https://img.aishort.top/imgprompt/20260225103744943.webp"
   },
   {
     "displayName": "wardrobe_malfunction",
-    "langName": "衣服出了意外(如崩開)",
+    "langName": "衣裝破損走光 / 衣服崩開",
     "object": "服飾",
     "attribute": "上衣",
     "preview": "https://img.aishort.top/imgprompt/20260213075235531.webp"
@@ -16984,7 +16984,7 @@
   },
   {
     "displayName": "double-breasted",
-    "langName": "雙排紐扣(雙排扣",
+    "langName": "雙排扣",
     "object": "服飾",
     "attribute": "外套",
     "preview": "https://img.aishort.top/imgprompt/20260213075715469.webp"
@@ -17054,7 +17054,7 @@
   },
   {
     "displayName": "jacket_partially_removed",
-    "langName": "夾克已被部分脫下",
+    "langName": "半褪外套 / 夾克半脫",
     "object": "服飾",
     "attribute": "外套",
     "preview": "https://img.aishort.top/imgprompt/20260213081023629.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "開襟夾克（配合張開腿）",
+    "langName": "敞開外套 / 開襟夾克",
     "object": "服飾",
     "attribute": "外套",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -18048,7 +18048,7 @@
   },
   {
     "displayName": "corset",
-    "langName": "束腰(馬甲)",
+    "langName": "緊身胸衣 / 束腰馬甲",
     "object": "服飾",
     "attribute": "腰部",
     "preview": "https://img.aishort.top/imgprompt/20260225104053785.webp"
@@ -18097,7 +18097,7 @@
   },
   {
     "displayName": "kusazuri",
-    "langName": "腹當|草摺(日式下半盔甲",
+    "langName": "草摺 / 腹當（日系裙甲）",
     "object": "服飾",
     "attribute": "盔甲",
     "preview": "https://img.aishort.top/imgprompt/20260213115508736.webp"
@@ -18118,7 +18118,7 @@
   },
   {
     "displayName": "kabuto",
-    "langName": "頭盔(日式)",
+    "langName": "武士兜 / 武士頭盔",
     "object": "服飾",
     "attribute": "盔甲",
     "preview": "https://img.aishort.top/imgprompt/20260213115548290.webp"
@@ -18132,7 +18132,7 @@
   },
   {
     "displayName": "shoulder_armor",
-    "langName": "肩甲",
+    "langName": "護肩 / 肩甲",
     "object": "服飾",
     "attribute": "盔甲",
     "preview": "https://img.aishort.top/imgprompt/20260213115612426.webp"
@@ -18153,14 +18153,14 @@
   },
   {
     "displayName": "faulds",
-    "langName": "腹甲",
+    "langName": "腹甲 / 裙甲（腰甲）",
     "object": "服飾",
     "attribute": "盔甲",
     "preview": "https://img.aishort.top/imgprompt/20260213115855297.webp"
   },
   {
     "displayName": "greaves",
-    "langName": "脛甲",
+    "langName": "脛甲 / 護脛",
     "object": "服飾",
     "attribute": "盔甲",
     "preview": "https://img.aishort.top/imgprompt/20260213115908428.webp"
@@ -18237,7 +18237,7 @@
   },
   {
     "displayName": "sundress",
-    "langName": "吊帶連衣裙（大熱天穿的無袖連衣裙）",
+    "langName": "太陽裙 / 夏日吊帶裙",
     "object": "服飾",
     "attribute": "裙子",
     "preview": "https://img.aishort.top/imgprompt/20260213121003959.webp"
@@ -18342,7 +18342,7 @@
   },
   {
     "displayName": "impossible_dress",
-    "langName": "過分緊身的衣服",
+    "langName": "超緊身真空勾勒裙",
     "object": "服飾",
     "attribute": "裙子",
     "preview": "https://img.aishort.top/imgprompt/20260213122932976.webp"
@@ -18454,14 +18454,14 @@
   },
   {
     "displayName": "ballgown",
-    "langName": "蓬蓬裙(禮服)",
+    "langName": "舞會大禮服 / 蓬蓬大擺裙",
     "object": "服飾",
     "attribute": "裙子",
     "preview": "https://img.aishort.top/imgprompt/20260213123502356.webp"
   },
   {
     "displayName": "pettiskirt",
-    "langName": "蓬蓬裙(兒童)",
+    "langName": "蕾絲蓬蓬裙",
     "object": "服飾",
     "attribute": "裙子",
     "preview": "https://img.aishort.top/imgprompt/20260213123515479.webp"
@@ -18811,14 +18811,14 @@
   },
   {
     "displayName": "dolphin_shorts",
-    "langName": "海豚短褲(真理褲)",
+    "langName": "海豚短褲（真理褲）",
     "object": "服飾",
     "attribute": "褲子",
     "preview": "https://img.aishort.top/imgprompt/20260213134352207.webp"
   },
   {
     "displayName": "dolfin_shorts",
-    "langName": "海豚短褲(真理褲)",
+    "langName": "海豚短褲（真理褲）",
     "object": "服飾",
     "attribute": "褲子",
     "preview": "https://img.aishort.top/imgprompt/20260213134404755.webp"
@@ -18832,7 +18832,7 @@
   },
   {
     "displayName": "crotchless_pants",
-    "langName": "無襠褲（緊身）",
+    "langName": "開襠長褲 / 無襠褲",
     "object": "服飾",
     "attribute": "褲子",
     "preview": "https://img.aishort.top/imgprompt/20260213134430564.webp"
@@ -18937,14 +18937,14 @@
   },
   {
     "displayName": "chaps",
-    "langName": "皮套褲(上寬下窄",
+    "langName": "查普斯皮套褲",
     "object": "服飾",
     "attribute": "褲子",
     "preview": "https://img.aishort.top/imgprompt/20260213134945047.webp"
   },
   {
     "displayName": "jumpsuit",
-    "langName": "(尤指女式)連衫褲",
+    "langName": "連體工裝褲 / 連體衣",
     "object": "服飾",
     "attribute": "褲子",
     "preview": "https://img.aishort.top/imgprompt/20260213134957992.webp"
@@ -18979,7 +18979,7 @@
   },
   {
     "displayName": "leotard_aside",
-    "langName": "把連衣褲襠部剝到一邊",
+    "langName": "緊身連體衣撥開",
     "object": "服飾",
     "attribute": "褲子",
     "preview": "https://img.aishort.top/imgprompt/20260213135915193.webp"
@@ -19147,14 +19147,14 @@
   },
   {
     "displayName": "legwear",
-    "langName": "褲襪(泛指褲襪或長筒襪)",
+    "langName": "腿襪 / 連褲襪",
     "object": "服飾",
     "attribute": "襪子",
     "preview": "https://img.aishort.top/imgprompt/20260225104603819.webp"
   },
   {
     "displayName": "thighhighs",
-    "langName": "長筒襪(過膝高筒襪)",
+    "langName": "過膝長襪（絕對領域）",
     "object": "服飾",
     "attribute": "襪子",
     "preview": "https://img.aishort.top/imgprompt/20260213142506603.webp"
@@ -19217,7 +19217,7 @@
   },
   {
     "displayName": "pantylines",
-    "langName": "緊緻的褲襪(勾勒出線條)",
+    "langName": "內褲痕 / 胖次勒痕",
     "object": "服飾",
     "attribute": "襪子",
     "preview": "https://img.aishort.top/imgprompt/20260317074408132.webp"
@@ -19357,7 +19357,7 @@
   },
   {
     "displayName": "back-seamed_legwear",
-    "langName": "中間有一條黑線的襪子",
+    "langName": "後中縫黑線絲襪",
     "object": "服飾",
     "attribute": "襪子",
     "preview": "https://img.aishort.top/imgprompt/20260225104949341.webp"
@@ -19413,14 +19413,14 @@
   },
   {
     "displayName": "bobby_socks",
-    "langName": "鮑比襪(白短襪)",
+    "langName": "折邊白短襪（鮑比襪）",
     "object": "服飾",
     "attribute": "襪子",
     "preview": "https://img.aishort.top/imgprompt/20260213144125119.webp"
   },
   {
     "displayName": "tabi",
-    "langName": "日式厚底短襪(足袋)",
+    "langName": "足袋（日式分趾襪）",
     "object": "服飾",
     "attribute": "襪子",
     "preview": "https://img.aishort.top/imgprompt/20260213144138485.webp"
@@ -19518,7 +19518,7 @@
   },
   {
     "displayName": "thigh_holster",
-    "langName": "腿上繫着帶子或工具包或槍套",
+    "langName": "大腿槍套 / 綁腿套",
     "object": "服飾",
     "attribute": "襪子",
     "preview": "https://img.aishort.top/imgprompt/20260213144441392.webp"
@@ -19546,7 +19546,7 @@
   },
   {
     "displayName": "arm_garter",
-    "langName": "吊臂襪帶",
+    "langName": "臂環 / 袖箍",
     "object": "服飾",
     "attribute": "襪子",
     "preview": "https://img.aishort.top/imgprompt/20260213144735280.webp"
@@ -19658,14 +19658,14 @@
   },
   {
     "displayName": "sock_pull",
-    "langName": "拉着襪子(短襪)",
+    "langName": "提短襪",
     "object": "服飾",
     "attribute": "襪子",
     "preview": "https://img.aishort.top/imgprompt/20260213150519193.webp"
   },
   {
     "displayName": "thighhighs_pull",
-    "langName": "拉着襪子(長襪)",
+    "langName": "提過膝長襪",
     "object": "服飾",
     "attribute": "襪子",
     "preview": "https://img.aishort.top/imgprompt/20260225090322289.webp"
@@ -19686,7 +19686,7 @@
   },
   {
     "displayName": "crease",
-    "langName": "起皺的(有褶的)",
+    "langName": "折痕 / 壓褶",
     "object": "服飾",
     "attribute": "裝飾",
     "preview": "https://img.aishort.top/imgprompt/20260213150609920.webp"
@@ -19755,7 +19755,7 @@
   },
   {
     "displayName": "back_bow",
-    "langName": "(服飾)打在背後的結",
+    "langName": "後背蝴蝶結",
     "object": "服飾",
     "attribute": "裝飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151221218.webp"
@@ -19769,7 +19769,7 @@
   },
   {
     "displayName": "double_vertical_stripe",
-    "langName": "服飾上有兩條平行條紋",
+    "langName": "雙豎條紋",
     "object": "服飾",
     "attribute": "裝飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
@@ -19818,14 +19818,14 @@
   },
   {
     "displayName": "single_kneehigh",
-    "langName": "單邊穿着過膝服飾",
+    "langName": "單側過膝襪",
     "object": "服飾",
     "attribute": "裝飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151419710.webp"
   },
   {
     "displayName": "single_vertical_stripe",
-    "langName": "露出單邊服飾上的垂直條紋",
+    "langName": "單側豎條紋",
     "object": "服飾",
     "attribute": "裝飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151432314.webp"
@@ -19839,7 +19839,7 @@
   },
   {
     "displayName": "two-sided_fabric",
-    "langName": "雙層樣式的服飾畫法",
+    "langName": "雙面拼色布料",
     "object": "服飾",
     "attribute": "裝飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151458665.webp"
@@ -19860,21 +19860,21 @@
   },
   {
     "displayName": "fringe_trim",
-    "langName": "須邊(圍巾末端",
+    "langName": "流蘇下擺 / 穗邊",
     "object": "服飾",
     "attribute": "裝飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151538074.webp"
   },
   {
     "displayName": "loose_belt",
-    "langName": "鬆散的帶子(衣物)",
+    "langName": "鬆垮腰帶 / 垂落繫帶",
     "object": "服飾",
     "attribute": "裝飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151551376.webp"
   },
   {
     "displayName": "pom_pom_(clothes)",
-    "langName": "小絨球(衣物掛件)",
+    "langName": "毛絨球衣飾",
     "object": "服飾",
     "attribute": "裝飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151807325.webp"
@@ -19895,7 +19895,7 @@
   },
   {
     "displayName": "gathers",
-    "langName": "褶襉(衣物)",
+    "langName": "褶裥 / 抽褶",
     "object": "服飾",
     "attribute": "裝飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151846596.webp"
@@ -20441,7 +20441,7 @@
   },
   {
     "displayName": "peace_symbol",
-    "langName": "☮(東方仗助衣服上有)",
+    "langName": "和平標誌（☮）",
     "object": "服飾",
     "attribute": "花紋",
     "preview": "https://img.aishort.top/imgprompt/20260213154359591.webp"
@@ -20595,7 +20595,7 @@
   },
   {
     "displayName": "black_loafers",
-    "langName": "樂福鞋(小皮鞋)",
+    "langName": "黑色樂福鞋",
     "object": "服飾",
     "attribute": "鞋子",
     "preview": "https://img.aishort.top/imgprompt/20260213160300808.webp"
@@ -20868,7 +20868,7 @@
   },
   {
     "displayName": "knee_boots",
-    "langName": "及膝靴(馬靴)",
+    "langName": "及膝長靴",
     "object": "服飾",
     "attribute": "靴子",
     "preview": "https://img.aishort.top/imgprompt/20260213170630231.webp"
@@ -21225,7 +21225,7 @@
   },
   {
     "displayName": "armband",
-    "langName": "袖章(臂帶)",
+    "langName": "袖章 / 臂章",
     "object": "服飾",
     "attribute": "袖子",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
@@ -21680,7 +21680,7 @@
   },
   {
     "displayName": "alternate_headwear",
-    "langName": "與原設不同的頭飾",
+    "langName": "替換頭飾 / 異色頭戴",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213191902200.webp"
@@ -21715,7 +21715,7 @@
   },
   {
     "displayName": "xx_on_head",
-    "langName": "xx在頭上",
+    "langName": "頭頂放置物品",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213192411659.webp"
@@ -21778,14 +21778,14 @@
   },
   {
     "displayName": "hachimaki",
-    "langName": "扎頭巾(名詞)",
+    "langName": "鉢卷（日式必勝頭巾）",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213194023586.webp"
   },
   {
     "displayName": "helm",
-    "langName": "戴着頭盔的",
+    "langName": "頭戴鋼盔 / 頭盔",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213194036779.webp"
@@ -21827,7 +21827,7 @@
   },
   {
     "displayName": "skull_and_crossbones",
-    "langName": "頭骨和交叉的骨頭（海盜、危險、警告）",
+    "langName": "骷髏交叉骨標誌",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213195005290.webp"
@@ -21841,7 +21841,7 @@
   },
   {
     "displayName": "headdress",
-    "langName": "頭部穿戴物(偏籠統)",
+    "langName": "頭飾 / 頭戴配飾",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213195638458.webp"
@@ -21869,21 +21869,21 @@
   },
   {
     "displayName": "horns_through_headwear",
-    "langName": "爲角留了洞的頭飾",
+    "langName": "穿角頭飾",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213200134487.webp"
   },
   {
     "displayName": "no_headwear",
-    "langName": "去掉了(原設有的)頭飾",
+    "langName": "無頭飾",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213200147284.webp"
   },
   {
     "displayName": "object_on_head",
-    "langName": "頭上有非頭飾類的物體",
+    "langName": "頭頂外物",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213200200049.webp"
@@ -21925,7 +21925,7 @@
   },
   {
     "displayName": "behind-the-head_headphones",
-    "langName": "從後腦戴上的耳機",
+    "langName": "後掛式耳機",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213200337721.webp"
@@ -21988,14 +21988,14 @@
   },
   {
     "displayName": "head_mounted_display",
-    "langName": "戴着頭戴顯示設備",
+    "langName": "頭戴顯示器（HMD/VR）",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213201344092.webp"
   },
   {
     "displayName": "head_out_of_frame",
-    "langName": "一部分頭部沒畫進框裏",
+    "langName": "頭部出畫 / 頭部切出",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213201559216.webp"
@@ -22016,7 +22016,7 @@
   },
   {
     "displayName": "headgear",
-    "langName": "頭部飾品(含一定科幻元素)",
+    "langName": "頭戴裝置 / 科幻頭盔",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213201840823.webp"
@@ -22030,7 +22030,7 @@
   },
   {
     "displayName": "heads-up_display",
-    "langName": "狀態條(遊戲和科幻風格)",
+    "langName": "HUD 抬頭顯示 / 狀態介面",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213201907728.webp"
@@ -22065,7 +22065,7 @@
   },
   {
     "displayName": "single_head_wing",
-    "langName": "單側頭上有翅膀",
+    "langName": "單側頭翼",
     "object": "飾品",
     "attribute": "頭飾",
     "preview": "https://img.aishort.top/imgprompt/20260213202620422.webp"
@@ -22261,7 +22261,7 @@
   },
   {
     "displayName": "hairpods",
-    "langName": "頭髮上成對的像無線藍牙的髮飾",
+    "langName": "髮夾耳機",
     "object": "飾品",
     "attribute": "髮飾",
     "preview": "https://img.aishort.top/imgprompt/20260213210909139.webp"
@@ -22296,7 +22296,7 @@
   },
   {
     "displayName": "snake_hair_ornament",
-    "langName": "蛇形髮飾|蛙頭髮飾",
+    "langName": "蛇形髮飾",
     "object": "飾品",
     "attribute": "髮飾",
     "preview": "https://img.aishort.top/imgprompt/20260213211418419.webp"
@@ -22800,7 +22800,7 @@
   },
   {
     "displayName": "hatching_(texture)",
-    "langName": "線影法(紋理)",
+    "langName": "排線陰影 / 影線紋理",
     "object": "飾品",
     "attribute": "帽子",
     "preview": "https://img.aishort.top/imgprompt/20260213224329155.webp"
@@ -22926,14 +22926,14 @@
   },
   {
     "displayName": "sunglasses",
-    "langName": "太陽鏡（遮住了眼睛）",
+    "langName": "深色遮光墨鏡",
     "object": "飾品",
     "attribute": "眼鏡",
     "preview": "https://img.aishort.top/imgprompt/20260213230746663.webp"
   },
   {
     "displayName": "reflection glasses",
-    "langName": "太陽鏡（能看到眼睛）",
+    "langName": "反光透眼太陽鏡",
     "object": "飾品",
     "attribute": "眼鏡",
     "preview": "https://img.aishort.top/imgprompt/20260213230759909.webp"
@@ -22954,7 +22954,7 @@
   },
   {
     "displayName": "eyepatch",
-    "langName": "眼罩(獨眼)",
+    "langName": "單眼眼罩",
     "object": "飾品",
     "attribute": "眼鏡",
     "preview": "https://img.aishort.top/imgprompt/20260213230839662.webp"
@@ -22982,14 +22982,14 @@
   },
   {
     "displayName": "coke-bottle_glasses",
-    "langName": "厚如玻璃瓶底的圓眼鏡",
+    "langName": "瓶底厚眼鏡",
     "object": "飾品",
     "attribute": "眼鏡",
     "preview": "https://img.aishort.top/imgprompt/20260213230932442.webp"
   },
   {
     "displayName": "no_eyewear",
-    "langName": "去掉了(原設有的)眼鏡",
+    "langName": "無眼鏡",
     "object": "飾品",
     "attribute": "眼鏡",
     "preview": "https://img.aishort.top/imgprompt/20260213230945224.webp"
@@ -23178,7 +23178,7 @@
   },
   {
     "displayName": "domino_mask",
-    "langName": "SM面具",
+    "langName": "多米諾眼罩面具",
     "object": "飾品",
     "attribute": "面具",
     "preview": "https://img.aishort.top/imgprompt/20260213233359905.webp"
@@ -23241,7 +23241,7 @@
   },
   {
     "displayName": "single_earring",
-    "langName": "只一邊戴着耳環",
+    "langName": "單耳耳環",
     "object": "飾品",
     "attribute": "耳飾",
     "preview": "https://img.aishort.top/imgprompt/20260213235633818.webp"
@@ -23325,7 +23325,7 @@
   },
   {
     "displayName": "leash",
-    "langName": "皮帶",
+    "langName": "項圈牽引繩 / 寵物牽繩",
     "object": "飾品",
     "attribute": "手飾",
     "preview": "https://img.aishort.top/imgprompt/20260213235930034.webp"
@@ -23437,7 +23437,7 @@
   },
   {
     "displayName": "no_gloves",
-    "langName": "去掉了(原設有的)手套",
+    "langName": "無手套",
     "object": "飾品",
     "attribute": "手套",
     "preview": "https://img.aishort.top/imgprompt/20260214001315236.webp"
@@ -23451,7 +23451,7 @@
   },
   {
     "displayName": "single_elbow_glove",
-    "langName": "單手戴着過肘的手套",
+    "langName": "單隻過肘長手套",
     "object": "飾品",
     "attribute": "手套",
     "preview": "https://img.aishort.top/imgprompt/20260214001744860.webp"
@@ -23465,7 +23465,7 @@
   },
   {
     "displayName": "elbow_gloves",
-    "langName": "長袖手套（肘部手套）",
+    "langName": "長款過肘手套",
     "object": "飾品",
     "attribute": "手套",
     "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
@@ -23500,14 +23500,14 @@
   },
   {
     "displayName": "paw_gloves",
-    "langName": "爪子手套(分指手套)",
+    "langName": "獸爪手套 / 肉球手套",
     "object": "飾品",
     "attribute": "手套",
     "preview": "https://img.aishort.top/imgprompt/20260214002522561.webp"
   },
   {
     "displayName": "mittens",
-    "langName": "連指手套(兩指手套)",
+    "langName": "連指手套（保暖悶子）",
     "object": "飾品",
     "attribute": "手套",
     "preview": "https://img.aishort.top/imgprompt/20260214002535788.webp"
@@ -23759,14 +23759,14 @@
   },
   {
     "displayName": "st._gloriana's_(emblem)",
-    "langName": "聖葛羅莉安娜女學園校徽",
+    "langName": "聖葛羅莉安娜校徽",
     "object": "飾品",
     "attribute": "小裝飾",
     "preview": "https://img.aishort.top/imgprompt/20260214010157304.webp"
   },
   {
     "displayName": "heart_lock_(kantai_collection)",
-    "langName": "艦娘鎖(艦C)",
+    "langName": "心形鎖定標記（艦娘艦C）",
     "object": "飾品",
     "attribute": "小裝飾",
     "preview": "https://img.aishort.top/imgprompt/20260214010210385.webp"
@@ -23990,14 +23990,14 @@
   },
   {
     "displayName": "Wu Xing",
-    "langName": "五行(金木水火土)",
+    "langName": "五行元素（金木水火土）",
     "object": "飾品",
     "attribute": "符號",
     "preview": "https://img.aishort.top/imgprompt/20260214020503233.webp"
   },
   {
     "displayName": "dynamic pose",
-    "langName": "動態姿勢（有活力）",
+    "langName": "動感活力姿態",
     "object": "攝影",
     "attribute": "視角",
     "preview": "https://img.aishort.top/imgprompt/20260214020718871.webp"
@@ -24319,28 +24319,28 @@
   },
   {
     "displayName": "cowboy_shot",
-    "langName": "上半身+上半大腿(牛仔鏡頭)",
+    "langName": "七分身景深 / 牛仔景別（中全景）",
     "object": "攝影",
     "attribute": "取景高度",
     "preview": "https://img.aishort.top/imgprompt/20260214032314849.webp"
   },
   {
     "displayName": "portrait",
-    "langName": "肖像畫(臉+肩+偶爾再加胸)",
+    "langName": "肖像特寫 / 人物半身像",
     "object": "攝影",
     "attribute": "取景高度",
     "preview": "https://img.aishort.top/imgprompt/20260214032327856.webp"
   },
   {
     "displayName": "very close portrait",
-    "langName": "接近肖像畫（鏡頭更近）",
+    "langName": "面部大特寫",
     "object": "攝影",
     "attribute": "取景高度",
     "preview": "https://img.aishort.top/imgprompt/20260214032544032.webp"
   },
   {
     "displayName": "profile",
-    "langName": "側面肖像畫(portrait的側臉版)",
+    "langName": "側面肖像 / 側臉特寫",
     "object": "攝影",
     "attribute": "取景高度",
     "preview": "https://img.aishort.top/imgprompt/20260214032759101.webp"
@@ -24375,7 +24375,7 @@
   },
   {
     "displayName": "wide_shot",
-    "langName": "全景鏡頭(廣角鏡頭)",
+    "langName": "全景鏡頭 / 廣角遠景",
     "object": "攝影",
     "attribute": "鏡頭聚焦",
     "preview": "https://img.aishort.top/imgprompt/20260214033851759.webp"
@@ -24389,7 +24389,7 @@
   },
   {
     "displayName": "inset",
-    "langName": "插入其他鏡頭或圖片",
+    "langName": "畫中畫嵌圖",
     "object": "攝影",
     "attribute": "鏡頭聚焦",
     "preview": "https://img.aishort.top/imgprompt/20260214033931731.webp"
@@ -24403,21 +24403,21 @@
   },
   {
     "displayName": "male focus",
-    "langName": "男性焦點(女性焦點)",
+    "langName": "男性主體聚焦",
     "object": "攝影",
     "attribute": "鏡頭聚焦",
     "preview": "https://img.aishort.top/imgprompt/20260214033958195.webp"
   },
   {
     "displayName": "solo_focus",
-    "langName": "聚焦在單個人物(適合複雜場景)",
+    "langName": "單人主體聚焦",
     "object": "攝影",
     "attribute": "鏡頭聚焦",
     "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
   },
   {
     "displayName": "xx_focus",
-    "langName": "聚焦在xx上",
+    "langName": "局部特寫聚焦",
     "object": "攝影",
     "attribute": "鏡頭聚焦",
     "preview": "https://img.aishort.top/imgprompt/20260214034023889.webp"
@@ -24459,7 +24459,7 @@
   },
   {
     "displayName": "vehicle_focus",
-    "langName": "聚焦在載具(車)上",
+    "langName": "載具主體聚焦",
     "object": "攝影",
     "attribute": "鏡頭聚焦",
     "preview": "https://img.aishort.top/imgprompt/20260214034759257.webp"
@@ -24473,21 +24473,21 @@
   },
   {
     "displayName": "between_legs",
-    "langName": "(強調)兩腿之間",
+    "langName": "雙腿之間構圖",
     "object": "攝影",
     "attribute": "鏡頭聚焦",
     "preview": "https://img.aishort.top/imgprompt/20260214035455577.webp"
   },
   {
     "displayName": "between_breasts",
-    "langName": "(突出)胸部",
+    "langName": "雙峰之間特寫 / 焦點在胸部",
     "object": "攝影",
     "attribute": "鏡頭聚焦",
     "preview": "https://img.aishort.top/imgprompt/20260225091239828.webp"
   },
   {
     "displayName": "between_fingers",
-    "langName": "(突出)指間",
+    "langName": "指縫間視角",
     "object": "攝影",
     "attribute": "鏡頭聚焦",
     "preview": "https://img.aishort.top/imgprompt/20260214035531987.webp"
@@ -24501,14 +24501,14 @@
   },
   {
     "displayName": "peeking_out",
-    "langName": "偷窺(的姿態)",
+    "langName": "探頭窺視姿態",
     "object": "攝影",
     "attribute": "鏡頭聚焦",
     "preview": "https://img.aishort.top/imgprompt/20260214035557635.webp"
   },
   {
     "displayName": "peeping",
-    "langName": "偷窺(強調視角)",
+    "langName": "窺視視角 / 偷看視角",
     "object": "攝影",
     "attribute": "鏡頭聚焦",
     "preview": "https://img.aishort.top/imgprompt/20260214035610390.webp"
@@ -24662,7 +24662,7 @@
   },
   {
     "displayName": "Brenizer Method",
-    "langName": "螺旋拍攝",
+    "langName": "布倫尼澤全景微景深法（Brenizer）",
     "object": "攝影",
     "attribute": "鏡頭/光學效果",
     "preview": "https://img.aishort.top/imgprompt/20260214041350224.webp"
@@ -24697,7 +24697,7 @@
   },
   {
     "displayName": "landscape",
-    "langName": "風景鏡頭(遠景)",
+    "langName": "風光遠景鏡頭",
     "object": "攝影",
     "attribute": "鏡頭/光學效果",
     "preview": "https://img.aishort.top/imgprompt/20260214041814281.webp"
@@ -24844,7 +24844,7 @@
   },
   {
     "displayName": "polaroid",
-    "langName": "照片(拍立得)",
+    "langName": "拍立得即時相片",
     "object": "攝影",
     "attribute": "攝影風格",
     "preview": "https://img.aishort.top/imgprompt/20260214044251180.webp"
@@ -25292,7 +25292,7 @@
   },
   {
     "displayName": "depth of field",
-    "langName": "景深（協調人景）",
+    "langName": "淺景深 / 虛化景深",
     "object": "攝影",
     "attribute": "效果",
     "preview": "https://img.aishort.top/imgprompt/20260224191234161.webp"
@@ -25320,14 +25320,14 @@
   },
   {
     "displayName": "bokeh",
-    "langName": "焦散（背景虛化）",
+    "langName": "焦外散景",
     "object": "攝影",
     "attribute": "效果",
     "preview": "https://img.aishort.top/imgprompt/20260224191333274.webp"
   },
   {
     "displayName": "chromatic_aberration",
-    "langName": "色差、色失焦",
+    "langName": "色差 / 色散失焦",
     "object": "攝影",
     "attribute": "效果",
     "preview": "https://img.aishort.top/imgprompt/20260224191548893.webp"
@@ -25818,7 +25818,7 @@
   },
   {
     "displayName": "Crepuscular Rays",
-    "langName": "昏暗光線",
+    "langName": "丁達爾光芒 / 耶穌光（雲隙光）",
     "object": "光影效果",
     "attribute": "光照效果",
     "preview": "https://img.aishort.top/imgprompt/20260224200322540.webp"
@@ -25860,7 +25860,7 @@
   },
   {
     "displayName": "lens flare",
-    "langName": "透鏡光暈（逆光）",
+    "langName": "鏡頭眩光 / 光暈",
     "object": "光影效果",
     "attribute": "光照效果",
     "preview": "https://img.aishort.top/imgprompt/20260224200437632.webp"
@@ -27113,7 +27113,7 @@
   },
   {
     "displayName": "Dispersion",
-    "langName": "色散（不同顏色的光被分離的現象）",
+    "langName": "色散效應 / 稜鏡分光",
     "object": "色彩氛圍",
     "attribute": "深色調",
     "preview": "https://img.aishort.top/imgprompt/20260224221649393.webp"
@@ -27645,7 +27645,7 @@
   },
   {
     "displayName": "Tetradic-Colors",
-    "langName": "四色（矩形配色）",
+    "langName": "四方矩形配色",
     "object": "色彩氛圍",
     "attribute": "彩色調色盤",
     "preview": "https://img.aishort.top/imgprompt/20260224223613371.webp"
@@ -29914,7 +29914,7 @@
   },
   {
     "displayName": "Putty",
-    "langName": "密封和填充空隙的黏合劑",
+    "langName": "膩子 / 填縫膠",
     "object": "素材",
     "attribute": "黏液",
     "preview": "https://img.aishort.top/imgprompt/20260224235936705.webp"
@@ -31356,7 +31356,7 @@
   },
   {
     "displayName": "((dyeing)),((oil painting)),((impasto))",
-    "langName": "油畫(組合)",
+    "langName": "厚塗暈染油畫風",
     "object": "圖像種類",
     "attribute": "繪畫",
     "preview": "https://img.aishort.top/imgprompt/20260225004949979.webp"
@@ -31622,7 +31622,7 @@
   },
   {
     "displayName": "extremely detailed cg",
-    "langName": "非常詳細的 cg",
+    "langName": "超精細遊戲CG",
     "object": "圖像種類",
     "attribute": "插畫",
     "preview": "https://img.aishort.top/imgprompt/20260225010029642.webp"
@@ -31825,7 +31825,7 @@
   },
   {
     "displayName": "copics",
-    "langName": "馬克筆（中性灰色）",
+    "langName": "Copic 酷彩馬克筆手繪風",
     "object": "圖像種類",
     "attribute": "墨水",
     "preview": "https://img.aishort.top/imgprompt/20260225010656308.webp"
@@ -32126,7 +32126,7 @@
   },
   {
     "displayName": "Pokemon Card",
-    "langName": "寶可夢卡片",
+    "langName": "寶可夢對戰卡牌風",
     "object": "圖像種類",
     "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011638981.webp"
@@ -32518,7 +32518,7 @@
   },
   {
     "displayName": "traditional_media",
-    "langName": "傳統畫布（如紙等）",
+    "langName": "傳統實體紙本媒介",
     "object": "圖像種類",
     "attribute": "其他媒介",
     "preview": "https://img.aishort.top/imgprompt/20260225013600028.webp"
@@ -33078,7 +33078,7 @@
   },
   {
     "displayName": "miserablism",
-    "langName": "愁苦主義（批評社會的貧困不公）",
+    "langName": "苦難主義 / 愁苦現實主義",
     "object": "藝術風格",
     "attribute": "虛構與現實",
     "preview": "https://img.aishort.top/imgprompt/20260225015538415.webp"
@@ -33169,7 +33169,7 @@
   },
   {
     "displayName": "illustration,(((ukiyoe))),((sketch)),((japanese_art))",
-    "langName": "浮世繪(組)",
+    "langName": "傳統浮世繪素描風",
     "object": "藝術風格",
     "attribute": "亞洲藝術",
     "preview": "https://img.aishort.top/imgprompt/20260225015830944.webp"
@@ -33260,7 +33260,7 @@
   },
   {
     "displayName": "heavy contrast",
-    "langName": "濃重的對比 (強調顏色)",
+    "langName": "強對比色彩衝擊",
     "object": "藝術風格",
     "attribute": "攝影/繪畫風格",
     "preview": "https://img.aishort.top/imgprompt/20260225020108984.webp"
@@ -33323,7 +33323,7 @@
   },
   {
     "displayName": "film noir",
-    "langName": "黑色電影（罪惡、慾望、復仇）",
+    "langName": "黑色電影冷峻風",
     "object": "藝術風格",
     "attribute": "攝影/繪畫風格",
     "preview": "https://img.aishort.top/imgprompt/20260225020255566.webp"
@@ -33337,7 +33337,7 @@
   },
   {
     "displayName": "fantasy",
-    "langName": "適合科幻場景",
+    "langName": "奇幻史詩風",
     "object": "藝術風格",
     "attribute": "科幻",
     "preview": "https://img.aishort.top/imgprompt/20260225020323046.webp"
@@ -33393,7 +33393,7 @@
   },
   {
     "displayName": "ww3 style",
-    "langName": "ww3 風格",
+    "langName": "第三次世界大戰風格",
     "object": "藝術風格",
     "attribute": "科幻",
     "preview": "https://img.aishort.top/imgprompt/20260225020500212.webp"
@@ -33624,14 +33624,14 @@
   },
   {
     "displayName": "column lineup",
-    "langName": "一列列小圖組成大圖",
+    "langName": "多列分欄排版",
     "object": "藝術風格",
     "attribute": "出版物",
     "preview": "https://img.aishort.top/imgprompt/20260225021130372.webp"
   },
   {
     "displayName": "zoom layer",
-    "langName": "背景是前景的放大版",
+    "langName": "變焦分層背景",
     "object": "藝術風格",
     "attribute": "出版物",
     "preview": "https://img.aishort.top/imgprompt/20260225021142834.webp"
@@ -33680,7 +33680,7 @@
   },
   {
     "displayName": "highres",
-    "langName": "厚塗（風格）",
+    "langName": "厚塗數位畫風",
     "object": "藝術風格",
     "attribute": "數位藝術",
     "preview": "https://img.aishort.top/imgprompt/20260225021323241.webp"
@@ -34233,7 +34233,7 @@
   },
   {
     "displayName": "Sabattier Effect",
-    "langName": "呈現出柔和、模糊的邊緣和色彩暈染",
+    "langName": "薩巴蒂埃效應（中途曝光）",
     "object": "後製",
     "attribute": "圖像處理",
     "preview": "https://img.aishort.top/imgprompt/20260225022949265.webp"
@@ -34268,7 +34268,7 @@
   },
   {
     "displayName": "Harris Shutter",
-    "langName": "哈里斯快門（動態/低光）",
+    "langName": "哈里斯快門效應",
     "object": "後製",
     "attribute": "圖像處理",
     "description": "捕捉高速移動的物體或者在低光環境下保持圖像的清晰度",
@@ -34696,14 +34696,14 @@
   },
   {
     "displayName": "beautiful asian female,22 years old,short black hair with small braid,cream-colored mini ribbon on the right,holding an un-worn unfolded school swimsuit,wrapped in towel,bare shoulders,exposed collarbone,in dormitory setting,bashful but making eye contact with camera,natural smartphone photography style,slightly messy composition,unpolished feel,natural lighting,candid moment,spontaneous expressions and actions,realistic,documentary style",
-    "langName": "宿舍換裝時刻(浴巾款)",
+    "langName": "宿舍換裝時刻（浴巾款）",
     "object": "成品範例",
     "attribute": "肖像",
     "preview": "https://img.aishort.top/imgprompt/20260207163033733.webp"
   },
   {
     "displayName": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space,a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve,gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline,Beacon Hill brownstones,Acorn Street,Boston Public Garden,Swan Boats,Zakim Bridge,Fenway-inspired details,historic brick architecture,harbor ferries,and the city’s waterfront atmosphere. Soft morning fog,golden spring light,subtle festive accents in crimson and gold,rich detail,layered depth,sophisticated city-poster aesthetics,fresh and refined,visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON,A CITY OF RIVER,MEMORY,AND INVENTION”,text clear and beautifully composed,premium graphic design,9:16",
-    "langName": "Boston 2026 春季城市海報",
+    "langName": "波士頓 2026 春季城市海報",
     "object": "成品範例",
     "attribute": "海報",
     "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
@@ -34711,7 +34711,7 @@
   },
   {
     "displayName": "Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast,Italy,panoramic coastal cliff road scene,classic 1960s white car driving along a curved seaside road,deep blue Mediterranean sea with small sailboats,colorful pastel hillside village,bright blue sky with soft clouds,lemon tree branches with vibrant yellow lemons framing the foreground,warm summer sunlight,bold vibrant colors,retro 1950s travel poster style,cinematic composition,high detail,screen print texture,graphic illustration. Hand-drawn style,illustration with loose strokes and defined contours. High-contrast color palette,maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.",
-    "langName": "復古 Amalfi 旅遊海報",
+    "langName": "復古阿瑪爾菲旅遊海報",
     "object": "成品範例",
     "attribute": "海報",
     "description": "by @WolfRiccardo (https://x.com/WolfRiccardo)",
@@ -34719,7 +34719,7 @@
   },
   {
     "displayName": "一张手绘风格的城市美食地图,以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底,标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等,每个插画约占地图的 5% 面积,旁边用手写体标注店名和一句推荐语\"凌晨两点还在排队的那家\"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题\"成都·吃货暴走地图\"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感,颜色以暖色系（辣椒红、姜黄、翠绿）为主,图片比例 1:1。",
-    "langName": "Chengdu 美食地圖插畫",
+    "langName": "成都美食地圖插畫",
     "object": "成品範例",
     "attribute": "海報",
     "description": "by @Panda20230902 (https://x.com/Panda20230902)",
@@ -34734,8 +34734,8 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151157243.webp"
   },
   {
-    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑(广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
-    "langName": "2026春季廣州城市海報",
+    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑（广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
+    "langName": "2026 春季廣州城市海報",
     "object": "成品範例",
     "attribute": "海報",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34743,7 +34743,7 @@
   },
   {
     "displayName": "以涂鸦速写风表现【一个厉害的AI builder】,整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一,略显凌乱但具有节奏和表现力,强调概括、夸张、趣味和随性,而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现,可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感,色彩根据【主题/主体】自动适配,但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果,不要细腻水彩过渡,不要纸纹理,不要柔和雾化,不要梦幻质感。  背景以留白为主,保持简洁、轻松、未完成感和设计感,可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素,以增强速写本或随笔式视觉语言,但不可过于拥挤,不可破坏主体和留白气质。  画面内容不需要预先写清楚,由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景,整体保持统一的涂鸦速写风和夸张概括的表现方式,避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“BlanPlan”,作为画面的一部分,位置低调但清晰,可放在左下角、右下角或标题附近,风格需与整体版式统一,像作品署名或设计落款；签名字体精致、克制、高级,不可过大,不可破坏主体构图,不可显得突兀或廉价。",
-    "langName": "塗鴉草圖 AI 建構者",
+    "langName": "AI創作者塗鴉速寫",
     "object": "成品範例",
     "attribute": "海報",
     "description": "by @blanplan (https://x.com/blanplan)",
@@ -34759,7 +34759,7 @@
   },
   {
     "displayName": "小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて",
-    "langName": "Super Famicom 海報風格",
+    "langName": "超級任天堂（SFC）海報風格",
     "object": "成品範例",
     "attribute": "海報",
     "description": "by @lilimliliychan (https://x.com/lilimliliychan)",
@@ -34783,7 +34783,7 @@
   },
   {
     "displayName": "纯黑深邃底色,一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端,构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟,内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列,前景有白鹤与湖面,远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀,东方美学与现代意象交融,8K 超高清渲染,比例 9:16。",
-    "langName": "水墨曲線 Guangzhou 美學海報",
+    "langName": "水墨曲線廣州美學海報",
     "object": "成品範例",
     "attribute": "海報",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34791,7 +34791,7 @@
   },
   {
     "displayName": "广东省城市足球超级联赛（粤超）邀请函海报设计,比例 9:16。S 型流动构图,以发光足球和动态能量流贯穿画面,沿动线融合广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑、佛山武术剪影、中山文化符号、潮汕英歌舞与清远山水。现代国潮高级海报风格,中国红主视觉,青蓝辅助,金色高光,带完整中文排版与电影级光影。",
-    "langName": "廣東超級聯賽邀請海報",
+    "langName": "廣東省城市足球超級聯賽海報",
     "object": "成品範例",
     "attribute": "海報",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34799,7 +34799,7 @@
   },
   {
     "displayName": "一张充满新春喜庆但高雅的 2026 广州城市宣传海报,9:16 竖版,双重曝光,S 型流动构图。纯白纹理背景,右下角微缩传统服饰人物挥舞长红绸,红绸变形成山脉河流,内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。",
-    "langName": "2026 春季 Guangzhou 宣傳海報",
+    "langName": "2026 春季廣州宣傳海報",
     "object": "成品範例",
     "attribute": "海報",
     "description": "by @grok (https://x.com/grok)",
@@ -34815,7 +34815,7 @@
   },
   {
     "displayName": "极简主义,新中式风格立体图形设计,图像下端有楷体中国文字：“东方美学”,“2026/04/18”,署名 “CHINA”,和“@LIYUE\"；\n平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画,不规则的撕纸效果；\n中国的神兽：穷奇,身形图案完整,美轮美奂,线条柔美灵动,眼睛炯炯有神,威严的神态,优雅的姿势,奢华装饰艺术,中国传统纹饰；\n荧光蓝色线条,0.5mm极细金色金属质感勾边,泼白墨大笔触,色彩渲染,红底,蓝色的浪漫诗意视觉；\n冷暖光交织的梦幻唯美场景,强烈的光影对比氛围,花轻舞的时光叙事,东风禅意,画面有大面积留白,框架构图,底部留白,细节清晰。",
-    "langName": "窮奇東方美學海報",
+    "langName": "窮奇新中式立體美學海報",
     "object": "成品範例",
     "attribute": "海報",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34823,7 +34823,7 @@
   },
   {
     "displayName": "以珠江新城现代都市景观为灵感的剪纸艺术,通过精巧的镂空手法在一整幅纸上,立体刻画广州塔、东西双塔等地标建筑与繁华城景。\n所有建筑与元素均以流畅的线条与结构相连,无孤立部分,构成一幅完整的都市画卷。\n画面采用金属箔或光泽纸材质,表面带有细腻的明暗光泽,在光照下呈现柔和的高光与阴影,仿佛被城市灯光轻轻照亮。\n背景以虚化的珠江新城天际线为衬,点缀隐约可见的花城广场与树木轮廓,整体透出现代浪漫的氛围。\n作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点,象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉,细节丰富,真实而富有艺术感染力。",
-    "langName": "Guangzhou 剪紙城市海報",
+    "langName": "廣州剪紙城市海報",
     "object": "成品範例",
     "attribute": "海報",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34879,7 +34879,7 @@
   },
   {
     "displayName": "以涂鸦速写风表现【一个厉害的AI builder】。",
-    "langName": "AI 建構者塗鴉草圖",
+    "langName": "AI創作者簡筆畫",
     "object": "成品範例",
     "attribute": "海報",
     "description": "by @opc_8838 (https://x.com/opc_8838)",
@@ -34919,7 +34919,7 @@
   },
   {
     "displayName": "平面插画,东方幻想风格高端城市海报设计,竖版9:16构图,整体采用对角线+S型流动构图,从左下向右上延展,画面以深邃黑色为背景,自上而下渐变至浓烈暗红色,形成强烈冷暖对比与空间纵深,背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿,自底部向上延伸,具有流体质感、粒子光效与渐变高光,局部带细微能量碎屑与体积光。\n\n金色流光中逐层浮现广州城市地标建筑群:广州塔为视觉核心,比例突出,周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素,建筑采用“精细线描 + 金色发光体块”表现,轮廓清晰、细节丰富,在金色光晕映衬下仿佛悬浮于虚空,形成超现实空间层次,远景轻微雾化增强纵深感。\n\n画面底部为一位东方白发女性形象,长发飘逸,如烟似雾,与金色流光自然衔接并逐渐融合,发丝半透明带渐变光感,姿态柔美,双目微闭,神情宁静,怀抱一束多彩鲜花,花间点缀微光粒子与星点效果,象征人与城市能量的精神连接,人物细节适度简化以突出整体设计感。\n\n光影集中于金色流线、建筑与人物轮廓,形成强烈明暗对比与视觉聚焦,整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底,高亮鎏金为主视觉强调,金色具备丰富明暗层次,辅以小面积高饱和花束色彩点缀,整体高级克制。\n\n页面文字与画面融合排版:顶部居中宋体大字“广州·中国”,下方小字“2026/04/20”,再下方小字“LIYUE”,文字采用淡金色或柔和暖白色,与整体光影统一。高品质细节,电影级光影表现,体积光与粒子细节丰富,画面干净无噪点,超高清8K分辨率,商业级海报质感。",
-    "langName": "暗黑奇幻 Guangzhou 城市海報",
+    "langName": "暗黑奇幻廣州城市海報",
     "object": "成品範例",
     "attribute": "海報",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34951,7 +34951,7 @@
   },
   {
     "displayName": "A refined 2026 Silicon Valley city promotional poster with a futuristic yet elegant atmosphere.\n\nDouble exposure composition,preserving an S-shaped sense of flowing movement. On a pure white textured background,in the lower-right corner,a miniature figure dressed in sleek modern techwear is releasing a long ribbon of luminous silver-blue light. The ribbon flows gracefully through the air,showing a soft silk-like texture,and as it drifts toward the upper-left,it magically transforms into a grand landscape of rolling hills,coastline,data streams,and illuminated urban terrain.\n\nWithin this flowing “river of light,” overlay a hand-drawn panoramic map of Silicon Valley,blending technology,nature,innovation,and California sunlight. The scene feels visionary,expansive,sophisticated,and inspiring.\n\nInclude iconic Silicon Valley and Bay Area elements: Stanford University arches,Apple Park,Google campus-inspired buildings,Meta-like glass offices,Tesla-style innovation imagery,venture capital offices on Sand Hill Road,Palo Alto tree-lined streets,San Jose skyline,the Santa Cruz Mountains,San Francisco Bay,highways,autonomous vehicles,startup labs,semiconductor patterns,AI data centers,and subtle circuit-board textures.\n\nSurrounded by soft mist,golden California light,floating clouds,and delicate digital particles. Rich colors,complex structure,highly detailed,grand and breathtaking,yet still fresh and minimal because of the large areas of white space.\n\nIn the lower-left corner,elegant typography reads “SILICON VALLEY 2026” with a vertical promotional slogan: “Where Ideas Shape Tomorrow.” Beautiful editorial layout,graceful spacing,clear and complete lettering,premium city branding poster,cinematic lighting,sophisticated details,9:16 aspect ratio.",
-    "langName": "Silicon Valley 2026 宣傳海報",
+    "langName": "矽谷 2026 宣傳海報",
     "object": "成品範例",
     "attribute": "海報",
     "description": "by @carsonyungos (https://x.com/carsonyungos)",
@@ -35111,7 +35111,7 @@
   },
   {
     "displayName": "最新モデルの画像生成ツールを使用して、\nこのちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）\nギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。\n\n「ここに自己紹介」\n\n名前:（ここに名前） \nイメージカラー:（ここに色） \n身長:（ここに身長）cm \n体重:（ここに体重）kg\nキャッチコピー:”「ここにセリフ」”",
-    "langName": "美少女遊戲角色介紹頁",
+    "langName": "美少女戀愛遊戲（Galgame）角色介紹頁",
     "object": "成品範例",
     "attribute": "角色",
     "description": "by @09lyco (https://x.com/09lyco)",
@@ -35119,7 +35119,7 @@
   },
   {
     "displayName": "このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 \n・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 \n・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる \n・全体は整理されたレイアウト\n（白背景、図解風） \n・アスペクト比16：9\n\n高解像度、プロのコンセプトアートスタイル",
-    "langName": "官方角色設定集（JP）",
+    "langName": "官方角色設定集（日系設定稿）",
     "object": "成品範例",
     "attribute": "角色",
     "description": "by @Toshi_nyaruo_AI (https://x.com/Toshi_nyaruo_AI)",
@@ -35231,7 +35231,7 @@
   },
   {
     "displayName": "この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。",
-    "langName": "日式 RPG 狀態畫面",
+    "langName": "日式RPG狀態畫面",
     "object": "成品範例",
     "attribute": "UI",
     "description": "by @Kashiko_AIart (https://x.com/Kashiko_AIart)",
@@ -35239,7 +35239,7 @@
   },
   {
     "displayName": "玄武门之变的朋友圈",
-    "langName": "玄武門社群動態",
+    "langName": "玄武門之變 朋友圈動態截圖",
     "object": "成品範例",
     "attribute": "UI",
     "description": "by @Tz_2022 (https://x.com/Tz_2022)",
@@ -35287,7 +35287,7 @@
   },
   {
     "displayName": "GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください",
-    "langName": "Don Quijote 促銷流行海報",
+    "langName": "唐吉訶德風 手繪POP海報",
     "object": "成品範例",
     "attribute": "UI",
     "description": "by @loglogrog (https://x.com/loglogrog)",
@@ -35327,7 +35327,7 @@
   },
   {
     "displayName": "1、生成特朗普和金正恩在抖音直播间打PK的截图  \n2、生成不知火舞的小红书主页截图  \n3、生成图片: 手写在教室黑板上的出师表全文,真实感的粉笔字迹,晴朗白天用iPhone手机实拍  \n4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图,产品价格,产品细节,功能和使用场景等",
-    "langName": "Trump 與 Kim 直播 PK 截圖",
+    "langName": "川普與金正恩 直播PK對決",
     "object": "成品範例",
     "attribute": "UI",
     "description": "by @alanlovelq (https://x.com/alanlovelq)",
@@ -35398,7 +35398,7 @@
   },
   {
     "displayName": "fitted jeans,oversized jacket,navel",
-    "langName": "休閒辣妹穿搭(牛仔+露臍)",
+    "langName": "休閒辣妹穿搭（牛仔＋露臍）",
     "object": "成品範例",
     "attribute": "服飾",
     "preview": "https://img.aishort.top/imgprompt/20260207163033732.webp"

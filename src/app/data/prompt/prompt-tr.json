@@ -435,7 +435,7 @@
   },
   {
     "displayName": "cleric",
-    "langName": "Din adamları (Hristiyan)",
+    "langName": "Ruhban / Din adamı",
     "object": "Karakter",
     "attribute": "Kimlik",
     "preview": "https://img.aishort.top/imgprompt/20260208072159895.webp"
@@ -526,7 +526,7 @@
   },
   {
     "displayName": "trap",
-    "langName": "Trap",
+    "langName": "Feminen erkek",
     "object": "Karakter",
     "attribute": "Kimlik",
     "description": "Kadınsı özelliklere sahip erkek karakter; kadın sanılabilir",
@@ -534,21 +534,21 @@
   },
   {
     "displayName": "crossdressing",
-    "langName": "Karşı cinsin kıyafetlerini giyme",
+    "langName": "Kıyafet değişimi",
     "object": "Karakter",
     "attribute": "Kimlik",
     "preview": "https://img.aishort.top/imgprompt/20260209061704193.webp"
   },
   {
     "displayName": "otoko_no_ko",
-    "langName": "Travesti (kadınsı özelliklere sahip görünen erkek)",
+    "langName": "Otokonoko",
     "object": "Karakter",
     "attribute": "Kimlik",
     "preview": "https://img.aishort.top/imgprompt/20260208074725601.webp"
   },
   {
     "displayName": "gyaru",
-    "langName": "Sıcak kızlar (Japon kızlar)",
+    "langName": "Gyaru",
     "object": "Karakter",
     "attribute": "Kimlik",
     "preview": "https://img.aishort.top/imgprompt/20260210193812753.webp"
@@ -562,14 +562,14 @@
   },
   {
     "displayName": "yaoi",
-    "langName": "Eşcinsel ol",
+    "langName": "Yaoi / BL",
     "object": "Karakter",
     "attribute": "Kimlik",
     "preview": "https://img.aishort.top/imgprompt/20260208074725603.webp"
   },
   {
     "displayName": "yuri",
-    "langName": "zambak",
+    "langName": "Yuri / GL",
     "object": "Karakter",
     "attribute": "Kimlik",
     "preview": "https://img.aishort.top/imgprompt/20260209061704191.webp"
@@ -646,7 +646,7 @@
   },
   {
     "displayName": "mazinger",
-    "langName": "harika kadın",
+    "langName": "Mazinger Z",
     "object": "Karakter",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537640.webp"
@@ -772,7 +772,7 @@
   },
   {
     "displayName": "elf",
-    "langName": "cin",
+    "langName": "Elf",
     "object": "Karakter",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063126234.webp"
@@ -786,7 +786,7 @@
   },
   {
     "displayName": "fairy",
-    "langName": "elf",
+    "langName": "Peri",
     "object": "Karakter",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063141969.webp"
@@ -828,14 +828,14 @@
   },
   {
     "displayName": "monster_girl",
-    "langName": "Yabancının annesi",
+    "langName": "Canavar kız",
     "object": "Karakter",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063226407.webp"
   },
   {
     "displayName": "dominatrix",
-    "langName": "Kraliçe (SM Orta)",
+    "langName": "Dominatriks",
     "object": "Karakter",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063233422.webp"
@@ -940,7 +940,7 @@
   },
   {
     "displayName": "kyuubi",
-    "langName": "dokuz kuyruklu tilki | dokuz kuyruklu tilki",
+    "langName": "dokuz kuyruklu tilki",
     "object": "Karakter",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063421396.webp"
@@ -968,21 +968,21 @@
   },
   {
     "displayName": "horse_girl",
-    "langName": "Ma Niang",
+    "langName": "At kız",
     "object": "Karakter",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537637.webp"
   },
   {
     "displayName": "furry",
-    "langName": "ork",
+    "langName": "Furry",
     "object": "Karakter",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537632.webp"
   },
   {
     "displayName": "furry/orc",
-    "langName": "Orklar/Orklar",
+    "langName": "Furry / Ork",
     "object": "Karakter",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537646.webp"
@@ -1010,14 +1010,14 @@
   },
   {
     "displayName": "mesugaki",
-    "langName": "dişi şeytan",
+    "langName": "Mesugaki",
     "object": "Karakter",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537644.webp"
   },
   {
     "displayName": "santa alter",
-    "langName": "Noel Baba",
+    "langName": "Santa Alter",
     "object": "Karakter",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537639.webp"
@@ -1052,7 +1052,7 @@
   },
   {
     "displayName": "kindergartener",
-    "langName": "anaokulu",
+    "langName": "Anaokulu çocuğu",
     "object": "Karakter",
     "attribute": "Yaş",
     "preview": "https://img.aishort.top/imgprompt/20260210192804244.webp"
@@ -1073,14 +1073,14 @@
   },
   {
     "displayName": "early teen",
-    "langName": "Erken Ergenlik (11-15)",
+    "langName": "Erken ergenlik",
     "object": "Karakter",
     "attribute": "Yaş",
     "preview": "https://img.aishort.top/imgprompt/20260210192804238.webp"
   },
   {
     "displayName": "teenager",
-    "langName": "Genç (13-19)",
+    "langName": "Ergen / Genç",
     "object": "Karakter",
     "attribute": "Yaş",
     "preview": "https://img.aishort.top/imgprompt/20260210192804240.webp"
@@ -1129,7 +1129,7 @@
   },
   {
     "displayName": "pale_skin",
-    "langName": "Soluk cilt",
+    "langName": "Soluk ten",
     "object": "Karakter",
     "attribute": "Cilt",
     "preview": "https://img.aishort.top/imgprompt/20260210193300398.webp"
@@ -1192,7 +1192,7 @@
   },
   {
     "displayName": "tanlines",
-    "langName": "güneş hasarı",
+    "langName": "Bronzlaşma çizgileri",
     "object": "Karakter",
     "attribute": "Cilt",
     "preview": "https://img.aishort.top/imgprompt/20260210193621164.webp"
@@ -1206,7 +1206,7 @@
   },
   {
     "displayName": "oil_skin",
-    "langName": "oil skin",
+    "langName": "Yağlı cilt",
     "object": "Karakter",
     "attribute": "Cilt",
     "preview": "https://img.aishort.top/imgprompt/20260210195122883.webp"
@@ -1780,7 +1780,7 @@
   },
   {
     "displayName": "drill hair",
-    "langName": "Matkap rulosu prenses rulosu",
+    "langName": "Spiral bukle / Prenses buklesi",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260211134240236.webp"
@@ -1829,7 +1829,7 @@
   },
   {
     "displayName": "braided bangs",
-    "langName": "örgülü saçak",
+    "langName": "Örgülü kâkül",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260211134418672.webp"
@@ -1934,91 +1934,91 @@
   },
   {
     "displayName": "swept bangs",
-    "langName": "yana doğru taranmış perçemler",
+    "langName": "Yana taranmış kâkül",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260317085511880.webp"
   },
   {
     "displayName": "crossed bangs",
-    "langName": "Çapraz patlamalar",
+    "langName": "Çapraz kâkül",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260317085523411.webp"
   },
   {
     "displayName": "bangs",
-    "langName": "Patlamalar",
+    "langName": "Kâkül",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260211134915118.webp"
   },
   {
     "displayName": "blunt bangs",
-    "langName": "Qi patlamaları",
+    "langName": "Düz kâkül",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260211134928539.webp"
   },
   {
     "displayName": "Slanted bangs",
-    "langName": "eğik perçemler",
+    "langName": "Eğik kâkül",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260317085534089.webp"
   },
   {
     "displayName": "long bangs",
-    "langName": "uzun perçemler",
+    "langName": "Uzun kâkül",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260211134954164.webp"
   },
   {
     "displayName": "air bangs",
-    "langName": "hava patlamaları",
+    "langName": "İnce kahkül",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260211135006710.webp"
   },
   {
     "displayName": "asymmetric bangs",
-    "langName": "asimetrik perçemler",
+    "langName": "Asimetrik kâkül",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260211135019506.webp"
   },
   {
     "displayName": "asymmetrical bangs",
-    "langName": "asimetrik perçemler",
+    "langName": "Asimetrik kâkül",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260211135032224.webp"
   },
   {
     "displayName": "parted bangs",
-    "langName": "Parça patlamaları",
+    "langName": "Ayrık kâkül",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260211135044711.webp"
   },
   {
     "displayName": "side_blunt_bangs",
-    "langName": "yan hava patlamaları",
+    "langName": "Yan hafif kâkül",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260211135057869.webp"
   },
   {
     "displayName": "centre parting bangs",
-    "langName": "Ortadan ayrılmış perçemler",
+    "langName": "Ortadan ayrılmış kâkül",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260211135111315.webp"
   },
   {
     "displayName": "middle Fringe",
-    "langName": "Ortadan ayrılmış perçemler",
+    "langName": "Ortadan ayrılmış kâkül",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260211135125221.webp"
@@ -2081,7 +2081,7 @@
   },
   {
     "displayName": "ahoge",
-    "langName": "Sersem",
+    "langName": "Ahoge",
     "object": "Karakter",
     "attribute": "Saç Modeli",
     "preview": "https://img.aishort.top/imgprompt/20260211135331864.webp"
@@ -2214,7 +2214,7 @@
   },
   {
     "displayName": "mole",
-    "langName": "mol",
+    "langName": "Ben",
     "object": "Karakter",
     "attribute": "Yüz",
     "preview": "https://img.aishort.top/imgprompt/20260317125729198.webp"
@@ -2767,7 +2767,7 @@
   },
   {
     "displayName": "eye_relfection",
-    "langName": "Oküler refleks (göz bebeğinin ışığa tepkisi)",
+    "langName": "Göz parıltısı / yansıması",
     "object": "Karakter",
     "attribute": "Göz",
     "preview": "https://img.aishort.top/imgprompt/20260211141526968.webp"
@@ -2970,7 +2970,7 @@
   },
   {
     "displayName": "solid_oval_eyes",
-    "langName": "Q versiyonu katı oval gözler",
+    "langName": "Chibi tarzı oval gözler",
     "object": "Karakter",
     "attribute": "Göz",
     "preview": "https://img.aishort.top/imgprompt/20260211142239019.webp"
@@ -2984,7 +2984,7 @@
   },
   {
     "displayName": "blush_stickers",
-    "langName": "Q versiyonu allık çıkartması",
+    "langName": "Chibi yanak allık çıkartmaları",
     "object": "Karakter",
     "attribute": "Göz",
     "preview": "https://img.aishort.top/imgprompt/20260211142304171.webp"
@@ -3019,14 +3019,14 @@
   },
   {
     "displayName": "sanpaku",
-    "langName": "Üçlü beyaz sendromu (göz bebeği kayması)",
+    "langName": "Sanpaku gözler",
     "object": "Karakter",
     "attribute": "Göz",
     "preview": "https://img.aishort.top/imgprompt/20260211142408606.webp"
   },
   {
     "displayName": "flaming_eye",
-    "langName": "Homura",
+    "langName": "Alevli gözler",
     "object": "Karakter",
     "attribute": "Göz",
     "preview": "https://img.aishort.top/imgprompt/20260211142422174.webp"
@@ -3082,7 +3082,7 @@
   },
   {
     "displayName": "half_closed_eye",
-    "langName": "Yarı kapalı göz (tek göz)",
+    "langName": "Yarı kapalı göz",
     "object": "Karakter",
     "attribute": "Göz",
     "preview": "https://img.aishort.top/imgprompt/20260211142557836.webp"
@@ -3180,14 +3180,14 @@
   },
   {
     "displayName": "no_blindfold",
-    "langName": "(Orijinal) göz bağı öğesi kaldırıldı",
+    "langName": "Göz bağı yok",
     "object": "Karakter",
     "attribute": "Göz",
     "preview": "https://img.aishort.top/imgprompt/20260211220153156.webp"
   },
   {
     "displayName": "no_eyepatch",
-    "langName": "(Mevcut) göz maskesini çıkardım",
+    "langName": "Göz bandı yok",
     "object": "Karakter",
     "attribute": "Göz",
     "preview": "https://img.aishort.top/imgprompt/20260211142907966.webp"
@@ -3264,7 +3264,7 @@
   },
   {
     "displayName": "solid_circle_pupils",
-    "langName": "Q versiyonu katı yuvarlak göz bebekleri",
+    "langName": "Chibi tarzı yuvarlak göz bebekleri",
     "object": "Karakter",
     "attribute": "Göz bebeği",
     "preview": "https://img.aishort.top/imgprompt/20260211143127812.webp"
@@ -3292,7 +3292,7 @@
   },
   {
     "displayName": "snake_pupils",
-    "langName": "Yılan göz bebekleri (göz bebeği flaşı)",
+    "langName": "Yılan göz bebekleri",
     "object": "Karakter",
     "attribute": "Göz bebeği",
     "preview": "https://img.aishort.top/imgprompt/20260317093813015.webp"
@@ -3376,7 +3376,7 @@
   },
   {
     "displayName": "cross-shaped_pupils",
-    "langName": "Sembolik göz bebekleri (etkisi yok)",
+    "langName": "Haç şeklinde göz bebekleri",
     "object": "Karakter",
     "attribute": "Göz bebeği",
     "preview": "https://img.aishort.top/imgprompt/20260211143449975.webp"
@@ -3670,7 +3670,7 @@
   },
   {
     "displayName": "gasping",
-    "langName": "Nefes nefese kalma (ağzını açma)",
+    "langName": "Nefes nefese kalma",
     "object": "Karakter",
     "attribute": "Ağız",
     "preview": "https://img.aishort.top/imgprompt/20260317100011869.webp"
@@ -3726,7 +3726,7 @@
   },
   {
     "displayName": ":3",
-    "langName": "Maozui",
+    "langName": "Kedi ağzı",
     "object": "Karakter",
     "attribute": "Ağız",
     "preview": "https://img.aishort.top/imgprompt/20260317100112576.webp"
@@ -3761,7 +3761,7 @@
   },
   {
     "displayName": "chestnut_mouth",
-    "langName": "Lizizui",
+    "langName": "Üçgen ağız",
     "object": "Karakter",
     "attribute": "Ağız",
     "preview": "https://img.aishort.top/imgprompt/20260211144640830.webp"
@@ -3817,7 +3817,7 @@
   },
   {
     "displayName": "homu",
-    "langName": "Surat asmak | Surat asmak",
+    "langName": "Surat asmak",
     "object": "Karakter",
     "attribute": "Ağız",
     "preview": "https://img.aishort.top/imgprompt/20260211144827721.webp"
@@ -3901,7 +3901,7 @@
   },
   {
     "displayName": "mouth_drool",
-    "langName": "Salyalı ağız köşesi",
+    "langName": "Ağız kenarından salya akması",
     "object": "Karakter",
     "attribute": "Ağız",
     "preview": "https://img.aishort.top/imgprompt/20260317100321880.webp"
@@ -3964,7 +3964,7 @@
   },
   {
     "displayName": "fang_out",
-    "langName": "Dişleri ortaya çıkarın | Dişleri ortaya çıkarın",
+    "langName": "Dişleri ortaya çıkarın",
     "object": "Karakter",
     "attribute": "Dişler",
     "preview": "https://img.aishort.top/imgprompt/20260317100418214.webp"
@@ -4048,7 +4048,7 @@
   },
   {
     "displayName": "uvula",
-    "langName": "küçük dil | küçük dil | küçük dil",
+    "langName": "küçük dil",
     "object": "Karakter",
     "attribute": "Dil",
     "preview": "https://img.aishort.top/imgprompt/20260211145547542.webp"
@@ -4111,7 +4111,7 @@
   },
   {
     "displayName": "nail",
-    "langName": "Tırnaklar | Tırnaklar",
+    "langName": "Tırnaklar",
     "object": "Karakter",
     "attribute": "Tırnak",
     "preview": "https://img.aishort.top/imgprompt/20260211145741915.webp"
@@ -4167,42 +4167,42 @@
   },
   {
     "displayName": "flat chest",
-    "langName": "Küçük göğüsler (A)",
+    "langName": "Düz göğüs",
     "object": "Karakter",
     "attribute": "Göğüs",
     "preview": "https://img.aishort.top/imgprompt/20260212064123283.webp"
   },
   {
     "displayName": "small_breasts",
-    "langName": "Küçük göğüsler (B)",
+    "langName": "Küçük göğüsler",
     "object": "Karakter",
     "attribute": "Göğüs",
     "preview": "https://img.aishort.top/imgprompt/20260212071540871.webp"
   },
   {
     "displayName": "medium breasts",
-    "langName": "Orta göğüs (C)",
+    "langName": "Orta boy göğüsler",
     "object": "Karakter",
     "attribute": "Göğüs",
     "preview": "https://img.aishort.top/imgprompt/20260212071540873.webp"
   },
   {
     "displayName": "big breasts",
-    "langName": "Büyük göğüsler (D)",
+    "langName": "Büyük göğüsler",
     "object": "Karakter",
     "attribute": "Göğüs",
     "preview": "https://img.aishort.top/imgprompt/20260212071540872.webp"
   },
   {
     "displayName": "huge breasts",
-    "langName": "Büyük Göğüsler (E)",
+    "langName": "Çok büyük göğüsler",
     "object": "Karakter",
     "attribute": "Göğüs",
     "preview": "https://img.aishort.top/imgprompt/20260212071540870.webp"
   },
   {
     "displayName": "gigantic breasts",
-    "langName": "Süper büyük göğüsler (F)",
+    "langName": "Devasa göğüsler",
     "object": "Karakter",
     "attribute": "Göğüs",
     "preview": "https://img.aishort.top/imgprompt/20260212071540874.webp"
@@ -4334,7 +4334,7 @@
   },
   {
     "displayName": "toe-point",
-    "langName": "ayak ucu | ayak ucu",
+    "langName": "ayak ucu",
     "object": "Karakter",
     "attribute": "Ayak",
     "preview": "https://img.aishort.top/imgprompt/20260211150409118.webp"
@@ -4383,7 +4383,7 @@
   },
   {
     "displayName": "detached_wings",
-    "langName": "Vücuda bağlı olmayan kanatlar",
+    "langName": "Ayrık yüzen kanatlar",
     "object": "Karakter",
     "attribute": "Kanat",
     "preview": "https://img.aishort.top/imgprompt/20260211150537125.webp"
@@ -4453,7 +4453,7 @@
   },
   {
     "displayName": "no_wings",
-    "langName": "Çıkarılmış (orijinal) kanatlar",
+    "langName": "Kanatsız",
     "object": "Karakter",
     "attribute": "Kanat",
     "preview": "https://img.aishort.top/imgprompt/20260212072704705.webp"
@@ -4579,7 +4579,7 @@
   },
   {
     "displayName": "foral_background",
-    "langName": "Çiçek desenli dekoratif arka plan",
+    "langName": "Çiçek desenli arka plan",
     "object": "Çevre",
     "attribute": "Arka plan",
     "preview": "https://img.aishort.top/imgprompt/20260211151130102.webp"
@@ -4698,7 +4698,7 @@
   },
   {
     "displayName": "rounded_corners",
-    "langName": "Yuvarlak köşeler",
+    "langName": "Yuvarlatılmış köşeli çerçeve",
     "object": "Çevre",
     "attribute": "Arka plan",
     "preview": "https://img.aishort.top/imgprompt/20260211151506847.webp"
@@ -4712,7 +4712,7 @@
   },
   {
     "displayName": "outside_border",
-    "langName": "Resmin bir kısmı arka plan çerçevesinin dışında",
+    "langName": "Çerçeve dışına taşma",
     "object": "Çevre",
     "attribute": "Arka plan",
     "preview": "https://img.aishort.top/imgprompt/20260211151532945.webp"
@@ -4726,7 +4726,7 @@
   },
   {
     "displayName": "windowboxed",
-    "langName": "Resim çerçevesi seti (arka plan)",
+    "langName": "Pencere çerçevesi efekti",
     "object": "Çevre",
     "attribute": "Arka plan",
     "preview": "https://img.aishort.top/imgprompt/20260211151559726.webp"
@@ -4929,7 +4929,7 @@
   },
   {
     "displayName": "beautiful detailed sky,beautiful detailed water",
-    "langName": "Güzel hava ve güzel su",
+    "langName": "Detaylı gökyüzü ve su",
     "object": "Çevre",
     "attribute": "Doğa",
     "preview": "https://img.aishort.top/imgprompt/20260211152348882.webp"
@@ -4992,7 +4992,7 @@
   },
   {
     "displayName": "Dreamy forest",
-    "langName": "Rüya ormanı (esrarengiz, ışık parçacıkları)",
+    "langName": "Rüya gibi orman",
     "object": "Çevre",
     "attribute": "Doğa",
     "preview": "https://img.aishort.top/imgprompt/20260211152548353.webp"
@@ -5293,7 +5293,7 @@
   },
   {
     "displayName": "star_(sky)",
-    "langName": "yıldızlar (gökyüzündeki)",
+    "langName": "Gökyüzündeki yıldızlar",
     "object": "Çevre",
     "attribute": "Gökyüzü",
     "preview": "https://img.aishort.top/imgprompt/20260211153554967.webp"
@@ -5923,7 +5923,7 @@
   },
   {
     "displayName": "rappelling",
-    "langName": "Düzleştirme (asma)",
+    "langName": "İple iniş",
     "object": "Çevre",
     "attribute": "Dış mekan",
     "preview": "https://img.aishort.top/imgprompt/20260211155514112.webp"
@@ -6098,7 +6098,7 @@
   },
   {
     "displayName": "bar",
-    "langName": "çubuk",
+    "langName": "Bar",
     "object": "Çevre",
     "attribute": "Dış mekan",
     "preview": "https://img.aishort.top/imgprompt/20260211160040875.webp"
@@ -7589,7 +7589,7 @@
   },
   {
     "displayName": "school_bag",
-    "langName": "Okul çantası (el çantası)",
+    "langName": "Okul çantası",
     "object": "Nesneler",
     "attribute": "Okul malzemeleri",
     "preview": "https://img.aishort.top/imgprompt/20260211164633641.webp"
@@ -7820,14 +7820,14 @@
   },
   {
     "displayName": "diamond_(shape)",
-    "langName": "elmas (şekil)",
+    "langName": "Baklava deseni",
     "object": "Nesneler",
     "attribute": "Diğer Öğeler",
     "preview": "https://img.aishort.top/imgprompt/20260211165329674.webp"
   },
   {
     "displayName": "chibi_inset",
-    "langName": "chibi illüstrasyonu",
+    "langName": "Chibi ekleme resmi",
     "object": "Nesneler",
     "attribute": "Diğer Öğeler",
     "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
@@ -7932,7 +7932,7 @@
   },
   {
     "displayName": "sword",
-    "langName": "bıçak",
+    "langName": "Kılıç",
     "object": "Nesneler",
     "attribute": "Silahlar",
     "preview": "https://img.aishort.top/imgprompt/20260211165652659.webp"
@@ -7960,7 +7960,7 @@
   },
   {
     "displayName": "saber_(weapon)",
-    "langName": "kılıç (silah)",
+    "langName": "Süvari kılıcı",
     "object": "Nesneler",
     "attribute": "Silahlar",
     "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
@@ -7988,7 +7988,7 @@
   },
   {
     "displayName": "stake",
-    "langName": "sopa",
+    "langName": "Tahta kazık",
     "object": "Nesneler",
     "attribute": "Silahlar",
     "preview": "https://img.aishort.top/imgprompt/20260211165832380.webp"
@@ -8030,7 +8030,7 @@
   },
   {
     "displayName": "claw_(weapon)",
-    "langName": "pençe (silah)",
+    "langName": "Pençe silahı",
     "object": "Nesneler",
     "attribute": "Silahlar",
     "preview": "https://img.aishort.top/imgprompt/20260211165949084.webp"
@@ -8065,7 +8065,7 @@
   },
   {
     "displayName": "magazine_(weapon)",
-    "langName": "dergi (silah)",
+    "langName": "Silah şarjörü",
     "object": "Nesneler",
     "attribute": "Silahlar",
     "preview": "https://img.aishort.top/imgprompt/20260211170050212.webp"
@@ -8100,7 +8100,7 @@
   },
   {
     "displayName": "tank",
-    "langName": "tank",
+    "langName": "Tank",
     "object": "Nesneler",
     "attribute": "Silahlar",
     "preview": "https://img.aishort.top/imgprompt/20260211170154753.webp"
@@ -9073,7 +9073,7 @@
   },
   {
     "displayName": "dog_tags",
-    "langName": "köpek etiketleri",
+    "langName": "Askeri künye",
     "object": "Nesneler",
     "attribute": "Hayvan",
     "preview": "https://img.aishort.top/imgprompt/20260211173116860.webp"
@@ -9192,7 +9192,7 @@
   },
   {
     "displayName": "lotus",
-    "langName": "lotus",
+    "langName": "Nilüfer çiçeği",
     "object": "Nesneler",
     "attribute": "Bitki",
     "preview": "https://img.aishort.top/imgprompt/20260211173454050.webp"
@@ -9332,7 +9332,7 @@
   },
   {
     "displayName": "Tree Bark",
-    "langName": "havlamak",
+    "langName": "Ağaç kabuğu",
     "object": "Nesneler",
     "attribute": "Bitki",
     "preview": "https://img.aishort.top/imgprompt/20260211173914807.webp"
@@ -9444,7 +9444,7 @@
   },
   {
     "displayName": "leaning",
-    "langName": "Yalın | Yalın",
+    "langName": "Yalın",
     "object": "Hareket",
     "attribute": "Temel Pozlar",
     "preview": "https://img.aishort.top/imgprompt/20260211174241891.webp"
@@ -9563,7 +9563,7 @@
   },
   {
     "displayName": "the_pose",
-    "langName": "Yere uzanın ve ayaklarınızı yukarı kaldırın",
+    "langName": "Yüzüstü yatıp bacakları kaldırma",
     "object": "Hareket",
     "attribute": "Temel Pozlar",
     "preview": "https://img.aishort.top/imgprompt/20260211174615259.webp"
@@ -9591,14 +9591,14 @@
   },
   {
     "displayName": "fetal_position",
-    "langName": "Fetal pozisyon (yatar)",
+    "langName": "Cenin pozisyonu",
     "object": "Hareket",
     "attribute": "Temel Pozlar",
     "preview": "https://img.aishort.top/imgprompt/20260211174706202.webp"
   },
   {
     "displayName": "against_glass",
-    "langName": "sıkma bardağı (geçersiz)",
+    "langName": "Cama yaslanmış",
     "object": "Hareket",
     "attribute": "Temel Pozlar",
     "preview": "https://img.aishort.top/imgprompt/20260211174718789.webp"
@@ -9612,7 +9612,7 @@
   },
   {
     "displayName": "presenting",
-    "langName": "Ekran (arka kısım)",
+    "langName": "Sergileme pozu",
     "object": "Hareket",
     "attribute": "Temel Pozlar",
     "preview": "https://img.aishort.top/imgprompt/20260211174744336.webp"
@@ -9675,7 +9675,7 @@
   },
   {
     "displayName": "eye_contact",
-    "langName": "Göz teması (birbirine bakma)",
+    "langName": "Göz teması",
     "object": "Hareket",
     "attribute": "Bakış İfadeleri",
     "preview": "https://img.aishort.top/imgprompt/20260211174937637.webp"
@@ -9836,7 +9836,7 @@
   },
   {
     "displayName": "aiming_at_viewer",
-    "langName": "Okuyucuyu hedefleyin (perspektif)",
+    "langName": "İzleyiciye nişan alma",
     "object": "Hareket",
     "attribute": "Bakış İfadeleri",
     "preview": "https://img.aishort.top/imgprompt/20260211175428502.webp"
@@ -9934,7 +9934,7 @@
   },
   {
     "displayName": "hands_clasped",
-    "langName": "Her iki elin parmakları çapraz | Eller kenetlendi",
+    "langName": "Kenetlenmiş eller",
     "object": "Hareket",
     "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
@@ -9969,7 +9969,7 @@
   },
   {
     "displayName": "hands_in_opposite_sleeves",
-    "langName": "Ellerinizi çaprazlayın ve kollarınızın içine koyun",
+    "langName": "Eller kollarda gizli",
     "object": "Hareket",
     "attribute": "Kol Duruşları",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
@@ -10172,14 +10172,14 @@
   },
   {
     "displayName": "waving",
-    "langName": "el sallamak (merhaba/hoşça kal demek)",
+    "langName": "El sallama",
     "object": "Hareket",
     "attribute": "El İşaretleri",
     "preview": "https://img.aishort.top/imgprompt/20260211180434501.webp"
   },
   {
     "displayName": "pointing_at_viewer",
-    "langName": "Resme bakan kişiyi işaret edin",
+    "langName": "İzleyiciye işaret etme",
     "object": "Hareket",
     "attribute": "El İşaretleri",
     "preview": "https://img.aishort.top/imgprompt/20260211180447245.webp"
@@ -10249,7 +10249,7 @@
   },
   {
     "displayName": "reaching",
-    "langName": "Uzanmak (kasıtlı olarak)",
+    "langName": "Elini uzatma",
     "object": "Hareket",
     "attribute": "El İşaretleri",
     "preview": "https://img.aishort.top/imgprompt/20260211180655272.webp"
@@ -10312,7 +10312,7 @@
   },
   {
     "displayName": "paw_pose",
-    "langName": "Kedi pençesi pozu (bilek bükük)",
+    "langName": "Kedi patisi pozu",
     "object": "Hareket",
     "attribute": "El İşaretleri",
     "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
@@ -10347,7 +10347,7 @@
   },
   {
     "displayName": "fingersmile",
-    "langName": "Parmaklarınızla gülen yüz yapın",
+    "langName": "Parmaklarla gülümseme yapma",
     "object": "Hareket",
     "attribute": "El İşaretleri",
     "preview": "https://img.aishort.top/imgprompt/20260211180951696.webp"
@@ -10634,7 +10634,7 @@
   },
   {
     "displayName": "holding_eyewear",
-    "langName": "Gözlük tutmak | Gözlükleri çıkarmak",
+    "langName": "Gözlük tutma / çıkarma",
     "object": "Hareket",
     "attribute": "Nesne Tutma",
     "preview": "https://img.aishort.top/imgprompt/20260211181827087.webp"
@@ -10956,21 +10956,21 @@
   },
   {
     "displayName": "hands_on_another's",
-    "langName": "Ellerini başkasının yüzüne koy",
+    "langName": "Eller başkasının yüzünde",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
-    "langName": "Ellerinizi birbirinizin yanaklarına koyun",
+    "langName": "Eller başkasının yanaklarında",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
-    "langName": "Ellerinizi başka birinin omuzlarına koyun",
+    "langName": "Eller başkasının omuzlarında",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
@@ -11026,7 +11026,7 @@
   },
   {
     "displayName": "hands_on_hips",
-    "langName": "eller kalçalarda | eller kalçalarda",
+    "langName": "eller kalçalarda",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260213094956459.webp"
@@ -11068,7 +11068,7 @@
   },
   {
     "displayName": "grabbing_from_behind",
-    "langName": "Arkadan göğüsleri tutma",
+    "langName": "Arkadan göğüsleri kavrama",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
@@ -11110,14 +11110,14 @@
   },
   {
     "displayName": "hands_on_headwear",
-    "langName": "Baştaki süslere iki eliyle dokunmak",
+    "langName": "Eller başlıktaki süste",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
-    "langName": "Ellerinizi bıçağın sapına koyun",
+    "langName": "Eller kabzada",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
@@ -11131,7 +11131,7 @@
   },
   {
     "displayName": "neckwear_grab",
-    "langName": "Giysileri boynuna sıkıca bağlamak",
+    "langName": "Yakayı tutma / çekme",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
@@ -11173,7 +11173,7 @@
   },
   {
     "displayName": "hand_in_another's_hair",
-    "langName": "Ellerinizi diğer kişinin saçına koyun",
+    "langName": "Başkasının saçında el",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
@@ -11208,35 +11208,35 @@
   },
   {
     "displayName": "hand_on_another's_chest",
-    "langName": "Ellerinizi diğer kişinin göğsüne koyun",
+    "langName": "Başkasının göğsünde el",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260211183718013.webp"
   },
   {
     "displayName": "hand_on_another's_chin",
-    "langName": "Diğer kişinin çenesini elinizle tutun",
+    "langName": "Başkasının çenesinde el",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
   },
   {
     "displayName": "hand_on_another's_head",
-    "langName": "Ellerinizi diğer kişinin başına koyun",
+    "langName": "Başkasının kafasında el",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260211183743006.webp"
   },
   {
     "displayName": "hand_on_another's_shoulder",
-    "langName": "Ellerinizi diğer kişinin omuzlarına koyun",
+    "langName": "Başkasının omzunda el",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260211183755722.webp"
   },
   {
     "displayName": "hand_on_another's_stomach",
-    "langName": "Ellerinizi diğer kişinin karnına koyun",
+    "langName": "Başkasının karnında el",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
@@ -11264,14 +11264,14 @@
   },
   {
     "displayName": "hand_on_hilt",
-    "langName": "Bıçağın sapına dayanan el",
+    "langName": "Kabzada el",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
   },
   {
     "displayName": "hand_on_hip",
-    "langName": "eller kalçalarda | eller kalçalarda",
+    "langName": "eller kalçalarda",
     "object": "Hareket",
     "attribute": "Sarılma ve Kavrama",
     "preview": "https://img.aishort.top/imgprompt/20260211183911177.webp"
@@ -11404,14 +11404,14 @@
   },
   {
     "displayName": "standing_split",
-    "langName": "Ayakta açma | Ayakta bacak kaldırma",
+    "langName": "Ayakta bacak açma",
     "object": "Hareket",
     "attribute": "Bacak Hareketleri",
     "preview": "https://img.aishort.top/imgprompt/20260211184306372.webp"
   },
   {
     "displayName": "curtsy",
-    "langName": "Reverans (hizmetçinin selamı)",
+    "langName": "Diz bükerek selamlama",
     "object": "Hareket",
     "attribute": "Bacak Hareketleri",
     "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
@@ -11502,7 +11502,7 @@
   },
   {
     "displayName": "folded",
-    "langName": "Bacaklar havada ve açık (M-pose)",
+    "langName": "Bacakları kendine çekme pozu",
     "object": "Hareket",
     "attribute": "Bacak Hareketleri",
     "preview": "https://img.aishort.top/imgprompt/20260211184601937.webp"
@@ -11544,7 +11544,7 @@
   },
   {
     "displayName": "k/da_(league_of_legends)",
-    "langName": "KDA Takımı (League of Legends)",
+    "langName": "K/DA (League of Legends)",
     "object": "Hareket",
     "attribute": "Bacak Hareketleri",
     "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
@@ -11705,14 +11705,14 @@
   },
   {
     "displayName": "tail_between_legs",
-    "langName": "Kuyruk bacakların arasına kıvrılmış",
+    "langName": "Bacaklar arasına sıkışmış kuyruk",
     "object": "Hareket",
     "attribute": "Bacak Hareketleri",
     "preview": "https://img.aishort.top/imgprompt/20260225100419147.webp"
   },
   {
     "displayName": "covering",
-    "langName": "örtme eylemi",
+    "langName": "Örtünme hareketi",
     "object": "Hareket",
     "attribute": "Vücut Teması",
     "preview": "https://img.aishort.top/imgprompt/20260211185216454.webp"
@@ -11922,14 +11922,14 @@
   },
   {
     "displayName": "spitting",
-    "langName": "ağızdan sıvı tükürme eylemi",
+    "langName": "Tükürme",
     "object": "Hareket",
     "attribute": "Vücut Reaksiyonu",
     "preview": "https://img.aishort.top/imgprompt/20260211185836921.webp"
   },
   {
     "displayName": "spilling",
-    "langName": "Bir kaptan sıvı dökme eylemi",
+    "langName": "Dökme / Taşırma",
     "object": "Hareket",
     "attribute": "Vücut Reaksiyonu",
     "preview": "https://img.aishort.top/imgprompt/20260211185849710.webp"
@@ -12006,7 +12006,7 @@
   },
   {
     "displayName": "dropping",
-    "langName": "(kazara) düşme",
+    "langName": "Düşürme",
     "object": "Hareket",
     "attribute": "Vücut Reaksiyonu",
     "preview": "https://img.aishort.top/imgprompt/20260211190102259.webp"
@@ -12027,7 +12027,7 @@
   },
   {
     "displayName": "flashing",
-    "langName": "maruz ",
+    "langName": "maruz",
     "object": "Hareket",
     "attribute": "Vücut Reaksiyonu",
     "preview": "https://img.aishort.top/imgprompt/20260212080417447.webp"
@@ -12055,7 +12055,7 @@
   },
   {
     "displayName": "lifted_by_another",
-    "langName": "Diğer tarafın kıyafetlerinden kaldırılmak",
+    "langName": "Başkası tarafından kıyafetin kaldırılması",
     "object": "Hareket",
     "attribute": "Vücut Reaksiyonu",
     "preview": "https://img.aishort.top/imgprompt/20260211190232075.webp"
@@ -12111,7 +12111,7 @@
   },
   {
     "displayName": "drying",
-    "langName": "Kuru (banyodan sonra)",
+    "langName": "Kurulanma",
     "object": "Hareket",
     "attribute": "Günlük Yaşam",
     "preview": "https://img.aishort.top/imgprompt/20260211190415978.webp"
@@ -12125,14 +12125,14 @@
   },
   {
     "displayName": "cleaning",
-    "langName": "temizlemek |",
+    "langName": "temizlemek",
     "object": "Hareket",
     "attribute": "Günlük Yaşam",
     "preview": "https://img.aishort.top/imgprompt/20260211190440252.webp"
   },
   {
     "displayName": "sweeping",
-    "langName": "Temizlik | Süpürme (ev işi)",
+    "langName": "Süpürme / Temizlik",
     "object": "Hareket",
     "attribute": "Günlük Yaşam",
     "preview": "https://img.aishort.top/imgprompt/20260211190452774.webp"
@@ -12258,7 +12258,7 @@
   },
   {
     "displayName": "sleeping_upright",
-    "langName": "(yatmadan) uyumak | dik uyumak",
+    "langName": "Ayakta / oturarak uyuma",
     "object": "Hareket",
     "attribute": "Günlük Yaşam",
     "preview": "https://img.aishort.top/imgprompt/20260211190844518.webp"
@@ -12412,14 +12412,14 @@
   },
   {
     "displayName": "shared_food",
-    "langName": "Yiyecek paylaşma | Ağızdan ağıza besleme",
+    "langName": "Yemek paylaşımı",
     "object": "Hareket",
     "attribute": "Duygusal Etkileşim",
     "preview": "https://img.aishort.top/imgprompt/20260211191325544.webp"
   },
   {
     "displayName": "shared_bathing",
-    "langName": "Ortak banyo | Yuanyang banyosu",
+    "langName": "Birlikte banyo yapma",
     "object": "Hareket",
     "attribute": "Duygusal Etkileşim",
     "preview": "https://img.aishort.top/imgprompt/20260211191338217.webp"
@@ -12461,14 +12461,14 @@
   },
   {
     "displayName": "asymmetrical_docking",
-    "langName": "Göğüsler temas halinde | Göğüs bastırma",
+    "langName": "Göğüslerin birbirine teması",
     "object": "Hareket",
     "attribute": "Duygusal Etkileşim",
     "preview": "https://img.aishort.top/imgprompt/20260211191454771.webp"
   },
   {
     "displayName": "special_feeling_(meme)",
-    "langName": "Karda şemsiye tutan aşıklar",
+    "langName": "Özel his",
     "object": "Hareket",
     "attribute": "Duygusal Etkileşim",
     "preview": "https://img.aishort.top/imgprompt/20260211191507001.webp"
@@ -12608,7 +12608,7 @@
   },
   {
     "displayName": "wrestling",
-    "langName": "güreş (spor)",
+    "langName": "Güreş",
     "object": "Hareket",
     "attribute": "Egzersiz",
     "preview": "https://img.aishort.top/imgprompt/20260211191925002.webp"
@@ -12818,7 +12818,7 @@
   },
   {
     "displayName": "skirt_flip",
-    "langName": "Etek kaldırıldı (acil durum anlamı dahil)",
+    "langName": "Etek havalanması",
     "object": "Hareket",
     "attribute": "Kıyafetleri Düzeltme",
     "preview": "https://img.aishort.top/imgprompt/20260317125226840.webp"
@@ -12895,7 +12895,7 @@
   },
   {
     "displayName": "tying",
-    "langName": "Düğüm atmak (eylem)",
+    "langName": "Düğüm atma",
     "object": "Hareket",
     "attribute": "Kıyafetleri Düzeltme",
     "preview": "https://img.aishort.top/imgprompt/20260211192806302.webp"
@@ -12930,7 +12930,7 @@
   },
   {
     "displayName": "pulled_by_another",
-    "langName": "Başkası tarafından çekilme",
+    "langName": "Biri tarafından çekilme",
     "object": "Hareket",
     "attribute": "Kıyafetleri Düzeltme",
     "preview": "https://img.aishort.top/imgprompt/20260317125423077.webp"
@@ -12993,7 +12993,7 @@
   },
   {
     "displayName": "holding_bow_(weapon)",
-    "langName": "Bir yay (silah) tutmak",
+    "langName": "Yay tutma",
     "object": "Hareket",
     "attribute": "Silahlar ve Ekipman",
     "preview": "https://img.aishort.top/imgprompt/20260211193102894.webp"
@@ -13084,7 +13084,7 @@
   },
   {
     "displayName": "Kabedon",
-    "langName": "duvar çarpması",
+    "langName": "Kabedon",
     "object": "Hareket",
     "attribute": "Özel Pozlar",
     "preview": "https://img.aishort.top/imgprompt/20260211193512046.webp"
@@ -13412,7 +13412,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211194606041.webp"
   },
   {
-    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset)),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
+    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset))),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
     "langName": "alacakaranlık yöntemi",
     "object": "Hareket",
     "attribute": "Büyü",
@@ -13525,7 +13525,7 @@
   },
   {
     "displayName": "((full body)),(helpless),tear,crying,(((((falling from the sky))))),((Weathering With You)),((falling)),((face towards the sky)),(hair flows upwards),((disheveled hair)),(1 girl),floating,beautiful detailed sky",
-    "langName": "Düşüş Tarzı (gökyüzü sahnesi)",
+    "langName": "Gökyüzünden düşüş kompozisyonu",
     "object": "Hareket",
     "attribute": "Büyü",
     "preview": "https://img.aishort.top/imgprompt/20260211194938656.webp"
@@ -13727,7 +13727,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195607630.webp"
   },
   {
-    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood))),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
+    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood)),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
     "langName": "kan reformu yasası",
     "object": "Hareket",
     "attribute": "Büyü",
@@ -14002,7 +14002,7 @@
   },
   {
     "displayName": "disgust",
-    "langName": "Tiksinti (çöp gibi görünüyor)",
+    "langName": "Tiksinme / Hor görme",
     "object": "İfade",
     "attribute": "Küçümseme",
     "preview": "https://img.aishort.top/imgprompt/20260317071358725.webp"
@@ -14023,7 +14023,7 @@
   },
   {
     "displayName": "shaded_face",
-    "langName": "Yüzünde bir gölge var, küçümsemeyle eşleşen",
+    "langName": "Gölgeli yüz",
     "object": "İfade",
     "attribute": "Küçümseme",
     "preview": "https://img.aishort.top/imgprompt/20260212085009132.webp"
@@ -14044,7 +14044,7 @@
   },
   {
     "displayName": "wince",
-    "langName": "Kaş çatma (cinsel ilişkiden önce)",
+    "langName": "Yüzünü buruşturma / İrkilme",
     "object": "İfade",
     "attribute": "Küçümseme",
     "preview": "https://img.aishort.top/imgprompt/20260212085045682.webp"
@@ -14079,7 +14079,7 @@
   },
   {
     "displayName": "serious",
-    "langName": "Ciddi (öfkeli benzeri)",
+    "langName": "Ciddi",
     "object": "İfade",
     "attribute": "Sinirli",
     "preview": "https://img.aishort.top/imgprompt/20260212085145957.webp"
@@ -14163,7 +14163,7 @@
   },
   {
     "displayName": "embarrass",
-    "langName": "utangaç (beceriksiz)",
+    "langName": "Utanmış",
     "object": "İfade",
     "attribute": "Diğer ifadeler",
     "preview": "https://img.aishort.top/imgprompt/20260212085408608.webp"
@@ -14380,7 +14380,7 @@
   },
   {
     "displayName": "torogao",
-    "langName": "Puslu bakış (Torogao)",
+    "langName": "Torogao",
     "object": "İfade",
     "attribute": "Diğer ifadeler",
     "preview": "https://img.aishort.top/imgprompt/20260228103646110.webp"
@@ -14702,7 +14702,7 @@
   },
   {
     "displayName": "hanten_clothes",
-    "langName": "Toumata (Japon usulü)",
+    "langName": "Hanten",
     "object": "Giyim",
     "attribute": "Giyim tarzı",
     "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
@@ -14716,7 +14716,7 @@
   },
   {
     "displayName": "furisode",
-    "langName": "Furisode (kimononun bir parçası)",
+    "langName": "Furisode",
     "object": "Giyim",
     "attribute": "Giyim tarzı",
     "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
@@ -14744,14 +14744,14 @@
   },
   {
     "displayName": "uchikake",
-    "langName": "Bai Wujia (Japon gelinliği)",
+    "langName": "Uchikake / Shiromuku",
     "object": "Giyim",
     "attribute": "Giyim tarzı",
     "preview": "https://img.aishort.top/imgprompt/20260212110020279.webp"
   },
   {
     "displayName": "obi",
-    "langName": "Obi (kimono kuşağı)",
+    "langName": "Obi (Kuşak)",
     "object": "Giyim",
     "attribute": "Giyim tarzı",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -14800,7 +14800,7 @@
   },
   {
     "displayName": "Ao_Dai",
-    "langName": "Vietnam kıyafetleri (Ao Dai)",
+    "langName": "Ao Dai",
     "object": "Giyim",
     "attribute": "Giyim tarzı",
     "preview": "https://img.aishort.top/imgprompt/20260212112032273.webp"
@@ -14947,14 +14947,14 @@
   },
   {
     "displayName": "alternate_costume",
-    "langName": "Alternatif kostüm (orijinalden farklı)",
+    "langName": "Alternatif kostüm",
     "object": "Giyim",
     "attribute": "Giyim tarzı",
     "preview": "https://img.aishort.top/imgprompt/20260212120626953.webp"
   },
   {
     "displayName": "costume_switch",
-    "langName": "kıyafet değiştir oyna",
+    "langName": "Kostüm değişimi",
     "object": "Giyim",
     "attribute": "Giyim tarzı",
     "preview": "https://img.aishort.top/imgprompt/20260212120842799.webp"
@@ -15136,7 +15136,7 @@
   },
   {
     "displayName": "suit",
-    "langName": "Uygun olmak",
+    "langName": "Takım elbise",
     "object": "Giyim",
     "attribute": "Resmi giyim",
     "preview": "https://img.aishort.top/imgprompt/20260212125712788.webp"
@@ -15164,7 +15164,7 @@
   },
   {
     "displayName": "evening_gown",
-    "langName": "Gece elbisesi (uzun)",
+    "langName": "Gece elbisesi",
     "object": "Giyim",
     "attribute": "Resmi giyim",
     "preview": "https://img.aishort.top/imgprompt/20260212125805414.webp"
@@ -15206,7 +15206,7 @@
   },
   {
     "displayName": "serafuku",
-    "langName": "Denizci üniforması (okul üniforması)",
+    "langName": "Denizci okul üniforması",
     "object": "Giyim",
     "attribute": "Resmi giyim",
     "preview": "https://img.aishort.top/imgprompt/20260212130530516.webp"
@@ -15542,7 +15542,7 @@
   },
   {
     "displayName": "school_swimsuit",
-    "langName": "Okul mayoları (Suiku su)",
+    "langName": "Okul mayosu",
     "object": "Giyim",
     "attribute": "Mayo",
     "preview": "https://img.aishort.top/imgprompt/20260225102036109.webp"
@@ -15605,7 +15605,7 @@
   },
   {
     "displayName": "swimsuit_of_perpetual_summer",
-    "langName": "Chang Xia'nın mayosu (fgo okul kızı ruh kıyafeti)",
+    "langName": "Bitmeyen Yaz Mayosu (FGO)",
     "object": "Giyim",
     "attribute": "Mayo",
     "preview": "https://img.aishort.top/imgprompt/20260317071630637.webp"
@@ -15878,14 +15878,14 @@
   },
   {
     "displayName": "swimsuit_aside",
-    "langName": "Mayonun kasık kısmını bir kenara çekin",
+    "langName": "Mayoyu yana kaydırma",
     "object": "Giyim",
     "attribute": "Mayo",
     "preview": "https://img.aishort.top/imgprompt/20260212152012611.webp"
   },
   {
     "displayName": "swimsuit_under_clothes",
-    "langName": "Giysilerin altına mayo giymek",
+    "langName": "Kıyafetin altına giyilen mayo",
     "object": "Giyim",
     "attribute": "Mayo",
     "preview": "https://img.aishort.top/imgprompt/20260317072817093.webp"
@@ -15990,7 +15990,7 @@
   },
   {
     "displayName": "chi-hatan_military_uniform",
-    "langName": "Zhiha Dan Akademisi Üniforması",
+    "langName": "Chi-Ha-Tan Akademisi askeri üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260212153151798.webp"
@@ -16025,21 +16025,21 @@
   },
   {
     "displayName": "hikarizaka_private_high_school_uniform",
-    "langName": "Özel Mitsusaka Lisesi üniformaları",
+    "langName": "Özel Hikarizaka Lisesi üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260212153257185.webp"
   },
   {
     "displayName": "homurahara_academy_uniform",
-    "langName": "Sui Gunhara Akademisi Üniforması",
+    "langName": "Homurahara Akademisi üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260212153310241.webp"
   },
   {
     "displayName": "kamiyama_high_school_uniform",
-    "langName": "Kailash Lisesi Üniforması",
+    "langName": "Kamiyama Lisesi üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260212153323486.webp"
@@ -16088,21 +16088,21 @@
   },
   {
     "displayName": "nami_junior_high_school_uniform",
-    "langName": "Bolu ortaokulu üniforması",
+    "langName": "Nami Ortaokulu üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260212153455870.webp"
   },
   {
     "displayName": "nanairogaoka_middle_school_uniform",
-    "langName": "Qiseqiu ortaokulu üniforması",
+    "langName": "Nanairogaoka Ortaokulu üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260212153509132.webp"
   },
   {
     "displayName": "nanamori_school_uniform",
-    "langName": "Qisen Ortaokulu üniforması",
+    "langName": "Nanamori Ortaokulu üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260212153725574.webp"
@@ -16172,14 +16172,14 @@
   },
   {
     "displayName": "rabbit_house_uniform",
-    "langName": "Diantutu Evi Üniforması",
+    "langName": "Rabbit House üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260213055157775.webp"
   },
   {
     "displayName": "raimon_soccer_uniform",
-    "langName": "Thunder Gate Futbol Forması",
+    "langName": "Raimon futbol takımı forması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260213055210653.webp"
@@ -16193,7 +16193,7 @@
   },
   {
     "displayName": "sakugawa_school_uniform",
-    "langName": "Zhachuan ortaokulu üniforması",
+    "langName": "Sakugawa Ortaokulu üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260213055439290.webp"
@@ -16242,7 +16242,7 @@
   },
   {
     "displayName": "shuujin_academy_uniform",
-    "langName": "Üniversite üniformalarını sergile",
+    "langName": "Shujin Akademisi üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260213060421601.webp"
@@ -16263,28 +16263,28 @@
   },
   {
     "displayName": "starlight_academy_uniform",
-    "langName": "Star Optik Park Üniforması",
+    "langName": "Starlight Akademisi üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260213060500805.webp"
   },
   {
     "displayName": "tokisadame_school_uniform",
-    "langName": "Normal üniversite üniformaları",
+    "langName": "Tokisadame Lisesi üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260213060513970.webp"
   },
   {
     "displayName": "tokiwadai_school_uniform",
-    "langName": "Tokiwa Taichung Okul Üniforması",
+    "langName": "Tokiwadai Ortaokulu üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260213060526744.webp"
   },
   {
     "displayName": "tomoeda_elementary_school_uniform",
-    "langName": "Youzhi ilkokul üniforması",
+    "langName": "Tomoeda İlkokul üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260213060539748.webp"
@@ -16298,14 +16298,14 @@
   },
   {
     "displayName": "u.a._school_uniform",
-    "langName": "Xiongying Lisesi Üniforması",
+    "langName": "U.A. Lisesi üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260213060607357.webp"
   },
   {
     "displayName": "uranohoshi_school_uniform",
-    "langName": "Ura no Hoshi Kız Koleji üniforması",
+    "langName": "Uranohoshi Kız Lisesi üniforması",
     "object": "Giyim",
     "attribute": "Okul üniforması",
     "preview": "https://img.aishort.top/imgprompt/20260213060620807.webp"
@@ -16424,7 +16424,7 @@
   },
   {
     "displayName": "short sleeve T-shirts",
-    "langName": "Kısa kollu tişört (omuzdan askılı gömlek)",
+    "langName": "Kısa kollu tişört",
     "object": "Giyim",
     "attribute": "Üst Giyim",
     "preview": "https://img.aishort.top/imgprompt/20260213063027450.webp"
@@ -16466,7 +16466,7 @@
   },
   {
     "displayName": "tank_top",
-    "langName": "yelek (ev)",
+    "langName": "Askılı atlet",
     "object": "Giyim",
     "attribute": "Üst Giyim",
     "preview": "https://img.aishort.top/imgprompt/20260213064156253.webp"
@@ -16494,7 +16494,7 @@
   },
   {
     "displayName": "vest",
-    "langName": "yelek (resmi)",
+    "langName": "Yelek",
     "object": "Giyim",
     "attribute": "Üst Giyim",
     "preview": "https://img.aishort.top/imgprompt/20260213064408586.webp"
@@ -16508,7 +16508,7 @@
   },
   {
     "displayName": "waistcoat",
-    "langName": "Yelek (resmi)",
+    "langName": "Yelek",
     "object": "Giyim",
     "attribute": "Üst Giyim",
     "preview": "https://img.aishort.top/imgprompt/20260213064435011.webp"
@@ -16599,7 +16599,7 @@
   },
   {
     "displayName": "kappougi",
-    "langName": "bir bluz (yemek pişirirken giyilen)",
+    "langName": "Kappougi",
     "object": "Giyim",
     "attribute": "Üst Giyim",
     "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
@@ -16662,7 +16662,7 @@
   },
   {
     "displayName": "tied_shirt",
-    "langName": "Bağcıklı gömlek (köşeleri ve eteği düğümleyin)",
+    "langName": "Düğümlü gömlek",
     "object": "Giyim",
     "attribute": "Üst Giyim",
     "preview": "https://img.aishort.top/imgprompt/20260213070412064.webp"
@@ -16746,7 +16746,7 @@
   },
   {
     "displayName": "button_gap",
-    "langName": "Düğmeler arasındaki boşluk (açılmamış)",
+    "langName": "Düğme arası boşluk",
     "object": "Giyim",
     "attribute": "Üst Giyim",
     "preview": "https://img.aishort.top/imgprompt/20260213071455826.webp"
@@ -16879,21 +16879,21 @@
   },
   {
     "displayName": "strap_slip",
-    "langName": "Omuz askısı kaydı (sızıntıya yol açtı)",
+    "langName": "Omuz askısının düşmesi",
     "object": "Giyim",
     "attribute": "Üst Giyim",
     "preview": "https://img.aishort.top/imgprompt/20260228101844680.webp"
   },
   {
     "displayName": "wedgie",
-    "langName": "Külot çekme (Wedgie)",
+    "langName": "İç çamaşırı sıkışması",
     "object": "Giyim",
     "attribute": "Üst Giyim",
     "preview": "https://img.aishort.top/imgprompt/20260225103744943.webp"
   },
   {
     "displayName": "wardrobe_malfunction",
-    "langName": "Giysilere bir şey oldu (örneğin parçalandı)",
+    "langName": "Kıyafet azizliği",
     "object": "Giyim",
     "attribute": "Üst Giyim",
     "preview": "https://img.aishort.top/imgprompt/20260213075235531.webp"
@@ -16970,7 +16970,7 @@
   },
   {
     "displayName": "blazer",
-    "langName": "blazer",
+    "langName": "Blazer ceket",
     "object": "Giyim",
     "attribute": "Kaban",
     "preview": "https://img.aishort.top/imgprompt/20260213075446251.webp"
@@ -16984,7 +16984,7 @@
   },
   {
     "displayName": "double-breasted",
-    "langName": "Çift düğmeli (çift düğmeli) düğmeler",
+    "langName": "Kruvaze",
     "object": "Giyim",
     "attribute": "Kaban",
     "preview": "https://img.aishort.top/imgprompt/20260213075715469.webp"
@@ -17054,7 +17054,7 @@
   },
   {
     "displayName": "jacket_partially_removed",
-    "langName": "Ceket kısmen çıkarılmış",
+    "langName": "Yarı çıkarılmış ceket",
     "object": "Giyim",
     "attribute": "Kaban",
     "preview": "https://img.aishort.top/imgprompt/20260213081023629.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "hırka ceket (bacakları açık)",
+    "langName": "Açık ceket",
     "object": "Giyim",
     "attribute": "Kaban",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -18048,7 +18048,7 @@
   },
   {
     "displayName": "corset",
-    "langName": "Korse (yelek)",
+    "langName": "Korse",
     "object": "Giyim",
     "attribute": "Bel",
     "preview": "https://img.aishort.top/imgprompt/20260225104053785.webp"
@@ -18097,7 +18097,7 @@
   },
   {
     "displayName": "kusazuri",
-    "langName": "Fudang | Kusazuri (Japon alt yarım zırhı)",
+    "langName": "Kusazuri",
     "object": "Giyim",
     "attribute": "Zırh",
     "preview": "https://img.aishort.top/imgprompt/20260213115508736.webp"
@@ -18118,7 +18118,7 @@
   },
   {
     "displayName": "kabuto",
-    "langName": "Miğfer (Japon tarzı)",
+    "langName": "Kabuto",
     "object": "Giyim",
     "attribute": "Zırh",
     "preview": "https://img.aishort.top/imgprompt/20260213115548290.webp"
@@ -18132,7 +18132,7 @@
   },
   {
     "displayName": "shoulder_armor",
-    "langName": "Omuzlar",
+    "langName": "Omuz zırhı",
     "object": "Giyim",
     "attribute": "Zırh",
     "preview": "https://img.aishort.top/imgprompt/20260213115612426.webp"
@@ -18153,14 +18153,14 @@
   },
   {
     "displayName": "faulds",
-    "langName": "plastron",
+    "langName": "Bel ve kalça zırhı",
     "object": "Giyim",
     "attribute": "Zırh",
     "preview": "https://img.aishort.top/imgprompt/20260213115855297.webp"
   },
   {
     "displayName": "greaves",
-    "langName": "Greaves",
+    "langName": "Baldır zırhı",
     "object": "Giyim",
     "attribute": "Zırh",
     "preview": "https://img.aishort.top/imgprompt/20260213115908428.webp"
@@ -18237,7 +18237,7 @@
   },
   {
     "displayName": "sundress",
-    "langName": "Slip elbise (sıcak havalar için kolsuz elbise)",
+    "langName": "Güneş elbisesi",
     "object": "Giyim",
     "attribute": "Etek",
     "preview": "https://img.aishort.top/imgprompt/20260213121003959.webp"
@@ -18342,7 +18342,7 @@
   },
   {
     "displayName": "impossible_dress",
-    "langName": "Çok dar giysiler",
+    "langName": "Vücuda yapışan ultra dar elbise",
     "object": "Giyim",
     "attribute": "Etek",
     "preview": "https://img.aishort.top/imgprompt/20260213122932976.webp"
@@ -18454,14 +18454,14 @@
   },
   {
     "displayName": "ballgown",
-    "langName": "tutu (elbise)",
+    "langName": "Balo elbisesi",
     "object": "Giyim",
     "attribute": "Etek",
     "preview": "https://img.aishort.top/imgprompt/20260213123502356.webp"
   },
   {
     "displayName": "pettiskirt",
-    "langName": "tutu (çocuklar)",
+    "langName": "Fırfırlı kabarık etek",
     "object": "Giyim",
     "attribute": "Etek",
     "preview": "https://img.aishort.top/imgprompt/20260213123515479.webp"
@@ -18657,7 +18657,7 @@
   },
   {
     "displayName": "skirt_tug",
-    "langName": "Eteğin eteğini tut | Eteğin eteğini tut",
+    "langName": "Eteğin eteğini tut",
     "object": "Giyim",
     "attribute": "Etek",
     "preview": "https://img.aishort.top/imgprompt/20260213132657290.webp"
@@ -18811,14 +18811,14 @@
   },
   {
     "displayName": "dolphin_shorts",
-    "langName": "Dolphin şort (doğruluk pantolonu)",
+    "langName": "Dolphin şort",
     "object": "Giyim",
     "attribute": "Pantolon",
     "preview": "https://img.aishort.top/imgprompt/20260213134352207.webp"
   },
   {
     "displayName": "dolfin_shorts",
-    "langName": "Dolphin şort (doğruluk pantolonu)",
+    "langName": "Dolphin şort",
     "object": "Giyim",
     "attribute": "Pantolon",
     "preview": "https://img.aishort.top/imgprompt/20260213134404755.webp"
@@ -18832,7 +18832,7 @@
   },
   {
     "displayName": "crotchless_pants",
-    "langName": "Kasık altı açık pantolon (dar)",
+    "langName": "Ağsız pantolon",
     "object": "Giyim",
     "attribute": "Pantolon",
     "preview": "https://img.aishort.top/imgprompt/20260213134430564.webp"
@@ -18937,14 +18937,14 @@
   },
   {
     "displayName": "chaps",
-    "langName": "Deri pantolon (üst kısmı geniş, alt kısmı dar)",
+    "langName": "Deri binici bacaklığı",
     "object": "Giyim",
     "attribute": "Pantolon",
     "preview": "https://img.aishort.top/imgprompt/20260213134945047.webp"
   },
   {
     "displayName": "jumpsuit",
-    "langName": "(özellikle kadınların) tulumu",
+    "langName": "Tulum",
     "object": "Giyim",
     "attribute": "Pantolon",
     "preview": "https://img.aishort.top/imgprompt/20260213134957992.webp"
@@ -18979,7 +18979,7 @@
   },
   {
     "displayName": "leotard_aside",
-    "langName": "Tulumun kasık kısmını bir kenara doğru soyun",
+    "langName": "Mayoyu yana kaydırma",
     "object": "Giyim",
     "attribute": "Pantolon",
     "preview": "https://img.aishort.top/imgprompt/20260213135915193.webp"
@@ -19140,21 +19140,21 @@
   },
   {
     "displayName": "pantyhose",
-    "langName": "külotlu çorap | külotlu çorap",
+    "langName": "külotlu çorap",
     "object": "Giyim",
     "attribute": "Çorap",
     "preview": "https://img.aishort.top/imgprompt/20260213142442251.webp"
   },
   {
     "displayName": "legwear",
-    "langName": "Külotlu çorap",
+    "langName": "Bacak giyimi / Çorap",
     "object": "Giyim",
     "attribute": "Çorap",
     "preview": "https://img.aishort.top/imgprompt/20260225104603819.webp"
   },
   {
     "displayName": "thighhighs",
-    "langName": "Çoraplar (diz üstü çoraplar)",
+    "langName": "Dizüstü çorap",
     "object": "Giyim",
     "attribute": "Çorap",
     "preview": "https://img.aishort.top/imgprompt/20260213142506603.webp"
@@ -19217,7 +19217,7 @@
   },
   {
     "displayName": "pantylines",
-    "langName": "Dar tayt (çizgileri ana hatlarıyla belirtin)",
+    "langName": "Belirgin iç çamaşırı çizgisi",
     "object": "Giyim",
     "attribute": "Çorap",
     "preview": "https://img.aishort.top/imgprompt/20260317074408132.webp"
@@ -19357,7 +19357,7 @@
   },
   {
     "displayName": "back-seamed_legwear",
-    "langName": "Ortasında siyah çizgi bulunan çoraplar",
+    "langName": "Arka dikişli çorap",
     "object": "Giyim",
     "attribute": "Çorap",
     "preview": "https://img.aishort.top/imgprompt/20260225104949341.webp"
@@ -19413,14 +19413,14 @@
   },
   {
     "displayName": "bobby_socks",
-    "langName": "Bobby çorapları (beyaz çoraplar)",
+    "langName": "Kıvrık beyaz çorap (Bobby socks)",
     "object": "Giyim",
     "attribute": "Çorap",
     "preview": "https://img.aishort.top/imgprompt/20260213144125119.webp"
   },
   {
     "displayName": "tabi",
-    "langName": "Japon kalın tabanlı çoraplar (ayak cepleri)",
+    "langName": "Tabi (Japon çorabı)",
     "object": "Giyim",
     "attribute": "Çorap",
     "preview": "https://img.aishort.top/imgprompt/20260213144138485.webp"
@@ -19434,7 +19434,7 @@
   },
   {
     "displayName": "leg_warmers",
-    "langName": "Bacak ısıtıcıları | bacak ısıtıcıları",
+    "langName": "Bacak ısıtıcıları",
     "object": "Giyim",
     "attribute": "Çorap",
     "preview": "https://img.aishort.top/imgprompt/20260213144203562.webp"
@@ -19518,7 +19518,7 @@
   },
   {
     "displayName": "thigh_holster",
-    "langName": "Bacakta bir kayış veya alet çantası veya kılıf",
+    "langName": "Uyluk kılıfı",
     "object": "Giyim",
     "attribute": "Çorap",
     "preview": "https://img.aishort.top/imgprompt/20260213144441392.webp"
@@ -19546,7 +19546,7 @@
   },
   {
     "displayName": "arm_garter",
-    "langName": "patlama jartiyerleri",
+    "langName": "Kol jartiyeri / Kol bandı",
     "object": "Giyim",
     "attribute": "Çorap",
     "preview": "https://img.aishort.top/imgprompt/20260213144735280.webp"
@@ -19658,14 +19658,14 @@
   },
   {
     "displayName": "sock_pull",
-    "langName": "Çorap giymek",
+    "langName": "Çoraplarını yukarı çekme",
     "object": "Giyim",
     "attribute": "Çorap",
     "preview": "https://img.aishort.top/imgprompt/20260213150519193.webp"
   },
   {
     "displayName": "thighhighs_pull",
-    "langName": "Çorap giymek",
+    "langName": "Uzun çoraplarını yukarı çekme",
     "object": "Giyim",
     "attribute": "Çorap",
     "preview": "https://img.aishort.top/imgprompt/20260225090322289.webp"
@@ -19686,7 +19686,7 @@
   },
   {
     "displayName": "crease",
-    "langName": "buruşuk (katlanmış)",
+    "langName": "Kumaş kat izi",
     "object": "Giyim",
     "attribute": "Süsleme",
     "preview": "https://img.aishort.top/imgprompt/20260213150609920.webp"
@@ -19755,7 +19755,7 @@
   },
   {
     "displayName": "back_bow",
-    "langName": "(giysi) arkadan bağlanmış düğüm",
+    "langName": "Sırt fiyonku",
     "object": "Giyim",
     "attribute": "Süsleme",
     "preview": "https://img.aishort.top/imgprompt/20260213151221218.webp"
@@ -19769,7 +19769,7 @@
   },
   {
     "displayName": "double_vertical_stripe",
-    "langName": "Giyside iki paralel şerit var",
+    "langName": "Çift dikey çizgi",
     "object": "Giyim",
     "attribute": "Süsleme",
     "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
@@ -19818,14 +19818,14 @@
   },
   {
     "displayName": "single_kneehigh",
-    "langName": "Diz hizasında giysilerin bir tarafta giyilmesi",
+    "langName": "Tek bacakta dizüstü çorap",
     "object": "Giyim",
     "attribute": "Süsleme",
     "preview": "https://img.aishort.top/imgprompt/20260213151419710.webp"
   },
   {
     "displayName": "single_vertical_stripe",
-    "langName": "Tek dikey şerit (yan)",
+    "langName": "Tek dikey çizgi",
     "object": "Giyim",
     "attribute": "Süsleme",
     "preview": "https://img.aishort.top/imgprompt/20260213151432314.webp"
@@ -19839,7 +19839,7 @@
   },
   {
     "displayName": "two-sided_fabric",
-    "langName": "Çift katmanlı stil giyim çizim yöntemi",
+    "langName": "Çift taraflı kumaş",
     "object": "Giyim",
     "attribute": "Süsleme",
     "preview": "https://img.aishort.top/imgprompt/20260213151458665.webp"
@@ -19860,21 +19860,21 @@
   },
   {
     "displayName": "fringe_trim",
-    "langName": "Kenar (eşarbın ucu)",
+    "langName": "Püskül kenar süsü",
     "object": "Giyim",
     "attribute": "Süsleme",
     "preview": "https://img.aishort.top/imgprompt/20260213151538074.webp"
   },
   {
     "displayName": "loose_belt",
-    "langName": "Gevşek askılar (giysiler)",
+    "langName": "Gevşek kemer",
     "object": "Giyim",
     "attribute": "Süsleme",
     "preview": "https://img.aishort.top/imgprompt/20260213151551376.webp"
   },
   {
     "displayName": "pom_pom_(clothes)",
-    "langName": "Küçük ponponlar (giyim aksesuarları)",
+    "langName": "Ponpon süsü",
     "object": "Giyim",
     "attribute": "Süsleme",
     "preview": "https://img.aishort.top/imgprompt/20260213151807325.webp"
@@ -19895,7 +19895,7 @@
   },
   {
     "displayName": "gathers",
-    "langName": "pileler (giysi)",
+    "langName": "Büzgülü kumaş",
     "object": "Giyim",
     "attribute": "Süsleme",
     "preview": "https://img.aishort.top/imgprompt/20260213151846596.webp"
@@ -20441,7 +20441,7 @@
   },
   {
     "displayName": "peace_symbol",
-    "langName": "☮(Higashikata Josuke'nin kıyafetlerinde)",
+    "langName": "Barış sembolü (☮)",
     "object": "Giyim",
     "attribute": "Desen",
     "preview": "https://img.aishort.top/imgprompt/20260213154359591.webp"
@@ -20595,7 +20595,7 @@
   },
   {
     "displayName": "black_loafers",
-    "langName": "Loafer'lar (küçük deri ayakkabılar)",
+    "langName": "Siyah loafer ayakkabı",
     "object": "Giyim",
     "attribute": "Ayakkabı",
     "preview": "https://img.aishort.top/imgprompt/20260213160300808.webp"
@@ -20868,7 +20868,7 @@
   },
   {
     "displayName": "knee_boots",
-    "langName": "Diz üstü çizmeler (binici çizmeleri)",
+    "langName": "Dize kadar çizme",
     "object": "Giyim",
     "attribute": "Botlar",
     "preview": "https://img.aishort.top/imgprompt/20260213170630231.webp"
@@ -21225,7 +21225,7 @@
   },
   {
     "displayName": "armband",
-    "langName": "kol bandı (kol bandı)",
+    "langName": "Pazubent / Kol bandı",
     "object": "Giyim",
     "attribute": "Kollar",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
@@ -21386,7 +21386,7 @@
   },
   {
     "displayName": "Rayon",
-    "langName": "Rayon",
+    "langName": "Suni ipek",
     "object": "Giyim",
     "attribute": "Kumaş",
     "preview": "https://img.aishort.top/imgprompt/20260213183640755.webp"
@@ -21638,7 +21638,7 @@
   },
   {
     "displayName": "diadem",
-    "langName": "Diadem",
+    "langName": "Taç",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213191339448.webp"
@@ -21680,7 +21680,7 @@
   },
   {
     "displayName": "alternate_headwear",
-    "langName": "Orijinalinden farklı bir başlık",
+    "langName": "Alternatif başlık",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213191902200.webp"
@@ -21715,7 +21715,7 @@
   },
   {
     "displayName": "xx_on_head",
-    "langName": "kafasında xx",
+    "langName": "Kafanın üstünde nesne",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213192411659.webp"
@@ -21778,21 +21778,21 @@
   },
   {
     "displayName": "hachimaki",
-    "langName": "sarık (isim)",
+    "langName": "Hachimaki (alın bandı)",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213194023586.webp"
   },
   {
     "displayName": "helm",
-    "langName": "kask takıyor",
+    "langName": "Kask takma",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213194036779.webp"
   },
   {
     "displayName": "helmet_removed",
-    "langName": "kask çıkarıldı | kask çıkarıldı",
+    "langName": "kask çıkarıldı",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213194050047.webp"
@@ -21827,7 +21827,7 @@
   },
   {
     "displayName": "skull_and_crossbones",
-    "langName": "Kuru kafa ve çapraz kemikler (korsanlar, tehlike)",
+    "langName": "Kafatası ve çapraz kemikler",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213195005290.webp"
@@ -21841,7 +21841,7 @@
   },
   {
     "displayName": "headdress",
-    "langName": "Başlıklar (daha genel)",
+    "langName": "Başlık süsü",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213195638458.webp"
@@ -21869,21 +21869,21 @@
   },
   {
     "displayName": "horns_through_headwear",
-    "langName": "Boynuzlar için delikleri olan bir başlık",
+    "langName": "Boynuz delikli başlık",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213200134487.webp"
   },
   {
     "displayName": "no_headwear",
-    "langName": "Çıkarılmış (mevcut) başlık",
+    "langName": "Başlık yok",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213200147284.webp"
   },
   {
     "displayName": "object_on_head",
-    "langName": "Başta başlıktan başka bir şey var",
+    "langName": "Baş üstündeki nesne",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213200200049.webp"
@@ -21925,7 +21925,7 @@
   },
   {
     "displayName": "behind-the-head_headphones",
-    "langName": "Başın arkasından takılan kulaklıklar",
+    "langName": "Ense tipi kulaklık",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213200337721.webp"
@@ -21988,14 +21988,14 @@
   },
   {
     "displayName": "head_mounted_display",
-    "langName": "Baş üstü görüntüleme cihazı takmak",
+    "langName": "Başa takılan ekran (HMD)",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213201344092.webp"
   },
   {
     "displayName": "head_out_of_frame",
-    "langName": "Başın bir kısmı çerçeveye çizilmemiş",
+    "langName": "Kafa kadraj dışında",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213201559216.webp"
@@ -22016,7 +22016,7 @@
   },
   {
     "displayName": "headgear",
-    "langName": "Başlık (Bilim Kurgu)",
+    "langName": "Bilim kurgu başlığı",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213201840823.webp"
@@ -22030,7 +22030,7 @@
   },
   {
     "displayName": "heads-up_display",
-    "langName": "Durum çubuğu (oyun ve bilimkurgu tarzı)",
+    "langName": "Baş üstü göstergesi (HUD)",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213201907728.webp"
@@ -22065,7 +22065,7 @@
   },
   {
     "displayName": "single_head_wing",
-    "langName": "Başın bir tarafında kanatlar var",
+    "langName": "Kafada tek kanat",
     "object": "Aksesuarlar",
     "attribute": "Başlık",
     "preview": "https://img.aishort.top/imgprompt/20260213202620422.webp"
@@ -22261,7 +22261,7 @@
   },
   {
     "displayName": "hairpods",
-    "langName": "Saçta bir çift kablosuz Bluetooth saç aksesuarı",
+    "langName": "Hairpods",
     "object": "Aksesuarlar",
     "attribute": "Saç aksesuarları",
     "preview": "https://img.aishort.top/imgprompt/20260213210909139.webp"
@@ -22296,7 +22296,7 @@
   },
   {
     "displayName": "snake_hair_ornament",
-    "langName": "Yılan Saç Aksesuarları | Kurbağa Saç Aksesuarları",
+    "langName": "Yılan saç tokası",
     "object": "Aksesuarlar",
     "attribute": "Saç aksesuarları",
     "preview": "https://img.aishort.top/imgprompt/20260213211418419.webp"
@@ -22779,7 +22779,7 @@
   },
   {
     "displayName": "hat_removed",
-    "langName": "şapka çıkarıldı | şapka çıkarıldı",
+    "langName": "şapka çıkarıldı",
     "object": "Aksesuarlar",
     "attribute": "Şapka",
     "preview": "https://img.aishort.top/imgprompt/20260213224231603.webp"
@@ -22800,7 +22800,7 @@
   },
   {
     "displayName": "hatching_(texture)",
-    "langName": "Çizgi gölgelendirme (doku)",
+    "langName": "Çapraz tarama dokusu",
     "object": "Aksesuarlar",
     "attribute": "Şapka",
     "preview": "https://img.aishort.top/imgprompt/20260213224329155.webp"
@@ -22926,14 +22926,14 @@
   },
   {
     "displayName": "sunglasses",
-    "langName": "Güneş gözlüğü (gözleri kapatan)",
+    "langName": "Koyu güneş gözlüğü",
     "object": "Aksesuarlar",
     "attribute": "Gözlük",
     "preview": "https://img.aishort.top/imgprompt/20260213230746663.webp"
   },
   {
     "displayName": "reflection glasses",
-    "langName": "Güneş gözlüğü (gözler görünür)",
+    "langName": "Yarı şeffaf güneş gözlüğü",
     "object": "Aksesuarlar",
     "attribute": "Gözlük",
     "preview": "https://img.aishort.top/imgprompt/20260213230759909.webp"
@@ -22954,7 +22954,7 @@
   },
   {
     "displayName": "eyepatch",
-    "langName": "Göz bandı (tek göz)",
+    "langName": "Göz bandı",
     "object": "Aksesuarlar",
     "attribute": "Gözlük",
     "preview": "https://img.aishort.top/imgprompt/20260213230839662.webp"
@@ -22982,14 +22982,14 @@
   },
   {
     "displayName": "coke-bottle_glasses",
-    "langName": "Cam şişe dipleri kadar kalın yuvarlak bardaklar",
+    "langName": "Şişe dibi gözlük",
     "object": "Aksesuarlar",
     "attribute": "Gözlük",
     "preview": "https://img.aishort.top/imgprompt/20260213230932442.webp"
   },
   {
     "displayName": "no_eyewear",
-    "langName": "(Mevcut) gözlükler çıkarıldı",
+    "langName": "Gözlüksüz",
     "object": "Aksesuarlar",
     "attribute": "Gözlük",
     "preview": "https://img.aishort.top/imgprompt/20260213230945224.webp"
@@ -23241,7 +23241,7 @@
   },
   {
     "displayName": "single_earring",
-    "langName": "Sadece bir tarafta küpe takmak",
+    "langName": "Tek küpe",
     "object": "Aksesuarlar",
     "attribute": "Küpe",
     "preview": "https://img.aishort.top/imgprompt/20260213235633818.webp"
@@ -23297,7 +23297,7 @@
   },
   {
     "displayName": "cuffs",
-    "langName": "boyunduruk",
+    "langName": "Kelepçe",
     "object": "Aksesuarlar",
     "attribute": "El takıları",
     "preview": "https://img.aishort.top/imgprompt/20260213235839451.webp"
@@ -23311,7 +23311,7 @@
   },
   {
     "displayName": "revolver",
-    "langName": "revolver",
+    "langName": "Toplu tabanca",
     "object": "Aksesuarlar",
     "attribute": "El takıları",
     "preview": "https://img.aishort.top/imgprompt/20260213235905617.webp"
@@ -23325,7 +23325,7 @@
   },
   {
     "displayName": "leash",
-    "langName": "kemer",
+    "langName": "Tasma ipi",
     "object": "Aksesuarlar",
     "attribute": "El takıları",
     "preview": "https://img.aishort.top/imgprompt/20260213235930034.webp"
@@ -23437,7 +23437,7 @@
   },
   {
     "displayName": "no_gloves",
-    "langName": "(Mevcut) eldivenler çıkarıldı",
+    "langName": "Eldivensiz",
     "object": "Aksesuarlar",
     "attribute": "Eldivenler",
     "preview": "https://img.aishort.top/imgprompt/20260214001315236.webp"
@@ -23451,7 +23451,7 @@
   },
   {
     "displayName": "single_elbow_glove",
-    "langName": "Bir elinde dirsek uzunluğunda eldiven takmak",
+    "langName": "Tek kolda dirsek boyu eldiven",
     "object": "Aksesuarlar",
     "attribute": "Eldivenler",
     "preview": "https://img.aishort.top/imgprompt/20260214001744860.webp"
@@ -23465,7 +23465,7 @@
   },
   {
     "displayName": "elbow_gloves",
-    "langName": "Uzun kollu eldivenler (dirsek eldivenleri)",
+    "langName": "Dirsek boyu eldiven",
     "object": "Aksesuarlar",
     "attribute": "Eldivenler",
     "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
@@ -23500,14 +23500,14 @@
   },
   {
     "displayName": "paw_gloves",
-    "langName": "Pençe eldivenleri (parmak eldivenleri)",
+    "langName": "Pati şeklinde eldiven",
     "object": "Aksesuarlar",
     "attribute": "Eldivenler",
     "preview": "https://img.aishort.top/imgprompt/20260214002522561.webp"
   },
   {
     "displayName": "mittens",
-    "langName": "Eldivenler (iki parmaklı eldivenler)",
+    "langName": "Tek parmaklı eldiven (Mittens)",
     "object": "Aksesuarlar",
     "attribute": "Eldivenler",
     "preview": "https://img.aishort.top/imgprompt/20260214002535788.webp"
@@ -23759,14 +23759,14 @@
   },
   {
     "displayName": "st._gloriana's_(emblem)",
-    "langName": "St. Gloria Anna Kız Okulu okul amblemi",
+    "langName": "St. Gloriana amblemi",
     "object": "Aksesuarlar",
     "attribute": "Küçük Süsler",
     "preview": "https://img.aishort.top/imgprompt/20260214010157304.webp"
   },
   {
     "displayName": "heart_lock_(kantai_collection)",
-    "langName": "Gemi Kızı Kilidi (Gemi C)",
+    "langName": "Kalp kilidi (Kantai Collection)",
     "object": "Aksesuarlar",
     "attribute": "Küçük Süsler",
     "preview": "https://img.aishort.top/imgprompt/20260214010210385.webp"
@@ -23990,14 +23990,14 @@
   },
   {
     "displayName": "Wu Xing",
-    "langName": "Beş element (metal, ağaç, su, ateş ve toprak)",
+    "langName": "Beş Element (Wu Xing)",
     "object": "Aksesuarlar",
     "attribute": "Sembol",
     "preview": "https://img.aishort.top/imgprompt/20260214020503233.webp"
   },
   {
     "displayName": "dynamic pose",
-    "langName": "Dinamik pozlar (enerjik)",
+    "langName": "Dinamik duruş",
     "object": "Fotoğrafçılık",
     "attribute": "Perspektif",
     "preview": "https://img.aishort.top/imgprompt/20260214020718871.webp"
@@ -24319,28 +24319,28 @@
   },
   {
     "displayName": "cowboy_shot",
-    "langName": "Üst gövde + üst uyluk (kot lens)",
+    "langName": "Kovboy çekimi (Amerikan plan)",
     "object": "Fotoğrafçılık",
     "attribute": "Çekim Yüksekliği",
     "preview": "https://img.aishort.top/imgprompt/20260214032314849.webp"
   },
   {
     "displayName": "portrait",
-    "langName": "Portre (yüz + omuzlar + ara sıra göğüs)",
+    "langName": "Portre çekimi",
     "object": "Fotoğrafçılık",
     "attribute": "Çekim Yüksekliği",
     "preview": "https://img.aishort.top/imgprompt/20260214032327856.webp"
   },
   {
     "displayName": "very close portrait",
-    "langName": "Yakın portre (kamera daha yakın)",
+    "langName": "Çok yakın çekim portre",
     "object": "Fotoğrafçılık",
     "attribute": "Çekim Yüksekliği",
     "preview": "https://img.aishort.top/imgprompt/20260214032544032.webp"
   },
   {
     "displayName": "profile",
-    "langName": "Profil portresi (portrenin profil versiyonu)",
+    "langName": "Profil portresi",
     "object": "Fotoğrafçılık",
     "attribute": "Çekim Yüksekliği",
     "preview": "https://img.aishort.top/imgprompt/20260214032759101.webp"
@@ -24375,7 +24375,7 @@
   },
   {
     "displayName": "wide_shot",
-    "langName": "Panoramik lens (geniş açılı lens)",
+    "langName": "Geniş açı çekim",
     "object": "Fotoğrafçılık",
     "attribute": "Lens odak noktası",
     "preview": "https://img.aishort.top/imgprompt/20260214033851759.webp"
@@ -24389,7 +24389,7 @@
   },
   {
     "displayName": "inset",
-    "langName": "Ek görüntü veya resim ekleyin",
+    "langName": "İç içe resim ekleme",
     "object": "Fotoğrafçılık",
     "attribute": "Lens odak noktası",
     "preview": "https://img.aishort.top/imgprompt/20260214033931731.webp"
@@ -24403,21 +24403,21 @@
   },
   {
     "displayName": "male focus",
-    "langName": "Erkek Odaklı (Kadın Odaklı)",
+    "langName": "Erkek karaktere odaklanma",
     "object": "Fotoğrafçılık",
     "attribute": "Lens odak noktası",
     "preview": "https://img.aishort.top/imgprompt/20260214033958195.webp"
   },
   {
     "displayName": "solo_focus",
-    "langName": "Tek karaktere odaklanma",
+    "langName": "Tek kişiye odaklanma",
     "object": "Fotoğrafçılık",
     "attribute": "Lens odak noktası",
     "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
   },
   {
     "displayName": "xx_focus",
-    "langName": "xx'e odaklan",
+    "langName": "Belirli bir bölgeye odaklanma",
     "object": "Fotoğrafçılık",
     "attribute": "Lens odak noktası",
     "preview": "https://img.aishort.top/imgprompt/20260214034023889.webp"
@@ -24459,7 +24459,7 @@
   },
   {
     "displayName": "vehicle_focus",
-    "langName": "Araca (arabaya) odaklanın",
+    "langName": "Taşıta odaklanma",
     "object": "Fotoğrafçılık",
     "attribute": "Lens odak noktası",
     "preview": "https://img.aishort.top/imgprompt/20260214034759257.webp"
@@ -24473,21 +24473,21 @@
   },
   {
     "displayName": "between_legs",
-    "langName": "(vurgu) bacakların arasında",
+    "langName": "Bacaklar arasından bakış",
     "object": "Fotoğrafçılık",
     "attribute": "Lens odak noktası",
     "preview": "https://img.aishort.top/imgprompt/20260214035455577.webp"
   },
   {
     "displayName": "between_breasts",
-    "langName": "(çıkıntılı) göğüs",
+    "langName": "Göğüs dekoltesi odaklı çekim",
     "object": "Fotoğrafçılık",
     "attribute": "Lens odak noktası",
     "preview": "https://img.aishort.top/imgprompt/20260225091239828.webp"
   },
   {
     "displayName": "between_fingers",
-    "langName": "(önemlilik) parmaklar arasında",
+    "langName": "Parmaklar arasından bakış",
     "object": "Fotoğrafçılık",
     "attribute": "Lens odak noktası",
     "preview": "https://img.aishort.top/imgprompt/20260214035531987.webp"
@@ -24501,14 +24501,14 @@
   },
   {
     "displayName": "peeking_out",
-    "langName": "gözetleme (jest)",
+    "langName": "Gizlice bakma",
     "object": "Fotoğrafçılık",
     "attribute": "Lens odak noktası",
     "preview": "https://img.aishort.top/imgprompt/20260214035557635.webp"
   },
   {
     "displayName": "peeping",
-    "langName": "Voyeur (perspektif vurgusu)",
+    "langName": "Gözetleyen açı",
     "object": "Fotoğrafçılık",
     "attribute": "Lens odak noktası",
     "preview": "https://img.aishort.top/imgprompt/20260214035610390.webp"
@@ -24662,7 +24662,7 @@
   },
   {
     "displayName": "Brenizer Method",
-    "langName": "spiral atış",
+    "langName": "Brenizer yöntemi",
     "object": "Fotoğrafçılık",
     "attribute": "Mercekler/Optik Efektler",
     "preview": "https://img.aishort.top/imgprompt/20260214041350224.webp"
@@ -24697,7 +24697,7 @@
   },
   {
     "displayName": "landscape",
-    "langName": "Manzara çekimi (uzun çekim)",
+    "langName": "Manzara çekimi",
     "object": "Fotoğrafçılık",
     "attribute": "Mercekler/Optik Efektler",
     "preview": "https://img.aishort.top/imgprompt/20260214041814281.webp"
@@ -24718,7 +24718,7 @@
   },
   {
     "displayName": "Dolly Zoom",
-    "langName": "dolly zoom",
+    "langName": "Dolly zoom efekti",
     "object": "Fotoğrafçılık",
     "attribute": "Mercekler/Optik Efektler",
     "preview": "https://img.aishort.top/imgprompt/20260214041910055.webp"
@@ -24844,7 +24844,7 @@
   },
   {
     "displayName": "polaroid",
-    "langName": "Fotoğraflar (Polaroid)",
+    "langName": "Polaroid fotoğraf",
     "object": "Fotoğrafçılık",
     "attribute": "Fotoğraf Stili",
     "preview": "https://img.aishort.top/imgprompt/20260214044251180.webp"
@@ -25292,7 +25292,7 @@
   },
   {
     "displayName": "depth of field",
-    "langName": "Alan derinliği (insan sahnelerinin koordinasyonu)",
+    "langName": "Alan derinliği",
     "object": "Fotoğrafçılık",
     "attribute": "Efekt",
     "preview": "https://img.aishort.top/imgprompt/20260224191234161.webp"
@@ -25320,14 +25320,14 @@
   },
   {
     "displayName": "bokeh",
-    "langName": "Kostikler (bulanık arka plan)",
+    "langName": "Bokeh bulanıklığı",
     "object": "Fotoğrafçılık",
     "attribute": "Efekt",
     "preview": "https://img.aishort.top/imgprompt/20260224191333274.webp"
   },
   {
     "displayName": "chromatic_aberration",
-    "langName": "Kromatik sapma, odak dışı renk",
+    "langName": "Kromatik sapma",
     "object": "Fotoğrafçılık",
     "attribute": "Efekt",
     "preview": "https://img.aishort.top/imgprompt/20260224191548893.webp"
@@ -25818,7 +25818,7 @@
   },
   {
     "displayName": "Crepuscular Rays",
-    "langName": "loş ışık",
+    "langName": "Alacakaranlık ışınları",
     "object": "Işık ve gölge efektleri",
     "attribute": "Aydınlatma efektleri",
     "preview": "https://img.aishort.top/imgprompt/20260224200322540.webp"
@@ -25860,7 +25860,7 @@
   },
   {
     "displayName": "lens flare",
-    "langName": "Lens parlaması (arka aydınlatma)",
+    "langName": "Mercek parlaması",
     "object": "Işık ve gölge efektleri",
     "attribute": "Aydınlatma efektleri",
     "preview": "https://img.aishort.top/imgprompt/20260224200437632.webp"
@@ -26238,7 +26238,7 @@
   },
   {
     "displayName": "Rough",
-    "langName": "kaba ",
+    "langName": "kaba",
     "object": "Işık ve gölge efektleri",
     "attribute": "Malzeme Özellikleri",
     "preview": "https://img.aishort.top/imgprompt/20260224210828738.webp"
@@ -27113,7 +27113,7 @@
   },
   {
     "displayName": "Dispersion",
-    "langName": "Kromatik sapma",
+    "langName": "Işık dispersiyonu",
     "object": "Renk Atmosferi",
     "attribute": "Koyu Tonlar",
     "preview": "https://img.aishort.top/imgprompt/20260224221649393.webp"
@@ -27582,7 +27582,7 @@
   },
   {
     "displayName": "Neon",
-    "langName": "neon",
+    "langName": "Neon renkler",
     "object": "Renk Atmosferi",
     "attribute": "Renk paleti",
     "preview": "https://img.aishort.top/imgprompt/20260224223357104.webp"
@@ -27645,7 +27645,7 @@
   },
   {
     "displayName": "Tetradic-Colors",
-    "langName": "Dört renk (dikdörtgen renk eşleştirme)",
+    "langName": "Dörtlü renk şeması",
     "object": "Renk Atmosferi",
     "attribute": "Renk paleti",
     "preview": "https://img.aishort.top/imgprompt/20260224223613371.webp"
@@ -27940,14 +27940,14 @@
   },
   {
     "displayName": "YCbCr",
-    "langName": "ikB",
+    "langName": "YCbCr",
     "object": "Renk Atmosferi",
     "attribute": "Monitör renk paleti",
     "preview": "https://img.aishort.top/imgprompt/20260224224629664.webp"
   },
   {
     "displayName": "YPbPr",
-    "langName": "wxya",
+    "langName": "YPbPr",
     "object": "Renk Atmosferi",
     "attribute": "Monitör renk paleti",
     "preview": "https://img.aishort.top/imgprompt/20260224224643063.webp"
@@ -28605,7 +28605,7 @@
   },
   {
     "displayName": "Silt",
-    "langName": "silt",
+    "langName": "Alüvyon / Balçık",
     "object": "Malzeme",
     "attribute": "Toprak",
     "preview": "https://img.aishort.top/imgprompt/20260224231158066.webp"
@@ -28661,7 +28661,7 @@
   },
   {
     "displayName": "Rock",
-    "langName": "kaynak",
+    "langName": "Kaya",
     "object": "Malzeme",
     "attribute": "Taşlar ve mineraller",
     "preview": "https://img.aishort.top/imgprompt/20260224231422941.webp"
@@ -28969,7 +28969,7 @@
   },
   {
     "displayName": "Iron",
-    "langName": "ütü",
+    "langName": "Demir",
     "object": "Malzeme",
     "attribute": "Metal",
     "preview": "https://img.aishort.top/imgprompt/20260224232609054.webp"
@@ -29123,7 +29123,7 @@
   },
   {
     "displayName": "Tungsten",
-    "langName": "Tungsten",
+    "langName": "Volfram",
     "object": "Malzeme",
     "attribute": "Metal",
     "preview": "https://img.aishort.top/imgprompt/20260224233144681.webp"
@@ -29459,7 +29459,7 @@
   },
   {
     "displayName": "Lapis Lazuli",
-    "langName": "lapis lazuli",
+    "langName": "Lapis lazuli taşı",
     "object": "Malzeme",
     "attribute": "Cam ve kristal",
     "preview": "https://img.aishort.top/imgprompt/20260224234358261.webp"
@@ -29487,7 +29487,7 @@
   },
   {
     "displayName": "Opal",
-    "langName": "opal",
+    "langName": "Opal taşı",
     "object": "Malzeme",
     "attribute": "Cam ve kristal",
     "preview": "https://img.aishort.top/imgprompt/20260224234459539.webp"
@@ -29501,7 +29501,7 @@
   },
   {
     "displayName": "Topaz",
-    "langName": "topaz",
+    "langName": "Topaz taşı",
     "object": "Malzeme",
     "attribute": "Cam ve kristal",
     "preview": "https://img.aishort.top/imgprompt/20260224234525817.webp"
@@ -29795,7 +29795,7 @@
   },
   {
     "displayName": "Zebra",
-    "langName": "zebra",
+    "langName": "Zebra deseni",
     "object": "Malzeme",
     "attribute": "Saç/kürk",
     "preview": "https://img.aishort.top/imgprompt/20260224235528363.webp"
@@ -29914,7 +29914,7 @@
   },
   {
     "displayName": "Putty",
-    "langName": "Dolgu macunu (sızdırmazlık)",
+    "langName": "Macun / Dolgu",
     "object": "Malzeme",
     "attribute": "Slime",
     "preview": "https://img.aishort.top/imgprompt/20260224235936705.webp"
@@ -30600,7 +30600,7 @@
   },
   {
     "displayName": "Tetrahedron",
-    "langName": "tetrahedron",
+    "langName": "Dörtyüzlü",
     "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002408261.webp"
@@ -30712,7 +30712,7 @@
   },
   {
     "displayName": "Rotunda",
-    "langName": "rotunda",
+    "langName": "Kubbe salon",
     "object": "Biçim ve Uzay",
     "attribute": "Nesne",
     "preview": "https://img.aishort.top/imgprompt/20260225002756804.webp"
@@ -31356,7 +31356,7 @@
   },
   {
     "displayName": "((dyeing)),((oil painting)),((impasto))",
-    "langName": "Yağlıboya (kombinasyon)",
+    "langName": "Kabartılı yağlı boya karışımı",
     "object": "Görüntü türü",
     "attribute": "Resim",
     "preview": "https://img.aishort.top/imgprompt/20260225004949979.webp"
@@ -31825,7 +31825,7 @@
   },
   {
     "displayName": "copics",
-    "langName": "İşaretleyici (nötr gri)",
+    "langName": "Copic marker çizim tarzı",
     "object": "Görüntü türü",
     "attribute": "Mürekkep",
     "preview": "https://img.aishort.top/imgprompt/20260225010656308.webp"
@@ -32126,14 +32126,14 @@
   },
   {
     "displayName": "Pokemon Card",
-    "langName": "Pokémon Kartları (Cep Canavarları)",
+    "langName": "Pokémon kartı tarzı",
     "object": "Görüntü türü",
     "attribute": "Baskı",
     "preview": "https://img.aishort.top/imgprompt/20260225011638981.webp"
   },
   {
     "displayName": "Origami",
-    "langName": "origami",
+    "langName": "Kağıt katlama",
     "object": "Görüntü türü",
     "attribute": "Origami",
     "preview": "https://img.aishort.top/imgprompt/20260225011650928.webp"
@@ -32518,7 +32518,7 @@
   },
   {
     "displayName": "traditional_media",
-    "langName": "Geleneksel tuval (kağıt vb.)",
+    "langName": "Geleneksel sanat ortamları",
     "object": "Görüntü türü",
     "attribute": "Diğer Teknikler",
     "preview": "https://img.aishort.top/imgprompt/20260225013600028.webp"
@@ -32630,7 +32630,7 @@
   },
   {
     "displayName": "Diorama",
-    "langName": "diorama",
+    "langName": "Diyorama",
     "object": "Görüntü türü",
     "attribute": "Diğer Teknikler",
     "preview": "https://img.aishort.top/imgprompt/20260225013931271.webp"
@@ -33078,7 +33078,7 @@
   },
   {
     "displayName": "miserablism",
-    "langName": "Sefilizm (toplumsal eleştiri)",
+    "langName": "Mizerabilizm",
     "object": "Sanat tarzı",
     "attribute": "Kurgu ve gerçeklik",
     "preview": "https://img.aishort.top/imgprompt/20260225015538415.webp"
@@ -33099,7 +33099,7 @@
   },
   {
     "displayName": "Feng Shui",
-    "langName": "Feng Shui",
+    "langName": "Feng şui",
     "object": "Sanat tarzı",
     "attribute": "Soyut Kavramlar",
     "preview": "https://img.aishort.top/imgprompt/20260225015614377.webp"
@@ -33169,7 +33169,7 @@
   },
   {
     "displayName": "illustration,(((ukiyoe))),((sketch)),((japanese_art))",
-    "langName": "Ukiyo-e (grup)",
+    "langName": "Ukiyo-e tarzı illüstrasyon",
     "object": "Sanat tarzı",
     "attribute": "Asya sanatı",
     "preview": "https://img.aishort.top/imgprompt/20260225015830944.webp"
@@ -33260,7 +33260,7 @@
   },
   {
     "displayName": "heavy contrast",
-    "langName": "Güçlü kontrast (renk vurgusu)",
+    "langName": "Keskin yüksek kontrast",
     "object": "Sanat tarzı",
     "attribute": "Fotoğraf/Resim Stili",
     "preview": "https://img.aishort.top/imgprompt/20260225020108984.webp"
@@ -33323,7 +33323,7 @@
   },
   {
     "displayName": "film noir",
-    "langName": "Film noir (suçluluk, arzu, intikam)",
+    "langName": "Kara film estetiği",
     "object": "Sanat tarzı",
     "attribute": "Fotoğraf/Resim Stili",
     "preview": "https://img.aishort.top/imgprompt/20260225020255566.webp"
@@ -33337,7 +33337,7 @@
   },
   {
     "displayName": "fantasy",
-    "langName": "Bilim kurgu sahneleri için uygundur",
+    "langName": "Fantastik tarz",
     "object": "Sanat tarzı",
     "attribute": "Bilimkurgu",
     "preview": "https://img.aishort.top/imgprompt/20260225020323046.webp"
@@ -33624,14 +33624,14 @@
   },
   {
     "displayName": "column lineup",
-    "langName": "Bir dizi küçük resim büyük resmi oluşturur",
+    "langName": "Çoklu sütun dizilimi",
     "object": "Sanat tarzı",
     "attribute": "Yayın",
     "preview": "https://img.aishort.top/imgprompt/20260225021130372.webp"
   },
   {
     "displayName": "zoom layer",
-    "langName": "Arka plan, ön planın büyütülmüş bir versiyonudur",
+    "langName": "Yakınlaştırma katmanı",
     "object": "Sanat tarzı",
     "attribute": "Yayın",
     "preview": "https://img.aishort.top/imgprompt/20260225021142834.webp"
@@ -33680,7 +33680,7 @@
   },
   {
     "displayName": "highres",
-    "langName": "impasto (stil)",
+    "langName": "Dijital impasto tarzı",
     "object": "Sanat tarzı",
     "attribute": "Dijital sanat",
     "preview": "https://img.aishort.top/imgprompt/20260225021323241.webp"
@@ -33743,7 +33743,7 @@
   },
   {
     "displayName": "Mini",
-    "langName": "mini",
+    "langName": "Mini boyut",
     "object": "Son işleme",
     "attribute": "Çekim Ölçeği",
     "preview": "https://img.aishort.top/imgprompt/20260225021513495.webp"
@@ -34233,7 +34233,7 @@
   },
   {
     "displayName": "Sabattier Effect",
-    "langName": "Yumuşak, bulanık kenarlar ve renk geçişleri",
+    "langName": "Sabattier etkisi (Solarizasyon)",
     "object": "Son işleme",
     "attribute": "Görüntü işleme",
     "preview": "https://img.aishort.top/imgprompt/20260225022949265.webp"
@@ -34268,7 +34268,7 @@
   },
   {
     "displayName": "Harris Shutter",
-    "langName": "Harris Deklanşör (hareket/düşük ışık)",
+    "langName": "Harris örtücü etkisi",
     "object": "Son işleme",
     "attribute": "Görüntü işleme",
     "description": "Hızlı hareket eden nesneleri yakalar veya düşük ışıkta görüntü netliğini korur",
@@ -34734,7 +34734,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151157243.webp"
   },
   {
-    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑(广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
+    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑（广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
     "langName": "2026 Bahar Guangzhou Şehir Posteri",
     "object": "Vitrin",
     "attribute": "Poster",

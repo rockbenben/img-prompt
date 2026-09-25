@@ -117,7 +117,12 @@
     "language": "Selecionar idioma",
     "languageSearch": "Procurar idioma",
     "languageEmpty": "Nenhum idioma corresponde",
-    "skipToPrompt": "Ir para a caixa de prompt"
+    "skipToPrompt": "Ir para a caixa de prompt",
+    "qq": "Grupo QQ",
+    "lives": "Lives — Simulador de Vida",
+    "learndata": "LearnData Notas de Código Aberto",
+    "primary": "Navegação principal",
+    "close": "Fechar"
   },
   "Guide": {
     "fallbackNotice": "Esta página ainda não foi traduzida para o seu idioma; exibindo a versão em inglês."

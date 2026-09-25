@@ -1,17 +1,13 @@
 "use client";
 import { useCallback, useEffect, useState } from "react";
-import { BASE_PATH } from "@/app/utils/basePath";
 import { TagItem } from "@/app/components/types";
+import { cacheKey, fetchChunk, tagCache } from "./promptChunks";
 
-// 模块级缓存：按 locale + objectIndex 组合键，避免“切语言一定整路由重挂载”这一隐式假设
-// 模块级而非 useRef，原因：（1）渲染期可安全读取，不触发 react-hooks/refs；
-// （2）跨 hook 实例共享同一份缓存，符合“同一份静态资源不应重复抓取”的语义
-const tagCache = new Map<string, TagItem[]>();
+// seededLocales 只在「firstChunk 是全集」时把它注入 index 0 缓存；
+// bootstrap 裁剪后 firstChunk 是子集，必须走真实抓取补全（见下方占位分支）。
 const seededLocales = new Set<string>();
 
 export type TagsStatus = "ready" | "loading" | "error";
-
-const cacheKey = (locale: string, objectIndex: number) => `${locale}:${objectIndex}`;
 
 // 分块 19–163KB，移动网络下抓取要一两秒。此前抓取中一律返回 []，选词区
 // 塌成一条空壳，读起来像「这个分类没有标签」而不是「正在加载」；抓取失败
@@ -20,9 +16,11 @@ export function useObjectTags(
   locale: string,
   objectIndex: number,
   firstChunk: TagItem[],
+  firstChunkTotal: number,
 ): { tags: TagItem[]; status: TagsStatus; retry: () => void } {
+  const truncatedSeed = firstChunk.length !== firstChunkTotal;
   // 每个 locale 第一次见到时，把 firstChunk 注入该 locale 的 index 0
-  if (!seededLocales.has(locale)) {
+  if (!seededLocales.has(locale) && !truncatedSeed) {
     seededLocales.add(locale);
     tagCache.set(cacheKey(locale, 0), firstChunk);
   }
@@ -37,7 +35,7 @@ export function useObjectTags(
   // 按普通 React 语义永远走不到。但本项目开了 reactCompiler（next.config.ts），
   // 编译器会把渲染期的 tagCache.get(key) 当成由 key 决定的纯计算记忆化掉：
   // 抓取完成触发重渲染时，读到的仍是记忆化的 undefined，界面永远停在 loading。
-  // 实测删掉这个 state 后，除首个分类（bootstrap 预置在缓存里）外所有分类都转圈。
+  // 实测删掉这个 state 后，除缓存里预置过的分类外，所有分类都转圈。
   const [fetched, setFetched] = useState<{ key: string; data: TagItem[] } | null>(null);
   const [failedKey, setFailedKey] = useState<string | null>(null);
   // 失败后重试：key 没变，靠这个计数把 effect 再踢一次
@@ -58,14 +56,9 @@ export function useObjectTags(
     // 已缓存——渲染期的同步读取已经返回了，不必再抓
     if (tagCache.has(key)) return;
     let canceled = false;
-    fetch(`${BASE_PATH}/data/prompt-chunks/${locale}/${objectIndex}.json`)
-      .then((r) => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return r.json() as Promise<TagItem[]>;
-      })
+    fetchChunk(locale, objectIndex)
       .then((data) => {
         if (canceled) return;
-        tagCache.set(key, data);
         setFetched({ key, data });
       })
       .catch((err) => {
@@ -85,5 +78,10 @@ export function useObjectTags(
 
   if (cached) return { tags: cached, status: "ready", retry };
   if (fetched && fetched.key === key) return { tags: fetched.data, status: "ready", retry };
+  if (objectIndex === 0 && truncatedSeed && firstChunk.length > 0 && failedKey !== key) {
+    // bootstrap 是截断子集：先占位显示首屏那几十条（效果等同全集时代的 SSG 内联），
+    // effect 正在补全量 chunk 0，落地后自动切全量。
+    return { tags: firstChunk, status: "ready", retry };
+  }
   return { tags: [], status: failedKey === key ? "error" : "loading", retry };
 }

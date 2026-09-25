@@ -435,7 +435,7 @@
   },
   {
     "displayName": "cleric",
-    "langName": "聖職者（キリスト教）",
+    "langName": "聖職者 / クレリック",
     "object": "キャラクター",
     "attribute": "身分",
     "preview": "https://img.aishort.top/imgprompt/20260208072159895.webp"
@@ -534,14 +534,14 @@
   },
   {
     "displayName": "crossdressing",
-    "langName": "服装倒錯者（自分の性自認と一致しない服を着ること）",
+    "langName": "異装",
     "object": "キャラクター",
     "attribute": "身分",
     "preview": "https://img.aishort.top/imgprompt/20260209061704193.webp"
   },
   {
     "displayName": "otoko_no_ko",
-    "langName": "女装者（女性的な特徴を持つ男性）",
+    "langName": "男の娘",
     "object": "キャラクター",
     "attribute": "身分",
     "preview": "https://img.aishort.top/imgprompt/20260208074725601.webp"
@@ -562,14 +562,14 @@
   },
   {
     "displayName": "yaoi",
-    "langName": "ゲイになる",
+    "langName": "BL / ボーイズラブ",
     "object": "キャラクター",
     "attribute": "身分",
     "preview": "https://img.aishort.top/imgprompt/20260208074725603.webp"
   },
   {
     "displayName": "yuri",
-    "langName": "ユリ",
+    "langName": "百合 / ガールズラブ",
     "object": "キャラクター",
     "attribute": "身分",
     "preview": "https://img.aishort.top/imgprompt/20260209061704191.webp"
@@ -646,7 +646,7 @@
   },
   {
     "displayName": "mazinger",
-    "langName": "ワンダーウーマン",
+    "langName": "マジンガーZ",
     "object": "キャラクター",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260210072537640.webp"
@@ -772,7 +772,7 @@
   },
   {
     "displayName": "elf",
-    "langName": "ゴブリン",
+    "langName": "エルフ",
     "object": "キャラクター",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260209063126234.webp"
@@ -786,7 +786,7 @@
   },
   {
     "displayName": "fairy",
-    "langName": "エルフ",
+    "langName": "妖精",
     "object": "キャラクター",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260209063141969.webp"
@@ -828,14 +828,14 @@
   },
   {
     "displayName": "monster_girl",
-    "langName": "外国人の母親",
+    "langName": "魔物娘 / 人外娘",
     "object": "キャラクター",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260209063226407.webp"
   },
   {
     "displayName": "dominatrix",
-    "langName": "クイーン（SM ミディアム）",
+    "langName": "ドミナトリックス / 女王様",
     "object": "キャラクター",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260209063233422.webp"
@@ -968,21 +968,21 @@
   },
   {
     "displayName": "horse_girl",
-    "langName": "馬娘",
+    "langName": "ウマ娘",
     "object": "キャラクター",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260210072537637.webp"
   },
   {
     "displayName": "furry",
-    "langName": "オーク",
+    "langName": "ケモノ / ファーリー",
     "object": "キャラクター",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260210072537632.webp"
   },
   {
     "displayName": "furry/orc",
-    "langName": "オーク/オーク",
+    "langName": "獣人 / オーク",
     "object": "キャラクター",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260210072537646.webp"
@@ -1010,14 +1010,14 @@
   },
   {
     "displayName": "mesugaki",
-    "langName": "女性の悪魔",
+    "langName": "メスガキ",
     "object": "キャラクター",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260210072537644.webp"
   },
   {
     "displayName": "santa alter",
-    "langName": "サンタクロース",
+    "langName": "サンタオルタ",
     "object": "キャラクター",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260210072537639.webp"
@@ -1052,7 +1052,7 @@
   },
   {
     "displayName": "kindergartener",
-    "langName": "幼稚園",
+    "langName": "幼稚園児",
     "object": "キャラクター",
     "attribute": "年齢",
     "preview": "https://img.aishort.top/imgprompt/20260210192804244.webp"
@@ -1073,14 +1073,14 @@
   },
   {
     "displayName": "early teen",
-    "langName": "思春期初期（11～15 歳）",
+    "langName": "ローティーン",
     "object": "キャラクター",
     "attribute": "年齢",
     "preview": "https://img.aishort.top/imgprompt/20260210192804238.webp"
   },
   {
     "displayName": "teenager",
-    "langName": "ティーン（13～19 歳）",
+    "langName": "ティーンエイジャー",
     "object": "キャラクター",
     "attribute": "年齢",
     "preview": "https://img.aishort.top/imgprompt/20260210192804240.webp"
@@ -1129,7 +1129,7 @@
   },
   {
     "displayName": "pale_skin",
-    "langName": "色白（暗い色や明るい色の服が似合う）",
+    "langName": "色白 / 青白い肌",
     "object": "キャラクター",
     "attribute": "肌",
     "preview": "https://img.aishort.top/imgprompt/20260210193300398.webp"
@@ -1192,7 +1192,7 @@
   },
   {
     "displayName": "tanlines",
-    "langName": "日焼けによるダメージ",
+    "langName": "日焼け跡",
     "object": "キャラクター",
     "attribute": "肌",
     "preview": "https://img.aishort.top/imgprompt/20260210193621164.webp"
@@ -1318,7 +1318,7 @@
   },
   {
     "displayName": "(cleavage visible,large breasts)",
-    "langName": "巨乳（胸の谷間あり）",
+    "langName": "巨乳（谷間強調）",
     "object": "キャラクター",
     "attribute": "体型",
     "preview": "https://img.aishort.top/imgprompt/20260211065136926.webp"
@@ -1955,7 +1955,7 @@
   },
   {
     "displayName": "blunt bangs",
-    "langName": "チーバン",
+    "langName": "ぱっつん前髪",
     "object": "キャラクター",
     "attribute": "髪型",
     "preview": "https://img.aishort.top/imgprompt/20260211134928539.webp"
@@ -1976,7 +1976,7 @@
   },
   {
     "displayName": "air bangs",
-    "langName": "エアバン",
+    "langName": "シースルーバング",
     "object": "キャラクター",
     "attribute": "髪型",
     "preview": "https://img.aishort.top/imgprompt/20260211135006710.webp"
@@ -2081,7 +2081,7 @@
   },
   {
     "displayName": "ahoge",
-    "langName": "バカ",
+    "langName": "アホ毛",
     "object": "キャラクター",
     "attribute": "髪型",
     "preview": "https://img.aishort.top/imgprompt/20260211135331864.webp"
@@ -2767,7 +2767,7 @@
   },
   {
     "displayName": "eye_relfection",
-    "langName": "眼反射（光に対する瞳孔の反応）",
+    "langName": "瞳の反射光",
     "object": "キャラクター",
     "attribute": "目",
     "preview": "https://img.aishort.top/imgprompt/20260211141526968.webp"
@@ -2970,7 +2970,7 @@
   },
   {
     "displayName": "solid_oval_eyes",
-    "langName": "Q バージョンソリッドオーバルアイ",
+    "langName": "ちびキャラのベタ塗り楕円目",
     "object": "キャラクター",
     "attribute": "目",
     "preview": "https://img.aishort.top/imgprompt/20260211142239019.webp"
@@ -2984,7 +2984,7 @@
   },
   {
     "displayName": "blush_stickers",
-    "langName": "Q バージョン ブラッシュステッカー",
+    "langName": "ちびキャラのチークシール",
     "object": "キャラクター",
     "attribute": "目",
     "preview": "https://img.aishort.top/imgprompt/20260211142304171.webp"
@@ -3019,14 +3019,14 @@
   },
   {
     "displayName": "sanpaku",
-    "langName": "三白眼症候群（瞳孔移動）",
+    "langName": "三白眼",
     "object": "キャラクター",
     "attribute": "目",
     "preview": "https://img.aishort.top/imgprompt/20260211142408606.webp"
   },
   {
     "displayName": "flaming_eye",
-    "langName": "ほむら",
+    "langName": "燃える瞳 / 炎の眼",
     "object": "キャラクター",
     "attribute": "目",
     "preview": "https://img.aishort.top/imgprompt/20260211142422174.webp"
@@ -3082,7 +3082,7 @@
   },
   {
     "displayName": "half_closed_eye",
-    "langName": "半目（片目）",
+    "langName": "半目",
     "object": "キャラクター",
     "attribute": "目",
     "preview": "https://img.aishort.top/imgprompt/20260211142557836.webp"
@@ -3180,14 +3180,14 @@
   },
   {
     "displayName": "no_blindfold",
-    "langName": "（オリジナルの）目隠し要素を削除しました",
+    "langName": "目隠しなし",
     "object": "キャラクター",
     "attribute": "目",
     "preview": "https://img.aishort.top/imgprompt/20260211220153156.webp"
   },
   {
     "displayName": "no_eyepatch",
-    "langName": "（既存の）アイマスクを外しました",
+    "langName": "眼帯なし",
     "object": "キャラクター",
     "attribute": "目",
     "preview": "https://img.aishort.top/imgprompt/20260211142907966.webp"
@@ -3264,7 +3264,7 @@
   },
   {
     "displayName": "solid_circle_pupils",
-    "langName": "Q バージョン しっかりした丸い瞳",
+    "langName": "ちびキャラのベタ塗り丸瞳",
     "object": "キャラクター",
     "attribute": "瞳",
     "preview": "https://img.aishort.top/imgprompt/20260211143127812.webp"
@@ -3292,7 +3292,7 @@
   },
   {
     "displayName": "snake_pupils",
-    "langName": "蛇の瞳孔（瞳孔の閃光）",
+    "langName": "蛇瞳",
     "object": "キャラクター",
     "attribute": "瞳",
     "preview": "https://img.aishort.top/imgprompt/20260317093813015.webp"
@@ -3376,7 +3376,7 @@
   },
   {
     "displayName": "cross-shaped_pupils",
-    "langName": "象徴的な瞳孔（効果なし",
+    "langName": "十字形の瞳孔",
     "object": "キャラクター",
     "attribute": "瞳",
     "preview": "https://img.aishort.top/imgprompt/20260211143449975.webp"
@@ -3670,7 +3670,7 @@
   },
   {
     "displayName": "gasping",
-    "langName": "息を切らして（口を開けて）",
+    "langName": "息をのむ / あえぎ",
     "object": "キャラクター",
     "attribute": "口",
     "preview": "https://img.aishort.top/imgprompt/20260317100011869.webp"
@@ -3726,7 +3726,7 @@
   },
   {
     "displayName": ":3",
-    "langName": "マオズイ",
+    "langName": "猫口",
     "object": "キャラクター",
     "attribute": "口",
     "preview": "https://img.aishort.top/imgprompt/20260317100112576.webp"
@@ -3761,7 +3761,7 @@
   },
   {
     "displayName": "chestnut_mouth",
-    "langName": "リズイ",
+    "langName": "栗口 / 三角口",
     "object": "キャラクター",
     "attribute": "口",
     "preview": "https://img.aishort.top/imgprompt/20260211144640830.webp"
@@ -3817,7 +3817,7 @@
   },
   {
     "displayName": "homu",
-    "langName": "ふくれっ面 | ふくれっ面",
+    "langName": "ふくれっ面",
     "object": "キャラクター",
     "attribute": "口",
     "preview": "https://img.aishort.top/imgprompt/20260211144827721.webp"
@@ -3901,7 +3901,7 @@
   },
   {
     "displayName": "mouth_drool",
-    "langName": "口角に唾液の滴のような形の隙間があります。",
+    "langName": "よだれ口",
     "object": "キャラクター",
     "attribute": "口",
     "preview": "https://img.aishort.top/imgprompt/20260317100321880.webp"
@@ -3964,7 +3964,7 @@
   },
   {
     "displayName": "fang_out",
-    "langName": "牙をむく | 牙をむく",
+    "langName": "牙をむく",
     "object": "キャラクター",
     "attribute": "歯",
     "preview": "https://img.aishort.top/imgprompt/20260317100418214.webp"
@@ -4048,7 +4048,7 @@
   },
   {
     "displayName": "uvula",
-    "langName": "口蓋垂 | 口蓋垂 | 口蓋垂",
+    "langName": "口蓋垂",
     "object": "キャラクター",
     "attribute": "舌",
     "preview": "https://img.aishort.top/imgprompt/20260211145547542.webp"
@@ -4111,7 +4111,7 @@
   },
   {
     "displayName": "nail",
-    "langName": "ネイル | ネイル",
+    "langName": "爪",
     "object": "キャラクター",
     "attribute": "ネイル",
     "preview": "https://img.aishort.top/imgprompt/20260211145741915.webp"
@@ -4167,42 +4167,42 @@
   },
   {
     "displayName": "flat chest",
-    "langName": "小さい胸（A）",
+    "langName": "平らな胸 / 微乳",
     "object": "キャラクター",
     "attribute": "胸",
     "preview": "https://img.aishort.top/imgprompt/20260212064123283.webp"
   },
   {
     "displayName": "small_breasts",
-    "langName": "小さい胸（B）",
+    "langName": "小さめの胸",
     "object": "キャラクター",
     "attribute": "胸",
     "preview": "https://img.aishort.top/imgprompt/20260212071540871.webp"
   },
   {
     "displayName": "medium breasts",
-    "langName": "ミディアムチェスト（C）",
+    "langName": "並乳 / 標準胸",
     "object": "キャラクター",
     "attribute": "胸",
     "preview": "https://img.aishort.top/imgprompt/20260212071540873.webp"
   },
   {
     "displayName": "big breasts",
-    "langName": "巨乳（D）",
+    "langName": "豊満 / 巨乳",
     "object": "キャラクター",
     "attribute": "胸",
     "preview": "https://img.aishort.top/imgprompt/20260212071540872.webp"
   },
   {
     "displayName": "huge breasts",
-    "langName": "巨乳（E）",
+    "langName": "巨乳",
     "object": "キャラクター",
     "attribute": "胸",
     "preview": "https://img.aishort.top/imgprompt/20260212071540870.webp"
   },
   {
     "displayName": "gigantic breasts",
-    "langName": "超巨乳（F）",
+    "langName": "超巨乳 / 爆乳",
     "object": "キャラクター",
     "attribute": "胸",
     "preview": "https://img.aishort.top/imgprompt/20260212071540874.webp"
@@ -4383,7 +4383,7 @@
   },
   {
     "displayName": "detached_wings",
-    "langName": "体とつながっていない翼",
+    "langName": "浮遊翼 / 体から離れた翼",
     "object": "キャラクター",
     "attribute": "翼",
     "preview": "https://img.aishort.top/imgprompt/20260211150537125.webp"
@@ -4453,7 +4453,7 @@
   },
   {
     "displayName": "no_wings",
-    "langName": "取り外した（元の）翼",
+    "langName": "翼なし / 羽根なし",
     "object": "キャラクター",
     "attribute": "翼",
     "preview": "https://img.aishort.top/imgprompt/20260212072704705.webp"
@@ -4579,7 +4579,7 @@
   },
   {
     "displayName": "foral_background",
-    "langName": "花柄の装飾的な背景",
+    "langName": "花柄背景",
     "object": "環境",
     "attribute": "背景",
     "preview": "https://img.aishort.top/imgprompt/20260211151130102.webp"
@@ -4698,7 +4698,7 @@
   },
   {
     "displayName": "rounded_corners",
-    "langName": "背景やフレームの角が丸い",
+    "langName": "角丸フレーム / 角丸背景",
     "object": "環境",
     "attribute": "背景",
     "preview": "https://img.aishort.top/imgprompt/20260211151506847.webp"
@@ -4712,7 +4712,7 @@
   },
   {
     "displayName": "outside_border",
-    "langName": "絵画の一部が背景の枠の外側にある",
+    "langName": "枠はみ出し構図",
     "object": "環境",
     "attribute": "背景",
     "preview": "https://img.aishort.top/imgprompt/20260211151532945.webp"
@@ -4726,7 +4726,7 @@
   },
   {
     "displayName": "windowboxed",
-    "langName": "写真フレームセット（背景）",
+    "langName": "ウィンドウボックス",
     "object": "環境",
     "attribute": "背景",
     "preview": "https://img.aishort.top/imgprompt/20260211151559726.webp"
@@ -4929,7 +4929,7 @@
   },
   {
     "displayName": "beautiful detailed sky,beautiful detailed water",
-    "langName": "天気も良く水も美味しい",
+    "langName": "美しい空と水面",
     "object": "環境",
     "attribute": "自然",
     "preview": "https://img.aishort.top/imgprompt/20260211152348882.webp"
@@ -4992,7 +4992,7 @@
   },
   {
     "displayName": "Dreamy forest",
-    "langName": "夢の森（非現実的な感覚。静かな光の粒子）",
+    "langName": "幻想の森",
     "object": "環境",
     "attribute": "自然",
     "preview": "https://img.aishort.top/imgprompt/20260211152548353.webp"
@@ -5293,7 +5293,7 @@
   },
   {
     "displayName": "star_(sky)",
-    "langName": "星（空に）",
+    "langName": "星空 / 満天の星",
     "object": "環境",
     "attribute": "空",
     "preview": "https://img.aishort.top/imgprompt/20260211153554967.webp"
@@ -5923,7 +5923,7 @@
   },
   {
     "displayName": "rappelling",
-    "langName": "水平出し（吊り下げ）",
+    "langName": "ラペリング",
     "object": "環境",
     "attribute": "屋外",
     "preview": "https://img.aishort.top/imgprompt/20260211155514112.webp"
@@ -7239,7 +7239,7 @@
   },
   {
     "displayName": "mouse",
-    "langName": "ねずみ",
+    "langName": "マウス",
     "object": "アイテム",
     "attribute": "デジタル機器",
     "preview": "https://img.aishort.top/imgprompt/20260211163606205.webp"
@@ -7589,7 +7589,7 @@
   },
   {
     "displayName": "school_bag",
-    "langName": "スクールバッグ（ハンドバッグ）",
+    "langName": "スクールバッグ / 通学鞄",
     "object": "アイテム",
     "attribute": "学用品",
     "preview": "https://img.aishort.top/imgprompt/20260211164633641.webp"
@@ -7820,14 +7820,14 @@
   },
   {
     "displayName": "diamond_(shape)",
-    "langName": "ダイヤモンド（形）",
+    "langName": "ひし形 / ダイヤ型",
     "object": "アイテム",
     "attribute": "その他のアイテム",
     "preview": "https://img.aishort.top/imgprompt/20260211165329674.webp"
   },
   {
     "displayName": "chibi_inset",
-    "langName": "ちびイラスト",
+    "langName": "ちびキャラ挿絵",
     "object": "アイテム",
     "attribute": "その他のアイテム",
     "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
@@ -7932,7 +7932,7 @@
   },
   {
     "displayName": "sword",
-    "langName": "ナイフ",
+    "langName": "剣・刀",
     "object": "アイテム",
     "attribute": "武器",
     "preview": "https://img.aishort.top/imgprompt/20260211165652659.webp"
@@ -7960,7 +7960,7 @@
   },
   {
     "displayName": "saber_(weapon)",
-    "langName": "サーベル（武器）",
+    "langName": "サーベル / 軍刀",
     "object": "アイテム",
     "attribute": "武器",
     "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
@@ -7988,7 +7988,7 @@
   },
   {
     "displayName": "stake",
-    "langName": "スティック",
+    "langName": "木の杭",
     "object": "アイテム",
     "attribute": "武器",
     "preview": "https://img.aishort.top/imgprompt/20260211165832380.webp"
@@ -8030,7 +8030,7 @@
   },
   {
     "displayName": "claw_(weapon)",
-    "langName": "爪（武器）",
+    "langName": "鉤爪",
     "object": "アイテム",
     "attribute": "武器",
     "preview": "https://img.aishort.top/imgprompt/20260211165949084.webp"
@@ -8065,7 +8065,7 @@
   },
   {
     "displayName": "magazine_(weapon)",
-    "langName": "マガジン（武器）",
+    "langName": "弾倉 / マガジン",
     "object": "アイテム",
     "attribute": "武器",
     "preview": "https://img.aishort.top/imgprompt/20260211170050212.webp"
@@ -8100,7 +8100,7 @@
   },
   {
     "displayName": "tank",
-    "langName": "タンク",
+    "langName": "戦車",
     "object": "アイテム",
     "attribute": "武器",
     "preview": "https://img.aishort.top/imgprompt/20260211170154753.webp"
@@ -9052,14 +9052,14 @@
   },
   {
     "displayName": "bat",
-    "langName": "バット",
+    "langName": "コウモリ",
     "object": "アイテム",
     "attribute": "動物",
     "preview": "https://img.aishort.top/imgprompt/20260211173038319.webp"
   },
   {
     "displayName": "shell",
-    "langName": "シェル",
+    "langName": "貝殻",
     "object": "アイテム",
     "attribute": "動物",
     "preview": "https://img.aishort.top/imgprompt/20260211173051134.webp"
@@ -9332,7 +9332,7 @@
   },
   {
     "displayName": "Tree Bark",
-    "langName": "吠える",
+    "langName": "樹皮",
     "object": "アイテム",
     "attribute": "植物",
     "preview": "https://img.aishort.top/imgprompt/20260211173914807.webp"
@@ -9444,7 +9444,7 @@
   },
   {
     "displayName": "leaning",
-    "langName": "リーン | リーン",
+    "langName": "リーン",
     "object": "アクション",
     "attribute": "基本ポーズ",
     "preview": "https://img.aishort.top/imgprompt/20260211174241891.webp"
@@ -9563,7 +9563,7 @@
   },
   {
     "displayName": "the_pose",
-    "langName": "地面に横になって足を上げます",
+    "langName": "うつ伏せ足上げポーズ",
     "object": "アクション",
     "attribute": "基本ポーズ",
     "preview": "https://img.aishort.top/imgprompt/20260211174615259.webp"
@@ -9591,14 +9591,14 @@
   },
   {
     "displayName": "fetal_position",
-    "langName": "胎児の姿勢（横たわっている）",
+    "langName": "胎児のポーズ",
     "object": "アクション",
     "attribute": "基本ポーズ",
     "preview": "https://img.aishort.top/imgprompt/20260211174706202.webp"
   },
   {
     "displayName": "against_glass",
-    "langName": "グラスを絞る（無効）",
+    "langName": "ガラスに寄りかかる / 押し付ける",
     "object": "アクション",
     "attribute": "基本ポーズ",
     "preview": "https://img.aishort.top/imgprompt/20260211174718789.webp"
@@ -9612,7 +9612,7 @@
   },
   {
     "displayName": "presenting",
-    "langName": "ディスプレイ（背面）",
+    "langName": "アピールポーズ",
     "object": "アクション",
     "attribute": "基本ポーズ",
     "preview": "https://img.aishort.top/imgprompt/20260211174744336.webp"
@@ -9675,7 +9675,7 @@
   },
   {
     "displayName": "eye_contact",
-    "langName": "アイコンタクト（お互いを見る）",
+    "langName": "アイコンタクト / 視線を合わせる",
     "object": "アクション",
     "attribute": "視線・表情",
     "preview": "https://img.aishort.top/imgprompt/20260211174937637.webp"
@@ -9836,7 +9836,7 @@
   },
   {
     "displayName": "aiming_at_viewer",
-    "langName": "読者をターゲットにする（視点）",
+    "langName": "こちらに狙いを定める",
     "object": "アクション",
     "attribute": "視線・表情",
     "preview": "https://img.aishort.top/imgprompt/20260211175428502.webp"
@@ -9934,7 +9934,7 @@
   },
   {
     "displayName": "hands_clasped",
-    "langName": "両手の指を交差 | 握りしめた手",
+    "langName": "両手を組む / 指を絡める",
     "object": "アクション",
     "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
@@ -9969,7 +9969,7 @@
   },
   {
     "displayName": "hands_in_opposite_sleeves",
-    "langName": "手を組んで袖の中に入れる",
+    "langName": "袖に手を入れる",
     "object": "アクション",
     "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
@@ -10095,7 +10095,7 @@
   },
   {
     "displayName": "covering_xx",
-    "langName": "カバーxx",
+    "langName": "特定部位を隠す",
     "object": "アクション",
     "attribute": "腕の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
@@ -10172,14 +10172,14 @@
   },
   {
     "displayName": "waving",
-    "langName": "手を振る（挨拶/別れの挨拶）",
+    "langName": "手を振る",
     "object": "アクション",
     "attribute": "ハンドサイン",
     "preview": "https://img.aishort.top/imgprompt/20260211180434501.webp"
   },
   {
     "displayName": "pointing_at_viewer",
-    "langName": "写真を見ている人を指さす",
+    "langName": "こちらを指さす",
     "object": "アクション",
     "attribute": "ハンドサイン",
     "preview": "https://img.aishort.top/imgprompt/20260211180447245.webp"
@@ -10249,7 +10249,7 @@
   },
   {
     "displayName": "reaching",
-    "langName": "（意図的に）手を差し伸べる",
+    "langName": "手を伸ばす",
     "object": "アクション",
     "attribute": "ハンドサイン",
     "preview": "https://img.aishort.top/imgprompt/20260211180655272.webp"
@@ -10312,7 +10312,7 @@
   },
   {
     "displayName": "paw_pose",
-    "langName": "招き猫の手のジェスチャー（手首を曲げる）",
+    "langName": "にゃんこポーズ / 招き猫の手",
     "object": "アクション",
     "attribute": "ハンドサイン",
     "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
@@ -10347,7 +10347,7 @@
   },
   {
     "displayName": "fingersmile",
-    "langName": "指で笑顔を作りましょう",
+    "langName": "指で笑顔を作る",
     "object": "アクション",
     "attribute": "ハンドサイン",
     "preview": "https://img.aishort.top/imgprompt/20260211180951696.webp"
@@ -10634,7 +10634,7 @@
   },
   {
     "displayName": "holding_eyewear",
-    "langName": "メガネを持つ | メガネを外す",
+    "langName": "眼鏡に手を添える / 外す",
     "object": "アクション",
     "attribute": "物を持つ",
     "preview": "https://img.aishort.top/imgprompt/20260211181827087.webp"
@@ -10956,21 +10956,21 @@
   },
   {
     "displayName": "hands_on_another's",
-    "langName": "他人の顔に手を当てる",
+    "langName": "相手の顔に両手を添える",
     "object": "アクション",
     "attribute": "抱擁・握る",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
-    "langName": "お互いの頬に手を当ててください",
+    "langName": "相手の両頬に手を添える",
     "object": "アクション",
     "attribute": "抱擁・握る",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
-    "langName": "誰かの肩に手を置いて",
+    "langName": "相手の肩に両手を置く",
     "object": "アクション",
     "attribute": "抱擁・握る",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
@@ -11026,7 +11026,7 @@
   },
   {
     "displayName": "hands_on_hips",
-    "langName": "腰に手を当てる | 腰に手を当てる",
+    "langName": "腰に手を当てる",
     "object": "アクション",
     "attribute": "抱擁・握る",
     "preview": "https://img.aishort.top/imgprompt/20260213094956459.webp"
@@ -11068,7 +11068,7 @@
   },
   {
     "displayName": "grabbing_from_behind",
-    "langName": "後ろから胸を揉む | 後ろから胸を掴む",
+    "langName": "後ろから胸を揉む / 掴む",
     "object": "アクション",
     "attribute": "抱擁・握る",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
@@ -11110,14 +11110,14 @@
   },
   {
     "displayName": "hands_on_headwear",
-    "langName": "両手で頭の飾りに触れる",
+    "langName": "頭飾りに手を添える",
     "object": "アクション",
     "attribute": "抱擁・握る",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
-    "langName": "ナイフの柄に手を添える",
+    "langName": "柄に両手を置く",
     "object": "アクション",
     "attribute": "抱擁・握る",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
@@ -11131,7 +11131,7 @@
   },
   {
     "displayName": "neckwear_grab",
-    "langName": "首の周りの服を掴む",
+    "langName": "襟元を掴む",
     "object": "アクション",
     "attribute": "抱擁・握る",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
@@ -11173,7 +11173,7 @@
   },
   {
     "displayName": "hand_in_another's_hair",
-    "langName": "相手の髪に手を置く",
+    "langName": "相手の髪に手を入れる",
     "object": "アクション",
     "attribute": "抱擁・握る",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
@@ -11215,7 +11215,7 @@
   },
   {
     "displayName": "hand_on_another's_chin",
-    "langName": "相手のあごを手で押さえる",
+    "langName": "相手の顎に手を添える",
     "object": "アクション",
     "attribute": "抱擁・握る",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
@@ -11236,7 +11236,7 @@
   },
   {
     "displayName": "hand_on_another's_stomach",
-    "langName": "相手のお腹に手を置く",
+    "langName": "相手のお腹に手を当てる",
     "object": "アクション",
     "attribute": "抱擁・握る",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
@@ -11264,14 +11264,14 @@
   },
   {
     "displayName": "hand_on_hilt",
-    "langName": "ナイフの柄に手を置いた状態",
+    "langName": "柄に手を置く",
     "object": "アクション",
     "attribute": "抱擁・握る",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
   },
   {
     "displayName": "hand_on_hip",
-    "langName": "腰に手を当てる | 腰に手を当てる",
+    "langName": "腰に手を当てる",
     "object": "アクション",
     "attribute": "抱擁・握る",
     "preview": "https://img.aishort.top/imgprompt/20260211183911177.webp"
@@ -11404,14 +11404,14 @@
   },
   {
     "displayName": "standing_split",
-    "langName": "スタンディングスプリット | スタンディングレッグレイズ",
+    "langName": "立ち開脚 / スタンディングスプリット",
     "object": "アクション",
     "attribute": "足の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211184306372.webp"
   },
   {
     "displayName": "curtsy",
-    "langName": "お辞儀（メイドの敬礼）",
+    "langName": "カーテシー",
     "object": "アクション",
     "attribute": "足の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
@@ -11502,7 +11502,7 @@
   },
   {
     "displayName": "folded",
-    "langName": "足を上げて膣を露出させます",
+    "langName": "膝を抱えるポーズ",
     "object": "アクション",
     "attribute": "足の動き",
     "preview": "https://img.aishort.top/imgprompt/20260211184601937.webp"
@@ -11544,7 +11544,7 @@
   },
   {
     "displayName": "k/da_(league_of_legends)",
-    "langName": "KDA チーム (リーグ・オブ・レジェンド)",
+    "langName": "K/DA（リーグ・オブ・レジェンド）",
     "object": "アクション",
     "attribute": "足の動き",
     "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
@@ -11705,14 +11705,14 @@
   },
   {
     "displayName": "tail_between_legs",
-    "langName": "尻尾は脚の間に丸まっています",
+    "langName": "尻尾を巻く",
     "object": "アクション",
     "attribute": "足の動き",
     "preview": "https://img.aishort.top/imgprompt/20260225100419147.webp"
   },
   {
     "displayName": "covering",
-    "langName": "覆う行為",
+    "langName": "体を隠す仕草",
     "object": "アクション",
     "attribute": "身体接触",
     "preview": "https://img.aishort.top/imgprompt/20260211185216454.webp"
@@ -11922,14 +11922,14 @@
   },
   {
     "displayName": "spitting",
-    "langName": "口から液体を吐き出す行為",
+    "langName": "唾を吐く / 吐き出し",
     "object": "アクション",
     "attribute": "身体反応",
     "preview": "https://img.aishort.top/imgprompt/20260211185836921.webp"
   },
   {
     "displayName": "spilling",
-    "langName": "容器から液体を注ぐ行為",
+    "langName": "こぼす / こぼれる",
     "object": "アクション",
     "attribute": "身体反応",
     "preview": "https://img.aishort.top/imgprompt/20260211185849710.webp"
@@ -12006,7 +12006,7 @@
   },
   {
     "displayName": "dropping",
-    "langName": "（偶然の）落下",
+    "langName": "落とす / 落下",
     "object": "アクション",
     "attribute": "身体反応",
     "preview": "https://img.aishort.top/imgprompt/20260211190102259.webp"
@@ -12055,7 +12055,7 @@
   },
   {
     "displayName": "lifted_by_another",
-    "langName": "相手の服で持ち上げられる",
+    "langName": "他人に服をめくられる",
     "object": "アクション",
     "attribute": "身体反応",
     "preview": "https://img.aishort.top/imgprompt/20260211190232075.webp"
@@ -12111,7 +12111,7 @@
   },
   {
     "displayName": "drying",
-    "langName": "乾いた状態（入浴後）",
+    "langName": "体を拭く / 乾かす",
     "object": "アクション",
     "attribute": "日常生活",
     "preview": "https://img.aishort.top/imgprompt/20260211190415978.webp"
@@ -12125,14 +12125,14 @@
   },
   {
     "displayName": "cleaning",
-    "langName": "クリーンアップ |",
+    "langName": "クリーンアップ",
     "object": "アクション",
     "attribute": "日常生活",
     "preview": "https://img.aishort.top/imgprompt/20260211190440252.webp"
   },
   {
     "displayName": "sweeping",
-    "langName": "掃除 | 掃き掃除（家事）",
+    "langName": "掃除 / 掃き掃除",
     "object": "アクション",
     "attribute": "日常生活",
     "preview": "https://img.aishort.top/imgprompt/20260211190452774.webp"
@@ -12258,7 +12258,7 @@
   },
   {
     "displayName": "sleeping_upright",
-    "langName": "（横になっていない）寝ている | 直立して寝ている",
+    "langName": "立ったまま寝る / 座り寝",
     "object": "アクション",
     "attribute": "日常生活",
     "preview": "https://img.aishort.top/imgprompt/20260211190844518.webp"
@@ -12412,14 +12412,14 @@
   },
   {
     "displayName": "shared_food",
-    "langName": "食べ物をシェアする | 口で食べ物を渡す",
+    "langName": "食べさせ合い / フードシェア",
     "object": "アクション",
     "attribute": "感情的な交流",
     "preview": "https://img.aishort.top/imgprompt/20260211191325544.webp"
   },
   {
     "displayName": "shared_bathing",
-    "langName": "共同入浴 | 元陽入浴",
+    "langName": "混浴 / 一緒に入浴",
     "object": "アクション",
     "attribute": "感情的な交流",
     "preview": "https://img.aishort.top/imgprompt/20260211191338217.webp"
@@ -12461,14 +12461,14 @@
   },
   {
     "displayName": "asymmetrical_docking",
-    "langName": "胸が触れ合う | 胸が胸に触れる",
+    "langName": "胸の触れ合い",
     "object": "アクション",
     "attribute": "感情的な交流",
     "preview": "https://img.aishort.top/imgprompt/20260211191454771.webp"
   },
   {
     "displayName": "special_feeling_(meme)",
-    "langName": "雪の中で傘を差す恋人たち",
+    "langName": "特別な気分",
     "object": "アクション",
     "attribute": "感情的な交流",
     "preview": "https://img.aishort.top/imgprompt/20260211191507001.webp"
@@ -12608,7 +12608,7 @@
   },
   {
     "displayName": "wrestling",
-    "langName": "レスリング（スポーツ）",
+    "langName": "レスリング / プロレス",
     "object": "アクション",
     "attribute": "運動",
     "preview": "https://img.aishort.top/imgprompt/20260211191925002.webp"
@@ -12818,7 +12818,7 @@
   },
   {
     "displayName": "skirt_flip",
-    "langName": "スカートめくり（緊急時の意味も含む）",
+    "langName": "スカートめくり",
     "object": "アクション",
     "attribute": "服を整える",
     "preview": "https://img.aishort.top/imgprompt/20260317125226840.webp"
@@ -12895,7 +12895,7 @@
   },
   {
     "displayName": "tying",
-    "langName": "結び目を作る（動作）",
+    "langName": "結ぶ",
     "object": "アクション",
     "attribute": "服を整える",
     "preview": "https://img.aishort.top/imgprompt/20260211192806302.webp"
@@ -12930,7 +12930,7 @@
   },
   {
     "displayName": "pulled_by_another",
-    "langName": "他の人に引っ張られる（または衣服を引っ張られる）",
+    "langName": "他人に引っ張られる",
     "object": "アクション",
     "attribute": "服を整える",
     "preview": "https://img.aishort.top/imgprompt/20260317125423077.webp"
@@ -12993,7 +12993,7 @@
   },
   {
     "displayName": "holding_bow_(weapon)",
-    "langName": "弓（武器）を持つ",
+    "langName": "弓を構える / 弓を持つ",
     "object": "アクション",
     "attribute": "武器・装備",
     "preview": "https://img.aishort.top/imgprompt/20260211193102894.webp"
@@ -13084,7 +13084,7 @@
   },
   {
     "displayName": "Kabedon",
-    "langName": "壁を叩く",
+    "langName": "壁ドン",
     "object": "アクション",
     "attribute": "特殊なポーズ",
     "preview": "https://img.aishort.top/imgprompt/20260211193512046.webp"
@@ -13412,7 +13412,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211194606041.webp"
   },
   {
-    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset)),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
+    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset))),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
     "langName": "トワイライトメソッド",
     "object": "アクション",
     "attribute": "魔法",
@@ -13525,7 +13525,7 @@
   },
   {
     "displayName": "((full body)),(helpless),tear,crying,(((((falling from the sky))))),((Weathering With You)),((falling)),((face towards the sky)),(hair flows upwards),((disheveled hair)),(1 girl),floating,beautiful detailed sky",
-    "langName": "墜落法（空からの落下構図）",
+    "langName": "スカイフォール構図（天気の子風）",
     "object": "アクション",
     "attribute": "魔法",
     "preview": "https://img.aishort.top/imgprompt/20260211194938656.webp"
@@ -13727,7 +13727,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195607630.webp"
   },
   {
-    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood))),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
+    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood)),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
     "langName": "血液改革法",
     "object": "アクション",
     "attribute": "魔法",
@@ -14002,7 +14002,7 @@
   },
   {
     "displayName": "disgust",
-    "langName": "うんざり（ゴミみたい）",
+    "langName": "蔑み / 嫌悪の眼差し",
     "object": "表情",
     "attribute": "軽蔑",
     "preview": "https://img.aishort.top/imgprompt/20260317071358725.webp"
@@ -14023,7 +14023,7 @@
   },
   {
     "displayName": "shaded_face",
-    "langName": "顔には軽蔑の影が浮かんでいる",
+    "langName": "顔の影",
     "object": "表情",
     "attribute": "軽蔑",
     "preview": "https://img.aishort.top/imgprompt/20260212085009132.webp"
@@ -14044,7 +14044,7 @@
   },
   {
     "displayName": "wince",
-    "langName": "しかめっ面（性交前）",
+    "langName": "顔をしかめる / 眉をひそめる",
     "object": "表情",
     "attribute": "軽蔑",
     "preview": "https://img.aishort.top/imgprompt/20260212085045682.webp"
@@ -14079,7 +14079,7 @@
   },
   {
     "displayName": "serious",
-    "langName": "深刻（怒っているのと同じ）",
+    "langName": "真面目 / 険しい表情",
     "object": "表情",
     "attribute": "怒り",
     "preview": "https://img.aishort.top/imgprompt/20260212085145957.webp"
@@ -14163,7 +14163,7 @@
   },
   {
     "displayName": "embarrass",
-    "langName": "恥ずかしがり屋",
+    "langName": "恥ずかしい / 照れ困り",
     "object": "表情",
     "attribute": "その他の表情",
     "preview": "https://img.aishort.top/imgprompt/20260212085408608.webp"
@@ -14380,7 +14380,7 @@
   },
   {
     "displayName": "torogao",
-    "langName": "トロ顔",
+    "langName": "とろ顔",
     "object": "表情",
     "attribute": "その他の表情",
     "preview": "https://img.aishort.top/imgprompt/20260228103646110.webp"
@@ -14702,7 +14702,7 @@
   },
   {
     "displayName": "hanten_clothes",
-    "langName": "とうまた（日本風）",
+    "langName": "半纏（はんてん）",
     "object": "衣装",
     "attribute": "服装スタイル",
     "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
@@ -14716,7 +14716,7 @@
   },
   {
     "displayName": "furisode",
-    "langName": "振袖（着物の一部）",
+    "langName": "振袖",
     "object": "衣装",
     "attribute": "服装スタイル",
     "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
@@ -14744,14 +14744,14 @@
   },
   {
     "displayName": "uchikake",
-    "langName": "Bai Wijia (日本のウェディングドレス)",
+    "langName": "打掛 / 白無垢",
     "object": "衣装",
     "attribute": "服装スタイル",
     "preview": "https://img.aishort.top/imgprompt/20260212110020279.webp"
   },
   {
     "displayName": "obi",
-    "langName": "帯",
+    "langName": "帯（おび）",
     "object": "衣装",
     "attribute": "服装スタイル",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -14800,7 +14800,7 @@
   },
   {
     "displayName": "Ao_Dai",
-    "langName": "ベトナムの衣服（アオザイ）",
+    "langName": "アオザイ",
     "object": "衣装",
     "attribute": "服装スタイル",
     "preview": "https://img.aishort.top/imgprompt/20260212112032273.webp"
@@ -14947,14 +14947,14 @@
   },
   {
     "displayName": "alternate_costume",
-    "langName": "キャラクターの本来の姿とは異なる代替衣装",
+    "langName": "別衣装 / アナザーコスチューム",
     "object": "衣装",
     "attribute": "服装スタイル",
     "preview": "https://img.aishort.top/imgprompt/20260212120626953.webp"
   },
   {
     "displayName": "costume_switch",
-    "langName": "着替えて遊ぶ",
+    "langName": "衣装チェンジ / コスチューム交換",
     "object": "衣装",
     "attribute": "服装スタイル",
     "preview": "https://img.aishort.top/imgprompt/20260212120842799.webp"
@@ -15164,7 +15164,7 @@
   },
   {
     "displayName": "evening_gown",
-    "langName": "ロングガウン（足首までの長さの女性用ガウン）",
+    "langName": "イブニングドレス / ロングドレス",
     "object": "衣装",
     "attribute": "フォーマルウェア",
     "preview": "https://img.aishort.top/imgprompt/20260212125805414.webp"
@@ -15206,7 +15206,7 @@
   },
   {
     "displayName": "serafuku",
-    "langName": "セーラー服（学生服）",
+    "langName": "セーラー服",
     "object": "衣装",
     "attribute": "フォーマルウェア",
     "preview": "https://img.aishort.top/imgprompt/20260212130530516.webp"
@@ -15542,7 +15542,7 @@
   },
   {
     "displayName": "school_swimsuit",
-    "langName": "スクール水着（すいくう）",
+    "langName": "スクール水着",
     "object": "衣装",
     "attribute": "水着",
     "preview": "https://img.aishort.top/imgprompt/20260225102036109.webp"
@@ -15605,7 +15605,7 @@
   },
   {
     "displayName": "swimsuit_of_perpetual_summer",
-    "langName": "常夏の水着（FGO 女子高生霊装）",
+    "langName": "常夏の水着（FGOマシュ霊衣）",
     "object": "衣装",
     "attribute": "水着",
     "preview": "https://img.aishort.top/imgprompt/20260317071630637.webp"
@@ -15878,14 +15878,14 @@
   },
   {
     "displayName": "swimsuit_aside",
-    "langName": "水着の股間をずらす",
+    "langName": "水着ずらし",
     "object": "衣装",
     "attribute": "水着",
     "preview": "https://img.aishort.top/imgprompt/20260212152012611.webp"
   },
   {
     "displayName": "swimsuit_under_clothes",
-    "langName": "服の下に水着を着る",
+    "langName": "服の下に水着",
     "object": "衣装",
     "attribute": "水着",
     "preview": "https://img.aishort.top/imgprompt/20260317072817093.webp"
@@ -15976,7 +15976,7 @@
   },
   {
     "displayName": "bc_freedom_military_uniform",
-    "langName": "BC フリーアカデミーユニフォーム",
+    "langName": "BC自由学園制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260212153126044.webp"
@@ -15990,7 +15990,7 @@
   },
   {
     "displayName": "chi-hatan_military_uniform",
-    "langName": "志哥丹学院制服",
+    "langName": "知波単学園軍服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260212153151798.webp"
@@ -16025,21 +16025,21 @@
   },
   {
     "displayName": "hikarizaka_private_high_school_uniform",
-    "langName": "私立三ツ坂高校の制服",
+    "langName": "私立光坂高等学校制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260212153257185.webp"
   },
   {
     "displayName": "homurahara_academy_uniform",
-    "langName": "水軍原学園制服",
+    "langName": "穂群原学園制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260212153310241.webp"
   },
   {
     "displayName": "kamiyama_high_school_uniform",
-    "langName": "カイラス高校の制服",
+    "langName": "神山高校制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260212153323486.webp"
@@ -16088,21 +16088,21 @@
   },
   {
     "displayName": "nami_junior_high_school_uniform",
-    "langName": "ボル中学校の制服",
+    "langName": "波路中学校制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260212153455870.webp"
   },
   {
     "displayName": "nanairogaoka_middle_school_uniform",
-    "langName": "七星丘中学校の制服",
+    "langName": "七色ヶ丘中学校制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260212153509132.webp"
   },
   {
     "displayName": "nanamori_school_uniform",
-    "langName": "斉森中学校の制服",
+    "langName": "七森中学校制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260212153725574.webp"
@@ -16172,14 +16172,14 @@
   },
   {
     "displayName": "rabbit_house_uniform",
-    "langName": "ディアントゥトゥハウス制服",
+    "langName": "ラビットハウス制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260213055157775.webp"
   },
   {
     "displayName": "raimon_soccer_uniform",
-    "langName": "サンダーゲートフットボールユニフォーム",
+    "langName": "雷門中サッカー部ユニフォーム",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260213055210653.webp"
@@ -16193,7 +16193,7 @@
   },
   {
     "displayName": "sakugawa_school_uniform",
-    "langName": "扎川中学校の制服",
+    "langName": "柵川中学校制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260213055439290.webp"
@@ -16242,7 +16242,7 @@
   },
   {
     "displayName": "shuujin_academy_uniform",
-    "langName": "大学の制服を披露する",
+    "langName": "秀尽学園高校制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260213060421601.webp"
@@ -16263,28 +16263,28 @@
   },
   {
     "displayName": "starlight_academy_uniform",
-    "langName": "スターオプティカルパークユニフォーム",
+    "langName": "スターライト学園制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260213060500805.webp"
   },
   {
     "displayName": "tokisadame_school_uniform",
-    "langName": "通常の大学の制服",
+    "langName": "時定高校制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260213060513970.webp"
   },
   {
     "displayName": "tokiwadai_school_uniform",
-    "langName": "常盤台中校制服",
+    "langName": "常盤台中学校制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260213060526744.webp"
   },
   {
     "displayName": "tomoeda_elementary_school_uniform",
-    "langName": "有志小学校の制服",
+    "langName": "友枝小学校制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260213060539748.webp"
@@ -16298,14 +16298,14 @@
   },
   {
     "displayName": "u.a._school_uniform",
-    "langName": "雄英高校の制服",
+    "langName": "雄英高校制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260213060607357.webp"
   },
   {
     "displayName": "uranohoshi_school_uniform",
-    "langName": "浦の星女学院の制服",
+    "langName": "浦の星女学院制服",
     "object": "衣装",
     "attribute": "制服",
     "preview": "https://img.aishort.top/imgprompt/20260213060620807.webp"
@@ -16424,7 +16424,7 @@
   },
   {
     "displayName": "short sleeve T-shirts",
-    "langName": "半袖 T シャツ（ショルダーシャツ）",
+    "langName": "半袖Tシャツ",
     "object": "衣装",
     "attribute": "トップス",
     "preview": "https://img.aishort.top/imgprompt/20260213063027450.webp"
@@ -16466,7 +16466,7 @@
   },
   {
     "displayName": "tank_top",
-    "langName": "ベスト（ホーム）",
+    "langName": "タンクトップ",
     "object": "衣装",
     "attribute": "トップス",
     "preview": "https://img.aishort.top/imgprompt/20260213064156253.webp"
@@ -16494,7 +16494,7 @@
   },
   {
     "displayName": "vest",
-    "langName": "ベスト（フォーマル）",
+    "langName": "ベスト / ジレ",
     "object": "衣装",
     "attribute": "トップス",
     "preview": "https://img.aishort.top/imgprompt/20260213064408586.webp"
@@ -16508,7 +16508,7 @@
   },
   {
     "displayName": "waistcoat",
-    "langName": "ウエストコート（フォーマル）",
+    "langName": "ウエストコート",
     "object": "衣装",
     "attribute": "トップス",
     "preview": "https://img.aishort.top/imgprompt/20260213064435011.webp"
@@ -16599,7 +16599,7 @@
   },
   {
     "displayName": "kappougi",
-    "langName": "ブラウス（料理中に着用）",
+    "langName": "割烹着（かっぽうぎ）",
     "object": "衣装",
     "attribute": "トップス",
     "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
@@ -16662,7 +16662,7 @@
   },
   {
     "displayName": "tied_shirt",
-    "langName": "タイアップシャツ（角と裾を結ぶ）",
+    "langName": "裾結びシャツ",
     "object": "衣装",
     "attribute": "トップス",
     "preview": "https://img.aishort.top/imgprompt/20260213070412064.webp"
@@ -16746,7 +16746,7 @@
   },
   {
     "displayName": "button_gap",
-    "langName": "ボタン間の隙間（ボタンを外していない状態）",
+    "langName": "胸元ボタンの隙間",
     "object": "衣装",
     "attribute": "トップス",
     "preview": "https://img.aishort.top/imgprompt/20260213071455826.webp"
@@ -16879,21 +16879,21 @@
   },
   {
     "displayName": "strap_slip",
-    "langName": "ショルダーストラップがずれて漏れる",
+    "langName": "肩紐ずり落ち",
     "object": "衣装",
     "attribute": "トップス",
     "preview": "https://img.aishort.top/imgprompt/20260228101844680.webp"
   },
   {
     "displayName": "wedgie",
-    "langName": "埋没（衣服が股間部分を引っ張ることで発生）",
+    "langName": "食い込み",
     "object": "衣装",
     "attribute": "トップス",
     "preview": "https://img.aishort.top/imgprompt/20260225103744943.webp"
   },
   {
     "displayName": "wardrobe_malfunction",
-    "langName": "衣服に何かが起こった（破れなど）",
+    "langName": "衣装事故 / ポロリ",
     "object": "衣装",
     "attribute": "トップス",
     "preview": "https://img.aishort.top/imgprompt/20260213075235531.webp"
@@ -16984,7 +16984,7 @@
   },
   {
     "displayName": "double-breasted",
-    "langName": "ダブルブレストボタン（ダブルブレストボタン",
+    "langName": "ダブルブレスト",
     "object": "衣装",
     "attribute": "コート",
     "preview": "https://img.aishort.top/imgprompt/20260213075715469.webp"
@@ -17054,7 +17054,7 @@
   },
   {
     "displayName": "jacket_partially_removed",
-    "langName": "ジャケットは部分的に脱がれている",
+    "langName": "ジャケット半脱ぎ",
     "object": "衣装",
     "attribute": "コート",
     "preview": "https://img.aishort.top/imgprompt/20260213081023629.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "カーディガンジャケット（スプレッドレッグ付き）",
+    "langName": "前開きジャケット",
     "object": "衣装",
     "attribute": "コート",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -18048,7 +18048,7 @@
   },
   {
     "displayName": "corset",
-    "langName": "コルセット（ウエストコート）",
+    "langName": "コルセット",
     "object": "衣装",
     "attribute": "ウエスト",
     "preview": "https://img.aishort.top/imgprompt/20260225104053785.webp"
@@ -18097,7 +18097,7 @@
   },
   {
     "displayName": "kusazuri",
-    "langName": "草摺（日本の下半身の鎧）",
+    "langName": "草摺（くさずり）",
     "object": "衣装",
     "attribute": "鎧",
     "preview": "https://img.aishort.top/imgprompt/20260213115508736.webp"
@@ -18118,7 +18118,7 @@
   },
   {
     "displayName": "kabuto",
-    "langName": "ヘルメット（日本式）",
+    "langName": "兜（かぶと）",
     "object": "衣装",
     "attribute": "鎧",
     "preview": "https://img.aishort.top/imgprompt/20260213115548290.webp"
@@ -18132,7 +18132,7 @@
   },
   {
     "displayName": "shoulder_armor",
-    "langName": "肩",
+    "langName": "肩当て / ショルダーアーマー",
     "object": "衣装",
     "attribute": "鎧",
     "preview": "https://img.aishort.top/imgprompt/20260213115612426.webp"
@@ -18153,14 +18153,14 @@
   },
   {
     "displayName": "faulds",
-    "langName": "腹甲",
+    "langName": "腰甲 / フォールド",
     "object": "衣装",
     "attribute": "鎧",
     "preview": "https://img.aishort.top/imgprompt/20260213115855297.webp"
   },
   {
     "displayName": "greaves",
-    "langName": "グリーブ",
+    "langName": "脛当て",
     "object": "衣装",
     "attribute": "鎧",
     "preview": "https://img.aishort.top/imgprompt/20260213115908428.webp"
@@ -18237,7 +18237,7 @@
   },
   {
     "displayName": "sundress",
-    "langName": "スリップドレス（暑い季節用のノースリーブドレス）",
+    "langName": "サマードレス / サンドレス",
     "object": "衣装",
     "attribute": "スカート",
     "preview": "https://img.aishort.top/imgprompt/20260213121003959.webp"
@@ -18342,7 +18342,7 @@
   },
   {
     "displayName": "impossible_dress",
-    "langName": "きつすぎる服",
+    "langName": "真空ドレス",
     "object": "衣装",
     "attribute": "スカート",
     "preview": "https://img.aishort.top/imgprompt/20260213122932976.webp"
@@ -18454,14 +18454,14 @@
   },
   {
     "displayName": "ballgown",
-    "langName": "チュチュ（ドレス）",
+    "langName": "ボールガウン / 舞踏会ドレス",
     "object": "衣装",
     "attribute": "スカート",
     "preview": "https://img.aishort.top/imgprompt/20260213123502356.webp"
   },
   {
     "displayName": "pettiskirt",
-    "langName": "チュチュ（子供用）",
+    "langName": "ペティスカート / パニエ",
     "object": "衣装",
     "attribute": "スカート",
     "preview": "https://img.aishort.top/imgprompt/20260213123515479.webp"
@@ -18657,7 +18657,7 @@
   },
   {
     "displayName": "skirt_tug",
-    "langName": "スカートの裾を押さえる | スカートの裾を押さえる",
+    "langName": "スカートの裾を押さえる",
     "object": "衣装",
     "attribute": "スカート",
     "preview": "https://img.aishort.top/imgprompt/20260213132657290.webp"
@@ -18811,14 +18811,14 @@
   },
   {
     "displayName": "dolphin_shorts",
-    "langName": "ドルフィンショーツ（トゥルースパンツ）",
+    "langName": "ドルフィンショーツ",
     "object": "衣装",
     "attribute": "パンツ",
     "preview": "https://img.aishort.top/imgprompt/20260213134352207.webp"
   },
   {
     "displayName": "dolfin_shorts",
-    "langName": "ドルフィンショーツ（トゥルースパンツ）",
+    "langName": "ドルフィンショーツ",
     "object": "衣装",
     "attribute": "パンツ",
     "preview": "https://img.aishort.top/imgprompt/20260213134404755.webp"
@@ -18832,7 +18832,7 @@
   },
   {
     "displayName": "crotchless_pants",
-    "langName": "クロッチレスパンツ（タイト）",
+    "langName": "股開きパンツ",
     "object": "衣装",
     "attribute": "パンツ",
     "preview": "https://img.aishort.top/imgprompt/20260213134430564.webp"
@@ -18937,14 +18937,14 @@
   },
   {
     "displayName": "chaps",
-    "langName": "革のチャップス（上部が広く、下部が狭い）",
+    "langName": "チャップス",
     "object": "衣装",
     "attribute": "パンツ",
     "preview": "https://img.aishort.top/imgprompt/20260213134945047.webp"
   },
   {
     "displayName": "jumpsuit",
-    "langName": "（特に女性用）ジャンプスーツ",
+    "langName": "ジャンプスーツ / オールインワン",
     "object": "衣装",
     "attribute": "パンツ",
     "preview": "https://img.aishort.top/imgprompt/20260213134957992.webp"
@@ -18979,7 +18979,7 @@
   },
   {
     "displayName": "leotard_aside",
-    "langName": "ジャンプスーツの股間を横に剥がす",
+    "langName": "レオタードずらし",
     "object": "衣装",
     "attribute": "パンツ",
     "preview": "https://img.aishort.top/imgprompt/20260213135915193.webp"
@@ -19140,21 +19140,21 @@
   },
   {
     "displayName": "pantyhose",
-    "langName": "パンスト | パンスト",
+    "langName": "パンスト",
     "object": "衣装",
     "attribute": "靴下",
     "preview": "https://img.aishort.top/imgprompt/20260213142442251.webp"
   },
   {
     "displayName": "legwear",
-    "langName": "パンスト（一般的にはパンストまたはストッキングを指す）",
+    "langName": "レッグウェア / タイツ",
     "object": "衣装",
     "attribute": "靴下",
     "preview": "https://img.aishort.top/imgprompt/20260225104603819.webp"
   },
   {
     "displayName": "thighhighs",
-    "langName": "ストッキング（ニーハイソックス）",
+    "langName": "ニーハイソックス",
     "object": "衣装",
     "attribute": "靴下",
     "preview": "https://img.aishort.top/imgprompt/20260213142506603.webp"
@@ -19217,7 +19217,7 @@
   },
   {
     "displayName": "pantylines",
-    "langName": "タイトタイツ（ラインの輪郭を描く）",
+    "langName": "パンティライン",
     "object": "衣装",
     "attribute": "靴下",
     "preview": "https://img.aishort.top/imgprompt/20260317074408132.webp"
@@ -19357,7 +19357,7 @@
   },
   {
     "displayName": "back-seamed_legwear",
-    "langName": "真ん中に黒い線が入った靴下",
+    "langName": "バックシームストッキング",
     "object": "衣装",
     "attribute": "靴下",
     "preview": "https://img.aishort.top/imgprompt/20260225104949341.webp"
@@ -19413,14 +19413,14 @@
   },
   {
     "displayName": "bobby_socks",
-    "langName": "ボビーソックス（白ソックス）",
+    "langName": "ボビーソックス",
     "object": "衣装",
     "attribute": "靴下",
     "preview": "https://img.aishort.top/imgprompt/20260213144125119.webp"
   },
   {
     "displayName": "tabi",
-    "langName": "日本製厚底ソックス（足ポケット付）",
+    "langName": "足袋（たび）",
     "object": "衣装",
     "attribute": "靴下",
     "preview": "https://img.aishort.top/imgprompt/20260213144138485.webp"
@@ -19434,7 +19434,7 @@
   },
   {
     "displayName": "leg_warmers",
-    "langName": "レッグウォーマー | レッグウォーマー",
+    "langName": "レッグウォーマー",
     "object": "衣装",
     "attribute": "靴下",
     "preview": "https://img.aishort.top/imgprompt/20260213144203562.webp"
@@ -19518,7 +19518,7 @@
   },
   {
     "displayName": "thigh_holster",
-    "langName": "脚にストラップ、ツールバッグ、ホルスターを付ける",
+    "langName": "サイホルスター / 太ももホルスター",
     "object": "衣装",
     "attribute": "靴下",
     "preview": "https://img.aishort.top/imgprompt/20260213144441392.webp"
@@ -19546,7 +19546,7 @@
   },
   {
     "displayName": "arm_garter",
-    "langName": "ブームガーター",
+    "langName": "アームガーター / 袖留め",
     "object": "衣装",
     "attribute": "靴下",
     "preview": "https://img.aishort.top/imgprompt/20260213144735280.webp"
@@ -19658,14 +19658,14 @@
   },
   {
     "displayName": "sock_pull",
-    "langName": "靴下を履く（靴下）",
+    "langName": "靴下を引き上げる",
     "object": "衣装",
     "attribute": "靴下",
     "preview": "https://img.aishort.top/imgprompt/20260213150519193.webp"
   },
   {
     "displayName": "thighhighs_pull",
-    "langName": "靴下（ストッキング）を履く",
+    "langName": "ニーハイを引き上げる",
     "object": "衣装",
     "attribute": "靴下",
     "preview": "https://img.aishort.top/imgprompt/20260225090322289.webp"
@@ -19686,7 +19686,7 @@
   },
   {
     "displayName": "crease",
-    "langName": "しわのある（プリーツのある）",
+    "langName": "折り目 / 衣服のしわ",
     "object": "衣装",
     "attribute": "装飾",
     "preview": "https://img.aishort.top/imgprompt/20260213150609920.webp"
@@ -19755,7 +19755,7 @@
   },
   {
     "displayName": "back_bow",
-    "langName": "（衣服）背中の後ろで結ぶ結び目",
+    "langName": "バックリボン / 背中の蝶結び",
     "object": "衣装",
     "attribute": "装飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151221218.webp"
@@ -19769,7 +19769,7 @@
   },
   {
     "displayName": "double_vertical_stripe",
-    "langName": "衣服には 2 本の平行な縞模様がある",
+    "langName": "2本縦ストライプ",
     "object": "衣装",
     "attribute": "装飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
@@ -19818,14 +19818,14 @@
   },
   {
     "displayName": "single_kneehigh",
-    "langName": "片側に膝丈の服を着る",
+    "langName": "片側ニーソックス",
     "object": "衣装",
     "attribute": "装飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151419710.webp"
   },
   {
     "displayName": "single_vertical_stripe",
-    "langName": "衣服の片側に縦縞を露出させる",
+    "langName": "片側縦ストライプ",
     "object": "衣装",
     "attribute": "装飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151432314.webp"
@@ -19839,7 +19839,7 @@
   },
   {
     "displayName": "two-sided_fabric",
-    "langName": "二重スタイルの衣服の描画方法",
+    "langName": "裏表バイカラー生地",
     "object": "衣装",
     "attribute": "装飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151458665.webp"
@@ -19860,21 +19860,21 @@
   },
   {
     "displayName": "fringe_trim",
-    "langName": "端（スカーフの端）",
+    "langName": "フリンジ飾り",
     "object": "衣装",
     "attribute": "装飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151538074.webp"
   },
   {
     "displayName": "loose_belt",
-    "langName": "ゆるいストラップ（衣類）",
+    "langName": "ゆるく締めたベルト",
     "object": "衣装",
     "attribute": "装飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151551376.webp"
   },
   {
     "displayName": "pom_pom_(clothes)",
-    "langName": "小さなポンポン（衣類アクセサリー）",
+    "langName": "ポンポン飾り",
     "object": "衣装",
     "attribute": "装飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151807325.webp"
@@ -19895,7 +19895,7 @@
   },
   {
     "displayName": "gathers",
-    "langName": "プリーツ（衣類）",
+    "langName": "ギャザー",
     "object": "衣装",
     "attribute": "装飾",
     "preview": "https://img.aishort.top/imgprompt/20260213151846596.webp"
@@ -20441,7 +20441,7 @@
   },
   {
     "displayName": "peace_symbol",
-    "langName": "☮(東方仗助の服について)",
+    "langName": "ピースマーク（☮）",
     "object": "衣装",
     "attribute": "パターン",
     "preview": "https://img.aishort.top/imgprompt/20260213154359591.webp"
@@ -20595,7 +20595,7 @@
   },
   {
     "displayName": "black_loafers",
-    "langName": "ローファー（小さめの革靴）",
+    "langName": "黒のローファー",
     "object": "衣装",
     "attribute": "靴",
     "preview": "https://img.aishort.top/imgprompt/20260213160300808.webp"
@@ -20868,7 +20868,7 @@
   },
   {
     "displayName": "knee_boots",
-    "langName": "ニーハイブーツ（乗馬ブーツ）",
+    "langName": "ニーハイブーツ / 膝丈ブーツ",
     "object": "衣装",
     "attribute": "ブーツ",
     "preview": "https://img.aishort.top/imgprompt/20260213170630231.webp"
@@ -21225,7 +21225,7 @@
   },
   {
     "displayName": "armband",
-    "langName": "腕章（アームバンド）",
+    "langName": "腕章",
     "object": "衣装",
     "attribute": "袖",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
@@ -21680,7 +21680,7 @@
   },
   {
     "displayName": "alternate_headwear",
-    "langName": "本来のものとは異なるヘッドギア",
+    "langName": "別頭飾り",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213191902200.webp"
@@ -21715,7 +21715,7 @@
   },
   {
     "displayName": "xx_on_head",
-    "langName": "頭に xx",
+    "langName": "頭に乗せる",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213192411659.webp"
@@ -21778,21 +21778,21 @@
   },
   {
     "displayName": "hachimaki",
-    "langName": "ターバン（名詞）",
+    "langName": "鉢巻（はちまき）",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213194023586.webp"
   },
   {
     "displayName": "helm",
-    "langName": "ヘルメットを着用",
+    "langName": "兜 / ヘルメット装着",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213194036779.webp"
   },
   {
     "displayName": "helmet_removed",
-    "langName": "ヘルメットを脱いだ | ヘルメットを脱いだ",
+    "langName": "ヘルメットを脱いだ",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213194050047.webp"
@@ -21827,7 +21827,7 @@
   },
   {
     "displayName": "skull_and_crossbones",
-    "langName": "どくろと骨（海賊、危険、警告）",
+    "langName": "髑髏と交差した骨",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213195005290.webp"
@@ -21841,7 +21841,7 @@
   },
   {
     "displayName": "headdress",
-    "langName": "帽子（より一般的なもの）",
+    "langName": "ヘッドドレス / 頭飾り",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213195638458.webp"
@@ -21869,21 +21869,21 @@
   },
   {
     "displayName": "horns_through_headwear",
-    "langName": "角用の穴が開いた頭飾り",
+    "langName": "角を通した頭飾り",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213200134487.webp"
   },
   {
     "displayName": "no_headwear",
-    "langName": "削除された（既存の）ヘッドギア",
+    "langName": "頭飾りなし",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213200147284.webp"
   },
   {
     "displayName": "object_on_head",
-    "langName": "頭にはヘッドギア以外の何かがある",
+    "langName": "頭の上の物",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213200200049.webp"
@@ -21925,7 +21925,7 @@
   },
   {
     "displayName": "behind-the-head_headphones",
-    "langName": "後頭部に装着するヘッドフォン",
+    "langName": "ネックバンド型ヘッドホン",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213200337721.webp"
@@ -21988,14 +21988,14 @@
   },
   {
     "displayName": "head_mounted_display",
-    "langName": "ヘッドマウントディスプレイデバイスを装着する",
+    "langName": "ヘッドマウントディスプレイ（HMD）",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213201344092.webp"
   },
   {
     "displayName": "head_out_of_frame",
-    "langName": "頭の一部がフレーム内に描かれていない",
+    "langName": "頭部フレームアウト",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213201559216.webp"
@@ -22016,7 +22016,7 @@
   },
   {
     "displayName": "headgear",
-    "langName": "ヘッドアクセサリー（SF 要素を含む）",
+    "langName": "ヘッドギア",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213201840823.webp"
@@ -22030,7 +22030,7 @@
   },
   {
     "displayName": "heads-up_display",
-    "langName": "ステータスバー（ゲームと SF スタイル）",
+    "langName": "HUD（ヘッドアップディスプレイ）",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213201907728.webp"
@@ -22065,7 +22065,7 @@
   },
   {
     "displayName": "single_head_wing",
-    "langName": "頭の片側に翼がある",
+    "langName": "片側ヘッドウイング",
     "object": "アクセサリー",
     "attribute": "ヘッドドレス",
     "preview": "https://img.aishort.top/imgprompt/20260213202620422.webp"
@@ -22261,7 +22261,7 @@
   },
   {
     "displayName": "hairpods",
-    "langName": "髪にワイヤレス Bluetooth ヘアアクセサリーのペア",
+    "langName": "ヘアポッド",
     "object": "アクセサリー",
     "attribute": "ヘアアクセサリー",
     "preview": "https://img.aishort.top/imgprompt/20260213210909139.webp"
@@ -22296,7 +22296,7 @@
   },
   {
     "displayName": "snake_hair_ornament",
-    "langName": "ヘビのヘアアクセサリー | カエルのヘアアクセサリー",
+    "langName": "蛇の髪飾り",
     "object": "アクセサリー",
     "attribute": "ヘアアクセサリー",
     "preview": "https://img.aishort.top/imgprompt/20260213211418419.webp"
@@ -22779,7 +22779,7 @@
   },
   {
     "displayName": "hat_removed",
-    "langName": "帽子が脱がれる | 帽子が脱がれる",
+    "langName": "帽子が脱がれる",
     "object": "アクセサリー",
     "attribute": "帽子",
     "preview": "https://img.aishort.top/imgprompt/20260213224231603.webp"
@@ -22800,7 +22800,7 @@
   },
   {
     "displayName": "hatching_(texture)",
-    "langName": "線の陰影（テクスチャ）",
+    "langName": "ハッチング",
     "object": "アクセサリー",
     "attribute": "帽子",
     "preview": "https://img.aishort.top/imgprompt/20260213224329155.webp"
@@ -22926,14 +22926,14 @@
   },
   {
     "displayName": "sunglasses",
-    "langName": "サングラス（目を覆うもの）",
+    "langName": "サングラス",
     "object": "アクセサリー",
     "attribute": "眼鏡",
     "preview": "https://img.aishort.top/imgprompt/20260213230746663.webp"
   },
   {
     "displayName": "reflection glasses",
-    "langName": "サングラス（目が見える）",
+    "langName": "サングラス",
     "object": "アクセサリー",
     "attribute": "眼鏡",
     "preview": "https://img.aishort.top/imgprompt/20260213230759909.webp"
@@ -22954,7 +22954,7 @@
   },
   {
     "displayName": "eyepatch",
-    "langName": "眼帯（片目）",
+    "langName": "眼帯",
     "object": "アクセサリー",
     "attribute": "眼鏡",
     "preview": "https://img.aishort.top/imgprompt/20260213230839662.webp"
@@ -22982,14 +22982,14 @@
   },
   {
     "displayName": "coke-bottle_glasses",
-    "langName": "ガラス瓶の底と同じくらい厚い丸いグラス",
+    "langName": "瓶底メガネ / 厚底メガネ",
     "object": "アクセサリー",
     "attribute": "眼鏡",
     "preview": "https://img.aishort.top/imgprompt/20260213230932442.webp"
   },
   {
     "displayName": "no_eyewear",
-    "langName": "取り外した（既存の）メガネ",
+    "langName": "眼鏡なし",
     "object": "アクセサリー",
     "attribute": "眼鏡",
     "preview": "https://img.aishort.top/imgprompt/20260213230945224.webp"
@@ -23178,7 +23178,7 @@
   },
   {
     "displayName": "domino_mask",
-    "langName": "SM マスク",
+    "langName": "ドミノマスク",
     "object": "アクセサリー",
     "attribute": "マスク",
     "preview": "https://img.aishort.top/imgprompt/20260213233359905.webp"
@@ -23241,7 +23241,7 @@
   },
   {
     "displayName": "single_earring",
-    "langName": "片側だけにイヤリングをつける",
+    "langName": "片耳イヤリング",
     "object": "アクセサリー",
     "attribute": "イヤリング",
     "preview": "https://img.aishort.top/imgprompt/20260213235633818.webp"
@@ -23297,7 +23297,7 @@
   },
   {
     "displayName": "cuffs",
-    "langName": "さらし台",
+    "langName": "手枷",
     "object": "アクセサリー",
     "attribute": "ハンドジュエリー",
     "preview": "https://img.aishort.top/imgprompt/20260213235839451.webp"
@@ -23325,7 +23325,7 @@
   },
   {
     "displayName": "leash",
-    "langName": "ベルト",
+    "langName": "首輪用リード / 鎖",
     "object": "アクセサリー",
     "attribute": "ハンドジュエリー",
     "preview": "https://img.aishort.top/imgprompt/20260213235930034.webp"
@@ -23437,7 +23437,7 @@
   },
   {
     "displayName": "no_gloves",
-    "langName": "取り外した（既存の）手袋",
+    "langName": "手袋なし",
     "object": "アクセサリー",
     "attribute": "手袋",
     "preview": "https://img.aishort.top/imgprompt/20260214001315236.webp"
@@ -23451,7 +23451,7 @@
   },
   {
     "displayName": "single_elbow_glove",
-    "langName": "片手に肘までの長さの手袋を着用する",
+    "langName": "片側ロング手袋",
     "object": "アクセサリー",
     "attribute": "手袋",
     "preview": "https://img.aishort.top/imgprompt/20260214001744860.webp"
@@ -23465,7 +23465,7 @@
   },
   {
     "displayName": "elbow_gloves",
-    "langName": "長袖手袋（肘まで覆う手袋）",
+    "langName": "肘丈手袋",
     "object": "アクセサリー",
     "attribute": "手袋",
     "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
@@ -23500,14 +23500,14 @@
   },
   {
     "displayName": "paw_gloves",
-    "langName": "クローグローブ（指手袋）",
+    "langName": "肉球手袋 / 肉球グローブ",
     "object": "アクセサリー",
     "attribute": "手袋",
     "preview": "https://img.aishort.top/imgprompt/20260214002522561.webp"
   },
   {
     "displayName": "mittens",
-    "langName": "ミトン（2 本指の手袋）",
+    "langName": "ミトン手袋",
     "object": "アクセサリー",
     "attribute": "手袋",
     "preview": "https://img.aishort.top/imgprompt/20260214002535788.webp"
@@ -23759,14 +23759,14 @@
   },
   {
     "displayName": "st._gloriana's_(emblem)",
-    "langName": "聖グロリアアンナ女子校の校章",
+    "langName": "聖グロリアーナ校章",
     "object": "アクセサリー",
     "attribute": "小さな装飾",
     "preview": "https://img.aishort.top/imgprompt/20260214010157304.webp"
   },
   {
     "displayName": "heart_lock_(kantai_collection)",
-    "langName": "艦娘ロック（艦 C）",
+    "langName": "ハートロック（艦これ）",
     "object": "アクセサリー",
     "attribute": "小さな装飾",
     "preview": "https://img.aishort.top/imgprompt/20260214010210385.webp"
@@ -23990,14 +23990,14 @@
   },
   {
     "displayName": "Wu Xing",
-    "langName": "五大元素（金、木、水、火、土）",
+    "langName": "五行思想（木火土金水）",
     "object": "アクセサリー",
     "attribute": "シンボル",
     "preview": "https://img.aishort.top/imgprompt/20260214020503233.webp"
   },
   {
     "displayName": "dynamic pose",
-    "langName": "ダイナミックなポーズ（エネルギッシュ）",
+    "langName": "ダイナミックポーズ",
     "object": "撮影",
     "attribute": "視点",
     "preview": "https://img.aishort.top/imgprompt/20260214020718871.webp"
@@ -24319,28 +24319,28 @@
   },
   {
     "displayName": "cowboy_shot",
-    "langName": "上半身＋太もも上部（デニムレンズ）",
+    "langName": "カウボーイショット",
     "object": "撮影",
     "attribute": "カメラの高さ",
     "preview": "https://img.aishort.top/imgprompt/20260214032314849.webp"
   },
   {
     "displayName": "portrait",
-    "langName": "ポートレート（顔＋肩＋たまに胸）",
+    "langName": "ポートレート / 肖像",
     "object": "撮影",
     "attribute": "カメラの高さ",
     "preview": "https://img.aishort.top/imgprompt/20260214032327856.webp"
   },
   {
     "displayName": "very close portrait",
-    "langName": "クローズアップポートレート（カメラを近づける）",
+    "langName": "超クローズアップポートレート",
     "object": "撮影",
     "attribute": "カメラの高さ",
     "preview": "https://img.aishort.top/imgprompt/20260214032544032.webp"
   },
   {
     "displayName": "profile",
-    "langName": "横顔ポートレート（ポートレートの横顔バージョン）",
+    "langName": "横顔ポートレート",
     "object": "撮影",
     "attribute": "カメラの高さ",
     "preview": "https://img.aishort.top/imgprompt/20260214032759101.webp"
@@ -24375,7 +24375,7 @@
   },
   {
     "displayName": "wide_shot",
-    "langName": "パノラマレンズ（広角レンズ）",
+    "langName": "ワイドショット",
     "object": "撮影",
     "attribute": "レンズフォーカス",
     "preview": "https://img.aishort.top/imgprompt/20260214033851759.webp"
@@ -24389,7 +24389,7 @@
   },
   {
     "displayName": "inset",
-    "langName": "追加の映像や写真を挿入する",
+    "langName": "ワイプ / はめ込み画像",
     "object": "撮影",
     "attribute": "レンズフォーカス",
     "preview": "https://img.aishort.top/imgprompt/20260214033931731.webp"
@@ -24403,21 +24403,21 @@
   },
   {
     "displayName": "male focus",
-    "langName": "男性フォーカス（女性フォーカス）",
+    "langName": "男性フォーカス",
     "object": "撮影",
     "attribute": "レンズフォーカス",
     "preview": "https://img.aishort.top/imgprompt/20260214033958195.webp"
   },
   {
     "displayName": "solo_focus",
-    "langName": "1 人のキャラクターに焦点を当てる（複雑なシーンに適しています）",
+    "langName": "単体フォーカス",
     "object": "撮影",
     "attribute": "レンズフォーカス",
     "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
   },
   {
     "displayName": "xx_focus",
-    "langName": "xx に焦点を当てる",
+    "langName": "特定部位フォーカス",
     "object": "撮影",
     "attribute": "レンズフォーカス",
     "preview": "https://img.aishort.top/imgprompt/20260214034023889.webp"
@@ -24459,7 +24459,7 @@
   },
   {
     "displayName": "vehicle_focus",
-    "langName": "車両（車）に焦点を当てる",
+    "langName": "乗り物フォーカス",
     "object": "撮影",
     "attribute": "レンズフォーカス",
     "preview": "https://img.aishort.top/imgprompt/20260214034759257.webp"
@@ -24473,21 +24473,21 @@
   },
   {
     "displayName": "between_legs",
-    "langName": "（強調）脚の間",
+    "langName": "股の間からのアングル",
     "object": "撮影",
     "attribute": "レンズフォーカス",
     "preview": "https://img.aishort.top/imgprompt/20260214035455577.webp"
   },
   {
     "displayName": "between_breasts",
-    "langName": "（突き出た）胸",
+    "langName": "胸元クローズアップ",
     "object": "撮影",
     "attribute": "レンズフォーカス",
     "preview": "https://img.aishort.top/imgprompt/20260225091239828.webp"
   },
   {
     "displayName": "between_fingers",
-    "langName": "指の間の（突出）",
+    "langName": "指の隙間から覗く構図",
     "object": "撮影",
     "attribute": "レンズフォーカス",
     "preview": "https://img.aishort.top/imgprompt/20260214035531987.webp"
@@ -24501,14 +24501,14 @@
   },
   {
     "displayName": "peeking_out",
-    "langName": "覗く（ジェスチャー）",
+    "langName": "顔をのぞかせる仕草",
     "object": "撮影",
     "attribute": "レンズフォーカス",
     "preview": "https://img.aishort.top/imgprompt/20260214035557635.webp"
   },
   {
     "displayName": "peeping",
-    "langName": "盗撮（視点に重点を置く）",
+    "langName": "のぞき見アングル",
     "object": "撮影",
     "attribute": "レンズフォーカス",
     "preview": "https://img.aishort.top/imgprompt/20260214035610390.webp"
@@ -24662,7 +24662,7 @@
   },
   {
     "displayName": "Brenizer Method",
-    "langName": "スパイラルショット",
+    "langName": "ブレニザー・メソッド（ボケパノラマ）",
     "object": "撮影",
     "attribute": "レンズ/光学効果",
     "preview": "https://img.aishort.top/imgprompt/20260214041350224.webp"
@@ -24697,7 +24697,7 @@
   },
   {
     "displayName": "landscape",
-    "langName": "風景ショット（ロングショット）",
+    "langName": "風景ショット / ランドスケープ",
     "object": "撮影",
     "attribute": "レンズ/光学効果",
     "preview": "https://img.aishort.top/imgprompt/20260214041814281.webp"
@@ -24844,7 +24844,7 @@
   },
   {
     "displayName": "polaroid",
-    "langName": "写真（ポラロイド）",
+    "langName": "ポラロイド写真",
     "object": "撮影",
     "attribute": "写真スタイル",
     "preview": "https://img.aishort.top/imgprompt/20260214044251180.webp"
@@ -25292,7 +25292,7 @@
   },
   {
     "displayName": "depth of field",
-    "langName": "被写界深度（人物シーンの調整）",
+    "langName": "被写界深度",
     "object": "撮影",
     "attribute": "効果",
     "preview": "https://img.aishort.top/imgprompt/20260224191234161.webp"
@@ -25320,14 +25320,14 @@
   },
   {
     "displayName": "bokeh",
-    "langName": "コースティクス（ぼかした背景）",
+    "langName": "玉ボケ / 背景ボケ",
     "object": "撮影",
     "attribute": "効果",
     "preview": "https://img.aishort.top/imgprompt/20260224191333274.webp"
   },
   {
     "displayName": "chromatic_aberration",
-    "langName": "色収差、焦点が合っていない色",
+    "langName": "色収差 / 色ズレ",
     "object": "撮影",
     "attribute": "効果",
     "preview": "https://img.aishort.top/imgprompt/20260224191548893.webp"
@@ -25818,7 +25818,7 @@
   },
   {
     "displayName": "Crepuscular Rays",
-    "langName": "薄明光線",
+    "langName": "薄明光線（ゴッドレイ）",
     "object": "ライティング",
     "attribute": "照明効果",
     "preview": "https://img.aishort.top/imgprompt/20260224200322540.webp"
@@ -25860,7 +25860,7 @@
   },
   {
     "displayName": "lens flare",
-    "langName": "レンズフレア（逆光）",
+    "langName": "レンズフレア",
     "object": "ライティング",
     "attribute": "照明効果",
     "preview": "https://img.aishort.top/imgprompt/20260224200437632.webp"
@@ -27113,7 +27113,7 @@
   },
   {
     "displayName": "Dispersion",
-    "langName": "分散（異なる色の光が分離する現象）",
+    "langName": "光の分散 / プリズム分光",
     "object": "カラームード",
     "attribute": "暗いトーン",
     "preview": "https://img.aishort.top/imgprompt/20260224221649393.webp"
@@ -27645,7 +27645,7 @@
   },
   {
     "displayName": "Tetradic-Colors",
-    "langName": "4 色（長方形カラーマッチング）",
+    "langName": "テトラード配色",
     "object": "カラームード",
     "attribute": "カラーパレット",
     "preview": "https://img.aishort.top/imgprompt/20260224223613371.webp"
@@ -27933,21 +27933,21 @@
   },
   {
     "displayName": "HCL",
-    "langName": "色相・彩度(クロマ)・輝度",
+    "langName": "色相・色度・輝度",
     "object": "カラームード",
     "attribute": "モニターのカラーパレット",
     "preview": "https://img.aishort.top/imgprompt/20260224224615621.webp"
   },
   {
     "displayName": "YCbCr",
-    "langName": "ikB",
+    "langName": "YCbCr",
     "object": "カラームード",
     "attribute": "モニターのカラーパレット",
     "preview": "https://img.aishort.top/imgprompt/20260224224629664.webp"
   },
   {
     "displayName": "YPbPr",
-    "langName": "wxya",
+    "langName": "YPbPr",
     "object": "カラームード",
     "attribute": "モニターのカラーパレット",
     "preview": "https://img.aishort.top/imgprompt/20260224224643063.webp"
@@ -28661,7 +28661,7 @@
   },
   {
     "displayName": "Rock",
-    "langName": "ロック",
+    "langName": "岩",
     "object": "テクスチャ",
     "attribute": "石と鉱物",
     "preview": "https://img.aishort.top/imgprompt/20260224231422941.webp"
@@ -29914,7 +29914,7 @@
   },
   {
     "displayName": "Putty",
-    "langName": "隙間を密封し充填するための接着剤",
+    "langName": "パテ",
     "object": "テクスチャ",
     "attribute": "スライム",
     "preview": "https://img.aishort.top/imgprompt/20260224235936705.webp"
@@ -31356,7 +31356,7 @@
   },
   {
     "displayName": "((dyeing)),((oil painting)),((impasto))",
-    "langName": "油絵（組み合わせ）",
+    "langName": "重厚インパスト油彩調",
     "object": "画像タイプ",
     "attribute": "絵画",
     "preview": "https://img.aishort.top/imgprompt/20260225004949979.webp"
@@ -31622,7 +31622,7 @@
   },
   {
     "displayName": "extremely detailed cg",
-    "langName": "非常に詳細な CG",
+    "langName": "極めて詳細なゲームCG",
     "object": "画像タイプ",
     "attribute": "イラスト",
     "preview": "https://img.aishort.top/imgprompt/20260225010029642.webp"
@@ -31825,7 +31825,7 @@
   },
   {
     "displayName": "copics",
-    "langName": "マーカー（ニュートラルグレー）",
+    "langName": "コピックマーカー調",
     "object": "画像タイプ",
     "attribute": "インク",
     "preview": "https://img.aishort.top/imgprompt/20260225010656308.webp"
@@ -32126,7 +32126,7 @@
   },
   {
     "displayName": "Pokemon Card",
-    "langName": "ポケモンカード（ポケットモンスター）",
+    "langName": "ポケモンカード風",
     "object": "画像タイプ",
     "attribute": "印刷",
     "preview": "https://img.aishort.top/imgprompt/20260225011638981.webp"
@@ -32518,7 +32518,7 @@
   },
   {
     "displayName": "traditional_media",
-    "langName": "伝統的なキャンバス（紙など）",
+    "langName": "アナログ画材 / 伝統的画材",
     "object": "画像タイプ",
     "attribute": "その他のメディア",
     "preview": "https://img.aishort.top/imgprompt/20260225013600028.webp"
@@ -33078,7 +33078,7 @@
   },
   {
     "displayName": "miserablism",
-    "langName": "憂鬱（社会の貧困や不正義に対する批判）",
+    "langName": "ミゼラブリズム",
     "object": "アートスタイル",
     "attribute": "フィクションと現実",
     "preview": "https://img.aishort.top/imgprompt/20260225015538415.webp"
@@ -33169,7 +33169,7 @@
   },
   {
     "displayName": "illustration,(((ukiyoe))),((sketch)),((japanese_art))",
-    "langName": "浮世絵（グループ）",
+    "langName": "浮世絵風イラスト",
     "object": "アートスタイル",
     "attribute": "アジア美術",
     "preview": "https://img.aishort.top/imgprompt/20260225015830944.webp"
@@ -33260,7 +33260,7 @@
   },
   {
     "displayName": "heavy contrast",
-    "langName": "強いコントラスト（色の強調）",
+    "langName": "ハイコントラスト",
     "object": "アートスタイル",
     "attribute": "写真/絵画スタイル",
     "preview": "https://img.aishort.top/imgprompt/20260225020108984.webp"
@@ -33323,7 +33323,7 @@
   },
   {
     "displayName": "film noir",
-    "langName": "フィルム・ノワール（罪悪感、欲望、復讐）",
+    "langName": "フィルム・ノワール調",
     "object": "アートスタイル",
     "attribute": "写真/絵画スタイル",
     "preview": "https://img.aishort.top/imgprompt/20260225020255566.webp"
@@ -33337,7 +33337,7 @@
   },
   {
     "displayName": "fantasy",
-    "langName": "SF シーンに最適",
+    "langName": "ファンタジー調",
     "object": "アートスタイル",
     "attribute": "SF",
     "preview": "https://img.aishort.top/imgprompt/20260225020323046.webp"
@@ -33393,7 +33393,7 @@
   },
   {
     "displayName": "ww3 style",
-    "langName": "第 3 次世界大戦スタイル",
+    "langName": "第三次世界大戦風スタイル",
     "object": "アートスタイル",
     "attribute": "SF",
     "preview": "https://img.aishort.top/imgprompt/20260225020500212.webp"
@@ -33624,14 +33624,14 @@
   },
   {
     "displayName": "column lineup",
-    "langName": "小さな絵の連続が大きな絵を構成する",
+    "langName": "マルチカラム配列",
     "object": "アートスタイル",
     "attribute": "出版物",
     "preview": "https://img.aishort.top/imgprompt/20260225021130372.webp"
   },
   {
     "displayName": "zoom layer",
-    "langName": "背景は前景の拡大版です",
+    "langName": "ズームレイヤー背景",
     "object": "アートスタイル",
     "attribute": "出版物",
     "preview": "https://img.aishort.top/imgprompt/20260225021142834.webp"
@@ -33680,7 +33680,7 @@
   },
   {
     "displayName": "highres",
-    "langName": "インパスト（スタイル）",
+    "langName": "厚塗りデジタル画風",
     "object": "アートスタイル",
     "attribute": "デジタルアート",
     "preview": "https://img.aishort.top/imgprompt/20260225021323241.webp"
@@ -34233,7 +34233,7 @@
   },
   {
     "displayName": "Sabattier Effect",
-    "langName": "柔らかくぼやけたエッジと色の陰影を実現します",
+    "langName": "サバティエ効果（ソラリゼーション）",
     "object": "後処理",
     "attribute": "画像処理",
     "preview": "https://img.aishort.top/imgprompt/20260225022949265.webp"
@@ -34268,7 +34268,7 @@
   },
   {
     "displayName": "Harris Shutter",
-    "langName": "動きの速い物体を捉えたり、暗い環境でも鮮明な画像を維持したりします",
+    "langName": "ハリスシャッター効果",
     "object": "後処理",
     "attribute": "画像処理",
     "description": "高速で動く被写体を捉えたり、低照度環境で画像の鮮明さを保つ技法",
@@ -34703,7 +34703,7 @@
   },
   {
     "displayName": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space,a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve,gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline,Beacon Hill brownstones,Acorn Street,Boston Public Garden,Swan Boats,Zakim Bridge,Fenway-inspired details,historic brick architecture,harbor ferries,and the city’s waterfront atmosphere. Soft morning fog,golden spring light,subtle festive accents in crimson and gold,rich detail,layered depth,sophisticated city-poster aesthetics,fresh and refined,visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON,A CITY OF RIVER,MEMORY,AND INVENTION”,text clear and beautifully composed,premium graphic design,9:16",
-    "langName": "Boston 2026年春 都市ポスター",
+    "langName": "ボストン 2026年春 都市ポスター",
     "object": "ショーケース",
     "attribute": "ポスター",
     "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
@@ -34711,7 +34711,7 @@
   },
   {
     "displayName": "Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast,Italy,panoramic coastal cliff road scene,classic 1960s white car driving along a curved seaside road,deep blue Mediterranean sea with small sailboats,colorful pastel hillside village,bright blue sky with soft clouds,lemon tree branches with vibrant yellow lemons framing the foreground,warm summer sunlight,bold vibrant colors,retro 1950s travel poster style,cinematic composition,high detail,screen print texture,graphic illustration. Hand-drawn style,illustration with loose strokes and defined contours. High-contrast color palette,maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.",
-    "langName": "ヴィンテージ Amalfi トラベルポスター",
+    "langName": "ヴィンテージ アマルフィ トラベルポスター",
     "object": "ショーケース",
     "attribute": "ポスター",
     "description": "by @WolfRiccardo (https://x.com/WolfRiccardo)",
@@ -34719,7 +34719,7 @@
   },
   {
     "displayName": "一张手绘风格的城市美食地图,以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底,标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等,每个插画约占地图的 5% 面积,旁边用手写体标注店名和一句推荐语\"凌晨两点还在排队的那家\"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题\"成都·吃货暴走地图\"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感,颜色以暖色系（辣椒红、姜黄、翠绿）为主,图片比例 1:1。",
-    "langName": "Chengdu フードマップイラスト",
+    "langName": "成都 グルメマップイラスト",
     "object": "ショーケース",
     "attribute": "ポスター",
     "description": "by @Panda20230902 (https://x.com/Panda20230902)",
@@ -34734,8 +34734,8 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151157243.webp"
   },
   {
-    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑(广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
-    "langName": "2026年春 Guangzhou 都市ポスター",
+    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑（广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
+    "langName": "2026年春 広州 都市ポスター",
     "object": "ショーケース",
     "attribute": "ポスター",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34743,7 +34743,7 @@
   },
   {
     "displayName": "以涂鸦速写风表现【一个厉害的AI builder】,整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一,略显凌乱但具有节奏和表现力,强调概括、夸张、趣味和随性,而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现,可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感,色彩根据【主题/主体】自动适配,但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果,不要细腻水彩过渡,不要纸纹理,不要柔和雾化,不要梦幻质感。  背景以留白为主,保持简洁、轻松、未完成感和设计感,可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素,以增强速写本或随笔式视觉语言,但不可过于拥挤,不可破坏主体和留白气质。  画面内容不需要预先写清楚,由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景,整体保持统一的涂鸦速写风和夸张概括的表现方式,避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“BlanPlan”,作为画面的一部分,位置低调但清晰,可放在左下角、右下角或标题附近,风格需与整体版式统一,像作品署名或设计落款；签名字体精致、克制、高级,不可过大,不可破坏主体构图,不可显得突兀或廉价。",
-    "langName": "落書きスケッチ AI ビルダー",
+    "langName": "AIビルダーの落書きスケッチ",
     "object": "ショーケース",
     "attribute": "ポスター",
     "description": "by @blanplan (https://x.com/blanplan)",
@@ -34759,7 +34759,7 @@
   },
   {
     "displayName": "小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて",
-    "langName": "スーパーファミコン ポスタースタイル",
+    "langName": "スーパーファミコン風 ポスター",
     "object": "ショーケース",
     "attribute": "ポスター",
     "description": "by @lilimliliychan (https://x.com/lilimliliychan)",
@@ -34783,7 +34783,7 @@
   },
   {
     "displayName": "纯黑深邃底色,一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端,构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟,内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列,前景有白鹤与湖面,远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀,东方美学与现代意象交融,8K 超高清渲染,比例 9:16。",
-    "langName": "水墨曲線 Guangzhou 美学ポスター",
+    "langName": "水墨曲線 広州 美学ポスター",
     "object": "ショーケース",
     "attribute": "ポスター",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34799,7 +34799,7 @@
   },
   {
     "displayName": "一张充满新春喜庆但高雅的 2026 广州城市宣传海报,9:16 竖版,双重曝光,S 型流动构图。纯白纹理背景,右下角微缩传统服饰人物挥舞长红绸,红绸变形成山脉河流,内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。",
-    "langName": "2026年春 Guangzhou プロモポスター",
+    "langName": "2026年春 広州 プロモポスター",
     "object": "ショーケース",
     "attribute": "ポスター",
     "description": "by @grok (https://x.com/grok)",
@@ -34823,7 +34823,7 @@
   },
   {
     "displayName": "以珠江新城现代都市景观为灵感的剪纸艺术,通过精巧的镂空手法在一整幅纸上,立体刻画广州塔、东西双塔等地标建筑与繁华城景。\n所有建筑与元素均以流畅的线条与结构相连,无孤立部分,构成一幅完整的都市画卷。\n画面采用金属箔或光泽纸材质,表面带有细腻的明暗光泽,在光照下呈现柔和的高光与阴影,仿佛被城市灯光轻轻照亮。\n背景以虚化的珠江新城天际线为衬,点缀隐约可见的花城广场与树木轮廓,整体透出现代浪漫的氛围。\n作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点,象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉,细节丰富,真实而富有艺术感染力。",
-    "langName": "Guangzhou 切り絵都市ポスター",
+    "langName": "広州 切り絵都市ポスター",
     "object": "ショーケース",
     "attribute": "ポスター",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34919,7 +34919,7 @@
   },
   {
     "displayName": "平面插画,东方幻想风格高端城市海报设计,竖版9:16构图,整体采用对角线+S型流动构图,从左下向右上延展,画面以深邃黑色为背景,自上而下渐变至浓烈暗红色,形成强烈冷暖对比与空间纵深,背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿,自底部向上延伸,具有流体质感、粒子光效与渐变高光,局部带细微能量碎屑与体积光。\n\n金色流光中逐层浮现广州城市地标建筑群:广州塔为视觉核心,比例突出,周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素,建筑采用“精细线描 + 金色发光体块”表现,轮廓清晰、细节丰富,在金色光晕映衬下仿佛悬浮于虚空,形成超现实空间层次,远景轻微雾化增强纵深感。\n\n画面底部为一位东方白发女性形象,长发飘逸,如烟似雾,与金色流光自然衔接并逐渐融合,发丝半透明带渐变光感,姿态柔美,双目微闭,神情宁静,怀抱一束多彩鲜花,花间点缀微光粒子与星点效果,象征人与城市能量的精神连接,人物细节适度简化以突出整体设计感。\n\n光影集中于金色流线、建筑与人物轮廓,形成强烈明暗对比与视觉聚焦,整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底,高亮鎏金为主视觉强调,金色具备丰富明暗层次,辅以小面积高饱和花束色彩点缀,整体高级克制。\n\n页面文字与画面融合排版:顶部居中宋体大字“广州·中国”,下方小字“2026/04/20”,再下方小字“LIYUE”,文字采用淡金色或柔和暖白色,与整体光影统一。高品质细节,电影级光影表现,体积光与粒子细节丰富,画面干净无噪点,超高清8K分辨率,商业级海报质感。",
-    "langName": "ダークファンタジー Guangzhou 都市ポスター",
+    "langName": "ダークファンタジー 広州 都市ポスター",
     "object": "ショーケース",
     "attribute": "ポスター",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34951,7 +34951,7 @@
   },
   {
     "displayName": "A refined 2026 Silicon Valley city promotional poster with a futuristic yet elegant atmosphere.\n\nDouble exposure composition,preserving an S-shaped sense of flowing movement. On a pure white textured background,in the lower-right corner,a miniature figure dressed in sleek modern techwear is releasing a long ribbon of luminous silver-blue light. The ribbon flows gracefully through the air,showing a soft silk-like texture,and as it drifts toward the upper-left,it magically transforms into a grand landscape of rolling hills,coastline,data streams,and illuminated urban terrain.\n\nWithin this flowing “river of light,” overlay a hand-drawn panoramic map of Silicon Valley,blending technology,nature,innovation,and California sunlight. The scene feels visionary,expansive,sophisticated,and inspiring.\n\nInclude iconic Silicon Valley and Bay Area elements: Stanford University arches,Apple Park,Google campus-inspired buildings,Meta-like glass offices,Tesla-style innovation imagery,venture capital offices on Sand Hill Road,Palo Alto tree-lined streets,San Jose skyline,the Santa Cruz Mountains,San Francisco Bay,highways,autonomous vehicles,startup labs,semiconductor patterns,AI data centers,and subtle circuit-board textures.\n\nSurrounded by soft mist,golden California light,floating clouds,and delicate digital particles. Rich colors,complex structure,highly detailed,grand and breathtaking,yet still fresh and minimal because of the large areas of white space.\n\nIn the lower-left corner,elegant typography reads “SILICON VALLEY 2026” with a vertical promotional slogan: “Where Ideas Shape Tomorrow.” Beautiful editorial layout,graceful spacing,clear and complete lettering,premium city branding poster,cinematic lighting,sophisticated details,9:16 aspect ratio.",
-    "langName": "Silicon Valley 2026 プロモポスター",
+    "langName": "シリコンバレー 2026 プロモポスター",
     "object": "ショーケース",
     "attribute": "ポスター",
     "description": "by @carsonyungos (https://x.com/carsonyungos)",
@@ -35111,7 +35111,7 @@
   },
   {
     "displayName": "最新モデルの画像生成ツールを使用して、\nこのちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）\nギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。\n\n「ここに自己紹介」\n\n名前:（ここに名前） \nイメージカラー:（ここに色） \n身長:（ここに身長）cm \n体重:（ここに体重）kg\nキャッチコピー:”「ここにセリフ」”",
-    "langName": "ギャルゲーキャラクター紹介ページ",
+    "langName": "美少女ゲーム（ギャルゲー）風 キャラ紹介ページ",
     "object": "ショーケース",
     "attribute": "キャラクター",
     "description": "by @09lyco (https://x.com/09lyco)",
@@ -35119,7 +35119,7 @@
   },
   {
     "displayName": "このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 \n・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 \n・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる \n・全体は整理されたレイアウト\n（白背景、図解風） \n・アスペクト比16：9\n\n高解像度、プロのコンセプトアートスタイル",
-    "langName": "公式キャラクターシート（JP）",
+    "langName": "公式設定資料風 キャラクターシート",
     "object": "ショーケース",
     "attribute": "キャラクター",
     "description": "by @Toshi_nyaruo_AI (https://x.com/Toshi_nyaruo_AI)",
@@ -35135,7 +35135,7 @@
   },
   {
     "displayName": "生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片,每张卡牌上写上对应的中文名,每行4个,宽高比16:9。",
-    "langName": "聖闘士星矢 黄金聖闘士カードグリッド",
+    "langName": "聖闘士星矢 黄金聖闘士12宮カードグリッド",
     "object": "ショーケース",
     "attribute": "キャラクター",
     "description": "by @songguoxiansen (https://x.com/songguoxiansen)",
@@ -35159,7 +35159,7 @@
   },
   {
     "displayName": "Amateur iPhone photo at Apple Park during the iPhone 20 keynote,Tim Cook presenting on stage. Shot from the crowd at a distance",
-    "langName": "アマチュア iPhone Keynote スナップショット",
+    "langName": "iPhone発表会スナップ写真",
     "object": "ショーケース",
     "attribute": "UI",
     "description": "by @patrickassale (https://x.com/patrickassale)",
@@ -35191,7 +35191,7 @@
   },
   {
     "displayName": "9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊！",
-    "langName": "Liu Yifei Douyin ライブ配信スクリーンショット",
+    "langName": "リウ・イーフェイ TikTok/抖音配信スクショ",
     "object": "ショーケース",
     "attribute": "UI",
     "description": "by @alanblogsooo (https://x.com/alanblogsooo)",
@@ -35199,7 +35199,7 @@
   },
   {
     "displayName": "태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.",
-    "langName": "朝鮮太祖 李成桂 の X ページ",
+    "langName": "李成桂のXアカウント画面",
     "object": "ショーケース",
     "attribute": "UI",
     "description": "by @SKA_Neotype (https://x.com/SKA_Neotype)",
@@ -35223,7 +35223,7 @@
   },
   {
     "displayName": "请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。\n\n要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构,用户无需再提供其他信息。\n\n整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图,而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感,整体高级、克制、专业、可收藏。\n\n版式固定为：\n- 顶部：中文主标题 + 副标题 + 导语\n- 左侧：结构拆解区,中文引线标注关键部件,并配局部特写\n- 右上：材质 / 工艺 / 质感区,展示真实纹理小样并附说明\n- 右中：纹样 / 色彩 / 寓意区,展示主色板、纹样样本和文化解释\n- 底部：穿着顺序 / 构成流程图 + 核心特征总结\n\n若主题适合人物展示,则以真实人物全身站姿为中央主体；若更适合器物或单体结构,则改为中心主体拆解图,但整体仍保持完整中文信息图形式。所有文字必须为简体中文,清晰、规整、可读,不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。\n\n避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。",
-    "langName": "博物館スタイル漢服解説インフォグラフィック",
+    "langName": "博物館図鑑風 漢服徹底解説インフォグラフィック",
     "object": "ショーケース",
     "attribute": "UI",
     "description": "by @MrLarus (https://x.com/MrLarus)",
@@ -35231,7 +35231,7 @@
   },
   {
     "displayName": "この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。",
-    "langName": "日本 RPG ステータス画面",
+    "langName": "レトロRPGステータス画面",
     "object": "ショーケース",
     "attribute": "UI",
     "description": "by @Kashiko_AIart (https://x.com/Kashiko_AIart)",
@@ -35239,7 +35239,7 @@
   },
   {
     "displayName": "玄武门之变的朋友圈",
-    "langName": "玄武門ソーシャルフィード",
+    "langName": "玄武門の変 SNSタイムライン風",
     "object": "ショーケース",
     "attribute": "UI",
     "description": "by @Tz_2022 (https://x.com/Tz_2022)",
@@ -35263,7 +35263,7 @@
   },
   {
     "displayName": "生成一张慈禧的X主页",
-    "langName": "西太后 X ページ",
+    "langName": "西太后のXプロフィール画面",
     "object": "ショーケース",
     "attribute": "UI",
     "description": "by @Cryptohaifeng_ (https://x.com/Cryptohaifeng_)",
@@ -35287,7 +35287,7 @@
   },
   {
     "displayName": "GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください",
-    "langName": "Don Quijote プロモポップポスター",
+    "langName": "ドン・キホーテ風 手書きPOPポスター",
     "object": "ショーケース",
     "attribute": "UI",
     "description": "by @loglogrog (https://x.com/loglogrog)",
@@ -35303,7 +35303,7 @@
   },
   {
     "displayName": "A 9:16 vertical version,high-detail realistic style Chinese TikTok live screenshot,Elon Musk is talking to the mobile phone camera in the live broadcast room,excited,smiling,and the live atmosphere is warm and real. He held a white handwritten sign in one hand,which clearly said: \"Thank you Shinning\". There are obvious Chinese TikTok interface elements in the live broadcast screen,including likes,comments and share icons arranged vertically on the right,scrolling Chinese bullet screens and interactive comments below,and the \"live broadcast\" logo at the top,which looks like a real mobile phone screenshot. There is an eye-catching gift prompt special effect in the screen: \"Shinning sent TikTok No. 1\",with gift animation light effect and platform-style prompt box. Musk is in a professional live broadcast environment,with a mobile phone holder,a ring fill light and a desktop microphone in front of him. The background is a modern technology live broadcast room with bright lights and a slight neon atmosphere. The composition is real and natural,like the ongoing live screenshot of the Chinese short video platform. The interface information is rich but not messy,the characters are clear,the expression is vivid,the details are rich,the sense of real photography,the depth of field,high definition,cinematic,photorealistic,realistic livestream screenshot,social media UI,Chinese Douyin live room,detailed lighting,natural skin texture.\n\nNegative prompts:\n\nLow definition,blur,cartoon,illustration,too strong CG sense,two-dimensional,deformed fingers,wrong text,scrambled code,multiple mobile phones,multiple brands,character repetition,face collapse,facial features distortion,excessive skin polishing,overexposure,too dark,messy background,wrong UI,non-Chinese short video interface,too many English bullet screens,gift special effects are not obvious,cropping error,proportional error\n\nSupplementary reinforcement words:\n\nReal mobile phone screen recording screenshot feeling,the live broadcast UI is complete,the gift prompt box conforms to the style of the Chinese short video platform,the Chinese comment area is active,the number of people online in the live broadcast room is clearly displayed,and the time,power and signal bar are visible.",
-    "langName": "Elon Musk Douyin ライブ配信スクリーンショット",
+    "langName": "イーロン・マスク TikTok/抖音ライブ配信画面",
     "object": "ショーケース",
     "attribute": "UI",
     "description": "by @Shinning1010 (https://x.com/Shinning1010)",
@@ -35311,7 +35311,7 @@
   },
   {
     "displayName": "9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊!",
-    "langName": "Liu Yifei Douyin ライブ配信スクリーンショット",
+    "langName": "リウ・イーフェイ TikTok/抖音ライブ配信画面",
     "object": "ショーケース",
     "attribute": "UI",
     "description": "by @kylegeeks (https://x.com/kylegeeks)",
@@ -35327,7 +35327,7 @@
   },
   {
     "displayName": "1、生成特朗普和金正恩在抖音直播间打PK的截图  \n2、生成不知火舞的小红书主页截图  \n3、生成图片: 手写在教室黑板上的出师表全文,真实感的粉笔字迹,晴朗白天用iPhone手机实拍  \n4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图,产品价格,产品细节,功能和使用场景等",
-    "langName": "Trump と Kim ライブ配信 PK スクリーンショット",
+    "langName": "トランプ対金正恩 ライブ配信PK対決",
     "object": "ショーケース",
     "attribute": "UI",
     "description": "by @alanlovelq (https://x.com/alanlovelq)",
@@ -35398,7 +35398,7 @@
   },
   {
     "displayName": "fitted jeans,oversized jacket,navel",
-    "langName": "カジュアルギャルコーデ(デニム+へそ出し)",
+    "langName": "カジュアルギャルコーデ（デニム+へそ出し）",
     "object": "ショーケース",
     "attribute": "コーディネート",
     "preview": "https://img.aishort.top/imgprompt/20260207163033732.webp"

@@ -117,7 +117,12 @@
     "language": "Sprache wählen",
     "languageSearch": "Sprache suchen",
     "languageEmpty": "Keine passende Sprache",
-    "skipToPrompt": "Zum Prompt-Feld springen"
+    "skipToPrompt": "Zum Prompt-Feld springen",
+    "qq": "QQ-Gruppe",
+    "lives": "Lives — Lebenssimulator",
+    "learndata": "LearnData Open-Source-Notizen",
+    "primary": "Hauptnavigation",
+    "close": "Schließen"
   },
   "Guide": {
     "fallbackNotice": "Diese Seite ist noch nicht in Ihrer Sprache verfügbar; die englische Version wird angezeigt."

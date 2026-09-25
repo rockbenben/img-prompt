@@ -117,7 +117,12 @@
     "language": "اختيار اللغة",
     "languageSearch": "البحث عن لغة",
     "languageEmpty": "لا توجد لغة مطابقة",
-    "skipToPrompt": "تخطَّ إلى مربع الموجّه"
+    "skipToPrompt": "تخطَّ إلى مربع الموجّه",
+    "qq": "مجموعة QQ",
+    "lives": "Lives — محاكي الحياة",
+    "learndata": "LearnData ملاحظات مفتوحة المصدر",
+    "primary": "التنقل الرئيسي",
+    "close": "إغلاق"
   },
   "Guide": {
     "fallbackNotice": "لم تتم ترجمة هذه الصفحة إلى لغتك بعد؛ يتم عرض النسخة الإنجليزية."

@@ -56,7 +56,7 @@ export function Navigation() {
           IMGPrompt
         </Link>
         {/* 装不下时的兜底（min-width + 横滚）在 globals.css 的 `.pp-nav` 上，别删 */}
-        <nav className="pp-nav" aria-label="Primary">
+        <nav className="pp-nav" aria-label={t("primary")}>
           <Menu selectedKeys={[currentMenuKey]} mode="horizontal" items={menuItems} style={{ flex: 1, minWidth: 0, border: "none", background: "transparent" }} />
         </nav>
         {/* size="small"：顶栏宽度是稀缺资源，四个图标按钮收紧到 8px 间距，
@@ -76,7 +76,7 @@ export function Navigation() {
                         icon: <QqOutlined />,
                         label: (
                           <a href={SOCIAL_LINKS.qq} target="_blank" rel="noopener noreferrer nofollow">
-                            QQ 群
+                            {t("qq")}
                           </a>
                         ),
                       },

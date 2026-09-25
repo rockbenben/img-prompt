@@ -117,7 +117,12 @@
     "language": "เลือกภาษา",
     "languageSearch": "ค้นหาภาษา",
     "languageEmpty": "ไม่พบภาษาที่ตรงกัน",
-    "skipToPrompt": "ข้ามไปที่กล่องพรอมต์"
+    "skipToPrompt": "ข้ามไปที่กล่องพรอมต์",
+    "qq": "กลุ่ม QQ",
+    "lives": "Lives — โปรแกรมจำลองชีวิต",
+    "learndata": "LearnData บันทึกโอเพนซอร์ส",
+    "primary": "การนำทางหลัก",
+    "close": "ปิด"
   },
   "Guide": {
     "fallbackNotice": "หน้านี้ยังไม่ได้แปลเป็นภาษาของคุณ กำลังแสดงเวอร์ชันภาษาอังกฤษ"

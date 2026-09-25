@@ -90,7 +90,7 @@
   },
   "Schema": {
     "featureList": [
-      "完全無料・オープンソース(MIT)、ログイン不要",
+      "完全無料・オープンソース（MIT）、ログイン不要",
       "画像モデル：Midjourney、FLUX、Nano Banana、GPT-image-2、Stable Diffusion、DALL·E",
       "動画モデル：Veo、Kling、Runway、Hailuo、Seedance",
       "18言語UI＋二言語ビジュアルタグ、英語が苦手でも使える",
@@ -117,7 +117,12 @@
     "language": "言語を選択",
     "languageSearch": "言語を検索",
     "languageEmpty": "一致する言語がありません",
-    "skipToPrompt": "プロンプト欄へスキップ"
+    "skipToPrompt": "プロンプト欄へスキップ",
+    "qq": "QQグループ",
+    "lives": "千世書 人生シミュレーター",
+    "learndata": "LearnData オープンソースノート",
+    "primary": "メインナビゲーション",
+    "close": "閉じる"
   },
   "Guide": {
     "fallbackNotice": "このページはまだ日本語に翻訳されていません。英語版を表示しています。"

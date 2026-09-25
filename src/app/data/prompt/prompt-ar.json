@@ -435,7 +435,7 @@
   },
   {
     "displayName": "cleric",
-    "langName": "رجال الدين (مسيحيون)",
+    "langName": "رجل دين / كاهن",
     "object": "شخصية",
     "attribute": "هوية",
     "preview": "https://img.aishort.top/imgprompt/20260208072159895.webp"
@@ -534,21 +534,21 @@
   },
   {
     "displayName": "crossdressing",
-    "langName": "المتخنث (ارتداء ملابس لا تتناسب مع هويته الجنسية)",
+    "langName": "ارتداء ملابس الجنس الآخر",
     "object": "شخصية",
     "attribute": "هوية",
     "preview": "https://img.aishort.top/imgprompt/20260209061704193.webp"
   },
   {
     "displayName": "otoko_no_ko",
-    "langName": "المتخنث (الرجل الذي يبدو أن لديه خصائص أنثوية)",
+    "langName": "أوتوكونوكو",
     "object": "شخصية",
     "attribute": "هوية",
     "preview": "https://img.aishort.top/imgprompt/20260208074725601.webp"
   },
   {
     "displayName": "gyaru",
-    "langName": "الفتيات الساخنة (الفتيات اليابانية)",
+    "langName": "غيارو",
     "object": "شخصية",
     "attribute": "هوية",
     "preview": "https://img.aishort.top/imgprompt/20260210193812753.webp"
@@ -562,14 +562,14 @@
   },
   {
     "displayName": "yaoi",
-    "langName": "كن مثليًا",
+    "langName": "ياوي / BL",
     "object": "شخصية",
     "attribute": "هوية",
     "preview": "https://img.aishort.top/imgprompt/20260208074725603.webp"
   },
   {
     "displayName": "yuri",
-    "langName": "زنبق",
+    "langName": "يوري / GL",
     "object": "شخصية",
     "attribute": "هوية",
     "preview": "https://img.aishort.top/imgprompt/20260209061704191.webp"
@@ -646,7 +646,7 @@
   },
   {
     "displayName": "mazinger",
-    "langName": "عجب امرأة",
+    "langName": "مازنجر زد",
     "object": "شخصية",
     "attribute": "أنيمي",
     "preview": "https://img.aishort.top/imgprompt/20260210072537640.webp"
@@ -772,7 +772,7 @@
   },
   {
     "displayName": "elf",
-    "langName": "عفريت",
+    "langName": "إلف",
     "object": "شخصية",
     "attribute": "أنيمي",
     "preview": "https://img.aishort.top/imgprompt/20260209063126234.webp"
@@ -786,7 +786,7 @@
   },
   {
     "displayName": "fairy",
-    "langName": "قزم",
+    "langName": "جنية",
     "object": "شخصية",
     "attribute": "أنيمي",
     "preview": "https://img.aishort.top/imgprompt/20260209063141969.webp"
@@ -828,14 +828,14 @@
   },
   {
     "displayName": "monster_girl",
-    "langName": "والدة الأجنبي",
+    "langName": "فتاة وحش",
     "object": "شخصية",
     "attribute": "أنيمي",
     "preview": "https://img.aishort.top/imgprompt/20260209063226407.webp"
   },
   {
     "displayName": "dominatrix",
-    "langName": "الملكة (متوسطة SM)",
+    "langName": "دوميناتريكس",
     "object": "شخصية",
     "attribute": "أنيمي",
     "preview": "https://img.aishort.top/imgprompt/20260209063233422.webp"
@@ -968,21 +968,21 @@
   },
   {
     "displayName": "horse_girl",
-    "langName": "ما نيانغ",
+    "langName": "فتاة الفرس",
     "object": "شخصية",
     "attribute": "أنيمي",
     "preview": "https://img.aishort.top/imgprompt/20260210072537637.webp"
   },
   {
     "displayName": "furry",
-    "langName": "فيرّي",
+    "langName": "فوري",
     "object": "شخصية",
     "attribute": "أنيمي",
     "preview": "https://img.aishort.top/imgprompt/20260210072537632.webp"
   },
   {
     "displayName": "furry/orc",
-    "langName": "العفاريت / العفاريت",
+    "langName": "فوري / أورك",
     "object": "شخصية",
     "attribute": "أنيمي",
     "preview": "https://img.aishort.top/imgprompt/20260210072537646.webp"
@@ -1010,14 +1010,14 @@
   },
   {
     "displayName": "mesugaki",
-    "langName": "أنثى عفريت",
+    "langName": "ميسوغاكي",
     "object": "شخصية",
     "attribute": "أنيمي",
     "preview": "https://img.aishort.top/imgprompt/20260210072537644.webp"
   },
   {
     "displayName": "santa alter",
-    "langName": "سانتا كلوز",
+    "langName": "سانتا ألتر",
     "object": "شخصية",
     "attribute": "أنيمي",
     "preview": "https://img.aishort.top/imgprompt/20260210072537639.webp"
@@ -1052,7 +1052,7 @@
   },
   {
     "displayName": "kindergartener",
-    "langName": "روضة أطفال",
+    "langName": "طفل الروضة",
     "object": "شخصية",
     "attribute": "عمر",
     "preview": "https://img.aishort.top/imgprompt/20260210192804244.webp"
@@ -1073,14 +1073,14 @@
   },
   {
     "displayName": "early teen",
-    "langName": "المراهقة المبكرة (11-15)",
+    "langName": "بداية سن المراهقة",
     "object": "شخصية",
     "attribute": "عمر",
     "preview": "https://img.aishort.top/imgprompt/20260210192804238.webp"
   },
   {
     "displayName": "teenager",
-    "langName": "مراهقة (13-19)",
+    "langName": "مراهق",
     "object": "شخصية",
     "attribute": "عمر",
     "preview": "https://img.aishort.top/imgprompt/20260210192804240.webp"
@@ -1192,7 +1192,7 @@
   },
   {
     "displayName": "tanlines",
-    "langName": "أضرار أشعة الشمس",
+    "langName": "خطوط التسمير",
     "object": "شخصية",
     "attribute": "بشرة",
     "preview": "https://img.aishort.top/imgprompt/20260210193621164.webp"
@@ -1297,7 +1297,7 @@
   },
   {
     "displayName": "chibi",
-    "langName": "نمط الطباعة Mengmeng/Q",
+    "langName": "نمط تشيبي لطيف",
     "object": "شخصية",
     "attribute": "قوام",
     "preview": "https://img.aishort.top/imgprompt/20260210195122885.webp"
@@ -1318,7 +1318,7 @@
   },
   {
     "displayName": "(cleavage visible,large breasts)",
-    "langName": "الصدور الكبيرة (مع الانقسام)",
+    "langName": "صدر كبير (مع إبراز الشق)",
     "object": "شخصية",
     "attribute": "قوام",
     "preview": "https://img.aishort.top/imgprompt/20260211065136926.webp"
@@ -1829,7 +1829,7 @@
   },
   {
     "displayName": "braided bangs",
-    "langName": "الانفجارات جديلة",
+    "langName": "غرّة مضفورة",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260211134418672.webp"
@@ -1934,91 +1934,91 @@
   },
   {
     "displayName": "swept bangs",
-    "langName": "الانفجارات الجانبية اجتاحت",
+    "langName": "غرّة جانبية مسحوبة",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260317085511880.webp"
   },
   {
     "displayName": "crossed bangs",
-    "langName": "الانفجارات المتقاطعة",
+    "langName": "غرّة متقاطعة",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260317085523411.webp"
   },
   {
     "displayName": "bangs",
-    "langName": "الانفجارات",
+    "langName": "غرّة",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260211134915118.webp"
   },
   {
     "displayName": "blunt bangs",
-    "langName": "الانفجارات تشي",
+    "langName": "غرّة مستقيمة",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260211134928539.webp"
   },
   {
     "displayName": "Slanted bangs",
-    "langName": "الانفجارات المائلة",
+    "langName": "غرّة مائلة",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260317085534089.webp"
   },
   {
     "displayName": "long bangs",
-    "langName": "الانفجارات الطويلة",
+    "langName": "غرّة طويلة",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260211134954164.webp"
   },
   {
     "displayName": "air bangs",
-    "langName": "الانفجارات الهوائية",
+    "langName": "غرة شفافة",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260211135006710.webp"
   },
   {
     "displayName": "asymmetric bangs",
-    "langName": "الانفجارات غير المتكافئة",
+    "langName": "غرّة غير متماثلة",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260211135019506.webp"
   },
   {
     "displayName": "asymmetrical bangs",
-    "langName": "الانفجارات غير المتكافئة",
+    "langName": "غرّة غير متماثلة",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260211135032224.webp"
   },
   {
     "displayName": "parted bangs",
-    "langName": "الانفجارات جزء",
+    "langName": "غرّة مفروقة",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260211135044711.webp"
   },
   {
     "displayName": "side_blunt_bangs",
-    "langName": "الانفجارات الهوائية الجانبية",
+    "langName": "غرّة جانبية خفيفة",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260211135057869.webp"
   },
   {
     "displayName": "centre parting bangs",
-    "langName": "مركز الانفجارات مفترق",
+    "langName": "غرّة بفرق وسطي",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260211135111315.webp"
   },
   {
     "displayName": "middle Fringe",
-    "langName": "مركز الانفجارات مفترق",
+    "langName": "غرّة بفرق وسطي",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260211135125221.webp"
@@ -2081,7 +2081,7 @@
   },
   {
     "displayName": "ahoge",
-    "langName": "أحمق",
+    "langName": "أهوجي",
     "object": "شخصية",
     "attribute": "تسريحة شعر",
     "preview": "https://img.aishort.top/imgprompt/20260211135331864.webp"
@@ -2214,7 +2214,7 @@
   },
   {
     "displayName": "mole",
-    "langName": "الخلد",
+    "langName": "شامة",
     "object": "شخصية",
     "attribute": "وجه",
     "preview": "https://img.aishort.top/imgprompt/20260317125729198.webp"
@@ -2767,7 +2767,7 @@
   },
   {
     "displayName": "eye_relfection",
-    "langName": "منعكس العين (رد فعل التلميذ للضوء)",
+    "langName": "انعكاس العين",
     "object": "شخصية",
     "attribute": "عين",
     "preview": "https://img.aishort.top/imgprompt/20260211141526968.webp"
@@ -2970,7 +2970,7 @@
   },
   {
     "displayName": "solid_oval_eyes",
-    "langName": "نسخة Q عيون بيضاوية صلبة",
+    "langName": "عيون بيضاوية مصمتة بنمط تشيبي",
     "object": "شخصية",
     "attribute": "عين",
     "preview": "https://img.aishort.top/imgprompt/20260211142239019.webp"
@@ -2984,7 +2984,7 @@
   },
   {
     "displayName": "blush_stickers",
-    "langName": "Q نسخة ملصق أحمر الخدود",
+    "langName": "ملصقات حمرة الخدود بنمط تشيبي",
     "object": "شخصية",
     "attribute": "عين",
     "preview": "https://img.aishort.top/imgprompt/20260211142304171.webp"
@@ -3019,14 +3019,14 @@
   },
   {
     "displayName": "sanpaku",
-    "langName": "متلازمة الأبيض الثلاثي (تحول الحدقة)",
+    "langName": "عيون سانباكو",
     "object": "شخصية",
     "attribute": "عين",
     "preview": "https://img.aishort.top/imgprompt/20260211142408606.webp"
   },
   {
     "displayName": "flaming_eye",
-    "langName": "حمرا",
+    "langName": "عيون مشتعلة اللهب",
     "object": "شخصية",
     "attribute": "عين",
     "preview": "https://img.aishort.top/imgprompt/20260211142422174.webp"
@@ -3082,7 +3082,7 @@
   },
   {
     "displayName": "half_closed_eye",
-    "langName": "عين نصف مغلقة (عين واحدة)",
+    "langName": "عين نصف مغلقة",
     "object": "شخصية",
     "attribute": "عين",
     "preview": "https://img.aishort.top/imgprompt/20260211142557836.webp"
@@ -3180,14 +3180,14 @@
   },
   {
     "displayName": "no_blindfold",
-    "langName": "تمت إزالة عنصر العصابة (الأصلي).",
+    "langName": "بدون عصابة عين",
     "object": "شخصية",
     "attribute": "عين",
     "preview": "https://img.aishort.top/imgprompt/20260211220153156.webp"
   },
   {
     "displayName": "no_eyepatch",
-    "langName": "إزالة قناع العين (الموجود).",
+    "langName": "بدون غطاء عين",
     "object": "شخصية",
     "attribute": "عين",
     "preview": "https://img.aishort.top/imgprompt/20260211142907966.webp"
@@ -3250,7 +3250,7 @@
   },
   {
     "displayName": "heterochromia",
-    "langName": "التلاميذ متغاير اللون",
+    "langName": "بؤبؤ متغاير اللون",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143102469.webp"
@@ -3264,7 +3264,7 @@
   },
   {
     "displayName": "solid_circle_pupils",
-    "langName": "بؤبؤ دائري مصمت",
+    "langName": "بؤبؤ دائري مصمت بنمط تشيبي",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260211143127812.webp"
@@ -3285,14 +3285,14 @@
   },
   {
     "displayName": "slit_pupils",
-    "langName": "بؤبؤ شقّي (عيون القط)",
+    "langName": "بؤبؤ شقّي",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260317093802688.webp"
   },
   {
     "displayName": "snake_pupils",
-    "langName": "بؤبؤ أفعواني",
+    "langName": "بؤبؤ الثعبان",
     "object": "شخصية",
     "attribute": "بؤبؤ العين",
     "preview": "https://img.aishort.top/imgprompt/20260317093813015.webp"
@@ -3670,7 +3670,7 @@
   },
   {
     "displayName": "gasping",
-    "langName": "اللهاث (فتح الفم)",
+    "langName": "لهاث / شهقة",
     "object": "شخصية",
     "attribute": "فم",
     "preview": "https://img.aishort.top/imgprompt/20260317100011869.webp"
@@ -3726,7 +3726,7 @@
   },
   {
     "displayName": ":3",
-    "langName": "ماوزوي",
+    "langName": "فم القطة",
     "object": "شخصية",
     "attribute": "فم",
     "preview": "https://img.aishort.top/imgprompt/20260317100112576.webp"
@@ -3761,7 +3761,7 @@
   },
   {
     "displayName": "chestnut_mouth",
-    "langName": "ليزيزوي",
+    "langName": "فم مثلث",
     "object": "شخصية",
     "attribute": "فم",
     "preview": "https://img.aishort.top/imgprompt/20260211144640830.webp"
@@ -3817,7 +3817,7 @@
   },
   {
     "displayName": "homu",
-    "langName": "العبوس | العبوس",
+    "langName": "العبوس",
     "object": "شخصية",
     "attribute": "فم",
     "preview": "https://img.aishort.top/imgprompt/20260211144827721.webp"
@@ -3901,7 +3901,7 @@
   },
   {
     "displayName": "mouth_drool",
-    "langName": "وجود فجوة على شكل قطرة من اللعاب في زاوية الفم.",
+    "langName": "لعاب في زاوية الفم",
     "object": "شخصية",
     "attribute": "فم",
     "preview": "https://img.aishort.top/imgprompt/20260317100321880.webp"
@@ -4048,7 +4048,7 @@
   },
   {
     "displayName": "uvula",
-    "langName": "اللهاة | اللهاة | اللهاة",
+    "langName": "اللهاة",
     "object": "شخصية",
     "attribute": "لسان",
     "preview": "https://img.aishort.top/imgprompt/20260211145547542.webp"
@@ -4111,7 +4111,7 @@
   },
   {
     "displayName": "nail",
-    "langName": "أظافر | الأظافر",
+    "langName": "أظافر",
     "object": "شخصية",
     "attribute": "أظافر",
     "preview": "https://img.aishort.top/imgprompt/20260211145741915.webp"
@@ -4167,42 +4167,42 @@
   },
   {
     "displayName": "flat chest",
-    "langName": "الصدور الصغيرة (أ)",
+    "langName": "صدر مسطح",
     "object": "شخصية",
     "attribute": "صدر",
     "preview": "https://img.aishort.top/imgprompt/20260212064123283.webp"
   },
   {
     "displayName": "small_breasts",
-    "langName": "الثدي الصغيرة (ب)",
+    "langName": "صدر صغير",
     "object": "شخصية",
     "attribute": "صدر",
     "preview": "https://img.aishort.top/imgprompt/20260212071540871.webp"
   },
   {
     "displayName": "medium breasts",
-    "langName": "صدر متوسط ​​(ج)",
+    "langName": "صدر متوسط",
     "object": "شخصية",
     "attribute": "صدر",
     "preview": "https://img.aishort.top/imgprompt/20260212071540873.webp"
   },
   {
     "displayName": "big breasts",
-    "langName": "الثدي الكبيرة (د)",
+    "langName": "صدر كبير",
     "object": "شخصية",
     "attribute": "صدر",
     "preview": "https://img.aishort.top/imgprompt/20260212071540872.webp"
   },
   {
     "displayName": "huge breasts",
-    "langName": "الصدور الكبيرة (ه)",
+    "langName": "صدر ضخم جداً",
     "object": "شخصية",
     "attribute": "صدر",
     "preview": "https://img.aishort.top/imgprompt/20260212071540870.webp"
   },
   {
     "displayName": "gigantic breasts",
-    "langName": "ثديين كبيرين جدًا (F)",
+    "langName": "صدر عملاق",
     "object": "شخصية",
     "attribute": "صدر",
     "preview": "https://img.aishort.top/imgprompt/20260212071540874.webp"
@@ -4334,7 +4334,7 @@
   },
   {
     "displayName": "toe-point",
-    "langName": "طرف اصبع القدم | طرف اصبع القدم",
+    "langName": "طرف اصبع القدم",
     "object": "شخصية",
     "attribute": "قدم",
     "preview": "https://img.aishort.top/imgprompt/20260211150409118.webp"
@@ -4383,7 +4383,7 @@
   },
   {
     "displayName": "detached_wings",
-    "langName": "أجنحة غير متصلة بالجسم",
+    "langName": "أجنحة منفصلة طافية",
     "object": "شخصية",
     "attribute": "الجناح",
     "preview": "https://img.aishort.top/imgprompt/20260211150537125.webp"
@@ -4453,7 +4453,7 @@
   },
   {
     "displayName": "no_wings",
-    "langName": "تمت إزالة الأجنحة (الأصلية).",
+    "langName": "بدون أجنحة",
     "object": "شخصية",
     "attribute": "الجناح",
     "preview": "https://img.aishort.top/imgprompt/20260212072704705.webp"
@@ -4579,7 +4579,7 @@
   },
   {
     "displayName": "foral_background",
-    "langName": "خلفية زخرفية نمط الأزهار",
+    "langName": "خلفية بنقوش زهرية",
     "object": "بيئة",
     "attribute": "خلفية",
     "preview": "https://img.aishort.top/imgprompt/20260211151130102.webp"
@@ -4698,7 +4698,7 @@
   },
   {
     "displayName": "rounded_corners",
-    "langName": "تحتوي الخلفية أو الإطار على زوايا مستديرة",
+    "langName": "زوايا مستديرة للإطار",
     "object": "بيئة",
     "attribute": "خلفية",
     "preview": "https://img.aishort.top/imgprompt/20260211151506847.webp"
@@ -4712,7 +4712,7 @@
   },
   {
     "displayName": "outside_border",
-    "langName": "جزء من اللوحة يقع خارج إطار الخلفية",
+    "langName": "تجاوز حدود الإطار",
     "object": "بيئة",
     "attribute": "خلفية",
     "preview": "https://img.aishort.top/imgprompt/20260211151532945.webp"
@@ -4726,7 +4726,7 @@
   },
   {
     "displayName": "windowboxed",
-    "langName": "مجموعة من إطارات الصور (الخلفية)",
+    "langName": "تأطير نافذة",
     "object": "بيئة",
     "attribute": "خلفية",
     "preview": "https://img.aishort.top/imgprompt/20260211151559726.webp"
@@ -4929,7 +4929,7 @@
   },
   {
     "displayName": "beautiful detailed sky,beautiful detailed water",
-    "langName": "الطقس الجيد والمياه الجيدة",
+    "langName": "سماء وماء بتفاصيل غنية",
     "object": "بيئة",
     "attribute": "طبيعة",
     "preview": "https://img.aishort.top/imgprompt/20260211152348882.webp"
@@ -4992,7 +4992,7 @@
   },
   {
     "displayName": "Dreamy forest",
-    "langName": "غابة الأحلام (أثيري، جسيمات ضوئية)",
+    "langName": "غابة حالمة",
     "object": "بيئة",
     "attribute": "طبيعة",
     "preview": "https://img.aishort.top/imgprompt/20260211152548353.webp"
@@ -5293,7 +5293,7 @@
   },
   {
     "displayName": "star_(sky)",
-    "langName": "النجوم (في السماء)",
+    "langName": "نجوم السماء",
     "object": "بيئة",
     "attribute": "سماء",
     "preview": "https://img.aishort.top/imgprompt/20260211153554967.webp"
@@ -5923,7 +5923,7 @@
   },
   {
     "displayName": "rappelling",
-    "langName": "التسوية (معلقة)",
+    "langName": "الهبوط بالحبال",
     "object": "بيئة",
     "attribute": "في الهواء الطلق",
     "preview": "https://img.aishort.top/imgprompt/20260211155514112.webp"
@@ -6098,7 +6098,7 @@
   },
   {
     "displayName": "bar",
-    "langName": "حاجِز",
+    "langName": "بار",
     "object": "بيئة",
     "attribute": "في الهواء الطلق",
     "preview": "https://img.aishort.top/imgprompt/20260211160040875.webp"
@@ -6609,7 +6609,7 @@
   },
   {
     "displayName": "clubroom",
-    "langName": "club",
+    "langName": "غرفة النادي",
     "object": "بيئة",
     "attribute": "داخلي",
     "preview": "https://img.aishort.top/imgprompt/20260211161656981.webp"
@@ -7092,7 +7092,7 @@
   },
   {
     "displayName": "halloween",
-    "langName": "Halloween",
+    "langName": "الهالوين",
     "object": "بيئة",
     "attribute": "أَجواء",
     "preview": "https://img.aishort.top/imgprompt/20260211163149454.webp"
@@ -7589,7 +7589,7 @@
   },
   {
     "displayName": "school_bag",
-    "langName": "الحقيبة المدرسية (حقيبة اليد)",
+    "langName": "حقيبة مدرسية",
     "object": "أغراض",
     "attribute": "اللوازم المدرسية",
     "preview": "https://img.aishort.top/imgprompt/20260211164633641.webp"
@@ -7799,7 +7799,7 @@
   },
   {
     "displayName": "scales",
-    "langName": "المقاييس",
+    "langName": "ميزان",
     "object": "أغراض",
     "attribute": "عناصر أخرى",
     "preview": "https://img.aishort.top/imgprompt/20260211165251868.webp"
@@ -7820,14 +7820,14 @@
   },
   {
     "displayName": "diamond_(shape)",
-    "langName": "الماس (الشكل)",
+    "langName": "شكل المعين",
     "object": "أغراض",
     "attribute": "عناصر أخرى",
     "preview": "https://img.aishort.top/imgprompt/20260211165329674.webp"
   },
   {
     "displayName": "chibi_inset",
-    "langName": "التوضيح تشيبي",
+    "langName": "إدراج تشيبي مصغر",
     "object": "أغراض",
     "attribute": "عناصر أخرى",
     "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
@@ -7932,7 +7932,7 @@
   },
   {
     "displayName": "sword",
-    "langName": "سكين",
+    "langName": "سيف",
     "object": "أغراض",
     "attribute": "الأسلحة",
     "preview": "https://img.aishort.top/imgprompt/20260211165652659.webp"
@@ -7960,7 +7960,7 @@
   },
   {
     "displayName": "saber_(weapon)",
-    "langName": "صابر (سلاح)",
+    "langName": "سيف عسكري",
     "object": "أغراض",
     "attribute": "الأسلحة",
     "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
@@ -7981,14 +7981,14 @@
   },
   {
     "displayName": "hatchet",
-    "langName": "الأحقاد",
+    "langName": "بلطة",
     "object": "أغراض",
     "attribute": "الأسلحة",
     "preview": "https://img.aishort.top/imgprompt/20260211165820289.webp"
   },
   {
     "displayName": "stake",
-    "langName": "يلزق",
+    "langName": "وتد خشبي",
     "object": "أغراض",
     "attribute": "الأسلحة",
     "preview": "https://img.aishort.top/imgprompt/20260211165832380.webp"
@@ -8030,14 +8030,14 @@
   },
   {
     "displayName": "claw_(weapon)",
-    "langName": "مخلب (سلاح)",
+    "langName": "مخالب قتالية",
     "object": "أغراض",
     "attribute": "الأسلحة",
     "preview": "https://img.aishort.top/imgprompt/20260211165949084.webp"
   },
   {
     "displayName": "nose_hatchet",
-    "langName": "الأحقاد",
+    "langName": "فأس تقطيع الحطب",
     "object": "أغراض",
     "attribute": "الأسلحة",
     "preview": "https://img.aishort.top/imgprompt/20260211170002029.webp"
@@ -8065,7 +8065,7 @@
   },
   {
     "displayName": "magazine_(weapon)",
-    "langName": "مجلة (سلاح)",
+    "langName": "مخزن ذخيرة",
     "object": "أغراض",
     "attribute": "الأسلحة",
     "preview": "https://img.aishort.top/imgprompt/20260211170050212.webp"
@@ -8100,7 +8100,7 @@
   },
   {
     "displayName": "tank",
-    "langName": "صهريج",
+    "langName": "دبابة",
     "object": "أغراض",
     "attribute": "الأسلحة",
     "preview": "https://img.aishort.top/imgprompt/20260211170154753.webp"
@@ -9332,7 +9332,7 @@
   },
   {
     "displayName": "Tree Bark",
-    "langName": "نباح",
+    "langName": "لحاء الشجر",
     "object": "أغراض",
     "attribute": "نبات",
     "preview": "https://img.aishort.top/imgprompt/20260211173914807.webp"
@@ -9563,7 +9563,7 @@
   },
   {
     "displayName": "the_pose",
-    "langName": "استلقي على الأرض وارفعي قدميك",
+    "langName": "استلقاء على البطن مع رفع القدمين",
     "object": "حركة",
     "attribute": "الوضعيات الأساسية",
     "preview": "https://img.aishort.top/imgprompt/20260211174615259.webp"
@@ -9591,14 +9591,14 @@
   },
   {
     "displayName": "fetal_position",
-    "langName": "وضعية الجنين (الكذب)",
+    "langName": "وضعية الجنين",
     "object": "حركة",
     "attribute": "الوضعيات الأساسية",
     "preview": "https://img.aishort.top/imgprompt/20260211174706202.webp"
   },
   {
     "displayName": "against_glass",
-    "langName": "ضغط الزجاج (غير صالح)",
+    "langName": "ملتصق بالزجاج",
     "object": "حركة",
     "attribute": "الوضعيات الأساسية",
     "preview": "https://img.aishort.top/imgprompt/20260211174718789.webp"
@@ -9612,7 +9612,7 @@
   },
   {
     "displayName": "presenting",
-    "langName": "العرض (الجزء الخلفي)",
+    "langName": "وضعية استعراضية",
     "object": "حركة",
     "attribute": "الوضعيات الأساسية",
     "preview": "https://img.aishort.top/imgprompt/20260211174744336.webp"
@@ -9675,7 +9675,7 @@
   },
   {
     "displayName": "eye_contact",
-    "langName": "الاتصال بالعين (النظر إلى بعضهم البعض)",
+    "langName": "تواصل بصري",
     "object": "حركة",
     "attribute": "نظرات العين",
     "preview": "https://img.aishort.top/imgprompt/20260211174937637.webp"
@@ -9836,7 +9836,7 @@
   },
   {
     "displayName": "aiming_at_viewer",
-    "langName": "استهداف القارئ (المنظور)",
+    "langName": "التصويب نحو المشاهد",
     "object": "حركة",
     "attribute": "نظرات العين",
     "preview": "https://img.aishort.top/imgprompt/20260211175428502.webp"
@@ -9934,7 +9934,7 @@
   },
   {
     "displayName": "hands_clasped",
-    "langName": "أصابع متقاطعة من كلتا اليدين | الأيدي المشدودة",
+    "langName": "تشبيك الأصابع واليدين",
     "object": "حركة",
     "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
@@ -9969,7 +9969,7 @@
   },
   {
     "displayName": "hands_in_opposite_sleeves",
-    "langName": "اعبر يديك وضعهما في أكمامك",
+    "langName": "وضع اليدين داخل الأكمام",
     "object": "حركة",
     "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
@@ -10095,7 +10095,7 @@
   },
   {
     "displayName": "covering_xx",
-    "langName": "غطاء XX",
+    "langName": "تغطية جزء معين",
     "object": "حركة",
     "attribute": "أوضاع الذراعين",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
@@ -10172,14 +10172,14 @@
   },
   {
     "displayName": "waving",
-    "langName": "موجة (قول مرحبا / وداعا)",
+    "langName": "التلويح باليد",
     "object": "حركة",
     "attribute": "إشارات اليد",
     "preview": "https://img.aishort.top/imgprompt/20260211180434501.webp"
   },
   {
     "displayName": "pointing_at_viewer",
-    "langName": "أشر إلى الشخص الذي ينظر إلى الصورة",
+    "langName": "الإشارة بإصبعه إلى المشاهد",
     "object": "حركة",
     "attribute": "إشارات اليد",
     "preview": "https://img.aishort.top/imgprompt/20260211180447245.webp"
@@ -10249,7 +10249,7 @@
   },
   {
     "displayName": "reaching",
-    "langName": "الوصول (عمدا)",
+    "langName": "مد اليد",
     "object": "حركة",
     "attribute": "إشارات اليد",
     "preview": "https://img.aishort.top/imgprompt/20260211180655272.webp"
@@ -10312,7 +10312,7 @@
   },
   {
     "displayName": "paw_pose",
-    "langName": "إيماءة يد القطة المحظوظة (ثني المعصم للأسفل)",
+    "langName": "إيماءة كف القطة",
     "object": "حركة",
     "attribute": "إشارات اليد",
     "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
@@ -10347,7 +10347,7 @@
   },
   {
     "displayName": "fingersmile",
-    "langName": "اصنع وجهًا مبتسمًا بأصابعك",
+    "langName": "ابتسامة مصطنعة بالأصابع",
     "object": "حركة",
     "attribute": "إشارات اليد",
     "preview": "https://img.aishort.top/imgprompt/20260211180951696.webp"
@@ -10634,7 +10634,7 @@
   },
   {
     "displayName": "holding_eyewear",
-    "langName": "عقد النظارات | خلع النظارات",
+    "langName": "الإمساك بالنظارات أو خلعها",
     "object": "حركة",
     "attribute": "حمل شيء",
     "preview": "https://img.aishort.top/imgprompt/20260211181827087.webp"
@@ -10956,21 +10956,21 @@
   },
   {
     "displayName": "hands_on_another's",
-    "langName": "ضع يديك على وجه شخص آخر",
+    "langName": "وضع اليدين على وجه الآخر",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
-    "langName": "ضعوا أيديكم على خدود بعضكم البعض",
+    "langName": "وضع اليدين على وجنتي الآخر",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
-    "langName": "ضع يديك على أكتاف شخص آخر",
+    "langName": "وضع اليدين على كتفي الآخر",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
@@ -11026,7 +11026,7 @@
   },
   {
     "displayName": "hands_on_hips",
-    "langName": "الأيدي على الوركين | الأيدي على الوركين",
+    "langName": "الأيدي على الوركين",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260213094956459.webp"
@@ -11068,7 +11068,7 @@
   },
   {
     "displayName": "grabbing_from_behind",
-    "langName": "إمساك الصدر من الخلف",
+    "langName": "الإمساك بالصدر من الخلف",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
@@ -11110,14 +11110,14 @@
   },
   {
     "displayName": "hands_on_headwear",
-    "langName": "لمس الحلي التي على الرأس بكلتا يديه",
+    "langName": "اليدان على غطاء الرأس",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
-    "langName": "ضع يديك على مقبض السكين",
+    "langName": "اليدان على مقبض السيف",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
@@ -11131,7 +11131,7 @@
   },
   {
     "displayName": "neckwear_grab",
-    "langName": "إمساك الملابس حول الرقبة",
+    "langName": "الإمساك بياقة القميص",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
@@ -11173,7 +11173,7 @@
   },
   {
     "displayName": "hand_in_another's_hair",
-    "langName": "ضع يديك على شعر الشخص الآخر",
+    "langName": "يد تخلل شعر الآخر",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
@@ -11208,35 +11208,35 @@
   },
   {
     "displayName": "hand_on_another's_chest",
-    "langName": "ضع يديك على صدر الشخص الآخر",
+    "langName": "يد على صدر الآخر",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260211183718013.webp"
   },
   {
     "displayName": "hand_on_another's_chin",
-    "langName": "أمسك ذقن الشخص الآخر بيدك",
+    "langName": "يد تسند ذقن الآخر",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
   },
   {
     "displayName": "hand_on_another's_head",
-    "langName": "ضع يديك على رأس الشخص الآخر",
+    "langName": "يد على رأس الآخر",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260211183743006.webp"
   },
   {
     "displayName": "hand_on_another's_shoulder",
-    "langName": "ضع يديك على أكتاف الشخص الآخر",
+    "langName": "يد على كتف الآخر",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260211183755722.webp"
   },
   {
     "displayName": "hand_on_another's_stomach",
-    "langName": "ضع يديك على بطن الشخص الآخر",
+    "langName": "يد على بطن الآخر",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
@@ -11264,14 +11264,14 @@
   },
   {
     "displayName": "hand_on_hilt",
-    "langName": "يد ترتكز على مقبض السكين",
+    "langName": "يد على مقبض السلاح",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
   },
   {
     "displayName": "hand_on_hip",
-    "langName": "الأيدي على الوركين | الأيدي على الوركين",
+    "langName": "الأيدي على الوركين",
     "object": "حركة",
     "attribute": "عناق وإمساك",
     "preview": "https://img.aishort.top/imgprompt/20260211183911177.webp"
@@ -11404,14 +11404,14 @@
   },
   {
     "displayName": "standing_split",
-    "langName": "الانقسامات الدائمة | رفع الساق الدائمة",
+    "langName": "فتح الحوض وقوفاً",
     "object": "حركة",
     "attribute": "حركات الساق",
     "preview": "https://img.aishort.top/imgprompt/20260211184306372.webp"
   },
   {
     "displayName": "curtsy",
-    "langName": "كورتسي (تحية الخادمة)",
+    "langName": "انحناءة تحية",
     "object": "حركة",
     "attribute": "حركات الساق",
     "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
@@ -11502,7 +11502,7 @@
   },
   {
     "displayName": "folded",
-    "langName": "ارفعي ساقيك لكشف مهبلك",
+    "langName": "وضعية احتضان الساقين",
     "object": "حركة",
     "attribute": "حركات الساق",
     "preview": "https://img.aishort.top/imgprompt/20260211184601937.webp"
@@ -11544,7 +11544,7 @@
   },
   {
     "displayName": "k/da_(league_of_legends)",
-    "langName": "فريق KDA (League of Legends)",
+    "langName": "K/DA (League of Legends)",
     "object": "حركة",
     "attribute": "حركات الساق",
     "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
@@ -11705,14 +11705,14 @@
   },
   {
     "displayName": "tail_between_legs",
-    "langName": "الذيل ملتف بين الساقين",
+    "langName": "ذيل بين الساقين",
     "object": "حركة",
     "attribute": "حركات الساق",
     "preview": "https://img.aishort.top/imgprompt/20260225100419147.webp"
   },
   {
     "displayName": "covering",
-    "langName": "فعل التغطية",
+    "langName": "حركة التستر والتغطية",
     "object": "حركة",
     "attribute": "لمس الجسم",
     "preview": "https://img.aishort.top/imgprompt/20260211185216454.webp"
@@ -11922,14 +11922,14 @@
   },
   {
     "displayName": "spitting",
-    "langName": "عملية بصق السائل من الفم",
+    "langName": "بصق السوائل",
     "object": "حركة",
     "attribute": "رد فعل الجسم",
     "preview": "https://img.aishort.top/imgprompt/20260211185836921.webp"
   },
   {
     "displayName": "spilling",
-    "langName": "فعل صب السائل من الحاوية",
+    "langName": "انسكاب السوائل",
     "object": "حركة",
     "attribute": "رد فعل الجسم",
     "preview": "https://img.aishort.top/imgprompt/20260211185849710.webp"
@@ -12006,7 +12006,7 @@
   },
   {
     "displayName": "dropping",
-    "langName": "(عرضي) السقوط",
+    "langName": "إسقاط / وقوع",
     "object": "حركة",
     "attribute": "رد فعل الجسم",
     "preview": "https://img.aishort.top/imgprompt/20260211190102259.webp"
@@ -12055,7 +12055,7 @@
   },
   {
     "displayName": "lifted_by_another",
-    "langName": "أن يتم رفعه بواسطة ملابس الطرف الآخر",
+    "langName": "رفع الملابس بواسطة شخص آخر",
     "object": "حركة",
     "attribute": "رد فعل الجسم",
     "preview": "https://img.aishort.top/imgprompt/20260211190232075.webp"
@@ -12111,7 +12111,7 @@
   },
   {
     "displayName": "drying",
-    "langName": "جاف (بعد الاستحمام)",
+    "langName": "التجفيف بعد الاستحمام",
     "object": "حركة",
     "attribute": "الحياة اليومية",
     "preview": "https://img.aishort.top/imgprompt/20260211190415978.webp"
@@ -12125,14 +12125,14 @@
   },
   {
     "displayName": "cleaning",
-    "langName": "تنظيف |",
+    "langName": "تنظيف",
     "object": "حركة",
     "attribute": "الحياة اليومية",
     "preview": "https://img.aishort.top/imgprompt/20260211190440252.webp"
   },
   {
     "displayName": "sweeping",
-    "langName": "تنظيف | كنس (الأعمال المنزلية)",
+    "langName": "كنس وتنظيف",
     "object": "حركة",
     "attribute": "الحياة اليومية",
     "preview": "https://img.aishort.top/imgprompt/20260211190452774.webp"
@@ -12258,7 +12258,7 @@
   },
   {
     "displayName": "sleeping_upright",
-    "langName": "(عدم الاستلقاء) النوم | النوم بشكل مستقيم",
+    "langName": "النوم واقفاً أو جالساً",
     "object": "حركة",
     "attribute": "الحياة اليومية",
     "preview": "https://img.aishort.top/imgprompt/20260211190844518.webp"
@@ -12412,14 +12412,14 @@
   },
   {
     "displayName": "shared_food",
-    "langName": "مشاركة الطعام | تمرير الطعام عن طريق الفم",
+    "langName": "مشاركة الطعام وإطعام الآخر",
     "object": "حركة",
     "attribute": "تفاعل عاطفي",
     "preview": "https://img.aishort.top/imgprompt/20260211191325544.webp"
   },
   {
     "displayName": "shared_bathing",
-    "langName": "الاستحمام المشترك | يوانيانغ الاستحمام",
+    "langName": "الاستحمام المشترك",
     "object": "حركة",
     "attribute": "تفاعل عاطفي",
     "preview": "https://img.aishort.top/imgprompt/20260211191338217.webp"
@@ -12461,14 +12461,14 @@
   },
   {
     "displayName": "asymmetrical_docking",
-    "langName": "لمس الثديين | لمس الثديين",
+    "langName": "تلامس الصدور",
     "object": "حركة",
     "attribute": "تفاعل عاطفي",
     "preview": "https://img.aishort.top/imgprompt/20260211191454771.webp"
   },
   {
     "displayName": "special_feeling_(meme)",
-    "langName": "عشاق يحملون مظلة في الثلج",
+    "langName": "ميم المشاعر الخاصة",
     "object": "حركة",
     "attribute": "تفاعل عاطفي",
     "preview": "https://img.aishort.top/imgprompt/20260211191507001.webp"
@@ -12608,7 +12608,7 @@
   },
   {
     "displayName": "wrestling",
-    "langName": "مصارعة (رياضة)",
+    "langName": "مصارعة",
     "object": "حركة",
     "attribute": "تمرين",
     "preview": "https://img.aishort.top/imgprompt/20260211191925002.webp"
@@ -12818,7 +12818,7 @@
   },
   {
     "displayName": "skirt_flip",
-    "langName": "تنورة مرفوعة (بما في ذلك معنى الطوارئ)",
+    "langName": "رفع التنورة",
     "object": "حركة",
     "attribute": "تعديل الملابس",
     "preview": "https://img.aishort.top/imgprompt/20260317125226840.webp"
@@ -12895,7 +12895,7 @@
   },
   {
     "displayName": "tying",
-    "langName": "ربط عقدة (العمل)",
+    "langName": "عقد عقدة",
     "object": "حركة",
     "attribute": "تعديل الملابس",
     "preview": "https://img.aishort.top/imgprompt/20260211192806302.webp"
@@ -12930,7 +12930,7 @@
   },
   {
     "displayName": "pulled_by_another",
-    "langName": "أن يتم سحبك (أو شد ملابسك) من قبل شخص آخر",
+    "langName": "السحب بواسطة شخص آخر",
     "object": "حركة",
     "attribute": "تعديل الملابس",
     "preview": "https://img.aishort.top/imgprompt/20260317125423077.webp"
@@ -12993,7 +12993,7 @@
   },
   {
     "displayName": "holding_bow_(weapon)",
-    "langName": "يحمل القوس (السلاح)",
+    "langName": "إمساك القوس",
     "object": "حركة",
     "attribute": "الأسلحة والمعدات",
     "preview": "https://img.aishort.top/imgprompt/20260211193102894.webp"
@@ -13084,7 +13084,7 @@
   },
   {
     "displayName": "Kabedon",
-    "langName": "انفجار الجدار",
+    "langName": "كابيدون",
     "object": "حركة",
     "attribute": "وضعيات خاصة",
     "preview": "https://img.aishort.top/imgprompt/20260211193512046.webp"
@@ -13412,7 +13412,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211194606041.webp"
   },
   {
-    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset)),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
+    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset))),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
     "langName": "طريقة الشفق",
     "object": "حركة",
     "attribute": "سحر",
@@ -13525,7 +13525,7 @@
   },
   {
     "displayName": "((full body)),(helpless),tear,crying,(((((falling from the sky))))),((Weathering With You)),((falling)),((face towards the sky)),(hair flows upwards),((disheveled hair)),(1 girl),floating,beautiful detailed sky",
-    "langName": "طريقة السقوط (مشهد السماء)",
+    "langName": "تكوين السقوط الحر من السماء",
     "object": "حركة",
     "attribute": "سحر",
     "preview": "https://img.aishort.top/imgprompt/20260211194938656.webp"
@@ -13609,7 +13609,7 @@
   },
   {
     "displayName": "beautiful detailed sky,night,stars,(red plum blossom),((winter)),(((snowflakes))),((red and white flowers)),(starry sky),(sitting),((colorful)),scenery,lantern,(starfall)",
-    "langName": "طريقة ثلج الشتاء (مشهد ليلي ثلجي)",
+    "langName": "طريقة ثلج الشتاء",
     "object": "حركة",
     "attribute": "سحر",
     "preview": "https://img.aishort.top/imgprompt/20260211195224384.webp"
@@ -13727,7 +13727,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195607630.webp"
   },
   {
-    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood))),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
+    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood)),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
     "langName": "قانون إصلاح الدم",
     "object": "حركة",
     "attribute": "سحر",
@@ -14002,7 +14002,7 @@
   },
   {
     "displayName": "disgust",
-    "langName": "بالاشمئزاز (يشبه القمامة)",
+    "langName": "اشمئزاز / ازدراء",
     "object": "تعبير",
     "attribute": "ازدراء",
     "preview": "https://img.aishort.top/imgprompt/20260317071358725.webp"
@@ -14023,7 +14023,7 @@
   },
   {
     "displayName": "shaded_face",
-    "langName": "هناك ظل على الوجه، يطابق الازدراء",
+    "langName": "وجه مظلل كئيب",
     "object": "تعبير",
     "attribute": "ازدراء",
     "preview": "https://img.aishort.top/imgprompt/20260212085009132.webp"
@@ -14044,7 +14044,7 @@
   },
   {
     "displayName": "wince",
-    "langName": "العبوس (قبل الجماع)",
+    "langName": "توجع وعبوس",
     "object": "تعبير",
     "attribute": "ازدراء",
     "preview": "https://img.aishort.top/imgprompt/20260212085045682.webp"
@@ -14079,7 +14079,7 @@
   },
   {
     "displayName": "serious",
-    "langName": "جدي (مثل الغضب)",
+    "langName": "جاد",
     "object": "تعبير",
     "attribute": "غاضب",
     "preview": "https://img.aishort.top/imgprompt/20260212085145957.webp"
@@ -14163,7 +14163,7 @@
   },
   {
     "displayName": "embarrass",
-    "langName": "خجول (محرج)",
+    "langName": "محرج / خجول",
     "object": "تعبير",
     "attribute": "تعبيرات أخرى",
     "preview": "https://img.aishort.top/imgprompt/20260212085408608.webp"
@@ -14380,7 +14380,7 @@
   },
   {
     "displayName": "torogao",
-    "langName": "عيون ضبابية",
+    "langName": "وجه حالم ومبتهج",
     "object": "تعبير",
     "attribute": "تعبيرات أخرى",
     "preview": "https://img.aishort.top/imgprompt/20260228103646110.webp"
@@ -14702,7 +14702,7 @@
   },
   {
     "displayName": "hanten_clothes",
-    "langName": "توماتا (على الطريقة اليابانية)",
+    "langName": "هانترن (معطف ياباني)",
     "object": "ملابس",
     "attribute": "نمط الملابس",
     "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
@@ -14716,7 +14716,7 @@
   },
   {
     "displayName": "furisode",
-    "langName": "Furisode (جزء من الكيمونو)",
+    "langName": "فوريسودي",
     "object": "ملابس",
     "attribute": "نمط الملابس",
     "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
@@ -14744,7 +14744,7 @@
   },
   {
     "displayName": "uchikake",
-    "langName": "باي ووجيا (فستان الزفاف الياباني)",
+    "langName": "أوتشيكاكي / شيروموكو",
     "object": "ملابس",
     "attribute": "نمط الملابس",
     "preview": "https://img.aishort.top/imgprompt/20260212110020279.webp"
@@ -14800,7 +14800,7 @@
   },
   {
     "displayName": "Ao_Dai",
-    "langName": "الملابس الفيتنامية (آو داي)",
+    "langName": "آو داي",
     "object": "ملابس",
     "attribute": "نمط الملابس",
     "preview": "https://img.aishort.top/imgprompt/20260212112032273.webp"
@@ -14947,14 +14947,14 @@
   },
   {
     "displayName": "alternate_costume",
-    "langName": "ملابس بديلة تختلف عن المظهر الأصلي للشخصية",
+    "langName": "زي بديل",
     "object": "ملابس",
     "attribute": "نمط الملابس",
     "preview": "https://img.aishort.top/imgprompt/20260212120626953.webp"
   },
   {
     "displayName": "costume_switch",
-    "langName": "لعب تغيير الملابس",
+    "langName": "تبادل الأزياء",
     "object": "ملابس",
     "attribute": "نمط الملابس",
     "preview": "https://img.aishort.top/imgprompt/20260212120842799.webp"
@@ -15059,7 +15059,7 @@
   },
   {
     "displayName": "green floral songmo",
-    "langName": "أغنية الزهور الخضراء Mo",
+    "langName": "ثوب سونغ الأخضر المزهر",
     "object": "ملابس",
     "attribute": "النمط القديم",
     "preview": "https://img.aishort.top/imgprompt/20260212124434597.webp"
@@ -15164,7 +15164,7 @@
   },
   {
     "displayName": "evening_gown",
-    "langName": "ثوب طويل (ثوب نسائي يصل إلى طول الكاحل)",
+    "langName": "فستان سهرة",
     "object": "ملابس",
     "attribute": "ملابس رسمية",
     "preview": "https://img.aishort.top/imgprompt/20260212125805414.webp"
@@ -15206,7 +15206,7 @@
   },
   {
     "displayName": "serafuku",
-    "langName": "زي البحارة (الزي المدرسي)",
+    "langName": "زي البحار المدرسي",
     "object": "ملابس",
     "attribute": "ملابس رسمية",
     "preview": "https://img.aishort.top/imgprompt/20260212130530516.webp"
@@ -15542,7 +15542,7 @@
   },
   {
     "displayName": "school_swimsuit",
-    "langName": "ملابس السباحة المدرسية (ماء سويكو)",
+    "langName": "ملابس السباحة المدرسية",
     "object": "ملابس",
     "attribute": "ملابس السباحة",
     "preview": "https://img.aishort.top/imgprompt/20260225102036109.webp"
@@ -15605,7 +15605,7 @@
   },
   {
     "displayName": "swimsuit_of_perpetual_summer",
-    "langName": "ملابس السباحة تشانغ شيا (بدلة روح فتاة مدرسة fgo)",
+    "langName": "ملابس سباحة الصيف الدائم (FGO)",
     "object": "ملابس",
     "attribute": "ملابس السباحة",
     "preview": "https://img.aishort.top/imgprompt/20260317071630637.webp"
@@ -15878,14 +15878,14 @@
   },
   {
     "displayName": "swimsuit_aside",
-    "langName": "حرك المنشعب من ملابس السباحة جانبا",
+    "langName": "إزاحة ملابس السباحة جانباً",
     "object": "ملابس",
     "attribute": "ملابس السباحة",
     "preview": "https://img.aishort.top/imgprompt/20260212152012611.webp"
   },
   {
     "displayName": "swimsuit_under_clothes",
-    "langName": "ارتداء ملابس السباحة تحت الملابس",
+    "langName": "ملابس سباحة تحت الثياب",
     "object": "ملابس",
     "attribute": "ملابس السباحة",
     "preview": "https://img.aishort.top/imgprompt/20260317072817093.webp"
@@ -15990,7 +15990,7 @@
   },
   {
     "displayName": "chi-hatan_military_uniform",
-    "langName": "الزي الرسمي لأكاديمية زيها دان",
+    "langName": "الزي العسكري لأكاديمية تشي-ها-تان",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260212153151798.webp"
@@ -16025,21 +16025,21 @@
   },
   {
     "displayName": "hikarizaka_private_high_school_uniform",
-    "langName": "الزي الرسمي لمدرسة ميتسوساكا الثانوية الخاصة",
+    "langName": "الزي المدرسي لثانوية هيكاريزاكا الخاصة",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260212153257185.webp"
   },
   {
     "displayName": "homurahara_academy_uniform",
-    "langName": "الزي الرسمي لأكاديمية سوي جونهارا",
+    "langName": "الزي المدرسي لأكاديمية هوموراهارا",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260212153310241.webp"
   },
   {
     "displayName": "kamiyama_high_school_uniform",
-    "langName": "زي مدرسة كايلاش الثانوية",
+    "langName": "الزي المدرسي لثانوية كاميياما",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260212153323486.webp"
@@ -16088,28 +16088,28 @@
   },
   {
     "displayName": "nami_junior_high_school_uniform",
-    "langName": "بولو المدرسة المتوسطة موحدة",
+    "langName": "الزي المدرسي لمتوسطة نامي",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260212153455870.webp"
   },
   {
     "displayName": "nanairogaoka_middle_school_uniform",
-    "langName": "Qiseqiu زي المدرسة المتوسطة",
+    "langName": "الزي المدرسي لمتوسطة نانايروغااوكا",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260212153509132.webp"
   },
   {
     "displayName": "nanamori_school_uniform",
-    "langName": "زي مدرسة كيسين المتوسطة",
+    "langName": "الزي المدرسي لمتوسطة ناناموري",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260212153725574.webp"
   },
   {
     "displayName": "naoetsu_high_school_uniform",
-    "langName": "الزي الرسمي لمدرسة Naoetsu الثانوية الخاصة",
+    "langName": "زي مدرسة ناوتسو الثانوية",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260212153738924.webp"
@@ -16137,7 +16137,7 @@
   },
   {
     "displayName": "otonokizaka_school_uniform",
-    "langName": "الزي الرسمي النسائي لأكاديمية Ononogizaka الوطنية",
+    "langName": "زي مدرسة أوتونوكيزاكا",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260212153831615.webp"
@@ -16172,14 +16172,14 @@
   },
   {
     "displayName": "rabbit_house_uniform",
-    "langName": "زي منزل ديانتوتو",
+    "langName": "زي مقهى رابيت هاوس",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260213055157775.webp"
   },
   {
     "displayName": "raimon_soccer_uniform",
-    "langName": "زي بوابة الرعد لكرة القدم",
+    "langName": "زي فريق رايمون لكرة القدم",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260213055210653.webp"
@@ -16193,7 +16193,7 @@
   },
   {
     "displayName": "sakugawa_school_uniform",
-    "langName": "زي المدرسة المتوسطة Zhachuan",
+    "langName": "الزي المدرسي لمتوسطة ساكوغاوا",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260213055439290.webp"
@@ -16242,7 +16242,7 @@
   },
   {
     "displayName": "shuujin_academy_uniform",
-    "langName": "اظهار الزي الجامعي",
+    "langName": "الزي المدرسي لأكاديمية شوجين",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260213060421601.webp"
@@ -16263,28 +16263,28 @@
   },
   {
     "displayName": "starlight_academy_uniform",
-    "langName": "زي ستار أوبتيكال بارك",
+    "langName": "الزي المدرسي لأكاديمية ستارلايت",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260213060500805.webp"
   },
   {
     "displayName": "tokisadame_school_uniform",
-    "langName": "الزي الجامعي العادي",
+    "langName": "الزي المدرسي لثانوية توكيسادامي",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260213060513970.webp"
   },
   {
     "displayName": "tokiwadai_school_uniform",
-    "langName": "توكيوا تايتشونغ الزي المدرسي",
+    "langName": "الزي المدرسي لمتوسطة توكيواداي",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260213060526744.webp"
   },
   {
     "displayName": "tomoeda_elementary_school_uniform",
-    "langName": "Youzhi الزي المدرسي الابتدائي",
+    "langName": "الزي المدرسي لابتدائية تومويدا",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260213060539748.webp"
@@ -16298,14 +16298,14 @@
   },
   {
     "displayName": "u.a._school_uniform",
-    "langName": "شيونجيينج زي المدرسة الثانوية",
+    "langName": "الزي المدرسي لأكاديمية يو إيه الثانوية",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260213060607357.webp"
   },
   {
     "displayName": "uranohoshi_school_uniform",
-    "langName": "أورا نو هوشي زي كلية البنات",
+    "langName": "الزي المدرسي لأكاديمية أورانوهوشي للبنات",
     "object": "ملابس",
     "attribute": "الزي المدرسي",
     "preview": "https://img.aishort.top/imgprompt/20260213060620807.webp"
@@ -16424,7 +16424,7 @@
   },
   {
     "displayName": "short sleeve T-shirts",
-    "langName": "تيشيرت بأكمام قصيرة (قميص على الكتف)",
+    "langName": "تي شيرت بنصف كم",
     "object": "ملابس",
     "attribute": "ملابس علوية",
     "preview": "https://img.aishort.top/imgprompt/20260213063027450.webp"
@@ -16466,7 +16466,7 @@
   },
   {
     "displayName": "tank_top",
-    "langName": "سترة (المنزل)",
+    "langName": "قميص بدون أكمام",
     "object": "ملابس",
     "attribute": "ملابس علوية",
     "preview": "https://img.aishort.top/imgprompt/20260213064156253.webp"
@@ -16494,7 +16494,7 @@
   },
   {
     "displayName": "vest",
-    "langName": "سترة (رسمية)",
+    "langName": "سترة بدلة رسمية",
     "object": "ملابس",
     "attribute": "ملابس علوية",
     "preview": "https://img.aishort.top/imgprompt/20260213064408586.webp"
@@ -16508,7 +16508,7 @@
   },
   {
     "displayName": "waistcoat",
-    "langName": "صدرية (رسمية)",
+    "langName": "صدرية بدلة",
     "object": "ملابس",
     "attribute": "ملابس علوية",
     "preview": "https://img.aishort.top/imgprompt/20260213064435011.webp"
@@ -16599,7 +16599,7 @@
   },
   {
     "displayName": "kappougi",
-    "langName": "بلوزة (تلبس أثناء الطبخ)",
+    "langName": "كابوغي (مريلة مطبخ يابانية)",
     "object": "ملابس",
     "attribute": "ملابس علوية",
     "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
@@ -16662,7 +16662,7 @@
   },
   {
     "displayName": "tied_shirt",
-    "langName": "قميص مربوط (عقدة الزوايا والحاشية)",
+    "langName": "قميص مربوط العقدة",
     "object": "ملابس",
     "attribute": "ملابس علوية",
     "preview": "https://img.aishort.top/imgprompt/20260213070412064.webp"
@@ -16746,7 +16746,7 @@
   },
   {
     "displayName": "button_gap",
-    "langName": "الفجوة بين الأزرار (غير مفكوكة)",
+    "langName": "الفجوة بين الأزرار",
     "object": "ملابس",
     "attribute": "ملابس علوية",
     "preview": "https://img.aishort.top/imgprompt/20260213071455826.webp"
@@ -16879,21 +16879,21 @@
   },
   {
     "displayName": "strap_slip",
-    "langName": "انزلق حزام الكتف (مما أدى إلى التسرب)",
+    "langName": "انزلاق حمالة الكتف",
     "object": "ملابس",
     "attribute": "ملابس علوية",
     "preview": "https://img.aishort.top/imgprompt/20260228101844680.webp"
   },
   {
     "displayName": "wedgie",
-    "langName": "مضمن (بسبب شد الملابس على منطقة المنشعب)",
+    "langName": "علوق الملابس الداخلية",
     "object": "ملابس",
     "attribute": "ملابس علوية",
     "preview": "https://img.aishort.top/imgprompt/20260225103744943.webp"
   },
   {
     "displayName": "wardrobe_malfunction",
-    "langName": "حدث شيء ما للملابس (مثل الانهيار)",
+    "langName": "عطل في الملابس",
     "object": "ملابس",
     "attribute": "ملابس علوية",
     "preview": "https://img.aishort.top/imgprompt/20260213075235531.webp"
@@ -16984,7 +16984,7 @@
   },
   {
     "displayName": "double-breasted",
-    "langName": "أزرار مزدوجة الصدر (أزرار مزدوجة الصدر",
+    "langName": "مزدوج الأزرار",
     "object": "ملابس",
     "attribute": "معطف",
     "preview": "https://img.aishort.top/imgprompt/20260213075715469.webp"
@@ -17054,7 +17054,7 @@
   },
   {
     "displayName": "jacket_partially_removed",
-    "langName": "تم خلع السترة جزئيًا",
+    "langName": "سترة مخلوعة جزئياً",
     "object": "ملابس",
     "attribute": "معطف",
     "preview": "https://img.aishort.top/imgprompt/20260213081023629.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "سترة صوفية (مع أرجل منتشرة)",
+    "langName": "سترة مفتوحة",
     "object": "ملابس",
     "attribute": "معطف",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -18048,7 +18048,7 @@
   },
   {
     "displayName": "corset",
-    "langName": "مشد (صدرية)",
+    "langName": "مشد",
     "object": "ملابس",
     "attribute": "خصر",
     "preview": "https://img.aishort.top/imgprompt/20260225104053785.webp"
@@ -18097,7 +18097,7 @@
   },
   {
     "displayName": "kusazuri",
-    "langName": "فودانغ | كوسازوري (نصف درع ياباني سفلي",
+    "langName": "كوسازوري",
     "object": "ملابس",
     "attribute": "درع",
     "preview": "https://img.aishort.top/imgprompt/20260213115508736.webp"
@@ -18118,7 +18118,7 @@
   },
   {
     "displayName": "kabuto",
-    "langName": "خوذة (النمط الياباني)",
+    "langName": "كابوتو (خوذة الساموراي)",
     "object": "ملابس",
     "attribute": "درع",
     "preview": "https://img.aishort.top/imgprompt/20260213115548290.webp"
@@ -18132,7 +18132,7 @@
   },
   {
     "displayName": "shoulder_armor",
-    "langName": "أكتاف",
+    "langName": "دروع الكتف",
     "object": "ملابس",
     "attribute": "درع",
     "preview": "https://img.aishort.top/imgprompt/20260213115612426.webp"
@@ -18153,14 +18153,14 @@
   },
   {
     "displayName": "faulds",
-    "langName": "حامية",
+    "langName": "درع الخصر",
     "object": "ملابس",
     "attribute": "درع",
     "preview": "https://img.aishort.top/imgprompt/20260213115855297.webp"
   },
   {
     "displayName": "greaves",
-    "langName": "جريفز",
+    "langName": "دروع الساقين",
     "object": "ملابس",
     "attribute": "درع",
     "preview": "https://img.aishort.top/imgprompt/20260213115908428.webp"
@@ -18237,7 +18237,7 @@
   },
   {
     "displayName": "sundress",
-    "langName": "فستان سهل الارتداء (فستان بدون أكمام للطقس الحار)",
+    "langName": "فستان صيفي خفيف",
     "object": "ملابس",
     "attribute": "تنورة",
     "preview": "https://img.aishort.top/imgprompt/20260213121003959.webp"
@@ -18342,7 +18342,7 @@
   },
   {
     "displayName": "impossible_dress",
-    "langName": "الملابس الضيقة جدًا",
+    "langName": "فستان ضيق ومحدد للجسم للغاية",
     "object": "ملابس",
     "attribute": "تنورة",
     "preview": "https://img.aishort.top/imgprompt/20260213122932976.webp"
@@ -18454,14 +18454,14 @@
   },
   {
     "displayName": "ballgown",
-    "langName": "توتو (فستان)",
+    "langName": "فستان حفلات راقصة",
     "object": "ملابس",
     "attribute": "تنورة",
     "preview": "https://img.aishort.top/imgprompt/20260213123502356.webp"
   },
   {
     "displayName": "pettiskirt",
-    "langName": "توتو (أطفال)",
+    "langName": "تنورة منفوشة بكشاكش",
     "object": "ملابس",
     "attribute": "تنورة",
     "preview": "https://img.aishort.top/imgprompt/20260213123515479.webp"
@@ -18811,28 +18811,28 @@
   },
   {
     "displayName": "dolphin_shorts",
-    "langName": "شورت دولفين (سراويل الحقيقة)",
+    "langName": "شورت دولفين الرياضي",
     "object": "ملابس",
     "attribute": "بنطال",
     "preview": "https://img.aishort.top/imgprompt/20260213134352207.webp"
   },
   {
     "displayName": "dolfin_shorts",
-    "langName": "شورت دولفين (سراويل الحقيقة)",
+    "langName": "شورت دولفين الرياضي",
     "object": "ملابس",
     "attribute": "بنطال",
     "preview": "https://img.aishort.top/imgprompt/20260213134404755.webp"
   },
   {
     "displayName": "tight_pants",
-    "langName": "طماق / Sweatpants",
+    "langName": "بنطال ضيق رياضي",
     "object": "ملابس",
     "attribute": "بنطال",
     "preview": "https://img.aishort.top/imgprompt/20260213134417526.webp"
   },
   {
     "displayName": "crotchless_pants",
-    "langName": "السراويل Crotchless (ضيقة)",
+    "langName": "سروال مفتوح المنفرج",
     "object": "ملابس",
     "attribute": "بنطال",
     "preview": "https://img.aishort.top/imgprompt/20260213134430564.webp"
@@ -18937,14 +18937,14 @@
   },
   {
     "displayName": "chaps",
-    "langName": "شقوق جلدية (عريضة من الأعلى وضيقة من الأسفل)",
+    "langName": "تشابس",
     "object": "ملابس",
     "attribute": "بنطال",
     "preview": "https://img.aishort.top/imgprompt/20260213134945047.webp"
   },
   {
     "displayName": "jumpsuit",
-    "langName": "(خاصة النساء) بذلة",
+    "langName": "جمبسوت",
     "object": "ملابس",
     "attribute": "بنطال",
     "preview": "https://img.aishort.top/imgprompt/20260213134957992.webp"
@@ -18979,7 +18979,7 @@
   },
   {
     "displayName": "leotard_aside",
-    "langName": "قشر المنشعب من بذلة جانبا",
+    "langName": "إزاحة ثياب الجمباز جانباً",
     "object": "ملابس",
     "attribute": "بنطال",
     "preview": "https://img.aishort.top/imgprompt/20260213135915193.webp"
@@ -19140,21 +19140,21 @@
   },
   {
     "displayName": "pantyhose",
-    "langName": "جوارب طويلة | جوارب طويلة",
+    "langName": "جوارب طويلة",
     "object": "ملابس",
     "attribute": "جورب",
     "preview": "https://img.aishort.top/imgprompt/20260213142442251.webp"
   },
   {
     "displayName": "legwear",
-    "langName": "جوارب طويلة (تشير عمومًا إلى جوارب طويلة أو جوارب)",
+    "langName": "جوارب وسراويل ضيقة",
     "object": "ملابس",
     "attribute": "جورب",
     "preview": "https://img.aishort.top/imgprompt/20260225104603819.webp"
   },
   {
     "displayName": "thighhighs",
-    "langName": "الجوارب (الجوارب التي تصل إلى الركبة)",
+    "langName": "جوارب طويلة حتى الفخذ",
     "object": "ملابس",
     "attribute": "جورب",
     "preview": "https://img.aishort.top/imgprompt/20260213142506603.webp"
@@ -19217,7 +19217,7 @@
   },
   {
     "displayName": "pantylines",
-    "langName": "الجوارب الضيقة (الخطوط العريضة",
+    "langName": "خطوط الملابس الداخلية الظاهرة",
     "object": "ملابس",
     "attribute": "جورب",
     "preview": "https://img.aishort.top/imgprompt/20260317074408132.webp"
@@ -19357,7 +19357,7 @@
   },
   {
     "displayName": "back-seamed_legwear",
-    "langName": "جوارب بخط أسود في المنتصف",
+    "langName": "جوارب بخط خلفي",
     "object": "ملابس",
     "attribute": "جورب",
     "preview": "https://img.aishort.top/imgprompt/20260225104949341.webp"
@@ -19413,14 +19413,14 @@
   },
   {
     "displayName": "bobby_socks",
-    "langName": "جوارب بوبي (جوارب بيضاء)",
+    "langName": "جوارب بوبي بيضاء قصيرة",
     "object": "ملابس",
     "attribute": "جورب",
     "preview": "https://img.aishort.top/imgprompt/20260213144125119.webp"
   },
   {
     "displayName": "tabi",
-    "langName": "الجوارب اليابانية ذات النعل السميك (جيوب القدم)",
+    "langName": "تابي (جوارب يابانية تقليدية)",
     "object": "ملابس",
     "attribute": "جورب",
     "preview": "https://img.aishort.top/imgprompt/20260213144138485.webp"
@@ -19434,7 +19434,7 @@
   },
   {
     "displayName": "leg_warmers",
-    "langName": "تدفئة الساق | تدفئة الساق",
+    "langName": "تدفئة الساق",
     "object": "ملابس",
     "attribute": "جورب",
     "preview": "https://img.aishort.top/imgprompt/20260213144203562.webp"
@@ -19518,7 +19518,7 @@
   },
   {
     "displayName": "thigh_holster",
-    "langName": "حزام أو حقيبة أدوات أو حافظة على الساق",
+    "langName": "جراب مسدس للفخذ",
     "object": "ملابس",
     "attribute": "جورب",
     "preview": "https://img.aishort.top/imgprompt/20260213144441392.webp"
@@ -19546,7 +19546,7 @@
   },
   {
     "displayName": "arm_garter",
-    "langName": "الأربطة بوم",
+    "langName": "رباط الذراع للأكمام",
     "object": "ملابس",
     "attribute": "جورب",
     "preview": "https://img.aishort.top/imgprompt/20260213144735280.webp"
@@ -19658,14 +19658,14 @@
   },
   {
     "displayName": "sock_pull",
-    "langName": "شد الجوارب (الجوارب)",
+    "langName": "رفع الجوارب القصيرة",
     "object": "ملابس",
     "attribute": "جورب",
     "preview": "https://img.aishort.top/imgprompt/20260213150519193.webp"
   },
   {
     "displayName": "thighhighs_pull",
-    "langName": "شد الجوارب (جوارب)",
+    "langName": "رفع الجوارب الطويلة",
     "object": "ملابس",
     "attribute": "جورب",
     "preview": "https://img.aishort.top/imgprompt/20260225090322289.webp"
@@ -19686,7 +19686,7 @@
   },
   {
     "displayName": "crease",
-    "langName": "متجعد (مطوي)",
+    "langName": "طيات التجعد",
     "object": "ملابس",
     "attribute": "تزيين",
     "preview": "https://img.aishort.top/imgprompt/20260213150609920.webp"
@@ -19755,7 +19755,7 @@
   },
   {
     "displayName": "back_bow",
-    "langName": "(الملابس) عقدة مربوطة خلف الظهر",
+    "langName": "عقدة فراشية خلفية",
     "object": "ملابس",
     "attribute": "تزيين",
     "preview": "https://img.aishort.top/imgprompt/20260213151221218.webp"
@@ -19769,7 +19769,7 @@
   },
   {
     "displayName": "double_vertical_stripe",
-    "langName": "هناك خطان متوازيان على الملابس",
+    "langName": "خطوط طولية مزدوجة",
     "object": "ملابس",
     "attribute": "تزيين",
     "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
@@ -19818,14 +19818,14 @@
   },
   {
     "displayName": "single_kneehigh",
-    "langName": "ارتداء ملابس بطول الركبة على جانب واحد",
+    "langName": "جورب طويل على ساق واحدة",
     "object": "ملابس",
     "attribute": "تزيين",
     "preview": "https://img.aishort.top/imgprompt/20260213151419710.webp"
   },
   {
     "displayName": "single_vertical_stripe",
-    "langName": "كشف خطوط عمودية على جانب واحد من الملابس",
+    "langName": "خط طولي واحد",
     "object": "ملابس",
     "attribute": "تزيين",
     "preview": "https://img.aishort.top/imgprompt/20260213151432314.webp"
@@ -19839,7 +19839,7 @@
   },
   {
     "displayName": "two-sided_fabric",
-    "langName": "طريقة رسم الملابس بطبقة مزدوجة",
+    "langName": "قماش ذو وجهين ملونين",
     "object": "ملابس",
     "attribute": "تزيين",
     "preview": "https://img.aishort.top/imgprompt/20260213151458665.webp"
@@ -19860,21 +19860,21 @@
   },
   {
     "displayName": "fringe_trim",
-    "langName": "الحافة (نهاية الوشاح)",
+    "langName": "حواف شراشيب",
     "object": "ملابس",
     "attribute": "تزيين",
     "preview": "https://img.aishort.top/imgprompt/20260213151538074.webp"
   },
   {
     "displayName": "loose_belt",
-    "langName": "الأشرطة فضفاضة (الملابس)",
+    "langName": "حزام مرتخٍ",
     "object": "ملابس",
     "attribute": "تزيين",
     "preview": "https://img.aishort.top/imgprompt/20260213151551376.webp"
   },
   {
     "displayName": "pom_pom_(clothes)",
-    "langName": "بوم بومس صغيرة (اكسسوارات الملابس)",
+    "langName": "كرات بوم بوم الصوفية",
     "object": "ملابس",
     "attribute": "تزيين",
     "preview": "https://img.aishort.top/imgprompt/20260213151807325.webp"
@@ -19895,7 +19895,7 @@
   },
   {
     "displayName": "gathers",
-    "langName": "الطيات (الملابس)",
+    "langName": "طيات القماش المجمعة",
     "object": "ملابس",
     "attribute": "تزيين",
     "preview": "https://img.aishort.top/imgprompt/20260213151846596.webp"
@@ -20441,7 +20441,7 @@
   },
   {
     "displayName": "peace_symbol",
-    "langName": "☮(على ملابس هيجاشيكاتا جوسوكي)",
+    "langName": "رمز السلام (☮)",
     "object": "ملابس",
     "attribute": "نمط",
     "preview": "https://img.aishort.top/imgprompt/20260213154359591.webp"
@@ -20462,7 +20462,7 @@
   },
   {
     "displayName": "hitodama_print",
-    "langName": "طبعة Will-o'-the-wisp",
+    "langName": "طبعة نيران الأشباح",
     "object": "ملابس",
     "attribute": "نمط",
     "preview": "https://img.aishort.top/imgprompt/20260213154641445.webp"
@@ -20595,7 +20595,7 @@
   },
   {
     "displayName": "black_loafers",
-    "langName": "المتسكعون (أحذية جلدية صغيرة)",
+    "langName": "حذاء لوفر أسود",
     "object": "ملابس",
     "attribute": "حذاء",
     "preview": "https://img.aishort.top/imgprompt/20260213160300808.webp"
@@ -20637,7 +20637,7 @@
   },
   {
     "displayName": "strappy_heels",
-    "langName": "الكعب العالي Strappy",
+    "langName": "حذاء كعب عالي بأربطة متقاطعة",
     "object": "ملابس",
     "attribute": "حذاء",
     "preview": "https://img.aishort.top/imgprompt/20260213161028410.webp"
@@ -20651,7 +20651,7 @@
   },
   {
     "displayName": "rudder_footwear",
-    "langName": "حذاء Ship C خاص لفتيات السفينة",
+    "langName": "أحذية فتيات الأسطول الحربي",
     "object": "ملابس",
     "attribute": "حذاء",
     "preview": "https://img.aishort.top/imgprompt/20260213161458045.webp"
@@ -20868,7 +20868,7 @@
   },
   {
     "displayName": "knee_boots",
-    "langName": "أحذية عالية في الركبة (أحذية ركوب الخيل)",
+    "langName": "حذاء طويل حتى الركبة",
     "object": "ملابس",
     "attribute": "جزمة",
     "preview": "https://img.aishort.top/imgprompt/20260213170630231.webp"
@@ -21225,7 +21225,7 @@
   },
   {
     "displayName": "armband",
-    "langName": "شارة (شارة)",
+    "langName": "شارة الذراع",
     "object": "ملابس",
     "attribute": "الأكمام",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
@@ -21680,7 +21680,7 @@
   },
   {
     "displayName": "alternate_headwear",
-    "langName": "غطاء رأس مختلف عن الأصلي",
+    "langName": "غطاء رأس بديل",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213191902200.webp"
@@ -21715,7 +21715,7 @@
   },
   {
     "displayName": "xx_on_head",
-    "langName": "×× على الرأس",
+    "langName": "غرض موضوع فوق الرأس",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213192411659.webp"
@@ -21778,14 +21778,14 @@
   },
   {
     "displayName": "hachimaki",
-    "langName": "عمامة (اسم)",
+    "langName": "هاتشيماكي (عصابة رأس)",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213194023586.webp"
   },
   {
     "displayName": "helm",
-    "langName": "يرتدي خوذة",
+    "langName": "خوذة على الرأس",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213194036779.webp"
@@ -21827,7 +21827,7 @@
   },
   {
     "displayName": "skull_and_crossbones",
-    "langName": "جمجمة وعظمتين متقاطعتين (القراصنة، الخطر، التحذير)",
+    "langName": "جمجمة وعظمتان متقاطعتان",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213195005290.webp"
@@ -21841,7 +21841,7 @@
   },
   {
     "displayName": "headdress",
-    "langName": "أغطية الرأس (أكثر عمومية)",
+    "langName": "غطاء رأس زيني",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213195638458.webp"
@@ -21869,21 +21869,21 @@
   },
   {
     "displayName": "horns_through_headwear",
-    "langName": "غطاء رأس به ثقوب للقرون",
+    "langName": "غطاء رأس مثقوب للقرون",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213200134487.webp"
   },
   {
     "displayName": "no_headwear",
-    "langName": "تمت إزالة غطاء الرأس (الموجود).",
+    "langName": "بدون غطاء رأس",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213200147284.webp"
   },
   {
     "displayName": "object_on_head",
-    "langName": "هناك شيء آخر غير غطاء الرأس على الرأس",
+    "langName": "جسم فوق الرأس",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213200200049.webp"
@@ -21925,7 +21925,7 @@
   },
   {
     "displayName": "behind-the-head_headphones",
-    "langName": "سماعات الرأس تلبس من الجزء الخلفي من الرأس",
+    "langName": "سماعات رأس خلفية حول الرقبة",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213200337721.webp"
@@ -21988,14 +21988,14 @@
   },
   {
     "displayName": "head_mounted_display",
-    "langName": "ارتداء جهاز عرض مثبت على الرأس",
+    "langName": "شاشة مثبتة على الرأس (HMD)",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213201344092.webp"
   },
   {
     "displayName": "head_out_of_frame",
-    "langName": "لم يتم رسم جزء من الرأس في الإطار",
+    "langName": "الرأس خارج إطار الصورة",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213201559216.webp"
@@ -22016,7 +22016,7 @@
   },
   {
     "displayName": "headgear",
-    "langName": "إكسسوارات الرأس (علم الخيال)",
+    "langName": "عتاد رأس خيال علمي",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213201840823.webp"
@@ -22030,7 +22030,7 @@
   },
   {
     "displayName": "heads-up_display",
-    "langName": "شريط الحالة (أسلوب اللعبة والخيال العلمي)",
+    "langName": "شاشة العرض الرأسي (HUD)",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213201907728.webp"
@@ -22065,7 +22065,7 @@
   },
   {
     "displayName": "single_head_wing",
-    "langName": "هناك أجنحة على جانب واحد من الرأس",
+    "langName": "جناح جانبي مفرد على الرأس",
     "object": "إكسسوارات",
     "attribute": "زينة الرأس",
     "preview": "https://img.aishort.top/imgprompt/20260213202620422.webp"
@@ -22261,7 +22261,7 @@
   },
   {
     "displayName": "hairpods",
-    "langName": "إكسسوارات شعر تشبه سماعات البلوتوث",
+    "langName": "مشابك شعر شبيهة بالسماعات",
     "object": "إكسسوارات",
     "attribute": "إكسسوارات الشعر",
     "preview": "https://img.aishort.top/imgprompt/20260213210909139.webp"
@@ -22296,7 +22296,7 @@
   },
   {
     "displayName": "snake_hair_ornament",
-    "langName": "اكسسوارات شعر الثعبان | إكسسوارات شعر الضفدع",
+    "langName": "حلية شعر على شكل ثعبان",
     "object": "إكسسوارات",
     "attribute": "إكسسوارات الشعر",
     "preview": "https://img.aishort.top/imgprompt/20260213211418419.webp"
@@ -22373,7 +22373,7 @@
   },
   {
     "displayName": "hood",
-    "langName": "كَبُّوت",
+    "langName": "قلنسوة",
     "object": "إكسسوارات",
     "attribute": "قبعة",
     "preview": "https://img.aishort.top/imgprompt/20260213212235548.webp"
@@ -22779,7 +22779,7 @@
   },
   {
     "displayName": "hat_removed",
-    "langName": "يتم خلع القبعة | يتم خلع القبعة",
+    "langName": "يتم خلع القبعة",
     "object": "إكسسوارات",
     "attribute": "قبعة",
     "preview": "https://img.aishort.top/imgprompt/20260213224231603.webp"
@@ -22800,7 +22800,7 @@
   },
   {
     "displayName": "hatching_(texture)",
-    "langName": "تظليل الخط (الملمس)",
+    "langName": "تظليل بالخطوط المتقاطعة",
     "object": "إكسسوارات",
     "attribute": "قبعة",
     "preview": "https://img.aishort.top/imgprompt/20260213224329155.webp"
@@ -22926,14 +22926,14 @@
   },
   {
     "displayName": "sunglasses",
-    "langName": "النظارات الشمسية (تغطي العيون)",
+    "langName": "نظارات شمسية معتمة",
     "object": "إكسسوارات",
     "attribute": "نظارات",
     "preview": "https://img.aishort.top/imgprompt/20260213230746663.webp"
   },
   {
     "displayName": "reflection glasses",
-    "langName": "النظارات الشمسية (عيون مرئية)",
+    "langName": "نظارات شمسية شبه شفافة",
     "object": "إكسسوارات",
     "attribute": "نظارات",
     "preview": "https://img.aishort.top/imgprompt/20260213230759909.webp"
@@ -22954,7 +22954,7 @@
   },
   {
     "displayName": "eyepatch",
-    "langName": "رقعة العين (عين واحدة)",
+    "langName": "غطاء للعين",
     "object": "إكسسوارات",
     "attribute": "نظارات",
     "preview": "https://img.aishort.top/imgprompt/20260213230839662.webp"
@@ -22982,14 +22982,14 @@
   },
   {
     "displayName": "coke-bottle_glasses",
-    "langName": "أكواب مستديرة سميكة مثل قيعان الزجاجات",
+    "langName": "نظارات ذات عدسات سميكة جداً",
     "object": "إكسسوارات",
     "attribute": "نظارات",
     "preview": "https://img.aishort.top/imgprompt/20260213230932442.webp"
   },
   {
     "displayName": "no_eyewear",
-    "langName": "تمت إزالة النظارات (الموجودة).",
+    "langName": "بدون نظارات",
     "object": "إكسسوارات",
     "attribute": "نظارات",
     "preview": "https://img.aishort.top/imgprompt/20260213230945224.webp"
@@ -23178,7 +23178,7 @@
   },
   {
     "displayName": "domino_mask",
-    "langName": "قناع إس إم",
+    "langName": "قناع دومينو",
     "object": "إكسسوارات",
     "attribute": "قناع",
     "preview": "https://img.aishort.top/imgprompt/20260213233359905.webp"
@@ -23241,7 +23241,7 @@
   },
   {
     "displayName": "single_earring",
-    "langName": "ارتداء الأقراط على جانب واحد فقط",
+    "langName": "قرط في أذن واحدة",
     "object": "إكسسوارات",
     "attribute": "حلق",
     "preview": "https://img.aishort.top/imgprompt/20260213235633818.webp"
@@ -23297,7 +23297,7 @@
   },
   {
     "displayName": "cuffs",
-    "langName": "حبوب منع الحمل",
+    "langName": "أصفاد اليد",
     "object": "إكسسوارات",
     "attribute": "مجوهرات اليد",
     "preview": "https://img.aishort.top/imgprompt/20260213235839451.webp"
@@ -23325,7 +23325,7 @@
   },
   {
     "displayName": "leash",
-    "langName": "حزام",
+    "langName": "حبل المقود",
     "object": "إكسسوارات",
     "attribute": "مجوهرات اليد",
     "preview": "https://img.aishort.top/imgprompt/20260213235930034.webp"
@@ -23437,7 +23437,7 @@
   },
   {
     "displayName": "no_gloves",
-    "langName": "إزالة القفازات (الموجودة).",
+    "langName": "بدون قفازات",
     "object": "إكسسوارات",
     "attribute": "قفازات",
     "preview": "https://img.aishort.top/imgprompt/20260214001315236.webp"
@@ -23451,7 +23451,7 @@
   },
   {
     "displayName": "single_elbow_glove",
-    "langName": "ارتداء قفاز بطول المرفق في يد واحدة",
+    "langName": "قفاز طويل حتى الكوع على يد واحدة",
     "object": "إكسسوارات",
     "attribute": "قفازات",
     "preview": "https://img.aishort.top/imgprompt/20260214001744860.webp"
@@ -23465,7 +23465,7 @@
   },
   {
     "displayName": "elbow_gloves",
-    "langName": "قفازات طويلة الأكمام (قفازات الكوع)",
+    "langName": "قفازات طويلة حتى الكوع",
     "object": "إكسسوارات",
     "attribute": "قفازات",
     "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
@@ -23500,14 +23500,14 @@
   },
   {
     "displayName": "paw_gloves",
-    "langName": "قفازات المخلب (قفازات الاصبع)",
+    "langName": "قفازات كفوف الحيوانات",
     "object": "إكسسوارات",
     "attribute": "قفازات",
     "preview": "https://img.aishort.top/imgprompt/20260214002522561.webp"
   },
   {
     "displayName": "mittens",
-    "langName": "القفازات (قفازات ذات إصبعين)",
+    "langName": "قفازات بدون أصابع منفصلة",
     "object": "إكسسوارات",
     "attribute": "قفازات",
     "preview": "https://img.aishort.top/imgprompt/20260214002535788.webp"
@@ -23759,14 +23759,14 @@
   },
   {
     "displayName": "st._gloriana's_(emblem)",
-    "langName": "شعار مدرسة مدرسة سانت جلوريا آنا للبنات",
+    "langName": "شعار مدرسة سانت غلوريانا",
     "object": "إكسسوارات",
     "attribute": "زخرفة صغيرة",
     "preview": "https://img.aishort.top/imgprompt/20260214010157304.webp"
   },
   {
     "displayName": "heart_lock_(kantai_collection)",
-    "langName": "قفل فتاة السفينة (السفينة ج)",
+    "langName": "قفل القلب (كانتاي كوليكشن)",
     "object": "إكسسوارات",
     "attribute": "زخرفة صغيرة",
     "preview": "https://img.aishort.top/imgprompt/20260214010210385.webp"
@@ -23815,7 +23815,7 @@
   },
   {
     "displayName": "ring",
-    "langName": "جرس",
+    "langName": "خاتم",
     "object": "إكسسوارات",
     "attribute": "مجوهرات",
     "preview": "https://img.aishort.top/imgprompt/20260214011757830.webp"
@@ -23990,14 +23990,14 @@
   },
   {
     "displayName": "Wu Xing",
-    "langName": "العناصر الخمسة (المعدن، الخشب، الماء، النار، الأرض)",
+    "langName": "العناصر الخمسة (وو شينغ)",
     "object": "إكسسوارات",
     "attribute": "رمز",
     "preview": "https://img.aishort.top/imgprompt/20260214020503233.webp"
   },
   {
     "displayName": "dynamic pose",
-    "langName": "الوضعيات الديناميكية (الحيوية)",
+    "langName": "وضعية حيوية ديناميكية",
     "object": "التصوير",
     "attribute": "زاوية الرؤية",
     "preview": "https://img.aishort.top/imgprompt/20260214020718871.webp"
@@ -24319,28 +24319,28 @@
   },
   {
     "displayName": "cowboy_shot",
-    "langName": "الجزء العلوي من الجسم + أعلى الفخذين (لقطة راعي البقر)",
+    "langName": "لقطة كاوبوي (المشهد الأمريكي)",
     "object": "التصوير",
     "attribute": "ارتفاع اللقطة",
     "preview": "https://img.aishort.top/imgprompt/20260214032314849.webp"
   },
   {
     "displayName": "portrait",
-    "langName": "بورتريه (وجه + أكتاف + أحيانا صدر)",
+    "langName": "لقطة بورتريه",
     "object": "التصوير",
     "attribute": "ارتفاع اللقطة",
     "preview": "https://img.aishort.top/imgprompt/20260214032327856.webp"
   },
   {
     "displayName": "very close portrait",
-    "langName": "صورة قريبة (الكاميرا أقرب)",
+    "langName": "لقطة وجه مقربة للغاية",
     "object": "التصوير",
     "attribute": "ارتفاع اللقطة",
     "preview": "https://img.aishort.top/imgprompt/20260214032544032.webp"
   },
   {
     "displayName": "profile",
-    "langName": "صورة الملف الشخصي (نسخة الملف الشخصي من الصورة)",
+    "langName": "بورتريه جانبي",
     "object": "التصوير",
     "attribute": "ارتفاع اللقطة",
     "preview": "https://img.aishort.top/imgprompt/20260214032759101.webp"
@@ -24375,7 +24375,7 @@
   },
   {
     "displayName": "wide_shot",
-    "langName": "عدسة بانورامية (عدسة واسعة الزاوية)",
+    "langName": "لقطة واسعة الزاوية",
     "object": "التصوير",
     "attribute": "تركيز العدسة",
     "preview": "https://img.aishort.top/imgprompt/20260214033851759.webp"
@@ -24389,7 +24389,7 @@
   },
   {
     "displayName": "inset",
-    "langName": "أدخل لقطات أو صور إضافية",
+    "langName": "صورة داخل إطار مدمج",
     "object": "التصوير",
     "attribute": "تركيز العدسة",
     "preview": "https://img.aishort.top/imgprompt/20260214033931731.webp"
@@ -24403,21 +24403,21 @@
   },
   {
     "displayName": "male focus",
-    "langName": "التركيز على الذكور (التركيز على الإناث)",
+    "langName": "التركيز على الشخصية الذكورية",
     "object": "التصوير",
     "attribute": "تركيز العدسة",
     "preview": "https://img.aishort.top/imgprompt/20260214033958195.webp"
   },
   {
     "displayName": "solo_focus",
-    "langName": "التركيز على شخصية واحدة (مناسبة للمشاهد المعقدة)",
+    "langName": "التركيز على شخصية واحدة",
     "object": "التصوير",
     "attribute": "تركيز العدسة",
     "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
   },
   {
     "displayName": "xx_focus",
-    "langName": "ركز على xx",
+    "langName": "التركيز على تفصيل معين",
     "object": "التصوير",
     "attribute": "تركيز العدسة",
     "preview": "https://img.aishort.top/imgprompt/20260214034023889.webp"
@@ -24459,7 +24459,7 @@
   },
   {
     "displayName": "vehicle_focus",
-    "langName": "التركيز على السيارة (السيارة)",
+    "langName": "التركيز على المركبة",
     "object": "التصوير",
     "attribute": "تركيز العدسة",
     "preview": "https://img.aishort.top/imgprompt/20260214034759257.webp"
@@ -24473,21 +24473,21 @@
   },
   {
     "displayName": "between_legs",
-    "langName": "(التأكيد) بين الساقين",
+    "langName": "زاوية ما بين الساقين",
     "object": "التصوير",
     "attribute": "تركيز العدسة",
     "preview": "https://img.aishort.top/imgprompt/20260214035455577.webp"
   },
   {
     "displayName": "between_breasts",
-    "langName": "(جاحظ) الصدر",
+    "langName": "لقطة مقربة بين الثديين",
     "object": "التصوير",
     "attribute": "تركيز العدسة",
     "preview": "https://img.aishort.top/imgprompt/20260225091239828.webp"
   },
   {
     "displayName": "between_fingers",
-    "langName": "(البروز) بين الأصابع",
+    "langName": "الرؤية من بين الأصابع",
     "object": "التصوير",
     "attribute": "تركيز العدسة",
     "preview": "https://img.aishort.top/imgprompt/20260214035531987.webp"
@@ -24501,14 +24501,14 @@
   },
   {
     "displayName": "peeking_out",
-    "langName": "نظرة خاطفة (لفتة)",
+    "langName": "استراق النظر",
     "object": "التصوير",
     "attribute": "تركيز العدسة",
     "preview": "https://img.aishort.top/imgprompt/20260214035557635.webp"
   },
   {
     "displayName": "peeping",
-    "langName": "المتلصص (التأكيد على المنظور)",
+    "langName": "زاوية استراق النظر",
     "object": "التصوير",
     "attribute": "تركيز العدسة",
     "preview": "https://img.aishort.top/imgprompt/20260214035610390.webp"
@@ -24662,7 +24662,7 @@
   },
   {
     "displayName": "Brenizer Method",
-    "langName": "طلقة دوامة",
+    "langName": "طريقة برينيزر (بانوراما البوكيه)",
     "object": "التصوير",
     "attribute": "العدسات/المؤثرات البصرية",
     "preview": "https://img.aishort.top/imgprompt/20260214041350224.webp"
@@ -24697,7 +24697,7 @@
   },
   {
     "displayName": "landscape",
-    "langName": "لقطة للمناظر الطبيعية (لقطة طويلة)",
+    "langName": "لقطة للمناظر الطبيعية",
     "object": "التصوير",
     "attribute": "العدسات/المؤثرات البصرية",
     "preview": "https://img.aishort.top/imgprompt/20260214041814281.webp"
@@ -24844,7 +24844,7 @@
   },
   {
     "displayName": "polaroid",
-    "langName": "صور (بولارويد)",
+    "langName": "صورة بولارويد فورية",
     "object": "التصوير",
     "attribute": "نمط التصوير",
     "preview": "https://img.aishort.top/imgprompt/20260214044251180.webp"
@@ -25292,7 +25292,7 @@
   },
   {
     "displayName": "depth of field",
-    "langName": "عمق المجال (تنسيق المشاهد البشرية)",
+    "langName": "عمق الميدان",
     "object": "التصوير",
     "attribute": "تأثير",
     "preview": "https://img.aishort.top/imgprompt/20260224191234161.webp"
@@ -25320,14 +25320,14 @@
   },
   {
     "displayName": "bokeh",
-    "langName": "بوكيه",
+    "langName": "تأثير البوكيه",
     "object": "التصوير",
     "attribute": "تأثير",
     "preview": "https://img.aishort.top/imgprompt/20260224191333274.webp"
   },
   {
     "displayName": "chromatic_aberration",
-    "langName": "انحراف لوني، اللون خارج نطاق التركيز",
+    "langName": "الزيغ اللوني",
     "object": "التصوير",
     "attribute": "تأثير",
     "preview": "https://img.aishort.top/imgprompt/20260224191548893.webp"
@@ -25425,7 +25425,7 @@
   },
   {
     "displayName": "Tilt‑Shift Photography",
-    "langName": "تصوير بالإمالة والإزاحة",
+    "langName": "تصوير إمالة وتحريك",
     "object": "التصوير",
     "attribute": "تأثير",
     "description": "يستخدم عدسات وتقنيات خاصة لمحاكاة تأثير النموذج المصغر، وغالباً ما يستخدم لتصوير مناظر المدينة أو المشاهد الكبيرة.",
@@ -25441,7 +25441,7 @@
   },
   {
     "displayName": "Camera Push‑In",
-    "langName": "تقدم الكاميرا",
+    "langName": "تقريب الكاميرا للداخل",
     "object": "التصوير",
     "attribute": "حركات كاميرا أساسية",
     "description": "تتحرك الكاميرا ببطء نحو الموضوع لتكثيف المشاعر أو إبراز الموضوع.",
@@ -25449,7 +25449,7 @@
   },
   {
     "displayName": "Camera Pull‑Out",
-    "langName": "تراجع الكاميرا",
+    "langName": "إبعاد الكاميرا للخارج",
     "object": "التصوير",
     "attribute": "حركات كاميرا أساسية",
     "description": "تتحرك الكاميرا تدريجياً بعيداً عن الموضوع للكشف عن البيئة أو تقليل التوتر.",
@@ -25473,7 +25473,7 @@
   },
   {
     "displayName": "Camera Tilt‑Up",
-    "langName": "إمالة الكاميرا لأعلى",
+    "langName": "إمالة الكاميرا للأعلى",
     "object": "التصوير",
     "attribute": "حركات كاميرا أساسية",
     "description": "تميل الكاميرا للأعلى، وتستخدم غالباً لإظهار ارتفاع المباني أو منظور النظر للأعلى.",
@@ -25818,7 +25818,7 @@
   },
   {
     "displayName": "Crepuscular Rays",
-    "langName": "ضوء خافت",
+    "langName": "أشعة الشفق (الأشعة الإلهية)",
     "object": "تأثيرات الضوء والظل",
     "attribute": "تأثيرات الإضاءة",
     "preview": "https://img.aishort.top/imgprompt/20260224200322540.webp"
@@ -25860,7 +25860,7 @@
   },
   {
     "displayName": "lens flare",
-    "langName": "توهج العدسة (الإضاءة الخلفية)",
+    "langName": "توهج العدسة",
     "object": "تأثيرات الضوء والظل",
     "attribute": "تأثيرات الإضاءة",
     "preview": "https://img.aishort.top/imgprompt/20260224200437632.webp"
@@ -26147,7 +26147,7 @@
   },
   {
     "displayName": "AMOLED",
-    "langName": "شاشة اموليد",
+    "langName": "شاشة أموليد",
     "object": "تأثيرات الضوء والظل",
     "attribute": "تكنولوجيا العرض",
     "preview": "https://img.aishort.top/imgprompt/20260224204305477.webp"
@@ -27113,7 +27113,7 @@
   },
   {
     "displayName": "Dispersion",
-    "langName": "زيغ لوني",
+    "langName": "تشتت الضوء اللوني",
     "object": "أجواء الألوان",
     "attribute": "درجات داكنة",
     "preview": "https://img.aishort.top/imgprompt/20260224221649393.webp"
@@ -27645,7 +27645,7 @@
   },
   {
     "displayName": "Tetradic-Colors",
-    "langName": "أربعة ألوان (مطابقة الألوان مستطيلة)",
+    "langName": "تناسق الألوان الرباعي",
     "object": "أجواء الألوان",
     "attribute": "لوحة الألوان",
     "preview": "https://img.aishort.top/imgprompt/20260224223613371.webp"
@@ -27940,14 +27940,14 @@
   },
   {
     "displayName": "YCbCr",
-    "langName": "ikB",
+    "langName": "YCbCr",
     "object": "أجواء الألوان",
     "attribute": "لوحة ألوان الشاشة",
     "preview": "https://img.aishort.top/imgprompt/20260224224629664.webp"
   },
   {
     "displayName": "YPbPr",
-    "langName": "wxya",
+    "langName": "YPbPr",
     "object": "أجواء الألوان",
     "attribute": "لوحة ألوان الشاشة",
     "preview": "https://img.aishort.top/imgprompt/20260224224643063.webp"
@@ -29914,7 +29914,7 @@
   },
   {
     "displayName": "Putty",
-    "langName": "مواد لاصقة لسد وتعبئة الفراغات",
+    "langName": "معجون ملء الفراغات",
     "object": "مادة",
     "attribute": "مادة لزجة",
     "preview": "https://img.aishort.top/imgprompt/20260224235936705.webp"
@@ -29935,7 +29935,7 @@
   },
   {
     "displayName": "Aerogel",
-    "langName": "ايروجيل",
+    "langName": "إيروجيل",
     "object": "مادة",
     "attribute": "اللزوجة",
     "preview": "https://img.aishort.top/imgprompt/20260225000020068.webp"
@@ -30873,7 +30873,7 @@
   },
   {
     "displayName": "Hyperdodecahedron",
-    "langName": "superdodecahedron",
+    "langName": "اثنا عشري السطوح الفائق",
     "object": "الشكل | الفراغ",
     "attribute": "شكل فائق",
     "preview": "https://img.aishort.top/imgprompt/20260225003313806.webp"
@@ -31321,7 +31321,7 @@
   },
   {
     "displayName": "Polytope",
-    "langName": "polytope",
+    "langName": "متعدد الأشكال",
     "object": "الشكل | الفراغ",
     "attribute": "خصائص",
     "preview": "https://img.aishort.top/imgprompt/20260225004835943.webp"
@@ -31356,7 +31356,7 @@
   },
   {
     "displayName": "((dyeing)),((oil painting)),((impasto))",
-    "langName": "الرسم الزيتي (مركب)",
+    "langName": "مزيج الرسم الزيتي التعبيري",
     "object": "نوع الصورة",
     "attribute": "رسم",
     "preview": "https://img.aishort.top/imgprompt/20260225004949979.webp"
@@ -31825,7 +31825,7 @@
   },
   {
     "displayName": "copics",
-    "langName": "علامة (رمادي محايد)",
+    "langName": "أسلوب أقلام كوبيك",
     "object": "نوع الصورة",
     "attribute": "حبر",
     "preview": "https://img.aishort.top/imgprompt/20260225010656308.webp"
@@ -32126,7 +32126,7 @@
   },
   {
     "displayName": "Pokemon Card",
-    "langName": "بطاقات البوكيمون (وحوش الجيب)",
+    "langName": "طراز بطاقات البوكيمون",
     "object": "نوع الصورة",
     "attribute": "طباعة",
     "preview": "https://img.aishort.top/imgprompt/20260225011638981.webp"
@@ -32518,7 +32518,7 @@
   },
   {
     "displayName": "traditional_media",
-    "langName": "القماش التقليدي (مثل الورق وما إلى ذلك)",
+    "langName": "وسائط فنية تقليدية",
     "object": "نوع الصورة",
     "attribute": "وسائط أخرى",
     "preview": "https://img.aishort.top/imgprompt/20260225013600028.webp"
@@ -33008,14 +33008,14 @@
   },
   {
     "displayName": "((dieselpunk))",
-    "langName": "com.diselpunk",
+    "langName": "ديزل بانك",
     "object": "أسلوب الفن",
     "attribute": "الفن الحديث",
     "preview": "https://img.aishort.top/imgprompt/20260225015345666.webp"
   },
   {
     "displayName": "streampunk",
-    "langName": "com.steampunk",
+    "langName": "ستيم بانك",
     "object": "أسلوب الفن",
     "attribute": "الفن الحديث",
     "preview": "https://img.aishort.top/imgprompt/20260225015357744.webp"
@@ -33078,7 +33078,7 @@
   },
   {
     "displayName": "miserablism",
-    "langName": "الكآبة (انتقاد الفقر والظلم في المجتمع)",
+    "langName": "البؤسية",
     "object": "أسلوب الفن",
     "attribute": "الخيال والواقع",
     "preview": "https://img.aishort.top/imgprompt/20260225015538415.webp"
@@ -33169,7 +33169,7 @@
   },
   {
     "displayName": "illustration,(((ukiyoe))),((sketch)),((japanese_art))",
-    "langName": "أوكييو-إي (مجموعة)",
+    "langName": "رسم توضيحي بنمط أوكييو-إيه",
     "object": "أسلوب الفن",
     "attribute": "الفن الآسيوي",
     "preview": "https://img.aishort.top/imgprompt/20260225015830944.webp"
@@ -33260,7 +33260,7 @@
   },
   {
     "displayName": "heavy contrast",
-    "langName": "تباين قوي (التركيز على اللون)",
+    "langName": "تباين لوني حاد",
     "object": "أسلوب الفن",
     "attribute": "التصوير الفوتوغرافي / أسلوب الرسم",
     "preview": "https://img.aishort.top/imgprompt/20260225020108984.webp"
@@ -33323,7 +33323,7 @@
   },
   {
     "displayName": "film noir",
-    "langName": "فيلم نوير (الذنب، الرغبة، الانتقام)",
+    "langName": "جماليات فيلم نوار",
     "object": "أسلوب الفن",
     "attribute": "التصوير الفوتوغرافي / أسلوب الرسم",
     "preview": "https://img.aishort.top/imgprompt/20260225020255566.webp"
@@ -33337,7 +33337,7 @@
   },
   {
     "displayName": "fantasy",
-    "langName": "مناسبة لمشاهد الخيال العلمي",
+    "langName": "طراز الفانتازيا الخيالي",
     "object": "أسلوب الفن",
     "attribute": "الخيال العلمي",
     "preview": "https://img.aishort.top/imgprompt/20260225020323046.webp"
@@ -33365,7 +33365,7 @@
   },
   {
     "displayName": "cyber punk",
-    "langName": "cyberpunk",
+    "langName": "سايبر بانك",
     "object": "أسلوب الفن",
     "attribute": "الخيال العلمي",
     "preview": "https://img.aishort.top/imgprompt/20260225020411708.webp"
@@ -33393,7 +33393,7 @@
   },
   {
     "displayName": "ww3 style",
-    "langName": "أسلوب ww3",
+    "langName": "أسلوب الحرب العالمية الثالثة",
     "object": "أسلوب الفن",
     "attribute": "الخيال العلمي",
     "preview": "https://img.aishort.top/imgprompt/20260225020500212.webp"
@@ -33498,7 +33498,7 @@
   },
   {
     "displayName": "rebecca (cyberpunk)",
-    "langName": "com.edgewalker",
+    "langName": "إيدج رانرز",
     "object": "أسلوب الفن",
     "attribute": "ثقافة فرعية",
     "preview": "https://img.aishort.top/imgprompt/20260225020803589.webp"
@@ -33512,7 +33512,7 @@
   },
   {
     "displayName": "synthwave",
-    "langName": "vaporwave",
+    "langName": "سينثويف",
     "object": "أسلوب الفن",
     "attribute": "ثقافة فرعية",
     "preview": "https://img.aishort.top/imgprompt/20260225020828104.webp"
@@ -33624,14 +33624,14 @@
   },
   {
     "displayName": "column lineup",
-    "langName": "سلسلة من الصور الصغيرة تشكل صورة كبيرة",
+    "langName": "تنسيق الأعمدة المتعددة",
     "object": "أسلوب الفن",
     "attribute": "منشورات",
     "preview": "https://img.aishort.top/imgprompt/20260225021130372.webp"
   },
   {
     "displayName": "zoom layer",
-    "langName": "الخلفية هي نسخة مكبرة من المقدمة",
+    "langName": "طبقة تكبير الخلفية",
     "object": "أسلوب الفن",
     "attribute": "منشورات",
     "preview": "https://img.aishort.top/imgprompt/20260225021142834.webp"
@@ -33680,7 +33680,7 @@
   },
   {
     "displayName": "highres",
-    "langName": "إمباستو (أسلوب)",
+    "langName": "نمط الرسم الرقمي الكثيف",
     "object": "أسلوب الفن",
     "attribute": "الفن الرقمي",
     "preview": "https://img.aishort.top/imgprompt/20260225021323241.webp"
@@ -33743,7 +33743,7 @@
   },
   {
     "displayName": "Mini",
-    "langName": "mini",
+    "langName": "مصغر",
     "object": "معالجة لاحقة",
     "attribute": "حجم اللقطة",
     "preview": "https://img.aishort.top/imgprompt/20260225021513495.webp"
@@ -34233,7 +34233,7 @@
   },
   {
     "displayName": "Sabattier Effect",
-    "langName": "يوفر حواف ناعمة وغير واضحة وتظليل الألوان",
+    "langName": "تأثير ساباتير (السولاريزيشن)",
     "object": "معالجة لاحقة",
     "attribute": "معالجة الصور",
     "preview": "https://img.aishort.top/imgprompt/20260225022949265.webp"
@@ -34268,7 +34268,7 @@
   },
   {
     "displayName": "Harris Shutter",
-    "langName": "الغالق السريع (حركة/إضاءة منخفضة)",
+    "langName": "تأثير غالق هاريس",
     "object": "معالجة لاحقة",
     "attribute": "معالجة الصور",
     "description": "يلتقط الأجسام سريعة الحركة أو يحافظ على وضوح الصورة في بيئات الإضاءة المنخفضة",
@@ -34509,7 +34509,7 @@
   },
   {
     "displayName": "35mm film photography,warm vintage Japanese onsen ryokan aesthetic,soft ambient wooden lantern lighting mixed with gentle natural window light,subtle film grain,gentle color shift,high atmosphere editorial style,intimate medium shot,early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features,seductive almond-shaped fox eyes with natural double eyelids,high nose bridge,small sharp V-shaped jawline,flawless porcelain skin with warm ivory undertone,visible subtle skin texture and micro pores,soft natural makeup with dewy glow,subtle rosy flush on cheeks,natural soft pink lips slightly parted,long dark brown hair tied in a loose low bun with some messy strands falling around face and neck,wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist,the fabric slightly open revealing smooth skin and subtle cleavage,barefoot,seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan,body slightly turned toward the camera,one leg bent with foot resting on the wooden floor,the other leg gently dangling,one hand lightly holding the yukata collar,the other hand resting on the wooden floor behind her for support,softly arched back to gently accentuate curves,intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth,warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus,gentle rim lighting highlighting skin and fabric texture,authentic vintage film color grading with warm tones,extremely sharp yet soft skin rendering,natural hair strands,realistic fabric wrinkles and drape on the yukata,no plastic skin,no digital over-sharpening,no airbrushing,no blemishes,no moles,no oily skin,no watermark,no text,authentic 35mm film Japanese onsen ryokan atmosphere",
-    "langName": "صورة Ryokan Onsen ياباني",
+    "langName": "جلسة تصوير نزل ينابيع حارة ياباني",
     "object": "معرض",
     "attribute": "صورة شخصية",
     "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
@@ -34565,7 +34565,7 @@
   },
   {
     "displayName": "\"Sam Altman on a skateboard at a skatepark with no people.\"",
-    "langName": "صورة Sam Altman في حديقة التزلج",
+    "langName": "صورة سام ألتمان في حديقة التزلج",
     "object": "معرض",
     "attribute": "صورة شخصية",
     "description": "by @Malek1173989 (https://x.com/Malek1173989)",
@@ -34645,7 +34645,7 @@
   },
   {
     "displayName": "generate image: Selfie of Sam Altman riding a bear\n\nEdit prompt: Remove the background make it transparent",
-    "langName": "سيلفي دب Sam Altman",
+    "langName": "سيلفي سام ألتمان مع الدب",
     "object": "معرض",
     "attribute": "صورة شخصية",
     "description": "by @JustinGorya (https://x.com/JustinGorya)",
@@ -34653,7 +34653,7 @@
   },
   {
     "displayName": "サムアルトマンがメジャーリーガーでバットを構えている。よくあるようなテレビ画面の構図",
-    "langName": "بث بيسبول Sam Altman",
+    "langName": "بث مباراة بيسبول لسام ألتمان",
     "object": "معرض",
     "attribute": "صورة شخصية",
     "description": "by @16kthir0GRXgNqn (https://x.com/16kthir0GRXgNqn)",
@@ -34703,7 +34703,7 @@
   },
   {
     "displayName": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space,a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve,gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline,Beacon Hill brownstones,Acorn Street,Boston Public Garden,Swan Boats,Zakim Bridge,Fenway-inspired details,historic brick architecture,harbor ferries,and the city’s waterfront atmosphere. Soft morning fog,golden spring light,subtle festive accents in crimson and gold,rich detail,layered depth,sophisticated city-poster aesthetics,fresh and refined,visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON,A CITY OF RIVER,MEMORY,AND INVENTION”,text clear and beautifully composed,premium graphic design,9:16",
-    "langName": "ملصق مدينة Boston ربيع 2026",
+    "langName": "ملصق مدينة بوسطن ربيع 2026",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
@@ -34711,7 +34711,7 @@
   },
   {
     "displayName": "Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast,Italy,panoramic coastal cliff road scene,classic 1960s white car driving along a curved seaside road,deep blue Mediterranean sea with small sailboats,colorful pastel hillside village,bright blue sky with soft clouds,lemon tree branches with vibrant yellow lemons framing the foreground,warm summer sunlight,bold vibrant colors,retro 1950s travel poster style,cinematic composition,high detail,screen print texture,graphic illustration. Hand-drawn style,illustration with loose strokes and defined contours. High-contrast color palette,maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.",
-    "langName": "ملصق سفر عتيق Amalfi",
+    "langName": "ملصق سفر كلاسيكي لساحل أمالفي",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @WolfRiccardo (https://x.com/WolfRiccardo)",
@@ -34719,7 +34719,7 @@
   },
   {
     "displayName": "一张手绘风格的城市美食地图,以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底,标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等,每个插画约占地图的 5% 面积,旁边用手写体标注店名和一句推荐语\"凌晨两点还在排队的那家\"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题\"成都·吃货暴走地图\"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感,颜色以暖色系（辣椒红、姜黄、翠绿）为主,图片比例 1:1。",
-    "langName": "رسم توضيحي لخريطة طعام Chengdu",
+    "langName": "خريطة مرسومة لأطعمة تشنغدو",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @Panda20230902 (https://x.com/Panda20230902)",
@@ -34734,8 +34734,8 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151157243.webp"
   },
   {
-    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑(广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
-    "langName": "ملصق مدينة غوانغتشو ربيع 2026",
+    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑（广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
+    "langName": "ملصق مدينة قوانغتشو ربيع 2026",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34743,7 +34743,7 @@
   },
   {
     "displayName": "以涂鸦速写风表现【一个厉害的AI builder】,整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一,略显凌乱但具有节奏和表现力,强调概括、夸张、趣味和随性,而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现,可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感,色彩根据【主题/主体】自动适配,但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果,不要细腻水彩过渡,不要纸纹理,不要柔和雾化,不要梦幻质感。  背景以留白为主,保持简洁、轻松、未完成感和设计感,可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素,以增强速写本或随笔式视觉语言,但不可过于拥挤,不可破坏主体和留白气质。  画面内容不需要预先写清楚,由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景,整体保持统一的涂鸦速写风和夸张概括的表现方式,避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“BlanPlan”,作为画面的一部分,位置低调但清晰,可放在左下角、右下角或标题附近,风格需与整体版式统一,像作品署名或设计落款；签名字体精致、克制、高级,不可过大,不可破坏主体构图,不可显得突兀或廉价。",
-    "langName": "رسم خربشة AI Builder",
+    "langName": "رسم تخطيطي لمنشئ الذكاء الاصطناعي",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @blanplan (https://x.com/blanplan)",
@@ -34759,7 +34759,7 @@
   },
   {
     "displayName": "小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて",
-    "langName": "أسلوب ملصق Super Famicom",
+    "langName": "ملصق بأسلوب سوبر فاميكوم (SNES)",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @lilimliliychan (https://x.com/lilimliliychan)",
@@ -34775,7 +34775,7 @@
   },
   {
     "displayName": "一幅超现实主义数字插画风格,采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中,四周环绕着色彩鲜艳的星云与气泡。画面中央还站着一个小人,背对观众,神情平静地仰望空中这条巨大的锦鲤,锦鲤头向下看着小人。整体画面呈现出强烈的大小对比,氛围空灵又梦幻。比例9:16",
-    "langName": "رسم توضيحي سريالي لسديم Koi",
+    "langName": "رسم توضيحي سريالي لسديم سمكة الكوي",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34783,7 +34783,7 @@
   },
   {
     "displayName": "纯黑深邃底色,一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端,构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟,内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列,前景有白鹤与湖面,远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀,东方美学与现代意象交融,8K 超高清渲染,比例 9:16。",
-    "langName": "ملصق جماليات Guangzhou بمنحنيات حبر",
+    "langName": "ملصق جماليات قوانغتشو بمنحنيات حبر",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34791,7 +34791,7 @@
   },
   {
     "displayName": "广东省城市足球超级联赛（粤超）邀请函海报设计,比例 9:16。S 型流动构图,以发光足球和动态能量流贯穿画面,沿动线融合广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑、佛山武术剪影、中山文化符号、潮汕英歌舞与清远山水。现代国潮高级海报风格,中国红主视觉,青蓝辅助,金色高光,带完整中文排版与电影级光影。",
-    "langName": "ملصق دعوة دوري Guangdong الممتاز",
+    "langName": "ملصق دعوة دوري قوانغدونغ الممتاز",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34799,7 +34799,7 @@
   },
   {
     "displayName": "一张充满新春喜庆但高雅的 2026 广州城市宣传海报,9:16 竖版,双重曝光,S 型流动构图。纯白纹理背景,右下角微缩传统服饰人物挥舞长红绸,红绸变形成山脉河流,内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。",
-    "langName": "ملصق ترويجي Guangzhou ربيع 2026",
+    "langName": "ملصق ترويجي لقوانغتشو ربيع 2026",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @grok (https://x.com/grok)",
@@ -34815,7 +34815,7 @@
   },
   {
     "displayName": "极简主义,新中式风格立体图形设计,图像下端有楷体中国文字：“东方美学”,“2026/04/18”,署名 “CHINA”,和“@LIYUE\"；\n平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画,不规则的撕纸效果；\n中国的神兽：穷奇,身形图案完整,美轮美奂,线条柔美灵动,眼睛炯炯有神,威严的神态,优雅的姿势,奢华装饰艺术,中国传统纹饰；\n荧光蓝色线条,0.5mm极细金色金属质感勾边,泼白墨大笔触,色彩渲染,红底,蓝色的浪漫诗意视觉；\n冷暖光交织的梦幻唯美场景,强烈的光影对比氛围,花轻舞的时光叙事,东风禅意,画面有大面积留白,框架构图,底部留白,细节清晰。",
-    "langName": "ملصق جماليات شرقية Qiongqi",
+    "langName": "ملصق جماليات شرقية لكائن تشيونغتشي",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34823,7 +34823,7 @@
   },
   {
     "displayName": "以珠江新城现代都市景观为灵感的剪纸艺术,通过精巧的镂空手法在一整幅纸上,立体刻画广州塔、东西双塔等地标建筑与繁华城景。\n所有建筑与元素均以流畅的线条与结构相连,无孤立部分,构成一幅完整的都市画卷。\n画面采用金属箔或光泽纸材质,表面带有细腻的明暗光泽,在光照下呈现柔和的高光与阴影,仿佛被城市灯光轻轻照亮。\n背景以虚化的珠江新城天际线为衬,点缀隐约可见的花城广场与树木轮廓,整体透出现代浪漫的氛围。\n作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点,象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉,细节丰富,真实而富有艺术感染力。",
-    "langName": "ملصق مدينة Guangzhou بتقنية قص الورق",
+    "langName": "ملصق مدينة قوانغتشو بتقنية قص الورق",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34879,7 +34879,7 @@
   },
   {
     "displayName": "以涂鸦速写风表现【一个厉害的AI builder】。",
-    "langName": "رسم AI Builder",
+    "langName": "رسم تخطيطي لمنشئ الذكاء الاصطناعي",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @opc_8838 (https://x.com/opc_8838)",
@@ -34919,7 +34919,7 @@
   },
   {
     "displayName": "平面插画,东方幻想风格高端城市海报设计,竖版9:16构图,整体采用对角线+S型流动构图,从左下向右上延展,画面以深邃黑色为背景,自上而下渐变至浓烈暗红色,形成强烈冷暖对比与空间纵深,背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿,自底部向上延伸,具有流体质感、粒子光效与渐变高光,局部带细微能量碎屑与体积光。\n\n金色流光中逐层浮现广州城市地标建筑群:广州塔为视觉核心,比例突出,周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素,建筑采用“精细线描 + 金色发光体块”表现,轮廓清晰、细节丰富,在金色光晕映衬下仿佛悬浮于虚空,形成超现实空间层次,远景轻微雾化增强纵深感。\n\n画面底部为一位东方白发女性形象,长发飘逸,如烟似雾,与金色流光自然衔接并逐渐融合,发丝半透明带渐变光感,姿态柔美,双目微闭,神情宁静,怀抱一束多彩鲜花,花间点缀微光粒子与星点效果,象征人与城市能量的精神连接,人物细节适度简化以突出整体设计感。\n\n光影集中于金色流线、建筑与人物轮廓,形成强烈明暗对比与视觉聚焦,整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底,高亮鎏金为主视觉强调,金色具备丰富明暗层次,辅以小面积高饱和花束色彩点缀,整体高级克制。\n\n页面文字与画面融合排版:顶部居中宋体大字“广州·中国”,下方小字“2026/04/20”,再下方小字“LIYUE”,文字采用淡金色或柔和暖白色,与整体光影统一。高品质细节,电影级光影表现,体积光与粒子细节丰富,画面干净无噪点,超高清8K分辨率,商业级海报质感。",
-    "langName": "ملصق مدينة Guangzhou الخيالي المظلم",
+    "langName": "ملصق مدينة قوانغتشو الخيالي المظلم",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34951,7 +34951,7 @@
   },
   {
     "displayName": "A refined 2026 Silicon Valley city promotional poster with a futuristic yet elegant atmosphere.\n\nDouble exposure composition,preserving an S-shaped sense of flowing movement. On a pure white textured background,in the lower-right corner,a miniature figure dressed in sleek modern techwear is releasing a long ribbon of luminous silver-blue light. The ribbon flows gracefully through the air,showing a soft silk-like texture,and as it drifts toward the upper-left,it magically transforms into a grand landscape of rolling hills,coastline,data streams,and illuminated urban terrain.\n\nWithin this flowing “river of light,” overlay a hand-drawn panoramic map of Silicon Valley,blending technology,nature,innovation,and California sunlight. The scene feels visionary,expansive,sophisticated,and inspiring.\n\nInclude iconic Silicon Valley and Bay Area elements: Stanford University arches,Apple Park,Google campus-inspired buildings,Meta-like glass offices,Tesla-style innovation imagery,venture capital offices on Sand Hill Road,Palo Alto tree-lined streets,San Jose skyline,the Santa Cruz Mountains,San Francisco Bay,highways,autonomous vehicles,startup labs,semiconductor patterns,AI data centers,and subtle circuit-board textures.\n\nSurrounded by soft mist,golden California light,floating clouds,and delicate digital particles. Rich colors,complex structure,highly detailed,grand and breathtaking,yet still fresh and minimal because of the large areas of white space.\n\nIn the lower-left corner,elegant typography reads “SILICON VALLEY 2026” with a vertical promotional slogan: “Where Ideas Shape Tomorrow.” Beautiful editorial layout,graceful spacing,clear and complete lettering,premium city branding poster,cinematic lighting,sophisticated details,9:16 aspect ratio.",
-    "langName": "ملصق ترويجي Silicon Valley 2026",
+    "langName": "ملصق ترويجي لوادي السيليكون 2026",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @carsonyungos (https://x.com/carsonyungos)",
@@ -34999,7 +34999,7 @@
   },
   {
     "displayName": "360 equirectangular image of Istiklal Street,Istanbul in 1900",
-    "langName": "موجه بانوراما شارع Istiklal 1900",
+    "langName": "موجه بانوراما شارع الاستقلال 1900",
     "object": "معرض",
     "attribute": "ملصق",
     "description": "by @ai_gezgini (https://x.com/ai_gezgini)",
@@ -35111,7 +35111,7 @@
   },
   {
     "displayName": "最新モデルの画像生成ツールを使用して、\nこのちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）\nギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。\n\n「ここに自己紹介」\n\n名前:（ここに名前） \nイメージカラー:（ここに色） \n身長:（ここに身長）cm \n体重:（ここに体重）kg\nキャッチコピー:”「ここにセリフ」”",
-    "langName": "صفحة تقديم شخصية Gal Game",
+    "langName": "صفحة تقديم شخصية لعبة مواعدة (غال غيم)",
     "object": "معرض",
     "attribute": "شخصية",
     "description": "by @09lyco (https://x.com/09lyco)",
@@ -35119,7 +35119,7 @@
   },
   {
     "displayName": "このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 \n・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 \n・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる \n・全体は整理されたレイアウト\n（白背景、図解風） \n・アスペクト比16：9\n\n高解像度、プロのコンセプトアートスタイル",
-    "langName": "ورقة شخصية رسمية (JP)",
+    "langName": "ورقة إعدادات الشخصية الرسمية (النمط الياباني)",
     "object": "معرض",
     "attribute": "شخصية",
     "description": "by @Toshi_nyaruo_AI (https://x.com/Toshi_nyaruo_AI)",
@@ -35135,7 +35135,7 @@
   },
   {
     "displayName": "生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片,每张卡牌上写上对应的中文名,每行4个,宽高比16:9。",
-    "langName": "شبكة بطاقات القديسين الذهبيين Saint Seiya",
+    "langName": "شبكة بطاقات القديسين الذهبيين (سانت سيا)",
     "object": "معرض",
     "attribute": "شخصية",
     "description": "by @songguoxiansen (https://x.com/songguoxiansen)",
@@ -35159,7 +35159,7 @@
   },
   {
     "displayName": "Amateur iPhone photo at Apple Park during the iPhone 20 keynote,Tim Cook presenting on stage. Shot from the crowd at a distance",
-    "langName": "صورة هاتف iPhone Keynote هاوي",
+    "langName": "لقطة كينوت آيفون غير احترافية",
     "object": "معرض",
     "attribute": "واجهة",
     "description": "by @patrickassale (https://x.com/patrickassale)",
@@ -35175,7 +35175,7 @@
   },
   {
     "displayName": "\"宋朝人的朋友圈\"/\"SONG DYNASTY SOCIAL MEDIA FEED\",古今穿越幽默融合界面设计风格,画面模拟手机社交媒体界面,但内容全部是宋朝场景头像是宋代文人画像,用户名\"苏东坡SuShi_Official\",发布内容\"刚到黄州,被贬了但心情还行。今天自己做了东坡肉,味道绝了,附菜谱：\",配图为工笔画风格的东坡肉特写,点赞列表\"黄庭坚、秦观、佛印等126人\",评论区\"王安石：呵呵\"\"司马光：还是那个味道\",界面元素如点赞图标用宋代花纹替代,状态栏显示\"大宋移动 5G\"和\"元丰三年\",配色为手机深色模式搭配宋代雅致色调,历史与社交媒体的趣味碰撞杰作",
-    "langName": "تغذية التواصل الاجتماعي لأسرة Song",
+    "langName": "يوميات أسرة سونغ على وسائل التواصل",
     "object": "معرض",
     "attribute": "واجهة",
     "description": "by @Panda20230902 (https://x.com/Panda20230902)",
@@ -35191,7 +35191,7 @@
   },
   {
     "displayName": "9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊！",
-    "langName": "لقطة بث Douyin المباشر Liu Yifei",
+    "langName": "لقطة شاشة بث ليو ييفي على تيك توك / دوين",
     "object": "معرض",
     "attribute": "واجهة",
     "description": "by @alanblogsooo (https://x.com/alanblogsooo)",
@@ -35199,7 +35199,7 @@
   },
   {
     "displayName": "태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.",
-    "langName": "صفحة X الملك Taejo Yi Seong-gye",
+    "langName": "صفحة إكس للملك تايجو إي سونغ غي",
     "object": "معرض",
     "attribute": "واجهة",
     "description": "by @SKA_Neotype (https://x.com/SKA_Neotype)",
@@ -35215,7 +35215,7 @@
   },
   {
     "displayName": "「いらすとや」のほのぼのとした雰囲気と、「霞ヶ関スライド」の圧倒的な情報密度を融合させた、桃太郎の解説スライド（ポンチ絵）を作成して",
-    "langName": "شريحة شرح Momotaro",
+    "langName": "شريحة شرح حكاية موموتارو",
     "object": "معرض",
     "attribute": "واجهة",
     "description": "by @yammamon (https://x.com/yammamon)",
@@ -35223,7 +35223,7 @@
   },
   {
     "displayName": "请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。\n\n要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构,用户无需再提供其他信息。\n\n整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图,而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感,整体高级、克制、专业、可收藏。\n\n版式固定为：\n- 顶部：中文主标题 + 副标题 + 导语\n- 左侧：结构拆解区,中文引线标注关键部件,并配局部特写\n- 右上：材质 / 工艺 / 质感区,展示真实纹理小样并附说明\n- 右中：纹样 / 色彩 / 寓意区,展示主色板、纹样样本和文化解释\n- 底部：穿着顺序 / 构成流程图 + 核心特征总结\n\n若主题适合人物展示,则以真实人物全身站姿为中央主体；若更适合器物或单体结构,则改为中心主体拆解图,但整体仍保持完整中文信息图形式。所有文字必须为简体中文,清晰、规整、可读,不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。\n\n避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。",
-    "langName": "إنفوغرافيك تحليل Hanfu بأسلوب متحفي",
+    "langName": "إنفوغرافيك متحفي لتحليل أزياء الهانفو",
     "object": "معرض",
     "attribute": "واجهة",
     "description": "by @MrLarus (https://x.com/MrLarus)",
@@ -35231,7 +35231,7 @@
   },
   {
     "displayName": "この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。",
-    "langName": "شاشة حالة RPG ياباني",
+    "langName": "شاشة حالة لعبة تقمص الأدوار (RPG)",
     "object": "معرض",
     "attribute": "واجهة",
     "description": "by @Kashiko_AIart (https://x.com/Kashiko_AIart)",
@@ -35239,7 +35239,7 @@
   },
   {
     "displayName": "玄武门之变的朋友圈",
-    "langName": "تغذية اجتماعية لبوابة Xuanwu",
+    "langName": "تحديثات بوابة شوانوو الاجتماعية",
     "object": "معرض",
     "attribute": "واجهة",
     "description": "by @Tz_2022 (https://x.com/Tz_2022)",
@@ -35263,7 +35263,7 @@
   },
   {
     "displayName": "生成一张慈禧的X主页",
-    "langName": "صفحة X الإمبراطورة الأرملة Cixi",
+    "langName": "صفحة إكس للإمبراطورة الأرملة تسيشي",
     "object": "معرض",
     "attribute": "واجهة",
     "description": "by @Cryptohaifeng_ (https://x.com/Cryptohaifeng_)",
@@ -35287,7 +35287,7 @@
   },
   {
     "displayName": "GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください",
-    "langName": "ملصق بوب ترويجي Don Quijote",
+    "langName": "ملصق إعلاني يدوي بأسلوب دون كيشوت",
     "object": "معرض",
     "attribute": "واجهة",
     "description": "by @loglogrog (https://x.com/loglogrog)",
@@ -35295,7 +35295,7 @@
   },
   {
     "displayName": "日本のソシャゲのガチャ画面を生成して、",
-    "langName": "شاشة لعبة Gacha اليابانية",
+    "langName": "شاشة لعبة غاتشا يابانية",
     "object": "معرض",
     "attribute": "واجهة",
     "description": "by @the_wheel_2024 (https://x.com/the_wheel_2024)",
@@ -35303,7 +35303,7 @@
   },
   {
     "displayName": "A 9:16 vertical version,high-detail realistic style Chinese TikTok live screenshot,Elon Musk is talking to the mobile phone camera in the live broadcast room,excited,smiling,and the live atmosphere is warm and real. He held a white handwritten sign in one hand,which clearly said: \"Thank you Shinning\". There are obvious Chinese TikTok interface elements in the live broadcast screen,including likes,comments and share icons arranged vertically on the right,scrolling Chinese bullet screens and interactive comments below,and the \"live broadcast\" logo at the top,which looks like a real mobile phone screenshot. There is an eye-catching gift prompt special effect in the screen: \"Shinning sent TikTok No. 1\",with gift animation light effect and platform-style prompt box. Musk is in a professional live broadcast environment,with a mobile phone holder,a ring fill light and a desktop microphone in front of him. The background is a modern technology live broadcast room with bright lights and a slight neon atmosphere. The composition is real and natural,like the ongoing live screenshot of the Chinese short video platform. The interface information is rich but not messy,the characters are clear,the expression is vivid,the details are rich,the sense of real photography,the depth of field,high definition,cinematic,photorealistic,realistic livestream screenshot,social media UI,Chinese Douyin live room,detailed lighting,natural skin texture.\n\nNegative prompts:\n\nLow definition,blur,cartoon,illustration,too strong CG sense,two-dimensional,deformed fingers,wrong text,scrambled code,multiple mobile phones,multiple brands,character repetition,face collapse,facial features distortion,excessive skin polishing,overexposure,too dark,messy background,wrong UI,non-Chinese short video interface,too many English bullet screens,gift special effects are not obvious,cropping error,proportional error\n\nSupplementary reinforcement words:\n\nReal mobile phone screen recording screenshot feeling,the live broadcast UI is complete,the gift prompt box conforms to the style of the Chinese short video platform,the Chinese comment area is active,the number of people online in the live broadcast room is clearly displayed,and the time,power and signal bar are visible.",
-    "langName": "لقطة بث Douyin المباشر Elon Musk",
+    "langName": "لقطة شاشة بث إيلون ماسك على تيك توك / دوين",
     "object": "معرض",
     "attribute": "واجهة",
     "description": "by @Shinning1010 (https://x.com/Shinning1010)",
@@ -35311,7 +35311,7 @@
   },
   {
     "displayName": "9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊!",
-    "langName": "لقطة بث Douyin المباشر Liu Yifei",
+    "langName": "لقطة شاشة بث ليو ييفي على تيك توك / دوين",
     "object": "معرض",
     "attribute": "واجهة",
     "description": "by @kylegeeks (https://x.com/kylegeeks)",
@@ -35327,7 +35327,7 @@
   },
   {
     "displayName": "1、生成特朗普和金正恩在抖音直播间打PK的截图  \n2、生成不知火舞的小红书主页截图  \n3、生成图片: 手写在教室黑板上的出师表全文,真实感的粉笔字迹,晴朗白天用iPhone手机实拍  \n4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图,产品价格,产品细节,功能和使用场景等",
-    "langName": "لقطة بث مباشر PK Trump و Kim",
+    "langName": "مواجهة بث مباشر بين ترامب وكيم",
     "object": "معرض",
     "attribute": "واجهة",
     "description": "by @alanlovelq (https://x.com/alanlovelq)",

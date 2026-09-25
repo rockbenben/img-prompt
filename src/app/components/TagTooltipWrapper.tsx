@@ -25,7 +25,7 @@ const TooltipBody: FC<{ tag: TagItem; onPreviewOpenChange: (v: boolean) => void 
       {tag.preview && (
         <AntdImage
           src={tag.preview}
-          alt={tag.displayName}
+          alt={tag.langName || tag.displayName}
           width={200}
           className="rounded mb-2"
           preview={{ mask: "🔍", onOpenChange: onPreviewOpenChange }}

@@ -435,7 +435,7 @@
   },
   {
     "displayName": "cleric",
-    "langName": "성직자 (기독교)",
+    "langName": "성직자 / 클레릭",
     "object": "캐릭터",
     "attribute": "신원",
     "preview": "https://img.aishort.top/imgprompt/20260208072159895.webp"
@@ -534,21 +534,21 @@
   },
   {
     "displayName": "crossdressing",
-    "langName": "트랜스베스타이트 (자신의 성 정체성과 일치하지 않는 옷을 입는 사람)",
+    "langName": "크로스드레싱",
     "object": "캐릭터",
     "attribute": "신원",
     "preview": "https://img.aishort.top/imgprompt/20260209061704193.webp"
   },
   {
     "displayName": "otoko_no_ko",
-    "langName": "트랜스베스타이트 (여성적 특징을 지닌 것처럼 보이는 남자)",
+    "langName": "오토코노코",
     "object": "캐릭터",
     "attribute": "신원",
     "preview": "https://img.aishort.top/imgprompt/20260208074725601.webp"
   },
   {
     "displayName": "gyaru",
-    "langName": "핫걸 (일본여자)",
+    "langName": "갸루",
     "object": "캐릭터",
     "attribute": "신원",
     "preview": "https://img.aishort.top/imgprompt/20260210193812753.webp"
@@ -562,14 +562,14 @@
   },
   {
     "displayName": "yaoi",
-    "langName": "게이가 되세요",
+    "langName": "야오이 / BL",
     "object": "캐릭터",
     "attribute": "신원",
     "preview": "https://img.aishort.top/imgprompt/20260208074725603.webp"
   },
   {
     "displayName": "yuri",
-    "langName": "백합",
+    "langName": "백합 / GL",
     "object": "캐릭터",
     "attribute": "신원",
     "preview": "https://img.aishort.top/imgprompt/20260209061704191.webp"
@@ -646,7 +646,7 @@
   },
   {
     "displayName": "mazinger",
-    "langName": "원더우먼",
+    "langName": "마징가 Z",
     "object": "캐릭터",
     "attribute": "애니메이션",
     "preview": "https://img.aishort.top/imgprompt/20260210072537640.webp"
@@ -772,7 +772,7 @@
   },
   {
     "displayName": "elf",
-    "langName": "고블린",
+    "langName": "엘프",
     "object": "캐릭터",
     "attribute": "애니메이션",
     "preview": "https://img.aishort.top/imgprompt/20260209063126234.webp"
@@ -786,7 +786,7 @@
   },
   {
     "displayName": "fairy",
-    "langName": "꼬마 요정",
+    "langName": "요정",
     "object": "캐릭터",
     "attribute": "애니메이션",
     "preview": "https://img.aishort.top/imgprompt/20260209063141969.webp"
@@ -828,14 +828,14 @@
   },
   {
     "displayName": "monster_girl",
-    "langName": "외국인의 어머니",
+    "langName": "몬스터 걸 / 인외소녀",
     "object": "캐릭터",
     "attribute": "애니메이션",
     "preview": "https://img.aishort.top/imgprompt/20260209063226407.webp"
   },
   {
     "displayName": "dominatrix",
-    "langName": "퀸 (SM 미디엄)",
+    "langName": "도미나트릭스",
     "object": "캐릭터",
     "attribute": "애니메이션",
     "preview": "https://img.aishort.top/imgprompt/20260209063233422.webp"
@@ -940,7 +940,7 @@
   },
   {
     "displayName": "kyuubi",
-    "langName": "구미호 | 구미호",
+    "langName": "구미호",
     "object": "캐릭터",
     "attribute": "애니메이션",
     "preview": "https://img.aishort.top/imgprompt/20260209063421396.webp"
@@ -968,21 +968,21 @@
   },
   {
     "displayName": "horse_girl",
-    "langName": "마 니앙",
+    "langName": "우마무스메",
     "object": "캐릭터",
     "attribute": "애니메이션",
     "preview": "https://img.aishort.top/imgprompt/20260210072537637.webp"
   },
   {
     "displayName": "furry",
-    "langName": "오크",
+    "langName": "수인 / 퍼리",
     "object": "캐릭터",
     "attribute": "애니메이션",
     "preview": "https://img.aishort.top/imgprompt/20260210072537632.webp"
   },
   {
     "displayName": "furry/orc",
-    "langName": "오크/오크",
+    "langName": "수인 / 오크",
     "object": "캐릭터",
     "attribute": "애니메이션",
     "preview": "https://img.aishort.top/imgprompt/20260210072537646.webp"
@@ -1010,14 +1010,14 @@
   },
   {
     "displayName": "mesugaki",
-    "langName": "여성 임프",
+    "langName": "메스가키",
     "object": "캐릭터",
     "attribute": "애니메이션",
     "preview": "https://img.aishort.top/imgprompt/20260210072537644.webp"
   },
   {
     "displayName": "santa alter",
-    "langName": "산타클로스",
+    "langName": "산타 얼터",
     "object": "캐릭터",
     "attribute": "애니메이션",
     "preview": "https://img.aishort.top/imgprompt/20260210072537639.webp"
@@ -1052,7 +1052,7 @@
   },
   {
     "displayName": "kindergartener",
-    "langName": "유치원",
+    "langName": "유치원생",
     "object": "캐릭터",
     "attribute": "나이",
     "preview": "https://img.aishort.top/imgprompt/20260210192804244.webp"
@@ -1073,14 +1073,14 @@
   },
   {
     "displayName": "early teen",
-    "langName": "초기 청소년기 (11-15 세)",
+    "langName": "초기 청소년",
     "object": "캐릭터",
     "attribute": "나이",
     "preview": "https://img.aishort.top/imgprompt/20260210192804238.webp"
   },
   {
     "displayName": "teenager",
-    "langName": "10 대 (13-19)",
+    "langName": "청소년",
     "object": "캐릭터",
     "attribute": "나이",
     "preview": "https://img.aishort.top/imgprompt/20260210192804240.webp"
@@ -1129,7 +1129,7 @@
   },
   {
     "displayName": "pale_skin",
-    "langName": "창백한 피부 (어둡거나 밝은 색상의 옷에 적합)",
+    "langName": "창백한 피부",
     "object": "캐릭터",
     "attribute": "피부",
     "preview": "https://img.aishort.top/imgprompt/20260210193300398.webp"
@@ -1192,7 +1192,7 @@
   },
   {
     "displayName": "tanlines",
-    "langName": "태양 손상",
+    "langName": "선탠 자국",
     "object": "캐릭터",
     "attribute": "피부",
     "preview": "https://img.aishort.top/imgprompt/20260210193621164.webp"
@@ -1318,7 +1318,7 @@
   },
   {
     "displayName": "(cleavage visible,large breasts)",
-    "langName": "큰 가슴 (가슴이 터짐)",
+    "langName": "거유 (가슴골 노출)",
     "object": "캐릭터",
     "attribute": "체형",
     "preview": "https://img.aishort.top/imgprompt/20260211065136926.webp"
@@ -1773,7 +1773,7 @@
   },
   {
     "displayName": "braid",
-    "langName": "드리다",
+    "langName": "땋은 머리",
     "object": "캐릭터",
     "attribute": "헤어스타일",
     "preview": "https://img.aishort.top/imgprompt/20260211134226393.webp"
@@ -1955,7 +1955,7 @@
   },
   {
     "displayName": "blunt bangs",
-    "langName": "기 앞머리",
+    "langName": "일자 앞머리",
     "object": "캐릭터",
     "attribute": "헤어스타일",
     "preview": "https://img.aishort.top/imgprompt/20260211134928539.webp"
@@ -1976,7 +1976,7 @@
   },
   {
     "displayName": "air bangs",
-    "langName": "에어뱅스",
+    "langName": "시스루 뱅",
     "object": "캐릭터",
     "attribute": "헤어스타일",
     "preview": "https://img.aishort.top/imgprompt/20260211135006710.webp"
@@ -2081,7 +2081,7 @@
   },
   {
     "displayName": "ahoge",
-    "langName": "멍청한",
+    "langName": "바보털",
     "object": "캐릭터",
     "attribute": "헤어스타일",
     "preview": "https://img.aishort.top/imgprompt/20260211135331864.webp"
@@ -2214,7 +2214,7 @@
   },
   {
     "displayName": "mole",
-    "langName": "두더지",
+    "langName": "점",
     "object": "캐릭터",
     "attribute": "얼굴",
     "preview": "https://img.aishort.top/imgprompt/20260317125729198.webp"
@@ -2683,7 +2683,7 @@
   },
   {
     "displayName": "horns",
-    "langName": "어느 한 쪽",
+    "langName": "뿔",
     "object": "캐릭터",
     "attribute": "귀",
     "preview": "https://img.aishort.top/imgprompt/20260211141232894.webp"
@@ -2767,7 +2767,7 @@
   },
   {
     "displayName": "eye_relfection",
-    "langName": "안구 반사 (동공의 빛에 대한 반응)",
+    "langName": "동공 반사광",
     "object": "캐릭터",
     "attribute": "눈",
     "preview": "https://img.aishort.top/imgprompt/20260211141526968.webp"
@@ -2963,14 +2963,14 @@
   },
   {
     "displayName": "solid circle eyes",
-    "langName": "chắc chắn 한 둥근 눈",
+    "langName": "단색 원형 눈",
     "object": "캐릭터",
     "attribute": "눈",
     "preview": "https://img.aishort.top/imgprompt/20260211142226361.webp"
   },
   {
     "displayName": "solid_oval_eyes",
-    "langName": "Q 버전 솔리드 타원형 눈",
+    "langName": "치비 타원형 눈",
     "object": "캐릭터",
     "attribute": "눈",
     "preview": "https://img.aishort.top/imgprompt/20260211142239019.webp"
@@ -2984,7 +2984,7 @@
   },
   {
     "displayName": "blush_stickers",
-    "langName": "Q 버전 블러쉬 스티커",
+    "langName": "치비 볼터치 스티커",
     "object": "캐릭터",
     "attribute": "눈",
     "preview": "https://img.aishort.top/imgprompt/20260211142304171.webp"
@@ -3019,14 +3019,14 @@
   },
   {
     "displayName": "sanpaku",
-    "langName": "삼중백색증후군 (동공이동)",
+    "langName": "삼백안",
     "object": "캐릭터",
     "attribute": "눈",
     "preview": "https://img.aishort.top/imgprompt/20260211142408606.webp"
   },
   {
     "displayName": "flaming_eye",
-    "langName": "호무라",
+    "langName": "불타는 눈동자",
     "object": "캐릭터",
     "attribute": "눈",
     "preview": "https://img.aishort.top/imgprompt/20260211142422174.webp"
@@ -3082,7 +3082,7 @@
   },
   {
     "displayName": "half_closed_eye",
-    "langName": "반쯤 감긴 눈 (한쪽 눈)",
+    "langName": "반쯤 감은 눈",
     "object": "캐릭터",
     "attribute": "눈",
     "preview": "https://img.aishort.top/imgprompt/20260211142557836.webp"
@@ -3180,14 +3180,14 @@
   },
   {
     "displayName": "no_blindfold",
-    "langName": "(원래의) 눈가리개 요소를 제거했습니다.",
+    "langName": "눈가리개 없음",
     "object": "캐릭터",
     "attribute": "눈",
     "preview": "https://img.aishort.top/imgprompt/20260211220153156.webp"
   },
   {
     "displayName": "no_eyepatch",
-    "langName": "(기존) 아이마스크 제거",
+    "langName": "안대 없음",
     "object": "캐릭터",
     "attribute": "눈",
     "preview": "https://img.aishort.top/imgprompt/20260211142907966.webp"
@@ -3264,7 +3264,7 @@
   },
   {
     "displayName": "solid_circle_pupils",
-    "langName": "Q 버전 솔리드 라운드 동공",
+    "langName": "치비 둥근 동공",
     "object": "캐릭터",
     "attribute": "동공",
     "preview": "https://img.aishort.top/imgprompt/20260211143127812.webp"
@@ -3292,7 +3292,7 @@
   },
   {
     "displayName": "snake_pupils",
-    "langName": "뱀의 동공 (동공 플래시)",
+    "langName": "뱀 눈동자",
     "object": "캐릭터",
     "attribute": "동공",
     "preview": "https://img.aishort.top/imgprompt/20260317093813015.webp"
@@ -3376,7 +3376,7 @@
   },
   {
     "displayName": "cross-shaped_pupils",
-    "langName": "상징적인 동공 (효과 없음)",
+    "langName": "십자형 동공",
     "object": "캐릭터",
     "attribute": "동공",
     "preview": "https://img.aishort.top/imgprompt/20260211143449975.webp"
@@ -3670,7 +3670,7 @@
   },
   {
     "displayName": "gasping",
-    "langName": "헐떡거림 (입을 벌리다)",
+    "langName": "숨을 헐떡임 / 헉 하는 표정",
     "object": "캐릭터",
     "attribute": "입",
     "preview": "https://img.aishort.top/imgprompt/20260317100011869.webp"
@@ -3726,7 +3726,7 @@
   },
   {
     "displayName": ":3",
-    "langName": "마오주이",
+    "langName": "고양이 입",
     "object": "캐릭터",
     "attribute": "입",
     "preview": "https://img.aishort.top/imgprompt/20260317100112576.webp"
@@ -3761,7 +3761,7 @@
   },
   {
     "displayName": "chestnut_mouth",
-    "langName": "리지쭈이",
+    "langName": "세모입",
     "object": "캐릭터",
     "attribute": "입",
     "preview": "https://img.aishort.top/imgprompt/20260211144640830.webp"
@@ -3817,7 +3817,7 @@
   },
   {
     "displayName": "homu",
-    "langName": "파우트 | 파우트",
+    "langName": "파우트",
     "object": "캐릭터",
     "attribute": "입",
     "preview": "https://img.aishort.top/imgprompt/20260211144827721.webp"
@@ -3901,7 +3901,7 @@
   },
   {
     "displayName": "mouth_drool",
-    "langName": "입가에 침방울 모양의 틈이 있다.",
+    "langName": "침 흘리는 입",
     "object": "캐릭터",
     "attribute": "입",
     "preview": "https://img.aishort.top/imgprompt/20260317100321880.webp"
@@ -3964,7 +3964,7 @@
   },
   {
     "displayName": "fang_out",
-    "langName": "송곳니를 드러내다 | 송곳니를 드러내다",
+    "langName": "송곳니를 드러내다",
     "object": "캐릭터",
     "attribute": "치아",
     "preview": "https://img.aishort.top/imgprompt/20260317100418214.webp"
@@ -4048,7 +4048,7 @@
   },
   {
     "displayName": "uvula",
-    "langName": "구개수 | 구개수 | 구개수",
+    "langName": "구개수",
     "object": "캐릭터",
     "attribute": "혀",
     "preview": "https://img.aishort.top/imgprompt/20260211145547542.webp"
@@ -4111,7 +4111,7 @@
   },
   {
     "displayName": "nail",
-    "langName": "손톱 | 손톱",
+    "langName": "손톱",
     "object": "캐릭터",
     "attribute": "손톱",
     "preview": "https://img.aishort.top/imgprompt/20260211145741915.webp"
@@ -4167,42 +4167,42 @@
   },
   {
     "displayName": "flat chest",
-    "langName": "작은 가슴 (A)",
+    "langName": "빈유 / 평평한 가슴",
     "object": "캐릭터",
     "attribute": "가슴",
     "preview": "https://img.aishort.top/imgprompt/20260212064123283.webp"
   },
   {
     "displayName": "small_breasts",
-    "langName": "작은 가슴 (B)",
+    "langName": "작은 가슴",
     "object": "캐릭터",
     "attribute": "가슴",
     "preview": "https://img.aishort.top/imgprompt/20260212071540871.webp"
   },
   {
     "displayName": "medium breasts",
-    "langName": "중간 가슴 (C)",
+    "langName": "중간 크기 가슴",
     "object": "캐릭터",
     "attribute": "가슴",
     "preview": "https://img.aishort.top/imgprompt/20260212071540873.webp"
   },
   {
     "displayName": "big breasts",
-    "langName": "큰 가슴 (D)",
+    "langName": "큰 가슴",
     "object": "캐릭터",
     "attribute": "가슴",
     "preview": "https://img.aishort.top/imgprompt/20260212071540872.webp"
   },
   {
     "displayName": "huge breasts",
-    "langName": "큰 가슴 (E)",
+    "langName": "거유",
     "object": "캐릭터",
     "attribute": "가슴",
     "preview": "https://img.aishort.top/imgprompt/20260212071540870.webp"
   },
   {
     "displayName": "gigantic breasts",
-    "langName": "엄청 큰 가슴 (F)",
+    "langName": "폭유 / 초거유",
     "object": "캐릭터",
     "attribute": "가슴",
     "preview": "https://img.aishort.top/imgprompt/20260212071540874.webp"
@@ -4334,14 +4334,14 @@
   },
   {
     "displayName": "toe-point",
-    "langName": "발가락 끝 | 발가락 끝",
+    "langName": "발가락 끝",
     "object": "캐릭터",
     "attribute": "발",
     "preview": "https://img.aishort.top/imgprompt/20260211150409118.webp"
   },
   {
     "displayName": "wings",
-    "langName": "비행",
+    "langName": "날개",
     "object": "캐릭터",
     "attribute": "날개",
     "preview": "https://img.aishort.top/imgprompt/20260211150421497.webp"
@@ -4383,7 +4383,7 @@
   },
   {
     "displayName": "detached_wings",
-    "langName": "몸체에 연결되지 않은 날개",
+    "langName": "분리된 날개",
     "object": "캐릭터",
     "attribute": "날개",
     "preview": "https://img.aishort.top/imgprompt/20260211150537125.webp"
@@ -4453,7 +4453,7 @@
   },
   {
     "displayName": "no_wings",
-    "langName": "제거된 (원래의) 날개",
+    "langName": "날개 없음",
     "object": "캐릭터",
     "attribute": "날개",
     "preview": "https://img.aishort.top/imgprompt/20260212072704705.webp"
@@ -4579,7 +4579,7 @@
   },
   {
     "displayName": "foral_background",
-    "langName": "꽃무늬 장식 배경",
+    "langName": "꽃무늬 배경",
     "object": "환경",
     "attribute": "배경",
     "preview": "https://img.aishort.top/imgprompt/20260211151130102.webp"
@@ -4698,7 +4698,7 @@
   },
   {
     "displayName": "rounded_corners",
-    "langName": "배경이나 프레임의 모서리가 둥글다",
+    "langName": "둥근 모서리 프레임",
     "object": "환경",
     "attribute": "배경",
     "preview": "https://img.aishort.top/imgprompt/20260211151506847.webp"
@@ -4712,7 +4712,7 @@
   },
   {
     "displayName": "outside_border",
-    "langName": "그림의 일부는 배경 프레임 밖에 있습니다.",
+    "langName": "프레임 밖 돌출 구도",
     "object": "환경",
     "attribute": "배경",
     "preview": "https://img.aishort.top/imgprompt/20260211151532945.webp"
@@ -4726,7 +4726,7 @@
   },
   {
     "displayName": "windowboxed",
-    "langName": "사진 프레임 세트 (배경)",
+    "langName": "윈도우박스",
     "object": "환경",
     "attribute": "배경",
     "preview": "https://img.aishort.top/imgprompt/20260211151559726.webp"
@@ -4929,7 +4929,7 @@
   },
   {
     "displayName": "beautiful detailed sky,beautiful detailed water",
-    "langName": "날씨도 좋고 물도 좋아요",
+    "langName": "디테일한 하늘과 수면",
     "object": "환경",
     "attribute": "자연",
     "preview": "https://img.aishort.top/imgprompt/20260211152348882.webp"
@@ -4992,7 +4992,7 @@
   },
   {
     "displayName": "Dreamy forest",
-    "langName": "꿈의 숲 (비현실적인 감각. 조용한 빛 입자)",
+    "langName": "환상의 숲",
     "object": "환경",
     "attribute": "자연",
     "preview": "https://img.aishort.top/imgprompt/20260211152548353.webp"
@@ -5293,7 +5293,7 @@
   },
   {
     "displayName": "star_(sky)",
-    "langName": "별 (하늘에)",
+    "langName": "밤하늘의 별",
     "object": "환경",
     "attribute": "하늘",
     "preview": "https://img.aishort.top/imgprompt/20260211153554967.webp"
@@ -5923,7 +5923,7 @@
   },
   {
     "displayName": "rappelling",
-    "langName": "레벨링 (매달기)",
+    "langName": "레펠",
     "object": "환경",
     "attribute": "실외",
     "preview": "https://img.aishort.top/imgprompt/20260211155514112.webp"
@@ -7239,7 +7239,7 @@
   },
   {
     "displayName": "mouse",
-    "langName": "생쥐",
+    "langName": "마우스",
     "object": "물건",
     "attribute": "디지털 장비",
     "preview": "https://img.aishort.top/imgprompt/20260211163606205.webp"
@@ -7589,7 +7589,7 @@
   },
   {
     "displayName": "school_bag",
-    "langName": "가방 (핸드백)",
+    "langName": "스쿨백",
     "object": "물건",
     "attribute": "학용품",
     "preview": "https://img.aishort.top/imgprompt/20260211164633641.webp"
@@ -7820,14 +7820,14 @@
   },
   {
     "displayName": "diamond_(shape)",
-    "langName": "다이아몬드 (모양)",
+    "langName": "다이아몬드형 / 마름모",
     "object": "물건",
     "attribute": "기타 아이템",
     "preview": "https://img.aishort.top/imgprompt/20260211165329674.webp"
   },
   {
     "displayName": "chibi_inset",
-    "langName": "치비 일러스트",
+    "langName": "치비 인셋",
     "object": "물건",
     "attribute": "기타 아이템",
     "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
@@ -7932,7 +7932,7 @@
   },
   {
     "displayName": "sword",
-    "langName": "칼",
+    "langName": "검 / 도",
     "object": "물건",
     "attribute": "무기",
     "preview": "https://img.aishort.top/imgprompt/20260211165652659.webp"
@@ -7960,7 +7960,7 @@
   },
   {
     "displayName": "saber_(weapon)",
-    "langName": "세이버 (무기)",
+    "langName": "세이버 / 군도",
     "object": "물건",
     "attribute": "무기",
     "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
@@ -7988,7 +7988,7 @@
   },
   {
     "displayName": "stake",
-    "langName": "막대",
+    "langName": "나무 말뚝",
     "object": "물건",
     "attribute": "무기",
     "preview": "https://img.aishort.top/imgprompt/20260211165832380.webp"
@@ -8030,7 +8030,7 @@
   },
   {
     "displayName": "claw_(weapon)",
-    "langName": "발톱 (무기)",
+    "langName": "클로",
     "object": "물건",
     "attribute": "무기",
     "preview": "https://img.aishort.top/imgprompt/20260211165949084.webp"
@@ -8065,7 +8065,7 @@
   },
   {
     "displayName": "magazine_(weapon)",
-    "langName": "잡지 (무기)",
+    "langName": "탄창",
     "object": "물건",
     "attribute": "무기",
     "preview": "https://img.aishort.top/imgprompt/20260211170050212.webp"
@@ -8100,7 +8100,7 @@
   },
   {
     "displayName": "tank",
-    "langName": "탱크",
+    "langName": "전차 / 탱크",
     "object": "물건",
     "attribute": "무기",
     "preview": "https://img.aishort.top/imgprompt/20260211170154753.webp"
@@ -9332,7 +9332,7 @@
   },
   {
     "displayName": "Tree Bark",
-    "langName": "짖다",
+    "langName": "나무 껍질",
     "object": "물건",
     "attribute": "식물",
     "preview": "https://img.aishort.top/imgprompt/20260211173914807.webp"
@@ -9444,7 +9444,7 @@
   },
   {
     "displayName": "leaning",
-    "langName": "린 | 린",
+    "langName": "린",
     "object": "행동",
     "attribute": "기본 포즈",
     "preview": "https://img.aishort.top/imgprompt/20260211174241891.webp"
@@ -9563,7 +9563,7 @@
   },
   {
     "displayName": "the_pose",
-    "langName": "바닥에 누워서 발을 올려 놓으세요",
+    "langName": "엎드려 다리 들기",
     "object": "행동",
     "attribute": "기본 포즈",
     "preview": "https://img.aishort.top/imgprompt/20260211174615259.webp"
@@ -9591,14 +9591,14 @@
   },
   {
     "displayName": "fetal_position",
-    "langName": "태아자세 (누워있는 자세)",
+    "langName": "태아 자세",
     "object": "행동",
     "attribute": "기본 포즈",
     "preview": "https://img.aishort.top/imgprompt/20260211174706202.webp"
   },
   {
     "displayName": "against_glass",
-    "langName": "유리잔을 짜다 (무효)",
+    "langName": "유리에 밀착 / 유리에 기대기",
     "object": "행동",
     "attribute": "기본 포즈",
     "preview": "https://img.aishort.top/imgprompt/20260211174718789.webp"
@@ -9612,7 +9612,7 @@
   },
   {
     "displayName": "presenting",
-    "langName": "디스플레이 (후면부)",
+    "langName": "과시 포즈",
     "object": "행동",
     "attribute": "기본 포즈",
     "preview": "https://img.aishort.top/imgprompt/20260211174744336.webp"
@@ -9675,7 +9675,7 @@
   },
   {
     "displayName": "eye_contact",
-    "langName": "눈맞춤 (서로를 바라보는 것)",
+    "langName": "시선 맞춤",
     "object": "행동",
     "attribute": "시선과 표정",
     "preview": "https://img.aishort.top/imgprompt/20260211174937637.webp"
@@ -9836,7 +9836,7 @@
   },
   {
     "displayName": "aiming_at_viewer",
-    "langName": "독자 (관점) 를 타겟으로 삼다",
+    "langName": "시청자를 겨냥함",
     "object": "행동",
     "attribute": "시선과 표정",
     "preview": "https://img.aishort.top/imgprompt/20260211175428502.webp"
@@ -9934,7 +9934,7 @@
   },
   {
     "displayName": "hands_clasped",
-    "langName": "양손의 손가락을 교차함 | 꽉 움켜쥔 손",
+    "langName": "손 깍지 끼기",
     "object": "행동",
     "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
@@ -9969,7 +9969,7 @@
   },
   {
     "displayName": "hands_in_opposite_sleeves",
-    "langName": "손을 교차하여 소매에 넣으세요",
+    "langName": "소매 속에 손 넣기",
     "object": "행동",
     "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
@@ -10095,7 +10095,7 @@
   },
   {
     "displayName": "covering_xx",
-    "langName": "커버 xx",
+    "langName": "특정 부위 가리기",
     "object": "행동",
     "attribute": "팔 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211180216438.webp"
@@ -10172,14 +10172,14 @@
   },
   {
     "displayName": "waving",
-    "langName": "손을 흔들다 (안녕히 가세요/안녕히 가세요)",
+    "langName": "손 흔들기",
     "object": "행동",
     "attribute": "제스처",
     "preview": "https://img.aishort.top/imgprompt/20260211180434501.webp"
   },
   {
     "displayName": "pointing_at_viewer",
-    "langName": "그림을 보고 있는 사람을 가리키세요",
+    "langName": "시청자를 가리킴",
     "object": "행동",
     "attribute": "제스처",
     "preview": "https://img.aishort.top/imgprompt/20260211180447245.webp"
@@ -10249,7 +10249,7 @@
   },
   {
     "displayName": "reaching",
-    "langName": "(의도적으로) 다가가다",
+    "langName": "손을 뻗음",
     "object": "행동",
     "attribute": "제스처",
     "preview": "https://img.aishort.top/imgprompt/20260211180655272.webp"
@@ -10312,7 +10312,7 @@
   },
   {
     "displayName": "paw_pose",
-    "langName": "행운의 고양이 손짓 (손목을 아래로 굽힘)",
+    "langName": "고양이 손짓",
     "object": "행동",
     "attribute": "제스처",
     "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
@@ -10347,7 +10347,7 @@
   },
   {
     "displayName": "fingersmile",
-    "langName": "손가락으로 웃는 얼굴을 만들어보세요",
+    "langName": "손가락 미소",
     "object": "행동",
     "attribute": "제스처",
     "preview": "https://img.aishort.top/imgprompt/20260211180951696.webp"
@@ -10634,7 +10634,7 @@
   },
   {
     "displayName": "holding_eyewear",
-    "langName": "안경잡기 | 안경벗기",
+    "langName": "안경 만지기 / 벗기",
     "object": "행동",
     "attribute": "물건 잡기",
     "preview": "https://img.aishort.top/imgprompt/20260211181827087.webp"
@@ -10956,21 +10956,21 @@
   },
   {
     "displayName": "hands_on_another's",
-    "langName": "다른 사람의 얼굴에 손을 얹어보세요",
+    "langName": "상대의 얼굴에 두 손 대기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
-    "langName": "서로의 뺨에 손을 올려 놓으세요",
+    "langName": "상대의 뺨에 두 손 대기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
-    "langName": "다른 사람의 어깨에 손을 얹어라",
+    "langName": "상대의 어깨에 두 손 올리기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
@@ -11026,7 +11026,7 @@
   },
   {
     "displayName": "hands_on_hips",
-    "langName": "엉덩이에 손 얹기 | 엉덩이에 손 얹기",
+    "langName": "엉덩이에 손 얹기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260213094956459.webp"
@@ -11068,7 +11068,7 @@
   },
   {
     "displayName": "grabbing_from_behind",
-    "langName": "뒤에서 가슴 문지르기 | 뒤에서 가슴 잡기",
+    "langName": "뒤에서 가슴 잡기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
@@ -11110,14 +11110,14 @@
   },
   {
     "displayName": "hands_on_headwear",
-    "langName": "두 손으로 머리의 장신구를 만지다",
+    "langName": "머리 장식 만지기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
-    "langName": "칼자루에 손을 올려 놓으세요",
+    "langName": "칼자루에 양손 올리기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
@@ -11131,7 +11131,7 @@
   },
   {
     "displayName": "neckwear_grab",
-    "langName": "목에 옷을 꽉 쥐다",
+    "langName": "멱살 / 옷깃 잡기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
@@ -11173,7 +11173,7 @@
   },
   {
     "displayName": "hand_in_another's_hair",
-    "langName": "상대방의 머리카락에 손을 올려보세요",
+    "langName": "상대의 머리카락 만지기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
@@ -11208,35 +11208,35 @@
   },
   {
     "displayName": "hand_on_another's_chest",
-    "langName": "상대방의 가슴에 손을 얹으세요",
+    "langName": "상대의 가슴에 손 대기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260211183718013.webp"
   },
   {
     "displayName": "hand_on_another's_chin",
-    "langName": "상대방의 턱을 손으로 잡아주세요",
+    "langName": "상대의 턱 만지기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
   },
   {
     "displayName": "hand_on_another's_head",
-    "langName": "상대방의 머리에 손을 얹으세요",
+    "langName": "상대의 머리에 손 올리기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260211183743006.webp"
   },
   {
     "displayName": "hand_on_another's_shoulder",
-    "langName": "상대방의 어깨에 손을 얹으세요",
+    "langName": "상대의 어깨에 손 올리기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260211183755722.webp"
   },
   {
     "displayName": "hand_on_another's_stomach",
-    "langName": "상대방의 배에 손을 얹어보세요",
+    "langName": "상대의 배에 손 대기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
@@ -11264,14 +11264,14 @@
   },
   {
     "displayName": "hand_on_hilt",
-    "langName": "칼자루에 손을 얹은 모습",
+    "langName": "칼자루에 손 올리기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
   },
   {
     "displayName": "hand_on_hip",
-    "langName": "엉덩이에 손 얹기 | 엉덩이에 손 얹기",
+    "langName": "엉덩이에 손 얹기",
     "object": "행동",
     "attribute": "포옹과 움켜잡기",
     "preview": "https://img.aishort.top/imgprompt/20260211183911177.webp"
@@ -11404,14 +11404,14 @@
   },
   {
     "displayName": "standing_split",
-    "langName": "스탠딩 스플릿 | 스탠딩 레그 레이즈",
+    "langName": "스탠딩 스플릿",
     "object": "행동",
     "attribute": "다리 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211184306372.webp"
   },
   {
     "displayName": "curtsy",
-    "langName": "Curtsey (하녀의 경례)",
+    "langName": "커트시",
     "object": "행동",
     "attribute": "다리 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
@@ -11502,7 +11502,7 @@
   },
   {
     "displayName": "folded",
-    "langName": "다리를 들어올려 질을 노출시키세요",
+    "langName": "다리 모아 안기 구도",
     "object": "행동",
     "attribute": "다리 동작",
     "preview": "https://img.aishort.top/imgprompt/20260211184601937.webp"
@@ -11544,7 +11544,7 @@
   },
   {
     "displayName": "k/da_(league_of_legends)",
-    "langName": "KDA 팀 (리그 오브 레전드)",
+    "langName": "K/DA (리그 오브 레전드)",
     "object": "행동",
     "attribute": "다리 동작",
     "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
@@ -11705,14 +11705,14 @@
   },
   {
     "displayName": "tail_between_legs",
-    "langName": "꼬리는 다리 사이로 말려있다",
+    "langName": "가랑이 사이 꼬리",
     "object": "행동",
     "attribute": "다리 동작",
     "preview": "https://img.aishort.top/imgprompt/20260225100419147.webp"
   },
   {
     "displayName": "covering",
-    "langName": "덮는 행위",
+    "langName": "가리는 동작",
     "object": "행동",
     "attribute": "신체 접촉",
     "preview": "https://img.aishort.top/imgprompt/20260211185216454.webp"
@@ -11922,14 +11922,14 @@
   },
   {
     "displayName": "spitting",
-    "langName": "입에서 액체를 뱉는 행위",
+    "langName": "침 뱉기 / 액체 뱉기",
     "object": "행동",
     "attribute": "신체 반응",
     "preview": "https://img.aishort.top/imgprompt/20260211185836921.webp"
   },
   {
     "displayName": "spilling",
-    "langName": "용기에서 액체를 붓는 행위",
+    "langName": "흘림 / 액체 쏟기",
     "object": "행동",
     "attribute": "신체 반응",
     "preview": "https://img.aishort.top/imgprompt/20260211185849710.webp"
@@ -12006,7 +12006,7 @@
   },
   {
     "displayName": "dropping",
-    "langName": "(실수로) 떨어지다",
+    "langName": "떨어뜨림 / 추락",
     "object": "행동",
     "attribute": "신체 반응",
     "preview": "https://img.aishort.top/imgprompt/20260211190102259.webp"
@@ -12055,7 +12055,7 @@
   },
   {
     "displayName": "lifted_by_another",
-    "langName": "상대방의 옷에 의해 들어올려짐",
+    "langName": "다른 사람에게 옷 들림",
     "object": "행동",
     "attribute": "신체 반응",
     "preview": "https://img.aishort.top/imgprompt/20260211190232075.webp"
@@ -12111,7 +12111,7 @@
   },
   {
     "displayName": "drying",
-    "langName": "건조 (목욕 후)",
+    "langName": "몸 닦기",
     "object": "행동",
     "attribute": "일상 생활",
     "preview": "https://img.aishort.top/imgprompt/20260211190415978.webp"
@@ -12125,14 +12125,14 @@
   },
   {
     "displayName": "cleaning",
-    "langName": "청소하다 |",
+    "langName": "청소하다",
     "object": "행동",
     "attribute": "일상 생활",
     "preview": "https://img.aishort.top/imgprompt/20260211190440252.webp"
   },
   {
     "displayName": "sweeping",
-    "langName": "청소 | 쓸기 (집안일)",
+    "langName": "청소 / 쓸기",
     "object": "행동",
     "attribute": "일상 생활",
     "preview": "https://img.aishort.top/imgprompt/20260211190452774.webp"
@@ -12258,7 +12258,7 @@
   },
   {
     "displayName": "sleeping_upright",
-    "langName": "(누워 있지 않고) 자는 것 | 똑바로 누워 자는 것",
+    "langName": "앉아서 잠 / 선 채로 잠",
     "object": "행동",
     "attribute": "일상 생활",
     "preview": "https://img.aishort.top/imgprompt/20260211190844518.webp"
@@ -12412,14 +12412,14 @@
   },
   {
     "displayName": "shared_food",
-    "langName": "음식 나누기 | 입으로 음식을 전달하다",
+    "langName": "음식 나눠먹기",
     "object": "행동",
     "attribute": "감정적 상호작용",
     "preview": "https://img.aishort.top/imgprompt/20260211191325544.webp"
   },
   {
     "displayName": "shared_bathing",
-    "langName": "공동욕실 | 원양욕실",
+    "langName": "함께 목욕하기",
     "object": "행동",
     "attribute": "감정적 상호작용",
     "preview": "https://img.aishort.top/imgprompt/20260211191338217.webp"
@@ -12461,14 +12461,14 @@
   },
   {
     "displayName": "asymmetrical_docking",
-    "langName": "가슴이 닿다 | 가슴이 닿다 가슴",
+    "langName": "가슴 맞대기",
     "object": "행동",
     "attribute": "감정적 상호작용",
     "preview": "https://img.aishort.top/imgprompt/20260211191454771.webp"
   },
   {
     "displayName": "special_feeling_(meme)",
-    "langName": "눈 속에서 우산을 낀 연인들",
+    "langName": "특별한 기분",
     "object": "행동",
     "attribute": "감정적 상호작용",
     "preview": "https://img.aishort.top/imgprompt/20260211191507001.webp"
@@ -12608,7 +12608,7 @@
   },
   {
     "displayName": "wrestling",
-    "langName": "레슬링 (스포츠)",
+    "langName": "레슬링",
     "object": "행동",
     "attribute": "운동",
     "preview": "https://img.aishort.top/imgprompt/20260211191925002.webp"
@@ -12818,7 +12818,7 @@
   },
   {
     "displayName": "skirt_flip",
-    "langName": "스커트 들어올림 (긴급의미 포함)",
+    "langName": "스커트 들추기",
     "object": "행동",
     "attribute": "옷 정리",
     "preview": "https://img.aishort.top/imgprompt/20260317125226840.webp"
@@ -12895,7 +12895,7 @@
   },
   {
     "displayName": "tying",
-    "langName": "매듭을 묶다 (동작)",
+    "langName": "매듭 묶기",
     "object": "행동",
     "attribute": "옷 정리",
     "preview": "https://img.aishort.top/imgprompt/20260211192806302.webp"
@@ -12930,7 +12930,7 @@
   },
   {
     "displayName": "pulled_by_another",
-    "langName": "다른 사람에게 끌려가는 것 (또는 옷을 잡아당기는 것)",
+    "langName": "타인에게 끌려감",
     "object": "행동",
     "attribute": "옷 정리",
     "preview": "https://img.aishort.top/imgprompt/20260317125423077.webp"
@@ -12993,7 +12993,7 @@
   },
   {
     "displayName": "holding_bow_(weapon)",
-    "langName": "활 (무기) 을 쥐고 있다",
+    "langName": "활 들기",
     "object": "행동",
     "attribute": "무기 및 장비",
     "preview": "https://img.aishort.top/imgprompt/20260211193102894.webp"
@@ -13084,7 +13084,7 @@
   },
   {
     "displayName": "Kabedon",
-    "langName": "벽 뱅",
+    "langName": "벽치기",
     "object": "행동",
     "attribute": "특수 포즈",
     "preview": "https://img.aishort.top/imgprompt/20260211193512046.webp"
@@ -13412,7 +13412,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211194606041.webp"
   },
   {
-    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset)),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
+    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset))),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
     "langName": "황혼법",
     "object": "행동",
     "attribute": "마법",
@@ -13525,7 +13525,7 @@
   },
   {
     "displayName": "((full body)),(helpless),tear,crying,(((((falling from the sky))))),((Weathering With You)),((falling)),((face towards the sky)),(hair flows upwards),((disheveled hair)),(1 girl),floating,beautiful detailed sky",
-    "langName": "추락 구도 (하늘 배경)",
+    "langName": "하늘 낙하 구도 (날씨의 아이풍)",
     "object": "행동",
     "attribute": "마법",
     "preview": "https://img.aishort.top/imgprompt/20260211194938656.webp"
@@ -13727,7 +13727,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195607630.webp"
   },
   {
-    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood))),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
+    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood)),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
     "langName": "혈액 개혁법",
     "object": "행동",
     "attribute": "마법",
@@ -14002,7 +14002,7 @@
   },
   {
     "displayName": "disgust",
-    "langName": "역겹다 (쓰레기 같아 보인다)",
+    "langName": "혐오 / 경멸 어린 시선",
     "object": "표정",
     "attribute": "경멸",
     "preview": "https://img.aishort.top/imgprompt/20260317071358725.webp"
@@ -14023,7 +14023,7 @@
   },
   {
     "displayName": "shaded_face",
-    "langName": "얼굴에는 경멸과 어울리는 그림자가 있습니다",
+    "langName": "얼굴 드리운 그림자",
     "object": "표정",
     "attribute": "경멸",
     "preview": "https://img.aishort.top/imgprompt/20260212085009132.webp"
@@ -14044,7 +14044,7 @@
   },
   {
     "displayName": "wince",
-    "langName": "찡그린 얼굴 (성관계 전)",
+    "langName": "찡그림 / 움찔함",
     "object": "표정",
     "attribute": "경멸",
     "preview": "https://img.aishort.top/imgprompt/20260212085045682.webp"
@@ -14079,7 +14079,7 @@
   },
   {
     "displayName": "serious",
-    "langName": "심각한 (화가 난 것과 유사)",
+    "langName": "진지함 / 엄숙함",
     "object": "표정",
     "attribute": "화남",
     "preview": "https://img.aishort.top/imgprompt/20260212085145957.webp"
@@ -14163,7 +14163,7 @@
   },
   {
     "displayName": "embarrass",
-    "langName": "수줍은 (어색한)",
+    "langName": "부끄러움 / 당황함",
     "object": "표정",
     "attribute": "기타 표정",
     "preview": "https://img.aishort.top/imgprompt/20260212085408608.webp"
@@ -14380,7 +14380,7 @@
   },
   {
     "displayName": "torogao",
-    "langName": "풀린 눈(토로가오)",
+    "langName": "토로가오",
     "object": "표정",
     "attribute": "기타 표정",
     "preview": "https://img.aishort.top/imgprompt/20260228103646110.webp"
@@ -14702,7 +14702,7 @@
   },
   {
     "displayName": "hanten_clothes",
-    "langName": "토우마타 (일본식)",
+    "langName": "한텐 (일본 방한복)",
     "object": "의복",
     "attribute": "옷 스타일",
     "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
@@ -14716,7 +14716,7 @@
   },
   {
     "displayName": "furisode",
-    "langName": "후리소데 (기모노의 일부)",
+    "langName": "후리소데",
     "object": "의복",
     "attribute": "옷 스타일",
     "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
@@ -14744,14 +14744,14 @@
   },
   {
     "displayName": "uchikake",
-    "langName": "바이우지아 (일본식 웨딩드레스)",
+    "langName": "우치카케 / 시로무쿠",
     "object": "의복",
     "attribute": "옷 스타일",
     "preview": "https://img.aishort.top/imgprompt/20260212110020279.webp"
   },
   {
     "displayName": "obi",
-    "langName": "오비(기모노 허리띠)",
+    "langName": "오비 (기모노 허리띠)",
     "object": "의복",
     "attribute": "옷 스타일",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -14800,7 +14800,7 @@
   },
   {
     "displayName": "Ao_Dai",
-    "langName": "베트남 의류 (아오자이)",
+    "langName": "아오자이",
     "object": "의복",
     "attribute": "옷 스타일",
     "preview": "https://img.aishort.top/imgprompt/20260212112032273.webp"
@@ -14947,14 +14947,14 @@
   },
   {
     "displayName": "alternate_costume",
-    "langName": "캐릭터의 원래 모습과 다른 대체 의상",
+    "langName": "다른 의상 / 교체 복장",
     "object": "의복",
     "attribute": "옷 스타일",
     "preview": "https://img.aishort.top/imgprompt/20260212120626953.webp"
   },
   {
     "displayName": "costume_switch",
-    "langName": "옷 갈아입기 놀이",
+    "langName": "의상 체인지 / 복장 교환",
     "object": "의복",
     "attribute": "옷 스타일",
     "preview": "https://img.aishort.top/imgprompt/20260212120842799.webp"
@@ -15164,7 +15164,7 @@
   },
   {
     "displayName": "evening_gown",
-    "langName": "롱가운 (발목까지 오는 여성용 가운)",
+    "langName": "이브닝 가운 / 롱 드레스",
     "object": "의복",
     "attribute": "정장",
     "preview": "https://img.aishort.top/imgprompt/20260212125805414.webp"
@@ -15206,7 +15206,7 @@
   },
   {
     "displayName": "serafuku",
-    "langName": "세일러복 (교복)",
+    "langName": "세일러복",
     "object": "의복",
     "attribute": "정장",
     "preview": "https://img.aishort.top/imgprompt/20260212130530516.webp"
@@ -15542,7 +15542,7 @@
   },
   {
     "displayName": "school_swimsuit",
-    "langName": "학교수영복 (수이쿠워터)",
+    "langName": "스쿨미즈",
     "object": "의복",
     "attribute": "수영복",
     "preview": "https://img.aishort.top/imgprompt/20260225102036109.webp"
@@ -15605,7 +15605,7 @@
   },
   {
     "displayName": "swimsuit_of_perpetual_summer",
-    "langName": "창샤의 수영복 (fgo 여고생 스피릿 슈트)",
+    "langName": "영원한 여름의 수영복 (FGO 마슈)",
     "object": "의복",
     "attribute": "수영복",
     "preview": "https://img.aishort.top/imgprompt/20260317071630637.webp"
@@ -15878,14 +15878,14 @@
   },
   {
     "displayName": "swimsuit_aside",
-    "langName": "수영복의 가랑이 부분을 옆으로 치우세요",
+    "langName": "수영복 옆으로 당기기",
     "object": "의복",
     "attribute": "수영복",
     "preview": "https://img.aishort.top/imgprompt/20260212152012611.webp"
   },
   {
     "displayName": "swimsuit_under_clothes",
-    "langName": "옷 안에 수영복을 입는다",
+    "langName": "옷 안에 수영복 착용",
     "object": "의복",
     "attribute": "수영복",
     "preview": "https://img.aishort.top/imgprompt/20260317072817093.webp"
@@ -15976,7 +15976,7 @@
   },
   {
     "displayName": "bc_freedom_military_uniform",
-    "langName": "BC 프리 아카데미 유니폼",
+    "langName": "BC 자유학원 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260212153126044.webp"
@@ -15990,7 +15990,7 @@
   },
   {
     "displayName": "chi-hatan_military_uniform",
-    "langName": "지하단학원 교복",
+    "langName": "치하탄 학원 군복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260212153151798.webp"
@@ -16025,21 +16025,21 @@
   },
   {
     "displayName": "hikarizaka_private_high_school_uniform",
-    "langName": "사립 미츠사카 고등학교 교복",
+    "langName": "사립 히카리즈카 고등학교 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260212153257185.webp"
   },
   {
     "displayName": "homurahara_academy_uniform",
-    "langName": "수이 군하라 학원 교복",
+    "langName": "호무라하라 학원 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260212153310241.webp"
   },
   {
     "displayName": "kamiyama_high_school_uniform",
-    "langName": "카일라스 고등학교 교복",
+    "langName": "카미야마 고등학교 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260212153323486.webp"
@@ -16088,21 +16088,21 @@
   },
   {
     "displayName": "nami_junior_high_school_uniform",
-    "langName": "볼루 중학교 교복",
+    "langName": "나미 중학교 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260212153455870.webp"
   },
   {
     "displayName": "nanairogaoka_middle_school_uniform",
-    "langName": "치세추 중학교 교복",
+    "langName": "나나이로가오카 중학교 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260212153509132.webp"
   },
   {
     "displayName": "nanamori_school_uniform",
-    "langName": "치센 중학교 교복",
+    "langName": "나나모리 중학교 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260212153725574.webp"
@@ -16172,14 +16172,14 @@
   },
   {
     "displayName": "rabbit_house_uniform",
-    "langName": "디안투투 하우스 유니폼",
+    "langName": "래빗 하우스 유니폼",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260213055157775.webp"
   },
   {
     "displayName": "raimon_soccer_uniform",
-    "langName": "썬더게이트 풋볼유니폼",
+    "langName": "라이몬 축구부 유니폼",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260213055210653.webp"
@@ -16193,7 +16193,7 @@
   },
   {
     "displayName": "sakugawa_school_uniform",
-    "langName": "자촨 중학교 교복",
+    "langName": "사쿠가와 중학교 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260213055439290.webp"
@@ -16242,7 +16242,7 @@
   },
   {
     "displayName": "shuujin_academy_uniform",
-    "langName": "대학 교복을 자랑하세요",
+    "langName": "슈진 학원 고등학교 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260213060421601.webp"
@@ -16263,28 +16263,28 @@
   },
   {
     "displayName": "starlight_academy_uniform",
-    "langName": "스타옵티컬파크 유니폼",
+    "langName": "스타라이트 학원 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260213060500805.webp"
   },
   {
     "displayName": "tokisadame_school_uniform",
-    "langName": "일반 대학 교복",
+    "langName": "토키사다메 고등학교 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260213060513970.webp"
   },
   {
     "displayName": "tokiwadai_school_uniform",
-    "langName": "토키와 타이중 교복",
+    "langName": "토키와다이 중학교 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260213060526744.webp"
   },
   {
     "displayName": "tomoeda_elementary_school_uniform",
-    "langName": "유지초등학교 교복",
+    "langName": "토모에다 초등학교 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260213060539748.webp"
@@ -16298,14 +16298,14 @@
   },
   {
     "displayName": "u.a._school_uniform",
-    "langName": "슝잉 고등학교 교복",
+    "langName": "UA 고등학교 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260213060607357.webp"
   },
   {
     "displayName": "uranohoshi_school_uniform",
-    "langName": "우라노호시 여자대학 교복",
+    "langName": "우라노호시 여학원 교복",
     "object": "의복",
     "attribute": "교복",
     "preview": "https://img.aishort.top/imgprompt/20260213060620807.webp"
@@ -16424,7 +16424,7 @@
   },
   {
     "displayName": "short sleeve T-shirts",
-    "langName": "반팔 티셔츠 (숄더셔츠)",
+    "langName": "반팔 티셔츠",
     "object": "의복",
     "attribute": "상의",
     "preview": "https://img.aishort.top/imgprompt/20260213063027450.webp"
@@ -16466,7 +16466,7 @@
   },
   {
     "displayName": "tank_top",
-    "langName": "조끼 (집)",
+    "langName": "탱크톱",
     "object": "의복",
     "attribute": "상의",
     "preview": "https://img.aishort.top/imgprompt/20260213064156253.webp"
@@ -16494,7 +16494,7 @@
   },
   {
     "displayName": "vest",
-    "langName": "조끼 (정장)",
+    "langName": "정장 조끼",
     "object": "의복",
     "attribute": "상의",
     "preview": "https://img.aishort.top/imgprompt/20260213064408586.webp"
@@ -16508,7 +16508,7 @@
   },
   {
     "displayName": "waistcoat",
-    "langName": "조끼 (정장)",
+    "langName": "웨이스트코트",
     "object": "의복",
     "attribute": "상의",
     "preview": "https://img.aishort.top/imgprompt/20260213064435011.webp"
@@ -16599,7 +16599,7 @@
   },
   {
     "displayName": "kappougi",
-    "langName": "블라우스 (요리할 때 입는)",
+    "langName": "갓포우기 (일본식 앞치마)",
     "object": "의복",
     "attribute": "상의",
     "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
@@ -16662,7 +16662,7 @@
   },
   {
     "displayName": "tied_shirt",
-    "langName": "넥타이 셔츠 (모서리와 밑단을 매듭지어 묶는다)",
+    "langName": "밑단 묶은 셔츠",
     "object": "의복",
     "attribute": "상의",
     "preview": "https://img.aishort.top/imgprompt/20260213070412064.webp"
@@ -16746,7 +16746,7 @@
   },
   {
     "displayName": "button_gap",
-    "langName": "단추 사이의 틈 (풀지 않은 상태)",
+    "langName": "단추 벌어짐",
     "object": "의복",
     "attribute": "상의",
     "preview": "https://img.aishort.top/imgprompt/20260213071455826.webp"
@@ -16879,21 +16879,21 @@
   },
   {
     "displayName": "strap_slip",
-    "langName": "어깨끈이 미끄러져 (누출 발생)",
+    "langName": "어깨끈 흘러내림",
     "object": "의복",
     "attribute": "상의",
     "preview": "https://img.aishort.top/imgprompt/20260228101844680.webp"
   },
   {
     "displayName": "wedgie",
-    "langName": "(옷이 가랑이 부분을 잡아당겨서 발생)",
+    "langName": "끼임 / 웨지",
     "object": "의복",
     "attribute": "상의",
     "preview": "https://img.aishort.top/imgprompt/20260225103744943.webp"
   },
   {
     "displayName": "wardrobe_malfunction",
-    "langName": "옷에 문제가 생겼어요 (예: 옷이 벗겨짐)",
+    "langName": "의상 노출 사고",
     "object": "의복",
     "attribute": "상의",
     "preview": "https://img.aishort.top/imgprompt/20260213075235531.webp"
@@ -16984,7 +16984,7 @@
   },
   {
     "displayName": "double-breasted",
-    "langName": "더블브레스트 버튼 (double-breasted buttons)",
+    "langName": "더블 버튼",
     "object": "의복",
     "attribute": "외투",
     "preview": "https://img.aishort.top/imgprompt/20260213075715469.webp"
@@ -17054,7 +17054,7 @@
   },
   {
     "displayName": "jacket_partially_removed",
-    "langName": "재킷이 부분적으로 벗겨졌습니다.",
+    "langName": "재킷 반쯤 벗음",
     "object": "의복",
     "attribute": "외투",
     "preview": "https://img.aishort.top/imgprompt/20260213081023629.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "카디건 재킷 (스프레드 레그)",
+    "langName": "열린 재킷 / 오픈 재킷",
     "object": "의복",
     "attribute": "외투",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -18048,7 +18048,7 @@
   },
   {
     "displayName": "corset",
-    "langName": "코르셋 (조끼)",
+    "langName": "코르셋",
     "object": "의복",
     "attribute": "허리",
     "preview": "https://img.aishort.top/imgprompt/20260225104053785.webp"
@@ -18097,7 +18097,7 @@
   },
   {
     "displayName": "kusazuri",
-    "langName": "복당 | 쿠사즈리 (일본의 하반신 갑옷)",
+    "langName": "쿠사즈리 (일본식 하반신 갑옷)",
     "object": "의복",
     "attribute": "갑옷",
     "preview": "https://img.aishort.top/imgprompt/20260213115508736.webp"
@@ -18118,7 +18118,7 @@
   },
   {
     "displayName": "kabuto",
-    "langName": "헬멧 (일본식)",
+    "langName": "카부토 (사무라이 투구)",
     "object": "의복",
     "attribute": "갑옷",
     "preview": "https://img.aishort.top/imgprompt/20260213115548290.webp"
@@ -18132,7 +18132,7 @@
   },
   {
     "displayName": "shoulder_armor",
-    "langName": "어깨",
+    "langName": "견갑",
     "object": "의복",
     "attribute": "갑옷",
     "preview": "https://img.aishort.top/imgprompt/20260213115612426.webp"
@@ -18153,14 +18153,14 @@
   },
   {
     "displayName": "faulds",
-    "langName": "가슴 장식",
+    "langName": "허리 갑옷 (폴드)",
     "object": "의복",
     "attribute": "갑옷",
     "preview": "https://img.aishort.top/imgprompt/20260213115855297.webp"
   },
   {
     "displayName": "greaves",
-    "langName": "기름 찌끼",
+    "langName": "경갑",
     "object": "의복",
     "attribute": "갑옷",
     "preview": "https://img.aishort.top/imgprompt/20260213115908428.webp"
@@ -18237,7 +18237,7 @@
   },
   {
     "displayName": "sundress",
-    "langName": "슬립드레스 (더운 날씨에 입는 민소매 원피스)",
+    "langName": "선드레스 / 여름 원피스",
     "object": "의복",
     "attribute": "치마",
     "preview": "https://img.aishort.top/imgprompt/20260213121003959.webp"
@@ -18342,7 +18342,7 @@
   },
   {
     "displayName": "impossible_dress",
-    "langName": "너무 꽉 끼는 옷",
+    "langName": "초밀착 드레스",
     "object": "의복",
     "attribute": "치마",
     "preview": "https://img.aishort.top/imgprompt/20260213122932976.webp"
@@ -18454,14 +18454,14 @@
   },
   {
     "displayName": "ballgown",
-    "langName": "투투 (드레스)",
+    "langName": "볼가운",
     "object": "의복",
     "attribute": "치마",
     "preview": "https://img.aishort.top/imgprompt/20260213123502356.webp"
   },
   {
     "displayName": "pettiskirt",
-    "langName": "투투 (어린이)",
+    "langName": "페티스커트",
     "object": "의복",
     "attribute": "치마",
     "preview": "https://img.aishort.top/imgprompt/20260213123515479.webp"
@@ -18657,7 +18657,7 @@
   },
   {
     "displayName": "skirt_tug",
-    "langName": "치마 자락을 잡아라 | 치마 자락을 잡아라",
+    "langName": "치마 자락을 잡아라",
     "object": "의복",
     "attribute": "치마",
     "preview": "https://img.aishort.top/imgprompt/20260213132657290.webp"
@@ -18811,14 +18811,14 @@
   },
   {
     "displayName": "dolphin_shorts",
-    "langName": "돌핀 반바지 (진실바지)",
+    "langName": "돌핀 팬츠",
     "object": "의복",
     "attribute": "바지",
     "preview": "https://img.aishort.top/imgprompt/20260213134352207.webp"
   },
   {
     "displayName": "dolfin_shorts",
-    "langName": "돌핀 반바지 (진실바지)",
+    "langName": "돌핀 팬츠",
     "object": "의복",
     "attribute": "바지",
     "preview": "https://img.aishort.top/imgprompt/20260213134404755.webp"
@@ -18832,7 +18832,7 @@
   },
   {
     "displayName": "crotchless_pants",
-    "langName": "바지 밑이 없는 바지 (타이트)",
+    "langName": "오픈 크로치 바지",
     "object": "의복",
     "attribute": "바지",
     "preview": "https://img.aishort.top/imgprompt/20260213134430564.webp"
@@ -18937,14 +18937,14 @@
   },
   {
     "displayName": "chaps",
-    "langName": "가죽 채프스 (위는 넓고 아래는 좁음)",
+    "langName": "챕스",
     "object": "의복",
     "attribute": "바지",
     "preview": "https://img.aishort.top/imgprompt/20260213134945047.webp"
   },
   {
     "displayName": "jumpsuit",
-    "langName": "(특히 여성용) 점프수트",
+    "langName": "점프수트",
     "object": "의복",
     "attribute": "바지",
     "preview": "https://img.aishort.top/imgprompt/20260213134957992.webp"
@@ -18979,7 +18979,7 @@
   },
   {
     "displayName": "leotard_aside",
-    "langName": "점프수트의 가랑이 부분을 옆으로 벗기세요",
+    "langName": "레오타드 옆으로 당기기",
     "object": "의복",
     "attribute": "바지",
     "preview": "https://img.aishort.top/imgprompt/20260213135915193.webp"
@@ -19140,21 +19140,21 @@
   },
   {
     "displayName": "pantyhose",
-    "langName": "팬티스타킹 | 팬티스타킹",
+    "langName": "팬티스타킹",
     "object": "의복",
     "attribute": "양말",
     "preview": "https://img.aishort.top/imgprompt/20260213142442251.webp"
   },
   {
     "displayName": "legwear",
-    "langName": "팬티스타킹 (일반적으로 팬티스타킹이나 스타킹을 말함)",
+    "langName": "레그웨어 / 스타킹",
     "object": "의복",
     "attribute": "양말",
     "preview": "https://img.aishort.top/imgprompt/20260225104603819.webp"
   },
   {
     "displayName": "thighhighs",
-    "langName": "스타킹 (무릎까지 오는 양말)",
+    "langName": "오버니삭스 / 사이하이 삭스",
     "object": "의복",
     "attribute": "양말",
     "preview": "https://img.aishort.top/imgprompt/20260213142506603.webp"
@@ -19217,7 +19217,7 @@
   },
   {
     "displayName": "pantylines",
-    "langName": "타이츠 (라인을 윤곽으로 표현)",
+    "langName": "팬티 라인",
     "object": "의복",
     "attribute": "양말",
     "preview": "https://img.aishort.top/imgprompt/20260317074408132.webp"
@@ -19357,7 +19357,7 @@
   },
   {
     "displayName": "back-seamed_legwear",
-    "langName": "가운데에 검은색 선이 있는 양말",
+    "langName": "백심 스타킹",
     "object": "의복",
     "attribute": "양말",
     "preview": "https://img.aishort.top/imgprompt/20260225104949341.webp"
@@ -19413,14 +19413,14 @@
   },
   {
     "displayName": "bobby_socks",
-    "langName": "바비 양말 (흰색 양말)",
+    "langName": "바비 삭스 (접어 신는 흰 양말)",
     "object": "의복",
     "attribute": "양말",
     "preview": "https://img.aishort.top/imgprompt/20260213144125119.webp"
   },
   {
     "displayName": "tabi",
-    "langName": "일본 두꺼운 밑창 양말 (발주머니)",
+    "langName": "타비 (발가락 양말)",
     "object": "의복",
     "attribute": "양말",
     "preview": "https://img.aishort.top/imgprompt/20260213144138485.webp"
@@ -19434,7 +19434,7 @@
   },
   {
     "displayName": "leg_warmers",
-    "langName": "레그워머 | 레그워머",
+    "langName": "레그워머",
     "object": "의복",
     "attribute": "양말",
     "preview": "https://img.aishort.top/imgprompt/20260213144203562.webp"
@@ -19518,7 +19518,7 @@
   },
   {
     "displayName": "thigh_holster",
-    "langName": "다리에 스트랩이나 도구 가방 또는 홀스터",
+    "langName": "허벅지 홀스터",
     "object": "의복",
     "attribute": "양말",
     "preview": "https://img.aishort.top/imgprompt/20260213144441392.webp"
@@ -19546,7 +19546,7 @@
   },
   {
     "displayName": "arm_garter",
-    "langName": "붐 가터",
+    "langName": "암 가터",
     "object": "의복",
     "attribute": "양말",
     "preview": "https://img.aishort.top/imgprompt/20260213144735280.webp"
@@ -19658,14 +19658,14 @@
   },
   {
     "displayName": "sock_pull",
-    "langName": "양말 (양말) 을 신다",
+    "langName": "양말 치켜올리기",
     "object": "의복",
     "attribute": "양말",
     "preview": "https://img.aishort.top/imgprompt/20260213150519193.webp"
   },
   {
     "displayName": "thighhighs_pull",
-    "langName": "양말 (스타킹) 을 신다",
+    "langName": "스타킹 치켜올리기",
     "object": "의복",
     "attribute": "양말",
     "preview": "https://img.aishort.top/imgprompt/20260225090322289.webp"
@@ -19686,7 +19686,7 @@
   },
   {
     "displayName": "crease",
-    "langName": "주름진 (주름이 잡힌)",
+    "langName": "구김선 / 주름선",
     "object": "의복",
     "attribute": "장식",
     "preview": "https://img.aishort.top/imgprompt/20260213150609920.webp"
@@ -19755,7 +19755,7 @@
   },
   {
     "displayName": "back_bow",
-    "langName": "(옷) 등뒤로 묶인 매듭",
+    "langName": "등 뒤 리본",
     "object": "의복",
     "attribute": "장식",
     "preview": "https://img.aishort.top/imgprompt/20260213151221218.webp"
@@ -19769,7 +19769,7 @@
   },
   {
     "displayName": "double_vertical_stripe",
-    "langName": "옷에는 평행한 줄무늬가 두 개 있습니다",
+    "langName": "더블 세로 스트라이프",
     "object": "의복",
     "attribute": "장식",
     "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
@@ -19818,14 +19818,14 @@
   },
   {
     "displayName": "single_kneehigh",
-    "langName": "한쪽에 무릎 길이의 옷을 입는다",
+    "langName": "한쪽 오버니삭스",
     "object": "의복",
     "attribute": "장식",
     "preview": "https://img.aishort.top/imgprompt/20260213151419710.webp"
   },
   {
     "displayName": "single_vertical_stripe",
-    "langName": "옷의 한쪽 면에 수직 줄무늬를 노출시키세요",
+    "langName": "한쪽 세로 스트라이프",
     "object": "의복",
     "attribute": "장식",
     "preview": "https://img.aishort.top/imgprompt/20260213151432314.webp"
@@ -19839,7 +19839,7 @@
   },
   {
     "displayName": "two-sided_fabric",
-    "langName": "더블 레이어 스타일 의류 그리기 방법",
+    "langName": "양면 배색 원단",
     "object": "의복",
     "attribute": "장식",
     "preview": "https://img.aishort.top/imgprompt/20260213151458665.webp"
@@ -19860,21 +19860,21 @@
   },
   {
     "displayName": "fringe_trim",
-    "langName": "가장자리 (스카프의 끝부분)",
+    "langName": "프린지 장식",
     "object": "의복",
     "attribute": "장식",
     "preview": "https://img.aishort.top/imgprompt/20260213151538074.webp"
   },
   {
     "displayName": "loose_belt",
-    "langName": "느슨한 끈 (옷)",
+    "langName": "느슨한 벨트",
     "object": "의복",
     "attribute": "장식",
     "preview": "https://img.aishort.top/imgprompt/20260213151551376.webp"
   },
   {
     "displayName": "pom_pom_(clothes)",
-    "langName": "작은 폼폼 (의류 액세서리)",
+    "langName": "폼폼 방울 장식",
     "object": "의복",
     "attribute": "장식",
     "preview": "https://img.aishort.top/imgprompt/20260213151807325.webp"
@@ -19895,7 +19895,7 @@
   },
   {
     "displayName": "gathers",
-    "langName": "플리츠 (의류)",
+    "langName": "개더 주름",
     "object": "의복",
     "attribute": "장식",
     "preview": "https://img.aishort.top/imgprompt/20260213151846596.webp"
@@ -20441,7 +20441,7 @@
   },
   {
     "displayName": "peace_symbol",
-    "langName": "☮(히가시카타 죠스케의 옷에 대해서)",
+    "langName": "평화 기호 (☮)",
     "object": "의복",
     "attribute": "무늬",
     "preview": "https://img.aishort.top/imgprompt/20260213154359591.webp"
@@ -20595,7 +20595,7 @@
   },
   {
     "displayName": "black_loafers",
-    "langName": "로퍼 (작은 가죽신발)",
+    "langName": "블랙 로퍼",
     "object": "의복",
     "attribute": "신발",
     "preview": "https://img.aishort.top/imgprompt/20260213160300808.webp"
@@ -20651,7 +20651,7 @@
   },
   {
     "displayName": "rudder_footwear",
-    "langName": "Ship C 특수화 Ship Girls 용",
+    "langName": "함선소녀 전용 신발",
     "object": "의복",
     "attribute": "신발",
     "preview": "https://img.aishort.top/imgprompt/20260213161458045.webp"
@@ -20868,7 +20868,7 @@
   },
   {
     "displayName": "knee_boots",
-    "langName": "무릎 높이 부츠 (승마용 부츠)",
+    "langName": "니하이 부츠",
     "object": "의복",
     "attribute": "부츠",
     "preview": "https://img.aishort.top/imgprompt/20260213170630231.webp"
@@ -21225,7 +21225,7 @@
   },
   {
     "displayName": "armband",
-    "langName": "완장 (armband)",
+    "langName": "완장",
     "object": "의복",
     "attribute": "소매",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
@@ -21680,7 +21680,7 @@
   },
   {
     "displayName": "alternate_headwear",
-    "langName": "원래의 것과 다른 머리 장비",
+    "langName": "대체 머리 장식",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213191902200.webp"
@@ -21715,7 +21715,7 @@
   },
   {
     "displayName": "xx_on_head",
-    "langName": "머리에 xx",
+    "langName": "머리 위에 얹기",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213192411659.webp"
@@ -21778,21 +21778,21 @@
   },
   {
     "displayName": "hachimaki",
-    "langName": "터번 (명사)",
+    "langName": "하치마키 (머리띠)",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213194023586.webp"
   },
   {
     "displayName": "helm",
-    "langName": "헬멧을 쓰고",
+    "langName": "투구 / 헬멧 착용",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213194036779.webp"
   },
   {
     "displayName": "helmet_removed",
-    "langName": "헬멧 벗었다 | 헬멧 벗었다",
+    "langName": "헬멧 벗었다",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213194050047.webp"
@@ -21827,7 +21827,7 @@
   },
   {
     "displayName": "skull_and_crossbones",
-    "langName": "해골과 뼈 (해적, 위험, 경고)",
+    "langName": "해골과 교차된 뼈",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213195005290.webp"
@@ -21841,7 +21841,7 @@
   },
   {
     "displayName": "headdress",
-    "langName": "머리 장식 (더 일반적)",
+    "langName": "헤드드레스",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213195638458.webp"
@@ -21869,21 +21869,21 @@
   },
   {
     "displayName": "horns_through_headwear",
-    "langName": "뿔을 위한 구멍이 있는 머리 장식",
+    "langName": "뿔 통과 머리 장식",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213200134487.webp"
   },
   {
     "displayName": "no_headwear",
-    "langName": "제거된 (기존) 머리 장비",
+    "langName": "머리 장식 없음",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213200147284.webp"
   },
   {
     "displayName": "object_on_head",
-    "langName": "머리에는 머리장식 외에 다른 것이 있습니다",
+    "langName": "머리 위 물체",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213200200049.webp"
@@ -21925,7 +21925,7 @@
   },
   {
     "displayName": "behind-the-head_headphones",
-    "langName": "머리 뒤쪽에서 착용하는 헤드폰",
+    "langName": "넥밴드 헤드폰",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213200337721.webp"
@@ -21988,14 +21988,14 @@
   },
   {
     "displayName": "head_mounted_display",
-    "langName": "헤드 마운트 디스플레이 장치 착용",
+    "langName": "헤드 마운트 디스플레이 (HMD)",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213201344092.webp"
   },
   {
     "displayName": "head_out_of_frame",
-    "langName": "머리의 일부가 프레임에 그려지지 않았습니다.",
+    "langName": "머리 프레임 아웃",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213201559216.webp"
@@ -22016,7 +22016,7 @@
   },
   {
     "displayName": "headgear",
-    "langName": "머리 장식 (특정 공상과학 요소 포함)",
+    "langName": "헤드기어",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213201840823.webp"
@@ -22030,7 +22030,7 @@
   },
   {
     "displayName": "heads-up_display",
-    "langName": "상태 표시줄 (게임 및 SF 스타일)",
+    "langName": "HUD (헤드업 디스플레이)",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213201907728.webp"
@@ -22065,7 +22065,7 @@
   },
   {
     "displayName": "single_head_wing",
-    "langName": "머리 한쪽에 날개가 있다",
+    "langName": "한쪽 머리 날개",
     "object": "장신구",
     "attribute": "머리 장식",
     "preview": "https://img.aishort.top/imgprompt/20260213202620422.webp"
@@ -22261,7 +22261,7 @@
   },
   {
     "displayName": "hairpods",
-    "langName": "머리카락에 무선 블루투스 헤어 액세서리 한 쌍",
+    "langName": "헤어팟",
     "object": "장신구",
     "attribute": "헤어 액세서리",
     "preview": "https://img.aishort.top/imgprompt/20260213210909139.webp"
@@ -22296,7 +22296,7 @@
   },
   {
     "displayName": "snake_hair_ornament",
-    "langName": "뱀 머리 액세서리 | 개구리 머리 액세서리",
+    "langName": "뱀 머리 장식",
     "object": "장신구",
     "attribute": "헤어 액세서리",
     "preview": "https://img.aishort.top/imgprompt/20260213211418419.webp"
@@ -22779,7 +22779,7 @@
   },
   {
     "displayName": "hat_removed",
-    "langName": "모자를 벗었다 | 모자를 벗었다",
+    "langName": "모자를 벗었다",
     "object": "장신구",
     "attribute": "모자",
     "preview": "https://img.aishort.top/imgprompt/20260213224231603.webp"
@@ -22800,7 +22800,7 @@
   },
   {
     "displayName": "hatching_(texture)",
-    "langName": "라인 셰이딩 (텍스처)",
+    "langName": "해칭 텍스처",
     "object": "장신구",
     "attribute": "모자",
     "preview": "https://img.aishort.top/imgprompt/20260213224329155.webp"
@@ -22926,14 +22926,14 @@
   },
   {
     "displayName": "sunglasses",
-    "langName": "선글라스 (눈을 가리는)",
+    "langName": "불투명 선글라스",
     "object": "장신구",
     "attribute": "안경",
     "preview": "https://img.aishort.top/imgprompt/20260213230746663.webp"
   },
   {
     "displayName": "reflection glasses",
-    "langName": "선글라스 (눈이 보이는)",
+    "langName": "투명 선글라스",
     "object": "장신구",
     "attribute": "안경",
     "preview": "https://img.aishort.top/imgprompt/20260213230759909.webp"
@@ -22954,7 +22954,7 @@
   },
   {
     "displayName": "eyepatch",
-    "langName": "안대 (한쪽 눈)",
+    "langName": "안대",
     "object": "장신구",
     "attribute": "안경",
     "preview": "https://img.aishort.top/imgprompt/20260213230839662.webp"
@@ -22982,14 +22982,14 @@
   },
   {
     "displayName": "coke-bottle_glasses",
-    "langName": "유리병 바닥만큼 두꺼운 둥근 유리잔",
+    "langName": "병 밑바닥 안경",
     "object": "장신구",
     "attribute": "안경",
     "preview": "https://img.aishort.top/imgprompt/20260213230932442.webp"
   },
   {
     "displayName": "no_eyewear",
-    "langName": "제거된 (기존) 안경",
+    "langName": "안경 없음",
     "object": "장신구",
     "attribute": "안경",
     "preview": "https://img.aishort.top/imgprompt/20260213230945224.webp"
@@ -23178,7 +23178,7 @@
   },
   {
     "displayName": "domino_mask",
-    "langName": "SM 마스크",
+    "langName": "도미노 가면",
     "object": "장신구",
     "attribute": "가면",
     "preview": "https://img.aishort.top/imgprompt/20260213233359905.webp"
@@ -23241,7 +23241,7 @@
   },
   {
     "displayName": "single_earring",
-    "langName": "귀걸이를 한쪽에만 착용",
+    "langName": "한쪽 귀걸이",
     "object": "장신구",
     "attribute": "귀걸이",
     "preview": "https://img.aishort.top/imgprompt/20260213235633818.webp"
@@ -23297,7 +23297,7 @@
   },
   {
     "displayName": "cuffs",
-    "langName": "칼",
+    "langName": "수갑",
     "object": "장신구",
     "attribute": "손 장신구",
     "preview": "https://img.aishort.top/imgprompt/20260213235839451.webp"
@@ -23325,7 +23325,7 @@
   },
   {
     "displayName": "leash",
-    "langName": "벨트",
+    "langName": "목줄 / 리드줄",
     "object": "장신구",
     "attribute": "손 장신구",
     "preview": "https://img.aishort.top/imgprompt/20260213235930034.webp"
@@ -23437,7 +23437,7 @@
   },
   {
     "displayName": "no_gloves",
-    "langName": "제거된 (기존) 장갑",
+    "langName": "장갑 없음",
     "object": "장신구",
     "attribute": "장갑",
     "preview": "https://img.aishort.top/imgprompt/20260214001315236.webp"
@@ -23451,7 +23451,7 @@
   },
   {
     "displayName": "single_elbow_glove",
-    "langName": "한 손에 팔꿈치 길이의 장갑을 끼고 있습니다.",
+    "langName": "한쪽 롱 글러브",
     "object": "장신구",
     "attribute": "장갑",
     "preview": "https://img.aishort.top/imgprompt/20260214001744860.webp"
@@ -23465,7 +23465,7 @@
   },
   {
     "displayName": "elbow_gloves",
-    "langName": "긴팔장갑 (팔꿈치장갑)",
+    "langName": "팔꿈치 장갑",
     "object": "장신구",
     "attribute": "장갑",
     "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
@@ -23500,14 +23500,14 @@
   },
   {
     "displayName": "paw_gloves",
-    "langName": "발톱장갑 (손가락장갑)",
+    "langName": "발바닥 젤리 장갑",
     "object": "장신구",
     "attribute": "장갑",
     "preview": "https://img.aishort.top/imgprompt/20260214002522561.webp"
   },
   {
     "displayName": "mittens",
-    "langName": "장갑 (두 손가락 장갑)",
+    "langName": "벙어리 장갑",
     "object": "장신구",
     "attribute": "장갑",
     "preview": "https://img.aishort.top/imgprompt/20260214002535788.webp"
@@ -23759,14 +23759,14 @@
   },
   {
     "displayName": "st._gloriana's_(emblem)",
-    "langName": "세인트 글로리아 안나 여학교 학교 상징",
+    "langName": "세인트 글로리아나 교장",
     "object": "장신구",
     "attribute": "작은 장식",
     "preview": "https://img.aishort.top/imgprompt/20260214010157304.webp"
   },
   {
     "displayName": "heart_lock_(kantai_collection)",
-    "langName": "Ship Girl Lock (선박 C)",
+    "langName": "하트 락 (칸코레)",
     "object": "장신구",
     "attribute": "작은 장식",
     "preview": "https://img.aishort.top/imgprompt/20260214010210385.webp"
@@ -23990,14 +23990,14 @@
   },
   {
     "displayName": "Wu Xing",
-    "langName": "5 대 요소 (금, 목, 수, 불, 흙)",
+    "langName": "오행 (음양오행)",
     "object": "장신구",
     "attribute": "기호",
     "preview": "https://img.aishort.top/imgprompt/20260214020503233.webp"
   },
   {
     "displayName": "dynamic pose",
-    "langName": "다이나믹한 포즈 (활기찬)",
+    "langName": "역동적인 포즈",
     "object": "사진",
     "attribute": "시점",
     "preview": "https://img.aishort.top/imgprompt/20260214020718871.webp"
@@ -24319,28 +24319,28 @@
   },
   {
     "displayName": "cowboy_shot",
-    "langName": "상체 + 허벅지 윗부분 (데님렌즈)",
+    "langName": "카우보이 샷 (허벅지 위 구도)",
     "object": "사진",
     "attribute": "촬영 높이",
     "preview": "https://img.aishort.top/imgprompt/20260214032314849.webp"
   },
   {
     "displayName": "portrait",
-    "langName": "초상화 (얼굴 + 어깨 + 가끔 가슴)",
+    "langName": "인물 초상",
     "object": "사진",
     "attribute": "촬영 높이",
     "preview": "https://img.aishort.top/imgprompt/20260214032327856.webp"
   },
   {
     "displayName": "very close portrait",
-    "langName": "클로즈업 초상화 (카메라를 더 가까이)",
+    "langName": "초근접 인물 초상",
     "object": "사진",
     "attribute": "촬영 높이",
     "preview": "https://img.aishort.top/imgprompt/20260214032544032.webp"
   },
   {
     "displayName": "profile",
-    "langName": "프로필 초상화 (프로필 버전의 초상화)",
+    "langName": "옆모습 초상",
     "object": "사진",
     "attribute": "촬영 높이",
     "preview": "https://img.aishort.top/imgprompt/20260214032759101.webp"
@@ -24375,7 +24375,7 @@
   },
   {
     "displayName": "wide_shot",
-    "langName": "파노라마 렌즈 (광각 렌즈)",
+    "langName": "와이드 샷",
     "object": "사진",
     "attribute": "렌즈 초점",
     "preview": "https://img.aishort.top/imgprompt/20260214033851759.webp"
@@ -24389,7 +24389,7 @@
   },
   {
     "displayName": "inset",
-    "langName": "추가 영상이나 사진을 삽입하세요",
+    "langName": "인셋",
     "object": "사진",
     "attribute": "렌즈 초점",
     "preview": "https://img.aishort.top/imgprompt/20260214033931731.webp"
@@ -24403,21 +24403,21 @@
   },
   {
     "displayName": "male focus",
-    "langName": "남성 중심 (여성 중심)",
+    "langName": "남성 중심 초점",
     "object": "사진",
     "attribute": "렌즈 초점",
     "preview": "https://img.aishort.top/imgprompt/20260214033958195.webp"
   },
   {
     "displayName": "solo_focus",
-    "langName": "단일 캐릭터에 집중 (복잡한 장면에 적합)",
+    "langName": "솔로 포커스",
     "object": "사진",
     "attribute": "렌즈 초점",
     "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
   },
   {
     "displayName": "xx_focus",
-    "langName": "xx 에 집중해",
+    "langName": "특정 부위 초점",
     "object": "사진",
     "attribute": "렌즈 초점",
     "preview": "https://img.aishort.top/imgprompt/20260214034023889.webp"
@@ -24459,7 +24459,7 @@
   },
   {
     "displayName": "vehicle_focus",
-    "langName": "차량 (자동차) 에 집중하세요",
+    "langName": "탈것 중심 초점",
     "object": "사진",
     "attribute": "렌즈 초점",
     "preview": "https://img.aishort.top/imgprompt/20260214034759257.webp"
@@ -24473,21 +24473,21 @@
   },
   {
     "displayName": "between_legs",
-    "langName": "(강조) 다리 사이",
+    "langName": "다리 사이 구도",
     "object": "사진",
     "attribute": "렌즈 초점",
     "preview": "https://img.aishort.top/imgprompt/20260214035455577.webp"
   },
   {
     "displayName": "between_breasts",
-    "langName": "(튀어나온) 가슴",
+    "langName": "가슴골 클로즈업 구도",
     "object": "사진",
     "attribute": "렌즈 초점",
     "preview": "https://img.aishort.top/imgprompt/20260225091239828.webp"
   },
   {
     "displayName": "between_fingers",
-    "langName": "(눈에 띄는 부분) 손가락 사이",
+    "langName": "손가락 틈새 뷰",
     "object": "사진",
     "attribute": "렌즈 초점",
     "preview": "https://img.aishort.top/imgprompt/20260214035531987.webp"
@@ -24501,14 +24501,14 @@
   },
   {
     "displayName": "peeking_out",
-    "langName": "엿보는 (제스처)",
+    "langName": "빼꼼 내다보기",
     "object": "사진",
     "attribute": "렌즈 초점",
     "preview": "https://img.aishort.top/imgprompt/20260214035557635.webp"
   },
   {
     "displayName": "peeping",
-    "langName": "관음증 (관점에 대한 강조)",
+    "langName": "훔쳐보기 시점",
     "object": "사진",
     "attribute": "렌즈 초점",
     "preview": "https://img.aishort.top/imgprompt/20260214035610390.webp"
@@ -24662,7 +24662,7 @@
   },
   {
     "displayName": "Brenizer Method",
-    "langName": "나선형 샷",
+    "langName": "브레니저 기법 (보케 파노라마)",
     "object": "사진",
     "attribute": "렌즈/광학 효과",
     "preview": "https://img.aishort.top/imgprompt/20260214041350224.webp"
@@ -24697,7 +24697,7 @@
   },
   {
     "displayName": "landscape",
-    "langName": "풍경 촬영 (롱샷)",
+    "langName": "풍경 샷",
     "object": "사진",
     "attribute": "렌즈/광학 효과",
     "preview": "https://img.aishort.top/imgprompt/20260214041814281.webp"
@@ -24844,7 +24844,7 @@
   },
   {
     "displayName": "polaroid",
-    "langName": "사진 (폴라로이드)",
+    "langName": "폴라로이드 즉석사진",
     "object": "사진",
     "attribute": "사진 스타일",
     "preview": "https://img.aishort.top/imgprompt/20260214044251180.webp"
@@ -25292,7 +25292,7 @@
   },
   {
     "displayName": "depth of field",
-    "langName": "피사계 심도 (인간 장면 조정)",
+    "langName": "피사계 심도",
     "object": "사진",
     "attribute": "효과",
     "preview": "https://img.aishort.top/imgprompt/20260224191234161.webp"
@@ -25320,14 +25320,14 @@
   },
   {
     "displayName": "bokeh",
-    "langName": "코스틱 (흐린 배경)",
+    "langName": "보케",
     "object": "사진",
     "attribute": "효과",
     "preview": "https://img.aishort.top/imgprompt/20260224191333274.webp"
   },
   {
     "displayName": "chromatic_aberration",
-    "langName": "색수차, 색상이 초점이 맞지 않음",
+    "langName": "색수차",
     "object": "사진",
     "attribute": "효과",
     "preview": "https://img.aishort.top/imgprompt/20260224191548893.webp"
@@ -25818,7 +25818,7 @@
   },
   {
     "displayName": "Crepuscular Rays",
-    "langName": "희미한 빛",
+    "langName": "빛내림 / 틴들 현상",
     "object": "빛과 그림자 효과",
     "attribute": "조명 효과",
     "preview": "https://img.aishort.top/imgprompt/20260224200322540.webp"
@@ -25860,14 +25860,14 @@
   },
   {
     "displayName": "lens flare",
-    "langName": "렌즈 플레어 (백라이팅)",
+    "langName": "렌즈 플레어",
     "object": "빛과 그림자 효과",
     "attribute": "조명 효과",
     "preview": "https://img.aishort.top/imgprompt/20260224200437632.webp"
   },
   {
     "displayName": "Contre-Jour",
-    "langName": "역광 (콩트르주르)",
+    "langName": "역광",
     "object": "빛과 그림자 효과",
     "attribute": "조명 효과",
     "preview": "https://img.aishort.top/imgprompt/20260224200453423.webp"
@@ -27113,7 +27113,7 @@
   },
   {
     "displayName": "Dispersion",
-    "langName": "분산 (다른 색깔의 빛이 분리되는 현상)",
+    "langName": "빛의 분산",
     "object": "색감",
     "attribute": "어두운 톤",
     "preview": "https://img.aishort.top/imgprompt/20260224221649393.webp"
@@ -27645,7 +27645,7 @@
   },
   {
     "displayName": "Tetradic-Colors",
-    "langName": "4 가지 색상 (직사각형 색상 매칭)",
+    "langName": "테트라드 배색",
     "object": "색감",
     "attribute": "색상 팔레트",
     "preview": "https://img.aishort.top/imgprompt/20260224223613371.webp"
@@ -27863,7 +27863,7 @@
   },
   {
     "displayName": "CGA",
-    "langName": "CGGA(씨가)",
+    "langName": "CGGA",
     "object": "색감",
     "attribute": "모니터 색상 팔레트",
     "preview": "https://img.aishort.top/imgprompt/20260224224347905.webp"
@@ -27940,14 +27940,14 @@
   },
   {
     "displayName": "YCbCr",
-    "langName": "아이크비",
+    "langName": "YCbCr",
     "object": "색감",
     "attribute": "모니터 색상 팔레트",
     "preview": "https://img.aishort.top/imgprompt/20260224224629664.webp"
   },
   {
     "displayName": "YPbPr",
-    "langName": "와이씨야",
+    "langName": "YPbPr",
     "object": "색감",
     "attribute": "모니터 색상 팔레트",
     "preview": "https://img.aishort.top/imgprompt/20260224224643063.webp"
@@ -29914,7 +29914,7 @@
   },
   {
     "displayName": "Putty",
-    "langName": "공극을 밀봉하고 채우기 위한 접착제",
+    "langName": "퍼티",
     "object": "소재",
     "attribute": "점액",
     "preview": "https://img.aishort.top/imgprompt/20260224235936705.webp"
@@ -31356,7 +31356,7 @@
   },
   {
     "displayName": "((dyeing)),((oil painting)),((impasto))",
-    "langName": "유화 (조합)",
+    "langName": "임파스토 유화풍 믹스",
     "object": "이미지 유형",
     "attribute": "그림",
     "preview": "https://img.aishort.top/imgprompt/20260225004949979.webp"
@@ -31622,7 +31622,7 @@
   },
   {
     "displayName": "extremely detailed cg",
-    "langName": "매우 자세한 CG",
+    "langName": "초고화질 게임 CG",
     "object": "이미지 유형",
     "attribute": "삽화",
     "preview": "https://img.aishort.top/imgprompt/20260225010029642.webp"
@@ -31825,7 +31825,7 @@
   },
   {
     "displayName": "copics",
-    "langName": "마커 (중성 회색)",
+    "langName": "코픽 마커 드로잉풍",
     "object": "이미지 유형",
     "attribute": "잉크",
     "preview": "https://img.aishort.top/imgprompt/20260225010656308.webp"
@@ -32126,7 +32126,7 @@
   },
   {
     "displayName": "Pokemon Card",
-    "langName": "포켓몬 카드 (포켓몬스터)",
+    "langName": "포켓몬 카드 스타일",
     "object": "이미지 유형",
     "attribute": "인쇄",
     "preview": "https://img.aishort.top/imgprompt/20260225011638981.webp"
@@ -32518,7 +32518,7 @@
   },
   {
     "displayName": "traditional_media",
-    "langName": "전통적인 캔버스 (종이 등)",
+    "langName": "전통 회화 매체",
     "object": "이미지 유형",
     "attribute": "기타 매체",
     "preview": "https://img.aishort.top/imgprompt/20260225013600028.webp"
@@ -33078,7 +33078,7 @@
   },
   {
     "displayName": "miserablism",
-    "langName": "우울증 (사회의 빈곤과 불의에 대한 비판)",
+    "langName": "미제라블리즘",
     "object": "아트 스타일",
     "attribute": "허구와 현실",
     "preview": "https://img.aishort.top/imgprompt/20260225015538415.webp"
@@ -33169,7 +33169,7 @@
   },
   {
     "displayName": "illustration,(((ukiyoe))),((sketch)),((japanese_art))",
-    "langName": "우키요에 (그룹)",
+    "langName": "우키요에 목판화풍",
     "object": "아트 스타일",
     "attribute": "아시아 미술",
     "preview": "https://img.aishort.top/imgprompt/20260225015830944.webp"
@@ -33260,7 +33260,7 @@
   },
   {
     "displayName": "heavy contrast",
-    "langName": "강한 대비 (색상 강조)",
+    "langName": "강렬한 고대비",
     "object": "아트 스타일",
     "attribute": "사진/그림 스타일",
     "preview": "https://img.aishort.top/imgprompt/20260225020108984.webp"
@@ -33323,7 +33323,7 @@
   },
   {
     "displayName": "film noir",
-    "langName": "필름 누아르 (죄책감, 욕망, 복수)",
+    "langName": "필름 누아르 스타일",
     "object": "아트 스타일",
     "attribute": "사진/그림 스타일",
     "preview": "https://img.aishort.top/imgprompt/20260225020255566.webp"
@@ -33337,7 +33337,7 @@
   },
   {
     "displayName": "fantasy",
-    "langName": "공상과학 장면에 적합",
+    "langName": "판타지 스타일",
     "object": "아트 스타일",
     "attribute": "공상과학",
     "preview": "https://img.aishort.top/imgprompt/20260225020323046.webp"
@@ -33393,7 +33393,7 @@
   },
   {
     "displayName": "ww3 style",
-    "langName": "ww3 스타일",
+    "langName": "제3차 세계대전 스타일",
     "object": "아트 스타일",
     "attribute": "공상과학",
     "preview": "https://img.aishort.top/imgprompt/20260225020500212.webp"
@@ -33624,14 +33624,14 @@
   },
   {
     "displayName": "column lineup",
-    "langName": "작은 그림들이 모여 큰 그림을 이룹니다",
+    "langName": "다단 열 배치",
     "object": "아트 스타일",
     "attribute": "출판물",
     "preview": "https://img.aishort.top/imgprompt/20260225021130372.webp"
   },
   {
     "displayName": "zoom layer",
-    "langName": "배경은 전경의 확대된 버전입니다.",
+    "langName": "줌 레이어 배경",
     "object": "아트 스타일",
     "attribute": "출판물",
     "preview": "https://img.aishort.top/imgprompt/20260225021142834.webp"
@@ -33680,7 +33680,7 @@
   },
   {
     "displayName": "highres",
-    "langName": "임파스토 (스타일)",
+    "langName": "디지털 임파스토 화풍",
     "object": "아트 스타일",
     "attribute": "디지털 아트",
     "preview": "https://img.aishort.top/imgprompt/20260225021323241.webp"
@@ -34233,7 +34233,7 @@
   },
   {
     "displayName": "Sabattier Effect",
-    "langName": "부드럽고 흐릿한 모서리와 색상 음영을 제공합니다.",
+    "langName": "사바티에 효과 (솔라리제이션)",
     "object": "후처리",
     "attribute": "이미지 처리",
     "preview": "https://img.aishort.top/imgprompt/20260225022949265.webp"
@@ -34268,7 +34268,7 @@
   },
   {
     "displayName": "Harris Shutter",
-    "langName": "빠르게 움직이는 물체를 포착하거나 조명이 어두운 환경에서도 이미지 선명도를 유지합니다.",
+    "langName": "해리스 셔터 효과",
     "object": "후처리",
     "attribute": "이미지 처리",
     "description": "빠르게 움직이는 피사체를 포착하거나 저조도 환경에서 이미지 선명도를 유지하는 기법",
@@ -34703,7 +34703,7 @@
   },
   {
     "displayName": "A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space,a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve,gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline,Beacon Hill brownstones,Acorn Street,Boston Public Garden,Swan Boats,Zakim Bridge,Fenway-inspired details,historic brick architecture,harbor ferries,and the city’s waterfront atmosphere. Soft morning fog,golden spring light,subtle festive accents in crimson and gold,rich detail,layered depth,sophisticated city-poster aesthetics,fresh and refined,visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON,A CITY OF RIVER,MEMORY,AND INVENTION”,text clear and beautifully composed,premium graphic design,9:16",
-    "langName": "Boston 2026 봄 도시 포스터",
+    "langName": "보스턴 2026 봄 도시 포스터",
     "object": "쇼케이스",
     "attribute": "포스터",
     "description": "by @BubbleBrain (https://x.com/BubbleBrain)",
@@ -34711,7 +34711,7 @@
   },
   {
     "displayName": "Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast,Italy,panoramic coastal cliff road scene,classic 1960s white car driving along a curved seaside road,deep blue Mediterranean sea with small sailboats,colorful pastel hillside village,bright blue sky with soft clouds,lemon tree branches with vibrant yellow lemons framing the foreground,warm summer sunlight,bold vibrant colors,retro 1950s travel poster style,cinematic composition,high detail,screen print texture,graphic illustration. Hand-drawn style,illustration with loose strokes and defined contours. High-contrast color palette,maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.",
-    "langName": "빈티지 Amalfi 여행 포스터",
+    "langName": "빈티지 아말피 여행 포스터",
     "object": "쇼케이스",
     "attribute": "포스터",
     "description": "by @WolfRiccardo (https://x.com/WolfRiccardo)",
@@ -34719,7 +34719,7 @@
   },
   {
     "displayName": "一张手绘风格的城市美食地图,以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底,标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等,每个插画约占地图的 5% 面积,旁边用手写体标注店名和一句推荐语\"凌晨两点还在排队的那家\"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题\"成都·吃货暴走地图\"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感,颜色以暖色系（辣椒红、姜黄、翠绿）为主,图片比例 1:1。",
-    "langName": "Chengdu 음식 지도 일러스트",
+    "langName": "청두 음식 지도 일러스트",
     "object": "쇼케이스",
     "attribute": "포스터",
     "description": "by @Panda20230902 (https://x.com/Panda20230902)",
@@ -34734,8 +34734,8 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151157243.webp"
   },
   {
-    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑(广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
-    "langName": "2026 봄 Guangzhou 도시 포스터",
+    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑（广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
+    "langName": "2026 봄 광저우 도시 포스터",
     "object": "쇼케이스",
     "attribute": "포스터",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34743,7 +34743,7 @@
   },
   {
     "displayName": "以涂鸦速写风表现【一个厉害的AI builder】,整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一,略显凌乱但具有节奏和表现力,强调概括、夸张、趣味和随性,而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现,可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感,色彩根据【主题/主体】自动适配,但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果,不要细腻水彩过渡,不要纸纹理,不要柔和雾化,不要梦幻质感。  背景以留白为主,保持简洁、轻松、未完成感和设计感,可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素,以增强速写本或随笔式视觉语言,但不可过于拥挤,不可破坏主体和留白气质。  画面内容不需要预先写清楚,由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景,整体保持统一的涂鸦速写风和夸张概括的表现方式,避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“BlanPlan”,作为画面的一部分,位置低调但清晰,可放在左下角、右下角或标题附近,风格需与整体版式统一,像作品署名或设计落款；签名字体精致、克制、高级,不可过大,不可破坏主体构图,不可显得突兀或廉价。",
-    "langName": "낙서 스케치 AI 빌더",
+    "langName": "AI 빌더 낙서 스케치",
     "object": "쇼케이스",
     "attribute": "포스터",
     "description": "by @blanplan (https://x.com/blanplan)",
@@ -34759,7 +34759,7 @@
   },
   {
     "displayName": "小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて",
-    "langName": "Super Famicom 포스터 스타일",
+    "langName": "슈퍼 패미컴 포스터 스타일",
     "object": "쇼케이스",
     "attribute": "포스터",
     "description": "by @lilimliliychan (https://x.com/lilimliliychan)",
@@ -34783,7 +34783,7 @@
   },
   {
     "displayName": "纯黑深邃底色,一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端,构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟,内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列,前景有白鹤与湖面,远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀,东方美学与现代意象交融,8K 超高清渲染,比例 9:16。",
-    "langName": "먹 곡선 Guangzhou 미학 포스터",
+    "langName": "먹 곡선 광저우 미학 포스터",
     "object": "쇼케이스",
     "attribute": "포스터",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34799,7 +34799,7 @@
   },
   {
     "displayName": "一张充满新春喜庆但高雅的 2026 广州城市宣传海报,9:16 竖版,双重曝光,S 型流动构图。纯白纹理背景,右下角微缩传统服饰人物挥舞长红绸,红绸变形成山脉河流,内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。",
-    "langName": "2026 봄 Guangzhou 프로모 포스터",
+    "langName": "2026 봄 광저우 프로모 포스터",
     "object": "쇼케이스",
     "attribute": "포스터",
     "description": "by @grok (https://x.com/grok)",
@@ -34823,7 +34823,7 @@
   },
   {
     "displayName": "以珠江新城现代都市景观为灵感的剪纸艺术,通过精巧的镂空手法在一整幅纸上,立体刻画广州塔、东西双塔等地标建筑与繁华城景。\n所有建筑与元素均以流畅的线条与结构相连,无孤立部分,构成一幅完整的都市画卷。\n画面采用金属箔或光泽纸材质,表面带有细腻的明暗光泽,在光照下呈现柔和的高光与阴影,仿佛被城市灯光轻轻照亮。\n背景以虚化的珠江新城天际线为衬,点缀隐约可见的花城广场与树木轮廓,整体透出现代浪漫的氛围。\n作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点,象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉,细节丰富,真实而富有艺术感染力。",
-    "langName": "Guangzhou 종이 오리기 도시 포스터",
+    "langName": "광저우 종이 오리기 도시 포스터",
     "object": "쇼케이스",
     "attribute": "포스터",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34919,7 +34919,7 @@
   },
   {
     "displayName": "平面插画,东方幻想风格高端城市海报设计,竖版9:16构图,整体采用对角线+S型流动构图,从左下向右上延展,画面以深邃黑色为背景,自上而下渐变至浓烈暗红色,形成强烈冷暖对比与空间纵深,背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿,自底部向上延伸,具有流体质感、粒子光效与渐变高光,局部带细微能量碎屑与体积光。\n\n金色流光中逐层浮现广州城市地标建筑群:广州塔为视觉核心,比例突出,周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素,建筑采用“精细线描 + 金色发光体块”表现,轮廓清晰、细节丰富,在金色光晕映衬下仿佛悬浮于虚空,形成超现实空间层次,远景轻微雾化增强纵深感。\n\n画面底部为一位东方白发女性形象,长发飘逸,如烟似雾,与金色流光自然衔接并逐渐融合,发丝半透明带渐变光感,姿态柔美,双目微闭,神情宁静,怀抱一束多彩鲜花,花间点缀微光粒子与星点效果,象征人与城市能量的精神连接,人物细节适度简化以突出整体设计感。\n\n光影集中于金色流线、建筑与人物轮廓,形成强烈明暗对比与视觉聚焦,整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底,高亮鎏金为主视觉强调,金色具备丰富明暗层次,辅以小面积高饱和花束色彩点缀,整体高级克制。\n\n页面文字与画面融合排版:顶部居中宋体大字“广州·中国”,下方小字“2026/04/20”,再下方小字“LIYUE”,文字采用淡金色或柔和暖白色,与整体光影统一。高品质细节,电影级光影表现,体积光与粒子细节丰富,画面干净无噪点,超高清8K分辨率,商业级海报质感。",
-    "langName": "다크 판타지 Guangzhou 도시 포스터",
+    "langName": "다크 판타지 광저우 도시 포스터",
     "object": "쇼케이스",
     "attribute": "포스터",
     "description": "by @liyue_ai (https://x.com/liyue_ai)",
@@ -34951,7 +34951,7 @@
   },
   {
     "displayName": "A refined 2026 Silicon Valley city promotional poster with a futuristic yet elegant atmosphere.\n\nDouble exposure composition,preserving an S-shaped sense of flowing movement. On a pure white textured background,in the lower-right corner,a miniature figure dressed in sleek modern techwear is releasing a long ribbon of luminous silver-blue light. The ribbon flows gracefully through the air,showing a soft silk-like texture,and as it drifts toward the upper-left,it magically transforms into a grand landscape of rolling hills,coastline,data streams,and illuminated urban terrain.\n\nWithin this flowing “river of light,” overlay a hand-drawn panoramic map of Silicon Valley,blending technology,nature,innovation,and California sunlight. The scene feels visionary,expansive,sophisticated,and inspiring.\n\nInclude iconic Silicon Valley and Bay Area elements: Stanford University arches,Apple Park,Google campus-inspired buildings,Meta-like glass offices,Tesla-style innovation imagery,venture capital offices on Sand Hill Road,Palo Alto tree-lined streets,San Jose skyline,the Santa Cruz Mountains,San Francisco Bay,highways,autonomous vehicles,startup labs,semiconductor patterns,AI data centers,and subtle circuit-board textures.\n\nSurrounded by soft mist,golden California light,floating clouds,and delicate digital particles. Rich colors,complex structure,highly detailed,grand and breathtaking,yet still fresh and minimal because of the large areas of white space.\n\nIn the lower-left corner,elegant typography reads “SILICON VALLEY 2026” with a vertical promotional slogan: “Where Ideas Shape Tomorrow.” Beautiful editorial layout,graceful spacing,clear and complete lettering,premium city branding poster,cinematic lighting,sophisticated details,9:16 aspect ratio.",
-    "langName": "Silicon Valley 2026 프로모 포스터",
+    "langName": "실리콘밸리 2026 프로모 포스터",
     "object": "쇼케이스",
     "attribute": "포스터",
     "description": "by @carsonyungos (https://x.com/carsonyungos)",
@@ -35111,7 +35111,7 @@
   },
   {
     "displayName": "最新モデルの画像生成ツールを使用して、\nこのちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）\nギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。\n\n「ここに自己紹介」\n\n名前:（ここに名前） \nイメージカラー:（ここに色） \n身長:（ここに身長）cm \n体重:（ここに体重）kg\nキャッチコピー:”「ここにセリフ」”",
-    "langName": "갈 게임 캐릭터 소개 페이지",
+    "langName": "미소녀 연애 시뮬레이션 (Galgame) 캐릭터 소개 페이지",
     "object": "쇼케이스",
     "attribute": "캐릭터",
     "description": "by @09lyco (https://x.com/09lyco)",
@@ -35119,7 +35119,7 @@
   },
   {
     "displayName": "このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 \n・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 \n・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる \n・全体は整理されたレイアウト\n（白背景、図解風） \n・アスペクト比16：9\n\n高解像度、プロのコンセプトアートスタイル",
-    "langName": "공식 캐릭터 시트 (JP)",
+    "langName": "공식 캐릭터 설정 자료집",
     "object": "쇼케이스",
     "attribute": "캐릭터",
     "description": "by @Toshi_nyaruo_AI (https://x.com/Toshi_nyaruo_AI)",
@@ -35135,7 +35135,7 @@
   },
   {
     "displayName": "生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片,每张卡牌上写上对应的中文名,每行4个,宽高比16:9。",
-    "langName": "세인트 세이야 황금 성투사 카드 그리드",
+    "langName": "세인트 세이야 골드 세인트 카드 그리드",
     "object": "쇼케이스",
     "attribute": "캐릭터",
     "description": "by @songguoxiansen (https://x.com/songguoxiansen)",
@@ -35159,7 +35159,7 @@
   },
   {
     "displayName": "Amateur iPhone photo at Apple Park during the iPhone 20 keynote,Tim Cook presenting on stage. Shot from the crowd at a distance",
-    "langName": "아마추어 iPhone 키노트 스냅샷",
+    "langName": "아이폰 키노트 스냅샷",
     "object": "쇼케이스",
     "attribute": "UI",
     "description": "by @patrickassale (https://x.com/patrickassale)",
@@ -35191,7 +35191,7 @@
   },
   {
     "displayName": "9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊！",
-    "langName": "Liu Yifei Douyin 라이브 스트림 스크린샷",
+    "langName": "류이페이 틱톡/도우인 라이브 방송 스크린샷",
     "object": "쇼케이스",
     "attribute": "UI",
     "description": "by @alanblogsooo (https://x.com/alanblogsooo)",
@@ -35199,7 +35199,7 @@
   },
   {
     "displayName": "태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.",
-    "langName": "조선 태조 이성계의 X 페이지",
+    "langName": "태조 이성계의 X 페이지",
     "object": "쇼케이스",
     "attribute": "UI",
     "description": "by @SKA_Neotype (https://x.com/SKA_Neotype)",
@@ -35215,7 +35215,7 @@
   },
   {
     "displayName": "「いらすとや」のほのぼのとした雰囲気と、「霞ヶ関スライド」の圧倒的な情報密度を融合させた、桃太郎の解説スライド（ポンチ絵）を作成して",
-    "langName": "모모타로 설명 슬라이드",
+    "langName": "모모타로 해설 슬라이드",
     "object": "쇼케이스",
     "attribute": "UI",
     "description": "by @yammamon (https://x.com/yammamon)",
@@ -35223,7 +35223,7 @@
   },
   {
     "displayName": "请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。\n\n要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构,用户无需再提供其他信息。\n\n整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图,而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感,整体高级、克制、专业、可收藏。\n\n版式固定为：\n- 顶部：中文主标题 + 副标题 + 导语\n- 左侧：结构拆解区,中文引线标注关键部件,并配局部特写\n- 右上：材质 / 工艺 / 质感区,展示真实纹理小样并附说明\n- 右中：纹样 / 色彩 / 寓意区,展示主色板、纹样样本和文化解释\n- 底部：穿着顺序 / 构成流程图 + 核心特征总结\n\n若主题适合人物展示,则以真实人物全身站姿为中央主体；若更适合器物或单体结构,则改为中心主体拆解图,但整体仍保持完整中文信息图形式。所有文字必须为简体中文,清晰、规整、可读,不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。\n\n避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。",
-    "langName": "박물관 스타일 한푸 분석 인포그래픽",
+    "langName": "박물관 도감 스타일 한푸 분해도",
     "object": "쇼케이스",
     "attribute": "UI",
     "description": "by @MrLarus (https://x.com/MrLarus)",
@@ -35231,7 +35231,7 @@
   },
   {
     "displayName": "この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。",
-    "langName": "일본 RPG 상태 화면",
+    "langName": "레트로 RPG 상태 화면",
     "object": "쇼케이스",
     "attribute": "UI",
     "description": "by @Kashiko_AIart (https://x.com/Kashiko_AIart)",
@@ -35239,7 +35239,7 @@
   },
   {
     "displayName": "玄武门之变的朋友圈",
-    "langName": "현무문 소셜 피드",
+    "langName": "현무문의 변 타임라인",
     "object": "쇼케이스",
     "attribute": "UI",
     "description": "by @Tz_2022 (https://x.com/Tz_2022)",
@@ -35263,7 +35263,7 @@
   },
   {
     "displayName": "生成一张慈禧的X主页",
-    "langName": "서태후 X 페이지",
+    "langName": "서태후의 X 페이지",
     "object": "쇼케이스",
     "attribute": "UI",
     "description": "by @Cryptohaifeng_ (https://x.com/Cryptohaifeng_)",
@@ -35287,7 +35287,7 @@
   },
   {
     "displayName": "GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください",
-    "langName": "Don Quijote 프로모 팝 포스터",
+    "langName": "돈키호테 매장 POP 스타일 손글씨 포스터",
     "object": "쇼케이스",
     "attribute": "UI",
     "description": "by @loglogrog (https://x.com/loglogrog)",
@@ -35295,7 +35295,7 @@
   },
   {
     "displayName": "日本のソシャゲのガチャ画面を生成して、",
-    "langName": "일본 가챠 게임 화면",
+    "langName": "일본 모바일 가챠 게임 화면",
     "object": "쇼케이스",
     "attribute": "UI",
     "description": "by @the_wheel_2024 (https://x.com/the_wheel_2024)",
@@ -35303,7 +35303,7 @@
   },
   {
     "displayName": "A 9:16 vertical version,high-detail realistic style Chinese TikTok live screenshot,Elon Musk is talking to the mobile phone camera in the live broadcast room,excited,smiling,and the live atmosphere is warm and real. He held a white handwritten sign in one hand,which clearly said: \"Thank you Shinning\". There are obvious Chinese TikTok interface elements in the live broadcast screen,including likes,comments and share icons arranged vertically on the right,scrolling Chinese bullet screens and interactive comments below,and the \"live broadcast\" logo at the top,which looks like a real mobile phone screenshot. There is an eye-catching gift prompt special effect in the screen: \"Shinning sent TikTok No. 1\",with gift animation light effect and platform-style prompt box. Musk is in a professional live broadcast environment,with a mobile phone holder,a ring fill light and a desktop microphone in front of him. The background is a modern technology live broadcast room with bright lights and a slight neon atmosphere. The composition is real and natural,like the ongoing live screenshot of the Chinese short video platform. The interface information is rich but not messy,the characters are clear,the expression is vivid,the details are rich,the sense of real photography,the depth of field,high definition,cinematic,photorealistic,realistic livestream screenshot,social media UI,Chinese Douyin live room,detailed lighting,natural skin texture.\n\nNegative prompts:\n\nLow definition,blur,cartoon,illustration,too strong CG sense,two-dimensional,deformed fingers,wrong text,scrambled code,multiple mobile phones,multiple brands,character repetition,face collapse,facial features distortion,excessive skin polishing,overexposure,too dark,messy background,wrong UI,non-Chinese short video interface,too many English bullet screens,gift special effects are not obvious,cropping error,proportional error\n\nSupplementary reinforcement words:\n\nReal mobile phone screen recording screenshot feeling,the live broadcast UI is complete,the gift prompt box conforms to the style of the Chinese short video platform,the Chinese comment area is active,the number of people online in the live broadcast room is clearly displayed,and the time,power and signal bar are visible.",
-    "langName": "Elon Musk Douyin 라이브 스트림 스크린샷",
+    "langName": "일론 머스크 틱톡/도우인 라이브 방송 화면",
     "object": "쇼케이스",
     "attribute": "UI",
     "description": "by @Shinning1010 (https://x.com/Shinning1010)",
@@ -35311,7 +35311,7 @@
   },
   {
     "displayName": "9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊!",
-    "langName": "Liu Yifei Douyin 라이브 스트림 스크린샷",
+    "langName": "류이페이 틱톡/도우인 라이브 방송 화면",
     "object": "쇼케이스",
     "attribute": "UI",
     "description": "by @kylegeeks (https://x.com/kylegeeks)",
@@ -35327,7 +35327,7 @@
   },
   {
     "displayName": "1、生成特朗普和金正恩在抖音直播间打PK的截图  \n2、生成不知火舞的小红书主页截图  \n3、生成图片: 手写在教室黑板上的出师表全文,真实感的粉笔字迹,晴朗白天用iPhone手机实拍  \n4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图,产品价格,产品细节,功能和使用场景等",
-    "langName": "Trump와 Kim 라이브 PK 스크린샷",
+    "langName": "트럼프 대 김정은 라이브 방송 PK 배틀",
     "object": "쇼케이스",
     "attribute": "UI",
     "description": "by @alanlovelq (https://x.com/alanlovelq)",
@@ -35398,7 +35398,7 @@
   },
   {
     "displayName": "fitted jeans,oversized jacket,navel",
-    "langName": "캐주얼 핫걸 코디(데님+크롭탑)",
+    "langName": "캐주얼 핫걸 코디 (데님+크롭탑)",
     "object": "쇼케이스",
     "attribute": "의상",
     "preview": "https://img.aishort.top/imgprompt/20260207163033732.webp"

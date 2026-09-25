@@ -435,7 +435,7 @@
   },
   {
     "displayName": "cleric",
-    "langName": "Clergy (Christian)",
+    "langName": "Cleric",
     "object": "Character",
     "attribute": "Identity",
     "preview": "https://img.aishort.top/imgprompt/20260208072159895.webp"
@@ -541,14 +541,14 @@
   },
   {
     "displayName": "otoko_no_ko",
-    "langName": "Otokonoko (male with female appearance)",
+    "langName": "Otokonoko",
     "object": "Character",
     "attribute": "Identity",
     "preview": "https://img.aishort.top/imgprompt/20260208074725601.webp"
   },
   {
     "displayName": "gyaru",
-    "langName": "Hot girls (Japanese girls)",
+    "langName": "Gyaru",
     "object": "Character",
     "attribute": "Identity",
     "preview": "https://img.aishort.top/imgprompt/20260210193812753.webp"
@@ -562,14 +562,14 @@
   },
   {
     "displayName": "yaoi",
-    "langName": "Be gay",
+    "langName": "Yaoi / Boys' Love",
     "object": "Character",
     "attribute": "Identity",
     "preview": "https://img.aishort.top/imgprompt/20260208074725603.webp"
   },
   {
     "displayName": "yuri",
-    "langName": "lily",
+    "langName": "Yuri / Girls' Love",
     "object": "Character",
     "attribute": "Identity",
     "preview": "https://img.aishort.top/imgprompt/20260209061704191.webp"
@@ -646,7 +646,7 @@
   },
   {
     "displayName": "mazinger",
-    "langName": "wonder woman",
+    "langName": "Mazinger Z",
     "object": "Character",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537640.webp"
@@ -772,7 +772,7 @@
   },
   {
     "displayName": "elf",
-    "langName": "goblin",
+    "langName": "Elf",
     "object": "Character",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063126234.webp"
@@ -786,7 +786,7 @@
   },
   {
     "displayName": "fairy",
-    "langName": "elf",
+    "langName": "Fairy",
     "object": "Character",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063141969.webp"
@@ -828,14 +828,14 @@
   },
   {
     "displayName": "monster_girl",
-    "langName": "Foreigner's mother",
+    "langName": "Monster Girl",
     "object": "Character",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063226407.webp"
   },
   {
     "displayName": "dominatrix",
-    "langName": "Queen (SM Medium)",
+    "langName": "Dominatrix",
     "object": "Character",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063233422.webp"
@@ -968,21 +968,21 @@
   },
   {
     "displayName": "horse_girl",
-    "langName": "Ma Niang",
+    "langName": "Horse Girl",
     "object": "Character",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537637.webp"
   },
   {
     "displayName": "furry",
-    "langName": "orc",
+    "langName": "Furry / Anthropomorphic",
     "object": "Character",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537632.webp"
   },
   {
     "displayName": "furry/orc",
-    "langName": "Orcs/Orcs",
+    "langName": "Furry / Orc",
     "object": "Character",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537646.webp"
@@ -1010,14 +1010,14 @@
   },
   {
     "displayName": "mesugaki",
-    "langName": "female imp",
+    "langName": "Mesugaki",
     "object": "Character",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537644.webp"
   },
   {
     "displayName": "santa alter",
-    "langName": "Santa Claus",
+    "langName": "Santa Alter",
     "object": "Character",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537639.webp"
@@ -1052,7 +1052,7 @@
   },
   {
     "displayName": "kindergartener",
-    "langName": "kindergarten",
+    "langName": "Kindergarten child",
     "object": "Character",
     "attribute": "Age",
     "preview": "https://img.aishort.top/imgprompt/20260210192804244.webp"
@@ -1073,14 +1073,14 @@
   },
   {
     "displayName": "early teen",
-    "langName": "Early Adolescence (11-15)",
+    "langName": "Early Teen",
     "object": "Character",
     "attribute": "Age",
     "preview": "https://img.aishort.top/imgprompt/20260210192804238.webp"
   },
   {
     "displayName": "teenager",
-    "langName": "Teen (13-19)",
+    "langName": "Teenager",
     "object": "Character",
     "attribute": "Age",
     "preview": "https://img.aishort.top/imgprompt/20260210192804240.webp"
@@ -1129,7 +1129,7 @@
   },
   {
     "displayName": "pale_skin",
-    "langName": "Pale skin",
+    "langName": "Pale Skin",
     "object": "Character",
     "attribute": "Skin",
     "preview": "https://img.aishort.top/imgprompt/20260210193300398.webp"
@@ -1192,7 +1192,7 @@
   },
   {
     "displayName": "tanlines",
-    "langName": "sun damage",
+    "langName": "Tan Lines",
     "object": "Character",
     "attribute": "Skin",
     "preview": "https://img.aishort.top/imgprompt/20260210193621164.webp"
@@ -1206,7 +1206,7 @@
   },
   {
     "displayName": "oil_skin",
-    "langName": "oil skin",
+    "langName": "oily skin",
     "object": "Character",
     "attribute": "Skin",
     "preview": "https://img.aishort.top/imgprompt/20260210195122883.webp"
@@ -1318,7 +1318,7 @@
   },
   {
     "displayName": "(cleavage visible,large breasts)",
-    "langName": "Big breasts (with cleavage)",
+    "langName": "Large Breasts (Visible Cleavage)",
     "object": "Character",
     "attribute": "Body Type",
     "preview": "https://img.aishort.top/imgprompt/20260211065136926.webp"
@@ -1647,7 +1647,7 @@
   },
   {
     "displayName": "medium hair",
-    "langName": "Zhongfa",
+    "langName": "Medium length hair",
     "object": "Character",
     "attribute": "Hairstyle",
     "preview": "https://img.aishort.top/imgprompt/20260211133542876.webp"
@@ -1787,7 +1787,7 @@
   },
   {
     "displayName": "twin_drills",
-    "langName": "double diamond hairstyle",
+    "langName": "Twin drill hair",
     "object": "Character",
     "attribute": "Hairstyle",
     "preview": "https://img.aishort.top/imgprompt/20260211134254803.webp"
@@ -1808,7 +1808,7 @@
   },
   {
     "displayName": "hair bun",
-    "langName": "Bun | Dumpling",
+    "langName": "Hair bun",
     "object": "Character",
     "attribute": "Hairstyle",
     "preview": "https://img.aishort.top/imgprompt/20260211134337333.webp"
@@ -1892,7 +1892,7 @@
   },
   {
     "displayName": "topknot",
-    "langName": "meatball head",
+    "langName": "Topknot",
     "object": "Character",
     "attribute": "Hairstyle",
     "preview": "https://img.aishort.top/imgprompt/20260211134628689.webp"
@@ -1955,7 +1955,7 @@
   },
   {
     "displayName": "blunt bangs",
-    "langName": "Qi bangs",
+    "langName": "Blunt bangs",
     "object": "Character",
     "attribute": "Hairstyle",
     "preview": "https://img.aishort.top/imgprompt/20260211134928539.webp"
@@ -1976,7 +1976,7 @@
   },
   {
     "displayName": "air bangs",
-    "langName": "air bangs",
+    "langName": "Air Bangs",
     "object": "Character",
     "attribute": "Hairstyle",
     "preview": "https://img.aishort.top/imgprompt/20260211135006710.webp"
@@ -2004,7 +2004,7 @@
   },
   {
     "displayName": "side_blunt_bangs",
-    "langName": "side air bangs",
+    "langName": "Side see-through bangs",
     "object": "Character",
     "attribute": "Hairstyle",
     "preview": "https://img.aishort.top/imgprompt/20260211135057869.webp"
@@ -2025,7 +2025,7 @@
   },
   {
     "displayName": "bowl_cut",
-    "langName": "mushroom head | pot head",
+    "langName": "Bowl cut",
     "object": "Character",
     "attribute": "Hairstyle",
     "preview": "https://img.aishort.top/imgprompt/20260317093750802.webp"
@@ -2074,14 +2074,14 @@
   },
   {
     "displayName": "antenna hair",
-    "langName": "Many dull hairs",
+    "langName": "Antenna hair",
     "object": "Character",
     "attribute": "Hairstyle",
     "preview": "https://img.aishort.top/imgprompt/20260211135318694.webp"
   },
   {
     "displayName": "ahoge",
-    "langName": "Dumb",
+    "langName": "Ahoge",
     "object": "Character",
     "attribute": "Hairstyle",
     "preview": "https://img.aishort.top/imgprompt/20260211135331864.webp"
@@ -2767,7 +2767,7 @@
   },
   {
     "displayName": "eye_relfection",
-    "langName": "Ocular reflex (pupil's reaction to light)",
+    "langName": "Eye Reflection",
     "object": "Character",
     "attribute": "Eye",
     "preview": "https://img.aishort.top/imgprompt/20260211141526968.webp"
@@ -2970,7 +2970,7 @@
   },
   {
     "displayName": "solid_oval_eyes",
-    "langName": "Q version solid oval eyes",
+    "langName": "Chibi solid oval eyes",
     "object": "Character",
     "attribute": "Eye",
     "preview": "https://img.aishort.top/imgprompt/20260211142239019.webp"
@@ -2984,7 +2984,7 @@
   },
   {
     "displayName": "blush_stickers",
-    "langName": "Q version blush sticker",
+    "langName": "Chibi blush stickers",
     "object": "Character",
     "attribute": "Eye",
     "preview": "https://img.aishort.top/imgprompt/20260211142304171.webp"
@@ -3019,14 +3019,14 @@
   },
   {
     "displayName": "sanpaku",
-    "langName": "Triple white syndrome (pupil shift)",
+    "langName": "Sanpaku Eyes",
     "object": "Character",
     "attribute": "Eye",
     "preview": "https://img.aishort.top/imgprompt/20260211142408606.webp"
   },
   {
     "displayName": "flaming_eye",
-    "langName": "Homura",
+    "langName": "Flaming eyes / blazing eyes",
     "object": "Character",
     "attribute": "Eye",
     "preview": "https://img.aishort.top/imgprompt/20260211142422174.webp"
@@ -3082,7 +3082,7 @@
   },
   {
     "displayName": "half_closed_eye",
-    "langName": "Half-closed eye (single eye)",
+    "langName": "Half-closed Eye",
     "object": "Character",
     "attribute": "Eye",
     "preview": "https://img.aishort.top/imgprompt/20260211142557836.webp"
@@ -3180,14 +3180,14 @@
   },
   {
     "displayName": "no_blindfold",
-    "langName": "Removed the (original) blindfold element",
+    "langName": "No Blindfold",
     "object": "Character",
     "attribute": "Eye",
     "preview": "https://img.aishort.top/imgprompt/20260211220153156.webp"
   },
   {
     "displayName": "no_eyepatch",
-    "langName": "Removed the (existing) eye mask",
+    "langName": "No Eyepatch",
     "object": "Character",
     "attribute": "Eye",
     "preview": "https://img.aishort.top/imgprompt/20260211142907966.webp"
@@ -3264,7 +3264,7 @@
   },
   {
     "displayName": "solid_circle_pupils",
-    "langName": "Q version solid round pupils",
+    "langName": "Chibi solid round pupils",
     "object": "Character",
     "attribute": "Pupil",
     "preview": "https://img.aishort.top/imgprompt/20260211143127812.webp"
@@ -3292,7 +3292,7 @@
   },
   {
     "displayName": "snake_pupils",
-    "langName": "Snake pupils (pupil flash)",
+    "langName": "Snake Pupils",
     "object": "Character",
     "attribute": "Pupil",
     "preview": "https://img.aishort.top/imgprompt/20260317093813015.webp"
@@ -3376,7 +3376,7 @@
   },
   {
     "displayName": "cross-shaped_pupils",
-    "langName": "Symbolic pupils (no effect",
+    "langName": "Cross-shaped pupils",
     "object": "Character",
     "attribute": "Pupil",
     "preview": "https://img.aishort.top/imgprompt/20260211143449975.webp"
@@ -3670,7 +3670,7 @@
   },
   {
     "displayName": "gasping",
-    "langName": "Gasping (opening mouth)",
+    "langName": "Gasping",
     "object": "Character",
     "attribute": "Mouth",
     "preview": "https://img.aishort.top/imgprompt/20260317100011869.webp"
@@ -3726,7 +3726,7 @@
   },
   {
     "displayName": ":3",
-    "langName": "Maozui",
+    "langName": "Cat Mouth",
     "object": "Character",
     "attribute": "Mouth",
     "preview": "https://img.aishort.top/imgprompt/20260317100112576.webp"
@@ -3761,7 +3761,7 @@
   },
   {
     "displayName": "chestnut_mouth",
-    "langName": "Lizizui",
+    "langName": "Chestnut Mouth",
     "object": "Character",
     "attribute": "Mouth",
     "preview": "https://img.aishort.top/imgprompt/20260211144640830.webp"
@@ -3817,7 +3817,7 @@
   },
   {
     "displayName": "homu",
-    "langName": "Pout | Pout",
+    "langName": "Pout",
     "object": "Character",
     "attribute": "Mouth",
     "preview": "https://img.aishort.top/imgprompt/20260211144827721.webp"
@@ -3901,7 +3901,7 @@
   },
   {
     "displayName": "mouth_drool",
-    "langName": "Drool gap (mouth corner)",
+    "langName": "Drool / Drooling Mouth",
     "object": "Character",
     "attribute": "Mouth",
     "preview": "https://img.aishort.top/imgprompt/20260317100321880.webp"
@@ -3964,7 +3964,7 @@
   },
   {
     "displayName": "fang_out",
-    "langName": "Bare the fangs | Bare the fangs",
+    "langName": "Bare the fangs",
     "object": "Character",
     "attribute": "Teeth",
     "preview": "https://img.aishort.top/imgprompt/20260317100418214.webp"
@@ -4048,7 +4048,7 @@
   },
   {
     "displayName": "uvula",
-    "langName": "uvula | uvula | uvula",
+    "langName": "uvula",
     "object": "Character",
     "attribute": "Tongue",
     "preview": "https://img.aishort.top/imgprompt/20260211145547542.webp"
@@ -4111,7 +4111,7 @@
   },
   {
     "displayName": "nail",
-    "langName": "Nails | Nails",
+    "langName": "Fingernails",
     "object": "Character",
     "attribute": "Nail",
     "preview": "https://img.aishort.top/imgprompt/20260211145741915.webp"
@@ -4167,42 +4167,42 @@
   },
   {
     "displayName": "flat chest",
-    "langName": "Small breasts (A)",
+    "langName": "Flat Chest",
     "object": "Character",
     "attribute": "Chest",
     "preview": "https://img.aishort.top/imgprompt/20260212064123283.webp"
   },
   {
     "displayName": "small_breasts",
-    "langName": "Small boobs (B)",
+    "langName": "Small Breasts",
     "object": "Character",
     "attribute": "Chest",
     "preview": "https://img.aishort.top/imgprompt/20260212071540871.webp"
   },
   {
     "displayName": "medium breasts",
-    "langName": "Medium chest (C)",
+    "langName": "Medium Breasts",
     "object": "Character",
     "attribute": "Chest",
     "preview": "https://img.aishort.top/imgprompt/20260212071540873.webp"
   },
   {
     "displayName": "big breasts",
-    "langName": "Big boobs (D)",
+    "langName": "Large Breasts",
     "object": "Character",
     "attribute": "Chest",
     "preview": "https://img.aishort.top/imgprompt/20260212071540872.webp"
   },
   {
     "displayName": "huge breasts",
-    "langName": "Big Breasts (E)",
+    "langName": "Huge Breasts",
     "object": "Character",
     "attribute": "Chest",
     "preview": "https://img.aishort.top/imgprompt/20260212071540870.webp"
   },
   {
     "displayName": "gigantic breasts",
-    "langName": "Super big breasts (F)",
+    "langName": "Gigantic Breasts",
     "object": "Character",
     "attribute": "Chest",
     "preview": "https://img.aishort.top/imgprompt/20260212071540874.webp"
@@ -4334,7 +4334,7 @@
   },
   {
     "displayName": "toe-point",
-    "langName": "toe tip | toe tip",
+    "langName": "toe tip",
     "object": "Character",
     "attribute": "Foot",
     "preview": "https://img.aishort.top/imgprompt/20260211150409118.webp"
@@ -4383,7 +4383,7 @@
   },
   {
     "displayName": "detached_wings",
-    "langName": "Wings that are not connected to the body",
+    "langName": "Detached Wings",
     "object": "Character",
     "attribute": "Wing",
     "preview": "https://img.aishort.top/imgprompt/20260211150537125.webp"
@@ -4453,7 +4453,7 @@
   },
   {
     "displayName": "no_wings",
-    "langName": "Removed (original) wings",
+    "langName": "No Wings",
     "object": "Character",
     "attribute": "Wing",
     "preview": "https://img.aishort.top/imgprompt/20260212072704705.webp"
@@ -4579,7 +4579,7 @@
   },
   {
     "displayName": "foral_background",
-    "langName": "Floral pattern decorative background",
+    "langName": "Floral Pattern Background",
     "object": "Environment",
     "attribute": "Background",
     "preview": "https://img.aishort.top/imgprompt/20260211151130102.webp"
@@ -4698,7 +4698,7 @@
   },
   {
     "displayName": "rounded_corners",
-    "langName": "The background or frame has rounded corners",
+    "langName": "Rounded Corners Frame",
     "object": "Environment",
     "attribute": "Background",
     "preview": "https://img.aishort.top/imgprompt/20260211151506847.webp"
@@ -4712,7 +4712,7 @@
   },
   {
     "displayName": "outside_border",
-    "langName": "Partially drawn outside the background frame",
+    "langName": "Out of Frame / Beyond Border",
     "object": "Environment",
     "attribute": "Background",
     "preview": "https://img.aishort.top/imgprompt/20260211151532945.webp"
@@ -4726,7 +4726,7 @@
   },
   {
     "displayName": "windowboxed",
-    "langName": "Set of picture frames (background)",
+    "langName": "Windowboxed",
     "object": "Environment",
     "attribute": "Background",
     "preview": "https://img.aishort.top/imgprompt/20260211151559726.webp"
@@ -4929,7 +4929,7 @@
   },
   {
     "displayName": "beautiful detailed sky,beautiful detailed water",
-    "langName": "Good weather and good water",
+    "langName": "Detailed Sky & Water",
     "object": "Environment",
     "attribute": "Nature",
     "preview": "https://img.aishort.top/imgprompt/20260211152348882.webp"
@@ -4992,7 +4992,7 @@
   },
   {
     "displayName": "Dreamy forest",
-    "langName": "Dream forest (unreal sense. Quiet light particles)",
+    "langName": "Dreamy Forest",
     "object": "Environment",
     "attribute": "Nature",
     "preview": "https://img.aishort.top/imgprompt/20260211152548353.webp"
@@ -5293,7 +5293,7 @@
   },
   {
     "displayName": "star_(sky)",
-    "langName": "stars (in the sky)",
+    "langName": "Stars",
     "object": "Environment",
     "attribute": "Sky",
     "preview": "https://img.aishort.top/imgprompt/20260211153554967.webp"
@@ -5923,7 +5923,7 @@
   },
   {
     "displayName": "rappelling",
-    "langName": "Leveling (hanging)",
+    "langName": "Rappelling",
     "object": "Environment",
     "attribute": "Outdoor",
     "preview": "https://img.aishort.top/imgprompt/20260211155514112.webp"
@@ -7589,7 +7589,7 @@
   },
   {
     "displayName": "school_bag",
-    "langName": "School bag (handbag)",
+    "langName": "School Bag",
     "object": "Thing",
     "attribute": "School supplies",
     "preview": "https://img.aishort.top/imgprompt/20260211164633641.webp"
@@ -7820,14 +7820,14 @@
   },
   {
     "displayName": "diamond_(shape)",
-    "langName": "diamond(shape)",
+    "langName": "Diamond Shape",
     "object": "Thing",
     "attribute": "Other Items",
     "preview": "https://img.aishort.top/imgprompt/20260211165329674.webp"
   },
   {
     "displayName": "chibi_inset",
-    "langName": "chibi illustration",
+    "langName": "Chibi Inset",
     "object": "Thing",
     "attribute": "Other Items",
     "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
@@ -7932,7 +7932,7 @@
   },
   {
     "displayName": "sword",
-    "langName": "knife",
+    "langName": "Sword",
     "object": "Thing",
     "attribute": "Arms",
     "preview": "https://img.aishort.top/imgprompt/20260211165652659.webp"
@@ -7960,7 +7960,7 @@
   },
   {
     "displayName": "saber_(weapon)",
-    "langName": "saber (weapon)",
+    "langName": "Saber",
     "object": "Thing",
     "attribute": "Arms",
     "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
@@ -7988,7 +7988,7 @@
   },
   {
     "displayName": "stake",
-    "langName": "stick",
+    "langName": "Wooden Stake",
     "object": "Thing",
     "attribute": "Arms",
     "preview": "https://img.aishort.top/imgprompt/20260211165832380.webp"
@@ -8030,7 +8030,7 @@
   },
   {
     "displayName": "claw_(weapon)",
-    "langName": "claw (weapon)",
+    "langName": "Claw Weapon",
     "object": "Thing",
     "attribute": "Arms",
     "preview": "https://img.aishort.top/imgprompt/20260211165949084.webp"
@@ -8065,7 +8065,7 @@
   },
   {
     "displayName": "magazine_(weapon)",
-    "langName": "magazine (weapon)",
+    "langName": "Gun Magazine",
     "object": "Thing",
     "attribute": "Arms",
     "preview": "https://img.aishort.top/imgprompt/20260211170050212.webp"
@@ -8100,7 +8100,7 @@
   },
   {
     "displayName": "tank",
-    "langName": "tank",
+    "langName": "Tank",
     "object": "Thing",
     "attribute": "Arms",
     "preview": "https://img.aishort.top/imgprompt/20260211170154753.webp"
@@ -9444,7 +9444,7 @@
   },
   {
     "displayName": "leaning",
-    "langName": "Lean | Lean",
+    "langName": "Lean",
     "object": "Action",
     "attribute": "Basic Poses",
     "preview": "https://img.aishort.top/imgprompt/20260211174241891.webp"
@@ -9563,7 +9563,7 @@
   },
   {
     "displayName": "the_pose",
-    "langName": "Lie on the ground and put your feet up",
+    "langName": "The Pose",
     "object": "Action",
     "attribute": "Basic Poses",
     "preview": "https://img.aishort.top/imgprompt/20260211174615259.webp"
@@ -9591,14 +9591,14 @@
   },
   {
     "displayName": "fetal_position",
-    "langName": "Fetal position (lying)",
+    "langName": "Fetal Position",
     "object": "Action",
     "attribute": "Basic Poses",
     "preview": "https://img.aishort.top/imgprompt/20260211174706202.webp"
   },
   {
     "displayName": "against_glass",
-    "langName": "squeeze glass (invalid)",
+    "langName": "Against Glass",
     "object": "Action",
     "attribute": "Basic Poses",
     "preview": "https://img.aishort.top/imgprompt/20260211174718789.webp"
@@ -9612,7 +9612,7 @@
   },
   {
     "displayName": "presenting",
-    "langName": "Display (rear part)",
+    "langName": "Presenting Pose",
     "object": "Action",
     "attribute": "Basic Poses",
     "preview": "https://img.aishort.top/imgprompt/20260211174744336.webp"
@@ -9675,7 +9675,7 @@
   },
   {
     "displayName": "eye_contact",
-    "langName": "Eye contact (looking at each other)",
+    "langName": "Eye Contact",
     "object": "Action",
     "attribute": "Look",
     "preview": "https://img.aishort.top/imgprompt/20260211174937637.webp"
@@ -9836,7 +9836,7 @@
   },
   {
     "displayName": "aiming_at_viewer",
-    "langName": "Target the reader (perspective)",
+    "langName": "Aiming at Viewer",
     "object": "Action",
     "attribute": "Look",
     "preview": "https://img.aishort.top/imgprompt/20260211175428502.webp"
@@ -9934,7 +9934,7 @@
   },
   {
     "displayName": "hands_clasped",
-    "langName": "Crossed fingers of both hands | Clenched hands",
+    "langName": "Hands Clasped",
     "object": "Action",
     "attribute": "Arm Poses",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
@@ -9969,7 +9969,7 @@
   },
   {
     "displayName": "hands_in_opposite_sleeves",
-    "langName": "Cross your hands and put them in your sleeves",
+    "langName": "Hands in Opposite Sleeves",
     "object": "Action",
     "attribute": "Arm Poses",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
@@ -10172,14 +10172,14 @@
   },
   {
     "displayName": "waving",
-    "langName": "wave (say hello/goodbye)",
+    "langName": "Waving",
     "object": "Action",
     "attribute": "Hand Signals",
     "preview": "https://img.aishort.top/imgprompt/20260211180434501.webp"
   },
   {
     "displayName": "pointing_at_viewer",
-    "langName": "Point to the person looking at the picture",
+    "langName": "Pointing at Viewer",
     "object": "Action",
     "attribute": "Hand Signals",
     "preview": "https://img.aishort.top/imgprompt/20260211180447245.webp"
@@ -10249,7 +10249,7 @@
   },
   {
     "displayName": "reaching",
-    "langName": "Reach out (purposefully)",
+    "langName": "Reaching Out",
     "object": "Action",
     "attribute": "Hand Signals",
     "preview": "https://img.aishort.top/imgprompt/20260211180655272.webp"
@@ -10312,7 +10312,7 @@
   },
   {
     "displayName": "paw_pose",
-    "langName": "Lucky cat hand gesture (wrist bent down)",
+    "langName": "Paw Pose",
     "object": "Action",
     "attribute": "Hand Signals",
     "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
@@ -10347,7 +10347,7 @@
   },
   {
     "displayName": "fingersmile",
-    "langName": "Make a smiley face with your fingers",
+    "langName": "Finger Smile",
     "object": "Action",
     "attribute": "Hand Signals",
     "preview": "https://img.aishort.top/imgprompt/20260211180951696.webp"
@@ -10634,7 +10634,7 @@
   },
   {
     "displayName": "holding_eyewear",
-    "langName": "Holding glasses | Taking off glasses",
+    "langName": "Holding / Adjusting Eyewear",
     "object": "Action",
     "attribute": "Holding Object",
     "preview": "https://img.aishort.top/imgprompt/20260211181827087.webp"
@@ -10956,21 +10956,21 @@
   },
   {
     "displayName": "hands_on_another's",
-    "langName": "Put your hands on someone else's face",
+    "langName": "Hands on Another's Face",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
-    "langName": "Put your hands on each other's cheeks",
+    "langName": "Hands on Another's Cheeks",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
-    "langName": "Put your hands on someone else's shoulders",
+    "langName": "Hands on Another's Shoulders",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
@@ -11026,7 +11026,7 @@
   },
   {
     "displayName": "hands_on_hips",
-    "langName": "hands on hips | hands on hips",
+    "langName": "hands on hips",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260213094956459.webp"
@@ -11068,7 +11068,7 @@
   },
   {
     "displayName": "grabbing_from_behind",
-    "langName": "Rub breasts from behind | Grab breasts from behind",
+    "langName": "Grabbing Breasts from Behind",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
@@ -11110,14 +11110,14 @@
   },
   {
     "displayName": "hands_on_headwear",
-    "langName": "Touching the ornaments on the head with both hands",
+    "langName": "Hands on Headwear",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
-    "langName": "Put your hands on the handle of the knife",
+    "langName": "Hands on Hilt",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
@@ -11131,7 +11131,7 @@
   },
   {
     "displayName": "neckwear_grab",
-    "langName": "Clutching the clothes around the neck",
+    "langName": "Collar / Neckwear Grab",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
@@ -11173,7 +11173,7 @@
   },
   {
     "displayName": "hand_in_another's_hair",
-    "langName": "Put your hands on the other person’s hair",
+    "langName": "Hand in Another's Hair",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
@@ -11208,35 +11208,35 @@
   },
   {
     "displayName": "hand_on_another's_chest",
-    "langName": "Put your hands on the other person's chest",
+    "langName": "Hand on Another's Chest",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183718013.webp"
   },
   {
     "displayName": "hand_on_another's_chin",
-    "langName": "Hold the other person's chin with your hand",
+    "langName": "Hand on Another's Chin",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
   },
   {
     "displayName": "hand_on_another's_head",
-    "langName": "Put your hands on the other person's head",
+    "langName": "Hand on Another's Head",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183743006.webp"
   },
   {
     "displayName": "hand_on_another's_shoulder",
-    "langName": "Put your hands on the other person's shoulders",
+    "langName": "Hand on Another's Shoulder",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183755722.webp"
   },
   {
     "displayName": "hand_on_another's_stomach",
-    "langName": "Put your hands on the other person’s belly",
+    "langName": "Hand on Another's Stomach",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
@@ -11264,14 +11264,14 @@
   },
   {
     "displayName": "hand_on_hilt",
-    "langName": "Hand resting on the handle of the knife",
+    "langName": "Hand on Hilt",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
   },
   {
     "displayName": "hand_on_hip",
-    "langName": "hands on hips | hands on hips",
+    "langName": "hands on hips",
     "object": "Action",
     "attribute": "Hugs & Grabs",
     "preview": "https://img.aishort.top/imgprompt/20260211183911177.webp"
@@ -11404,14 +11404,14 @@
   },
   {
     "displayName": "standing_split",
-    "langName": "Standing splits | Standing leg raises",
+    "langName": "Standing Split",
     "object": "Action",
     "attribute": "Leg Actions",
     "preview": "https://img.aishort.top/imgprompt/20260211184306372.webp"
   },
   {
     "displayName": "curtsy",
-    "langName": "Curtsey (maid's salute)",
+    "langName": "Curtsy",
     "object": "Action",
     "attribute": "Leg Actions",
     "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
@@ -11502,7 +11502,7 @@
   },
   {
     "displayName": "folded",
-    "langName": "Raise your legs to expose your vagina",
+    "langName": "Folded Legs Pose",
     "object": "Action",
     "attribute": "Leg Actions",
     "preview": "https://img.aishort.top/imgprompt/20260211184601937.webp"
@@ -11544,7 +11544,7 @@
   },
   {
     "displayName": "k/da_(league_of_legends)",
-    "langName": "KDA Team (League of Legends)",
+    "langName": "K/DA (League of Legends)",
     "object": "Action",
     "attribute": "Leg Actions",
     "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
@@ -11705,14 +11705,14 @@
   },
   {
     "displayName": "tail_between_legs",
-    "langName": "The tail is curled up between the legs",
+    "langName": "Tail Between Legs",
     "object": "Action",
     "attribute": "Leg Actions",
     "preview": "https://img.aishort.top/imgprompt/20260225100419147.webp"
   },
   {
     "displayName": "covering",
-    "langName": "the act of covering",
+    "langName": "Covering Gesture",
     "object": "Action",
     "attribute": "Body Touching",
     "preview": "https://img.aishort.top/imgprompt/20260211185216454.webp"
@@ -11922,14 +11922,14 @@
   },
   {
     "displayName": "spitting",
-    "langName": "the act of spitting liquid out of the mouth",
+    "langName": "Spitting",
     "object": "Action",
     "attribute": "Body Reaction",
     "preview": "https://img.aishort.top/imgprompt/20260211185836921.webp"
   },
   {
     "displayName": "spilling",
-    "langName": "The act of pouring liquid from a container",
+    "langName": "Spilling",
     "object": "Action",
     "attribute": "Body Reaction",
     "preview": "https://img.aishort.top/imgprompt/20260211185849710.webp"
@@ -12006,7 +12006,7 @@
   },
   {
     "displayName": "dropping",
-    "langName": "(accidental) falling",
+    "langName": "Dropping",
     "object": "Action",
     "attribute": "Body Reaction",
     "preview": "https://img.aishort.top/imgprompt/20260211190102259.webp"
@@ -12055,7 +12055,7 @@
   },
   {
     "displayName": "lifted_by_another",
-    "langName": "Being lifted up by the other party's clothes",
+    "langName": "Lifted by Another",
     "object": "Action",
     "attribute": "Body Reaction",
     "preview": "https://img.aishort.top/imgprompt/20260211190232075.webp"
@@ -12111,7 +12111,7 @@
   },
   {
     "displayName": "drying",
-    "langName": "Dry (after bathing)",
+    "langName": "Drying Off",
     "object": "Action",
     "attribute": "Daily Life",
     "preview": "https://img.aishort.top/imgprompt/20260211190415978.webp"
@@ -12125,14 +12125,14 @@
   },
   {
     "displayName": "cleaning",
-    "langName": "clean up |",
+    "langName": "clean up",
     "object": "Action",
     "attribute": "Daily Life",
     "preview": "https://img.aishort.top/imgprompt/20260211190440252.webp"
   },
   {
     "displayName": "sweeping",
-    "langName": "Cleaning | Sweeping (housework)",
+    "langName": "Sweeping / Cleaning",
     "object": "Action",
     "attribute": "Daily Life",
     "preview": "https://img.aishort.top/imgprompt/20260211190452774.webp"
@@ -12258,7 +12258,7 @@
   },
   {
     "displayName": "sleeping_upright",
-    "langName": "(not lying down) sleeping | sleeping upright",
+    "langName": "Sleeping Upright",
     "object": "Action",
     "attribute": "Daily Life",
     "preview": "https://img.aishort.top/imgprompt/20260211190844518.webp"
@@ -12412,14 +12412,14 @@
   },
   {
     "displayName": "shared_food",
-    "langName": "Sharing food | Passing food by mouth",
+    "langName": "Shared Food",
     "object": "Action",
     "attribute": "Emotional Interaction",
     "preview": "https://img.aishort.top/imgprompt/20260211191325544.webp"
   },
   {
     "displayName": "shared_bathing",
-    "langName": "Shared bathing | Yuanyang bathing",
+    "langName": "Shared Bathing",
     "object": "Action",
     "attribute": "Emotional Interaction",
     "preview": "https://img.aishort.top/imgprompt/20260211191338217.webp"
@@ -12461,14 +12461,14 @@
   },
   {
     "displayName": "asymmetrical_docking",
-    "langName": "breasts touching | breasts touching breasts",
+    "langName": "Breasts Touching",
     "object": "Action",
     "attribute": "Emotional Interaction",
     "preview": "https://img.aishort.top/imgprompt/20260211191454771.webp"
   },
   {
     "displayName": "special_feeling_(meme)",
-    "langName": "Lovers holding an umbrella in the snow",
+    "langName": "Special Feeling",
     "object": "Action",
     "attribute": "Emotional Interaction",
     "preview": "https://img.aishort.top/imgprompt/20260211191507001.webp"
@@ -12608,7 +12608,7 @@
   },
   {
     "displayName": "wrestling",
-    "langName": "wrestling (sport)",
+    "langName": "Wrestling",
     "object": "Action",
     "attribute": "Exercise",
     "preview": "https://img.aishort.top/imgprompt/20260211191925002.webp"
@@ -12818,7 +12818,7 @@
   },
   {
     "displayName": "skirt_flip",
-    "langName": "Skirt lifted (including emergency meaning)",
+    "langName": "Skirt Flip",
     "object": "Action",
     "attribute": "Adjusting Clothes",
     "preview": "https://img.aishort.top/imgprompt/20260317125226840.webp"
@@ -12895,7 +12895,7 @@
   },
   {
     "displayName": "tying",
-    "langName": "Tie a knot (action)",
+    "langName": "Tying a Knot",
     "object": "Action",
     "attribute": "Adjusting Clothes",
     "preview": "https://img.aishort.top/imgprompt/20260211192806302.webp"
@@ -12930,7 +12930,7 @@
   },
   {
     "displayName": "pulled_by_another",
-    "langName": "Being pulled by another",
+    "langName": "Pulled by Another",
     "object": "Action",
     "attribute": "Adjusting Clothes",
     "preview": "https://img.aishort.top/imgprompt/20260317125423077.webp"
@@ -12993,7 +12993,7 @@
   },
   {
     "displayName": "holding_bow_(weapon)",
-    "langName": "Holding a bow (weapon)",
+    "langName": "Holding Bow",
     "object": "Action",
     "attribute": "Weapons & Equipment",
     "preview": "https://img.aishort.top/imgprompt/20260211193102894.webp"
@@ -13084,7 +13084,7 @@
   },
   {
     "displayName": "Kabedon",
-    "langName": "wall bang",
+    "langName": "Kabedon",
     "object": "Action",
     "attribute": "Special Poses",
     "preview": "https://img.aishort.top/imgprompt/20260211193512046.webp"
@@ -13412,7 +13412,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211194606041.webp"
   },
   {
-    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset)),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
+    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset))),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
     "langName": "twilight method",
     "object": "Action",
     "attribute": "Magic",
@@ -13525,7 +13525,7 @@
   },
   {
     "displayName": "((full body)),(helpless),tear,crying,(((((falling from the sky))))),((Weathering With You)),((falling)),((face towards the sky)),(hair flows upwards),((disheveled hair)),(1 girl),floating,beautiful detailed sky",
-    "langName": "Falling Style (sky scene)",
+    "langName": "Skyfall Composition (Weathering With You style)",
     "object": "Action",
     "attribute": "Magic",
     "preview": "https://img.aishort.top/imgprompt/20260211194938656.webp"
@@ -13727,7 +13727,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195607630.webp"
   },
   {
-    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood))),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
+    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood)),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
     "langName": "blood reform law",
     "object": "Action",
     "attribute": "Magic",
@@ -14002,7 +14002,7 @@
   },
   {
     "displayName": "disgust",
-    "langName": "Disgusted (looks like trash)",
+    "langName": "Disgusted / Contempt",
     "object": "Expression",
     "attribute": "Contempt",
     "preview": "https://img.aishort.top/imgprompt/20260317071358725.webp"
@@ -14023,7 +14023,7 @@
   },
   {
     "displayName": "shaded_face",
-    "langName": "There is a shadow on the face, matching contempt",
+    "langName": "Shaded Face",
     "object": "Expression",
     "attribute": "Contempt",
     "preview": "https://img.aishort.top/imgprompt/20260212085009132.webp"
@@ -14044,7 +14044,7 @@
   },
   {
     "displayName": "wince",
-    "langName": "Frowning (before sexual intercourse)",
+    "langName": "Wince / Frown",
     "object": "Expression",
     "attribute": "Contempt",
     "preview": "https://img.aishort.top/imgprompt/20260212085045682.webp"
@@ -14079,7 +14079,7 @@
   },
   {
     "displayName": "serious",
-    "langName": "Serious (similar to angry)",
+    "langName": "Serious",
     "object": "Expression",
     "attribute": "Angry",
     "preview": "https://img.aishort.top/imgprompt/20260212085145957.webp"
@@ -14163,7 +14163,7 @@
   },
   {
     "displayName": "embarrass",
-    "langName": "shy (awkward)",
+    "langName": "Embarrassed",
     "object": "Expression",
     "attribute": "Other expressions",
     "preview": "https://img.aishort.top/imgprompt/20260212085408608.webp"
@@ -14380,7 +14380,7 @@
   },
   {
     "displayName": "torogao",
-    "langName": "Torogao (hazy eyes)",
+    "langName": "Torogao",
     "object": "Expression",
     "attribute": "Other expressions",
     "preview": "https://img.aishort.top/imgprompt/20260228103646110.webp"
@@ -14702,7 +14702,7 @@
   },
   {
     "displayName": "hanten_clothes",
-    "langName": "Toumata (Japanese style)",
+    "langName": "Hanten (Japanese Coat)",
     "object": "Apparel",
     "attribute": "Clothing Style",
     "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
@@ -14716,7 +14716,7 @@
   },
   {
     "displayName": "furisode",
-    "langName": "Furisode (part of the kimono)",
+    "langName": "Furisode (Kimono)",
     "object": "Apparel",
     "attribute": "Clothing Style",
     "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
@@ -14744,14 +14744,14 @@
   },
   {
     "displayName": "uchikake",
-    "langName": "Bai Wujia (Japanese wedding dress)",
+    "langName": "Uchikake / Shiromuku",
     "object": "Apparel",
     "attribute": "Clothing Style",
     "preview": "https://img.aishort.top/imgprompt/20260212110020279.webp"
   },
   {
     "displayName": "obi",
-    "langName": "Obi (kimono sash)",
+    "langName": "Obi (Kimono Sash)",
     "object": "Apparel",
     "attribute": "Clothing Style",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -14800,7 +14800,7 @@
   },
   {
     "displayName": "Ao_Dai",
-    "langName": "Vietnamese clothing (Ao Dai)",
+    "langName": "Ao Dai (Vietnamese Dress)",
     "object": "Apparel",
     "attribute": "Clothing Style",
     "preview": "https://img.aishort.top/imgprompt/20260212112032273.webp"
@@ -14947,14 +14947,14 @@
   },
   {
     "displayName": "alternate_costume",
-    "langName": "Alternate costume (different from original)",
+    "langName": "Alternate Costume",
     "object": "Apparel",
     "attribute": "Clothing Style",
     "preview": "https://img.aishort.top/imgprompt/20260212120626953.webp"
   },
   {
     "displayName": "costume_switch",
-    "langName": "change clothes play",
+    "langName": "Costume Switch",
     "object": "Apparel",
     "attribute": "Clothing Style",
     "preview": "https://img.aishort.top/imgprompt/20260212120842799.webp"
@@ -15164,7 +15164,7 @@
   },
   {
     "displayName": "evening_gown",
-    "langName": "Long gown (female gown that reaches ankle length)",
+    "langName": "Evening Gown",
     "object": "Apparel",
     "attribute": "Formal Wear",
     "preview": "https://img.aishort.top/imgprompt/20260212125805414.webp"
@@ -15206,7 +15206,7 @@
   },
   {
     "displayName": "serafuku",
-    "langName": "Sailor uniform (school uniform)",
+    "langName": "Sailor Uniform",
     "object": "Apparel",
     "attribute": "Formal Wear",
     "preview": "https://img.aishort.top/imgprompt/20260212130530516.webp"
@@ -15542,7 +15542,7 @@
   },
   {
     "displayName": "school_swimsuit",
-    "langName": "school swimsuit",
+    "langName": "School Swimsuit",
     "object": "Apparel",
     "attribute": "Swimwear",
     "preview": "https://img.aishort.top/imgprompt/20260225102036109.webp"
@@ -15605,7 +15605,7 @@
   },
   {
     "displayName": "swimsuit_of_perpetual_summer",
-    "langName": "Chang Xia's swimsuit (fgo school girl spirit suit)",
+    "langName": "Swimsuit of Perpetual Summer (FGO)",
     "object": "Apparel",
     "attribute": "Swimwear",
     "preview": "https://img.aishort.top/imgprompt/20260317071630637.webp"
@@ -15878,14 +15878,14 @@
   },
   {
     "displayName": "swimsuit_aside",
-    "langName": "Move the crotch of the swimsuit aside",
+    "langName": "Swimsuit Aside",
     "object": "Apparel",
     "attribute": "Swimwear",
     "preview": "https://img.aishort.top/imgprompt/20260212152012611.webp"
   },
   {
     "displayName": "swimsuit_under_clothes",
-    "langName": "Wearing a swimsuit underneath the clothes",
+    "langName": "Swimsuit Under Clothes",
     "object": "Apparel",
     "attribute": "Swimwear",
     "preview": "https://img.aishort.top/imgprompt/20260317072817093.webp"
@@ -15990,7 +15990,7 @@
   },
   {
     "displayName": "chi-hatan_military_uniform",
-    "langName": "Zhiha Dan Academy Uniform",
+    "langName": "Chi-Ha-Tan Academy military uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260212153151798.webp"
@@ -16025,21 +16025,21 @@
   },
   {
     "displayName": "hikarizaka_private_high_school_uniform",
-    "langName": "Private Mitsusaka High School uniforms",
+    "langName": "Hikarizaka Private High School uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260212153257185.webp"
   },
   {
     "displayName": "homurahara_academy_uniform",
-    "langName": "Sui Gunhara Academy Uniform",
+    "langName": "Homurahara Academy uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260212153310241.webp"
   },
   {
     "displayName": "kamiyama_high_school_uniform",
-    "langName": "Kailash High School Uniform",
+    "langName": "Kamiyama High School uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260212153323486.webp"
@@ -16088,21 +16088,21 @@
   },
   {
     "displayName": "nami_junior_high_school_uniform",
-    "langName": "Bolu middle school uniform",
+    "langName": "Nami Junior High School uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260212153455870.webp"
   },
   {
     "displayName": "nanairogaoka_middle_school_uniform",
-    "langName": "Qiseqiu middle school uniform",
+    "langName": "Nanairogaoka Middle School uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260212153509132.webp"
   },
   {
     "displayName": "nanamori_school_uniform",
-    "langName": "Qisen Middle School uniform",
+    "langName": "Nanamori Middle School uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260212153725574.webp"
@@ -16172,14 +16172,14 @@
   },
   {
     "displayName": "rabbit_house_uniform",
-    "langName": "Diantutu House Uniform",
+    "langName": "Rabbit House uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260213055157775.webp"
   },
   {
     "displayName": "raimon_soccer_uniform",
-    "langName": "Thunder Gate Football Uniform",
+    "langName": "Raimon soccer team uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260213055210653.webp"
@@ -16193,7 +16193,7 @@
   },
   {
     "displayName": "sakugawa_school_uniform",
-    "langName": "Zhachuan middle school uniform",
+    "langName": "Sakugawa Middle School uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260213055439290.webp"
@@ -16242,7 +16242,7 @@
   },
   {
     "displayName": "shuujin_academy_uniform",
-    "langName": "Show off college uniforms",
+    "langName": "Shujin Academy uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260213060421601.webp"
@@ -16263,28 +16263,28 @@
   },
   {
     "displayName": "starlight_academy_uniform",
-    "langName": "Star Optical Park Uniform",
+    "langName": "Starlight Academy uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260213060500805.webp"
   },
   {
     "displayName": "tokisadame_school_uniform",
-    "langName": "Regular college uniforms",
+    "langName": "Tokisadame High School uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260213060513970.webp"
   },
   {
     "displayName": "tokiwadai_school_uniform",
-    "langName": "Tokiwa Taichung School Uniform",
+    "langName": "Tokiwadai Middle School uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260213060526744.webp"
   },
   {
     "displayName": "tomoeda_elementary_school_uniform",
-    "langName": "Youzhi primary school uniform",
+    "langName": "Tomoeda Elementary School uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260213060539748.webp"
@@ -16298,14 +16298,14 @@
   },
   {
     "displayName": "u.a._school_uniform",
-    "langName": "Xiongying High School Uniform",
+    "langName": "U.A. High School uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260213060607357.webp"
   },
   {
     "displayName": "uranohoshi_school_uniform",
-    "langName": "Ura no Hoshi Girls' College uniform",
+    "langName": "Uranohoshi Girls' High School uniform",
     "object": "Apparel",
     "attribute": "School Uniform",
     "preview": "https://img.aishort.top/imgprompt/20260213060620807.webp"
@@ -16424,7 +16424,7 @@
   },
   {
     "displayName": "short sleeve T-shirts",
-    "langName": "Short-sleeved T-shirt (shoulder shirt)",
+    "langName": "Short-sleeve T-shirt",
     "object": "Apparel",
     "attribute": "Top",
     "preview": "https://img.aishort.top/imgprompt/20260213063027450.webp"
@@ -16466,7 +16466,7 @@
   },
   {
     "displayName": "tank_top",
-    "langName": "vest (home)",
+    "langName": "Tank Top",
     "object": "Apparel",
     "attribute": "Top",
     "preview": "https://img.aishort.top/imgprompt/20260213064156253.webp"
@@ -16494,7 +16494,7 @@
   },
   {
     "displayName": "vest",
-    "langName": "vest (formal)",
+    "langName": "Suit Vest",
     "object": "Apparel",
     "attribute": "Top",
     "preview": "https://img.aishort.top/imgprompt/20260213064408586.webp"
@@ -16508,7 +16508,7 @@
   },
   {
     "displayName": "waistcoat",
-    "langName": "Waistcoat (formal)",
+    "langName": "Waistcoat",
     "object": "Apparel",
     "attribute": "Top",
     "preview": "https://img.aishort.top/imgprompt/20260213064435011.webp"
@@ -16599,7 +16599,7 @@
   },
   {
     "displayName": "kappougi",
-    "langName": "a blouse (worn while cooking)",
+    "langName": "Kappougi (Japanese Apron)",
     "object": "Apparel",
     "attribute": "Top",
     "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
@@ -16662,7 +16662,7 @@
   },
   {
     "displayName": "tied_shirt",
-    "langName": "Tie-up shirt (knot the corners and hem)",
+    "langName": "Tied Shirt",
     "object": "Apparel",
     "attribute": "Top",
     "preview": "https://img.aishort.top/imgprompt/20260213070412064.webp"
@@ -16746,7 +16746,7 @@
   },
   {
     "displayName": "button_gap",
-    "langName": "The gap between the buttons (not unbuttoned)",
+    "langName": "Button Gap",
     "object": "Apparel",
     "attribute": "Top",
     "preview": "https://img.aishort.top/imgprompt/20260213071455826.webp"
@@ -16879,21 +16879,21 @@
   },
   {
     "displayName": "strap_slip",
-    "langName": "The shoulder strap slipped (leading to leakage)",
+    "langName": "Strap Slip",
     "object": "Apparel",
     "attribute": "Top",
     "preview": "https://img.aishort.top/imgprompt/20260228101844680.webp"
   },
   {
     "displayName": "wedgie",
-    "langName": "Wedgie (clothing stuck)",
+    "langName": "Wedgie",
     "object": "Apparel",
     "attribute": "Top",
     "preview": "https://img.aishort.top/imgprompt/20260225103744943.webp"
   },
   {
     "displayName": "wardrobe_malfunction",
-    "langName": "Wardrobe malfunction (bursting)",
+    "langName": "Wardrobe Malfunction",
     "object": "Apparel",
     "attribute": "Top",
     "preview": "https://img.aishort.top/imgprompt/20260213075235531.webp"
@@ -16984,7 +16984,7 @@
   },
   {
     "displayName": "double-breasted",
-    "langName": "Double-breasted buttons (double-breasted buttons",
+    "langName": "Double-breasted",
     "object": "Apparel",
     "attribute": "Coat",
     "preview": "https://img.aishort.top/imgprompt/20260213075715469.webp"
@@ -17054,7 +17054,7 @@
   },
   {
     "displayName": "jacket_partially_removed",
-    "langName": "The jacket has been partially taken off",
+    "langName": "Jacket Partially Removed",
     "object": "Apparel",
     "attribute": "Coat",
     "preview": "https://img.aishort.top/imgprompt/20260213081023629.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "cardigan jacket (with spread legs)",
+    "langName": "Open Jacket",
     "object": "Apparel",
     "attribute": "Coat",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -18048,7 +18048,7 @@
   },
   {
     "displayName": "corset",
-    "langName": "Corset (waistcoat)",
+    "langName": "Corset",
     "object": "Apparel",
     "attribute": "Waist",
     "preview": "https://img.aishort.top/imgprompt/20260225104053785.webp"
@@ -18097,7 +18097,7 @@
   },
   {
     "displayName": "kusazuri",
-    "langName": "Fudang | Kusazuri (Japanese lower half armor",
+    "langName": "Kusazuri (Armor Tassets)",
     "object": "Apparel",
     "attribute": "Armor",
     "preview": "https://img.aishort.top/imgprompt/20260213115508736.webp"
@@ -18118,7 +18118,7 @@
   },
   {
     "displayName": "kabuto",
-    "langName": "Helmet (Japanese style)",
+    "langName": "Kabuto (Samurai Helmet)",
     "object": "Apparel",
     "attribute": "Armor",
     "preview": "https://img.aishort.top/imgprompt/20260213115548290.webp"
@@ -18132,7 +18132,7 @@
   },
   {
     "displayName": "shoulder_armor",
-    "langName": "Shoulders",
+    "langName": "Shoulder Armor",
     "object": "Apparel",
     "attribute": "Armor",
     "preview": "https://img.aishort.top/imgprompt/20260213115612426.webp"
@@ -18153,7 +18153,7 @@
   },
   {
     "displayName": "faulds",
-    "langName": "plastron",
+    "langName": "Faulds (Waist Armor)",
     "object": "Apparel",
     "attribute": "Armor",
     "preview": "https://img.aishort.top/imgprompt/20260213115855297.webp"
@@ -18237,7 +18237,7 @@
   },
   {
     "displayName": "sundress",
-    "langName": "Slip dress (sleeveless dress for hot weather)",
+    "langName": "Sundress",
     "object": "Apparel",
     "attribute": "Skirt",
     "preview": "https://img.aishort.top/imgprompt/20260213121003959.webp"
@@ -18342,7 +18342,7 @@
   },
   {
     "displayName": "impossible_dress",
-    "langName": "Clothes that are too tight",
+    "langName": "Impossible Dress",
     "object": "Apparel",
     "attribute": "Skirt",
     "preview": "https://img.aishort.top/imgprompt/20260213122932976.webp"
@@ -18454,14 +18454,14 @@
   },
   {
     "displayName": "ballgown",
-    "langName": "tutu (dress)",
+    "langName": "Ball Gown",
     "object": "Apparel",
     "attribute": "Skirt",
     "preview": "https://img.aishort.top/imgprompt/20260213123502356.webp"
   },
   {
     "displayName": "pettiskirt",
-    "langName": "tutu (children)",
+    "langName": "Pettiskirt",
     "object": "Apparel",
     "attribute": "Skirt",
     "preview": "https://img.aishort.top/imgprompt/20260213123515479.webp"
@@ -18811,14 +18811,14 @@
   },
   {
     "displayName": "dolphin_shorts",
-    "langName": "Dolphin shorts (truth pants)",
+    "langName": "Dolphin Shorts",
     "object": "Apparel",
     "attribute": "Pants",
     "preview": "https://img.aishort.top/imgprompt/20260213134352207.webp"
   },
   {
     "displayName": "dolfin_shorts",
-    "langName": "Dolphin shorts (truth pants)",
+    "langName": "Dolphin Shorts",
     "object": "Apparel",
     "attribute": "Pants",
     "preview": "https://img.aishort.top/imgprompt/20260213134404755.webp"
@@ -18832,7 +18832,7 @@
   },
   {
     "displayName": "crotchless_pants",
-    "langName": "Crotchless pants (tight)",
+    "langName": "Crotchless Pants",
     "object": "Apparel",
     "attribute": "Pants",
     "preview": "https://img.aishort.top/imgprompt/20260213134430564.webp"
@@ -18937,14 +18937,14 @@
   },
   {
     "displayName": "chaps",
-    "langName": "Leather chaps (wide at top and narrow at bottom)",
+    "langName": "Chaps",
     "object": "Apparel",
     "attribute": "Pants",
     "preview": "https://img.aishort.top/imgprompt/20260213134945047.webp"
   },
   {
     "displayName": "jumpsuit",
-    "langName": "(especially women's) jumpsuit",
+    "langName": "Jumpsuit",
     "object": "Apparel",
     "attribute": "Pants",
     "preview": "https://img.aishort.top/imgprompt/20260213134957992.webp"
@@ -18979,7 +18979,7 @@
   },
   {
     "displayName": "leotard_aside",
-    "langName": "Peel the crotch of the jumpsuit aside",
+    "langName": "Leotard Aside",
     "object": "Apparel",
     "attribute": "Pants",
     "preview": "https://img.aishort.top/imgprompt/20260213135915193.webp"
@@ -19140,21 +19140,21 @@
   },
   {
     "displayName": "pantyhose",
-    "langName": "pantyhose | pantyhose",
+    "langName": "pantyhose",
     "object": "Apparel",
     "attribute": "Sock",
     "preview": "https://img.aishort.top/imgprompt/20260213142442251.webp"
   },
   {
     "displayName": "legwear",
-    "langName": "Pantyhose",
+    "langName": "Legwear / Hosiery",
     "object": "Apparel",
     "attribute": "Sock",
     "preview": "https://img.aishort.top/imgprompt/20260225104603819.webp"
   },
   {
     "displayName": "thighhighs",
-    "langName": "Stockings (knee-high socks)",
+    "langName": "Thigh-high Stockings",
     "object": "Apparel",
     "attribute": "Sock",
     "preview": "https://img.aishort.top/imgprompt/20260213142506603.webp"
@@ -19217,7 +19217,7 @@
   },
   {
     "displayName": "pantylines",
-    "langName": "Tight tights (outline the lines",
+    "langName": "Visible Panty Lines",
     "object": "Apparel",
     "attribute": "Sock",
     "preview": "https://img.aishort.top/imgprompt/20260317074408132.webp"
@@ -19357,7 +19357,7 @@
   },
   {
     "displayName": "back-seamed_legwear",
-    "langName": "Socks with a black line in the middle",
+    "langName": "Back-seamed Stockings",
     "object": "Apparel",
     "attribute": "Sock",
     "preview": "https://img.aishort.top/imgprompt/20260225104949341.webp"
@@ -19413,14 +19413,14 @@
   },
   {
     "displayName": "bobby_socks",
-    "langName": "Bobby socks (white socks)",
+    "langName": "Bobby Socks",
     "object": "Apparel",
     "attribute": "Sock",
     "preview": "https://img.aishort.top/imgprompt/20260213144125119.webp"
   },
   {
     "displayName": "tabi",
-    "langName": "Japanese thick-soled socks (foot pockets)",
+    "langName": "Tabi (Split-toe Socks)",
     "object": "Apparel",
     "attribute": "Sock",
     "preview": "https://img.aishort.top/imgprompt/20260213144138485.webp"
@@ -19434,7 +19434,7 @@
   },
   {
     "displayName": "leg_warmers",
-    "langName": "Leg warmers | leg warmers",
+    "langName": "Leg warmers",
     "object": "Apparel",
     "attribute": "Sock",
     "preview": "https://img.aishort.top/imgprompt/20260213144203562.webp"
@@ -19518,7 +19518,7 @@
   },
   {
     "displayName": "thigh_holster",
-    "langName": "A strap or tool bag or holster on the leg",
+    "langName": "Thigh Holster",
     "object": "Apparel",
     "attribute": "Sock",
     "preview": "https://img.aishort.top/imgprompt/20260213144441392.webp"
@@ -19546,7 +19546,7 @@
   },
   {
     "displayName": "arm_garter",
-    "langName": "boom garters",
+    "langName": "Arm Garter",
     "object": "Apparel",
     "attribute": "Sock",
     "preview": "https://img.aishort.top/imgprompt/20260213144735280.webp"
@@ -19658,14 +19658,14 @@
   },
   {
     "displayName": "sock_pull",
-    "langName": "Pulling on socks (socks)",
+    "langName": "Pulling Up Socks",
     "object": "Apparel",
     "attribute": "Sock",
     "preview": "https://img.aishort.top/imgprompt/20260213150519193.webp"
   },
   {
     "displayName": "thighhighs_pull",
-    "langName": "Pulling on socks (stockings)",
+    "langName": "Pulling Up Thigh-highs",
     "object": "Apparel",
     "attribute": "Sock",
     "preview": "https://img.aishort.top/imgprompt/20260225090322289.webp"
@@ -19686,7 +19686,7 @@
   },
   {
     "displayName": "crease",
-    "langName": "wrinkled (pleated)",
+    "langName": "Fabric Crease / Fold Lines",
     "object": "Apparel",
     "attribute": "Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260213150609920.webp"
@@ -19755,7 +19755,7 @@
   },
   {
     "displayName": "back_bow",
-    "langName": "(clothing) knot tied behind the back",
+    "langName": "Back Bow",
     "object": "Apparel",
     "attribute": "Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260213151221218.webp"
@@ -19769,7 +19769,7 @@
   },
   {
     "displayName": "double_vertical_stripe",
-    "langName": "There are two parallel stripes on the clothing",
+    "langName": "Double Vertical Stripes",
     "object": "Apparel",
     "attribute": "Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
@@ -19818,14 +19818,14 @@
   },
   {
     "displayName": "single_kneehigh",
-    "langName": "Wearing knee-length clothing on one side",
+    "langName": "Single Kneehigh Sock",
     "object": "Apparel",
     "attribute": "Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260213151419710.webp"
   },
   {
     "displayName": "single_vertical_stripe",
-    "langName": "Expose vertical stripes on one side of the garment",
+    "langName": "Single Vertical Stripe",
     "object": "Apparel",
     "attribute": "Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260213151432314.webp"
@@ -19839,7 +19839,7 @@
   },
   {
     "displayName": "two-sided_fabric",
-    "langName": "Double layer style clothing drawing method",
+    "langName": "Two-sided Fabric",
     "object": "Apparel",
     "attribute": "Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260213151458665.webp"
@@ -19860,21 +19860,21 @@
   },
   {
     "displayName": "fringe_trim",
-    "langName": "The edge (the end of the scarf)",
+    "langName": "Fringe Trim",
     "object": "Apparel",
     "attribute": "Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260213151538074.webp"
   },
   {
     "displayName": "loose_belt",
-    "langName": "Loose straps (clothing)",
+    "langName": "Loose Belt",
     "object": "Apparel",
     "attribute": "Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260213151551376.webp"
   },
   {
     "displayName": "pom_pom_(clothes)",
-    "langName": "Small pom poms (clothing accessories)",
+    "langName": "Pompom",
     "object": "Apparel",
     "attribute": "Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260213151807325.webp"
@@ -19895,7 +19895,7 @@
   },
   {
     "displayName": "gathers",
-    "langName": "pleats (clothing)",
+    "langName": "Gathered Fabric / Ruching",
     "object": "Apparel",
     "attribute": "Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260213151846596.webp"
@@ -20441,7 +20441,7 @@
   },
   {
     "displayName": "peace_symbol",
-    "langName": "☮(On Higashikata Josuke’s clothes)",
+    "langName": "Peace Symbol (☮)",
     "object": "Apparel",
     "attribute": "Pattern",
     "preview": "https://img.aishort.top/imgprompt/20260213154359591.webp"
@@ -20595,7 +20595,7 @@
   },
   {
     "displayName": "black_loafers",
-    "langName": "Loafers (small leather shoes)",
+    "langName": "Black Loafers",
     "object": "Apparel",
     "attribute": "Shoe",
     "preview": "https://img.aishort.top/imgprompt/20260213160300808.webp"
@@ -20868,7 +20868,7 @@
   },
   {
     "displayName": "knee_boots",
-    "langName": "Knee-high boots (riding boots)",
+    "langName": "Knee-high Boots",
     "object": "Apparel",
     "attribute": "Boots",
     "preview": "https://img.aishort.top/imgprompt/20260213170630231.webp"
@@ -21225,7 +21225,7 @@
   },
   {
     "displayName": "armband",
-    "langName": "armband (armband)",
+    "langName": "Armband",
     "object": "Apparel",
     "attribute": "Sleeves",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
@@ -21680,7 +21680,7 @@
   },
   {
     "displayName": "alternate_headwear",
-    "langName": "A headgear that is different from the original one",
+    "langName": "Alternate Headwear",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213191902200.webp"
@@ -21715,7 +21715,7 @@
   },
   {
     "displayName": "xx_on_head",
-    "langName": "xx on the head",
+    "langName": "Item on Head",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213192411659.webp"
@@ -21778,21 +21778,21 @@
   },
   {
     "displayName": "hachimaki",
-    "langName": "turban (noun)",
+    "langName": "Hachimaki (Headband)",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213194023586.webp"
   },
   {
     "displayName": "helm",
-    "langName": "wearing a helmet",
+    "langName": "Helm",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213194036779.webp"
   },
   {
     "displayName": "helmet_removed",
-    "langName": "helmet taken off | helmet taken off",
+    "langName": "helmet taken off",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213194050047.webp"
@@ -21827,7 +21827,7 @@
   },
   {
     "displayName": "skull_and_crossbones",
-    "langName": "Skull and crossbones (pirate, danger, warning)",
+    "langName": "Skull and Crossbones",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213195005290.webp"
@@ -21841,7 +21841,7 @@
   },
   {
     "displayName": "headdress",
-    "langName": "Headwear (more general)",
+    "langName": "Headdress",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213195638458.webp"
@@ -21869,21 +21869,21 @@
   },
   {
     "displayName": "horns_through_headwear",
-    "langName": "A headdress with holes for the horns",
+    "langName": "Horns Through Headwear",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213200134487.webp"
   },
   {
     "displayName": "no_headwear",
-    "langName": "Removed (existing) headgear",
+    "langName": "No Headwear",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213200147284.webp"
   },
   {
     "displayName": "object_on_head",
-    "langName": "There is something other than headgear on the head",
+    "langName": "Object on Head",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213200200049.webp"
@@ -21925,7 +21925,7 @@
   },
   {
     "displayName": "behind-the-head_headphones",
-    "langName": "Headphones worn from the back of the head",
+    "langName": "Behind-the-head Headphones",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213200337721.webp"
@@ -21988,14 +21988,14 @@
   },
   {
     "displayName": "head_mounted_display",
-    "langName": "Wearing a head-mounted display device",
+    "langName": "Head-mounted Display (HMD)",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213201344092.webp"
   },
   {
     "displayName": "head_out_of_frame",
-    "langName": "Part of the head is not drawn in the frame",
+    "langName": "Head Out of Frame",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213201559216.webp"
@@ -22016,7 +22016,7 @@
   },
   {
     "displayName": "headgear",
-    "langName": "Headgear (Sci-Fi)",
+    "langName": "Sci-Fi Headgear",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213201840823.webp"
@@ -22030,7 +22030,7 @@
   },
   {
     "displayName": "heads-up_display",
-    "langName": "Status bar (game and sci-fi style)",
+    "langName": "Heads-up Display (HUD)",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213201907728.webp"
@@ -22065,7 +22065,7 @@
   },
   {
     "displayName": "single_head_wing",
-    "langName": "There are wings on one side of the head",
+    "langName": "Single Head Wing",
     "object": "Accessories",
     "attribute": "Headgear",
     "preview": "https://img.aishort.top/imgprompt/20260213202620422.webp"
@@ -22261,7 +22261,7 @@
   },
   {
     "displayName": "hairpods",
-    "langName": "Hairpods (Bluetooth-like hair accessories)",
+    "langName": "Hairpods",
     "object": "Accessories",
     "attribute": "Hair Accessories",
     "preview": "https://img.aishort.top/imgprompt/20260213210909139.webp"
@@ -22296,7 +22296,7 @@
   },
   {
     "displayName": "snake_hair_ornament",
-    "langName": "Snake Hair Accessories | Frog Hair Accessories",
+    "langName": "Snake Hair Ornament",
     "object": "Accessories",
     "attribute": "Hair Accessories",
     "preview": "https://img.aishort.top/imgprompt/20260213211418419.webp"
@@ -22779,7 +22779,7 @@
   },
   {
     "displayName": "hat_removed",
-    "langName": "hat is taken off | hat is taken off",
+    "langName": "hat is taken off",
     "object": "Accessories",
     "attribute": "Hat",
     "preview": "https://img.aishort.top/imgprompt/20260213224231603.webp"
@@ -22800,7 +22800,7 @@
   },
   {
     "displayName": "hatching_(texture)",
-    "langName": "Line shading (texture)",
+    "langName": "Cross-hatching Texture",
     "object": "Accessories",
     "attribute": "Hat",
     "preview": "https://img.aishort.top/imgprompt/20260213224329155.webp"
@@ -22926,14 +22926,14 @@
   },
   {
     "displayName": "sunglasses",
-    "langName": "Sunglasses (covering eyes)",
+    "langName": "Opaque Sunglasses",
     "object": "Accessories",
     "attribute": "Glasses",
     "preview": "https://img.aishort.top/imgprompt/20260213230746663.webp"
   },
   {
     "displayName": "reflection glasses",
-    "langName": "Sunglasses (eyes visible)",
+    "langName": "Reflective Sunglasses",
     "object": "Accessories",
     "attribute": "Glasses",
     "preview": "https://img.aishort.top/imgprompt/20260213230759909.webp"
@@ -22954,7 +22954,7 @@
   },
   {
     "displayName": "eyepatch",
-    "langName": "Eye patch (one eye)",
+    "langName": "Eyepatch",
     "object": "Accessories",
     "attribute": "Glasses",
     "preview": "https://img.aishort.top/imgprompt/20260213230839662.webp"
@@ -22982,14 +22982,14 @@
   },
   {
     "displayName": "coke-bottle_glasses",
-    "langName": "Round glasses as thick as glass bottle bottoms",
+    "langName": "Coke-bottle Glasses",
     "object": "Accessories",
     "attribute": "Glasses",
     "preview": "https://img.aishort.top/imgprompt/20260213230932442.webp"
   },
   {
     "displayName": "no_eyewear",
-    "langName": "Removed (existing) glasses",
+    "langName": "No Glasses",
     "object": "Accessories",
     "attribute": "Glasses",
     "preview": "https://img.aishort.top/imgprompt/20260213230945224.webp"
@@ -23241,7 +23241,7 @@
   },
   {
     "displayName": "single_earring",
-    "langName": "Wearing earrings only on one side",
+    "langName": "Single Earring",
     "object": "Accessories",
     "attribute": "Earring",
     "preview": "https://img.aishort.top/imgprompt/20260213235633818.webp"
@@ -23297,7 +23297,7 @@
   },
   {
     "displayName": "cuffs",
-    "langName": "pillory",
+    "langName": "Handcuffs",
     "object": "Accessories",
     "attribute": "Hand Jewelry",
     "preview": "https://img.aishort.top/imgprompt/20260213235839451.webp"
@@ -23325,7 +23325,7 @@
   },
   {
     "displayName": "leash",
-    "langName": "belt",
+    "langName": "Leash",
     "object": "Accessories",
     "attribute": "Hand Jewelry",
     "preview": "https://img.aishort.top/imgprompt/20260213235930034.webp"
@@ -23437,7 +23437,7 @@
   },
   {
     "displayName": "no_gloves",
-    "langName": "Removed (existing) gloves",
+    "langName": "No Gloves",
     "object": "Accessories",
     "attribute": "Gloves",
     "preview": "https://img.aishort.top/imgprompt/20260214001315236.webp"
@@ -23451,7 +23451,7 @@
   },
   {
     "displayName": "single_elbow_glove",
-    "langName": "Wearing an elbow-length glove on one hand",
+    "langName": "Single Elbow-length Glove",
     "object": "Accessories",
     "attribute": "Gloves",
     "preview": "https://img.aishort.top/imgprompt/20260214001744860.webp"
@@ -23465,7 +23465,7 @@
   },
   {
     "displayName": "elbow_gloves",
-    "langName": "Long sleeve gloves (elbow gloves)",
+    "langName": "Elbow-length Gloves",
     "object": "Accessories",
     "attribute": "Gloves",
     "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
@@ -23500,14 +23500,14 @@
   },
   {
     "displayName": "paw_gloves",
-    "langName": "Claw gloves (finger gloves)",
+    "langName": "Paw Gloves",
     "object": "Accessories",
     "attribute": "Gloves",
     "preview": "https://img.aishort.top/imgprompt/20260214002522561.webp"
   },
   {
     "displayName": "mittens",
-    "langName": "Mittens (two-fingered gloves)",
+    "langName": "Mittens",
     "object": "Accessories",
     "attribute": "Gloves",
     "preview": "https://img.aishort.top/imgprompt/20260214002535788.webp"
@@ -23759,14 +23759,14 @@
   },
   {
     "displayName": "st._gloriana's_(emblem)",
-    "langName": "St. Gloria Anna Girls' School school emblem",
+    "langName": "St. Gloriana Emblem",
     "object": "Accessories",
     "attribute": "Small Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260214010157304.webp"
   },
   {
     "displayName": "heart_lock_(kantai_collection)",
-    "langName": "Ship Girl Lock (Ship C)",
+    "langName": "Heart Lock (Kantai Collection)",
     "object": "Accessories",
     "attribute": "Small Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260214010210385.webp"
@@ -23990,14 +23990,14 @@
   },
   {
     "displayName": "Wu Xing",
-    "langName": "Five elements (metal, wood, water, fire and earth)",
+    "langName": "Five Elements (Wu Xing)",
     "object": "Accessories",
     "attribute": "Symbol",
     "preview": "https://img.aishort.top/imgprompt/20260214020503233.webp"
   },
   {
     "displayName": "dynamic pose",
-    "langName": "Dynamic poses (energetic)",
+    "langName": "Dynamic Pose",
     "object": "Photography",
     "attribute": "Perspective",
     "preview": "https://img.aishort.top/imgprompt/20260214020718871.webp"
@@ -24319,28 +24319,28 @@
   },
   {
     "displayName": "cowboy_shot",
-    "langName": "Upper body + upper thigh (denim lens)",
+    "langName": "Cowboy Shot (American Shot)",
     "object": "Photography",
     "attribute": "Viewing height",
     "preview": "https://img.aishort.top/imgprompt/20260214032314849.webp"
   },
   {
     "displayName": "portrait",
-    "langName": "Portrait (face + shoulders + occasionally chest)",
+    "langName": "Portrait Shot",
     "object": "Photography",
     "attribute": "Viewing height",
     "preview": "https://img.aishort.top/imgprompt/20260214032327856.webp"
   },
   {
     "displayName": "very close portrait",
-    "langName": "Close portrait (camera closer)",
+    "langName": "Extreme Close-up Portrait",
     "object": "Photography",
     "attribute": "Viewing height",
     "preview": "https://img.aishort.top/imgprompt/20260214032544032.webp"
   },
   {
     "displayName": "profile",
-    "langName": "Profile portrait (profile version of portrait)",
+    "langName": "Profile Portrait",
     "object": "Photography",
     "attribute": "Viewing height",
     "preview": "https://img.aishort.top/imgprompt/20260214032759101.webp"
@@ -24375,7 +24375,7 @@
   },
   {
     "displayName": "wide_shot",
-    "langName": "Panoramic lens (wide angle lens)",
+    "langName": "Wide Shot",
     "object": "Photography",
     "attribute": "Lens focus",
     "preview": "https://img.aishort.top/imgprompt/20260214033851759.webp"
@@ -24389,7 +24389,7 @@
   },
   {
     "displayName": "inset",
-    "langName": "Insert additional footage or pictures",
+    "langName": "Inset Picture",
     "object": "Photography",
     "attribute": "Lens focus",
     "preview": "https://img.aishort.top/imgprompt/20260214033931731.webp"
@@ -24403,21 +24403,21 @@
   },
   {
     "displayName": "male focus",
-    "langName": "Male Focus (Female Focus)",
+    "langName": "Male Focus",
     "object": "Photography",
     "attribute": "Lens focus",
     "preview": "https://img.aishort.top/imgprompt/20260214033958195.webp"
   },
   {
     "displayName": "solo_focus",
-    "langName": "Focus on one character (complex scene)",
+    "langName": "Solo Focus",
     "object": "Photography",
     "attribute": "Lens focus",
     "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
   },
   {
     "displayName": "xx_focus",
-    "langName": "focus on xx",
+    "langName": "Detail Focus",
     "object": "Photography",
     "attribute": "Lens focus",
     "preview": "https://img.aishort.top/imgprompt/20260214034023889.webp"
@@ -24459,7 +24459,7 @@
   },
   {
     "displayName": "vehicle_focus",
-    "langName": "Focus on the vehicle (car)",
+    "langName": "Vehicle Focus",
     "object": "Photography",
     "attribute": "Lens focus",
     "preview": "https://img.aishort.top/imgprompt/20260214034759257.webp"
@@ -24473,21 +24473,21 @@
   },
   {
     "displayName": "between_legs",
-    "langName": "(emphasis) between the legs",
+    "langName": "Between Legs View",
     "object": "Photography",
     "attribute": "Lens focus",
     "preview": "https://img.aishort.top/imgprompt/20260214035455577.webp"
   },
   {
     "displayName": "between_breasts",
-    "langName": "(protruding) chest",
+    "langName": "Between Breasts View",
     "object": "Photography",
     "attribute": "Lens focus",
     "preview": "https://img.aishort.top/imgprompt/20260225091239828.webp"
   },
   {
     "displayName": "between_fingers",
-    "langName": "(prominence) between fingers",
+    "langName": "Between Fingers View",
     "object": "Photography",
     "attribute": "Lens focus",
     "preview": "https://img.aishort.top/imgprompt/20260214035531987.webp"
@@ -24501,14 +24501,14 @@
   },
   {
     "displayName": "peeking_out",
-    "langName": "peeping (gesture)",
+    "langName": "Peeking Out",
     "object": "Photography",
     "attribute": "Lens focus",
     "preview": "https://img.aishort.top/imgprompt/20260214035557635.webp"
   },
   {
     "displayName": "peeping",
-    "langName": "Voyeur (emphasis on perspective)",
+    "langName": "Peeping View",
     "object": "Photography",
     "attribute": "Lens focus",
     "preview": "https://img.aishort.top/imgprompt/20260214035610390.webp"
@@ -24662,7 +24662,7 @@
   },
   {
     "displayName": "Brenizer Method",
-    "langName": "Brenizer method (bokeh panorama)",
+    "langName": "Brenizer Method (Bokeh Panorama)",
     "object": "Photography",
     "attribute": "Lenses/Optical Effects",
     "preview": "https://img.aishort.top/imgprompt/20260214041350224.webp"
@@ -24697,7 +24697,7 @@
   },
   {
     "displayName": "landscape",
-    "langName": "Landscape shot (long shot)",
+    "langName": "Landscape Shot",
     "object": "Photography",
     "attribute": "Lenses/Optical Effects",
     "preview": "https://img.aishort.top/imgprompt/20260214041814281.webp"
@@ -24844,7 +24844,7 @@
   },
   {
     "displayName": "polaroid",
-    "langName": "Photos (Polaroid)",
+    "langName": "Polaroid Photo",
     "object": "Photography",
     "attribute": "Photography Style",
     "preview": "https://img.aishort.top/imgprompt/20260214044251180.webp"
@@ -25292,7 +25292,7 @@
   },
   {
     "displayName": "depth of field",
-    "langName": "Depth of field (coordinating human scenes)",
+    "langName": "Depth of Field",
     "object": "Photography",
     "attribute": "Effect",
     "preview": "https://img.aishort.top/imgprompt/20260224191234161.webp"
@@ -25320,14 +25320,14 @@
   },
   {
     "displayName": "bokeh",
-    "langName": "bokeh (blurred background)",
+    "langName": "Bokeh Blur",
     "object": "Photography",
     "attribute": "Effect",
     "preview": "https://img.aishort.top/imgprompt/20260224191333274.webp"
   },
   {
     "displayName": "chromatic_aberration",
-    "langName": "Chromatic aberration, color out of focus",
+    "langName": "Chromatic Aberration",
     "object": "Photography",
     "attribute": "Effect",
     "preview": "https://img.aishort.top/imgprompt/20260224191548893.webp"
@@ -25818,7 +25818,7 @@
   },
   {
     "displayName": "Crepuscular Rays",
-    "langName": "crepuscular rays (god rays / sunbeams)",
+    "langName": "Crepuscular Rays (God Rays)",
     "object": "Light and shadow effects",
     "attribute": "Lighting effects",
     "preview": "https://img.aishort.top/imgprompt/20260224200322540.webp"
@@ -25860,7 +25860,7 @@
   },
   {
     "displayName": "lens flare",
-    "langName": "Lens flare (backlighting)",
+    "langName": "Lens Flare",
     "object": "Light and shadow effects",
     "attribute": "Lighting effects",
     "preview": "https://img.aishort.top/imgprompt/20260224200437632.webp"
@@ -27113,7 +27113,7 @@
   },
   {
     "displayName": "Dispersion",
-    "langName": "Chromatic aberration",
+    "langName": "Dispersion",
     "object": "Color & Atmosphere",
     "attribute": "Dark Tones",
     "preview": "https://img.aishort.top/imgprompt/20260224221649393.webp"
@@ -27645,7 +27645,7 @@
   },
   {
     "displayName": "Tetradic-Colors",
-    "langName": "Four colors (rectangular color matching)",
+    "langName": "Tetradic Color Scheme",
     "object": "Color & Atmosphere",
     "attribute": "Color palette",
     "preview": "https://img.aishort.top/imgprompt/20260224223613371.webp"
@@ -27940,14 +27940,14 @@
   },
   {
     "displayName": "YCbCr",
-    "langName": "ikB",
+    "langName": "YCbCr",
     "object": "Color & Atmosphere",
     "attribute": "Monitor color palette",
     "preview": "https://img.aishort.top/imgprompt/20260224224629664.webp"
   },
   {
     "displayName": "YPbPr",
-    "langName": "wxya",
+    "langName": "YPbPr",
     "object": "Color & Atmosphere",
     "attribute": "Monitor color palette",
     "preview": "https://img.aishort.top/imgprompt/20260224224643063.webp"
@@ -29914,7 +29914,7 @@
   },
   {
     "displayName": "Putty",
-    "langName": "Adhesives for sealing and filling voids",
+    "langName": "Putty",
     "object": "Material",
     "attribute": "Slime",
     "preview": "https://img.aishort.top/imgprompt/20260224235936705.webp"
@@ -31356,7 +31356,7 @@
   },
   {
     "displayName": "((dyeing)),((oil painting)),((impasto))",
-    "langName": "Oil painting (combination)",
+    "langName": "Impasto Oil Painting Mix",
     "object": "Image type",
     "attribute": "Painting",
     "preview": "https://img.aishort.top/imgprompt/20260225004949979.webp"
@@ -31825,7 +31825,7 @@
   },
   {
     "displayName": "copics",
-    "langName": "Marker (neutral gray)",
+    "langName": "Copic Marker Style",
     "object": "Image type",
     "attribute": "Ink",
     "preview": "https://img.aishort.top/imgprompt/20260225010656308.webp"
@@ -32126,7 +32126,7 @@
   },
   {
     "displayName": "Pokemon Card",
-    "langName": "Pokémon Cards (Pocket Monsters)",
+    "langName": "Pokémon TCG Card Style",
     "object": "Image type",
     "attribute": "Print",
     "preview": "https://img.aishort.top/imgprompt/20260225011638981.webp"
@@ -32518,7 +32518,7 @@
   },
   {
     "displayName": "traditional_media",
-    "langName": "Traditional canvas (such as paper, etc.)",
+    "langName": "Traditional Art Media",
     "object": "Image type",
     "attribute": "Other media",
     "preview": "https://img.aishort.top/imgprompt/20260225013600028.webp"
@@ -33078,7 +33078,7 @@
   },
   {
     "displayName": "miserablism",
-    "langName": "Miserablism (social criticism)",
+    "langName": "Miserablism Art Movement",
     "object": "Art style",
     "attribute": "Fiction and reality",
     "preview": "https://img.aishort.top/imgprompt/20260225015538415.webp"
@@ -33169,7 +33169,7 @@
   },
   {
     "displayName": "illustration,(((ukiyoe))),((sketch)),((japanese_art))",
-    "langName": "Ukiyo-e (group)",
+    "langName": "Ukiyo-e Woodblock Illustration",
     "object": "Art style",
     "attribute": "Asian art",
     "preview": "https://img.aishort.top/imgprompt/20260225015830944.webp"
@@ -33260,7 +33260,7 @@
   },
   {
     "displayName": "heavy contrast",
-    "langName": "Strong contrast (emphasis on color)",
+    "langName": "Heavy High Contrast",
     "object": "Art style",
     "attribute": "Photography/Painting Style",
     "preview": "https://img.aishort.top/imgprompt/20260225020108984.webp"
@@ -33323,7 +33323,7 @@
   },
   {
     "displayName": "film noir",
-    "langName": "Film noir (guilt, desire, revenge)",
+    "langName": "Film Noir Aesthetic",
     "object": "Art style",
     "attribute": "Photography/Painting Style",
     "preview": "https://img.aishort.top/imgprompt/20260225020255566.webp"
@@ -33337,7 +33337,7 @@
   },
   {
     "displayName": "fantasy",
-    "langName": "Suitable for science fiction scenes",
+    "langName": "Fantasy Aesthetic",
     "object": "Art style",
     "attribute": "Science fiction",
     "preview": "https://img.aishort.top/imgprompt/20260225020323046.webp"
@@ -33624,14 +33624,14 @@
   },
   {
     "displayName": "column lineup",
-    "langName": "A series of small pictures make up a big picture",
+    "langName": "Column Lineup",
     "object": "Art style",
     "attribute": "Publication",
     "preview": "https://img.aishort.top/imgprompt/20260225021130372.webp"
   },
   {
     "displayName": "zoom layer",
-    "langName": "Background is zoomed version of foreground",
+    "langName": "Zoom Layer",
     "object": "Art style",
     "attribute": "Publication",
     "preview": "https://img.aishort.top/imgprompt/20260225021142834.webp"
@@ -33680,7 +33680,7 @@
   },
   {
     "displayName": "highres",
-    "langName": "impasto (style)",
+    "langName": "Digital Impasto Style",
     "object": "Art style",
     "attribute": "Digital art",
     "preview": "https://img.aishort.top/imgprompt/20260225021323241.webp"
@@ -34233,7 +34233,7 @@
   },
   {
     "displayName": "Sabattier Effect",
-    "langName": "Provides soft, blurred edges and color shading",
+    "langName": "Sabattier Effect (Solarization)",
     "object": "Post processing",
     "attribute": "Image processing",
     "preview": "https://img.aishort.top/imgprompt/20260225022949265.webp"
@@ -34268,7 +34268,7 @@
   },
   {
     "displayName": "Harris Shutter",
-    "langName": "Harris Shutter (motion/low light)",
+    "langName": "Harris Shutter Effect",
     "object": "Post processing",
     "attribute": "Image processing",
     "description": "Captures fast-moving objects or maintains image clarity in low-light environments",
@@ -34682,7 +34682,7 @@
   },
   {
     "displayName": "beautiful Korean idol in an intimate pose with a man in a blurred indoor setting,soft lighting,moody atmosphere",
-    "langName": "beautiful Korean idol in an intimate pose with a man in a blurred indoor setting,soft lighting,moody atmosphere",
+    "langName": "Moody Couple Photoshoot",
     "object": "Showcase",
     "attribute": "Portrait",
     "preview": "https://img.aishort.top/imgprompt/20260228063106088.webp"
@@ -34734,7 +34734,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151157243.webp"
   },
   {
-    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑(广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
+    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑（广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
     "langName": "2026 Spring Guangzhou City Poster",
     "object": "Showcase",
     "attribute": "Poster",

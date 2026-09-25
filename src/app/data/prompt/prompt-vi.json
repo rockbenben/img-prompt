@@ -435,7 +435,7 @@
   },
   {
     "displayName": "cleric",
-    "langName": "Giáo sĩ (Thiên Chúa giáo)",
+    "langName": "Giáo sĩ / Mục sư",
     "object": "Nhân vật",
     "attribute": "Vai trò",
     "preview": "https://img.aishort.top/imgprompt/20260208072159895.webp"
@@ -526,7 +526,7 @@
   },
   {
     "displayName": "trap",
-    "langName": "Trap",
+    "langName": "Giả gái",
     "object": "Nhân vật",
     "attribute": "Vai trò",
     "description": "Nhân vật nam với đặc điểm nữ tính có thể bị nhầm là nữ",
@@ -534,21 +534,21 @@
   },
   {
     "displayName": "crossdressing",
-    "langName": "Giả gái (Crossdressing)",
+    "langName": "Mặc trang phục khác giới",
     "object": "Nhân vật",
     "attribute": "Vai trò",
     "preview": "https://img.aishort.top/imgprompt/20260209061704193.webp"
   },
   {
     "displayName": "otoko_no_ko",
-    "langName": "Otokonoko (nam giới có ngoại hình nữ)",
+    "langName": "Otokonoko",
     "object": "Nhân vật",
     "attribute": "Vai trò",
     "preview": "https://img.aishort.top/imgprompt/20260208074725601.webp"
   },
   {
     "displayName": "gyaru",
-    "langName": "Những cô gái nóng bỏng (những cô gái Nhật Bản)",
+    "langName": "Gyaru",
     "object": "Nhân vật",
     "attribute": "Vai trò",
     "preview": "https://img.aishort.top/imgprompt/20260210193812753.webp"
@@ -562,14 +562,14 @@
   },
   {
     "displayName": "yaoi",
-    "langName": "Hãy là người đồng tính",
+    "langName": "Yaoi / BL",
     "object": "Nhân vật",
     "attribute": "Vai trò",
     "preview": "https://img.aishort.top/imgprompt/20260208074725603.webp"
   },
   {
     "displayName": "yuri",
-    "langName": "hoa loa kèn",
+    "langName": "Yuri / GL",
     "object": "Nhân vật",
     "attribute": "Vai trò",
     "preview": "https://img.aishort.top/imgprompt/20260209061704191.webp"
@@ -646,7 +646,7 @@
   },
   {
     "displayName": "mazinger",
-    "langName": "người phụ nữ tuyệt vời",
+    "langName": "Mazinger Z",
     "object": "Nhân vật",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537640.webp"
@@ -758,7 +758,7 @@
   },
   {
     "displayName": "orc",
-    "langName": "orc",
+    "langName": "Quái vật orc",
     "object": "Nhân vật",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063108912.webp"
@@ -772,7 +772,7 @@
   },
   {
     "displayName": "elf",
-    "langName": "yêu tinh",
+    "langName": "Yêu tinh",
     "object": "Nhân vật",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063126234.webp"
@@ -786,7 +786,7 @@
   },
   {
     "displayName": "fairy",
-    "langName": "yêu tinh",
+    "langName": "Nàng tiên / Tiên nữ",
     "object": "Nhân vật",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063141969.webp"
@@ -828,14 +828,14 @@
   },
   {
     "displayName": "monster_girl",
-    "langName": "Mẹ của người nước ngoài",
+    "langName": "Cô gái quái vật",
     "object": "Nhân vật",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063226407.webp"
   },
   {
     "displayName": "dominatrix",
-    "langName": "Nữ hoàng (SM Trung bình)",
+    "langName": "Dominatrix",
     "object": "Nhân vật",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209063233422.webp"
@@ -968,21 +968,21 @@
   },
   {
     "displayName": "horse_girl",
-    "langName": "Mã Nương",
+    "langName": "Cô gái ngựa",
     "object": "Nhân vật",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537637.webp"
   },
   {
     "displayName": "furry",
-    "langName": "orc",
+    "langName": "Furry / Nhân hóa thú",
     "object": "Nhân vật",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537632.webp"
   },
   {
     "displayName": "furry/orc",
-    "langName": "Orc/Orc",
+    "langName": "Furry / Orc",
     "object": "Nhân vật",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537646.webp"
@@ -1010,14 +1010,14 @@
   },
   {
     "displayName": "mesugaki",
-    "langName": "nữ quỷ",
+    "langName": "Mesugaki",
     "object": "Nhân vật",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537644.webp"
   },
   {
     "displayName": "santa alter",
-    "langName": "Ông già Noel",
+    "langName": "Santa Alter",
     "object": "Nhân vật",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260210072537639.webp"
@@ -1052,7 +1052,7 @@
   },
   {
     "displayName": "kindergartener",
-    "langName": "mẫu giáo",
+    "langName": "Trẻ mẫu giáo",
     "object": "Nhân vật",
     "attribute": "Tuổi",
     "preview": "https://img.aishort.top/imgprompt/20260210192804244.webp"
@@ -1073,14 +1073,14 @@
   },
   {
     "displayName": "early teen",
-    "langName": "Tuổi vị thành niên sớm (11-15)",
+    "langName": "Thiếu niên sớm",
     "object": "Nhân vật",
     "attribute": "Tuổi",
     "preview": "https://img.aishort.top/imgprompt/20260210192804238.webp"
   },
   {
     "displayName": "teenager",
-    "langName": "Thanh thiếu niên (13-19)",
+    "langName": "Thanh thiếu niên",
     "object": "Nhân vật",
     "attribute": "Tuổi",
     "preview": "https://img.aishort.top/imgprompt/20260210192804240.webp"
@@ -1129,7 +1129,7 @@
   },
   {
     "displayName": "pale_skin",
-    "langName": "Da nhợt nhạt",
+    "langName": "Làn da nhợt nhạt",
     "object": "Nhân vật",
     "attribute": "Da",
     "preview": "https://img.aishort.top/imgprompt/20260210193300398.webp"
@@ -1192,7 +1192,7 @@
   },
   {
     "displayName": "tanlines",
-    "langName": "tổn thương do ánh nắng mặt trời",
+    "langName": "Vệt rám nắng",
     "object": "Nhân vật",
     "attribute": "Da",
     "preview": "https://img.aishort.top/imgprompt/20260210193621164.webp"
@@ -1206,7 +1206,7 @@
   },
   {
     "displayName": "oil_skin",
-    "langName": "oil skin",
+    "langName": "Da dầu",
     "object": "Nhân vật",
     "attribute": "Da",
     "preview": "https://img.aishort.top/imgprompt/20260210195122883.webp"
@@ -1318,7 +1318,7 @@
   },
   {
     "displayName": "(cleavage visible,large breasts)",
-    "langName": "Ngực lớn (có khe ngực)",
+    "langName": "Ngực khủng (lộ khe ngực)",
     "object": "Nhân vật",
     "attribute": "Vóc dáng",
     "preview": "https://img.aishort.top/imgprompt/20260211065136926.webp"
@@ -1808,7 +1808,7 @@
   },
   {
     "displayName": "hair bun",
-    "langName": "Bánh bao | Bánh bao",
+    "langName": "Búi tóc",
     "object": "Nhân vật",
     "attribute": "Kiểu tóc",
     "preview": "https://img.aishort.top/imgprompt/20260211134337333.webp"
@@ -1955,7 +1955,7 @@
   },
   {
     "displayName": "blunt bangs",
-    "langName": "Qi bangs",
+    "langName": "Tóc mái bằng",
     "object": "Nhân vật",
     "attribute": "Kiểu tóc",
     "preview": "https://img.aishort.top/imgprompt/20260211134928539.webp"
@@ -1976,7 +1976,7 @@
   },
   {
     "displayName": "air bangs",
-    "langName": "tiếng nổ không khí",
+    "langName": "Mái thưa",
     "object": "Nhân vật",
     "attribute": "Kiểu tóc",
     "preview": "https://img.aishort.top/imgprompt/20260211135006710.webp"
@@ -2004,7 +2004,7 @@
   },
   {
     "displayName": "side_blunt_bangs",
-    "langName": "mái tóc mái lệch",
+    "langName": "Tóc mái thưa hai bên",
     "object": "Nhân vật",
     "attribute": "Kiểu tóc",
     "preview": "https://img.aishort.top/imgprompt/20260211135057869.webp"
@@ -2081,7 +2081,7 @@
   },
   {
     "displayName": "ahoge",
-    "langName": "Câm",
+    "langName": "Tóc ngố",
     "object": "Nhân vật",
     "attribute": "Kiểu tóc",
     "preview": "https://img.aishort.top/imgprompt/20260211135331864.webp"
@@ -2767,7 +2767,7 @@
   },
   {
     "displayName": "eye_relfection",
-    "langName": "Phản xạ mắt (phản ứng của đồng tử với ánh sáng)",
+    "langName": "Ánh sáng trong mắt",
     "object": "Nhân vật",
     "attribute": "Mắt",
     "preview": "https://img.aishort.top/imgprompt/20260211141526968.webp"
@@ -2970,7 +2970,7 @@
   },
   {
     "displayName": "solid_oval_eyes",
-    "langName": "Phiên bản Q mắt hình bầu dục đặc",
+    "langName": "Mắt bầu dục đặc phong cách chibi",
     "object": "Nhân vật",
     "attribute": "Mắt",
     "preview": "https://img.aishort.top/imgprompt/20260211142239019.webp"
@@ -2984,7 +2984,7 @@
   },
   {
     "displayName": "blush_stickers",
-    "langName": "Miếng dán má hồng phiên bản Q",
+    "langName": "Nhãn dán má hồng chibi",
     "object": "Nhân vật",
     "attribute": "Mắt",
     "preview": "https://img.aishort.top/imgprompt/20260211142304171.webp"
@@ -3019,14 +3019,14 @@
   },
   {
     "displayName": "sanpaku",
-    "langName": "Hội chứng ba màu trắng (sự dịch chuyển đồng tử)",
+    "langName": "Mắt tam bạch",
     "object": "Nhân vật",
     "attribute": "Mắt",
     "preview": "https://img.aishort.top/imgprompt/20260211142408606.webp"
   },
   {
     "displayName": "flaming_eye",
-    "langName": "Homura",
+    "langName": "Mắt rực lửa",
     "object": "Nhân vật",
     "attribute": "Mắt",
     "preview": "https://img.aishort.top/imgprompt/20260211142422174.webp"
@@ -3082,7 +3082,7 @@
   },
   {
     "displayName": "half_closed_eye",
-    "langName": "Mắt nhắm một nửa (mắt đơn)",
+    "langName": "Mắt khép hờ",
     "object": "Nhân vật",
     "attribute": "Mắt",
     "preview": "https://img.aishort.top/imgprompt/20260211142557836.webp"
@@ -3180,14 +3180,14 @@
   },
   {
     "displayName": "no_blindfold",
-    "langName": "Đã xóa phần bịt mắt (ban đầu)",
+    "langName": "Không bịt mắt",
     "object": "Nhân vật",
     "attribute": "Mắt",
     "preview": "https://img.aishort.top/imgprompt/20260211220153156.webp"
   },
   {
     "displayName": "no_eyepatch",
-    "langName": "Đã tháo bỏ mặt nạ mắt (hiện có)",
+    "langName": "Không đeo bịt mắt",
     "object": "Nhân vật",
     "attribute": "Mắt",
     "preview": "https://img.aishort.top/imgprompt/20260211142907966.webp"
@@ -3264,7 +3264,7 @@
   },
   {
     "displayName": "solid_circle_pupils",
-    "langName": "Phiên bản Q đồng tử tròn đặc",
+    "langName": "Đồng tử tròn đặc phong cách chibi",
     "object": "Nhân vật",
     "attribute": "Đồng tử",
     "preview": "https://img.aishort.top/imgprompt/20260211143127812.webp"
@@ -3292,7 +3292,7 @@
   },
   {
     "displayName": "snake_pupils",
-    "langName": "Đồng tử rắn (đồng tử nhấp nháy)",
+    "langName": "Đồng tử rắn",
     "object": "Nhân vật",
     "attribute": "Đồng tử",
     "preview": "https://img.aishort.top/imgprompt/20260317093813015.webp"
@@ -3376,7 +3376,7 @@
   },
   {
     "displayName": "cross-shaped_pupils",
-    "langName": "Đồng tử tượng trưng (không có tác dụng",
+    "langName": "Đồng tử hình chữ thập",
     "object": "Nhân vật",
     "attribute": "Đồng tử",
     "preview": "https://img.aishort.top/imgprompt/20260211143449975.webp"
@@ -3670,7 +3670,7 @@
   },
   {
     "displayName": "gasping",
-    "langName": "Thở hổn hển (mở miệng)",
+    "langName": "Thở hổn hển",
     "object": "Nhân vật",
     "attribute": "Miệng",
     "preview": "https://img.aishort.top/imgprompt/20260317100011869.webp"
@@ -3726,7 +3726,7 @@
   },
   {
     "displayName": ":3",
-    "langName": "Maozui",
+    "langName": "Miệng mèo",
     "object": "Nhân vật",
     "attribute": "Miệng",
     "preview": "https://img.aishort.top/imgprompt/20260317100112576.webp"
@@ -3761,7 +3761,7 @@
   },
   {
     "displayName": "chestnut_mouth",
-    "langName": "Lizizui",
+    "langName": "Khuôn miệng tam giác",
     "object": "Nhân vật",
     "attribute": "Miệng",
     "preview": "https://img.aishort.top/imgprompt/20260211144640830.webp"
@@ -3817,7 +3817,7 @@
   },
   {
     "displayName": "homu",
-    "langName": "Chu môi | Chu môi",
+    "langName": "Chu môi",
     "object": "Nhân vật",
     "attribute": "Miệng",
     "preview": "https://img.aishort.top/imgprompt/20260211144827721.webp"
@@ -3901,7 +3901,7 @@
   },
   {
     "displayName": "mouth_drool",
-    "langName": "Vệt nước miếng (khóe miệng)",
+    "langName": "Chảy nước dãi mép miệng",
     "object": "Nhân vật",
     "attribute": "Miệng",
     "preview": "https://img.aishort.top/imgprompt/20260317100321880.webp"
@@ -3964,7 +3964,7 @@
   },
   {
     "displayName": "fang_out",
-    "langName": "Lộ nanh | Lộ nanh",
+    "langName": "Lộ nanh",
     "object": "Nhân vật",
     "attribute": "Răng",
     "preview": "https://img.aishort.top/imgprompt/20260317100418214.webp"
@@ -4048,7 +4048,7 @@
   },
   {
     "displayName": "uvula",
-    "langName": "lưỡi gà | lưỡi gà | lưỡi gà",
+    "langName": "lưỡi gà",
     "object": "Nhân vật",
     "attribute": "Lưỡi",
     "preview": "https://img.aishort.top/imgprompt/20260211145547542.webp"
@@ -4111,7 +4111,7 @@
   },
   {
     "displayName": "nail",
-    "langName": "Móng tay | Móng tay",
+    "langName": "Móng tay",
     "object": "Nhân vật",
     "attribute": "Móng tay",
     "preview": "https://img.aishort.top/imgprompt/20260211145741915.webp"
@@ -4167,42 +4167,42 @@
   },
   {
     "displayName": "flat chest",
-    "langName": "Ngực nhỏ (A)",
+    "langName": "Ngực lép / Ngực bằng phẳng",
     "object": "Nhân vật",
     "attribute": "Ngực",
     "preview": "https://img.aishort.top/imgprompt/20260212064123283.webp"
   },
   {
     "displayName": "small_breasts",
-    "langName": "Ngực nhỏ (B)",
+    "langName": "Ngực nhỏ",
     "object": "Nhân vật",
     "attribute": "Ngực",
     "preview": "https://img.aishort.top/imgprompt/20260212071540871.webp"
   },
   {
     "displayName": "medium breasts",
-    "langName": "Ngực trung bình (C)",
+    "langName": "Ngực vừa vặn",
     "object": "Nhân vật",
     "attribute": "Ngực",
     "preview": "https://img.aishort.top/imgprompt/20260212071540873.webp"
   },
   {
     "displayName": "big breasts",
-    "langName": "Ngực to (D)",
+    "langName": "Ngực đầy đặn",
     "object": "Nhân vật",
     "attribute": "Ngực",
     "preview": "https://img.aishort.top/imgprompt/20260212071540872.webp"
   },
   {
     "displayName": "huge breasts",
-    "langName": "Ngực to (E)",
+    "langName": "Ngực bự",
     "object": "Nhân vật",
     "attribute": "Ngực",
     "preview": "https://img.aishort.top/imgprompt/20260212071540870.webp"
   },
   {
     "displayName": "gigantic breasts",
-    "langName": "Ngực siêu to (F)",
+    "langName": "Ngực siêu khủng",
     "object": "Nhân vật",
     "attribute": "Ngực",
     "preview": "https://img.aishort.top/imgprompt/20260212071540874.webp"
@@ -4334,7 +4334,7 @@
   },
   {
     "displayName": "toe-point",
-    "langName": "đầu ngón chân | đầu ngón chân",
+    "langName": "đầu ngón chân",
     "object": "Nhân vật",
     "attribute": "Bàn chân",
     "preview": "https://img.aishort.top/imgprompt/20260211150409118.webp"
@@ -4383,7 +4383,7 @@
   },
   {
     "displayName": "detached_wings",
-    "langName": "Cánh không được kết nối với cơ thể",
+    "langName": "Đôi cánh lơ lửng tách rời",
     "object": "Nhân vật",
     "attribute": "Cánh",
     "preview": "https://img.aishort.top/imgprompt/20260211150537125.webp"
@@ -4453,7 +4453,7 @@
   },
   {
     "displayName": "no_wings",
-    "langName": "Đã loại bỏ cánh (bản gốc)",
+    "langName": "Không có cánh",
     "object": "Nhân vật",
     "attribute": "Cánh",
     "preview": "https://img.aishort.top/imgprompt/20260212072704705.webp"
@@ -4579,7 +4579,7 @@
   },
   {
     "displayName": "foral_background",
-    "langName": "Nền trang trí họa tiết hoa",
+    "langName": "Nền họa tiết hoa",
     "object": "Môi trường",
     "attribute": "Bối cảnh",
     "preview": "https://img.aishort.top/imgprompt/20260211151130102.webp"
@@ -4698,7 +4698,7 @@
   },
   {
     "displayName": "rounded_corners",
-    "langName": "Nền hoặc khung có góc bo tròn",
+    "langName": "Viền bo góc tròn",
     "object": "Môi trường",
     "attribute": "Bối cảnh",
     "preview": "https://img.aishort.top/imgprompt/20260211151506847.webp"
@@ -4712,7 +4712,7 @@
   },
   {
     "displayName": "outside_border",
-    "langName": "Một phần của bức tranh nằm ngoài khung nền",
+    "langName": "Bố cục tràn khung viền",
     "object": "Môi trường",
     "attribute": "Bối cảnh",
     "preview": "https://img.aishort.top/imgprompt/20260211151532945.webp"
@@ -4726,7 +4726,7 @@
   },
   {
     "displayName": "windowboxed",
-    "langName": "Bộ khung ảnh (nền)",
+    "langName": "Đóng khung viền",
     "object": "Môi trường",
     "attribute": "Bối cảnh",
     "preview": "https://img.aishort.top/imgprompt/20260211151559726.webp"
@@ -4929,7 +4929,7 @@
   },
   {
     "displayName": "beautiful detailed sky,beautiful detailed water",
-    "langName": "Thời tiết tốt và nước tốt",
+    "langName": "Bầu trời và làn nước chi tiết",
     "object": "Môi trường",
     "attribute": "Thiên nhiên",
     "preview": "https://img.aishort.top/imgprompt/20260211152348882.webp"
@@ -4992,7 +4992,7 @@
   },
   {
     "displayName": "Dreamy forest",
-    "langName": "Rừng mộng mơ (huyền ảo, hạt ánh sáng)",
+    "langName": "Khu rừng mộng ảo",
     "object": "Môi trường",
     "attribute": "Thiên nhiên",
     "preview": "https://img.aishort.top/imgprompt/20260211152548353.webp"
@@ -5293,7 +5293,7 @@
   },
   {
     "displayName": "star_(sky)",
-    "langName": "các ngôi sao (trên bầu trời)",
+    "langName": "Bầu trời đầy sao",
     "object": "Môi trường",
     "attribute": "Bầu trời",
     "preview": "https://img.aishort.top/imgprompt/20260211153554967.webp"
@@ -5454,7 +5454,7 @@
   },
   {
     "displayName": "Nimbostratus",
-    "langName": "Nimbostratus",
+    "langName": "Mây vũ tầng",
     "object": "Môi trường",
     "attribute": "Đám mây",
     "preview": "https://img.aishort.top/imgprompt/20260211154048327.webp"
@@ -5699,7 +5699,7 @@
   },
   {
     "displayName": "cumulus_congestus",
-    "langName": "Cumulus congestus",
+    "langName": "Mây tích cuồn cuộn",
     "object": "Môi trường",
     "attribute": "Đám mây",
     "preview": "https://img.aishort.top/imgprompt/20260211154815121.webp"
@@ -5741,7 +5741,7 @@
   },
   {
     "displayName": "castle",
-    "langName": "lâu đài ",
+    "langName": "lâu đài",
     "object": "Môi trường",
     "attribute": "Ngoài trời",
     "preview": "https://img.aishort.top/imgprompt/20260211154931384.webp"
@@ -5923,7 +5923,7 @@
   },
   {
     "displayName": "rappelling",
-    "langName": "Cân bằng (treo)",
+    "langName": "Đu dây tụt dốc",
     "object": "Môi trường",
     "attribute": "Ngoài trời",
     "preview": "https://img.aishort.top/imgprompt/20260211155514112.webp"
@@ -6098,7 +6098,7 @@
   },
   {
     "displayName": "bar",
-    "langName": "thanh",
+    "langName": "Quán bar",
     "object": "Môi trường",
     "attribute": "Ngoài trời",
     "preview": "https://img.aishort.top/imgprompt/20260211160040875.webp"
@@ -7589,7 +7589,7 @@
   },
   {
     "displayName": "school_bag",
-    "langName": "Cặp sách (túi xách)",
+    "langName": "Cặp học sinh",
     "object": "Đồ vật",
     "attribute": "Đồ dùng học tập",
     "preview": "https://img.aishort.top/imgprompt/20260211164633641.webp"
@@ -7820,14 +7820,14 @@
   },
   {
     "displayName": "diamond_(shape)",
-    "langName": "hình thoi (hình dạng)",
+    "langName": "Hình thoi / Kim cương",
     "object": "Đồ vật",
     "attribute": "Đồ vật khác",
     "preview": "https://img.aishort.top/imgprompt/20260211165329674.webp"
   },
   {
     "displayName": "chibi_inset",
-    "langName": "minh họa chibi",
+    "langName": "Ảnh nhỏ nhân vật Chibi",
     "object": "Đồ vật",
     "attribute": "Đồ vật khác",
     "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
@@ -7932,7 +7932,7 @@
   },
   {
     "displayName": "sword",
-    "langName": "dao",
+    "langName": "Thanh kiếm",
     "object": "Đồ vật",
     "attribute": "Vũ khí",
     "preview": "https://img.aishort.top/imgprompt/20260211165652659.webp"
@@ -7960,7 +7960,7 @@
   },
   {
     "displayName": "saber_(weapon)",
-    "langName": "kiếm (vũ khí)",
+    "langName": "Kiếm saber",
     "object": "Đồ vật",
     "attribute": "Vũ khí",
     "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
@@ -7988,7 +7988,7 @@
   },
   {
     "displayName": "stake",
-    "langName": "dán",
+    "langName": "Cọc gỗ nhọn",
     "object": "Đồ vật",
     "attribute": "Vũ khí",
     "preview": "https://img.aishort.top/imgprompt/20260211165832380.webp"
@@ -8030,7 +8030,7 @@
   },
   {
     "displayName": "claw_(weapon)",
-    "langName": "móng vuốt (vũ khí)",
+    "langName": "Vuốt chiến đấu",
     "object": "Đồ vật",
     "attribute": "Vũ khí",
     "preview": "https://img.aishort.top/imgprompt/20260211165949084.webp"
@@ -8065,7 +8065,7 @@
   },
   {
     "displayName": "magazine_(weapon)",
-    "langName": "băng đạn (vũ khí)",
+    "langName": "Băng đạn súng",
     "object": "Đồ vật",
     "attribute": "Vũ khí",
     "preview": "https://img.aishort.top/imgprompt/20260211170050212.webp"
@@ -8100,7 +8100,7 @@
   },
   {
     "displayName": "tank",
-    "langName": "xe tăng",
+    "langName": "Xe tăng",
     "object": "Đồ vật",
     "attribute": "Vũ khí",
     "preview": "https://img.aishort.top/imgprompt/20260211170154753.webp"
@@ -8856,7 +8856,7 @@
   },
   {
     "displayName": "wine",
-    "langName": "rượu ",
+    "langName": "rượu",
     "object": "Đồ vật",
     "attribute": "Đồ uống",
     "preview": "https://img.aishort.top/imgprompt/20260211172440356.webp"
@@ -9059,7 +9059,7 @@
   },
   {
     "displayName": "shell",
-    "langName": "vỏ bọc",
+    "langName": "Vỏ sò",
     "object": "Đồ vật",
     "attribute": "Động vật",
     "preview": "https://img.aishort.top/imgprompt/20260211173051134.webp"
@@ -9073,7 +9073,7 @@
   },
   {
     "displayName": "dog_tags",
-    "langName": "thẻ chó",
+    "langName": "Thẻ bài quân nhân",
     "object": "Đồ vật",
     "attribute": "Động vật",
     "preview": "https://img.aishort.top/imgprompt/20260211173116860.webp"
@@ -9290,7 +9290,7 @@
   },
   {
     "displayName": "bamboo",
-    "langName": "cây tre ",
+    "langName": "cây tre",
     "object": "Đồ vật",
     "attribute": "Thực vật",
     "preview": "https://img.aishort.top/imgprompt/20260211173755287.webp"
@@ -9444,7 +9444,7 @@
   },
   {
     "displayName": "leaning",
-    "langName": "Gầy | Gầy",
+    "langName": "Gầy",
     "object": "Động tác",
     "attribute": "Tư thế cơ bản",
     "preview": "https://img.aishort.top/imgprompt/20260211174241891.webp"
@@ -9563,7 +9563,7 @@
   },
   {
     "displayName": "the_pose",
-    "langName": "Nằm trên mặt đất và giơ chân lên",
+    "langName": "Tư thế nằm sấp vắt chéo chân",
     "object": "Động tác",
     "attribute": "Tư thế cơ bản",
     "preview": "https://img.aishort.top/imgprompt/20260211174615259.webp"
@@ -9591,14 +9591,14 @@
   },
   {
     "displayName": "fetal_position",
-    "langName": "Tư thế bào thai (nằm)",
+    "langName": "Tư thế cuộn tròn thai nhi",
     "object": "Động tác",
     "attribute": "Tư thế cơ bản",
     "preview": "https://img.aishort.top/imgprompt/20260211174706202.webp"
   },
   {
     "displayName": "against_glass",
-    "langName": "ly bóp (không hợp lệ)",
+    "langName": "Tựa sát vào kính",
     "object": "Động tác",
     "attribute": "Tư thế cơ bản",
     "preview": "https://img.aishort.top/imgprompt/20260211174718789.webp"
@@ -9612,7 +9612,7 @@
   },
   {
     "displayName": "presenting",
-    "langName": "Màn hình (phần sau)",
+    "langName": "Tư thế phô diễn",
     "object": "Động tác",
     "attribute": "Tư thế cơ bản",
     "preview": "https://img.aishort.top/imgprompt/20260211174744336.webp"
@@ -9675,7 +9675,7 @@
   },
   {
     "displayName": "eye_contact",
-    "langName": "Giao tiếp bằng mắt (nhìn nhau)",
+    "langName": "Giao tiếp bằng mắt",
     "object": "Động tác",
     "attribute": "Ánh mắt & Biểu cảm",
     "preview": "https://img.aishort.top/imgprompt/20260211174937637.webp"
@@ -9836,7 +9836,7 @@
   },
   {
     "displayName": "aiming_at_viewer",
-    "langName": "Nhắm mục tiêu vào người đọc (quan điểm)",
+    "langName": "Nhắm thẳng vào người xem",
     "object": "Động tác",
     "attribute": "Ánh mắt & Biểu cảm",
     "preview": "https://img.aishort.top/imgprompt/20260211175428502.webp"
@@ -9934,7 +9934,7 @@
   },
   {
     "displayName": "hands_clasped",
-    "langName": "Hai bàn tay bắt chéo | Hai bàn tay nắm chặt",
+    "langName": "Mười đầu ngón tay đan chéo",
     "object": "Động tác",
     "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175724560.webp"
@@ -9969,7 +9969,7 @@
   },
   {
     "displayName": "hands_in_opposite_sleeves",
-    "langName": "Bắt chéo tay và cho vào tay áo",
+    "langName": "Hai tay lồng trong tay áo",
     "object": "Động tác",
     "attribute": "Tư thế cánh tay",
     "preview": "https://img.aishort.top/imgprompt/20260211175825480.webp"
@@ -10172,14 +10172,14 @@
   },
   {
     "displayName": "waving",
-    "langName": "vẫy tay (nói xin chào/tạm biệt)",
+    "langName": "Vẫy tay chào",
     "object": "Động tác",
     "attribute": "Cử chỉ tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180434501.webp"
   },
   {
     "displayName": "pointing_at_viewer",
-    "langName": "Trỏ vào người đang nhìn vào bức tranh",
+    "langName": "Chỉ tay vào người xem",
     "object": "Động tác",
     "attribute": "Cử chỉ tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180447245.webp"
@@ -10207,7 +10207,7 @@
   },
   {
     "displayName": "double_v",
-    "langName": "double v",
+    "langName": "Hai tay chữ V",
     "object": "Động tác",
     "attribute": "Cử chỉ tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180537924.webp"
@@ -10249,7 +10249,7 @@
   },
   {
     "displayName": "reaching",
-    "langName": "Tiếp cận (có mục đích)",
+    "langName": "Vươn tay ra",
     "object": "Động tác",
     "attribute": "Cử chỉ tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180655272.webp"
@@ -10312,7 +10312,7 @@
   },
   {
     "displayName": "paw_pose",
-    "langName": "Động tác tay mèo may mắn (cổ tay cong xuống)",
+    "langName": "Tư thế vuốt mèo",
     "object": "Động tác",
     "attribute": "Cử chỉ tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
@@ -10347,7 +10347,7 @@
   },
   {
     "displayName": "fingersmile",
-    "langName": "Tạo khuôn mặt cười bằng ngón tay của bạn",
+    "langName": "Dùng ngón tay kéo khóe cười",
     "object": "Động tác",
     "attribute": "Cử chỉ tay",
     "preview": "https://img.aishort.top/imgprompt/20260211180951696.webp"
@@ -10634,7 +10634,7 @@
   },
   {
     "displayName": "holding_eyewear",
-    "langName": "Cầm kính | Tháo kính",
+    "langName": "Cầm kính / Tháo kính",
     "object": "Động tác",
     "attribute": "Cầm đồ vật",
     "preview": "https://img.aishort.top/imgprompt/20260211181827087.webp"
@@ -10956,21 +10956,21 @@
   },
   {
     "displayName": "hands_on_another's",
-    "langName": "Đặt tay lên mặt người khác",
+    "langName": "Áp hai tay vào mặt người khác",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260211182857860.webp"
   },
   {
     "displayName": "hands_on_another's_cheeks",
-    "langName": "Đặt tay lên má nhau",
+    "langName": "Hai tay nâng má đối phương",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260211182911807.webp"
   },
   {
     "displayName": "hands_on_another's_shoulders",
-    "langName": "Đặt tay lên vai người khác",
+    "langName": "Hai tay đặt lên vai đối phương",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260211182926610.webp"
@@ -11026,7 +11026,7 @@
   },
   {
     "displayName": "hands_on_hips",
-    "langName": "chống tay lên hông | chống tay lên hông",
+    "langName": "chống tay lên hông",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260213094956459.webp"
@@ -11068,7 +11068,7 @@
   },
   {
     "displayName": "grabbing_from_behind",
-    "langName": "Xoa bóp ngực từ phía sau | Nắm ngực từ phía sau",
+    "langName": "Ôm chụp ngực từ phía sau",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260212075305196.webp"
@@ -11110,14 +11110,14 @@
   },
   {
     "displayName": "hands_on_headwear",
-    "langName": "Chạm vào đồ trang trí trên đầu bằng cả hai tay",
+    "langName": "Hai tay vịn phụ kiện đầu",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260211183403089.webp"
   },
   {
     "displayName": "hands_on_hilt",
-    "langName": "Đặt tay lên cán dao",
+    "langName": "Hai tay đặt trên chuôi kiếm",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260211183416966.webp"
@@ -11131,7 +11131,7 @@
   },
   {
     "displayName": "neckwear_grab",
-    "langName": "Nắm chặt quần áo quanh cổ",
+    "langName": "Túm cổ áo",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260211183445064.webp"
@@ -11173,7 +11173,7 @@
   },
   {
     "displayName": "hand_in_another's_hair",
-    "langName": "Đặt tay lên tóc người kia",
+    "langName": "Luồn tay vào tóc đối phương",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260211183609615.webp"
@@ -11208,35 +11208,35 @@
   },
   {
     "displayName": "hand_on_another's_chest",
-    "langName": "Đặt tay lên ngực người kia",
+    "langName": "Đặt tay lên ngực đối phương",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260211183718013.webp"
   },
   {
     "displayName": "hand_on_another's_chin",
-    "langName": "Dùng tay giữ cằm người kia",
+    "langName": "Nâng cằm đối phương",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260211183730343.webp"
   },
   {
     "displayName": "hand_on_another's_head",
-    "langName": "Đặt tay lên đầu người kia",
+    "langName": "Đặt tay lên đầu đối phương",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260211183743006.webp"
   },
   {
     "displayName": "hand_on_another's_shoulder",
-    "langName": "Đặt tay lên vai người kia",
+    "langName": "Đặt tay lên vai đối phương",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260211183755722.webp"
   },
   {
     "displayName": "hand_on_another's_stomach",
-    "langName": "Đặt tay lên bụng người kia",
+    "langName": "Đặt tay lên bụng đối phương",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260212075422971.webp"
@@ -11264,14 +11264,14 @@
   },
   {
     "displayName": "hand_on_hilt",
-    "langName": "Tay đặt trên cán dao",
+    "langName": "Tay đặt trên chuôi kiếm",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260211183858641.webp"
   },
   {
     "displayName": "hand_on_hip",
-    "langName": "chống tay lên hông | chống tay lên hông",
+    "langName": "chống tay lên hông",
     "object": "Động tác",
     "attribute": "Ôm & Nắm",
     "preview": "https://img.aishort.top/imgprompt/20260211183911177.webp"
@@ -11404,14 +11404,14 @@
   },
   {
     "displayName": "standing_split",
-    "langName": "Đứng tách chân | Đứng nâng chân",
+    "langName": "Xoạc chân đứng thẳng",
     "object": "Động tác",
     "attribute": "Động tác chân",
     "preview": "https://img.aishort.top/imgprompt/20260211184306372.webp"
   },
   {
     "displayName": "curtsy",
-    "langName": "Curtsey (lời chào của người hầu gái)",
+    "langName": "Cúi chào nhún gối",
     "object": "Động tác",
     "attribute": "Động tác chân",
     "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
@@ -11502,7 +11502,7 @@
   },
   {
     "displayName": "folded",
-    "langName": "Nâng chân lên để lộ âm đạo",
+    "langName": "Tư thế ngồi bó gối ôm chân",
     "object": "Động tác",
     "attribute": "Động tác chân",
     "preview": "https://img.aishort.top/imgprompt/20260211184601937.webp"
@@ -11544,7 +11544,7 @@
   },
   {
     "displayName": "k/da_(league_of_legends)",
-    "langName": "Đội KDA (Liên Minh Huyền Thoại)",
+    "langName": "Nhóm nhạc K/DA (LMHT)",
     "object": "Động tác",
     "attribute": "Động tác chân",
     "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
@@ -11705,14 +11705,14 @@
   },
   {
     "displayName": "tail_between_legs",
-    "langName": "Đuôi cuộn tròn giữa hai chân",
+    "langName": "Cụp đuôi kẹp giữa hai chân",
     "object": "Động tác",
     "attribute": "Động tác chân",
     "preview": "https://img.aishort.top/imgprompt/20260225100419147.webp"
   },
   {
     "displayName": "covering",
-    "langName": "hành động che đậy",
+    "langName": "Động tác che chắn",
     "object": "Động tác",
     "attribute": "Chạm vào cơ thể",
     "preview": "https://img.aishort.top/imgprompt/20260211185216454.webp"
@@ -11922,14 +11922,14 @@
   },
   {
     "displayName": "spitting",
-    "langName": "hành động nhổ chất lỏng ra khỏi miệng",
+    "langName": "Nhổ nước / Phun chất lỏng",
     "object": "Động tác",
     "attribute": "Phản ứng cơ thể",
     "preview": "https://img.aishort.top/imgprompt/20260211185836921.webp"
   },
   {
     "displayName": "spilling",
-    "langName": "Hành động đổ chất lỏng từ một vật chứa",
+    "langName": "Làm đổ tràn chất lỏng",
     "object": "Động tác",
     "attribute": "Phản ứng cơ thể",
     "preview": "https://img.aishort.top/imgprompt/20260211185849710.webp"
@@ -12006,7 +12006,7 @@
   },
   {
     "displayName": "dropping",
-    "langName": "(vô tình) ngã",
+    "langName": "Đánh rơi / Rơi xuống",
     "object": "Động tác",
     "attribute": "Phản ứng cơ thể",
     "preview": "https://img.aishort.top/imgprompt/20260211190102259.webp"
@@ -12055,7 +12055,7 @@
   },
   {
     "displayName": "lifted_by_another",
-    "langName": "Được nâng lên bởi quần áo của đối phương",
+    "langName": "Bị người khác lật vén áo",
     "object": "Động tác",
     "attribute": "Phản ứng cơ thể",
     "preview": "https://img.aishort.top/imgprompt/20260211190232075.webp"
@@ -12111,7 +12111,7 @@
   },
   {
     "displayName": "drying",
-    "langName": "Khô (sau khi tắm)",
+    "langName": "Lau khô người",
     "object": "Động tác",
     "attribute": "Đời sống hàng ngày",
     "preview": "https://img.aishort.top/imgprompt/20260211190415978.webp"
@@ -12125,14 +12125,14 @@
   },
   {
     "displayName": "cleaning",
-    "langName": "dọn dẹp |",
+    "langName": "dọn dẹp",
     "object": "Động tác",
     "attribute": "Đời sống hàng ngày",
     "preview": "https://img.aishort.top/imgprompt/20260211190440252.webp"
   },
   {
     "displayName": "sweeping",
-    "langName": "Dọn dẹp | Quét dọn (việc nhà)",
+    "langName": "Quét dọn vệ sinh",
     "object": "Động tác",
     "attribute": "Đời sống hàng ngày",
     "preview": "https://img.aishort.top/imgprompt/20260211190452774.webp"
@@ -12258,7 +12258,7 @@
   },
   {
     "displayName": "sleeping_upright",
-    "langName": "(không nằm) ngủ | ngủ thẳng đứng",
+    "langName": "Ngủ ngồi gục đầu",
     "object": "Động tác",
     "attribute": "Đời sống hàng ngày",
     "preview": "https://img.aishort.top/imgprompt/20260211190844518.webp"
@@ -12412,14 +12412,14 @@
   },
   {
     "displayName": "shared_food",
-    "langName": "Chia sẻ thức ăn | Truyền thức ăn bằng miệng",
+    "langName": "Ăn chung / Đút thức ăn",
     "object": "Động tác",
     "attribute": "Tương tác cảm xúc",
     "preview": "https://img.aishort.top/imgprompt/20260211191325544.webp"
   },
   {
     "displayName": "shared_bathing",
-    "langName": "Tắm chung | Tắm Nguyên Dương",
+    "langName": "Tắm chung",
     "object": "Động tác",
     "attribute": "Tương tác cảm xúc",
     "preview": "https://img.aishort.top/imgprompt/20260211191338217.webp"
@@ -12461,14 +12461,14 @@
   },
   {
     "displayName": "asymmetrical_docking",
-    "langName": "ngực chạm vào ngực | ngực chạm vào ngực",
+    "langName": "Ngực chạm ngực",
     "object": "Động tác",
     "attribute": "Tương tác cảm xúc",
     "preview": "https://img.aishort.top/imgprompt/20260211191454771.webp"
   },
   {
     "displayName": "special_feeling_(meme)",
-    "langName": "Những người yêu nhau cầm ô trong tuyết",
+    "langName": "Meme cảm giác đặc biệt",
     "object": "Động tác",
     "attribute": "Tương tác cảm xúc",
     "preview": "https://img.aishort.top/imgprompt/20260211191507001.webp"
@@ -12608,7 +12608,7 @@
   },
   {
     "displayName": "wrestling",
-    "langName": "đấu vật (thể thao)",
+    "langName": "Đô vật",
     "object": "Động tác",
     "attribute": "Thể dục",
     "preview": "https://img.aishort.top/imgprompt/20260211191925002.webp"
@@ -12818,7 +12818,7 @@
   },
   {
     "displayName": "skirt_flip",
-    "langName": "Váy được nâng lên (bao gồm cả ý nghĩa khẩn cấp)",
+    "langName": "Tốc váy / Lật váy",
     "object": "Động tác",
     "attribute": "Chỉnh sửa quần áo",
     "preview": "https://img.aishort.top/imgprompt/20260317125226840.webp"
@@ -12895,7 +12895,7 @@
   },
   {
     "displayName": "tying",
-    "langName": "Thắt nút (hành động)",
+    "langName": "Buộc thắt nút",
     "object": "Động tác",
     "attribute": "Chỉnh sửa quần áo",
     "preview": "https://img.aishort.top/imgprompt/20260211192806302.webp"
@@ -12930,7 +12930,7 @@
   },
   {
     "displayName": "pulled_by_another",
-    "langName": "bị người khác kéo (hoặc kéo quần áo)",
+    "langName": "Bị người khác lôi kéo",
     "object": "Động tác",
     "attribute": "Chỉnh sửa quần áo",
     "preview": "https://img.aishort.top/imgprompt/20260317125423077.webp"
@@ -12993,7 +12993,7 @@
   },
   {
     "displayName": "holding_bow_(weapon)",
-    "langName": "Cầm cung (vũ khí)",
+    "langName": "Cầm cung tên",
     "object": "Động tác",
     "attribute": "Vũ khí & Trang thiết bị",
     "preview": "https://img.aishort.top/imgprompt/20260211193102894.webp"
@@ -13084,7 +13084,7 @@
   },
   {
     "displayName": "Kabedon",
-    "langName": "đập tường",
+    "langName": "Kabedon",
     "object": "Động tác",
     "attribute": "Động tác đặc biệt",
     "preview": "https://img.aishort.top/imgprompt/20260211193512046.webp"
@@ -13412,7 +13412,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211194606041.webp"
   },
   {
-    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset)),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
+    "displayName": "(water bloom),(delicate glow),(breeze),long Flowers meadow,(((sunset))),(less stars form a circle),randomly distributed clouds,(rivers),(willows with branches falling into the water)",
     "langName": "phương pháp hoàng hôn",
     "object": "Động tác",
     "attribute": "Phép thuật",
@@ -13525,7 +13525,7 @@
   },
   {
     "displayName": "((full body)),(helpless),tear,crying,(((((falling from the sky))))),((Weathering With You)),((falling)),((face towards the sky)),(hair flows upwards),((disheveled hair)),(1 girl),floating,beautiful detailed sky",
-    "langName": "Góc quay rơi tự do (cảnh bầu trời)",
+    "langName": "Bố cục rơi tự do từ bầu trời",
     "object": "Động tác",
     "attribute": "Phép thuật",
     "preview": "https://img.aishort.top/imgprompt/20260211194938656.webp"
@@ -13727,7 +13727,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260211195607630.webp"
   },
   {
-    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood))),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
+    "displayName": "(white hair),(((red streaked hair))),red eyes,(((full body))),(red hair),(((((Hold a red sword))))),(angry face),((Blood drop)),((Blood fog)),light shafts,soft focus,((Splashing blood)),Long hair,((Bloodstain)),Fighting stance,{{{{{watercolor (medium)}}}}},(((masterpiece))),((white clock)),((ultradetailed)),((Covered in blood)),flowing hair,Exquisite Flame,dynamic angle,floating,(shine),extremely delicate and beautiful girls,bright skin,lying red petals,Holy lighting",
     "langName": "luật cải cách máu",
     "object": "Động tác",
     "attribute": "Phép thuật",
@@ -14002,7 +14002,7 @@
   },
   {
     "displayName": "disgust",
-    "langName": "Ghê tởm (trông giống rác)",
+    "langName": "Khinh bỉ / Ghê tởm",
     "object": "Biểu cảm",
     "attribute": "Khinh miệt",
     "preview": "https://img.aishort.top/imgprompt/20260317071358725.webp"
@@ -14023,7 +14023,7 @@
   },
   {
     "displayName": "shaded_face",
-    "langName": "Mặt tối sầm (khinh bỉ)",
+    "langName": "Khuôn mặt phủ bóng tối u ám",
     "object": "Biểu cảm",
     "attribute": "Khinh miệt",
     "preview": "https://img.aishort.top/imgprompt/20260212085009132.webp"
@@ -14044,7 +14044,7 @@
   },
   {
     "displayName": "wince",
-    "langName": "Cau mày (trước khi quan hệ tình dục)",
+    "langName": "Nhăn mặt đau đớn",
     "object": "Biểu cảm",
     "attribute": "Khinh miệt",
     "preview": "https://img.aishort.top/imgprompt/20260212085045682.webp"
@@ -14079,7 +14079,7 @@
   },
   {
     "displayName": "serious",
-    "langName": "Nghiêm túc (tương tự như tức giận)",
+    "langName": "Nghiêm túc",
     "object": "Biểu cảm",
     "attribute": "Tức giận",
     "preview": "https://img.aishort.top/imgprompt/20260212085145957.webp"
@@ -14163,7 +14163,7 @@
   },
   {
     "displayName": "embarrass",
-    "langName": "nhút nhát (ngượng ngùng)",
+    "langName": "Ngượng ngùng",
     "object": "Biểu cảm",
     "attribute": "Biểu cảm khác",
     "preview": "https://img.aishort.top/imgprompt/20260212085408608.webp"
@@ -14380,7 +14380,7 @@
   },
   {
     "displayName": "torogao",
-    "langName": "Mắt lờ đờ (Torogao)",
+    "langName": "Biểu cảm đê mê",
     "object": "Biểu cảm",
     "attribute": "Biểu cảm khác",
     "preview": "https://img.aishort.top/imgprompt/20260228103646110.webp"
@@ -14702,7 +14702,7 @@
   },
   {
     "displayName": "hanten_clothes",
-    "langName": "Toumata (phong cách Nhật Bản)",
+    "langName": "Áo khoác Hanten",
     "object": "Trang phục",
     "attribute": "Phong cách quần áo",
     "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
@@ -14716,7 +14716,7 @@
   },
   {
     "displayName": "furisode",
-    "langName": "Furisode (một phần của kimono)",
+    "langName": "Kimono Furisode",
     "object": "Trang phục",
     "attribute": "Phong cách quần áo",
     "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
@@ -14744,14 +14744,14 @@
   },
   {
     "displayName": "uchikake",
-    "langName": "Bai Wujia (váy cưới kiểu Nhật)",
+    "langName": "Áo cưới Uchikake / Shiromuku",
     "object": "Trang phục",
     "attribute": "Phong cách quần áo",
     "preview": "https://img.aishort.top/imgprompt/20260212110020279.webp"
   },
   {
     "displayName": "obi",
-    "langName": "Obi (đai kimono)",
+    "langName": "Thắt lưng Obi",
     "object": "Trang phục",
     "attribute": "Phong cách quần áo",
     "preview": "https://img.aishort.top/imgprompt/20260212110643032.webp"
@@ -14800,7 +14800,7 @@
   },
   {
     "displayName": "Ao_Dai",
-    "langName": "Trang phục Việt Nam (Áo dài)",
+    "langName": "Áo dài Việt Nam",
     "object": "Trang phục",
     "attribute": "Phong cách quần áo",
     "preview": "https://img.aishort.top/imgprompt/20260212112032273.webp"
@@ -14947,14 +14947,14 @@
   },
   {
     "displayName": "alternate_costume",
-    "langName": "Trang phục thay thế khác với tạo hình gốc",
+    "langName": "Trang phục thay thế",
     "object": "Trang phục",
     "attribute": "Phong cách quần áo",
     "preview": "https://img.aishort.top/imgprompt/20260212120626953.webp"
   },
   {
     "displayName": "costume_switch",
-    "langName": "thay quần áo chơi",
+    "langName": "Đổi trang phục qua lại",
     "object": "Trang phục",
     "attribute": "Phong cách quần áo",
     "preview": "https://img.aishort.top/imgprompt/20260212120842799.webp"
@@ -15164,7 +15164,7 @@
   },
   {
     "displayName": "evening_gown",
-    "langName": "Váy dài (váy dài đến mắt cá chân dành cho nữ)",
+    "langName": "Đầm dạ hội dáng dài",
     "object": "Trang phục",
     "attribute": "Trang phục trang trọng",
     "preview": "https://img.aishort.top/imgprompt/20260212125805414.webp"
@@ -15206,7 +15206,7 @@
   },
   {
     "displayName": "serafuku",
-    "langName": "Đồng phục thủy thủ (đồng phục học sinh)",
+    "langName": "Đồng phục thủy thủ",
     "object": "Trang phục",
     "attribute": "Trang phục trang trọng",
     "preview": "https://img.aishort.top/imgprompt/20260212130530516.webp"
@@ -15542,7 +15542,7 @@
   },
   {
     "displayName": "school_swimsuit",
-    "langName": "Đồ bơi học sinh (nước Suiku)",
+    "langName": "Đồ bơi học sinh",
     "object": "Trang phục",
     "attribute": "Đồ bơi",
     "preview": "https://img.aishort.top/imgprompt/20260225102036109.webp"
@@ -15605,7 +15605,7 @@
   },
   {
     "displayName": "swimsuit_of_perpetual_summer",
-    "langName": "Bộ đồ bơi của Chang Xia (bộ đồ nữ sinh fgo)",
+    "langName": "Đồ bơi mùa hè vĩnh cửu (FGO)",
     "object": "Trang phục",
     "attribute": "Đồ bơi",
     "preview": "https://img.aishort.top/imgprompt/20260317071630637.webp"
@@ -15878,7 +15878,7 @@
   },
   {
     "displayName": "swimsuit_aside",
-    "langName": "Di chuyển đáy quần bơi sang một bên",
+    "langName": "Kéo lệch đáy đồ bơi sang bên",
     "object": "Trang phục",
     "attribute": "Đồ bơi",
     "preview": "https://img.aishort.top/imgprompt/20260212152012611.webp"
@@ -15990,7 +15990,7 @@
   },
   {
     "displayName": "chi-hatan_military_uniform",
-    "langName": "Đồng phục Học viện Zhiha Dan",
+    "langName": "Đồng phục quân đội Học viện Chi-Ha-Tan",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260212153151798.webp"
@@ -16025,21 +16025,21 @@
   },
   {
     "displayName": "hikarizaka_private_high_school_uniform",
-    "langName": "Đồng phục trường trung học tư thục Mitsusaka",
+    "langName": "Đồng phục trường trung học tư thục Hikarizaka",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260212153257185.webp"
   },
   {
     "displayName": "homurahara_academy_uniform",
-    "langName": "Đồng phục Học viện Sui Gunhara",
+    "langName": "Đồng phục Học viện Homurahara",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260212153310241.webp"
   },
   {
     "displayName": "kamiyama_high_school_uniform",
-    "langName": "Đồng phục trường trung học Kailash",
+    "langName": "Đồng phục trường trung học Kamiyama",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260212153323486.webp"
@@ -16088,21 +16088,21 @@
   },
   {
     "displayName": "nami_junior_high_school_uniform",
-    "langName": "Đồng phục trường trung học cơ sở Bolu",
+    "langName": "Đồng phục trường trung học cơ sở Nami",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260212153455870.webp"
   },
   {
     "displayName": "nanairogaoka_middle_school_uniform",
-    "langName": "Đồng phục trường trung học cơ sở Qiseqiu",
+    "langName": "Đồng phục trường trung học cơ sở Nanairogaoka",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260212153509132.webp"
   },
   {
     "displayName": "nanamori_school_uniform",
-    "langName": "Đồng phục trường trung học cơ sở Qisen",
+    "langName": "Đồng phục trường trung học cơ sở Nanamori",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260212153725574.webp"
@@ -16172,14 +16172,14 @@
   },
   {
     "displayName": "rabbit_house_uniform",
-    "langName": "Đồng phục nhà Diantutu",
+    "langName": "Đồng phục quán cà phê Rabbit House",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260213055157775.webp"
   },
   {
     "displayName": "raimon_soccer_uniform",
-    "langName": "Đồng phục bóng đá Thunder Gate",
+    "langName": "Đồng phục đội bóng đá Raimon",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260213055210653.webp"
@@ -16193,7 +16193,7 @@
   },
   {
     "displayName": "sakugawa_school_uniform",
-    "langName": "Đồng phục trường trung học cơ sở Zhachuan",
+    "langName": "Đồng phục trường trung học cơ sở Sakugawa",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260213055439290.webp"
@@ -16242,7 +16242,7 @@
   },
   {
     "displayName": "shuujin_academy_uniform",
-    "langName": "Trưng bày đồng phục đại học",
+    "langName": "Đồng phục Học viện Shujin",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260213060421601.webp"
@@ -16263,49 +16263,49 @@
   },
   {
     "displayName": "starlight_academy_uniform",
-    "langName": "Đồng phục Star Optical Park",
+    "langName": "Đồng phục Học viện Starlight",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260213060500805.webp"
   },
   {
     "displayName": "tokisadame_school_uniform",
-    "langName": "Đồng phục đại học thông thường",
+    "langName": "Đồng phục trường trung học Tokisadame",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260213060513970.webp"
   },
   {
     "displayName": "tokiwadai_school_uniform",
-    "langName": "Đồng phục trường Tokiwa Đài Trung",
+    "langName": "Đồng phục trường trung học cơ sở Tokiwadai",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260213060526744.webp"
   },
   {
     "displayName": "tomoeda_elementary_school_uniform",
-    "langName": "Đồng phục trường tiểu học Youzhi",
+    "langName": "Đồng phục trường tiểu học Tomoeda",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260213060539748.webp"
   },
   {
     "displayName": "tsab_ground_military_uniform",
-    "langName": "Đồng phục Cục Quản lý Thời-Không (TSAB)",
+    "langName": "Đồng phục Cục Quản lý Thời-Không",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260213060553564.webp"
   },
   {
     "displayName": "u.a._school_uniform",
-    "langName": "Đồng phục trường trung học phổ thông Hùng Doanh",
+    "langName": "Đồng phục trường trung học U.A.",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260213060607357.webp"
   },
   {
     "displayName": "uranohoshi_school_uniform",
-    "langName": "Đồng phục trường nữ sinh Ura no Hoshi",
+    "langName": "Đồng phục Học viện Nữ sinh Uranohoshi",
     "object": "Trang phục",
     "attribute": "Đồng phục học sinh",
     "preview": "https://img.aishort.top/imgprompt/20260213060620807.webp"
@@ -16424,7 +16424,7 @@
   },
   {
     "displayName": "short sleeve T-shirts",
-    "langName": "Áo phông tay ngắn (áo hở vai)",
+    "langName": "Áo thun ngắn tay",
     "object": "Trang phục",
     "attribute": "Áo",
     "preview": "https://img.aishort.top/imgprompt/20260213063027450.webp"
@@ -16466,7 +16466,7 @@
   },
   {
     "displayName": "tank_top",
-    "langName": "áo vest (nhà)",
+    "langName": "Áo ba lỗ",
     "object": "Trang phục",
     "attribute": "Áo",
     "preview": "https://img.aishort.top/imgprompt/20260213064156253.webp"
@@ -16494,7 +16494,7 @@
   },
   {
     "displayName": "vest",
-    "langName": "áo vest (trang trọng)",
+    "langName": "Áo gile công sở",
     "object": "Trang phục",
     "attribute": "Áo",
     "preview": "https://img.aishort.top/imgprompt/20260213064408586.webp"
@@ -16508,7 +16508,7 @@
   },
   {
     "displayName": "waistcoat",
-    "langName": "Áo ghi lê (trang trọng)",
+    "langName": "Áo ghi-lê may đo",
     "object": "Trang phục",
     "attribute": "Áo",
     "preview": "https://img.aishort.top/imgprompt/20260213064435011.webp"
@@ -16599,7 +16599,7 @@
   },
   {
     "displayName": "kappougi",
-    "langName": "một chiếc áo cánh (mặc khi nấu ăn)",
+    "langName": "Áo tạp dề Kappougi",
     "object": "Trang phục",
     "attribute": "Áo",
     "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
@@ -16662,7 +16662,7 @@
   },
   {
     "displayName": "tied_shirt",
-    "langName": "Áo sơ mi buộc dây (thắt nút các góc và viền áo)",
+    "langName": "Áo sơ mi buộc vạt",
     "object": "Trang phục",
     "attribute": "Áo",
     "preview": "https://img.aishort.top/imgprompt/20260213070412064.webp"
@@ -16746,7 +16746,7 @@
   },
   {
     "displayName": "button_gap",
-    "langName": "Khoảng cách giữa các nút (không được mở nút)",
+    "langName": "Khoảng hở cúc áo",
     "object": "Trang phục",
     "attribute": "Áo",
     "preview": "https://img.aishort.top/imgprompt/20260213071455826.webp"
@@ -16879,21 +16879,21 @@
   },
   {
     "displayName": "strap_slip",
-    "langName": "Dây đeo vai bị trượt (dẫn đến rò rỉ)",
+    "langName": "Tuột quai áo vai",
     "object": "Trang phục",
     "attribute": "Áo",
     "preview": "https://img.aishort.top/imgprompt/20260228101844680.webp"
   },
   {
     "displayName": "wedgie",
-    "langName": "Bị nhúng (do quần áo kéo vào vùng đáy quần)",
+    "langName": "Kẹt đũng quần",
     "object": "Trang phục",
     "attribute": "Áo",
     "preview": "https://img.aishort.top/imgprompt/20260225103744943.webp"
   },
   {
     "displayName": "wardrobe_malfunction",
-    "langName": "Sự cố trang phục (bục chỉ)",
+    "langName": "Sự cố trang phục",
     "object": "Trang phục",
     "attribute": "Áo",
     "preview": "https://img.aishort.top/imgprompt/20260213075235531.webp"
@@ -16984,7 +16984,7 @@
   },
   {
     "displayName": "double-breasted",
-    "langName": "Nút cài đôi (nút cài đôi",
+    "langName": "Áo hai hàng cúc",
     "object": "Trang phục",
     "attribute": "Áo khoác",
     "preview": "https://img.aishort.top/imgprompt/20260213075715469.webp"
@@ -17054,7 +17054,7 @@
   },
   {
     "displayName": "jacket_partially_removed",
-    "langName": "Chiếc áo khoác đã được cởi ra một phần",
+    "langName": "Áo khoác cởi trễ một nửa",
     "object": "Trang phục",
     "attribute": "Áo khoác",
     "preview": "https://img.aishort.top/imgprompt/20260213081023629.webp"
@@ -17068,7 +17068,7 @@
   },
   {
     "displayName": "open_jacket",
-    "langName": "áo khoác cardigan (có ống xòe)",
+    "langName": "Áo khoác mở phanh",
     "object": "Trang phục",
     "attribute": "Áo khoác",
     "preview": "https://img.aishort.top/imgprompt/20260213081251811.webp"
@@ -17754,7 +17754,7 @@
   },
   {
     "displayName": "neck",
-    "langName": "cổ ",
+    "langName": "cổ",
     "object": "Trang phục",
     "attribute": "Cổ áo",
     "preview": "https://img.aishort.top/imgprompt/20260213113425204.webp"
@@ -18048,7 +18048,7 @@
   },
   {
     "displayName": "corset",
-    "langName": "Corset (áo ghi lê)",
+    "langName": "Áo nịt ngực",
     "object": "Trang phục",
     "attribute": "Vùng eo",
     "preview": "https://img.aishort.top/imgprompt/20260225104053785.webp"
@@ -18097,7 +18097,7 @@
   },
   {
     "displayName": "kusazuri",
-    "langName": "Fudang | Kusazuri (giáp nửa dưới của Nhật Bản)",
+    "langName": "Giáp váy Kusazuri",
     "object": "Trang phục",
     "attribute": "Giáp",
     "preview": "https://img.aishort.top/imgprompt/20260213115508736.webp"
@@ -18118,7 +18118,7 @@
   },
   {
     "displayName": "kabuto",
-    "langName": "Mũ bảo hiểm (kiểu Nhật Bản)",
+    "langName": "Mũ giáp Samurai",
     "object": "Trang phục",
     "attribute": "Giáp",
     "preview": "https://img.aishort.top/imgprompt/20260213115548290.webp"
@@ -18132,7 +18132,7 @@
   },
   {
     "displayName": "shoulder_armor",
-    "langName": "Vai",
+    "langName": "Giáp vai",
     "object": "Trang phục",
     "attribute": "Giáp",
     "preview": "https://img.aishort.top/imgprompt/20260213115612426.webp"
@@ -18153,14 +18153,14 @@
   },
   {
     "displayName": "faulds",
-    "langName": "yếm",
+    "langName": "Giáp thắt lưng",
     "object": "Trang phục",
     "attribute": "Giáp",
     "preview": "https://img.aishort.top/imgprompt/20260213115855297.webp"
   },
   {
     "displayName": "greaves",
-    "langName": "Greaves",
+    "langName": "Giáp ống chân",
     "object": "Trang phục",
     "attribute": "Giáp",
     "preview": "https://img.aishort.top/imgprompt/20260213115908428.webp"
@@ -18237,7 +18237,7 @@
   },
   {
     "displayName": "sundress",
-    "langName": "Váy ngủ (váy không tay cho thời tiết nóng)",
+    "langName": "Váy mùa hè",
     "object": "Trang phục",
     "attribute": "Váy",
     "preview": "https://img.aishort.top/imgprompt/20260213121003959.webp"
@@ -18342,7 +18342,7 @@
   },
   {
     "displayName": "impossible_dress",
-    "langName": "Quần áo quá chật",
+    "langName": "Váy siêu bó sát tôn dáng",
     "object": "Trang phục",
     "attribute": "Váy",
     "preview": "https://img.aishort.top/imgprompt/20260213122932976.webp"
@@ -18447,21 +18447,21 @@
   },
   {
     "displayName": "tutu",
-    "langName": "tutu",
+    "langName": "Váy múa ba lê",
     "object": "Trang phục",
     "attribute": "Váy",
     "preview": "https://img.aishort.top/imgprompt/20260213123449527.webp"
   },
   {
     "displayName": "ballgown",
-    "langName": "tutu (váy)",
+    "langName": "Đầm dạ hội khiêu vũ",
     "object": "Trang phục",
     "attribute": "Váy",
     "preview": "https://img.aishort.top/imgprompt/20260213123502356.webp"
   },
   {
     "displayName": "pettiskirt",
-    "langName": "tutu (trẻ em)",
+    "langName": "Váy xòe phồng nhiều tầng",
     "object": "Trang phục",
     "attribute": "Váy",
     "preview": "https://img.aishort.top/imgprompt/20260213123515479.webp"
@@ -18657,7 +18657,7 @@
   },
   {
     "displayName": "skirt_tug",
-    "langName": "Giữ gấu váy | Giữ gấu váy",
+    "langName": "Giữ gấu váy",
     "object": "Trang phục",
     "attribute": "Váy",
     "preview": "https://img.aishort.top/imgprompt/20260213132657290.webp"
@@ -18811,14 +18811,14 @@
   },
   {
     "displayName": "dolphin_shorts",
-    "langName": "Quần short cá heo (quần sự thật)",
+    "langName": "Quần đùi Dolphin (quần viền trắng)",
     "object": "Trang phục",
     "attribute": "Quần",
     "preview": "https://img.aishort.top/imgprompt/20260213134352207.webp"
   },
   {
     "displayName": "dolfin_shorts",
-    "langName": "Quần short cá heo (quần sự thật)",
+    "langName": "Quần đùi Dolphin (quần viền trắng)",
     "object": "Trang phục",
     "attribute": "Quần",
     "preview": "https://img.aishort.top/imgprompt/20260213134404755.webp"
@@ -18832,7 +18832,7 @@
   },
   {
     "displayName": "crotchless_pants",
-    "langName": "Quần hở đáy (bó sát)",
+    "langName": "Quần xẻ đũng",
     "object": "Trang phục",
     "attribute": "Quần",
     "preview": "https://img.aishort.top/imgprompt/20260213134430564.webp"
@@ -18937,14 +18937,14 @@
   },
   {
     "displayName": "chaps",
-    "langName": "Quần da (rộng ở trên và hẹp ở dưới)",
+    "langName": "Quần da cao bồi",
     "object": "Trang phục",
     "attribute": "Quần",
     "preview": "https://img.aishort.top/imgprompt/20260213134945047.webp"
   },
   {
     "displayName": "jumpsuit",
-    "langName": "(đặc biệt là đồ liền quần của phụ nữ)",
+    "langName": "Bộ đồ liền thân",
     "object": "Trang phục",
     "attribute": "Quần",
     "preview": "https://img.aishort.top/imgprompt/20260213134957992.webp"
@@ -18979,7 +18979,7 @@
   },
   {
     "displayName": "leotard_aside",
-    "langName": "Kéo đũng quần sang một bên",
+    "langName": "Kéo lệch đáy áo nịt leotard",
     "object": "Trang phục",
     "attribute": "Quần",
     "preview": "https://img.aishort.top/imgprompt/20260213135915193.webp"
@@ -19140,21 +19140,21 @@
   },
   {
     "displayName": "pantyhose",
-    "langName": "quần tất | quần tất",
+    "langName": "quần tất",
     "object": "Trang phục",
     "attribute": "Tất",
     "preview": "https://img.aishort.top/imgprompt/20260213142442251.webp"
   },
   {
     "displayName": "legwear",
-    "langName": "Quần tất",
+    "langName": "Trang phục chân / Vớ quần",
     "object": "Trang phục",
     "attribute": "Tất",
     "preview": "https://img.aishort.top/imgprompt/20260225104603819.webp"
   },
   {
     "displayName": "thighhighs",
-    "langName": "Tất (tất cao đến đầu gối)",
+    "langName": "Tất dài ngang đùi",
     "object": "Trang phục",
     "attribute": "Tất",
     "preview": "https://img.aishort.top/imgprompt/20260213142506603.webp"
@@ -19217,7 +19217,7 @@
   },
   {
     "displayName": "pantylines",
-    "langName": "Quần bó sát (vẽ đường nét",
+    "langName": "Lằn viền quần lót rõ nét",
     "object": "Trang phục",
     "attribute": "Tất",
     "preview": "https://img.aishort.top/imgprompt/20260317074408132.webp"
@@ -19357,7 +19357,7 @@
   },
   {
     "displayName": "back-seamed_legwear",
-    "langName": "Tất có đường kẻ đen ở giữa",
+    "langName": "Tất có đường sọc may sau lưng",
     "object": "Trang phục",
     "attribute": "Tất",
     "preview": "https://img.aishort.top/imgprompt/20260225104949341.webp"
@@ -19413,14 +19413,14 @@
   },
   {
     "displayName": "bobby_socks",
-    "langName": "Tất Bobby (tất trắng)",
+    "langName": "Tất cổ ngắn bẻ viền trắng",
     "object": "Trang phục",
     "attribute": "Tất",
     "preview": "https://img.aishort.top/imgprompt/20260213144125119.webp"
   },
   {
     "displayName": "tabi",
-    "langName": "Tất đế dày Nhật Bản (túi đựng chân)",
+    "langName": "Vớ xỏ ngón Tabi",
     "object": "Trang phục",
     "attribute": "Tất",
     "preview": "https://img.aishort.top/imgprompt/20260213144138485.webp"
@@ -19434,7 +19434,7 @@
   },
   {
     "displayName": "leg_warmers",
-    "langName": "Quần giữ ấm chân | quần giữ ấm chân",
+    "langName": "Quần giữ ấm chân",
     "object": "Trang phục",
     "attribute": "Tất",
     "preview": "https://img.aishort.top/imgprompt/20260213144203562.webp"
@@ -19518,7 +19518,7 @@
   },
   {
     "displayName": "thigh_holster",
-    "langName": "Dây đùi / bao súng / túi đeo chân",
+    "langName": "Bao súng đeo đùi",
     "object": "Trang phục",
     "attribute": "Tất",
     "preview": "https://img.aishort.top/imgprompt/20260213144441392.webp"
@@ -19546,7 +19546,7 @@
   },
   {
     "displayName": "arm_garter",
-    "langName": "dây buộc boom",
+    "langName": "Vòng nịt bắp tay",
     "object": "Trang phục",
     "attribute": "Tất",
     "preview": "https://img.aishort.top/imgprompt/20260213144735280.webp"
@@ -19658,14 +19658,14 @@
   },
   {
     "displayName": "sock_pull",
-    "langName": "Kéo tất (vớ)",
+    "langName": "Kéo cổ tất lên",
     "object": "Trang phục",
     "attribute": "Tất",
     "preview": "https://img.aishort.top/imgprompt/20260213150519193.webp"
   },
   {
     "displayName": "thighhighs_pull",
-    "langName": "Mang tất (vớ)",
+    "langName": "Kéo tất đùi lên",
     "object": "Trang phục",
     "attribute": "Tất",
     "preview": "https://img.aishort.top/imgprompt/20260225090322289.webp"
@@ -19686,7 +19686,7 @@
   },
   {
     "displayName": "crease",
-    "langName": "nhăn (nếp gấp)",
+    "langName": "Đường nếp gấp quần áo",
     "object": "Trang phục",
     "attribute": "Trang trí",
     "preview": "https://img.aishort.top/imgprompt/20260213150609920.webp"
@@ -19755,7 +19755,7 @@
   },
   {
     "displayName": "back_bow",
-    "langName": "(quần áo) thắt nút sau lưng",
+    "langName": "Nơ thắt sau lưng",
     "object": "Trang phục",
     "attribute": "Trang trí",
     "preview": "https://img.aishort.top/imgprompt/20260213151221218.webp"
@@ -19769,7 +19769,7 @@
   },
   {
     "displayName": "double_vertical_stripe",
-    "langName": "Có hai sọc song song trên quần áo",
+    "langName": "Hai đường sọc dọc song song",
     "object": "Trang phục",
     "attribute": "Trang trí",
     "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
@@ -19818,14 +19818,14 @@
   },
   {
     "displayName": "single_kneehigh",
-    "langName": "Mặc quần áo dài đến đầu gối ở một bên",
+    "langName": "Tất dài qua gối một bên",
     "object": "Trang phục",
     "attribute": "Trang trí",
     "preview": "https://img.aishort.top/imgprompt/20260213151419710.webp"
   },
   {
     "displayName": "single_vertical_stripe",
-    "langName": "Lộ các sọc dọc ở một bên của quần áo",
+    "langName": "Đường sọc dọc một bên",
     "object": "Trang phục",
     "attribute": "Trang trí",
     "preview": "https://img.aishort.top/imgprompt/20260213151432314.webp"
@@ -19839,7 +19839,7 @@
   },
   {
     "displayName": "two-sided_fabric",
-    "langName": "Phương pháp vẽ trang phục hai lớp",
+    "langName": "Chất vải phối màu hai mặt",
     "object": "Trang phục",
     "attribute": "Trang trí",
     "preview": "https://img.aishort.top/imgprompt/20260213151458665.webp"
@@ -19860,21 +19860,21 @@
   },
   {
     "displayName": "fringe_trim",
-    "langName": "Phần mép (phần cuối của chiếc khăn)",
+    "langName": "Đường viền tua rua",
     "object": "Trang phục",
     "attribute": "Trang trí",
     "preview": "https://img.aishort.top/imgprompt/20260213151538074.webp"
   },
   {
     "displayName": "loose_belt",
-    "langName": "Dây đeo lỏng lẻo (quần áo)",
+    "langName": "Thắt lưng nới lỏng",
     "object": "Trang phục",
     "attribute": "Trang trí",
     "preview": "https://img.aishort.top/imgprompt/20260213151551376.webp"
   },
   {
     "displayName": "pom_pom_(clothes)",
-    "langName": "Quả pom pom nhỏ (phụ kiện quần áo)",
+    "langName": "Cục bông tròn trang trí",
     "object": "Trang phục",
     "attribute": "Trang trí",
     "preview": "https://img.aishort.top/imgprompt/20260213151807325.webp"
@@ -19895,7 +19895,7 @@
   },
   {
     "displayName": "gathers",
-    "langName": "nếp gấp (quần áo)",
+    "langName": "Nếp nhún bèo / Xếp ly",
     "object": "Trang phục",
     "attribute": "Trang trí",
     "preview": "https://img.aishort.top/imgprompt/20260213151846596.webp"
@@ -20441,7 +20441,7 @@
   },
   {
     "displayName": "peace_symbol",
-    "langName": "☮(Trên quần áo của Higashikata Josuke)",
+    "langName": "Biểu tượng hòa bình (☮)",
     "object": "Trang phục",
     "attribute": "Họa tiết",
     "preview": "https://img.aishort.top/imgprompt/20260213154359591.webp"
@@ -20595,7 +20595,7 @@
   },
   {
     "displayName": "black_loafers",
-    "langName": "Giày lười (giày da nhỏ)",
+    "langName": "Giày lười đen",
     "object": "Trang phục",
     "attribute": "Giày",
     "preview": "https://img.aishort.top/imgprompt/20260213160300808.webp"
@@ -20868,7 +20868,7 @@
   },
   {
     "displayName": "knee_boots",
-    "langName": "Giày bốt cao đến đầu gối (giày bốt cưỡi ngựa)",
+    "langName": "Bốt cao tới đầu gối",
     "object": "Trang phục",
     "attribute": "Bốt",
     "preview": "https://img.aishort.top/imgprompt/20260213170630231.webp"
@@ -21225,7 +21225,7 @@
   },
   {
     "displayName": "armband",
-    "langName": "băng tay (băng tay)",
+    "langName": "Băng đeo bắp tay",
     "object": "Trang phục",
     "attribute": "Tay áo",
     "preview": "https://img.aishort.top/imgprompt/20260213181136180.webp"
@@ -21337,7 +21337,7 @@
   },
   {
     "displayName": "Cashmere",
-    "langName": "Cashmere",
+    "langName": "Len cashmere",
     "object": "Trang phục",
     "attribute": "Vải",
     "preview": "https://img.aishort.top/imgprompt/20260213182702886.webp"
@@ -21358,14 +21358,14 @@
   },
   {
     "displayName": "Nylon",
-    "langName": "nylon",
+    "langName": "Vải nilon",
     "object": "Trang phục",
     "attribute": "Vải",
     "preview": "https://img.aishort.top/imgprompt/20260225105636623.webp"
   },
   {
     "displayName": "Polyamide",
-    "langName": "polyamide",
+    "langName": "Sợi polyamide",
     "object": "Trang phục",
     "attribute": "Vải",
     "preview": "https://img.aishort.top/imgprompt/20260213183401043.webp"
@@ -21407,7 +21407,7 @@
   },
   {
     "displayName": "Lyocell",
-    "langName": "Lyocell",
+    "langName": "Vải lyocell",
     "object": "Trang phục",
     "attribute": "Vải",
     "preview": "https://img.aishort.top/imgprompt/20260213183724212.webp"
@@ -21428,7 +21428,7 @@
   },
   {
     "displayName": "Nomex",
-    "langName": "Nomex",
+    "langName": "Vải sợi Nomex",
     "object": "Trang phục",
     "attribute": "Vải",
     "preview": "https://img.aishort.top/imgprompt/20260213184207647.webp"
@@ -21680,7 +21680,7 @@
   },
   {
     "displayName": "alternate_headwear",
-    "langName": "Một loại mũ đội đầu khác với mũ đội đầu ban đầu",
+    "langName": "Phụ kiện đội đầu thay thế",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213191902200.webp"
@@ -21715,7 +21715,7 @@
   },
   {
     "displayName": "xx_on_head",
-    "langName": "xx trên đầu",
+    "langName": "Đội vật trên đầu",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213192411659.webp"
@@ -21778,14 +21778,14 @@
   },
   {
     "displayName": "hachimaki",
-    "langName": "khăn xếp (danh từ)",
+    "langName": "Băng trán Hachimaki",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213194023586.webp"
   },
   {
     "displayName": "helm",
-    "langName": "đội mũ bảo hiểm",
+    "langName": "Đội mũ giáp chiến đấu",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213194036779.webp"
@@ -21827,7 +21827,7 @@
   },
   {
     "displayName": "skull_and_crossbones",
-    "langName": "Đầu lâu xương chéo (hải tặc, nguy hiểm)",
+    "langName": "Đầu lâu xương chéo",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213195005290.webp"
@@ -21841,7 +21841,7 @@
   },
   {
     "displayName": "headdress",
-    "langName": "Đồ đội đầu (tổng quát hơn)",
+    "langName": "Phụ kiện cài đầu",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213195638458.webp"
@@ -21869,21 +21869,21 @@
   },
   {
     "displayName": "horns_through_headwear",
-    "langName": "Một chiếc mũ đội đầu có lỗ để gắn sừng",
+    "langName": "Mũ chừa lỗ cho sừng",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213200134487.webp"
   },
   {
     "displayName": "no_headwear",
-    "langName": "Đã tháo mũ bảo hiểm (hiện có)",
+    "langName": "Không đội phụ kiện đầu",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213200147284.webp"
   },
   {
     "displayName": "object_on_head",
-    "langName": "Có thứ gì đó khác ngoài mũ đội đầu trên đầu",
+    "langName": "Vật thể lạ trên đỉnh đầu",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213200200049.webp"
@@ -21925,7 +21925,7 @@
   },
   {
     "displayName": "behind-the-head_headphones",
-    "langName": "Tai nghe đeo từ phía sau đầu",
+    "langName": "Tai nghe quàng sau gáy",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213200337721.webp"
@@ -21988,14 +21988,14 @@
   },
   {
     "displayName": "head_mounted_display",
-    "langName": "Đeo thiết bị hiển thị gắn trên đầu",
+    "langName": "Kính hiển thị thực tế ảo đeo đầu (HMD)",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213201344092.webp"
   },
   {
     "displayName": "head_out_of_frame",
-    "langName": "Một phần của đầu không được vẽ trong khung",
+    "langName": "Phần đầu nằm ngoài khung hình",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213201559216.webp"
@@ -22016,7 +22016,7 @@
   },
   {
     "displayName": "headgear",
-    "langName": "Phụ kiện đầu (Sci-Fi)",
+    "langName": "Thiết bị đeo đầu viễn tưởng",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213201840823.webp"
@@ -22030,7 +22030,7 @@
   },
   {
     "displayName": "heads-up_display",
-    "langName": "Thanh trạng thái (HUD)",
+    "langName": "Giao diện hiển thị HUD",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213201907728.webp"
@@ -22065,7 +22065,7 @@
   },
   {
     "displayName": "single_head_wing",
-    "langName": "Có đôi cánh ở một bên đầu",
+    "langName": "Cánh nhỏ một bên đầu",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện đầu",
     "preview": "https://img.aishort.top/imgprompt/20260213202620422.webp"
@@ -22261,7 +22261,7 @@
   },
   {
     "displayName": "hairpods",
-    "langName": "Cặp phụ kiện tóc không dây Bluetooth trên tóc",
+    "langName": "Kẹp tóc tai nghe",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện tóc",
     "preview": "https://img.aishort.top/imgprompt/20260213210909139.webp"
@@ -22296,7 +22296,7 @@
   },
   {
     "displayName": "snake_hair_ornament",
-    "langName": "Phụ kiện tóc rắn | Phụ kiện tóc ếch",
+    "langName": "Trâm cài tóc hình rắn",
     "object": "Phụ kiện",
     "attribute": "Phụ kiện tóc",
     "preview": "https://img.aishort.top/imgprompt/20260213211418419.webp"
@@ -22373,7 +22373,7 @@
   },
   {
     "displayName": "hood",
-    "langName": "Mui xe",
+    "langName": "Mũ trùm đầu",
     "object": "Phụ kiện",
     "attribute": "Mũ",
     "preview": "https://img.aishort.top/imgprompt/20260213212235548.webp"
@@ -22779,7 +22779,7 @@
   },
   {
     "displayName": "hat_removed",
-    "langName": "mũ được tháo ra | mũ được tháo ra",
+    "langName": "mũ được tháo ra",
     "object": "Phụ kiện",
     "attribute": "Mũ",
     "preview": "https://img.aishort.top/imgprompt/20260213224231603.webp"
@@ -22800,7 +22800,7 @@
   },
   {
     "displayName": "hatching_(texture)",
-    "langName": "Tô bóng đường nét (kết cấu)",
+    "langName": "Đan nét tạo bóng",
     "object": "Phụ kiện",
     "attribute": "Mũ",
     "preview": "https://img.aishort.top/imgprompt/20260213224329155.webp"
@@ -22926,14 +22926,14 @@
   },
   {
     "displayName": "sunglasses",
-    "langName": "Kính râm (che mắt)",
+    "langName": "Kính râm tối màu",
     "object": "Phụ kiện",
     "attribute": "Kính",
     "preview": "https://img.aishort.top/imgprompt/20260213230746663.webp"
   },
   {
     "displayName": "reflection glasses",
-    "langName": "Kính râm (để lộ mắt)",
+    "langName": "Kính râm nhìn xuyên mắt",
     "object": "Phụ kiện",
     "attribute": "Kính",
     "preview": "https://img.aishort.top/imgprompt/20260213230759909.webp"
@@ -22954,7 +22954,7 @@
   },
   {
     "displayName": "eyepatch",
-    "langName": "Miếng che mắt (một mắt)",
+    "langName": "Miếng bịt mắt",
     "object": "Phụ kiện",
     "attribute": "Kính",
     "preview": "https://img.aishort.top/imgprompt/20260213230839662.webp"
@@ -22982,14 +22982,14 @@
   },
   {
     "displayName": "coke-bottle_glasses",
-    "langName": "Những chiếc ly tròn dày như đáy chai thủy tinh",
+    "langName": "Kính cận dày cộp",
     "object": "Phụ kiện",
     "attribute": "Kính",
     "preview": "https://img.aishort.top/imgprompt/20260213230932442.webp"
   },
   {
     "displayName": "no_eyewear",
-    "langName": "Đã tháo kính (hiện có)",
+    "langName": "Không đeo kính",
     "object": "Phụ kiện",
     "attribute": "Kính",
     "preview": "https://img.aishort.top/imgprompt/20260213230945224.webp"
@@ -23241,7 +23241,7 @@
   },
   {
     "displayName": "single_earring",
-    "langName": "Chỉ đeo khuyên tai một bên",
+    "langName": "Hoa tai đeo một bên",
     "object": "Phụ kiện",
     "attribute": "Bông tai",
     "preview": "https://img.aishort.top/imgprompt/20260213235633818.webp"
@@ -23269,7 +23269,7 @@
   },
   {
     "displayName": "wristwatch",
-    "langName": "đồng hồ ",
+    "langName": "đồng hồ",
     "object": "Phụ kiện",
     "attribute": "Trang sức đeo tay",
     "preview": "https://img.aishort.top/imgprompt/20260213235740368.webp"
@@ -23297,7 +23297,7 @@
   },
   {
     "displayName": "cuffs",
-    "langName": "sự bêu riếu",
+    "langName": "Còng tay",
     "object": "Phụ kiện",
     "attribute": "Trang sức đeo tay",
     "preview": "https://img.aishort.top/imgprompt/20260213235839451.webp"
@@ -23325,7 +23325,7 @@
   },
   {
     "displayName": "leash",
-    "langName": "thắt lưng",
+    "langName": "Dây dắt cổ",
     "object": "Phụ kiện",
     "attribute": "Trang sức đeo tay",
     "preview": "https://img.aishort.top/imgprompt/20260213235930034.webp"
@@ -23437,7 +23437,7 @@
   },
   {
     "displayName": "no_gloves",
-    "langName": "Đã tháo găng tay (hiện có)",
+    "langName": "Không mang găng tay",
     "object": "Phụ kiện",
     "attribute": "Găng tay",
     "preview": "https://img.aishort.top/imgprompt/20260214001315236.webp"
@@ -23451,7 +23451,7 @@
   },
   {
     "displayName": "single_elbow_glove",
-    "langName": "Đeo găng tay dài đến khuỷu tay ở một tay",
+    "langName": "Găng tay dài một bên",
     "object": "Phụ kiện",
     "attribute": "Găng tay",
     "preview": "https://img.aishort.top/imgprompt/20260214001744860.webp"
@@ -23465,7 +23465,7 @@
   },
   {
     "displayName": "elbow_gloves",
-    "langName": "Găng tay dài tay (găng tay khuỷu tay)",
+    "langName": "Găng tay dài đến khuỷu",
     "object": "Phụ kiện",
     "attribute": "Găng tay",
     "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
@@ -23500,14 +23500,14 @@
   },
   {
     "displayName": "paw_gloves",
-    "langName": "Găng tay móng vuốt (găng tay ngón tay)",
+    "langName": "Găng tay vuốt thú",
     "object": "Phụ kiện",
     "attribute": "Găng tay",
     "preview": "https://img.aishort.top/imgprompt/20260214002522561.webp"
   },
   {
     "displayName": "mittens",
-    "langName": "Găng tay (găng tay hai ngón)",
+    "langName": "Bao tay liền ngón (Mittens)",
     "object": "Phụ kiện",
     "attribute": "Găng tay",
     "preview": "https://img.aishort.top/imgprompt/20260214002535788.webp"
@@ -23759,14 +23759,14 @@
   },
   {
     "displayName": "st._gloriana's_(emblem)",
-    "langName": "Biểu tượng trường nữ sinh St. Gloria Anna",
+    "langName": "Huy hiệu trường St. Gloriana",
     "object": "Phụ kiện",
     "attribute": "Trang trí nhỏ",
     "preview": "https://img.aishort.top/imgprompt/20260214010157304.webp"
   },
   {
     "displayName": "heart_lock_(kantai_collection)",
-    "langName": "Khóa Cô Gái Tàu (Tàu C)",
+    "langName": "Khóa trái tim (Kantai Collection)",
     "object": "Phụ kiện",
     "attribute": "Trang trí nhỏ",
     "preview": "https://img.aishort.top/imgprompt/20260214010210385.webp"
@@ -23990,14 +23990,14 @@
   },
   {
     "displayName": "Wu Xing",
-    "langName": "Năm yếu tố (kim loại, gỗ, nước, lửa và đất)",
+    "langName": "Ngũ hành (Kim Mộc Thủy Hỏa Thổ)",
     "object": "Phụ kiện",
     "attribute": "Biểu tượng",
     "preview": "https://img.aishort.top/imgprompt/20260214020503233.webp"
   },
   {
     "displayName": "dynamic pose",
-    "langName": "Tư thế năng động (năng động)",
+    "langName": "Tư thế chuyển động sống động",
     "object": "Nhiếp ảnh",
     "attribute": "Góc nhìn",
     "preview": "https://img.aishort.top/imgprompt/20260214020718871.webp"
@@ -24319,28 +24319,28 @@
   },
   {
     "displayName": "cowboy_shot",
-    "langName": "Phần thân trên + đùi trên (ống kính denim)",
+    "langName": "Cảnh quay kiểu cao bồi",
     "object": "Nhiếp ảnh",
     "attribute": "Độ cao góc máy",
     "preview": "https://img.aishort.top/imgprompt/20260214032314849.webp"
   },
   {
     "displayName": "portrait",
-    "langName": "Chân dung (mặt + vai + đôi khi là ngực)",
+    "langName": "Ảnh chân dung cận cảnh",
     "object": "Nhiếp ảnh",
     "attribute": "Độ cao góc máy",
     "preview": "https://img.aishort.top/imgprompt/20260214032327856.webp"
   },
   {
     "displayName": "very close portrait",
-    "langName": "Chụp chân dung gần (máy ảnh gần hơn)",
+    "langName": "Đặc tả khuôn mặt siêu cận cảnh",
     "object": "Nhiếp ảnh",
     "attribute": "Độ cao góc máy",
     "preview": "https://img.aishort.top/imgprompt/20260214032544032.webp"
   },
   {
     "displayName": "profile",
-    "langName": "Chân dung góc nghiêng",
+    "langName": "Ảnh chân dung góc nghiêng",
     "object": "Nhiếp ảnh",
     "attribute": "Độ cao góc máy",
     "preview": "https://img.aishort.top/imgprompt/20260214032759101.webp"
@@ -24375,7 +24375,7 @@
   },
   {
     "displayName": "wide_shot",
-    "langName": "Ống kính toàn cảnh (ống kính góc rộng)",
+    "langName": "Góc quay toàn cảnh rộng",
     "object": "Nhiếp ảnh",
     "attribute": "Lấy nét",
     "preview": "https://img.aishort.top/imgprompt/20260214033851759.webp"
@@ -24389,7 +24389,7 @@
   },
   {
     "displayName": "inset",
-    "langName": "Chèn thêm cảnh quay hoặc hình ảnh",
+    "langName": "Ảnh lồng trong khung ảnh",
     "object": "Nhiếp ảnh",
     "attribute": "Lấy nét",
     "preview": "https://img.aishort.top/imgprompt/20260214033931731.webp"
@@ -24403,21 +24403,21 @@
   },
   {
     "displayName": "male focus",
-    "langName": "Tập trung vào nam (Tập trung vào nữ)",
+    "langName": "Lấy nét nhân vật nam",
     "object": "Nhiếp ảnh",
     "attribute": "Lấy nét",
     "preview": "https://img.aishort.top/imgprompt/20260214033958195.webp"
   },
   {
     "displayName": "solo_focus",
-    "langName": "Tập trung vào một nhân vật",
+    "langName": "Tập trung vào một nhân vật duy nhất",
     "object": "Nhiếp ảnh",
     "attribute": "Lấy nét",
     "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
   },
   {
     "displayName": "xx_focus",
-    "langName": "tập trung vào xx",
+    "langName": "Lấy nét cục bộ chi tiết",
     "object": "Nhiếp ảnh",
     "attribute": "Lấy nét",
     "preview": "https://img.aishort.top/imgprompt/20260214034023889.webp"
@@ -24459,7 +24459,7 @@
   },
   {
     "displayName": "vehicle_focus",
-    "langName": "Tập trung vào xe (ô tô)",
+    "langName": "Lấy nét phương tiện",
     "object": "Nhiếp ảnh",
     "attribute": "Lấy nét",
     "preview": "https://img.aishort.top/imgprompt/20260214034759257.webp"
@@ -24473,21 +24473,21 @@
   },
   {
     "displayName": "between_legs",
-    "langName": "(nhấn mạnh) giữa hai chân",
+    "langName": "Góc nhìn qua khe đùi",
     "object": "Nhiếp ảnh",
     "attribute": "Lấy nét",
     "preview": "https://img.aishort.top/imgprompt/20260214035455577.webp"
   },
   {
     "displayName": "between_breasts",
-    "langName": "(ngực nhô ra)",
+    "langName": "Góc quay cận cảnh giữa hai bầu ngực",
     "object": "Nhiếp ảnh",
     "attribute": "Lấy nét",
     "preview": "https://img.aishort.top/imgprompt/20260225091239828.webp"
   },
   {
     "displayName": "between_fingers",
-    "langName": "(nổi bật) giữa các ngón tay",
+    "langName": "Góc nhìn qua kẽ tay",
     "object": "Nhiếp ảnh",
     "attribute": "Lấy nét",
     "preview": "https://img.aishort.top/imgprompt/20260214035531987.webp"
@@ -24501,14 +24501,14 @@
   },
   {
     "displayName": "peeking_out",
-    "langName": "nhìn trộm (cử chỉ)",
+    "langName": "Lấp ló nhìn trộm",
     "object": "Nhiếp ảnh",
     "attribute": "Lấy nét",
     "preview": "https://img.aishort.top/imgprompt/20260214035557635.webp"
   },
   {
     "displayName": "peeping",
-    "langName": "Voyeur (nhấn mạnh vào góc nhìn)",
+    "langName": "Góc máy nhìn lén",
     "object": "Nhiếp ảnh",
     "attribute": "Lấy nét",
     "preview": "https://img.aishort.top/imgprompt/20260214035610390.webp"
@@ -24564,7 +24564,7 @@
   },
   {
     "displayName": "Macro",
-    "langName": "Macro",
+    "langName": "Chụp cận cảnh",
     "object": "Nhiếp ảnh",
     "attribute": "Ống kính/Hiệu ứng quang học",
     "preview": "https://img.aishort.top/imgprompt/20260214040635095.webp"
@@ -24662,7 +24662,7 @@
   },
   {
     "displayName": "Brenizer Method",
-    "langName": "cú bắn xoắn ốc",
+    "langName": "Phương pháp Brenizer",
     "object": "Nhiếp ảnh",
     "attribute": "Ống kính/Hiệu ứng quang học",
     "preview": "https://img.aishort.top/imgprompt/20260214041350224.webp"
@@ -24697,7 +24697,7 @@
   },
   {
     "displayName": "landscape",
-    "langName": "Cảnh quay phong cảnh (cảnh quay toàn cảnh)",
+    "langName": "Ảnh phong cảnh",
     "object": "Nhiếp ảnh",
     "attribute": "Ống kính/Hiệu ứng quang học",
     "preview": "https://img.aishort.top/imgprompt/20260214041814281.webp"
@@ -24844,7 +24844,7 @@
   },
   {
     "displayName": "polaroid",
-    "langName": "Ảnh (Polaroid)",
+    "langName": "Ảnh chụp lấy ngay Polaroid",
     "object": "Nhiếp ảnh",
     "attribute": "Phong cách nhiếp ảnh",
     "preview": "https://img.aishort.top/imgprompt/20260214044251180.webp"
@@ -25292,7 +25292,7 @@
   },
   {
     "displayName": "depth of field",
-    "langName": "Độ sâu trường ảnh (phối hợp các cảnh con người)",
+    "langName": "Độ sâu trường ảnh",
     "object": "Nhiếp ảnh",
     "attribute": "Hiệu ứng",
     "preview": "https://img.aishort.top/imgprompt/20260224191234161.webp"
@@ -25320,14 +25320,14 @@
   },
   {
     "displayName": "bokeh",
-    "langName": "bokeh",
+    "langName": "Hiệu ứng xóa phông Bokeh",
     "object": "Nhiếp ảnh",
     "attribute": "Hiệu ứng",
     "preview": "https://img.aishort.top/imgprompt/20260224191333274.webp"
   },
   {
     "displayName": "chromatic_aberration",
-    "langName": "Quang sai màu, màu sắc không rõ nét",
+    "langName": "Hiện tượng tán sắc viền màu",
     "object": "Nhiếp ảnh",
     "attribute": "Hiệu ứng",
     "preview": "https://img.aishort.top/imgprompt/20260224191548893.webp"
@@ -25818,7 +25818,7 @@
   },
   {
     "displayName": "Crepuscular Rays",
-    "langName": "ánh sáng mờ",
+    "langName": "Tia sáng xuyên mây",
     "object": "Hiệu ứng ánh sáng và bóng tối",
     "attribute": "Hiệu ứng ánh sáng",
     "preview": "https://img.aishort.top/imgprompt/20260224200322540.webp"
@@ -25860,7 +25860,7 @@
   },
   {
     "displayName": "lens flare",
-    "langName": "Lóa ống kính (đèn nền)",
+    "langName": "Ánh lóa ống kính",
     "object": "Hiệu ứng ánh sáng và bóng tối",
     "attribute": "Hiệu ứng ánh sáng",
     "preview": "https://img.aishort.top/imgprompt/20260224200437632.webp"
@@ -25951,7 +25951,7 @@
   },
   {
     "displayName": "Halogen",
-    "langName": "halogen",
+    "langName": "Đèn halogen",
     "object": "Hiệu ứng ánh sáng và bóng tối",
     "attribute": "Chiếu sáng",
     "preview": "https://img.aishort.top/imgprompt/20260224200742263.webp"
@@ -26308,7 +26308,7 @@
   },
   {
     "displayName": "Caustics",
-    "langName": "Caustics (hiệu ứng quang học)",
+    "langName": "Caustics",
     "object": "Hiệu ứng ánh sáng và bóng tối",
     "attribute": "Thuộc tính vật liệu",
     "preview": "https://img.aishort.top/imgprompt/20260224212303506.webp"
@@ -27113,7 +27113,7 @@
   },
   {
     "displayName": "Dispersion",
-    "langName": "Quang sai màu",
+    "langName": "Tán sắc ánh sáng",
     "object": "Màu sắc & Không khí",
     "attribute": "Tông màu tối",
     "preview": "https://img.aishort.top/imgprompt/20260224221649393.webp"
@@ -27645,7 +27645,7 @@
   },
   {
     "displayName": "Tetradic-Colors",
-    "langName": "Bốn màu (phối màu hình chữ nhật)",
+    "langName": "Phối màu tứ sắc",
     "object": "Màu sắc & Không khí",
     "attribute": "Bảng màu",
     "preview": "https://img.aishort.top/imgprompt/20260224223613371.webp"
@@ -27757,7 +27757,7 @@
   },
   {
     "displayName": "Sepia",
-    "langName": "Sepia",
+    "langName": "Tông màu nâu đỏ",
     "object": "Màu sắc & Không khí",
     "attribute": "Bảng màu đơn sắc",
     "description": "Bắt chước diện mạo ảnh cũ, gợi lên cảm giác hoài niệm hoặc phong cách cổ điển",
@@ -27947,7 +27947,7 @@
   },
   {
     "displayName": "YPbPr",
-    "langName": "wxya",
+    "langName": "YPbPr",
     "object": "Màu sắc & Không khí",
     "attribute": "Bảng màu màn hình",
     "preview": "https://img.aishort.top/imgprompt/20260224224643063.webp"
@@ -28864,7 +28864,7 @@
   },
   {
     "displayName": "Vermiculite",
-    "langName": "Vermiculite",
+    "langName": "Khoáng vermiculit",
     "object": "Vật liệu",
     "attribute": "Đá và khoáng chất",
     "preview": "https://img.aishort.top/imgprompt/20260224232206942.webp"
@@ -28878,7 +28878,7 @@
   },
   {
     "displayName": "Borax",
-    "langName": "Borax",
+    "langName": "Hàn the",
     "object": "Vật liệu",
     "attribute": "Đá và khoáng chất",
     "preview": "https://img.aishort.top/imgprompt/20260224232243906.webp"
@@ -29172,7 +29172,7 @@
   },
   {
     "displayName": "Constantan",
-    "langName": "Constantan",
+    "langName": "Hợp kim constantan",
     "object": "Vật liệu",
     "attribute": "Kim loại",
     "preview": "https://img.aishort.top/imgprompt/20260224233345820.webp"
@@ -29193,7 +29193,7 @@
   },
   {
     "displayName": "Damascus",
-    "langName": "Damascus",
+    "langName": "Thép Damascus",
     "object": "Vật liệu",
     "attribute": "Kim loại",
     "preview": "https://img.aishort.top/imgprompt/20260224233430173.webp"
@@ -29438,7 +29438,7 @@
   },
   {
     "displayName": "Citrine",
-    "langName": "citrine",
+    "langName": "Thạch anh vàng",
     "object": "Vật liệu",
     "attribute": "Thủy tinh và pha lê",
     "preview": "https://img.aishort.top/imgprompt/20260224234304055.webp"
@@ -29501,7 +29501,7 @@
   },
   {
     "displayName": "Topaz",
-    "langName": "topaz",
+    "langName": "Đá hoàng ngọc",
     "object": "Vật liệu",
     "attribute": "Thủy tinh và pha lê",
     "preview": "https://img.aishort.top/imgprompt/20260224234525817.webp"
@@ -29522,7 +29522,7 @@
   },
   {
     "displayName": "Ametrine",
-    "langName": "Ametrine",
+    "langName": "Thạch anh tím vàng",
     "object": "Vật liệu",
     "attribute": "Thủy tinh và pha lê",
     "preview": "https://img.aishort.top/imgprompt/20260224234609865.webp"
@@ -29578,21 +29578,21 @@
   },
   {
     "displayName": "Teflon",
-    "langName": "Teflon",
+    "langName": "Nhựa teflon",
     "object": "Vật liệu",
     "attribute": "Nhựa/Màng xốp",
     "preview": "https://img.aishort.top/imgprompt/20260224234808641.webp"
   },
   {
     "displayName": "Lego",
-    "langName": "Lego",
+    "langName": "Đồ chơi Lego",
     "object": "Vật liệu",
     "attribute": "Nhựa/Màng xốp",
     "preview": "https://img.aishort.top/imgprompt/20260317080017845.webp"
   },
   {
     "displayName": "Polyurethane",
-    "langName": "Polyurethane",
+    "langName": "Nhựa polyurethane",
     "object": "Vật liệu",
     "attribute": "Nhựa/Màng xốp",
     "preview": "https://img.aishort.top/imgprompt/20260224234830063.webp"
@@ -29620,7 +29620,7 @@
   },
   {
     "displayName": "Polyimide",
-    "langName": "polyimide",
+    "langName": "Nhựa polyimide",
     "object": "Vật liệu",
     "attribute": "Nhựa/Màng xốp",
     "preview": "https://img.aishort.top/imgprompt/20260224234924114.webp"
@@ -29781,7 +29781,7 @@
   },
   {
     "displayName": "Beard",
-    "langName": "râu ",
+    "langName": "râu",
     "object": "Vật liệu",
     "attribute": "Tóc/lông thú",
     "preview": "https://img.aishort.top/imgprompt/20260224235500779.webp"
@@ -29914,7 +29914,7 @@
   },
   {
     "displayName": "Putty",
-    "langName": "Chất kết dính để bịt kín và lấp đầy khoảng trống",
+    "langName": "Bột trét / Keo trám trét",
     "object": "Vật liệu",
     "attribute": "Chất nhờn",
     "preview": "https://img.aishort.top/imgprompt/20260224235936705.webp"
@@ -29928,7 +29928,7 @@
   },
   {
     "displayName": "Gel",
-    "langName": "gel",
+    "langName": "Chất gel",
     "object": "Vật liệu",
     "attribute": "Độ nhớt",
     "preview": "https://img.aishort.top/imgprompt/20260225000006069.webp"
@@ -30033,7 +30033,7 @@
   },
   {
     "displayName": "Kapton",
-    "langName": "kapton",
+    "langName": "Băng dính nhiệt Kapton",
     "object": "Vật liệu",
     "attribute": "Chất kết dính",
     "preview": "https://img.aishort.top/imgprompt/20260225000338265.webp"
@@ -31356,7 +31356,7 @@
   },
   {
     "displayName": "((dyeing)),((oil painting)),((impasto))",
-    "langName": "Tranh sơn dầu (kết hợp)",
+    "langName": "Tranh sơn dầu đắp nổi",
     "object": "Loại hình ảnh",
     "attribute": "Hội họa",
     "preview": "https://img.aishort.top/imgprompt/20260225004949979.webp"
@@ -31825,7 +31825,7 @@
   },
   {
     "displayName": "copics",
-    "langName": "Bút dạ (màu xám trung tính)",
+    "langName": "Phong cách bút Copic Marker",
     "object": "Loại hình ảnh",
     "attribute": "Mực",
     "preview": "https://img.aishort.top/imgprompt/20260225010656308.webp"
@@ -32126,7 +32126,7 @@
   },
   {
     "displayName": "Pokemon Card",
-    "langName": "Thẻ bài Pokémon (Quái vật bỏ túi)",
+    "langName": "Phong cách thẻ bài Pokémon",
     "object": "Loại hình ảnh",
     "attribute": "In",
     "preview": "https://img.aishort.top/imgprompt/20260225011638981.webp"
@@ -32469,7 +32469,7 @@
   },
   {
     "displayName": "Azulejo",
-    "langName": "Azulejo",
+    "langName": "Gạch men Azulejo",
     "object": "Loại hình ảnh",
     "attribute": "Đồ gốm và thủy tinh",
     "preview": "https://img.aishort.top/imgprompt/20260225013435357.webp"
@@ -32518,7 +32518,7 @@
   },
   {
     "displayName": "traditional_media",
-    "langName": "Vải bạt truyền thống (như giấy, v.v.)",
+    "langName": "Chất liệu vẽ truyền thống",
     "object": "Loại hình ảnh",
     "attribute": "Chất liệu khác",
     "preview": "https://img.aishort.top/imgprompt/20260225013600028.webp"
@@ -33078,7 +33078,7 @@
   },
   {
     "displayName": "miserablism",
-    "langName": "Chủ nghĩa khốn cùng (phê phán xã hội)",
+    "langName": "Chủ nghĩa khốn cùng",
     "object": "Phong cách nghệ thuật",
     "attribute": "Hư cấu và hiện thực",
     "preview": "https://img.aishort.top/imgprompt/20260225015538415.webp"
@@ -33169,7 +33169,7 @@
   },
   {
     "displayName": "illustration,(((ukiyoe))),((sketch)),((japanese_art))",
-    "langName": "Ukiyo-e (nhóm)",
+    "langName": "Minh họa tranh khắc gỗ Ukiyo-e",
     "object": "Phong cách nghệ thuật",
     "attribute": "Nghệ thuật châu Á",
     "preview": "https://img.aishort.top/imgprompt/20260225015830944.webp"
@@ -33260,7 +33260,7 @@
   },
   {
     "displayName": "heavy contrast",
-    "langName": "Độ tương phản mạnh (nhấn mạnh vào màu sắc)",
+    "langName": "Độ tương phản cao đậm nét",
     "object": "Phong cách nghệ thuật",
     "attribute": "Phong cách nhiếp ảnh/hội họa",
     "preview": "https://img.aishort.top/imgprompt/20260225020108984.webp"
@@ -33323,7 +33323,7 @@
   },
   {
     "displayName": "film noir",
-    "langName": "Phim đen (tội lỗi, ham muốn, trả thù)",
+    "langName": "Phong cách phim đen",
     "object": "Phong cách nghệ thuật",
     "attribute": "Phong cách nhiếp ảnh/hội họa",
     "preview": "https://img.aishort.top/imgprompt/20260225020255566.webp"
@@ -33337,7 +33337,7 @@
   },
   {
     "displayName": "fantasy",
-    "langName": "Phù hợp cho các cảnh khoa học viễn tưởng",
+    "langName": "Phong cách huyền ảo",
     "object": "Phong cách nghệ thuật",
     "attribute": "Khoa học viễn tưởng",
     "preview": "https://img.aishort.top/imgprompt/20260225020323046.webp"
@@ -33393,7 +33393,7 @@
   },
   {
     "displayName": "ww3 style",
-    "langName": "phong cách ww3",
+    "langName": "phong cách Chiến tranh thế giới thứ 3",
     "object": "Phong cách nghệ thuật",
     "attribute": "Khoa học viễn tưởng",
     "preview": "https://img.aishort.top/imgprompt/20260225020500212.webp"
@@ -33582,7 +33582,7 @@
   },
   {
     "displayName": "album",
-    "langName": "album",
+    "langName": "Bìa album",
     "object": "Phong cách nghệ thuật",
     "attribute": "Ấn phẩm",
     "preview": "https://img.aishort.top/imgprompt/20260225021019051.webp"
@@ -33624,14 +33624,14 @@
   },
   {
     "displayName": "column lineup",
-    "langName": "Hình ảnh lớn được tạo thành từ các hàng hình ảnh nhỏ",
+    "langName": "Bố cục xếp hàng chia cột",
     "object": "Phong cách nghệ thuật",
     "attribute": "Ấn phẩm",
     "preview": "https://img.aishort.top/imgprompt/20260225021130372.webp"
   },
   {
     "displayName": "zoom layer",
-    "langName": "Nền là phiên bản phóng to của tiền cảnh",
+    "langName": "Lớp nền phóng to phân tầng",
     "object": "Phong cách nghệ thuật",
     "attribute": "Ấn phẩm",
     "preview": "https://img.aishort.top/imgprompt/20260225021142834.webp"
@@ -33680,7 +33680,7 @@
   },
   {
     "displayName": "highres",
-    "langName": "impasto (phong cách)",
+    "langName": "Phong cách vẽ dày sơn kỹ thuật số",
     "object": "Phong cách nghệ thuật",
     "attribute": "Nghệ thuật kỹ thuật số",
     "preview": "https://img.aishort.top/imgprompt/20260225021323241.webp"
@@ -34233,7 +34233,7 @@
   },
   {
     "displayName": "Sabattier Effect",
-    "langName": "Cung cấp các cạnh mềm mại, mờ và đổ bóng màu",
+    "langName": "Hiệu ứng Sabattier (Phơi sáng đảo màu)",
     "object": "Xử lý hậu kỳ",
     "attribute": "Xử lý hình ảnh",
     "preview": "https://img.aishort.top/imgprompt/20260225022949265.webp"
@@ -34268,7 +34268,7 @@
   },
   {
     "displayName": "Harris Shutter",
-    "langName": "Màn trập Harris (chuyển động/ánh sáng yếu)",
+    "langName": "Hiệu ứng màn trập Harris",
     "object": "Xử lý hậu kỳ",
     "attribute": "Xử lý hình ảnh",
     "description": "Chụp các vật thể chuyển động nhanh hoặc duy trì độ nét của hình ảnh trong điều kiện thiếu sáng",
@@ -34734,7 +34734,7 @@
     "preview": "https://img.aishort.top/imgprompt/20260424151157243.webp"
   },
   {
-    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑(广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
+    "displayName": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光,构图延续了S型的流动感；\n在纯白的纹理背景右下角,一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带,这条红绸在空中舞动,不仅展现出丝绸的柔顺质感,更在向左上方飘动的过程中,奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中,叠加了一个有山有海河的广州城市手绘图,国潮,景色尽在眼底,壮阔雄伟,令人震撼。\n广州的地标建筑（广州塔,珠江新城建筑群,珠江,广州城里古建筑,游轮,白云山）。\n云雾环绕,仙气缥缈,色彩丰富,结构复杂,细节丰富,但因为大面积的留白,画面依然显得清新脱俗,左下角排版着“SPRING 2026”和竖排的宣传语,整体寓意“千年商都,魅力广州”。\n文字排版优美,大方,字迹清晰完整,尺寸9:16。",
     "langName": "Poster thành phố Guangzhou xuân 2026",
     "object": "Tác phẩm mẫu",
     "attribute": "Áp phích",
