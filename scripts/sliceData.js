@@ -3,7 +3,8 @@ const path = require("path");
 
 // 源数据：你手写的提示词 JSON，提交进 git
 const SRC_DIR = path.join(__dirname, "..", "src", "app", "data", "prompt");
-// SSG 首屏 bootstrap 数据：objects/attributes 元数据 + 首屏内联 firstChunk。
+// SSG 首屏 bootstrap 数据：objects/attributes 元数据 + 首块前缀 firstChunk
+// （FIRST_INLINE 条，完整首块由客户端静默补拉）。
 // 留在 src/ 内供 page.tsx 用 webpack dynamic import 静态注入。gitignore。
 const BOOTSTRAP_DIR = path.join(__dirname, "..", "src", "app", "data", "prompt-bootstrap");
 // 运行时按需 fetch 的分块。放 public/ 才能从浏览器拿到。gitignore。
@@ -84,10 +85,15 @@ function sliceLocale(locale, referenceObjectCount) {
   }
 
   // 6. bootstrap 写到 src/（供 SSG 内联）
+  // 内联只带首块前 FIRST_INLINE 条（首屏可见量级，≈20KB）；完整首块由客户端
+  // 挂载后静默补拉（useObjectTags 截断感知）。firstChunkTotal 让消费端能识别
+  // 手里的 firstChunk 是不是全集。
+  const FIRST_INLINE = 120;
   const bootstrapPayload = {
     objects: objectOrder,
     attributes,
-    firstChunk: chunks[0],
+    firstChunk: chunks[0].slice(0, FIRST_INLINE),
+    firstChunkTotal: chunks[0].length,
   };
   fs.mkdirSync(BOOTSTRAP_DIR, { recursive: true });
   fs.writeFileSync(path.join(BOOTSTRAP_DIR, `${locale}.json`), JSON.stringify(bootstrapPayload));
