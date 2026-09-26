@@ -10,7 +10,7 @@ const subscribeTouch = (callback: () => void) => {
   mql.addEventListener("change", callback);
   return () => mql.removeEventListener("change", callback);
 };
-const useTouchOnly = () =>
+export const useTouchOnly = () =>
   useSyncExternalStore(
     subscribeTouch,
     () => window.matchMedia(TOUCH_QUERY).matches,

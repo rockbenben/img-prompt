@@ -7,7 +7,7 @@ import { cacheKey, fetchChunk, tagCache } from "./promptChunks";
 // bootstrap 裁剪后 firstChunk 是子集，必须走真实抓取补全（见下方占位分支）。
 const seededLocales = new Set<string>();
 
-export type TagsStatus = "ready" | "loading" | "error";
+type TagsStatus = "ready" | "loading" | "error";
 
 // 分块 19–163KB，移动网络下抓取要一两秒。此前抓取中一律返回 []，选词区
 // 塌成一条空壳，读起来像「这个分类没有标签」而不是「正在加载」；抓取失败

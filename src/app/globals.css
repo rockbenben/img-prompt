@@ -294,8 +294,10 @@ summary:focus-visible,
 }
 
 /* ①② 窄屏限高：不限的话两层分类会把 ③ 标签整个顶出首屏（实测 390×844 中文，
-   ③ 起于 y=911）。各留三行内滚，露出第四行一角当可滚动提示。≥1200 本来就装得下。
-   ⚠ padding：overflow 非 visible 后另一轴也变 auto，药丸 hover 的硬投影会被裁掉。 */
+   ③ 起于 y=911）。≥768 留三行内滚，露出第四行一角当可滚动提示；手机（≤767）
+   改单行横滑（见下方 767 块）——竖内滚在小屏既难发现又显得「显示不全」。
+   ⚠ padding：overflow 非 visible 后另一轴也变 auto，药丸 hover 的硬投影会被裁掉。
+   ⚠ 触屏行高 44（pointer:coarse 块）：限高按 44 重算，别沿用 34 的 138。 */
 @media (max-width: 1199px) {
   .pp-cats.ant-radio-group,
   .pp-subs.ant-radio-group {
@@ -304,6 +306,39 @@ summary:focus-visible,
     padding-inline-end: 4px;
     padding-bottom: 3px;
     scrollbar-width: thin;
+  }
+}
+@media (max-width: 1199px) and (pointer: coarse) {
+  .pp-cats.ant-radio-group,
+  .pp-subs.ant-radio-group {
+    max-height: 162px; /* 三行 = 44×3 + 10×2 = 152，余量露出第四行 */
+  }
+}
+/* 手机：①② 收成单行横滑（移动端分类 tab 的通用姿势）。双缘用「滚动阴影」
+   而不是固定渐隐：background-attachment 的 local/scroll 分层让阴影只在
+   真能往那个方向滚时出现、滚到头自动消失——固定 mask 会把首/尾颗药丸
+   永久压暗，且 RTL（阿拉伯语）下方向会反。选中项由 CategoryRadio 的
+   scrollIntoView(inline:'center') 滚到行中央，snap 给划动一个落点。 */
+@media (max-width: 767px) {
+  .pp-cats.ant-radio-group,
+  .pp-subs.ant-radio-group {
+    max-height: none;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+    padding-block: 4px; /* 给硬投影留位，overflow 会裁两轴 */
+    scroll-snap-type: x proximity;
+    background:
+      linear-gradient(to right, var(--pp-card) 40%, rgba(0, 0, 0, 0)) left / 28px 100% no-repeat local,
+      linear-gradient(to left, var(--pp-card) 40%, rgba(0, 0, 0, 0)) right / 28px 100% no-repeat local,
+      radial-gradient(farthest-side at 0 50%, rgba(22, 23, 28, 0.16), rgba(0, 0, 0, 0)) left / 12px 100% no-repeat scroll,
+      radial-gradient(farthest-side at 100% 50%, rgba(22, 23, 28, 0.16), rgba(0, 0, 0, 0)) right / 12px 100% no-repeat scroll;
+  }
+  .pp-cats .ant-radio-button-wrapper,
+  .pp-subs .ant-radio-button-wrapper {
+    flex: 0 0 auto; /*  nowrap 下不许压缩药丸 */
+    scroll-snap-align: center;
   }
 }
 
@@ -326,6 +361,30 @@ summary:focus-visible,
 .pp-tag:focus-visible {
   transform: translate(-1.5px, -1.5px);
   box-shadow: 2.5px 2.5px 0 var(--pp-shadow);
+}
+
+/* ---------- 纯触屏设备（主输入为 touch）：点按目标放大 ----------
+   44px 是 Apple HIG / Material 的触控下限；桌面与带触屏的笔记本（主指针
+   仍为 fine）保持紧凑视觉不变。托盘/推荐芯片是次级目标，取 40px 折中。 */
+@media (pointer: coarse) {
+  .pp-tag {
+    min-height: 44px;
+    padding: 9px 14px;
+    touch-action: manipulation; /* 去掉双击缩放带来的 300ms 点按延迟 */
+  }
+  .pp-cats .ant-radio-button-wrapper,
+  .pp-subs .ant-radio-button-wrapper {
+    height: 44px;
+    line-height: 40px;
+  }
+  .pp-token {
+    min-height: 40px;
+    padding: 6px 10px;
+  }
+  .pp-sug.ant-tag {
+    min-height: 40px;
+    padding: 8px 12px;
+  }
 }
 .pp-tag-dot {
   width: 9px;

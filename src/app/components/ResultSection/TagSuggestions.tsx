@@ -1,8 +1,9 @@
-import { FC } from "react";
+import React, { FC } from "react";
 import { Flex, Tag, Tooltip } from "antd";
 import { CheckCircleOutlined } from "@ant-design/icons";
 import { tagLabels } from "@/app/utils/tagLabels";
 import { TagItem } from "../types";
+import { useTouchOnly } from "../TagTooltipWrapper";
 
 interface TagSuggestionsProps {
   suggestedTags: TagItem[];
@@ -11,6 +12,9 @@ interface TagSuggestionsProps {
 }
 
 export const TagSuggestions: FC<TagSuggestionsProps> = ({ suggestedTags, exactMatchTag, onTagClick }) => {
+  // 触屏上点按即选中，hover Tooltip 会在 tap 后弹出遮挡视图；而芯片文本本身
+  // 已含母语+英文名（与 tip 内容重复），纯触屏直接不包 Tooltip。
+  const touchOnly = useTouchOnly();
   if (!exactMatchTag && suggestedTags.length === 0) return null;
 
   const chipBody = (tag: TagItem) => {
@@ -23,23 +27,29 @@ export const TagSuggestions: FC<TagSuggestionsProps> = ({ suggestedTags, exactMa
     );
   };
   const tip = (tag: TagItem) => (tag.langName && tag.langName !== tag.displayName ? `${tag.langName} - ${tag.displayName}` : tag.displayName);
+  // key 挂在外层：Tooltip 分支返回的是 Tooltip，触屏分支返回的是 Tag 本身
+  const wrap = (tag: TagItem, chip: React.ReactElement, key: React.Key) =>
+    touchOnly ? React.cloneElement(chip, { key }) : <Tooltip key={key} title={tip(tag)}>{chip}</Tooltip>;
 
   return (
     <Flex gap="6px 6px" wrap style={{ marginTop: 10 }}>
-      {exactMatchTag && (
-        <Tooltip title={tip(exactMatchTag)}>
+      {exactMatchTag &&
+        wrap(
+          exactMatchTag,
           <Tag icon={<CheckCircleOutlined />} className="pp-sug pp-sug-exact cursor-pointer" onClick={() => onTagClick(exactMatchTag)}>
             {chipBody(exactMatchTag)}
-          </Tag>
-        </Tooltip>
-      )}
-      {suggestedTags.map((tag, index) => (
-        <Tooltip key={index} title={tip(tag)}>
+          </Tag>,
+          "exact",
+        )}
+      {suggestedTags.map((tag, index) =>
+        wrap(
+          tag,
           <Tag className="pp-sug cursor-pointer" onClick={() => onTagClick(tag)}>
             {chipBody(tag)}
-          </Tag>
-        </Tooltip>
-      ))}
+          </Tag>,
+          index,
+        ),
+      )}
     </Flex>
   );
 };
