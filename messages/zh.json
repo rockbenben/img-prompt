@@ -119,10 +119,10 @@
     "languageEmpty": "没有匹配的语言",
     "skipToPrompt": "跳到提示词框",
     "qq": "QQ 群",
-    "lives": "千世书 人生模拟",
     "learndata": "LearnData 开源笔记",
     "primary": "主导航",
-    "close": "关闭"
+    "close": "关闭",
+    "hub365": "365 开源计划"
   },
   "Guide": {
     "fallbackNotice": "本页暂未翻译成你的语言，当前显示可用版本。"

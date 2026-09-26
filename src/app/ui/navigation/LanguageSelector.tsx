@@ -69,6 +69,8 @@ export function LanguageSelector() {
                   block
                   size={isMobile ? "middle" : "small"}
                   type={selected ? "primary" : "text"}
+                  // 选中行对读屏显式声明当前项；勾只是视觉冗余，藏掉
+                  aria-current={selected ? "true" : undefined}
                   style={{ justifyContent: "space-between", display: "flex", width: "100%", textAlign: "left" }}
                   onClick={() => {
                     handleLanguageChange(lang.key);
@@ -78,7 +80,7 @@ export function LanguageSelector() {
                     {lang.label}
                     <span style={{ opacity: 0.7, marginLeft: 6 }}>({lang.key})</span>
                   </span>
-                  {selected && <CheckOutlined />}
+                  {selected && <CheckOutlined aria-hidden />}
                 </Button>
               </Col>
             );
@@ -123,6 +125,7 @@ export function LanguageSelector() {
             closable={{ "aria-label": t("close") }}
             onClose={() => setLangOpen(false)}
             open={langOpen}
+            destroyOnHidden
             styles={{ body: { padding: 16 } }}>
             {renderLanguageList()}
           </Drawer>

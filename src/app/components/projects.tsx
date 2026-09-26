@@ -1,9 +1,9 @@
 import type { ReactNode } from "react";
-import { ExperimentOutlined, ToolOutlined, AppstoreOutlined, MessageOutlined, CompassOutlined, BookOutlined } from "@ant-design/icons";
+import { ExperimentOutlined, ToolOutlined, AppstoreOutlined, MessageOutlined, BookOutlined } from "@ant-design/icons";
 import { useTranslations, useLocale } from "next-intl";
 
 // 导航菜单（桌面/打包版）：本站入口（指南/反馈，外链至线上网站）+ 姊妹工具。
-// 外露：指南 · AI Short · AI 工具箱 · 反馈；「更多工具」收 LegendTalk / 千世书(zh) / LearnData(zh)。全部走 i18n。
+// 外露：指南 · AI Short · AI 工具箱 · 反馈；「更多工具」收 LegendTalk / LearnData(zh) / 365 总入口。全部走 i18n。
 // 全部外链，新标签页打开。
 export const useAppMenu = () => {
   const t = useTranslations();
@@ -28,18 +28,18 @@ export const useAppMenu = () => {
     ),
   });
 
+  // 与 web 仓对齐：单项按 star 说话，系列总入口（hub365）垫后。
   const otherToolsChildren = [
     ext("legendtalk", `https://talk.newzone.top/${locale}`, t("Nav.legendtalk"), <MessageOutlined />),
-    ...(isChinese
-      ? [ext("lives", "https://lives.newzone.top/", "千世书 人生模拟", <CompassOutlined />), ext("learndata", "https://newzone.top/", "LearnData 开源笔记", <BookOutlined />)]
-      : []),
+    ...(isChinese ? [ext("learndata", "https://newzone.top/", "LearnData 开源笔记", <BookOutlined />)] : []),
+    ext("hub365", "https://365.aishort.top/", t("Nav.hub365"), <AppstoreOutlined />),
   ];
 
   return [
     ext("guide", `https://prompt.newzone.top/${locale}/guide`, t("Nav.guide"), undefined, true),
     ext("aishort", aishortHref, t("Nav.aishort"), <ExperimentOutlined />, true),
     ext("tools", `https://tools.newzone.top/${locale}`, t("Nav.tools"), <ToolOutlined />, true),
-    { key: "otherTools", icon: <AppstoreOutlined />, label: t("Nav.otherTools"), children: otherToolsChildren },
+    { key: "otherTools", icon: <ToolOutlined />, label: t("Nav.otherTools"), children: otherToolsChildren },
     ext("feedback", `https://prompt.newzone.top/${locale}/feedback`, t("feedback.feedback1"), undefined, true),
   ];
 };

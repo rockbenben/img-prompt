@@ -819,6 +819,11 @@ summary:focus-visible,
   align-items: center;
   white-space: nowrap;
   margin-right: 18px;
+  /* 上下内边距把可点区撑到 ≥24px（WCAG 2.2 SC 2.5.8 目标尺寸），负外边距
+     抵消占位，视觉位置不变 */
+  padding-block: 6px;
+  margin-block: -6px;
+  flex-shrink: 0;
 }
 .pp-wordmark:hover {
   color: var(--pp-ink);
@@ -836,21 +841,48 @@ summary:focus-visible,
   background: transparent;
   border-bottom: none;
 }
-/* 主导航：菜单项 flex:none 不可压缩，收进「···」靠 rc-overflow 的 ResizeObserver，
-   而 RO 只在页面可见时投递 —— 未 hydrate / 后台标签页时折叠不发生，菜单会把整页
-   顶出横向滚动条（实测俄文 390 视口溢出 638px）。让菜单自己横滚兜底。
-   ⚠ 不能写 overflow:hidden —— 同样两种情形下会把菜单项无声裁掉，比滚动条更坏。
-   ⚠ min-width 46px = 折叠触发器「···」自身宽度，比它还窄连触发器都渲染不出来。 */
+/* 主导航：<992px 走汉堡 + 抽屉（见 Navigation.tsx），横排菜单整体让位；
+   ≥992px 恢复横排。取舍交给 CSS 媒体查询而不是 JS 断点 —— antd 的
+   Grid.useBreakpoint() 在 SSR 返回 {}，生产是 output:"export" 全站一份
+   预渲染 HTML，任何 JS 判据必有一侧首屏是错的。
+   ⚠ 992 = antd lg 断点，改断点只改这里，Navigation.tsx 里没有第二个判据。
+   ⚠ .pp-nav-burger 的隐藏要带 .ant-btn 提权：antd CSS-in-JS 注入在本文件
+     之后且同权重，平写 display:none 会被盖掉。
+   ⚠ ≥992 的横排仍保留 min-width + 横滚兜底：菜单项 flex:none 不可压缩，
+     收进「···」靠 rc-overflow 的 ResizeObserver，而 RO 只在页面可见时投递 ——
+     未 hydrate / 后台标签页时折叠不发生，菜单会把整页顶出横向滚动条（实测
+     俄文溢出 638px）。不能写 overflow:hidden（同两种情形会无声裁掉菜单项，
+     比滚动条更坏）；min-width 46px 是折叠触发器「···」自身宽度，再窄连
+     触发器都渲染不出来。 */
 .pp-nav {
-  display: flex;
-  flex: 1;
-  min-width: 46px;
-  overflow-x: auto;
-  overflow-y: hidden;
-  scrollbar-width: none;
-}
-.pp-nav::-webkit-scrollbar {
   display: none;
+}
+.ant-btn.pp-nav-burger {
+  flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .ant-btn.pp-nav-burger {
+    display: none;
+  }
+  .pp-nav {
+    display: flex;
+    flex: 1;
+    min-width: 46px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+  }
+  .pp-nav::-webkit-scrollbar {
+    display: none;
+  }
+}
+.pp-nav-left {
+  gap: 8px;
+}
+@media (min-width: 992px) {
+  .pp-nav-left {
+    gap: 24px;
+  }
 }
 /* 语言按钮：语言名显隐走 CSS 断点，不走 Grid.useBreakpoint() —— 后者 SSR 时返回
    {}，静态 HTML 永远出移动分支，hydrate 后桌面才补上语言名，顶栏每次加载都抖一下。

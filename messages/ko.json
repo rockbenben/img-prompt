@@ -119,10 +119,10 @@
     "languageEmpty": "일치하는 언어가 없습니다",
     "skipToPrompt": "프롬프트 상자로 건너뛰기",
     "qq": "QQ 그룹",
-    "lives": "천세서 인생 시뮬레이션",
     "learndata": "LearnData 오픈소스 노트",
     "primary": "기본 내비게이션",
-    "close": "닫기"
+    "close": "닫기",
+    "hub365": "365 오픈소스 계획"
   },
   "Guide": {
     "fallbackNotice": "이 페이지는 아직 한국어로 번역되지 않아 영어판을 표시합니다."

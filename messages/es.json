@@ -119,10 +119,10 @@
     "languageEmpty": "Ningún idioma coincide",
     "skipToPrompt": "Saltar al cuadro de prompt",
     "qq": "Grupo de QQ",
-    "lives": "Lives — Simulador de Vida",
     "learndata": "LearnData Notas de Código Abierto",
     "primary": "Navegación principal",
-    "close": "Cerrar"
+    "close": "Cerrar",
+    "hub365": "365 Plan de Código Abierto"
   },
   "Guide": {
     "fallbackNotice": "Esta página aún no está traducida a tu idioma; se muestra la versión en inglés."

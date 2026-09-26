@@ -119,10 +119,10 @@
     "languageEmpty": "Eşleşen dil yok",
     "skipToPrompt": "Prompt kutusuna atla",
     "qq": "QQ Grubu",
-    "lives": "Lives — Yaşam Simülatörü",
     "learndata": "LearnData Açık Kaynak Notları",
     "primary": "Ana gezinme",
-    "close": "Kapat"
+    "close": "Kapat",
+    "hub365": "365 Açık Kaynak Planı"
   },
   "Guide": {
     "fallbackNotice": "Bu sayfa henüz dilinize çevrilmedi; İngilizce sürüm gösteriliyor."

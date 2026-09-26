@@ -119,10 +119,10 @@
     "languageEmpty": "一致する言語がありません",
     "skipToPrompt": "プロンプト欄へスキップ",
     "qq": "QQグループ",
-    "lives": "千世書 人生シミュレーター",
     "learndata": "LearnData オープンソースノート",
     "primary": "メインナビゲーション",
-    "close": "閉じる"
+    "close": "閉じる",
+    "hub365": "365 オープンソース計画"
   },
   "Guide": {
     "fallbackNotice": "このページはまだ日本語に翻訳されていません。英語版を表示しています。"

@@ -119,10 +119,10 @@
     "languageEmpty": "Keine passende Sprache",
     "skipToPrompt": "Zum Prompt-Feld springen",
     "qq": "QQ-Gruppe",
-    "lives": "Lives — Lebenssimulator",
     "learndata": "LearnData Open-Source-Notizen",
     "primary": "Hauptnavigation",
-    "close": "Schließen"
+    "close": "Schließen",
+    "hub365": "365 Open-Source-Plan"
   },
   "Guide": {
     "fallbackNotice": "Diese Seite ist noch nicht in Ihrer Sprache verfügbar; die englische Version wird angezeigt."

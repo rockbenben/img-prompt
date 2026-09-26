@@ -119,10 +119,10 @@
     "languageEmpty": "No matching language",
     "skipToPrompt": "Skip to the prompt box",
     "qq": "QQ Group",
-    "lives": "Lives — Life Simulator",
     "learndata": "LearnData Open Source Notes",
     "primary": "Primary",
-    "close": "Close"
+    "close": "Close",
+    "hub365": "365 Open Source Plan"
   },
   "Guide": {
     "fallbackNotice": "This page hasn’t been translated into your language yet — showing the English version."
