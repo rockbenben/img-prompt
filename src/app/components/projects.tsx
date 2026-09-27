@@ -32,7 +32,8 @@ export const useAppMenu = () => {
   const otherToolsChildren = [
     ext("legendtalk", `https://talk.newzone.top/${locale}`, t("Nav.legendtalk"), <MessageOutlined />),
     ...(isChinese ? [ext("learndata", "https://newzone.top/", "LearnData 开源笔记", <BookOutlined />)] : []),
-    // 365 站只有中/英两语（SPA，?lang= 切换，无参默认中文）：简繁都给 zh，其余一律 en
+    // 365 站只有中/英两语（SPA）。站内语言决策链：?lang= > localStorage > 浏览器语言；
+    // 参数最高优先，显式传参才能让落地语言跟随本站，而不是访客的浏览器。
     ext("hub365", `https://365.aishort.top/?lang=${locale.startsWith("zh") ? "zh" : "en"}`, t("Nav.hub365"), <AppstoreOutlined />),
   ];
 
