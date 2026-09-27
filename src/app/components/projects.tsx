@@ -41,7 +41,9 @@ export const useAppMenu = () => {
     ext("guide", `https://prompt.newzone.top/${locale}/guide`, t("Nav.guide"), undefined, true),
     ext("aishort", aishortHref, t("Nav.aishort"), <ExperimentOutlined />, true),
     ext("tools", `https://tools.newzone.top/${locale}`, t("Nav.tools"), <ToolOutlined />, true),
-    { key: "otherTools", icon: <ToolOutlined />, label: t("Nav.otherTools"), children: otherToolsChildren },
+    // ⚠ 父级用 AppstoreOutlined 而非 web 仓的 ToolOutlined：standalone 给
+    //   条目配了图标，ToolOutlined 已被「AI 工具箱」占用，同排不能撞。
+    { key: "otherTools", icon: <AppstoreOutlined />, label: t("Nav.otherTools"), children: otherToolsChildren },
     ext("feedback", `https://prompt.newzone.top/${locale}/feedback`, t("feedback.feedback1"), undefined, true),
   ];
 };
