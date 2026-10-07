@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "IMGPrompt — Pembuat Visual Prompt AI Gratis",
+    "title": "IMGPrompt — Pembuat Prompt Visual AI Gratis (Midjourney, FLUX, Veo)",
     "description": "Pembuat prompt AI gratis dan open source untuk Midjourney, FLUX, Nano Banana, Veo, Kling. Klik tag dwibahasa — tanpa login, di browser.",
     "ogTitle": "IMGPrompt — Buat prompt AI dengan satu klik",
     "ogDescription": "Klik tag dwibahasa untuk menyusun prompt AI untuk Midjourney, FLUX, Nano Banana, Veo, Kling. Gratis, lokal, open source."
@@ -18,7 +18,7 @@
     "retry": "Coba lagi"
   },
   "ResultSection": {
-    "tooltip-light": "Sisipkan prompt pencahayaan (pencahayaan film, senja, dll.)",
+    "tooltip-light": "Sisipkan prompt pencahayaan potret (pencahayaan film, sinar senja, dll.)",
     "prompt-light": "Pencahayaan",
     "tooltip-polish": "Sisipkan prompt kualitas (resolusi/detail/gaya)",
     "prompt-polish": "Kualitas",
@@ -37,7 +37,7 @@
     "tooltip-randomColor": "Ganti warna secara acak",
     "button-randomcolor": "Warna acak",
     "prompt-translation": "Terjemahan",
-    "translating": "Menerjemahkan...",
+    "translating": "Menerjemahkan…",
     "randomColor-success": "{count} kata warna telah diganti",
     "randomColor-noMatch": "Tidak ada kata warna untuk diganti",
     "translateLabel": "Terjemahkan & sisipkan",
@@ -128,6 +128,6 @@
     "fallbackNotice": "Halaman ini belum diterjemahkan ke bahasa Anda; menampilkan versi bahasa Inggris."
   },
   "Footer": {
-    "signature": "Gratis & sumber terbuka · Tanpa login · Berjalan di peramban Anda"
+    "signature": "Gratis & sumber terbuka · Tanpa login · Berjalan di browser Anda"
   }
 }

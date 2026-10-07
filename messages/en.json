@@ -37,7 +37,7 @@
     "tooltip-randomColor": "Randomly replace color words",
     "button-randomcolor": "Randomize colors",
     "prompt-translation": "Translation",
-    "translating": "Translating...",
+    "translating": "Translating…",
     "randomColor-success": "Replaced {count} color word(s)",
     "randomColor-noMatch": "No color words to replace",
     "translateLabel": "Translate & insert",

@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "IMGPrompt — أداة مجانية لبناء موجهات الذكاء الاصطناعي",
-    "description": "أداة مجانية ومفتوحة المصدر لبناء موجهات لـ Midjourney وFLUX وNano Banana وVeo وKling. علامات ثنائية اللغة — بلا تسجيل، يعمل في المتصفح.",
+    "title": "IMGPrompt — أداة مجانية لبناء موجهات الذكاء الاصطناعي (Midjourney, FLUX, Veo)",
+    "description": "أداة مجانية ومفتوحة المصدر لبناء موجهات لـ Midjourney وFLUX وNano Banana وVeo وKling. علامات ثنائية اللغة — بلا تسجيل، تعمل في المتصفح.",
     "ogTitle": "IMGPrompt — أنشئ موجهات الذكاء الاصطناعي بنقرة",
-    "ogDescription": "انقر على علامات ثنائية اللغة لإنشاء موجهات الذكاء الاصطناعي لـ Midjourney وFLUX وVeo. مجاني ومحلي ومفتوح المصدر."
+    "ogDescription": "انقر على علامات ثنائية اللغة لإنشاء موجهات الذكاء الاصطناعي لـ Midjourney وFLUX وNano Banana وVeo وKling. مجاني ومحلي ومفتوح المصدر."
   },
   "ToolPage": {
     "section1": "الموضوع",
@@ -13,12 +13,12 @@
     "fallback-other": "أخرى",
     "tagMode-multicolor": "متعدد الألوان",
     "tagMode-monochrome": "أحادي اللون",
-    "tagsLoading": "جارٍ تحميل الوسوم…",
-    "tagsError": "تعذّر تحميل الوسوم",
+    "tagsLoading": "جارٍ تحميل العلامات…",
+    "tagsError": "تعذّر تحميل العلامات",
     "retry": "إعادة المحاولة"
   },
   "ResultSection": {
-    "tooltip-light": "إدراج موجهات الإضاءة (إضاءة سينمائية، غروب، إلخ)",
+    "tooltip-light": "إدراج موجهات إضاءة بورتريه (إضاءة سينمائية، غروب، إلخ)",
     "prompt-light": "الإضاءة",
     "tooltip-polish": "إدراج موجهات الجودة (الدقة/التفاصيل/الأسلوب)",
     "prompt-polish": "الجودة",
@@ -37,11 +37,11 @@
     "tooltip-randomColor": "تغيير الألوان عشوائياً",
     "button-randomcolor": "ألوان عشوائية",
     "prompt-translation": "الترجمة",
-    "translating": "جاري الترجمة...",
+    "translating": "جارٍ الترجمة…",
     "randomColor-success": "تم استبدال {count} كلمة لون",
     "randomColor-noMatch": "لا توجد كلمات لون للاستبدال",
     "translateLabel": "ترجم وأدرج",
-    "placeholder-prompt": "اختر الوسوم ليُبنى تلقائيًا، أو اكتب موجّهك بنفسك",
+    "placeholder-prompt": "اختر العلامات ليُبنى تلقائيًا، أو اكتب موجّهك بنفسك",
     "placeholder-translate": "مثال: قطة عند الغروب"
   },
   "CopyToClipboard": {
@@ -62,8 +62,8 @@
     "placeholder": "يرجى ترك رسالة، لا يلزم تسجيل الدخول (أدخل بريدك الإلكتروني لتلقي إشعارات الرد)"
   },
   "Home": {
-    "h1": "IMGPrompt · اختر البرومبت كما تختار <hl>الألوان</hl>",
-    "tagline": "‏5000+ وسم ثنائي اللغة · برومبتات صور/فيديو احترافية في ثوانٍ · Midjourney / FLUX / GPT-Image / Veo / Kling"
+    "h1": "IMGPrompt · اختر الموجه كما تختار <hl>الألوان</hl>",
+    "tagline": "‏5000+ علامة ثنائية اللغة · موجهات صور/فيديو احترافية في ثوانٍ · Midjourney / FLUX / GPT-Image / Veo / Kling"
   },
   "FAQ": {
     "title": "الأسئلة الشائعة",

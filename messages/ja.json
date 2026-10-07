@@ -1,12 +1,12 @@
 {
   "Metadata": {
-    "title": "IMGPrompt — 無料のAI画像プロンプトビルダー",
-    "description": "無料・オープンソースのビジュアルAIプロンプトビルダー。Midjourney/FLUX/Veo 向けの画像・動画プロンプトに対応。ローカル動作・ログイン不要。",
+    "title": "IMGPrompt — 無料のAI画像プロンプトビルダー（Midjourney/FLUX/Veo）",
+    "description": "無料・オープンソースのビジュアルAIプロンプトビルダー。Midjourney/FLUX/Nano Banana/Veo/Kling 向けの画像・動画プロンプトに対応。ローカル動作・ログイン不要。",
     "ogTitle": "IMGPrompt — クリックだけでAIプロンプト生成",
-    "ogDescription": "二言語タグをクリックして Midjourney・FLUX・Veo 向けのAI画像・動画プロンプトを瞬時に作成。完全無料・ローカル動作。"
+    "ogDescription": "二言語タグをクリックして Midjourney・FLUX・Nano Banana・Veo・Kling 向けのAI画像・動画プロンプトを瞬時に作成。完全無料・ローカル動作。"
   },
   "ToolPage": {
-    "section1": "主体",
+    "section1": "被写体",
     "section2": "カテゴリ",
     "section3": "タグ",
     "currentSelection": "選択済み",
@@ -18,8 +18,8 @@
     "retry": "再試行"
   },
   "ResultSection": {
-    "tooltip-light": "ポートレート照明のプロンプトを挿入（映画照明、夕暮れの光など）",
-    "prompt-light": "照明",
+    "tooltip-light": "ポートレート・ライティングのプロンプトを挿入（フィルム・ライティング、夕暮れの光など）",
+    "prompt-light": "ライティング",
     "tooltip-polish": "画質向上プロンプトを挿入（解像度/ディテール/スタイル）",
     "prompt-polish": "画質",
     "insertSuccess": "挿入完了",

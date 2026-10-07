@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "IMGPrompt — 무료 시각적 AI 프롬프트 빌더",
-    "description": "무료 오픈소스 시각적 AI 프롬프트 빌더. 이중 언어 태그 클릭으로 Midjourney/FLUX/Veo용 이미지·영상 프롬프트 생성. 로컬 작동·로그인 불필요.",
+    "title": "IMGPrompt — 무료 시각적 AI 프롬프트 빌더 (Midjourney·FLUX·Veo)",
+    "description": "무료 오픈소스 시각적 AI 프롬프트 빌더. 이중 언어 태그 클릭으로 Midjourney/FLUX/Nano Banana/Veo/Kling용 이미지·영상 프롬프트 생성. 로컬 작동·로그인 불필요.",
     "ogTitle": "IMGPrompt — 클릭만으로 AI 프롬프트 생성",
-    "ogDescription": "이중 언어 태그를 클릭해 Midjourney·FLUX·Veo용 AI 이미지/영상 프롬프트 생성. 무료, 로컬, 오픈소스."
+    "ogDescription": "이중 언어 태그를 클릭해 Midjourney·FLUX·Nano Banana·Veo·Kling용 AI 이미지/영상 프롬프트 생성. 무료, 로컬, 오픈소스."
   },
   "ToolPage": {
     "section1": "주제",
@@ -24,7 +24,7 @@
     "prompt-polish": "화질",
     "insertSuccess": "삽입 완료",
     "tooltip-negative": "부정 프롬프트를 클립보드에 복사 (결함 방지)",
-    "prompt-negative": "부정",
+    "prompt-negative": "부정 프롬프트",
     "prompt": "프롬프트",
     "button-copy": "복사",
     "clearSuccess": "삭제 완료",
@@ -81,7 +81,7 @@
     },
     "q8": {
       "question": "IMGPrompt는 Veo, Kling, Runway 같은 AI 영상 모델을 지원하나요?",
-      "answer": "예. IMGPrompt는 Midjourney, FLUX, Nano Banana 같은 이미지 모델뿐 아니라 Google Veo, Kling, Seedance, Runway, Hailuo 같은 영상 모델용 프롬프트도 생성합니다. 대부분의 프롬프트 사이트는 이미지 모델만 지원하므로, IMGPrompt는 새로운 AI 영상 생성을 지원하는 몇 안 되는 무료 도구입니다."
+      "answer": "네. IMGPrompt는 Midjourney, FLUX, Nano Banana 같은 이미지 모델뿐 아니라 Google Veo, Kling, Seedance, Runway, Hailuo 같은 영상 모델용 프롬프트도 생성합니다. 대부분의 프롬프트 사이트는 이미지 모델만 지원하므로, IMGPrompt는 새로운 AI 영상 생성을 지원하는 몇 안 되는 무료 도구입니다."
     },
     "q9": {
       "question": "영어를 못해도 IMGPrompt를 사용할 수 있나요?",

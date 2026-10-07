@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - 免費視覺化 AI 繪畫提示詞詞典",
-    "description": "免費開源 AI 提示詞詞典。點選中英雙語標籤，秒出 Midjourney、FLUX、Veo 等模型的圖像/影片提示詞。瀏覽器本機執行，無需登入。",
-    "ogTitle": "IMGPrompt - 中文 AI 繪畫提示詞詞典",
-    "ogDescription": "點選雙語標籤，秒出 Midjourney、FLUX、Veo 等 AI 圖像/影片提示詞。免費、本機執行、無需登入。"
+    "title": "IMGPrompt — 免費視覺化 AI 繪畫提示詞詞典（Midjourney/FLUX/Veo）",
+    "description": "免費開源 AI 提示詞詞典。點選中英雙語標籤，秒出 Midjourney、FLUX、Nano Banana、Veo、Kling 等模型的圖像/影片提示詞。瀏覽器本機執行，無需登入。",
+    "ogTitle": "IMGPrompt — 中文 AI 繪畫提示詞詞典",
+    "ogDescription": "點選雙語標籤，秒出 Midjourney、FLUX、Nano Banana、Veo、Kling 等 AI 圖像/影片提示詞。免費、本機執行、無需登入。"
   },
   "ToolPage": {
     "section1": "主體",
@@ -18,12 +18,12 @@
     "retry": "重試"
   },
   "ResultSection": {
-    "tooltip-light": "插入人像打光提示詞（電影光效、暮光射線等）",
+    "tooltip-light": "插入人像打光提示詞（電影光效、暮光光束等）",
     "prompt-light": "人像打光",
     "tooltip-polish": "插入畫質增強提示詞（解析度增強/細節銳化/藝術風格強化）",
     "prompt-polish": "畫質優化",
     "insertSuccess": "已插入提示詞",
-    "tooltip-negative": "複製負面提示詞到剪貼簿（避免常見瑕疵要素）",
+    "tooltip-negative": "複製負面提示詞到剪貼簿（避免常見瑕疵）",
     "prompt-negative": "負面詞",
     "prompt": "提示詞",
     "button-copy": "複製",
@@ -95,7 +95,7 @@
       "影片模型：Veo、Kling、Runway、Hailuo、Seedance",
       "18 種語言介面 + 中英雙語標籤，無需英文基礎",
       "點選式標籤組合提示詞",
-      "內建光線與畫質增強預設",
+      "內建打光與畫質增強預設",
       "精選負面提示詞庫",
       "一鍵翻譯為英文",
       "智慧標籤推薦",

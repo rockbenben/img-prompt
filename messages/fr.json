@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "IMGPrompt — Générateur visuel gratuit de prompts IA",
-    "description": "Constructeur de prompts IA gratuit et open source pour Midjourney, FLUX, Veo, Kling. Cliquez sur des tags bilingues — sans inscription.",
+    "title": "IMGPrompt — Générateur visuel gratuit de prompts IA (Midjourney, FLUX, Veo)",
+    "description": "Constructeur de prompts IA gratuit et open source pour Midjourney, FLUX, Nano Banana, Veo, Kling. Cliquez sur des tags bilingues — sans inscription.",
     "ogTitle": "IMGPrompt — Créez vos prompts IA en un clic",
     "ogDescription": "Cliquez sur des tags bilingues pour composer des prompts IA pour Midjourney, FLUX, Nano Banana, Veo, Kling. Gratuit, local, open source."
   },
@@ -18,7 +18,7 @@
     "retry": "Réessayer"
   },
   "ResultSection": {
-    "tooltip-light": "Insérer des prompts d'éclairage (éclairage cinématique, rayons crépusculaires, etc.)",
+    "tooltip-light": "Insérer des prompts d'éclairage de portrait (éclairage cinématographique, rayons crépusculaires, etc.)",
     "prompt-light": "Éclairage",
     "tooltip-polish": "Insérer des prompts de qualité (résolution/détail/style)",
     "prompt-polish": "Qualité",
@@ -37,7 +37,7 @@
     "tooltip-randomColor": "Remplacer les mots de couleur aléatoirement",
     "button-randomcolor": "Couleurs aléatoires",
     "prompt-translation": "Traduction",
-    "translating": "Traduction...",
+    "translating": "Traduction…",
     "randomColor-success": "{count} mot(s) de couleur remplacé(s)",
     "randomColor-noMatch": "Aucun mot de couleur à remplacer",
     "translateLabel": "Traduire et insérer",
@@ -47,7 +47,7 @@
   "CopyToClipboard": {
     "empty": "Le contenu est vide, rien à copier",
     "unsupported": "Votre navigateur ne prend pas en charge les opérations du presse-papiers, veuillez essayer de copier manuellement ou d'utiliser un autre navigateur",
-    "success": "Copié avec succès, vous pouvez le coller dans votre outil de dessin IA",
+    "success": "Copié avec succès, vous pouvez le coller dans votre outil de génération d'images IA",
     "failure": "La copie a échoué, veuillez copier manuellement"
   },
   "feedback": {
@@ -125,7 +125,7 @@
     "hub365": "365 Open Source"
   },
   "Guide": {
-    "fallbackNotice": "Cette page n’est pas encore traduite dans votre langue ; version anglaise affichée."
+    "fallbackNotice": "Cette page n'est pas encore traduite dans votre langue ; version anglaise affichée."
   },
   "Footer": {
     "signature": "Gratuit et open source · Sans compte · Tout dans votre navigateur"

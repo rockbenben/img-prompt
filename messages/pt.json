@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "IMGPrompt — Construtor Visual Grátis de Prompts de IA",
+    "title": "IMGPrompt — Construtor Visual Grátis de Prompts de IA (Midjourney, FLUX, Veo)",
     "description": "Construtor de prompts de IA grátis e open source para Midjourney, FLUX, Nano Banana, Veo, Kling. Clique em tags bilíngues — sem login, no navegador.",
     "ogTitle": "IMGPrompt — Gere prompts de IA com um clique",
     "ogDescription": "Clique em tags bilíngues para compor prompts de IA para Midjourney, FLUX, Nano Banana, Veo, Kling. Grátis, local, open source."
@@ -13,12 +13,12 @@
     "fallback-other": "Outros",
     "tagMode-multicolor": "Multicolor",
     "tagMode-monochrome": "Monocromático",
-    "tagsLoading": "A carregar etiquetas…",
-    "tagsError": "As etiquetas não carregaram",
+    "tagsLoading": "Carregando tags…",
+    "tagsError": "As tags não carregaram",
     "retry": "Tentar de novo"
   },
   "ResultSection": {
-    "tooltip-light": "Inserir prompts de iluminação (filme, crepúsculo, etc.)",
+    "tooltip-light": "Inserir prompts de iluminação de retrato (luz de cinema, crepúsculo, etc.)",
     "prompt-light": "Iluminação",
     "tooltip-polish": "Inserir prompts de qualidade (resolução/detalhe/estilo)",
     "prompt-polish": "Qualidade",
@@ -37,11 +37,11 @@
     "tooltip-randomColor": "Substituir cores aleatoriamente",
     "button-randomcolor": "Cores aleatórias",
     "prompt-translation": "Tradução",
-    "translating": "Traduzindo...",
+    "translating": "Traduzindo…",
     "randomColor-success": "{count} palavra(s) de cor substituída(s)",
     "randomColor-noMatch": "Nenhuma palavra de cor para substituir",
     "translateLabel": "Traduzir e inserir",
-    "placeholder-prompt": "Escolha etiquetas para montar, ou escreva o seu próprio prompt",
+    "placeholder-prompt": "Escolha as tags para montar, ou escreva seu próprio prompt",
     "placeholder-translate": "ex.: um gato ao pôr do sol"
   },
   "CopyToClipboard": {

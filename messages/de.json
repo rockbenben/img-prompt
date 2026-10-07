@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "IMGPrompt — Kostenloser visueller KI-Prompt-Builder",
+    "title": "IMGPrompt — Kostenloser visueller KI-Prompt-Builder (Midjourney, FLUX, Veo)",
     "description": "Kostenloser Open-Source-Prompt-Builder für Midjourney, FLUX, Nano Banana, Veo, Kling. Zweisprachige Tags anklicken — kein Login, läuft im Browser.",
     "ogTitle": "IMGPrompt — KI-Kunstprompts auf einen Klick",
     "ogDescription": "Klicke zweisprachige Tags, um Profi-Prompts für Midjourney, FLUX, Nano Banana, Veo, Kling zu bauen. Kostenlos, lokal, Open Source."
@@ -18,12 +18,12 @@
     "retry": "Erneut versuchen"
   },
   "ResultSection": {
-    "tooltip-light": "Beleuchtungs-Prompts einfügen (Filmbeleuchtung, Dämmerung usw.)",
+    "tooltip-light": "Porträt-Beleuchtungs-Prompts einfügen (Filmbeleuchtung, Dämmerung usw.)",
     "prompt-light": "Beleuchtung",
     "tooltip-polish": "Qualitäts-Prompts einfügen (Auflösung/Detail/Stil)",
     "prompt-polish": "Qualität",
     "insertSuccess": "Eingefügt",
-    "tooltip-negative": "Negative Prompts in Zwischenablage kopieren (Fehler vermeiden)",
+    "tooltip-negative": "Negativ-Prompts in die Zwischenablage kopieren (Fehler vermeiden)",
     "prompt-negative": "Negativ",
     "prompt": "Prompt",
     "button-copy": "Kopieren",
@@ -37,7 +37,7 @@
     "tooltip-randomColor": "Farbwörter zufällig ersetzen",
     "button-randomcolor": "Farben zufällig ändern",
     "prompt-translation": "Übersetzung",
-    "translating": "Wird übersetzt...",
+    "translating": "Wird übersetzt…",
     "randomColor-success": "{count} Farbwörter ersetzt",
     "randomColor-noMatch": "Keine Farbwörter zu ersetzen",
     "translateLabel": "Übersetzen & einfügen",
@@ -95,7 +95,7 @@
       "Videomodelle: Veo, Kling, Runway, Hailuo, Seedance",
       "18-sprachige UI mit zweisprachigen visuellen Tags — keine Englischkenntnisse nötig",
       "Tagbasierte Prompt-Komposition per Klick",
-      "Eingebaute Licht- und Qualitäts-Presets",
+      "Eingebaute Beleuchtungs- und Qualitäts-Presets",
       "Kuratierte Negativprompt-Bibliothek",
       "Ein-Klick-Übersetzung ins Englische",
       "Intelligente Tag-Empfehlungen",

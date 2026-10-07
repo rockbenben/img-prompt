@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "IMGPrompt — Constructor Visual Gratis de Prompts IA",
-    "description": "Constructor de prompts IA gratis y open source para Midjourney, FLUX, Veo, Kling. Clic en etiquetas bilingües — sin login.",
+    "title": "IMGPrompt — Constructor Visual Gratis de Prompts IA (Midjourney, FLUX, Veo)",
+    "description": "Constructor de prompts IA gratis y open source para Midjourney, FLUX, Nano Banana, Veo, Kling. Clic en etiquetas bilingües — sin login.",
     "ogTitle": "IMGPrompt — Genera prompts IA con un clic",
     "ogDescription": "Haz clic en etiquetas bilingües para componer prompts IA para Midjourney, FLUX, Nano Banana, Veo, Kling. Gratis, local, open source."
   },
@@ -18,7 +18,7 @@
     "retry": "Reintentar"
   },
   "ResultSection": {
-    "tooltip-light": "Insertar prompts de iluminación (iluminación cinematográfica, rayos crepusculares, etc.)",
+    "tooltip-light": "Insertar prompts de iluminación de retrato (iluminación cinematográfica, rayos crepusculares, etc.)",
     "prompt-light": "Iluminación",
     "tooltip-polish": "Insertar prompts de calidad (resolución/detalle/estilo)",
     "prompt-polish": "Calidad",
@@ -37,17 +37,17 @@
     "tooltip-randomColor": "Reemplazar palabras de color aleatoriamente",
     "button-randomcolor": "Colores aleatorios",
     "prompt-translation": "Traducción",
-    "translating": "Traduciendo...",
+    "translating": "Traduciendo…",
     "randomColor-success": "Se reemplazaron {count} palabras de color",
     "randomColor-noMatch": "No hay palabras de color para reemplazar",
     "translateLabel": "Traducir e insertar",
     "placeholder-prompt": "Elige etiquetas para componerlo, o escribe tu propio prompt",
-    "placeholder-translate": "p. ej. un gato al atardecer"
+    "placeholder-translate": "p. ej., un gato al atardecer"
   },
   "CopyToClipboard": {
     "empty": "El contenido está vacío, nada que copiar.",
     "unsupported": "Tu navegador no admite operaciones de portapapeles; intenta copiar manualmente o usa otro navegador",
-    "success": "Copiado correctamente, ya puedes pegarlo en tu herramienta de dibujo IA",
+    "success": "Copiado correctamente, ya puedes pegarlo en tu herramienta de imágenes IA",
     "failure": "Error al copiar, copia el contenido manualmente"
   },
   "feedback": {
@@ -80,21 +80,21 @@
       "answer": "IMGPrompt es un compositor de prompts por clic, no un buscador de prompts. PromptHero, Lexica y PromptBase te permiten navegar o comprar prompts ajenos; IMGPrompt te permite componer el tuyo haciendo clic en etiquetas visuales bilingües. Funciona enteramente en tu navegador sin login ni subida, mientras que esas plataformas generalmente requieren una cuenta para el acceso completo."
     },
     "q8": {
-      "question": "¿IMGPrompt soporta modelos de video IA como Veo, Kling y Runway?",
-      "answer": "Sí. IMGPrompt genera prompts para modelos de video como Google Veo, Kling, Seedance, Runway y Hailuo, además de modelos de imagen. La mayoría de sitios de prompts solo cubren modelos de imagen, por lo que IMGPrompt es una de las pocas herramientas gratuitas que cubre la nueva ola de generación de video IA."
+      "question": "¿IMGPrompt soporta modelos de vídeo IA como Veo, Kling y Runway?",
+      "answer": "Sí. IMGPrompt genera prompts para modelos de vídeo como Google Veo, Kling, Seedance, Runway y Hailuo, además de modelos de imagen. La mayoría de sitios de prompts solo cubren modelos de imagen, por lo que IMGPrompt es una de las pocas herramientas gratuitas que cubre la nueva ola de generación de vídeo IA."
     },
     "q9": {
       "question": "¿Puedo usar IMGPrompt sin saber inglés?",
-      "answer": "Sí. La interfaz está disponible en 18 idiomas, y cada etiqueta muestra tanto inglés como tu idioma local. Haces clic en etiquetas en tu idioma; IMGPrompt arma el prompt en inglés (que es lo que los modelos IA de imagen y video realmente necesitan). El botón Traducir también convierte cualquier frase de tu idioma en prompt en inglés con un clic."
+      "answer": "Sí. La interfaz está disponible en 18 idiomas, y cada etiqueta muestra tanto inglés como tu idioma local. Haces clic en etiquetas en tu idioma; IMGPrompt arma el prompt en inglés (que es lo que los modelos IA de imagen y vídeo realmente necesitan). El botón Traducir también convierte cualquier frase de tu idioma en prompt en inglés con un clic."
     }
   },
   "Schema": {
     "featureList": [
       "Gratis y open source (MIT) — sin login",
       "Modelos de imagen: Midjourney, FLUX, Nano Banana, GPT-image-2, Stable Diffusion, DALL·E",
-      "Modelos de video: Veo, Kling, Runway, Hailuo, Seedance",
+      "Modelos de vídeo: Veo, Kling, Runway, Hailuo, Seedance",
       "Interfaz en 18 idiomas con etiquetas visuales bilingües — sin dominio del inglés",
-      "Composición de prompts por etiquetas cliqueables",
+      "Composición de prompts por etiquetas seleccionables con un clic",
       "Presets integrados de iluminación y calidad",
       "Biblioteca de prompts negativos curada",
       "Traducción al inglés en un clic",

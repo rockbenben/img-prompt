@@ -1,9 +1,9 @@
 {
   "Metadata": {
-    "title": "IMGPrompt - 免费可视化 AI 绘画提示词词典",
-    "description": "免费开源 AI 提示词词典。点选中英双语标签，秒出 Midjourney、FLUX、Veo 等模型的图像/视频提示词。浏览器本地运行，无需登录。",
-    "ogTitle": "IMGPrompt - 中文 AI 绘画提示词词典",
-    "ogDescription": "点选双语标签，秒出 Midjourney、FLUX、Veo 等 AI 图像/视频提示词。免费、本地、无需登录。"
+    "title": "IMGPrompt — 免费可视化 AI 绘画提示词词典（Midjourney/FLUX/Veo）",
+    "description": "免费开源 AI 提示词词典。点选中英双语标签，秒出 Midjourney、FLUX、Nano Banana、Veo、Kling 等模型的图像/视频提示词。浏览器本地运行，无需登录。",
+    "ogTitle": "IMGPrompt — 中文 AI 绘画提示词词典",
+    "ogDescription": "点选双语标签，秒出 Midjourney、FLUX、Nano Banana、Veo、Kling 等 AI 图像/视频提示词。免费、本地、无需登录。"
   },
   "ToolPage": {
     "section1": "主体",
@@ -18,12 +18,12 @@
     "retry": "重试"
   },
   "ResultSection": {
-    "tooltip-light": "插入人像布光提示词（电影光效、暮光射线等）",
+    "tooltip-light": "插入人像布光提示词（电影光效、暮光光束等）",
     "prompt-light": "人像布光",
     "tooltip-polish": "插入画质增强提示词（分辨率增强/细节锐化/艺术风格强化）",
     "prompt-polish": "画质优化",
     "insertSuccess": "已插入提示词",
-    "tooltip-negative": "复制负面提示词到剪贴板（避免常见瑕疵要素）",
+    "tooltip-negative": "复制负面提示词到剪贴板（避免常见瑕疵）",
     "prompt-negative": "负面词",
     "prompt": "提示词",
     "button-copy": "复制",
@@ -59,7 +59,7 @@
     "reaction2": "有点酷",
     "reaction3": "啥玩意",
     "reaction4": "看不懂",
-    "placeholder": "请留言，无需登录（填写邮箱可获回复提醒）"
+    "placeholder": "请留言，无需登录（填写邮箱可获得回复提醒）"
   },
   "Home": {
     "h1": "IMGPrompt · 像挑<hl>颜料</hl>一样，挑提示词",
@@ -95,7 +95,7 @@
       "视频模型：Veo、Kling、Runway、Hailuo、Seedance",
       "18 种语言界面 + 中英双语标签，无需英文基础",
       "点选式标签组合提示词",
-      "内置光线与画质增强预设",
+      "内置布光与画质增强预设",
       "精选负面提示词库",
       "一键翻译为英文",
       "智能标签推荐",

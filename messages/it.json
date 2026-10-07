@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "IMGPrompt — Costruttore Visuale Gratuito di Prompt IA",
+    "title": "IMGPrompt — Costruttore Visuale Gratuito di Prompt IA (Midjourney, FLUX, Veo)",
     "description": "Costruttore di prompt IA gratuito e open source per Midjourney, FLUX, Nano Banana, Veo, Kling. Clicca tag bilingui — senza login, nel browser.",
     "ogTitle": "IMGPrompt — Genera prompt IA con un clic",
     "ogDescription": "Clicca i tag bilingui per comporre prompt IA per Midjourney, FLUX, Nano Banana, Veo, Kling. Gratis, locale, open source."
@@ -37,7 +37,7 @@
     "tooltip-randomColor": "Sostituisci casualmente le parole di colore",
     "button-randomcolor": "Colori casuali",
     "prompt-translation": "Traduzione",
-    "translating": "Traduzione in corso...",
+    "translating": "Traduzione in corso…",
     "randomColor-success": "Sostituite {count} parole di colore",
     "randomColor-noMatch": "Nessuna parola di colore da sostituire",
     "translateLabel": "Traduci e inserisci",
@@ -48,7 +48,7 @@
     "empty": "Il contenuto è vuoto, niente da copiare",
     "unsupported": "Il tuo browser non supporta l'accesso agli appunti, prova a copiare manualmente o usa un altro browser",
     "success": "Copiato correttamente, puoi incollarlo nello strumento di disegno IA",
-    "failure": "Copia non riuscita, si prega di copiare manualmente"
+    "failure": "Copia non riuscita, copia manualmente"
   },
   "feedback": {
     "feedback1": "Feedback e suggerimenti",
