@@ -1,6 +1,5 @@
 "use client";
 import { useState, useMemo, useCallback, useEffect, useRef, FC } from "react";
-import { useSearchParams } from "next/navigation";
 import { Row, Col, Flex, Segmented, Spin, Button } from "antd";
 
 import tagsData2 from "@/app/data/prompt-custom.json";
@@ -56,7 +55,6 @@ const resolveCategoryParam = (param: string | null, list: string[]): string | nu
 
 const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObject, firstChunk, firstChunkTotal }) => {
   const t = useTranslations("ToolPage");
-  const searchParams = useSearchParams();
   const locale = useLocale();
 
   const showGloss = locale !== "en";
@@ -85,34 +83,10 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
   const [selectedTags, setSelectedTags] = useState<TagItem[]>([]);
   const [useColorBlocks, setUseColorBlocks] = useLocalStorage<boolean>("useColorBlocks", true);
 
-  // 已选标签会话级持久化：站内往返（指南页）与误刷新不丢编辑现场；
-  // 新标签页/新会话从空开始。挂载后恢复以保证 SSG hydration 一致。
-  // 按 locale 分键：标签的 langName/object/attribute 是语言相关数据，
-  // 跨语言恢复会把 zh 的中文注释和分组头带进 en 界面。
-  // 因此「切换界面语言 = 当前提示词清空」是刻意行为，不是 bug——各语言的编辑
-  // 现场各存各的，切回原语言时原样还在。别改成 locale 无关的存储。
-  const tagStoreKey = `imgprompt-selected-tags:${locale}`;
-  useEffect(() => {
-    try {
-      const raw = sessionStorage.getItem(tagStoreKey);
-      if (raw) {
-        const saved = JSON.parse(raw) as TagItem[];
-        if (Array.isArray(saved) && saved.length > 0) {
-          // eslint-disable-next-line react-hooks/set-state-in-effect
-          setSelectedTags(saved);
-        }
-      }
-    } catch {
-      /* 损坏的存档直接忽略 */
-    }
-  }, [tagStoreKey]);
-  useEffect(() => {
-    try {
-      sessionStorage.setItem(tagStoreKey, JSON.stringify(selectedTags));
-    } catch {
-      /* 配额/隐私模式下静默放弃 */
-    }
-  }, [tagStoreKey, selectedTags]);
+  // 已选标签的会话级持久化（站内往返指南页、误刷新不丢编辑现场）在
+  // usePromptLogic 里读写：那里同时管着提示词草稿，两份存档必须一起恢复，
+  // 拆到两个组件就会出现「谁先恢复」的顺序依赖（子组件 effect 更早跑，
+  // 父组件的恢复会把它覆盖，手写的草稿因此在刷新后第一次点标签时消失）。
 
   // React 19 "adjust state on dep change": object 切换重置 attribute
   const [previousActiveObject, setPreviousActiveObject] = useState(activeObject);
@@ -132,8 +106,9 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
     urlInitDoneRef.current = true;
 
     const hashParams = new URLSearchParams(window.location.hash.replace(/^#/, ""));
-    const objParam = hashParams.get("object") ?? searchParams.get("object");
-    const attrParam = hashParams.get("attribute") ?? searchParams.get("attribute");
+    const queryParams = new URLSearchParams(window.location.search);
+    const objParam = hashParams.get("object") ?? queryParams.get("object");
+    const attrParam = hashParams.get("attribute") ?? queryParams.get("attribute");
 
     const objName = resolveCategoryParam(objParam, objects);
     if (objName) {
@@ -145,7 +120,7 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
       setActiveAttribute(validAttr);
     }
     setUrlInitDone(true);
-  }, [searchParams, objects, attributesByObject]);
+  }, [objects, attributesByObject]);
 
   // 同 tab 内 hash 变化（把分享链接粘进已打开页面的地址栏 = 浏览器仅做
   // hash 跳转不重载）：init 只跑一次接不住，这里补上。分类点击走

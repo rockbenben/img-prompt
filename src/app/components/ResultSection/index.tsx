@@ -83,6 +83,10 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
             <b>{resultText.length}</b> / {PROMPT_SOFT_LIMIT}
           </span>
         </div>
+        {/* 超过建议长度时说明 380 是什么：计数器转珊瑚色是唯一信号，界面上却没
+            任何地方交代 380 的含义，用户分不清「稍长」和「坏了」。触屏没有 hover，
+            提示必须常驻可见，不能塞进 tooltip。 */}
+        {resultText.length > PROMPT_SOFT_LIMIT && <p className="pp-count-hint">{t("promptLengthHint")}</p>}
         <PromptInput
           value={resultText}
           onChange={handleResultTextChange}

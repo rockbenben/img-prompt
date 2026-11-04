@@ -86,7 +86,8 @@ export function Navigation() {
             <Menu selectedKeys={[currentMenuKey]} mode="horizontal" items={menuItems} style={{ flex: 1, minWidth: 0, border: "none", background: "transparent" }} />
           </nav>
         </Flex>
-        {/* 抽屉常驻，关闭时销毁内部 DOM，减少常驻节点数与焦点陷阱面积 */}
+        {/* 抽屉按需渲染，未打开时不挂载 rc-drawer / Menu 节点 */}
+        {drawerOpen && (
         <Drawer
           placement={drawerSide}
           open={drawerOpen}
@@ -100,6 +101,7 @@ export function Navigation() {
             <Menu selectedKeys={[currentMenuKey]} mode="inline" items={menuItems} style={{ border: "none" }} onClick={() => setDrawerOpen(false)} />
           </nav>
         </Drawer>
+        )}
         {/* size="small"：顶栏宽度是稀缺资源，四个图标按钮收紧到 8px 间距，
             每档分辨率稳定给主导航多让出 24px。按钮各 40px 宽，不影响点击区。 */}
         <Space size="small">

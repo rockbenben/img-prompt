@@ -585,6 +585,14 @@ summary:focus-visible,
 .pp-count-over b {
   color: var(--pp-coral);
 }
+/* 超长提示：只解释 380 这个建议上限是什么，计数本身继续是唯一的「超了」信号。
+   触屏没有 hover，tooltip 不顶用——常驻一行。 */
+.pp-count-hint {
+  margin: -2px 0 8px;
+  font-size: 11.5px;
+  line-height: 1.5;
+  color: var(--pp-mixer-dim);
+}
 
 /* 已选标签芯片：中性（卡片底 + 墨线），分组信息由行结构承载；点一下移除 */
 .pp-token {
@@ -920,6 +928,14 @@ summary:focus-visible,
 .pp-lang-panel {
   border: 2px solid var(--pp-line);
   box-shadow: 3px 3px 0 var(--pp-shadow);
+}
+/* 语言面板底部那行说明：提示词按语言分别存，切换语言等于切到该语言的现场。
+   放在列表下面，不抢语言列表本身的注意力。 */
+.pp-lang-note {
+  margin: 12px 0 0;
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--pp-ink-2);
 }
 /* 窄屏：图标组让出宽度，否则主导航连折叠触发器都放不下（GitHub 页脚有同一入口） */
 @media (max-width: 520px) {

@@ -1,5 +1,5 @@
-import { useState, useEffect, useMemo, useRef, useCallback } from "react";
-import { App } from "antd";
+import { useState, useEffect, useMemo, useRef, useCallback, createElement } from "react";
+import { App, Button } from "antd";
 import { useLocale, useTranslations } from "next-intl";
 import { TagItem } from "../types";
 import { normalizeString } from "@/app/utils/normalizeString";
@@ -80,13 +80,22 @@ interface UsePromptLogicProps {
 }
 
 export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, objectCount }: UsePromptLogicProps) {
-  const { message } = App.useApp();
+  const { message, notification } = App.useApp();
   const t = useTranslations("ResultSection");
   const locale = useLocale();
 
-  const { fullTags, findTagData, ensureLoaded } = useFullTagsData(locale, firstChunk, objectCount);
+  const { scanEntries, findTagData, ensureLoaded } = useFullTagsData(locale, firstChunk, objectCount);
 
   const [draftText, setDraftText] = useState<string | null>(null);
+  // 提示词的两份存档，按 locale 分键（标签的 langName/object/attribute 是语言
+  // 相关数据，跨语言恢复会把 zh 的中文注释带进 en 界面）：
+  //   imgprompt-selected-tags:<locale>  已提交的标签（带分类与母语注释）
+  //   imgprompt-prompt-draft:<locale>  提示词框里的完整内容（已提交 + 未提交）
+  // 两份存档的读写都收在这个 hook 里，不再拆到 HomeClient：拆开写就会出现
+  // 「谁先恢复」的隐式顺序依赖——子组件的 effect 更早跑，父组件的恢复会把它覆盖。
+  const tagStoreKey = `imgprompt-selected-tags:${locale}`;
+  const draftStoreKey = `imgprompt-prompt-draft:${locale}`;
+  const draftKeyRef = useRef<string | null>(null);
   const isComposingRef = useRef(false);
   const [translatedText, setTranslatedText] = useState("");
   // Auto-translation (debounced effect) and manual translation (bottom input) own
@@ -115,6 +124,16 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
     setPrevSelectedTags(selectedTags);
     setDraftText(null);
   }
+
+  // 用户开始挑标签 = 已经在用这个工具了：把全量语料拉起来，推荐词条才有数据源。
+  // 原来只有「点进提示词框」才触发（handleFocus: ensureLoaded），于是纯点选流程里
+  // 推荐行永远不出现——README 与指南都宣传了「智能推荐」，用户却看不到它。
+  // ensureLoaded 内部是 idle 调度 + 2 并发队列，不与分类抓取抢带宽；tagCache 里
+  // 已有的分块直接命中，不再重下。聚焦提示词框仍照旧触发，两条路径共用同一个
+  // loadingRef，不会重复拉取。
+  useEffect(() => {
+    if (selectedTags.length > 0) ensureLoaded();
+  }, [selectedTags.length, ensureLoaded]);
 
   // 空文本与 en 直通在渲染期派生，不进异步链（也避免 effect 内同步 setState）；
   // translatedText 状态只承载异步翻译结果
@@ -158,20 +177,6 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
       setIsAutoTranslating(false);
     };
   }, [displayedText, locale]);
-
-  // 全量就绪时一次性预计算归一化字段：推荐 effect 每次只查表，不再对
-  // 2×~5000 个字段现调 normalizeString。扫描/排序/合并语义与召回不变。
-  const scanEntries = useMemo(
-    () =>
-      fullTags
-        ? fullTags.map((tag) => ({
-            tag,
-            dn: normalizeString(tag.displayName || ""),
-            ln: normalizeString((tag.langName as string) || ""),
-          }))
-        : null,
-    [fullTags],
-  );
 
   // Recommendation: debounced 150ms, depends on displayedText + fullTags
   useEffect(() => {
@@ -233,8 +238,9 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
   // Handlers — draft text is the editing buffer
 
   // Re-deriving tags from the prompt text uses findTagData, which only sees the
-  // currently-loaded tag data. fullTags is lazy (textarea focus schedules an
-  // idle-time load); until then only the bootstrap firstChunk = the leading slice
+  // currently-loaded tag data. fullTags is lazy (an idle-time load, triggered by
+  // focusing the prompt box or by picking the first tag); until then only the
+  // bootstrap firstChunk = the leading slice
   // of object 0 is searchable. Without this fallback, committing
   // text (template insert / random color / blur) would resolve a tag picked from any
   // other object to an empty record and silently drop its object/attribute/langName.
@@ -277,6 +283,59 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
     [prevTagsByName, commitNames],
   );
 
+  // ---------- 持久化：已选标签 + 提示词草稿 ----------
+  //
+  // 恢复：标签与草稿一次读完、一次提交。有草稿时草稿才是权威的——它是提示词
+  // 框里的完整内容（已提交部分 + 未提交部分），存档标签只是它的一部分；按草稿
+  // 重建选择集，用户手写的字就此落进「已选」，之后的行为与「手打后失焦」完全
+  // 一致。早前把草稿留成「待提交」的做法有个致命处：刷新后提示词框里看得到自己
+  // 写的字，但点第一个标签时它会被 setDraftText(null) 清掉（框没获得过焦点，
+  // 等不到那次会先提交草稿的 blur）——手写的内容无声消失。
+  useEffect(() => {
+    if (draftKeyRef.current === draftStoreKey) return;
+    draftKeyRef.current = draftStoreKey;
+    let storedDraft: string | null = null;
+    let storedTags: TagItem[] = [];
+    try {
+      storedDraft = sessionStorage.getItem(draftStoreKey);
+      const rawTags = sessionStorage.getItem(tagStoreKey);
+      const parsed = rawTags ? JSON.parse(rawTags) : null;
+      if (Array.isArray(parsed)) storedTags = parsed;
+    } catch {
+      /* 损坏的存档直接忽略 */
+    }
+    if (storedDraft !== null) {
+      // 存档标签当富数据源：草稿里已提交的那几段还能带回 object/attribute/
+      // 母语注释，不会退化成没有注释的「其他」分组。
+      const prevByName = new Map(storedTags.map((tag) => [commitKey(tag.displayName), tag]));
+      commitNames(splitPreservingSelected(normalizeCommitText(storedDraft), prevByName), prevByName);
+    } else if (storedTags.length > 0) {
+      setSelectedTags(storedTags);
+    }
+  }, [draftStoreKey, tagStoreKey, commitNames, setSelectedTags]);
+
+  // 草稿存档：提示词框里还没提交的内容（正在打字的部分）。
+  // 恢复时它已经被折进选择集了，所以恢复之后 draftText 是 null → 存档被清掉，
+  // 下次刷新读到的就是「已提交」那一份。
+  useEffect(() => {
+    if (draftKeyRef.current !== draftStoreKey) return;
+    try {
+      if (draftText === null) sessionStorage.removeItem(draftStoreKey);
+      else sessionStorage.setItem(draftStoreKey, draftText);
+    } catch {
+      /* 配额/隐私模式下静默放弃 */
+    }
+  }, [draftStoreKey, draftText]);
+
+  // 已选标签存档：站内往返（指南页）与误刷新不丢编辑现场；新标签页/新会话从空开始。
+  useEffect(() => {
+    try {
+      sessionStorage.setItem(tagStoreKey, JSON.stringify(selectedTags));
+    } catch {
+      /* 配额/隐私模式下静默放弃 */
+    }
+  }, [tagStoreKey, selectedTags]);
+
   const handleResultTextChange = useCallback(
     (e: React.ChangeEvent<HTMLTextAreaElement>) => {
       const newText = e.target.value;
@@ -315,7 +374,13 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
       const prevByName = prevTagsByName();
       const names = splitPreservingSelected(baseText, prevByName);
       const parsed = names.map((name) => resolveTagFromText(name, prevByName));
-      if (parsed.length > 0) {
+      // 只有「最后一个词是用户手打的、词库里还没有的自由文本」才被替换——那
+      // 是正在打的半截词，推荐词是来补全它的。其它情况（从标签云里挑好的
+      // 成品标签、已提交的完整词条）一律【追加】：原逻辑无条件替换最后一段，
+      // 于是「点标签云 → 点推荐词」会把这个动作变成"把刚挑的标签顶掉"，而
+      // 推荐词长得和标签芯片一模一样，用户只会以为自己多加了一个词。
+      const lastIsFreeText = parsed.length > 0 && !parsed[parsed.length - 1].object;
+      if (lastIsFreeText) {
         parsed[parsed.length - 1] = tag;
       } else {
         parsed.push(tag);
@@ -346,9 +411,29 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
   );
 
   const handleClear = useCallback(() => {
+    // 清空是全站唯一不可逆的破坏性操作：攒了半天的标签一次误点就没了。
+    // 提示条上挂一个「撤销」，误点的人一步就能拿回来——比确认框好：
+    // 正常路径不多一步，误点也不用重新点几十个标签。
+    const previous = selectedTags;
     setSelectedTags([]);
-    message.success(t("clearSuccess"));
-  }, [setSelectedTags, message, t]);
+    const key = `clear-undo-${Date.now()}`;
+    notification.open({
+      key,
+      message: t("clearSuccess"),
+      duration: 8,
+      actions: createElement(
+        Button,
+        {
+          size: "small",
+          onClick: () => {
+            setSelectedTags(previous);
+            notification.destroy(key);
+          },
+        },
+        t("undo"),
+      ),
+    });
+  }, [selectedTags, setSelectedTags, notification, t]);
 
   const handleColorReplace = useCallback(() => {
     const currentText = draftText ?? committedText;
@@ -378,7 +463,10 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
   });
 
   const handleTranslate = useCallback(async () => {
-    if (!inputText.trim()) return;
+    if (!inputText.trim()) {
+      message.info(t("translateEmptyError"));
+      return;
+    }
     try {
       setIsManualTranslating(true);
       const translated = await translateText(inputText, "en");

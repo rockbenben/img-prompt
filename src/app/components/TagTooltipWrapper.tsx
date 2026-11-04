@@ -62,7 +62,7 @@ const TagTooltipWrapper: FC<Props> = ({ tag, children }) => {
       if (!target) return;
       if (wrapperRef.current?.contains(target)) return;
       if (target.closest(".ant-tooltip")) return;
-      if (target.closest(".ant-image-preview-root")) return;
+      if (target.closest(".ant-image-preview")) return;
       setTooltipOpen(false);
     };
     document.addEventListener("pointerdown", onDown);
@@ -126,10 +126,13 @@ const TagTooltipWrapper: FC<Props> = ({ tag, children }) => {
     return (
       <span ref={wrapperRef} style={{ display: "inline-flex" }}>
         <Tooltip
-          title={<TooltipBody tag={tag} onPreviewOpenChange={handlePreviewOpenChangeTouch} />}
+          title={() => <TooltipBody tag={tag} onPreviewOpenChange={handlePreviewOpenChangeTouch} />}
           placement="top"
           trigger={[]}
-          open={tooltipOpen && !previewOpen}>
+          open={tooltipOpen && !previewOpen}
+          // 大图（lightbox）是 Tooltip 内容里的 antd Image，浮层一旦销毁，
+          // 图片连同它的预览一起被卸载，放大会立刻消失。故预览开着时不销毁浮层。
+          destroyOnHidden={!previewOpen}>
           {enhanced}
         </Tooltip>
       </span>
@@ -137,7 +140,12 @@ const TagTooltipWrapper: FC<Props> = ({ tag, children }) => {
   }
 
   return (
-    <Tooltip title={<TooltipBody tag={tag} onPreviewOpenChange={setPreviewOpen} />} placement="top" open={previewOpen ? false : undefined}>
+    <Tooltip
+      title={() => <TooltipBody tag={tag} onPreviewOpenChange={setPreviewOpen} />}
+      placement="top"
+      open={previewOpen ? false : undefined}
+      // 同上：大图开着时保留浮层，否则 lightbox 会随 Tooltip 一起被卸载
+      destroyOnHidden={!previewOpen}>
       {children}
     </Tooltip>
   );

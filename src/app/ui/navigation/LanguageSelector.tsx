@@ -88,6 +88,10 @@ export function LanguageSelector() {
         </Row>
         {filteredLanguages.length === 0 && <div style={{ padding: 8, opacity: 0.45 }}>{t("languageEmpty")}</div>}
       </div>
+      {/* 切换语言会切到该语言自己的编辑现场（提示词按语言分别存），不说清楚
+          会被当成「提示词被清空了」。放面板最下面：语言列表本身才是用户来
+          这里的目的，说明行不抢它的注意力。 */}
+      <p className="pp-lang-note">{t("languagePerLocaleNote")}</p>
     </>
   );
 
@@ -119,6 +123,7 @@ export function LanguageSelector() {
       {isMobile ? (
         <>
           {trigger}
+          {langOpen && (
           <Drawer
             title={t("language")}
             placement="bottom"
@@ -129,6 +134,7 @@ export function LanguageSelector() {
             styles={{ body: { padding: 16 } }}>
             {renderLanguageList()}
           </Drawer>
+          )}
         </>
       ) : (
         <Dropdown
@@ -138,7 +144,7 @@ export function LanguageSelector() {
           destroyOnHidden
           arrow={{ pointAtCenter: true }}
           menu={{ items: [] }}
-          popupRender={() => desktopPanel}
+          popupRender={() => (langOpen ? desktopPanel : null)}
           placement="bottomRight">
           {trigger}
         </Dropdown>
