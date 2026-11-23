@@ -1,5 +1,5 @@
 import React, { FC } from "react";
-import { Flex, Tag, Tooltip } from "antd";
+import { Flex, Tooltip } from "antd";
 import { CheckCircleOutlined } from "@ant-design/icons";
 import { tagLabels } from "@/app/utils/tagLabels";
 import { TagItem } from "../types";
@@ -36,17 +36,18 @@ export const TagSuggestions: FC<TagSuggestionsProps> = ({ suggestedTags, exactMa
       {exactMatchTag &&
         wrap(
           exactMatchTag,
-          <Tag icon={<CheckCircleOutlined />} className="pp-sug pp-sug-exact cursor-pointer" onClick={() => onTagClick(exactMatchTag)}>
+          <button type="button" className="ant-tag pp-sug pp-sug-exact cursor-pointer" onClick={() => onTagClick(exactMatchTag)}>
+            <CheckCircleOutlined />
             {chipBody(exactMatchTag)}
-          </Tag>,
+          </button>,
           "exact",
         )}
       {suggestedTags.map((tag, index) =>
         wrap(
           tag,
-          <Tag className="pp-sug cursor-pointer" onClick={() => onTagClick(tag)}>
+          <button type="button" className="ant-tag pp-sug cursor-pointer" onClick={() => onTagClick(tag)}>
             {chipBody(tag)}
-          </Tag>,
+          </button>,
           index,
         ),
       )}

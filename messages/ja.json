@@ -15,7 +15,8 @@
     "tagMode-monochrome": "モノクロ",
     "tagsLoading": "タグを読み込み中…",
     "tagsError": "タグを読み込めませんでした",
-    "retry": "再試行"
+    "retry": "再試行",
+    "customTags": "カスタムタグ"
   },
   "ResultSection": {
     "tooltip-light": "ポートレート・ライティングのプロンプトを挿入（フィルム・ライティング、夕暮れの光など）",
@@ -44,7 +45,9 @@
     "randomColor-noMatch": "置換するカラーワードがありません",
     "translateLabel": "翻訳してそのまま追加",
     "placeholder-prompt": "タグを選ぶと自動で組み上がります。直接入力もできます",
-    "placeholder-translate": "例：夕日の中の猫"
+    "placeholder-translate": "例：夕日の中の猫",
+    "autoTranslate": "自動翻訳を有効にする",
+    "translationPrivacy": "自動翻訳は初期設定でオフです。翻訳ボタンを押すか自動翻訳を有効にすると、テキストが Google、Microsoft Edge、Youdao または MyMemory に送信されます。"
   },
   "CopyToClipboard": {
     "empty": "内容が空のため、コピーするものがありません",
@@ -79,7 +82,7 @@
     },
     "q7": {
       "question": "IMGPromptは PromptHero、Lexica、PromptBase と何が違いますか？",
-      "answer": "IMGPromptは「クリックして組み立てる」ツールであり、プロンプト検索エンジンではありません。PromptHero、Lexica、PromptBaseが他人の書いたプロンプトを閲覧・購入するサービスであるのに対し、IMGPromptは二言語のビジュアルタグをクリックして自分で組み立てます。さらに完全にブラウザ内でローカル動作し、ログイン不要・アップロードなし。一方それらのプラットフォームでは、フル機能の利用に通常アカウント登録が必要です。"
+      "answer": "IMGPromptは「クリックして組み立てる」ツールであり、プロンプト検索エンジンではありません。 PromptHero、Lexica、PromptBaseが他人の書いたプロンプトを閲覧・購入するサービスであるのに対し、IMGPromptは二言語のビジュアルタグをクリックして自分で組み立てます。 自動翻訳は初期設定でオフです。翻訳ボタンを押すか自動翻訳を有効にすると、テキストが Google、Microsoft Edge、Youdao または MyMemory に送信されます。"
     },
     "q8": {
       "question": "IMGPromptはVeo、Kling、RunwayなどのAI動画モデルに対応していますか？",
@@ -102,7 +105,7 @@
       "ワンクリックで英訳",
       "スマートタグ推薦",
       "380文字リアルタイムカウンター",
-      "完全ローカル動作 — アップロード・追跡なし",
+      "カスタムタグ",
       "GitHubでオープンソース公開",
       "Windows・macOS・Linuxデスクトップアプリ"
     ]
@@ -120,7 +123,7 @@
     "languageSearch": "言語を検索",
     "languageEmpty": "一致する言語がありません",
     "languagePerLocaleNote": "プロンプトは言語ごとに保存されます。言語を切り替えると、その言語の前回の編集内容が復元されます",
-    "skipToPrompt": "プロンプト欄へスキップ",
+    "skipToPrompt": "本文へ移動",
     "qq": "QQグループ",
     "learndata": "LearnData オープンソースノート",
     "primary": "メインナビゲーション",

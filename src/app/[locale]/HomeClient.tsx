@@ -53,9 +53,19 @@ const resolveCategoryParam = (param: string | null, list: string[]): string | nu
   return list.includes(param) ? param : null;
 };
 
-const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObject, firstChunk, firstChunkTotal }) => {
+const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: builtInAttributes, firstChunk, firstChunkTotal }) => {
   const t = useTranslations("ToolPage");
   const locale = useLocale();
+  // 自定义条目保留作者的分类文字，在各语言的独立入口展示。
+  const customLabel = t("customTags");
+  const customTags = useMemo<TagItem[]>(() => (tagsData2 as TagItem[]).map((tag) => ({
+    ...tag, object: customLabel, attribute: `${tag.object} / ${tag.attribute}`,
+  })), [customLabel]);
+  const objects = useMemo(() => customTags.length ? [...builtInObjects, customLabel] : builtInObjects, [builtInObjects, customTags, customLabel]);
+  const attributesByObject = useMemo(() => ({
+    ...builtInAttributes,
+    [customLabel]: [...new Set(customTags.map((tag) => tag.attribute))],
+  }), [builtInAttributes, customTags, customLabel]);
 
   const showGloss = locale !== "en";
 
@@ -66,12 +76,13 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
   );
 
   // 仅当前 object 的 tags（按需 fetch）
-  const { tags: objectTags, status: tagsStatus, retry: retryTags } = useObjectTags(locale, activeObjectIndex, firstChunk, firstChunkTotal);
+  const { tags: objectTags, status, retry: retryTags } = useObjectTags(locale, Math.min(activeObjectIndex, builtInObjects.length - 1), firstChunk, firstChunkTotal);
+  const tagsStatus = activeObject === customLabel ? "ready" : status;
 
   // 合并 custom 标签（小）
   const combinedTagsData = useMemo<TagItem[]>(
-    () => [...objectTags, ...(tagsData2 as TagItem[]).filter((t) => t.object === activeObject)],
-    [objectTags, activeObject],
+    () => activeObject === customLabel ? customTags : objectTags,
+    [objectTags, activeObject, customLabel, customTags],
   );
 
   const attributes = useMemo(
@@ -262,7 +273,7 @@ const HomeClient: FC<HomeClientProps> = ({ objects, attributes: attributesByObje
           )}
         </Col>
         <Col xs={24} lg={8} xl={7}>
-          <ResultSection selectedTags={selectedTags} setSelectedTags={setSelectedTags} firstChunk={firstChunk} objectCount={objects.length} />
+          <ResultSection selectedTags={selectedTags} setSelectedTags={setSelectedTags} firstChunk={firstChunk} objectCount={builtInObjects.length} customTags={customTags} />
         </Col>
       </Row>
     </>

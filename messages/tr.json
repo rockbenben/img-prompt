@@ -15,7 +15,8 @@
     "tagMode-monochrome": "Tek Renkli",
     "tagsLoading": "Etiketler yükleniyor…",
     "tagsError": "Etiketler yüklenemedi",
-    "retry": "Yeniden dene"
+    "retry": "Yeniden dene",
+    "customTags": "Özel etiketler"
   },
   "ResultSection": {
     "tooltip-light": "Portre aydınlatma promptları ekle (film ışığı, alacakaranlık vb.)",
@@ -44,7 +45,9 @@
     "randomColor-noMatch": "Değiştirilecek renk kelimesi yok",
     "translateLabel": "Çevir ve ekle",
     "placeholder-prompt": "Etiket seçin, prompt kendiliğinden oluşsun; ya da kendiniz yazın",
-    "placeholder-translate": "örn. gün batımında bir kedi"
+    "placeholder-translate": "örn. gün batımında bir kedi",
+    "autoTranslate": "Otomatik çeviriyi aç",
+    "translationPrivacy": "Otomatik çeviri varsayılan olarak kapalıdır. Çevir düğmesine basmak veya otomatik çeviriyi açmak metni Google, Microsoft Edge, Youdao veya MyMemory hizmetine gönderir."
   },
   "CopyToClipboard": {
     "empty": "İçerik boş, kopyalanacak bir şey yok",
@@ -79,7 +82,7 @@
     },
     "q7": {
       "question": "IMGPrompt'ı PromptHero, Lexica veya PromptBase'den ayıran nedir?",
-      "answer": "IMGPrompt bir 'tıkla-oluştur' prompt düzenleyicisidir, bir prompt arama motoru değildir. PromptHero, Lexica ve PromptBase başkalarının promptlarını taramanıza veya satın almanıza izin verir; IMGPrompt iki dilli görsel etiketleri tıklayarak kendi promptunuzu oluşturmanızı sağlar. Tamamen tarayıcınızda yerel olarak çalışır, giriş ve yükleme gerektirmez; bu platformlar ise tam erişim için genellikle hesap gerektirir."
+      "answer": "IMGPrompt bir 'tıkla-oluştur' prompt düzenleyicisidir, bir prompt arama motoru değildir. PromptHero, Lexica ve PromptBase başkalarının promptlarını taramanıza veya satın almanıza izin verir; IMGPrompt iki dilli görsel etiketleri tıklayarak kendi promptunuzu oluşturmanızı sağlar. Otomatik çeviri varsayılan olarak kapalıdır. Çevir düğmesine basmak veya otomatik çeviriyi açmak metni Google, Microsoft Edge, Youdao veya MyMemory hizmetine gönderir."
     },
     "q8": {
       "question": "IMGPrompt, Veo, Kling, Runway gibi AI video modellerini destekler mi?",
@@ -102,7 +105,7 @@
       "Tek tıkla İngilizceye çeviri",
       "Akıllı etiket önerileri",
       "Canlı 380 karakter sayacı",
-      "Tamamen yerel — yükleme yok, izleme yok",
+      "Özel etiketler",
       "GitHub'da açık kaynak",
       "Windows, macOS, Linux için masaüstü uygulamaları"
     ]
@@ -120,7 +123,7 @@
     "languageSearch": "Dil ara",
     "languageEmpty": "Eşleşen dil yok",
     "languagePerLocaleNote": "İstemler dile göre ayrı ayrı saklanır — dil değiştirmek, o dilin son düzenleme durumuna geri döner",
-    "skipToPrompt": "Prompt kutusuna atla",
+    "skipToPrompt": "Ana içeriğe geç",
     "qq": "QQ Grubu",
     "learndata": "LearnData Açık Kaynak Notları",
     "primary": "Ana gezinme",

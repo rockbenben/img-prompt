@@ -32,12 +32,12 @@ const scheduleIdle = (cb: () => void) => {
   }
 };
 
-export function useFullTagsData(locale: string, firstChunk: TagItem[], objectCount: number): UseFullTagsDataResult {
+export function useFullTagsData(locale: string, firstChunk: TagItem[], objectCount: number, customTags: TagItem[]): UseFullTagsDataResult {
   const [fullTags, setFullTags] = useState<TagItem[] | null>(null);
   const [scanEntries, setScanEntries] = useState<ScanEntry[] | null>(null);
   const [exactIndex, setExactIndex] = useState<Map<string, TagItem>>(() => {
     const map = new Map<string, TagItem>();
-    for (const tag of firstChunk) {
+    for (const tag of [...firstChunk, ...customTags]) {
       map.set(normalizeString(tag.displayName), tag);
     }
     return map;
@@ -65,6 +65,7 @@ export function useFullTagsData(locale: string, firstChunk: TagItem[], objectCou
           for (const i of Array.from(results.keys()).sort((a, b) => a - b)) {
             for (const t of results.get(i)!) merged.push(t);
           }
+          merged.push(...customTags);
           // 在 idle 调度异步任务中预计算归一化索引与扫描条目，避免在 React 渲染期占用主线程
           const map = new Map<string, TagItem>();
           const entries: ScanEntry[] = [];
@@ -83,7 +84,7 @@ export function useFullTagsData(locale: string, firstChunk: TagItem[], objectCou
           loadingRef.current = false; // 允许重试
         });
     });
-  }, [locale, objectCount]);
+  }, [locale, objectCount, customTags]);
 
   const findTagData = useCallback(
     (name: string): TagItem => {

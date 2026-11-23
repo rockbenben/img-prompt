@@ -15,7 +15,8 @@
     "tagMode-monochrome": "Satu Warna",
     "tagsLoading": "Memuat tag…",
     "tagsError": "Tag gagal dimuat",
-    "retry": "Coba lagi"
+    "retry": "Coba lagi",
+    "customTags": "Tag khusus"
   },
   "ResultSection": {
     "tooltip-light": "Sisipkan prompt pencahayaan potret (pencahayaan film, sinar senja, dll.)",
@@ -44,7 +45,9 @@
     "randomColor-noMatch": "Tidak ada kata warna untuk diganti",
     "translateLabel": "Terjemahkan & sisipkan",
     "placeholder-prompt": "Pilih tag untuk menyusunnya, atau ketik prompt Anda sendiri",
-    "placeholder-translate": "mis. kucing saat matahari terbenam"
+    "placeholder-translate": "mis. kucing saat matahari terbenam",
+    "autoTranslate": "Aktifkan terjemahan otomatis",
+    "translationPrivacy": "Terjemahan otomatis dinonaktifkan secara default. Mengeklik Terjemahkan atau mengaktifkannya mengirim teks ke Google, Microsoft Edge, Youdao atau MyMemory."
   },
   "CopyToClipboard": {
     "empty": "Konten kosong, tidak ada yang bisa disalin",
@@ -79,7 +82,7 @@
     },
     "q7": {
       "question": "Bagaimana IMGPrompt berbeda dari PromptHero, Lexica, atau PromptBase?",
-      "answer": "IMGPrompt adalah penyusun prompt 'klik-untuk-buat', bukan mesin pencari prompt. PromptHero, Lexica, dan PromptBase memungkinkan Anda menelusuri atau membeli prompt orang lain; IMGPrompt memungkinkan Anda menyusun prompt sendiri dengan mengklik tag visual dwibahasa. Berjalan sepenuhnya di browser tanpa login dan tanpa upload, sementara platform tersebut umumnya memerlukan akun untuk akses penuh."
+      "answer": "IMGPrompt adalah penyusun prompt 'klik-untuk-buat', bukan mesin pencari prompt. PromptHero, Lexica, dan PromptBase memungkinkan Anda menelusuri atau membeli prompt orang lain; IMGPrompt memungkinkan Anda menyusun prompt sendiri dengan mengklik tag visual dwibahasa. Terjemahan otomatis dinonaktifkan secara default. Mengeklik Terjemahkan atau mengaktifkannya mengirim teks ke Google, Microsoft Edge, Youdao atau MyMemory."
     },
     "q8": {
       "question": "Apakah IMGPrompt mendukung model video AI seperti Veo, Kling, dan Runway?",
@@ -102,7 +105,7 @@
       "Terjemahan ke bahasa Inggris satu klik",
       "Rekomendasi tag pintar",
       "Penghitung 380 karakter langsung",
-      "Sepenuhnya lokal — tanpa upload, tanpa pelacakan",
+      "Tag khusus",
       "Open source di GitHub",
       "Aplikasi desktop untuk Windows, macOS, Linux"
     ]
@@ -120,7 +123,7 @@
     "languageSearch": "Cari bahasa",
     "languageEmpty": "Tidak ada bahasa yang cocok",
     "languagePerLocaleNote": "Prompt disimpan per bahasa — mengganti bahasa akan kembali ke status penyuntingan terakhir untuk bahasa itu",
-    "skipToPrompt": "Lompat ke kotak prompt",
+    "skipToPrompt": "Lewati ke konten utama",
     "qq": "Grup QQ",
     "learndata": "LearnData Catatan Sumber Terbuka",
     "primary": "Navigasi utama",

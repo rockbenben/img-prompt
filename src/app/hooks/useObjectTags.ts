@@ -78,10 +78,10 @@ export function useObjectTags(
 
   if (cached) return { tags: cached, status: "ready", retry };
   if (fetched && fetched.key === key) return { tags: fetched.data, status: "ready", retry };
-  if (objectIndex === 0 && truncatedSeed && firstChunk.length > 0 && failedKey !== key) {
+  if (objectIndex === 0 && truncatedSeed && firstChunk.length > 0) {
     // bootstrap 是截断子集：先占位显示首屏那几十条（效果等同全集时代的 SSG 内联），
     // effect 正在补全量 chunk 0，落地后自动切全量。
-    return { tags: firstChunk, status: "ready", retry };
+    return { tags: firstChunk, status: failedKey === key ? "error" : "ready", retry };
   }
   return { tags: [], status: failedKey === key ? "error" : "loading", retry };
 }

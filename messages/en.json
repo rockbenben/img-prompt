@@ -15,7 +15,8 @@
     "tagMode-monochrome": "Monochrome",
     "tagsLoading": "Loading tags…",
     "tagsError": "Tags didn't load",
-    "retry": "Try again"
+    "retry": "Try again",
+    "customTags": "Custom tags"
   },
   "ResultSection": {
     "tooltip-light": "Insert portrait lighting prompts (film lighting, twilight rays, etc.)",
@@ -44,7 +45,9 @@
     "randomColor-noMatch": "No color words to replace",
     "translateLabel": "Translate & insert",
     "placeholder-prompt": "Pick tags to build it, or type your own prompt",
-    "placeholder-translate": "e.g. a cat at sunset"
+    "placeholder-translate": "e.g. a cat at sunset",
+    "autoTranslate": "Enable automatic translation",
+    "translationPrivacy": "Automatic translation is off by default. Clicking Translate or enabling automatic translation sends the text to Google, Microsoft Edge, Youdao or MyMemory."
   },
   "CopyToClipboard": {
     "empty": "Content is empty, nothing to copy",
@@ -79,7 +82,7 @@
     },
     "q7": {
       "question": "How is IMGPrompt different from PromptHero, Lexica, or PromptBase?",
-      "answer": "IMGPrompt is a click-to-build prompt composer, not a prompt search engine. PromptHero, Lexica, and PromptBase let you browse or buy other people's prompts; IMGPrompt lets you compose your own by clicking bilingual visual tags. It runs entirely in your browser with no login and no upload, while those platforms generally require an account for full access."
+      "answer": "IMGPrompt is a click-to-build prompt composer, not a prompt search engine. PromptHero, Lexica, and PromptBase let you browse or buy other people's prompts; IMGPrompt lets you compose your own by clicking bilingual visual tags. Automatic translation is off by default. Clicking Translate or enabling automatic translation sends the text to Google, Microsoft Edge, Youdao or MyMemory."
     },
     "q8": {
       "question": "Does IMGPrompt support AI video models like Veo, Kling, and Runway?",
@@ -102,7 +105,7 @@
       "One-click translation to English",
       "Smart tag recommendations",
       "Live 380-character counter",
-      "Fully local — no upload, no tracking",
+      "Custom tags",
       "Open source on GitHub",
       "Desktop apps for Windows, macOS, Linux"
     ]
@@ -120,7 +123,7 @@
     "languageSearch": "Search language",
     "languageEmpty": "No matching language",
     "languagePerLocaleNote": "Prompts are saved per language — switching language switches to that language's last editing state",
-    "skipToPrompt": "Skip to the prompt box",
+    "skipToPrompt": "Skip to main content",
     "qq": "QQ Group",
     "learndata": "LearnData Open Source Notes",
     "primary": "Primary",

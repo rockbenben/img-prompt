@@ -126,13 +126,12 @@ export default async function LocaleLayout({ children, params }: Props) {
         <AntdRegistry>
           <NextIntlClientProvider messages={clientMessages}>
             <ThemesProvider>
-              {/* 绕过选词区（WCAG 2.4.1）：首页大半可聚焦元素排在提示词框之前。
-                  必须是文档里第一个可聚焦元素，所以放在 Navigation 之前。 */}
-              <a href="#pp-prompt" className="pp-skip">
+              {/* 跳转链接指向可聚焦的主要内容。 */}
+              <a href="#pp-main" className="pp-skip">
                 {tNav("skipToPrompt")}
               </a>
               <Navigation />
-              <main style={{ maxWidth: 1280, width: "100%", marginTop: 8, marginInline: "auto", paddingInline: "clamp(16px, 4vw, 24px)", paddingBlock: 16 }}>{children}</main>
+              <main id="pp-main" tabIndex={-1} style={{ maxWidth: 1280, width: "100%", marginTop: 8, marginInline: "auto", paddingInline: "clamp(16px, 4vw, 24px)", paddingBlock: 16 }}>{children}</main>
               {/* 页脚只留 GitHub 入口 + 签名（本仓库无指南/反馈路由）。这个 GitHub
                   链接不是装饰：globals.css 在 ≤520px 隐藏顶栏的 GitHub 图标，
                   正是因为页脚有同一入口。 */}

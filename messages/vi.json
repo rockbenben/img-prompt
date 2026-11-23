@@ -15,7 +15,8 @@
     "tagMode-monochrome": "Đơn sắc",
     "tagsLoading": "Đang tải thẻ…",
     "tagsError": "Không tải được thẻ",
-    "retry": "Thử lại"
+    "retry": "Thử lại",
+    "customTags": "Thẻ tùy chỉnh"
   },
   "ResultSection": {
     "tooltip-light": "Chèn prompt ánh sáng chân dung (ánh sáng điện ảnh, tia hoàng hôn, v.v.)",
@@ -44,7 +45,9 @@
     "randomColor-noMatch": "Không có từ màu để thay thế",
     "translateLabel": "Dịch và chèn ngay",
     "placeholder-prompt": "Chọn thẻ để ghép tự động, hoặc tự nhập prompt của bạn",
-    "placeholder-translate": "vd. chú mèo lúc hoàng hôn"
+    "placeholder-translate": "vd. chú mèo lúc hoàng hôn",
+    "autoTranslate": "Bật dịch tự động",
+    "translationPrivacy": "Dịch tự động mặc định tắt. Nhấn Dịch hoặc bật dịch tự động sẽ gửi văn bản đến Google, Microsoft Edge, Youdao hoặc MyMemory."
   },
   "CopyToClipboard": {
     "empty": "Nội dung trống, không có gì để sao chép",
@@ -79,7 +82,7 @@
     },
     "q7": {
       "question": "IMGPrompt khác PromptHero, Lexica, PromptBase như thế nào?",
-      "answer": "IMGPrompt là công cụ dựng prompt bằng một cú nhấp, không phải công cụ tìm kiếm prompt. PromptHero, Lexica, PromptBase cho bạn duyệt hoặc mua prompt của người khác; IMGPrompt cho bạn tự dựng prompt bằng cách nhấp thẻ song ngữ trực quan. Nó chạy hoàn toàn trong trình duyệt mà không cần đăng nhập và không tải lên, trong khi các nền tảng đó thường yêu cầu tài khoản để sử dụng đầy đủ."
+      "answer": "IMGPrompt là công cụ dựng prompt bằng một cú nhấp, không phải công cụ tìm kiếm prompt. PromptHero, Lexica, PromptBase cho bạn duyệt hoặc mua prompt của người khác; IMGPrompt cho bạn tự dựng prompt bằng cách nhấp thẻ song ngữ trực quan. Dịch tự động mặc định tắt. Nhấn Dịch hoặc bật dịch tự động sẽ gửi văn bản đến Google, Microsoft Edge, Youdao hoặc MyMemory."
     },
     "q8": {
       "question": "IMGPrompt có hỗ trợ các mô hình video AI như Veo, Kling, Runway không?",
@@ -102,7 +105,7 @@
       "Dịch sang tiếng Anh một cú nhấp",
       "Đề xuất thẻ thông minh",
       "Bộ đếm 380 ký tự theo thời gian thực",
-      "Hoàn toàn cục bộ — không tải lên, không theo dõi",
+      "Thẻ tùy chỉnh",
       "Mã nguồn mở trên GitHub",
       "Ứng dụng máy tính cho Windows, macOS, Linux"
     ]
@@ -120,7 +123,7 @@
     "languageSearch": "Tìm ngôn ngữ",
     "languageEmpty": "Không có ngôn ngữ phù hợp",
     "languagePerLocaleNote": "Prompt được lưu riêng cho từng ngôn ngữ — đổi ngôn ngữ là quay lại trạng thái soạn thảo gần nhất của ngôn ngữ đó",
-    "skipToPrompt": "Chuyển tới ô prompt",
+    "skipToPrompt": "Chuyển đến nội dung chính",
     "qq": "Nhóm QQ",
     "learndata": "LearnData Ghi chú mã nguồn mở",
     "primary": "Điều hướng chính",

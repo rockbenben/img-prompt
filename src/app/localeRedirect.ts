@@ -12,8 +12,8 @@ import { routing } from "@/i18n/routing";
  *  · 显式选择存在 localStorage（LanguageSelector 写入）。【没有这一层就别做
  *    这个功能】：用户手动切到英文、下次打开裸域名又被甩回中文，站点等于在跟
  *    用户对着干。
- *  · 解析不出结果、或结果就是 defaultLocale 时【什么都不做】，交给同页那条
- *    <meta http-equiv="refresh"> 兜底（它也是禁用 JS 时的唯一出路）。
+ *  · 解析不出结果时使用 defaultLocale；所有脚本跳转均保留查询与哈希。
+ *    <meta http-equiv="refresh"> 为禁用 JS 的用户提供兜底。
  *
  * ⚠ 只用在 `/` 上。显式的 /en、/zh 是用户给出的最强信号，永远不要改写；404 也
  *   【刻意不挂】—— 它是全站的 not-found 边界，Next 会把它序列化进每一个页面的
@@ -50,5 +50,5 @@ if(!p){var n=navigator.languages||[navigator.language||""];
 for(var i=0;i<n.length&&!p;i++){var t=String(n[i]||"").toLowerCase();
 if(t.indexOf("zh")===0){var h=/(^|-)(tw|hk|mo|hant)(-|$)/.test(t)?"zh-hant":"zh";if(L.indexOf(h)>=0)p=h;}
 else{var b=t.split("-")[0];if(L.indexOf(b)>=0)p=b;}}}
-if(p&&p!==D)location.replace("/"+p+location.search+location.hash);
+location.replace("/"+(p||D)+location.search+location.hash);
 }catch(e){}})();`;

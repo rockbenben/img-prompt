@@ -15,7 +15,8 @@
     "tagMode-monochrome": "Monocromático",
     "tagsLoading": "Carregando tags…",
     "tagsError": "As tags não carregaram",
-    "retry": "Tentar de novo"
+    "retry": "Tentar de novo",
+    "customTags": "Tags personalizadas"
   },
   "ResultSection": {
     "tooltip-light": "Inserir prompts de iluminação de retrato (luz de cinema, crepúsculo, etc.)",
@@ -44,7 +45,9 @@
     "randomColor-noMatch": "Nenhuma palavra de cor para substituir",
     "translateLabel": "Traduzir e inserir",
     "placeholder-prompt": "Escolha as tags para montar, ou escreva seu próprio prompt",
-    "placeholder-translate": "ex.: um gato ao pôr do sol"
+    "placeholder-translate": "ex.: um gato ao pôr do sol",
+    "autoTranslate": "Ativar tradução automática",
+    "translationPrivacy": "A tradução automática está desativada por padrão. Clicar em Traduzir ou ativá-la envia o texto ao Google, Microsoft Edge, Youdao ou MyMemory."
   },
   "CopyToClipboard": {
     "empty": "O conteúdo está vazio, nada para copiar",
@@ -79,7 +82,7 @@
     },
     "q7": {
       "question": "Como o IMGPrompt difere do PromptHero, Lexica ou PromptBase?",
-      "answer": "O IMGPrompt é um compositor de prompts por clique, não um buscador de prompts. PromptHero, Lexica e PromptBase deixam você navegar ou comprar prompts de outros; o IMGPrompt deixa você compor o seu clicando em tags visuais bilíngues. Roda inteiramente no seu navegador sem login e sem upload, enquanto essas plataformas geralmente exigem uma conta para o acesso completo."
+      "answer": "O IMGPrompt é um compositor de prompts por clique, não um buscador de prompts. PromptHero, Lexica e PromptBase deixam você navegar ou comprar prompts de outros; o IMGPrompt deixa você compor o seu clicando em tags visuais bilíngues. A tradução automática está desativada por padrão. Clicar em Traduzir ou ativá-la envia o texto ao Google, Microsoft Edge, Youdao ou MyMemory."
     },
     "q8": {
       "question": "O IMGPrompt suporta modelos de vídeo IA como Veo, Kling e Runway?",
@@ -102,7 +105,7 @@
       "Tradução para inglês em um clique",
       "Recomendações inteligentes de tags",
       "Contador ao vivo de 380 caracteres",
-      "Totalmente local — sem upload, sem rastreamento",
+      "Tags personalizadas",
       "Open source no GitHub",
       "Apps de desktop para Windows, macOS, Linux"
     ]
@@ -120,7 +123,7 @@
     "languageSearch": "Procurar idioma",
     "languageEmpty": "Nenhum idioma corresponde",
     "languagePerLocaleNote": "Os prompts são salvos por idioma — mudar de idioma leva você ao último estado de edição desse idioma",
-    "skipToPrompt": "Ir para a caixa de prompt",
+    "skipToPrompt": "Ir para o conteúdo principal",
     "qq": "Grupo QQ",
     "learndata": "LearnData Notas de Código Aberto",
     "primary": "Navegação principal",

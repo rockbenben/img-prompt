@@ -17,8 +17,7 @@ export default function RootPage() {
   const home = `/${routing.defaultLocale}`;
   return (
     <>
-      {/* 语言落点：已选语言 > 浏览器偏好 > defaultLocale。解析不出或就是默认值时
-          什么都不做，由下面那条 meta refresh 兜底（也是禁用 JS 时的唯一出路）。 */}
+      {/* 语言落点：已选语言 > 浏览器偏好 > defaultLocale。脚本跳转保留查询参数和哈希；下面那条 meta refresh 兜底（也是禁用 JS 时的唯一出路）。 */}
       <script dangerouslySetInnerHTML={{ __html: localeRedirectScript }} />
       <meta httpEquiv="refresh" content={`0;url=${home}`} />
       <p style={{ fontFamily: "sans-serif", padding: 24 }}>

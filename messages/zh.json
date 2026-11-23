@@ -15,7 +15,8 @@
     "tagMode-monochrome": "单色",
     "tagsLoading": "正在载入标签…",
     "tagsError": "标签没能载入",
-    "retry": "重试"
+    "retry": "重试",
+    "customTags": "自定义标签"
   },
   "ResultSection": {
     "tooltip-light": "插入人像布光提示词（电影光效、暮光光束等）",
@@ -44,7 +45,9 @@
     "randomColor-noMatch": "没有可替换的颜色词",
     "translateLabel": "翻译并插入",
     "placeholder-prompt": "点标签自动拼好，也可以直接在这里写",
-    "placeholder-translate": "例：夕阳下的猫"
+    "placeholder-translate": "例：夕阳下的猫",
+    "autoTranslate": "开启自动译文",
+    "translationPrivacy": "自动译文默认关闭。点击翻译或开启自动译文后，待译文本会发送给 Google、微软 Edge、有道或 MyMemory。"
   },
   "CopyToClipboard": {
     "empty": "内容为空，无需复制",
@@ -79,7 +82,7 @@
     },
     "q7": {
       "question": "IMGPrompt 跟 PromptHero、Lexica、PromptBase 有什么区别？",
-      "answer": "IMGPrompt 是「点选构建」工具，不是 prompt 搜索引擎。PromptHero、Lexica、PromptBase 让你浏览或购买别人写好的 prompt；IMGPrompt 让你通过点击中英双语标签自己组合。同时 IMGPrompt 完全在浏览器本地运行，无需登录、不上传任何数据；上述平台通常需要注册账号才能完整使用。"
+      "answer": "IMGPrompt 是「点选构建」工具，不是 prompt 搜索引擎。 PromptHero、Lexica、PromptBase 让你浏览或购买别人写好的 prompt；IMGPrompt 让你通过点击中英双语标签自己组合。 自动译文默认关闭。点击翻译或开启自动译文后，待译文本会发送给 Google、微软 Edge、有道或 MyMemory。"
     },
     "q8": {
       "question": "IMGPrompt 支持 AI 视频模型 Veo、Kling、Runway 吗？",
@@ -102,7 +105,7 @@
       "一键翻译为英文",
       "智能标签推荐",
       "实时 380 字符计数",
-      "完全本地运行 — 不上传、不追踪",
+      "自定义标签",
       "GitHub 开源",
       "Windows / macOS / Linux 桌面客户端"
     ]
@@ -120,7 +123,7 @@
     "languageSearch": "搜索语言",
     "languageEmpty": "没有匹配的语言",
     "languagePerLocaleNote": "提示词按语言分别保存：切换语言会切到该语言上次的编辑现场",
-    "skipToPrompt": "跳到提示词框",
+    "skipToPrompt": "跳至主要内容",
     "qq": "QQ 群",
     "learndata": "LearnData 开源笔记",
     "primary": "主导航",

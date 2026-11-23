@@ -688,6 +688,8 @@ summary:focus-visible,
 
 /* 推荐词（mixer 内）：暗底霓虹 chip——母语词为主、英文 mono 为辅 */
 .pp-sug.ant-tag {
+  font: inherit;
+  line-height: 1.6;
   display: inline-flex;
   align-items: baseline;
   gap: 6px;
@@ -1368,3 +1370,12 @@ summary:focus-visible,
   margin-inline: auto;
 }
 
+
+.pp-sug:focus-visible {
+  outline: 2px solid var(--pp-mixer-text);
+  outline-offset: 2px;
+}
+.pp-translation-privacy {
+  font-size: 12px;
+  margin: 0 0 8px;
+}

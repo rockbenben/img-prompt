@@ -15,7 +15,8 @@
     "tagMode-monochrome": "Monocromo",
     "tagsLoading": "Caricamento tag…",
     "tagsError": "I tag non si sono caricati",
-    "retry": "Riprova"
+    "retry": "Riprova",
+    "customTags": "Tag personalizzati"
   },
   "ResultSection": {
     "tooltip-light": "Inserisci prompt di illuminazione per ritratti (luce cinematografica, raggi crepuscolari, ecc.)",
@@ -44,7 +45,9 @@
     "randomColor-noMatch": "Nessuna parola di colore da sostituire",
     "translateLabel": "Traduci e inserisci",
     "placeholder-prompt": "Scegli i tag per comporlo, oppure scrivi il tuo prompt",
-    "placeholder-translate": "es. un gatto al tramonto"
+    "placeholder-translate": "es. un gatto al tramonto",
+    "autoTranslate": "Attiva la traduzione automatica",
+    "translationPrivacy": "La traduzione automatica è disattivata per impostazione predefinita. Premendo Traduci o attivandola, il testo viene inviato a Google, Microsoft Edge, Youdao o MyMemory."
   },
   "CopyToClipboard": {
     "empty": "Il contenuto è vuoto, niente da copiare",
@@ -79,7 +82,7 @@
     },
     "q7": {
       "question": "Cosa distingue IMGPrompt da PromptHero, Lexica o PromptBase?",
-      "answer": "IMGPrompt è un compositore di prompt a clic, non un motore di ricerca di prompt. PromptHero, Lexica e PromptBase ti permettono di sfogliare o comprare prompt altrui; IMGPrompt ti permette di comporre il tuo cliccando tag visivi bilingui. Funziona interamente nel browser senza login né upload, mentre quelle piattaforme generalmente richiedono un account per l'accesso completo."
+      "answer": "IMGPrompt è un compositore di prompt a clic, non un motore di ricerca di prompt. PromptHero, Lexica e PromptBase ti permettono di sfogliare o comprare prompt altrui; IMGPrompt ti permette di comporre il tuo cliccando tag visivi bilingui. La traduzione automatica è disattivata per impostazione predefinita. Premendo Traduci o attivandola, il testo viene inviato a Google, Microsoft Edge, Youdao o MyMemory."
     },
     "q8": {
       "question": "IMGPrompt supporta modelli video IA come Veo, Kling e Runway?",
@@ -102,7 +105,7 @@
       "Traduzione in inglese con un clic",
       "Suggerimenti di tag intelligenti",
       "Contatore live di 380 caratteri",
-      "Completamente locale — niente upload, niente tracciamento",
+      "Tag personalizzati",
       "Open source su GitHub",
       "App desktop per Windows, macOS, Linux"
     ]
@@ -120,7 +123,7 @@
     "languageSearch": "Cerca lingua",
     "languageEmpty": "Nessuna lingua corrispondente",
     "languagePerLocaleNote": "I prompt sono salvati per lingua: cambiando lingua torni all'ultimo stato di modifica di quella lingua",
-    "skipToPrompt": "Vai alla casella prompt",
+    "skipToPrompt": "Vai al contenuto principale",
     "qq": "Gruppo QQ",
     "learndata": "LearnData Note open source",
     "primary": "Navigazione principale",

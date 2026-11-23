@@ -15,7 +15,8 @@
     "tagMode-monochrome": "단색",
     "tagsLoading": "태그 불러오는 중…",
     "tagsError": "태그를 불러오지 못했습니다",
-    "retry": "다시 시도"
+    "retry": "다시 시도",
+    "customTags": "사용자 정의 태그"
   },
   "ResultSection": {
     "tooltip-light": "인물 조명 프롬프트 삽입 (시네마틱 조명, 황혼 광선 등)",
@@ -44,7 +45,9 @@
     "randomColor-noMatch": "교체할 색상 단어가 없습니다",
     "translateLabel": "번역해서 바로 추가",
     "placeholder-prompt": "태그를 고르면 자동으로 완성됩니다. 직접 입력해도 됩니다",
-    "placeholder-translate": "예: 노을 속의 고양이"
+    "placeholder-translate": "예: 노을 속의 고양이",
+    "autoTranslate": "자동 번역 켜기",
+    "translationPrivacy": "자동 번역은 기본적으로 꺼져 있습니다. 번역을 누르거나 자동 번역을 켜면 텍스트가 Google, Microsoft Edge, Youdao 또는 MyMemory로 전송됩니다."
   },
   "CopyToClipboard": {
     "empty": "내용이 비어 있습니다. 복사할 것이 없습니다.",
@@ -79,7 +82,7 @@
     },
     "q7": {
       "question": "IMGPrompt는 PromptHero, Lexica, PromptBase와 어떻게 다른가요?",
-      "answer": "IMGPrompt는 '클릭으로 만드는' 도구이지 프롬프트 검색 엔진이 아닙니다. PromptHero, Lexica, PromptBase는 다른 사람이 쓴 프롬프트를 검색하거나 구매하는 서비스이고, IMGPrompt는 이중 언어 시각 태그를 클릭해 자신만의 프롬프트를 구성합니다. 또한 IMGPrompt는 브라우저에서 완전히 로컬로 작동하며 로그인이나 업로드가 필요 없습니다. 위 플랫폼들은 일반적으로 전체 기능을 사용하려면 계정 등록이 필요합니다."
+      "answer": "IMGPrompt는 '클릭으로 만드는' 도구이지 프롬프트 검색 엔진이 아닙니다. PromptHero, Lexica, PromptBase는 다른 사람이 쓴 프롬프트를 검색하거나 구매하는 서비스이고, IMGPrompt는 이중 언어 시각 태그를 클릭해 자신만의 프롬프트를 구성합니다. 자동 번역은 기본적으로 꺼져 있습니다. 번역을 누르거나 자동 번역을 켜면 텍스트가 Google, Microsoft Edge, Youdao 또는 MyMemory로 전송됩니다."
     },
     "q8": {
       "question": "IMGPrompt는 Veo, Kling, Runway 같은 AI 영상 모델을 지원하나요?",
@@ -102,7 +105,7 @@
       "원클릭 영어 번역",
       "스마트 태그 추천",
       "실시간 380자 카운터",
-      "완전 로컬 작동 — 업로드 없음, 추적 없음",
+      "사용자 정의 태그",
       "GitHub 오픈소스",
       "Windows, macOS, Linux 데스크톱 앱"
     ]
@@ -120,7 +123,7 @@
     "languageSearch": "언어 검색",
     "languageEmpty": "일치하는 언어가 없습니다",
     "languagePerLocaleNote": "프롬프트는 언어별로 저장됩니다. 언어를 바꾸면 그 언어의 마지막 편집 상태로 전환됩니다",
-    "skipToPrompt": "프롬프트 상자로 건너뛰기",
+    "skipToPrompt": "본문으로 이동",
     "qq": "QQ 그룹",
     "learndata": "LearnData 오픈소스 노트",
     "primary": "기본 내비게이션",

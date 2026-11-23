@@ -15,7 +15,8 @@
     "tagMode-monochrome": "單色",
     "tagsLoading": "正在載入標籤…",
     "tagsError": "標籤沒能載入",
-    "retry": "重試"
+    "retry": "重試",
+    "customTags": "自訂標籤"
   },
   "ResultSection": {
     "tooltip-light": "插入人像打光提示詞（電影光效、暮光光束等）",
@@ -44,7 +45,9 @@
     "randomColor-noMatch": "沒有可替換的顏色詞",
     "translateLabel": "翻譯並插入",
     "placeholder-prompt": "點標籤自動拼好，也可以直接在這裡寫",
-    "placeholder-translate": "例：夕陽下的貓"
+    "placeholder-translate": "例：夕陽下的貓",
+    "autoTranslate": "開啟自動譯文",
+    "translationPrivacy": "自動譯文預設關閉。點選翻譯或開啟自動譯文後，待譯文字會傳送給 Google、微軟 Edge、有道或 MyMemory。"
   },
   "CopyToClipboard": {
     "empty": "內容為空，無需複製",
@@ -79,7 +82,7 @@
     },
     "q7": {
       "question": "IMGPrompt 跟 PromptHero、Lexica、PromptBase 有什麼區別？",
-      "answer": "IMGPrompt 是「點選構建」工具，不是 prompt 搜尋引擎。PromptHero、Lexica、PromptBase 讓你瀏覽或購買別人寫好的 prompt；IMGPrompt 讓你透過點擊中英雙語標籤自己組合。同時 IMGPrompt 完全在瀏覽器本機執行，無需登入、不上傳任何資料；上述平台通常需要註冊帳號才能完整使用。"
+      "answer": "IMGPrompt 是「點選構建」工具，不是 prompt 搜尋引擎。 PromptHero、Lexica、PromptBase 讓你瀏覽或購買別人寫好的 prompt；IMGPrompt 讓你透過點擊中英雙語標籤自己組合。 自動譯文預設關閉。點選翻譯或開啟自動譯文後，待譯文字會傳送給 Google、微軟 Edge、有道或 MyMemory。"
     },
     "q8": {
       "question": "IMGPrompt 支援 AI 影片模型 Veo、Kling、Runway 嗎？",
@@ -102,7 +105,7 @@
       "一鍵翻譯為英文",
       "智慧標籤推薦",
       "即時 380 字元計數",
-      "完全本機執行 — 不上傳、不追蹤",
+      "自訂標籤",
       "GitHub 開源",
       "Windows / macOS / Linux 桌面用戶端"
     ]
@@ -120,7 +123,7 @@
     "languageSearch": "搜尋語言",
     "languageEmpty": "沒有符合的語言",
     "languagePerLocaleNote": "提示詞按語言分別儲存：切換語言會切到該語言上次的編輯現場",
-    "skipToPrompt": "跳到提示詞框",
+    "skipToPrompt": "跳至主要內容",
     "qq": "QQ 群組",
     "learndata": "LearnData 開源筆記",
     "primary": "主導航",

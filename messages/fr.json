@@ -15,7 +15,8 @@
     "tagMode-monochrome": "Monochrome",
     "tagsLoading": "Chargement des tags…",
     "tagsError": "Les tags n'ont pas pu être chargés",
-    "retry": "Réessayer"
+    "retry": "Réessayer",
+    "customTags": "Tags personnalisés"
   },
   "ResultSection": {
     "tooltip-light": "Insérer des prompts d'éclairage de portrait (éclairage cinématographique, rayons crépusculaires, etc.)",
@@ -44,7 +45,9 @@
     "randomColor-noMatch": "Aucun mot de couleur à remplacer",
     "translateLabel": "Traduire et insérer",
     "placeholder-prompt": "Choisissez des tags pour le composer, ou écrivez votre prompt",
-    "placeholder-translate": "ex. un chat au coucher du soleil"
+    "placeholder-translate": "ex. un chat au coucher du soleil",
+    "autoTranslate": "Activer la traduction automatique",
+    "translationPrivacy": "La traduction automatique est désactivée par défaut. Traduire ou activer la traduction automatique envoie le texte à Google, Microsoft Edge, Youdao ou MyMemory."
   },
   "CopyToClipboard": {
     "empty": "Le contenu est vide, rien à copier",
@@ -79,7 +82,7 @@
     },
     "q7": {
       "question": "En quoi IMGPrompt diffère-t-il de PromptHero, Lexica ou PromptBase ?",
-      "answer": "IMGPrompt est un compositeur de prompts par clic, pas un moteur de recherche de prompts. PromptHero, Lexica et PromptBase permettent de parcourir ou d'acheter les prompts d'autres personnes ; IMGPrompt vous permet de composer le vôtre en cliquant sur des tags visuels bilingues. Il fonctionne entièrement dans votre navigateur, sans inscription ni téléversement, alors que ces plateformes exigent généralement un compte pour un accès complet."
+      "answer": "IMGPrompt est un compositeur de prompts par clic, pas un moteur de recherche de prompts. PromptHero, Lexica et PromptBase permettent de parcourir ou d'acheter les prompts d'autres personnes ; IMGPrompt vous permet de composer le vôtre en cliquant sur des tags visuels bilingues. La traduction automatique est désactivée par défaut. Traduire ou activer la traduction automatique envoie le texte à Google, Microsoft Edge, Youdao ou MyMemory."
     },
     "q8": {
       "question": "IMGPrompt prend-il en charge les modèles vidéo IA comme Veo, Kling et Runway ?",
@@ -102,7 +105,7 @@
       "Traduction en anglais en un clic",
       "Suggestions de tags intelligentes",
       "Compteur en direct (380 caractères)",
-      "Entièrement local — pas d'upload, pas de suivi",
+      "Tags personnalisés",
       "Open source sur GitHub",
       "Applications de bureau Windows, macOS, Linux"
     ]
@@ -120,7 +123,7 @@
     "languageSearch": "Rechercher une langue",
     "languageEmpty": "Aucune langue ne correspond",
     "languagePerLocaleNote": "Les prompts sont enregistrés par langue — changer de langue vous ramène au dernier état d'édition de cette langue",
-    "skipToPrompt": "Aller à la boîte de prompt",
+    "skipToPrompt": "Aller au contenu principal",
     "qq": "Groupe QQ",
     "learndata": "LearnData Notes open-source",
     "primary": "Navigation principale",

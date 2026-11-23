@@ -15,7 +15,8 @@
     "tagMode-monochrome": "Monocromo",
     "tagsLoading": "Cargando etiquetas…",
     "tagsError": "No se cargaron las etiquetas",
-    "retry": "Reintentar"
+    "retry": "Reintentar",
+    "customTags": "Etiquetas personalizadas"
   },
   "ResultSection": {
     "tooltip-light": "Insertar prompts de iluminación de retrato (iluminación cinematográfica, rayos crepusculares, etc.)",
@@ -44,7 +45,9 @@
     "randomColor-noMatch": "No hay palabras de color para reemplazar",
     "translateLabel": "Traducir e insertar",
     "placeholder-prompt": "Elige etiquetas para componerlo, o escribe tu propio prompt",
-    "placeholder-translate": "p. ej., un gato al atardecer"
+    "placeholder-translate": "p. ej., un gato al atardecer",
+    "autoTranslate": "Activar traducción automática",
+    "translationPrivacy": "La traducción automática está desactivada por defecto. Al pulsar Traducir o activarla, el texto se envía a Google, Microsoft Edge, Youdao o MyMemory."
   },
   "CopyToClipboard": {
     "empty": "El contenido está vacío, nada que copiar.",
@@ -79,7 +82,7 @@
     },
     "q7": {
       "question": "¿En qué se diferencia IMGPrompt de PromptHero, Lexica o PromptBase?",
-      "answer": "IMGPrompt es un compositor de prompts por clic, no un buscador de prompts. PromptHero, Lexica y PromptBase te permiten navegar o comprar prompts ajenos; IMGPrompt te permite componer el tuyo haciendo clic en etiquetas visuales bilingües. Funciona enteramente en tu navegador sin login ni subida, mientras que esas plataformas generalmente requieren una cuenta para el acceso completo."
+      "answer": "IMGPrompt es un compositor de prompts por clic, no un buscador de prompts. PromptHero, Lexica y PromptBase te permiten navegar o comprar prompts ajenos; IMGPrompt te permite componer el tuyo haciendo clic en etiquetas visuales bilingües. La traducción automática está desactivada por defecto. Al pulsar Traducir o activarla, el texto se envía a Google, Microsoft Edge, Youdao o MyMemory."
     },
     "q8": {
       "question": "¿IMGPrompt soporta modelos de vídeo IA como Veo, Kling y Runway?",
@@ -102,7 +105,7 @@
       "Traducción al inglés en un clic",
       "Recomendaciones inteligentes de etiquetas",
       "Contador en vivo de 380 caracteres",
-      "Totalmente local — sin subida, sin rastreo",
+      "Etiquetas personalizadas",
       "Open source en GitHub",
       "Apps de escritorio para Windows, macOS, Linux"
     ]
@@ -120,7 +123,7 @@
     "languageSearch": "Buscar idioma",
     "languageEmpty": "Ningún idioma coincide",
     "languagePerLocaleNote": "Los prompts se guardan por idioma: al cambiar de idioma vuelves al último estado de edición de ese idioma",
-    "skipToPrompt": "Saltar al cuadro de prompt",
+    "skipToPrompt": "Ir al contenido principal",
     "qq": "Grupo de QQ",
     "learndata": "LearnData Notas de Código Abierto",
     "primary": "Navegación principal",

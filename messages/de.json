@@ -15,7 +15,8 @@
     "tagMode-monochrome": "Einfarbig",
     "tagsLoading": "Tags werden geladen…",
     "tagsError": "Tags konnten nicht geladen werden",
-    "retry": "Erneut versuchen"
+    "retry": "Erneut versuchen",
+    "customTags": "Eigene Tags"
   },
   "ResultSection": {
     "tooltip-light": "Porträt-Beleuchtungs-Prompts einfügen (Filmbeleuchtung, Dämmerung usw.)",
@@ -44,7 +45,9 @@
     "randomColor-noMatch": "Keine Farbwörter zu ersetzen",
     "translateLabel": "Übersetzen & einfügen",
     "placeholder-prompt": "Tags auswählen oder eigenen Prompt hier eintippen",
-    "placeholder-translate": "z. B. eine Katze im Sonnenuntergang"
+    "placeholder-translate": "z. B. eine Katze im Sonnenuntergang",
+    "autoTranslate": "Automatische Übersetzung aktivieren",
+    "translationPrivacy": "Die automatische Übersetzung ist standardmäßig aus. Übersetzen oder das Aktivieren der automatischen Übersetzung sendet den Text an Google, Microsoft Edge, Youdao oder MyMemory."
   },
   "CopyToClipboard": {
     "empty": "Der Inhalt ist leer, nichts zu kopieren",
@@ -79,7 +82,7 @@
     },
     "q7": {
       "question": "Wie unterscheidet sich IMGPrompt von PromptHero, Lexica oder PromptBase?",
-      "answer": "IMGPrompt ist ein Click-to-Build-Prompt-Composer, keine Prompt-Suchmaschine. PromptHero, Lexica und PromptBase ermöglichen das Durchsuchen oder Kaufen fremder Prompts; mit IMGPrompt bauen Sie Ihren eigenen Prompt durch Anklicken zweisprachiger visueller Tags. Es läuft komplett im Browser ohne Login und ohne Upload, während diese Plattformen in der Regel ein Konto für den vollen Zugriff verlangen."
+      "answer": "IMGPrompt ist ein Click-to-Build-Prompt-Composer, keine Prompt-Suchmaschine. PromptHero, Lexica und PromptBase ermöglichen das Durchsuchen oder Kaufen fremder Prompts; mit IMGPrompt bauen Sie Ihren eigenen Prompt durch Anklicken zweisprachiger visueller Tags. Die automatische Übersetzung ist standardmäßig aus. Übersetzen oder das Aktivieren der automatischen Übersetzung sendet den Text an Google, Microsoft Edge, Youdao oder MyMemory."
     },
     "q8": {
       "question": "Unterstützt IMGPrompt KI-Videomodelle wie Veo, Kling und Runway?",
@@ -102,7 +105,7 @@
       "Ein-Klick-Übersetzung ins Englische",
       "Intelligente Tag-Empfehlungen",
       "Live-Zähler bis 380 Zeichen",
-      "Vollständig lokal — kein Upload, kein Tracking",
+      "Eigene Tags",
       "Open Source auf GitHub",
       "Desktop-Apps für Windows, macOS, Linux"
     ]
@@ -120,7 +123,7 @@
     "languageSearch": "Sprache suchen",
     "languageEmpty": "Keine passende Sprache",
     "languagePerLocaleNote": "Hinweise werden pro Sprache gespeichert — beim Sprachwechsel wechseln Sie zum letzten Bearbeitungsstand dieser Sprache",
-    "skipToPrompt": "Zum Prompt-Feld springen",
+    "skipToPrompt": "Zum Hauptinhalt springen",
     "qq": "QQ-Gruppe",
     "learndata": "LearnData Open-Source-Notizen",
     "primary": "Hauptnavigation",

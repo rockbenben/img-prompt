@@ -115,6 +115,13 @@ function main() {
     sliceLocale(locale, refCount);
     console.log(`[sliceData] ${locale}: ok`);
   }
+  const buildLocale = process.env.NEXT_PUBLIC_BUILD_LOCALE;
+  if (buildLocale) {
+    if (!locales.includes(buildLocale)) throw new Error(`未知构建语言: ${buildLocale}`);
+    for (const locale of locales) {
+      if (locale !== buildLocale) fs.rmSync(path.join(CHUNK_BASE, locale), { recursive: true, force: true });
+    }
+  }
   console.log(`[sliceData] done`);
   console.log(`[sliceData]   chunks    -> ${CHUNK_BASE}`);
   console.log(`[sliceData]   bootstrap -> ${BOOTSTRAP_DIR}`);

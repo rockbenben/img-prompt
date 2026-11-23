@@ -77,14 +77,17 @@ interface UsePromptLogicProps {
   setSelectedTags: (tags: TagItem[]) => void;
   firstChunk: TagItem[];
   objectCount: number;
+  customTags: TagItem[];
 }
 
-export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, objectCount }: UsePromptLogicProps) {
+export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, objectCount, customTags }: UsePromptLogicProps) {
   const { message, notification } = App.useApp();
   const t = useTranslations("ResultSection");
   const locale = useLocale();
 
-  const { scanEntries, findTagData, ensureLoaded } = useFullTagsData(locale, firstChunk, objectCount);
+  const { scanEntries, findTagData, ensureLoaded } = useFullTagsData(locale, firstChunk, objectCount, customTags);
+  // 每次进入编辑器都由用户主动授权自动外发。
+  const [autoTranslate, setAutoTranslate] = useState(false);
 
   const [draftText, setDraftText] = useState<string | null>(null);
   // 提示词的两份存档，按 locale 分键（标签的 langName/object/attribute 是语言
@@ -142,7 +145,7 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
   // Translation: debounced 1500ms, depends on displayedText + locale
   useEffect(() => {
     const normalizedText = normalizeForTranslation(displayedText);
-    if (!normalizedText || locale === "en") {
+    if (!autoTranslate || !normalizedText || locale === "en") {
       lastTranslatedSource.current = "";
       return;
     }
@@ -176,7 +179,7 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
       // exclusively by this effect, so resetting here is always safe.
       setIsAutoTranslating(false);
     };
-  }, [displayedText, locale]);
+  }, [displayedText, locale, autoTranslate]);
 
   // Recommendation: debounced 150ms, depends on displayedText + fullTags
   useEffect(() => {
@@ -501,6 +504,8 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
     resultText: displayedText,
     translatedText: displayTranslation,
     isAutoTranslating,
+    autoTranslate,
+    setAutoTranslate,
     isManualTranslating,
     suggestedTags,
     exactMatchTag,

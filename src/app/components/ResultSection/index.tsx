@@ -1,5 +1,5 @@
 import { FC } from "react";
-import { Button, Input, Flex, Space } from "antd";
+import { Button, Checkbox, Input, Flex, Space } from "antd";
 import { BgColorsOutlined } from "@ant-design/icons";
 import { useLocale } from "next-intl";
 import { CONSTANT_BUTTONS, NEGATIVE_TEXT } from "@/app/data/constants";
@@ -19,6 +19,7 @@ interface ResultSectionProps {
   setSelectedTags: (tags: TagItem[]) => void;
   firstChunk: TagItem[];
   objectCount: number;
+  customTags: TagItem[];
 }
 
 const PromptResults: FC<ResultSectionProps> = (props) => {
@@ -29,6 +30,8 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
     resultText,
     translatedText,
     isAutoTranslating,
+    autoTranslate,
+    setAutoTranslate,
     isManualTranslating,
     suggestedTags,
     exactMatchTag,
@@ -108,7 +111,9 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
           <span className="pp-swatch" aria-hidden="true" />
           {t("translateLabel")}
         </div>
-        <Space.Compact size="small" style={{ display: "flex" }}>
+        <p className="pp-translation-privacy">{t("translationPrivacy")}</p>
+        {locale !== "en" && <Checkbox checked={autoTranslate} onChange={(e) => setAutoTranslate(e.target.checked)}>{t("autoTranslate")}</Checkbox>}
+        <Space.Compact size="small" style={{ display: "flex", marginTop: 8 }}>
           <Input
             value={inputText}
             onChange={(e: React.ChangeEvent<HTMLInputElement>) => setInputText(e.target.value)}
@@ -124,7 +129,7 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
           </Button>
         </Space.Compact>
 
-        <TranslationResult translatedText={translatedText} isTranslating={isAutoTranslating} isVisible={locale !== "en"} t={t} />
+        <TranslationResult translatedText={translatedText} isTranslating={isAutoTranslating} isVisible={locale !== "en" && autoTranslate} t={t} />
       </div>
     </Flex>
   );
