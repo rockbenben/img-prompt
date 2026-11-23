@@ -16,7 +16,16 @@
     "tagsLoading": "正在载入标签…",
     "tagsError": "标签没能载入",
     "retry": "重试",
-    "customTags": "自定义标签"
+    "customTags": "自定义标签",
+    "localLibrary": {
+      "import": "导入本地词库",
+      "clear": "移除本地词库",
+      "imported": "词库已导入。",
+      "cleared": "本地词库已移除。",
+      "invalid": "请选择格式正确的词库 JSON 文件。",
+      "tooLarge": "请选择不超过 2 MB 的 JSON 文件。",
+      "storageError": "无法在此设备上保存词库。"
+    }
   },
   "ResultSection": {
     "tooltip-light": "插入人像布光提示词（电影光效、暮光光束等）",

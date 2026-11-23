@@ -16,7 +16,16 @@
     "tagsLoading": "태그 불러오는 중…",
     "tagsError": "태그를 불러오지 못했습니다",
     "retry": "다시 시도",
-    "customTags": "사용자 정의 태그"
+    "customTags": "사용자 정의 태그",
+    "localLibrary": {
+      "import": "로컬 태그 사전 가져오기",
+      "clear": "로컬 태그 사전 삭제",
+      "imported": "사전을 가져왔습니다.",
+      "cleared": "로컬 사전을 삭제했습니다.",
+      "invalid": "올바른 형식의 태그 사전 JSON 파일을 선택하세요.",
+      "tooLarge": "2 MB 이하의 JSON 파일을 선택하세요.",
+      "storageError": "이 기기에 사전을 저장할 수 없습니다."
+    }
   },
   "ResultSection": {
     "tooltip-light": "인물 조명 프롬프트 삽입 (시네마틱 조명, 황혼 광선 등)",

@@ -16,7 +16,16 @@
     "tagsLoading": "タグを読み込み中…",
     "tagsError": "タグを読み込めませんでした",
     "retry": "再試行",
-    "customTags": "カスタムタグ"
+    "customTags": "カスタムタグ",
+    "localLibrary": {
+      "import": "ローカルタグ辞書を読み込む",
+      "clear": "ローカルタグ辞書を削除",
+      "imported": "辞書を読み込みました。",
+      "cleared": "ローカル辞書を削除しました。",
+      "invalid": "正しい形式のタグ辞書 JSON ファイルを選択してください。",
+      "tooLarge": "2 MB 以下の JSON ファイルを選択してください。",
+      "storageError": "この端末に辞書を保存できませんでした。"
+    }
   },
   "ResultSection": {
     "tooltip-light": "ポートレート・ライティングのプロンプトを挿入（フィルム・ライティング、夕暮れの光など）",

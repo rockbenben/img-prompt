@@ -16,7 +16,16 @@
     "tagsLoading": "正在載入標籤…",
     "tagsError": "標籤沒能載入",
     "retry": "重試",
-    "customTags": "自訂標籤"
+    "customTags": "自訂標籤",
+    "localLibrary": {
+      "import": "匯入本機詞庫",
+      "clear": "移除本機詞庫",
+      "imported": "詞庫已匯入。",
+      "cleared": "本機詞庫已移除。",
+      "invalid": "請選擇格式正確的詞庫 JSON 檔案。",
+      "tooLarge": "請選擇不超過 2 MB 的 JSON 檔案。",
+      "storageError": "無法在此裝置上儲存詞庫。"
+    }
   },
   "ResultSection": {
     "tooltip-light": "插入人像打光提示詞（電影光效、暮光光束等）",

@@ -16,7 +16,16 @@
     "tagsLoading": "Cargando etiquetas…",
     "tagsError": "No se cargaron las etiquetas",
     "retry": "Reintentar",
-    "customTags": "Etiquetas personalizadas"
+    "customTags": "Etiquetas personalizadas",
+    "localLibrary": {
+      "import": "Importar biblioteca local de etiquetas",
+      "clear": "Quitar biblioteca local de etiquetas",
+      "imported": "Biblioteca importada.",
+      "cleared": "Biblioteca local eliminada.",
+      "invalid": "Selecciona un archivo JSON válido para la biblioteca de etiquetas.",
+      "tooLarge": "Selecciona un archivo JSON de 2 MB o menos.",
+      "storageError": "No se pudo guardar la biblioteca en este dispositivo."
+    }
   },
   "ResultSection": {
     "tooltip-light": "Insertar prompts de iluminación de retrato (iluminación cinematográfica, rayos crepusculares, etc.)",

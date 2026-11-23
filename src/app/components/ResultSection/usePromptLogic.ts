@@ -6,6 +6,7 @@ import { normalizeString } from "@/app/utils/normalizeString";
 import { translateText } from "@/app/utils/translateAPI";
 import { colorArray } from "@/app/data/constants";
 import { useFullTagsData } from "@/app/hooks/useFullTagsData";
+import { LEGACY_LIBRARY_ID } from "@/app/hooks/useLocalTagLibrary";
 
 const normalizeForTranslation = (text: string) => text.trim().replace(/[,，]\s*$/, "");
 const getRandomColor = () => colorArray[Math.floor(Math.random() * colorArray.length)];
@@ -78,9 +79,11 @@ interface UsePromptLogicProps {
   firstChunk: TagItem[];
   objectCount: number;
   customTags: TagItem[];
+  libraryId: string | null;
+  libraryReady: boolean;
 }
 
-export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, objectCount, customTags }: UsePromptLogicProps) {
+export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, objectCount, customTags, libraryId, libraryReady }: UsePromptLogicProps) {
   const { message, notification } = App.useApp();
   const t = useTranslations("ResultSection");
   const locale = useLocale();
@@ -119,14 +122,22 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
         .join(", "),
     [selectedTags],
   );
-  const displayedText = draftText ?? committedText;
-
-  // External selectedTags change clears draft (React 19 adjust-state-on-prop-change)
+  // 词库也可能从另一标签页移除。过滤失效词条时保留正在编辑的其他片段。
   const [prevSelectedTags, setPrevSelectedTags] = useState(selectedTags);
   if (prevSelectedTags !== selectedTags) {
     setPrevSelectedTags(selectedTags);
-    setDraftText(null);
+    const removed = new Set(prevSelectedTags
+      .filter((tag) => tag.localLibraryId && tag.localLibraryId !== libraryId)
+      .map((tag) => commitKey(tag.displayName)));
+    if (draftText !== null && removed.size > 0) {
+      const previous = new Map(prevSelectedTags.map((tag) => [commitKey(tag.displayName), tag]));
+      const names = splitPreservingSelected(normalizeCommitText(draftText), previous);
+      setDraftText(names.filter((name) => !removed.has(commitKey(name))).join(", "));
+    } else {
+      setDraftText(null);
+    }
   }
+  const displayedText = draftText ?? committedText;
 
   // 用户开始挑标签 = 已经在用这个工具了：把全量语料拉起来，推荐词条才有数据源。
   // 原来只有「点进提示词框」才触发（handleFocus: ensureLoaded），于是纯点选流程里
@@ -250,9 +261,13 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
   // Preserve the already-selected rich tag when findTagData can't resolve the name.
   const resolveTagFromText = useCallback(
     (rawName: string, prevByName: Map<string, TagItem>): TagItem => {
+      const previous = prevByName.get(commitKey(rawName));
+      // 保留已经选中的来源；手打同名文本不属于本地词库。
+      if (previous?.object || previous?.localLibraryId) return previous;
       const found = findTagData(rawName);
-      if (found.displayName) return found;
-      return prevByName.get(commitKey(rawName)) ?? { object: "", attribute: "", displayName: rawName, langName: "" };
+      if (found.displayName && !found.localLibraryId) return found;
+      if (found.localLibraryId) return { ...found, localLibraryId: undefined };
+      return previous ?? { object: "", attribute: "", displayName: rawName, langName: "" };
     },
     [findTagData],
   );
@@ -271,9 +286,10 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
           uniqueNames.push(name);
         }
       }
-      setSelectedTags(uniqueNames.map((name) => resolveTagFromText(name, prevByName)));
+      setSelectedTags(uniqueNames.map((name) => resolveTagFromText(name, prevByName))
+        .filter((tag) => !tag.localLibraryId || tag.localLibraryId === libraryId));
     },
-    [resolveTagFromText, setSelectedTags],
+    [libraryId, resolveTagFromText, setSelectedTags],
   );
 
   // Single commit pipeline: normalize punctuation → split (preserving selected
@@ -295,7 +311,7 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
   // 写的字，但点第一个标签时它会被 setDraftText(null) 清掉（框没获得过焦点，
   // 等不到那次会先提交草稿的 blur）——手写的内容无声消失。
   useEffect(() => {
-    if (draftKeyRef.current === draftStoreKey) return;
+    if (!libraryReady || draftKeyRef.current === draftStoreKey) return;
     draftKeyRef.current = draftStoreKey;
     let storedDraft: string | null = null;
     let storedTags: TagItem[] = [];
@@ -307,15 +323,22 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
     } catch {
       /* 损坏的存档直接忽略 */
     }
+    // 旧版导入词条保存在「自定义标签」，已选存档没有来源标记。
+    if (libraryId === LEGACY_LIBRARY_ID) {
+      const legacyPaths = new Set(customTags.filter((tag) => tag.localLibraryId === libraryId)
+        .map((tag) => JSON.stringify([tag.object, tag.attribute, tag.displayName])));
+      storedTags = storedTags.map((tag) => legacyPaths.has(JSON.stringify([tag.object, tag.attribute, tag.displayName]))
+        ? { ...tag, localLibraryId: libraryId } : tag);
+    }
     if (storedDraft !== null) {
       // 存档标签当富数据源：草稿里已提交的那几段还能带回 object/attribute/
       // 母语注释，不会退化成没有注释的「其他」分组。
       const prevByName = new Map(storedTags.map((tag) => [commitKey(tag.displayName), tag]));
       commitNames(splitPreservingSelected(normalizeCommitText(storedDraft), prevByName), prevByName);
     } else if (storedTags.length > 0) {
-      setSelectedTags(storedTags);
+      setSelectedTags(storedTags.filter((tag) => !tag.localLibraryId || tag.localLibraryId === libraryId));
     }
-  }, [draftStoreKey, tagStoreKey, commitNames, setSelectedTags]);
+  }, [draftStoreKey, tagStoreKey, commitNames, customTags, libraryId, libraryReady, setSelectedTags]);
 
   // 草稿存档：提示词框里还没提交的内容（正在打字的部分）。
   // 恢复时它已经被折进选择集了，所以恢复之后 draftText 是 null → 存档被清掉，
@@ -332,12 +355,13 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
 
   // 已选标签存档：站内往返（指南页）与误刷新不丢编辑现场；新标签页/新会话从空开始。
   useEffect(() => {
+    if (!libraryReady) return;
     try {
       sessionStorage.setItem(tagStoreKey, JSON.stringify(selectedTags));
     } catch {
       /* 配额/隐私模式下静默放弃 */
     }
-  }, [tagStoreKey, selectedTags]);
+  }, [tagStoreKey, selectedTags, libraryReady]);
 
   const handleResultTextChange = useCallback(
     (e: React.ChangeEvent<HTMLTextAreaElement>) => {
@@ -382,8 +406,9 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
       // 成品标签、已提交的完整词条）一律【追加】：原逻辑无条件替换最后一段，
       // 于是「点标签云 → 点推荐词」会把这个动作变成"把刚挑的标签顶掉"，而
       // 推荐词长得和标签芯片一模一样，用户只会以为自己多加了一个词。
-      const lastIsFreeText = parsed.length > 0 && !parsed[parsed.length - 1].object;
-      if (lastIsFreeText) {
+      const last = parsed.at(-1);
+      const newExactMatch = last && commitKey(last.displayName) === commitKey(tag.displayName) && !prevByName.has(commitKey(last.displayName));
+      if (last && (!last.object || newExactMatch)) {
         parsed[parsed.length - 1] = tag;
       } else {
         parsed.push(tag);

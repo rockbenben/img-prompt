@@ -16,7 +16,16 @@
     "tagsLoading": "Tags werden geladen…",
     "tagsError": "Tags konnten nicht geladen werden",
     "retry": "Erneut versuchen",
-    "customTags": "Eigene Tags"
+    "customTags": "Eigene Tags",
+    "localLibrary": {
+      "import": "Lokale Tagsammlung importieren",
+      "clear": "Lokale Tagsammlung entfernen",
+      "imported": "Sammlung importiert.",
+      "cleared": "Lokale Sammlung entfernt.",
+      "invalid": "Wähle eine gültige JSON-Datei für die Tagsammlung.",
+      "tooLarge": "Wähle eine JSON-Datei mit höchstens 2 MB.",
+      "storageError": "Die Sammlung konnte auf diesem Gerät nicht gespeichert werden."
+    }
   },
   "ResultSection": {
     "tooltip-light": "Porträt-Beleuchtungs-Prompts einfügen (Filmbeleuchtung, Dämmerung usw.)",

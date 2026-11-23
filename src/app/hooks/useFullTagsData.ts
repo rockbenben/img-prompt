@@ -1,5 +1,5 @@
 "use client";
-import { useCallback, useRef, useState } from "react";
+import { useCallback, useMemo, useRef, useState } from "react";
 import { TagItem } from "@/app/components/types";
 import { normalizeString } from "@/app/utils/normalizeString";
 import { fetchChunk } from "./promptChunks";
@@ -13,10 +13,21 @@ export interface ScanEntry {
 }
 
 interface UseFullTagsDataResult {
-  fullTags: TagItem[] | null;
   scanEntries: ScanEntry[] | null;
   findTagData: (name: string) => TagItem;
   ensureLoaded: () => void;
+}
+
+function indexTags(tags: TagItem[]) {
+  const exact = new Map<string, TagItem>();
+  const entries: ScanEntry[] = [];
+  for (const tag of tags) {
+    const dn = normalizeString(tag.displayName);
+    const ln = normalizeString(tag.langName);
+    exact.set(dn, tag);
+    entries.push({ tag, dn, ln });
+  }
+  return { exact, entries };
 }
 
 // objectCount = 分块总数（每个 object 一块，由 sliceData.js 保证）。
@@ -33,15 +44,14 @@ const scheduleIdle = (cb: () => void) => {
 };
 
 export function useFullTagsData(locale: string, firstChunk: TagItem[], objectCount: number, customTags: TagItem[]): UseFullTagsDataResult {
-  const [fullTags, setFullTags] = useState<TagItem[] | null>(null);
-  const [scanEntries, setScanEntries] = useState<ScanEntry[] | null>(null);
-  const [exactIndex, setExactIndex] = useState<Map<string, TagItem>>(() => {
-    const map = new Map<string, TagItem>();
-    for (const tag of [...firstChunk, ...customTags]) {
-      map.set(normalizeString(tag.displayName), tag);
-    }
-    return map;
-  });
+  const [builtInIndex, setBuiltInIndex] = useState<ReturnType<typeof indexTags> | null>(null);
+  const firstChunkIndex = useMemo(() => indexTags(firstChunk).exact, [firstChunk]);
+  const customIndex = useMemo(() => indexTags(customTags), [customTags]);
+  // 本地词库独立更新，导入后可立即搜索，也不会被较晚完成的网络请求覆盖。
+  const scanEntries = useMemo(() => {
+    if (builtInIndex) return [...builtInIndex.entries, ...customIndex.entries];
+    return customIndex.entries.length ? customIndex.entries : null;
+  }, [builtInIndex, customIndex]);
   const loadingRef = useRef(false);
 
   const ensureLoaded = useCallback(() => {
@@ -65,36 +75,23 @@ export function useFullTagsData(locale: string, firstChunk: TagItem[], objectCou
           for (const i of Array.from(results.keys()).sort((a, b) => a - b)) {
             for (const t of results.get(i)!) merged.push(t);
           }
-          merged.push(...customTags);
-          // 在 idle 调度异步任务中预计算归一化索引与扫描条目，避免在 React 渲染期占用主线程
-          const map = new Map<string, TagItem>();
-          const entries: ScanEntry[] = [];
-          for (const tag of merged) {
-            const dn = normalizeString(tag.displayName || "");
-            const ln = normalizeString((tag.langName as string) || "");
-            map.set(dn, tag);
-            entries.push({ tag, dn, ln });
-          }
-          setExactIndex(map);
-          setScanEntries(entries);
-          setFullTags(merged);
+          setBuiltInIndex(indexTags(merged));
         })
         .catch((err) => {
           console.warn("[useFullTagsData] failed", err);
           loadingRef.current = false; // 允许重试
         });
     });
-  }, [locale, objectCount, customTags]);
+  }, [locale, objectCount]);
 
   const findTagData = useCallback(
     (name: string): TagItem => {
       const normalized = normalizeString(name);
-      let found = exactIndex.get(normalized);
-      if (!found) found = exactIndex.get(normalized.replace(/ /g, "_"));
-      return found ?? EMPTY_TAG;
+      const builtInExact = builtInIndex?.exact ?? firstChunkIndex;
+      return customIndex.exact.get(normalized) ?? builtInExact.get(normalized) ?? EMPTY_TAG;
     },
-    [exactIndex],
+    [builtInIndex, customIndex, firstChunkIndex],
   );
 
-  return { fullTags, scanEntries, findTagData, ensureLoaded };
+  return { scanEntries, findTagData, ensureLoaded };
 }

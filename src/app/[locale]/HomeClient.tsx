@@ -2,13 +2,15 @@
 import { useState, useMemo, useCallback, useEffect, useRef, FC } from "react";
 import { Row, Col, Flex, Segmented, Spin, Button } from "antd";
 
-import tagsData2 from "@/app/data/prompt-custom.json";
+import bundledCustomTags from "@/app/data/prompt-custom.json";
 
 import CategoryRadio from "@/app/components/CategoryRadio";
+import LocalTagLibrary from "@/app/components/LocalTagLibrary";
 import TagSection from "@/app/components/TagSection";
 import SelectedTagsSection from "@/app/components/SelectedTagsSection";
 import ResultSection from "@/app/components/ResultSection";
 import { TagItem } from "@/app/components/types";
+import { LEGACY_LIBRARY_ID, useLocalTagLibrary } from "@/app/hooks/useLocalTagLibrary";
 import { useLocalStorage } from "@/app/hooks/useLocalStorage";
 import { useObjectTags } from "@/app/hooks/useObjectTags";
 
@@ -53,45 +55,60 @@ const resolveCategoryParam = (param: string | null, list: string[]): string | nu
   return list.includes(param) ? param : null;
 };
 
+const customAttribute = (tag: TagItem) => `${tag.object} / ${tag.attribute}`;
+
 const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: builtInAttributes, firstChunk, firstChunkTotal }) => {
   const t = useTranslations("ToolPage");
   const locale = useLocale();
-  // 自定义条目保留作者的分类文字，在各语言的独立入口展示。
+  const { library, libraryReady } = useLocalTagLibrary();
+  const libraryId = library?.id ?? null;
   const customLabel = t("customTags");
-  const customTags = useMemo<TagItem[]>(() => (tagsData2 as TagItem[]).map((tag) => ({
-    ...tag, object: customLabel, attribute: `${tag.object} / ${tag.attribute}`,
-  })), [customLabel]);
-  const objects = useMemo(() => customTags.length ? [...builtInObjects, customLabel] : builtInObjects, [builtInObjects, customTags, customLabel]);
-  const attributesByObject = useMemo(() => ({
-    ...builtInAttributes,
-    [customLabel]: [...new Set(customTags.map((tag) => tag.attribute))],
-  }), [builtInAttributes, customTags, customLabel]);
+  const customTags = useMemo(() => {
+    const entries = new Map<string, TagItem>();
+    for (const tag of bundledCustomTags as TagItem[]) {
+      const attribute = customAttribute(tag);
+      entries.set(JSON.stringify([customLabel, attribute, tag.displayName]), { ...tag, object: customLabel, attribute });
+    }
+    if (library) {
+      for (const tag of library.tags) {
+        const { objectIndex, attributeIndex, ...entry } = tag;
+        const legacy = library.id === LEGACY_LIBRARY_ID;
+        const object = legacy ? customLabel : builtInObjects[objectIndex ?? -1] ?? entry.object;
+        const attribute = legacy ? customAttribute(entry) : builtInAttributes[object]?.[attributeIndex ?? -1] ?? entry.attribute;
+        entries.set(JSON.stringify([object, attribute, entry.displayName]), { ...entry, object, attribute, localLibraryId: library.id });
+      }
+    }
+    return Array.from(entries.values());
+  }, [builtInAttributes, builtInObjects, customLabel, library]);
+  const attributesByObject = useMemo(() => {
+    const groups = new Map(builtInObjects.map((object) => [object, new Set(builtInAttributes[object])]));
+    for (const tag of customTags) {
+      const group = groups.get(tag.object);
+      if (group) group.add(tag.attribute);
+      else groups.set(tag.object, new Set([tag.attribute]));
+    }
+    return new Map(Array.from(groups, ([object, attributes]) => [object, Array.from(attributes)]));
+  }, [builtInAttributes, builtInObjects, customTags]);
+  const objects = useMemo(() => Array.from(attributesByObject.keys()), [attributesByObject]);
 
   const showGloss = locale !== "en";
 
-  const [activeObject, setActiveObject] = useState<string>(() => objects[0] ?? "");
-  const activeObjectIndex = useMemo(
-    () => Math.max(0, objects.indexOf(activeObject)),
-    [objects, activeObject],
-  );
+  const [chosenObject, setActiveObject] = useState<string>(() => objects[0] ?? "");
+  const activeObject = objects.includes(chosenObject) ? chosenObject : objects[0] ?? "";
+  const builtInObjectIndex = builtInObjects.indexOf(activeObject);
 
   // 仅当前 object 的 tags（按需 fetch）
-  const { tags: objectTags, status, retry: retryTags } = useObjectTags(locale, Math.min(activeObjectIndex, builtInObjects.length - 1), firstChunk, firstChunkTotal);
-  const tagsStatus = activeObject === customLabel ? "ready" : status;
+  const { tags: objectTags, status, retry: retryTags } = useObjectTags(locale, Math.max(0, builtInObjectIndex), firstChunk, firstChunkTotal);
 
-  // 合并 custom 标签（小）
-  const combinedTagsData = useMemo<TagItem[]>(
-    () => activeObject === customLabel ? customTags : objectTags,
-    [objectTags, activeObject, customLabel, customTags],
-  );
+  const attributes = attributesByObject.get(activeObject) ?? [];
 
-  const attributes = useMemo(
-    () => attributesByObject[activeObject] ?? [],
-    [attributesByObject, activeObject],
-  );
-
-  const [activeAttribute, setActiveAttribute] = useState<string>(() => attributes[0] ?? "");
+  const [chosenAttribute, setActiveAttribute] = useState<string>(() => attributes[0] ?? "");
+  const activeAttribute = attributes.includes(chosenAttribute) ? chosenAttribute : attributes[0] ?? "";
+  const tagsStatus = builtInObjectIndex < 0 || !builtInAttributes[activeObject]?.includes(activeAttribute) ? "ready" : status;
   const [selectedTags, setSelectedTags] = useState<TagItem[]>([]);
+  if (libraryReady && selectedTags.some((tag) => tag.localLibraryId && tag.localLibraryId !== libraryId)) {
+    setSelectedTags(selectedTags.filter((tag) => !tag.localLibraryId || tag.localLibraryId === libraryId));
+  }
   const [useColorBlocks, setUseColorBlocks] = useLocalStorage<boolean>("useColorBlocks", true);
 
   // 已选标签的会话级持久化（站内往返指南页、误刷新不丢编辑现场）在
@@ -113,7 +130,7 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
   const urlInitDoneRef = useRef(false);
   const [urlInitDone, setUrlInitDone] = useState(false);
   useEffect(() => {
-    if (urlInitDoneRef.current || typeof window === "undefined") return;
+    if (!libraryReady || urlInitDoneRef.current || typeof window === "undefined") return;
     urlInitDoneRef.current = true;
 
     const hashParams = new URLSearchParams(window.location.hash.replace(/^#/, ""));
@@ -123,7 +140,7 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
 
     const objName = resolveCategoryParam(objParam, objects);
     if (objName) {
-      const newAttrs = attributesByObject[objName] ?? [];
+      const newAttrs = attributesByObject.get(objName) ?? [];
       const validAttr = resolveCategoryParam(attrParam, newAttrs) ?? newAttrs[0] ?? "";
       // eslint-disable-next-line react-hooks/set-state-in-effect
       setActiveObject(objName);
@@ -131,7 +148,7 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
       setActiveAttribute(validAttr);
     }
     setUrlInitDone(true);
-  }, [objects, attributesByObject]);
+  }, [libraryReady, objects, attributesByObject]);
 
   // 同 tab 内 hash 变化（把分享链接粘进已打开页面的地址栏 = 浏览器仅做
   // hash 跳转不重载）：init 只跑一次接不住，这里补上。分类点击走
@@ -141,7 +158,7 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
       const hashParams = new URLSearchParams(window.location.hash.replace(/^#/, ""));
       const objName = resolveCategoryParam(hashParams.get("object"), objects);
       if (!objName) return;
-      const newAttrs = attributesByObject[objName] ?? [];
+      const newAttrs = attributesByObject.get(objName) ?? [];
       setActiveObject(objName);
       setPreviousActiveObject(objName);
       setActiveAttribute(resolveCategoryParam(hashParams.get("attribute"), newAttrs) ?? newAttrs[0] ?? "");
@@ -159,7 +176,7 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
     url.searchParams.delete("attribute");
     const hashParams = new URLSearchParams();
     const objIdx = objects.indexOf(activeObject);
-    const attrIdx = (attributesByObject[activeObject] ?? []).indexOf(activeAttribute);
+    const attrIdx = (attributesByObject.get(activeObject) ?? []).indexOf(activeAttribute);
     // 默认落点（首个 object + 首个 attribute）= 无 hash 时的状态，不写 hash，
     // 保持打开时地址栏干净；任一维非默认才写。object 必须同写——读取端缺
     // object 参数时不会单独恢复 attribute（resolveCategoryParam(null) 返回 null）。
@@ -184,6 +201,12 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
     setActiveAttribute(attribute);
   }, []);
 
+  function showImportedTags(firstTag: TagItem) {
+    setActiveObject(firstTag.object);
+    setPreviousActiveObject(firstTag.object);
+    setActiveAttribute(firstTag.attribute);
+  }
+
   const handleTagClick = useCallback((tag: TagItem) => {
     setSelectedTags((prev) => {
       const isSelected = prev.some((t) => t.displayName === tag.displayName);
@@ -196,10 +219,18 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
     [selectedTags],
   );
 
-  const filteredTags = useMemo(
-    () => combinedTagsData.filter((tag) => tag.attribute === activeAttribute),
-    [combinedTagsData, activeAttribute],
-  );
+  const filteredTags = useMemo(() => {
+    const tags = new Map<string, TagItem>();
+    if (builtInObjectIndex >= 0) {
+      for (const tag of objectTags) if (tag.attribute === activeAttribute) tags.set(tag.displayName, tag);
+    }
+    for (const tag of customTags) {
+      if (tag.object === activeObject && tag.attribute === activeAttribute && !tags.has(tag.displayName)) {
+        tags.set(tag.displayName, tag);
+      }
+    }
+    return Array.from(tags.values());
+  }, [activeAttribute, activeObject, builtInObjectIndex, customTags, objectTags]);
 
   return (
     <>
@@ -240,8 +271,7 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
                 />
               </Flex>
               <div style={{ maxHeight: "clamp(280px, 36vh, 400px)", overflowY: "auto" }}>
-                {/* 有标签就渲染，不拿网络状态当门槛：prompt-custom.json 的自定义标签
-                    打进了包里，分块抓取失败时它们照样该能点 */}
+                {/* 本地词库和随构建附带的自定义条目不依赖分块请求。 */}
                 {filteredTags.length > 0 && (
                   <TagSection tags={filteredTags} selectedNameSet={selectedNameSet} onTagClick={handleTagClick} mono={!useColorBlocks} />
                 )}
@@ -273,7 +303,23 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
           )}
         </Col>
         <Col xs={24} lg={8} xl={7}>
-          <ResultSection selectedTags={selectedTags} setSelectedTags={setSelectedTags} firstChunk={firstChunk} objectCount={builtInObjects.length} customTags={customTags} />
+          <ResultSection
+            selectedTags={selectedTags}
+            setSelectedTags={setSelectedTags}
+            firstChunk={firstChunk}
+            objectCount={builtInObjects.length}
+            customTags={customTags}
+            libraryId={libraryId}
+            libraryReady={libraryReady}
+          >
+            <LocalTagLibrary
+              hasLibrary={!!library}
+              ready={libraryReady}
+              objects={builtInObjects}
+              attributes={builtInAttributes}
+              onImported={showImportedTags}
+            />
+          </ResultSection>
         </Col>
       </Row>
     </>

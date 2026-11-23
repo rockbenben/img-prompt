@@ -16,7 +16,16 @@
     "tagsLoading": "Etiketler yükleniyor…",
     "tagsError": "Etiketler yüklenemedi",
     "retry": "Yeniden dene",
-    "customTags": "Özel etiketler"
+    "customTags": "Özel etiketler",
+    "localLibrary": {
+      "import": "Yerel etiket arşivini içe aktar",
+      "clear": "Yerel etiket arşivini kaldır",
+      "imported": "Arşiv içe aktarıldı.",
+      "cleared": "Yerel arşiv kaldırıldı.",
+      "invalid": "Geçerli bir etiket arşivi JSON dosyası seçin.",
+      "tooLarge": "En fazla 2 MB boyutunda bir JSON dosyası seçin.",
+      "storageError": "Arşiv bu cihaza kaydedilemedi."
+    }
   },
   "ResultSection": {
     "tooltip-light": "Portre aydınlatma promptları ekle (film ışığı, alacakaranlık vb.)",

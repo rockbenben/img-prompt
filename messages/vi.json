@@ -16,7 +16,16 @@
     "tagsLoading": "Đang tải thẻ…",
     "tagsError": "Không tải được thẻ",
     "retry": "Thử lại",
-    "customTags": "Thẻ tùy chỉnh"
+    "customTags": "Thẻ tùy chỉnh",
+    "localLibrary": {
+      "import": "Nhập thư viện thẻ cục bộ",
+      "clear": "Xóa thư viện thẻ cục bộ",
+      "imported": "Đã nhập thư viện.",
+      "cleared": "Đã xóa thư viện cục bộ.",
+      "invalid": "Chọn tệp JSON thư viện thẻ hợp lệ.",
+      "tooLarge": "Chọn tệp JSON có dung lượng tối đa 2 MB.",
+      "storageError": "Không thể lưu thư viện trên thiết bị này."
+    }
   },
   "ResultSection": {
     "tooltip-light": "Chèn prompt ánh sáng chân dung (ánh sáng điện ảnh, tia hoàng hôn, v.v.)",

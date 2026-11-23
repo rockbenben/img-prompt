@@ -16,7 +16,16 @@
     "tagsLoading": "Caricamento tag…",
     "tagsError": "I tag non si sono caricati",
     "retry": "Riprova",
-    "customTags": "Tag personalizzati"
+    "customTags": "Tag personalizzati",
+    "localLibrary": {
+      "import": "Importa la raccolta locale di tag",
+      "clear": "Rimuovi la raccolta locale di tag",
+      "imported": "Raccolta importata.",
+      "cleared": "Raccolta locale rimossa.",
+      "invalid": "Seleziona un file JSON valido per la raccolta di tag.",
+      "tooLarge": "Seleziona un file JSON di massimo 2 MB.",
+      "storageError": "Impossibile salvare la raccolta su questo dispositivo."
+    }
   },
   "ResultSection": {
     "tooltip-light": "Inserisci prompt di illuminazione per ritratti (luce cinematografica, raggi crepuscolari, ecc.)",

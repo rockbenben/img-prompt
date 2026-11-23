@@ -16,7 +16,16 @@
     "tagsLoading": "Chargement des tags…",
     "tagsError": "Les tags n'ont pas pu être chargés",
     "retry": "Réessayer",
-    "customTags": "Tags personnalisés"
+    "customTags": "Tags personnalisés",
+    "localLibrary": {
+      "import": "Importer un lexique local",
+      "clear": "Supprimer le lexique local",
+      "imported": "Lexique importé.",
+      "cleared": "Lexique local supprimé.",
+      "invalid": "Sélectionnez un fichier JSON de lexique valide.",
+      "tooLarge": "Sélectionnez un fichier JSON de 2 Mo maximum.",
+      "storageError": "Impossible d’enregistrer le lexique sur cet appareil."
+    }
   },
   "ResultSection": {
     "tooltip-light": "Insérer des prompts d'éclairage de portrait (éclairage cinématographique, rayons crépusculaires, etc.)",

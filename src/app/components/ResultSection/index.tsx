@@ -1,4 +1,4 @@
-import { FC } from "react";
+import { useEffect, useRef, useState, type FC, type PropsWithChildren } from "react";
 import { Button, Checkbox, Input, Flex, Space } from "antd";
 import { BgColorsOutlined } from "@ant-design/icons";
 import { useLocale } from "next-intl";
@@ -20,11 +20,28 @@ interface ResultSectionProps {
   firstChunk: TagItem[];
   objectCount: number;
   customTags: TagItem[];
+  libraryId: string | null;
+  libraryReady: boolean;
 }
 
-const PromptResults: FC<ResultSectionProps> = (props) => {
+const PromptResults: FC<PropsWithChildren<ResultSectionProps>> = (props) => {
   const { copyToClipboard } = useCopyToClipboard();
   const locale = useLocale();
+  const panelRef = useRef<HTMLElement>(null);
+  const [fitsViewport, setFitsViewport] = useState(false);
+
+  useEffect(() => {
+    const panel = panelRef.current;
+    if (!panel) return;
+    const update = () => setFitsViewport(panel.getBoundingClientRect().height + 32 <= window.innerHeight);
+    const observer = new ResizeObserver(update);
+    observer.observe(panel);
+    window.addEventListener("resize", update);
+    return () => {
+      observer.disconnect();
+      window.removeEventListener("resize", update);
+    };
+  }, []);
 
   const {
     resultText,
@@ -73,8 +90,7 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
   };
 
   return (
-    // pp-side：桌面上整栏 sticky（见 globals.css），滚到已选/FAQ 时提示词仍在视野里
-    <Flex vertical gap={16} className="pp-side">
+    <Flex ref={panelRef} vertical gap={16} className="pp-side" data-fits-viewport={fitsViewport}>
       {/* tabIndex=-1：跳转链接的落点，锚点跳过来时焦点真的落在这里，
           下一次 Tab 就进输入框（只设 id 的话焦点还留在链接上） */}
       <div className="pp-mixer" id="pp-prompt" tabIndex={-1}>
@@ -131,6 +147,7 @@ const PromptResults: FC<ResultSectionProps> = (props) => {
 
         <TranslationResult translatedText={translatedText} isTranslating={isAutoTranslating} isVisible={locale !== "en" && autoTranslate} t={t} />
       </div>
+      {props.children}
     </Flex>
   );
 };

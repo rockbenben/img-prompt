@@ -16,7 +16,16 @@
     "tagsLoading": "Loading tags…",
     "tagsError": "Tags didn't load",
     "retry": "Try again",
-    "customTags": "Custom tags"
+    "customTags": "Custom tags",
+    "localLibrary": {
+      "import": "Import local tag library",
+      "clear": "Remove local tag library",
+      "imported": "Library imported.",
+      "cleared": "Local library removed.",
+      "invalid": "Choose a valid tag library JSON file.",
+      "tooLarge": "Choose a JSON file of 2 MB or less.",
+      "storageError": "Could not save the library on this device."
+    }
   },
   "ResultSection": {
     "tooltip-light": "Insert portrait lighting prompts (film lighting, twilight rays, etc.)",

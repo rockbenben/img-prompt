@@ -16,7 +16,16 @@
     "tagsLoading": "Memuat tag…",
     "tagsError": "Tag gagal dimuat",
     "retry": "Coba lagi",
-    "customTags": "Tag khusus"
+    "customTags": "Tag khusus",
+    "localLibrary": {
+      "import": "Impor pustaka tag lokal",
+      "clear": "Hapus pustaka tag lokal",
+      "imported": "Pustaka telah diimpor.",
+      "cleared": "Pustaka lokal telah dihapus.",
+      "invalid": "Pilih file JSON pustaka tag yang valid.",
+      "tooLarge": "Pilih file JSON berukuran maksimal 2 MB.",
+      "storageError": "Pustaka tidak dapat disimpan di perangkat ini."
+    }
   },
   "ResultSection": {
     "tooltip-light": "Sisipkan prompt pencahayaan potret (pencahayaan film, sinar senja, dll.)",
