@@ -130,16 +130,19 @@ jobs:
         if: steps.source.outputs.ref != ''
         run: |
           set -euo pipefail
+          curl_options=(-fsS --retry 15 --retry-all-errors --retry-delay 1 --retry-max-time 20 --max-time 5)
           for arch in amd64 arm64; do
+            echo "Checking linux/$arch"
             container=$(docker run -d --platform "linux/$arch" -p 127.0.0.1::5666 "imgprompt-verify:$arch")
             trap 'docker logs "$container"; docker rm -f "$container"' EXIT
             address=$(docker port "$container" 5666/tcp)
-            curl -fsS --retry 15 --retry-connrefused --retry-delay 1 "http://$address/" > /dev/null
+            curl "${curl_options[@]}" -o /dev/null "http://$address/"
             for locale in en ar; do
-              curl -fsS "http://$address/$locale" > "$RUNNER_TEMP/imgprompt-smoke.html"
+              curl "${curl_options[@]}" -o "$RUNNER_TEMP/imgprompt-smoke.html" "http://$address/$locale"
               grep -q 'id="pp-main"' "$RUNNER_TEMP/imgprompt-smoke.html"
             done
-            curl -fsS "http://$address/data/prompt-chunks/en/0.json" | jq -e 'type == "array" and length > 0' > /dev/null
+            curl "${curl_options[@]}" -o "$RUNNER_TEMP/imgprompt-smoke.json" "http://$address/data/prompt-chunks/en/0.json"
+            jq -e 'type == "array" and length > 0' "$RUNNER_TEMP/imgprompt-smoke.json" > /dev/null
             docker rm -f "$container"
             trap - EXIT
           done
