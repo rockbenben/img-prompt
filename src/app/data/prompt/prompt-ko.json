@@ -558,7 +558,7 @@
     "langName": "일본 하녀",
     "object": "캐릭터",
     "attribute": "신분",
-    "preview": "https://img.aishort.top/imgprompt/20260209051112828.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091109332.webp"
   },
   {
     "displayName": "yaoi",
@@ -685,6 +685,13 @@
     "object": "캐릭터",
     "attribute": "애니메이션",
     "preview": "https://img.aishort.top/imgprompt/20260209051338305.webp"
+  },
+  {
+    "displayName": "k/da_(league_of_legends)",
+    "langName": "K/DA (리그 오브 레전드)",
+    "object": "캐릭터",
+    "attribute": "애니메이션",
+    "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
   },
   {
     "displayName": "magical_girl",
@@ -1174,7 +1181,7 @@
     "langName": "검은 피부",
     "object": "캐릭터",
     "attribute": "피부",
-    "preview": "https://img.aishort.top/imgprompt/20260210193448392.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125160109491.webp"
   },
   {
     "displayName": "white_marble_glowing_skin",
@@ -2462,7 +2469,7 @@
     "langName": "개 귀",
     "object": "캐릭터",
     "attribute": "귀",
-    "preview": "https://img.aishort.top/imgprompt/20260211140539891.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162324015.webp"
   },
   {
     "displayName": "coyote_ears",
@@ -2483,14 +2490,14 @@
     "langName": "쥐 귀",
     "object": "캐릭터",
     "attribute": "귀",
-    "preview": "https://img.aishort.top/imgprompt/20260211140618000.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173955736.webp"
   },
   {
     "displayName": "squirrel_ears",
     "langName": "다람쥐 귀",
     "object": "캐릭터",
     "attribute": "귀",
-    "preview": "https://img.aishort.top/imgprompt/20260211140630342.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162324839.webp"
   },
   {
     "displayName": "raccoon_ears",
@@ -2511,7 +2518,7 @@
     "langName": "팬더 귀",
     "object": "캐릭터",
     "attribute": "귀",
-    "preview": "https://img.aishort.top/imgprompt/20260211140708077.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162324403.webp"
   },
   {
     "displayName": "lion_ears",
@@ -2729,6 +2736,13 @@
     "object": "캐릭터",
     "attribute": "눈",
     "preview": "https://img.aishort.top/imgprompt/20260211141356627.webp"
+  },
+  {
+    "displayName": "eyeball",
+    "langName": "응시",
+    "object": "캐릭터",
+    "attribute": "눈",
+    "preview": "https://img.aishort.top/imgprompt/20260211175041807.webp"
   },
   {
     "displayName": "glistening_eyes",
@@ -3449,7 +3463,7 @@
     "langName": "밝은 눈",
     "object": "캐릭터",
     "attribute": "눈빛",
-    "preview": "https://img.aishort.top/imgprompt/20260211143656521.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173955218.webp"
   },
   {
     "displayName": "glowing_eyes",
@@ -3484,14 +3498,14 @@
     "langName": "텅 빈 눈",
     "object": "캐릭터",
     "attribute": "눈빛",
-    "preview": "https://img.aishort.top/imgprompt/20260211143758170.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175821265.webp"
   },
   {
     "displayName": "solid_eyes",
     "langName": "단색 눈",
     "object": "캐릭터",
     "attribute": "눈빛",
-    "preview": "https://img.aishort.top/imgprompt/20260211143810525.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211913129.webp"
   },
   {
     "displayName": "sharp_eyes",
@@ -3505,7 +3519,7 @@
     "langName": "기울어진 눈매",
     "object": "캐릭터",
     "attribute": "눈빛",
-    "preview": "https://img.aishort.top/imgprompt/20260211143835871.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211913654.webp"
   },
   {
     "displayName": "wink",
@@ -4110,6 +4124,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260211145729295.webp"
   },
   {
+    "displayName": "sharp_fingernails",
+    "langName": "날카로운 손톱",
+    "object": "캐릭터",
+    "attribute": "손톱",
+    "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
+  },
+  {
     "displayName": "nail",
     "langName": "손톱",
     "object": "캐릭터",
@@ -4436,7 +4457,7 @@
     "langName": "미니 윙",
     "object": "캐릭터",
     "attribute": "날개",
-    "preview": "https://img.aishort.top/imgprompt/20260211150708765.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173954730.webp"
   },
   {
     "displayName": "multicolored_wings",
@@ -4520,7 +4541,7 @@
     "langName": "듀오톤 배경",
     "object": "환경",
     "attribute": "배경",
-    "preview": "https://img.aishort.top/imgprompt/20260211150936747.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922134.webp"
   },
   {
     "displayName": "multicolored_background",
@@ -5605,7 +5626,7 @@
     "langName": "고층운",
     "object": "환경",
     "attribute": "구름",
-    "preview": "https://img.aishort.top/imgprompt/20260211154517625.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161821354.webp"
   },
   {
     "displayName": "altostratus_opacus",
@@ -5843,7 +5864,7 @@
     "langName": "어폐(고베이)",
     "object": "환경",
     "attribute": "실외",
-    "preview": "https://img.aishort.top/imgprompt/20260317125003286.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091313251.webp"
   },
   {
     "displayName": "temple",
@@ -6273,15 +6294,15 @@
     "preview": "https://img.aishort.top/imgprompt/20260211160551027.webp"
   },
   {
-    "displayName": "greco-roman architectur",
-    "langName": "그리스 로마 건축",
+    "displayName": "greco-roman architecture",
+    "langName": "그리스·로마 건축",
     "object": "환경",
     "attribute": "실외",
     "preview": "https://img.aishort.top/imgprompt/20260211160604356.webp"
   },
   {
-    "displayName": "in the romanesque architecture streets",
-    "langName": "로만스크 양식 거리",
+    "displayName": "street with Romanesque architecture",
+    "langName": "로마네스크 건축의 거리",
     "object": "환경",
     "attribute": "실외",
     "preview": "https://img.aishort.top/imgprompt/20260211160617842.webp"
@@ -6378,25 +6399,11 @@
     "preview": "https://img.aishort.top/imgprompt/20260211160941350.webp"
   },
   {
-    "displayName": "chinese_style_loft",
-    "langName": "중국식 로프트",
+    "displayName": "architectural turret",
+    "langName": "건축물의 작은 탑",
     "object": "환경",
     "attribute": "실외",
-    "preview": "https://img.aishort.top/imgprompt/20260928203748176.webp"
-  },
-  {
-    "displayName": "traditional_chinese_room",
-    "langName": "전통 중국식 객실",
-    "object": "환경",
-    "attribute": "실외",
-    "preview": "https://img.aishort.top/imgprompt/20260928203800477.webp"
-  },
-  {
-    "displayName": "turret",
-    "langName": "탑",
-    "object": "환경",
-    "attribute": "실외",
-    "preview": "https://img.aishort.top/imgprompt/20260211161021082.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091447286.webp"
   },
   {
     "displayName": "tower",
@@ -6732,7 +6739,21 @@
     "langName": "궁전",
     "object": "환경",
     "attribute": "실내",
-    "preview": "https://img.aishort.top/imgprompt/20260211162027180.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091113495.webp"
+  },
+  {
+    "displayName": "chinese_style_loft",
+    "langName": "중국식 로프트",
+    "object": "환경",
+    "attribute": "실내",
+    "preview": "https://img.aishort.top/imgprompt/20260928203748176.webp"
+  },
+  {
+    "displayName": "traditional_chinese_room",
+    "langName": "전통 중국식 객실",
+    "object": "환경",
+    "attribute": "실내",
+    "preview": "https://img.aishort.top/imgprompt/20260928203800477.webp"
   },
   {
     "displayName": "bed",
@@ -7663,7 +7684,7 @@
     "langName": "우치와 손부채",
     "object": "물건",
     "attribute": "기타 아이템",
-    "preview": "https://img.aishort.top/imgprompt/20260211164840551.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091536844.webp"
   },
   {
     "displayName": "Cage",
@@ -7831,7 +7852,7 @@
     "langName": "치비 인셋",
     "object": "물건",
     "attribute": "기타 아이템",
-    "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162327643.webp"
   },
   {
     "displayName": "damaged",
@@ -7964,7 +7985,7 @@
     "langName": "세이버 / 군도",
     "object": "물건",
     "attribute": "무기",
-    "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091117893.webp"
   },
   {
     "displayName": "dagger",
@@ -9693,7 +9714,7 @@
     "langName": "아래를 바라봄",
     "object": "동작",
     "attribute": "시선과 표정",
-    "preview": "https://img.aishort.top/imgprompt/20260211175003043.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211914077.webp"
   },
   {
     "displayName": "looking_up",
@@ -9708,13 +9729,6 @@
     "object": "동작",
     "attribute": "시선과 표정",
     "preview": "https://img.aishort.top/imgprompt/20260211175028772.webp"
-  },
-  {
-    "displayName": "eyeball",
-    "langName": "응시",
-    "object": "동작",
-    "attribute": "시선과 표정",
-    "preview": "https://img.aishort.top/imgprompt/20260211175041807.webp"
   },
   {
     "displayName": "looking_to_the_side",
@@ -9742,14 +9756,14 @@
     "langName": "앞을 바라봄",
     "object": "동작",
     "attribute": "시선과 표정",
-    "preview": "https://img.aishort.top/imgprompt/20260211175132546.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211914519.webp"
   },
   {
     "displayName": "sideways_glance",
     "langName": "살짝 옆눈길",
     "object": "동작",
     "attribute": "시선과 표정",
-    "preview": "https://img.aishort.top/imgprompt/20260211175145263.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211914924.webp"
   },
   {
     "displayName": "head_tilt",
@@ -9855,13 +9869,6 @@
     "object": "동작",
     "attribute": "시선과 표정",
     "preview": "https://img.aishort.top/imgprompt/20260928173151946.webp"
-  },
-  {
-    "displayName": "gradient",
-    "langName": "그라데이션",
-    "object": "동작",
-    "attribute": "시선과 표정",
-    "preview": "https://img.aishort.top/imgprompt/20260211175505744.webp"
   },
   {
     "displayName": "stare at me",
@@ -9990,13 +9997,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260928170307207.webp"
   },
   {
-    "displayName": "sharp_fingernails",
-    "langName": "날카로운 손톱",
-    "object": "동작",
-    "attribute": "팔 동작",
-    "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
-  },
-  {
     "displayName": "spread_fingers",
     "langName": "손가락 벌리기",
     "object": "동작",
@@ -10015,7 +10015,7 @@
     "langName": "손가락 W",
     "object": "동작",
     "attribute": "팔 동작",
-    "preview": "https://img.aishort.top/imgprompt/20260928170326088.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162328098.webp"
   },
   {
     "displayName": "bound_arms",
@@ -10064,7 +10064,7 @@
     "langName": "뒤로 꺾인 팔",
     "object": "동작",
     "attribute": "팔 동작",
-    "preview": "https://img.aishort.top/imgprompt/20260928185216850.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211915279.webp"
   },
   {
     "displayName": "hugging_own_legs",
@@ -10316,7 +10316,7 @@
     "langName": "고양이 발 포즈",
     "object": "동작",
     "attribute": "제스처",
-    "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162325252.webp"
   },
   {
     "displayName": "finger_gun",
@@ -10365,7 +10365,7 @@
     "langName": "여우 그림자 인형",
     "object": "동작",
     "attribute": "제스처",
-    "preview": "https://img.aishort.top/imgprompt/20260211181016614.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211915478.webp"
   },
   {
     "displayName": "double_fox_shadow_puppet",
@@ -10379,7 +10379,7 @@
     "langName": "손가락을 물다",
     "object": "동작",
     "attribute": "제스처",
-    "preview": "https://img.aishort.top/imgprompt/20260211181041581.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211915701.webp"
   },
   {
     "displayName": "finger_in_mouth",
@@ -11016,7 +11016,7 @@
     "langName": "배에 손을 올려라",
     "object": "동작",
     "attribute": "포옹과 움켜잡기",
-    "preview": "https://img.aishort.top/imgprompt/20260211183050952.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050324324.webp"
   },
   {
     "displayName": "hands_on_own_thighs",
@@ -11128,7 +11128,7 @@
     "langName": "넥타이를 잡고",
     "object": "동작",
     "attribute": "포옹과 움켜잡기",
-    "preview": "https://img.aishort.top/imgprompt/20260211183430733.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050324749.webp"
   },
   {
     "displayName": "neckwear_grab",
@@ -11142,7 +11142,7 @@
     "langName": "베개를 잡다",
     "object": "동작",
     "attribute": "포옹과 움켜잡기",
-    "preview": "https://img.aishort.top/imgprompt/20260211183459740.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050324964.webp"
   },
   {
     "displayName": "sheet_grab",
@@ -11310,7 +11310,7 @@
     "langName": "배에 손을 올려라",
     "object": "동작",
     "attribute": "포옹과 움켜잡기",
-    "preview": "https://img.aishort.top/imgprompt/20260212075648271.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050325289.webp"
   },
   {
     "displayName": "hand_on_shoulder",
@@ -11373,7 +11373,7 @@
     "langName": "다리를 벌리고",
     "object": "동작",
     "attribute": "다리 동작",
-    "preview": "https://img.aishort.top/imgprompt/20260211184203044.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050325498.webp"
   },
   {
     "displayName": "knees_to_chest",
@@ -11415,7 +11415,7 @@
     "langName": "커트시",
     "object": "동작",
     "attribute": "다리 동작",
-    "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050325678.webp"
   },
   {
     "displayName": "tiptoes",
@@ -11443,7 +11443,7 @@
     "langName": "발이 화면 밖",
     "object": "동작",
     "attribute": "다리 동작",
-    "preview": "https://img.aishort.top/imgprompt/20260928172729001.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050325865.webp"
   },
   {
     "displayName": "all_fours",
@@ -11458,13 +11458,6 @@
     "object": "동작",
     "attribute": "다리 동작",
     "preview": "https://img.aishort.top/imgprompt/20260928172748532.webp"
-  },
-  {
-    "displayName": "ankle_strap",
-    "langName": "발목 스트랩",
-    "object": "동작",
-    "attribute": "다리 동작",
-    "preview": "https://img.aishort.top/imgprompt/20260211184447933.webp"
   },
   {
     "displayName": "ankle_wrap",
@@ -11544,13 +11537,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260211184704562.webp"
   },
   {
-    "displayName": "k/da_(league_of_legends)",
-    "langName": "K/DA (리그 오브 레전드)",
-    "object": "동작",
-    "attribute": "다리 동작",
-    "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
-  },
-  {
     "displayName": "knee_up",
     "langName": "무릎 세우기",
     "object": "동작",
@@ -11579,13 +11565,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260211184806590.webp"
   },
   {
-    "displayName": "leg_belt",
-    "langName": "다리 스트랩",
-    "object": "동작",
-    "attribute": "다리 동작",
-    "preview": "https://img.aishort.top/imgprompt/20260928185618936.webp"
-  },
-  {
     "displayName": "leg_hair",
     "langName": "다리털",
     "object": "동작",
@@ -11611,7 +11590,7 @@
     "langName": "다리를 머리 위로 들어 올리세요",
     "object": "동작",
     "attribute": "다리 동작",
-    "preview": "https://img.aishort.top/imgprompt/20260224190101888.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162707679.webp"
   },
   {
     "displayName": "lowleg",
@@ -11639,7 +11618,7 @@
     "langName": "다리 없음",
     "object": "동작",
     "attribute": "다리 동작",
-    "preview": "https://img.aishort.top/imgprompt/20260928172843942.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050326138.webp"
   },
   {
     "displayName": "no_legwear",
@@ -11667,7 +11646,7 @@
     "langName": "안쪽으로 모은 발",
     "object": "동작",
     "attribute": "다리 동작",
-    "preview": "https://img.aishort.top/imgprompt/20260928172903124.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050326307.webp"
   },
   {
     "displayName": "soaking_feet",
@@ -11681,7 +11660,7 @@
     "langName": "다리를 벌리다",
     "object": "동작",
     "attribute": "다리 동작",
-    "preview": "https://img.aishort.top/imgprompt/20260211185113618.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050326598.webp"
   },
   {
     "displayName": "squatting",
@@ -12916,13 +12895,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260211192832498.webp"
   },
   {
-    "displayName": "zipper_pull_tab",
-    "langName": "지퍼 당김 탭",
-    "object": "동작",
-    "attribute": "옷 정리",
-    "preview": "https://img.aishort.top/imgprompt/20260211192845162.webp"
-  },
-  {
     "displayName": "pulled_by_self",
     "langName": "스스로 옷 내리기",
     "object": "동작",
@@ -12941,7 +12913,7 @@
     "langName": "치마 바구니 들추기",
     "object": "동작",
     "attribute": "옷 정리",
-    "preview": "https://img.aishort.top/imgprompt/20260317125432845.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211916057.webp"
   },
   {
     "displayName": "cheek_pull",
@@ -13095,7 +13067,7 @@
     "langName": "거꾸로 앉기",
     "object": "동작",
     "attribute": "특수 포즈",
-    "preview": "https://img.aishort.top/imgprompt/20260211193524331.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161823584.webp"
   },
   {
     "displayName": "sitting_in_tree",
@@ -13830,7 +13802,7 @@
     "langName": "미친 웃음",
     "object": "표정",
     "attribute": "웃음",
-    "preview": "https://img.aishort.top/imgprompt/20260211200005529.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211916395.webp"
   },
   {
     "displayName": "kind_smile",
@@ -13851,7 +13823,7 @@
     "langName": "행복의 눈물",
     "object": "표정",
     "attribute": "웃음",
-    "preview": "https://img.aishort.top/imgprompt/20260211200103253.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211916802.webp"
   },
   {
     "displayName": "sad",
@@ -13886,7 +13858,7 @@
     "langName": "눈물을 흘리다",
     "object": "표정",
     "attribute": "울음",
-    "preview": "https://img.aishort.top/imgprompt/20260211200350163.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211917151.webp"
   },
   {
     "displayName": "lacrimation",
@@ -13907,7 +13879,7 @@
     "langName": "눈물",
     "object": "표정",
     "attribute": "울음",
-    "preview": "https://img.aishort.top/imgprompt/20260212083443138.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211917530.webp"
   },
   {
     "displayName": "tearing_up",
@@ -14202,7 +14174,7 @@
     "langName": "졸린",
     "object": "표정",
     "attribute": "기타 표정",
-    "preview": "https://img.aishort.top/imgprompt/20260212090526279.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211917910.webp"
   },
   {
     "displayName": "surprised",
@@ -14356,7 +14328,7 @@
     "langName": "지킬 앤 하이드",
     "object": "표정",
     "attribute": "기타 표정",
-    "preview": "https://img.aishort.top/imgprompt/20260212094243164.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211918242.webp"
   },
   {
     "displayName": "exhausted",
@@ -14685,7 +14657,7 @@
     "langName": "도교의 옷",
     "object": "의복",
     "attribute": "옷 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260212104604081.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091255712.webp"
   },
   {
     "displayName": "japanese_clothes",
@@ -14696,17 +14668,17 @@
   },
   {
     "displayName": "enmaided",
-    "langName": "기모노를 입은 여자",
+    "langName": "메이드 복장으로 분장",
     "object": "의복",
     "attribute": "옷 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260928173617045.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091121483.webp"
   },
   {
     "displayName": "hanten_clothes",
     "langName": "한텐 (일본 방한복)",
     "object": "의복",
     "attribute": "옷 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091129755.webp"
   },
   {
     "displayName": "kimono",
@@ -14720,14 +14692,14 @@
     "langName": "후리소데",
     "object": "의복",
     "attribute": "옷 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091136154.webp"
   },
   {
     "displayName": "sleeveless_kimono",
     "langName": "소매없는 기모노",
     "object": "의복",
     "attribute": "옷 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260212105129459.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162707335.webp"
   },
   {
     "displayName": "short_kimono",
@@ -14773,24 +14745,24 @@
   },
   {
     "displayName": "pelvic_curtain",
-    "langName": "치파오 옷 앞단",
+    "langName": "허리에서 늘어뜨린 천 패널",
     "object": "의복",
     "attribute": "옷 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260928173647730.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091143323.webp"
   },
   {
     "displayName": "ainu_clothes",
     "langName": "아이누 의류",
     "object": "의복",
     "attribute": "옷 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260212111343945.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091316711.webp"
   },
   {
     "displayName": "korean_clothes",
-    "langName": "한국 의류",
+    "langName": "한국 전통 의상",
     "object": "의복",
     "attribute": "옷 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260212111357320.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091320153.webp"
   },
   {
     "displayName": "hanbok",
@@ -14815,10 +14787,10 @@
   },
   {
     "displayName": "german_clothes",
-    "langName": "독일 의류",
+    "langName": "독일 전통 의상",
     "object": "의복",
     "attribute": "옷 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260212112504716.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091323775.webp"
   },
   {
     "displayName": "indian_style",
@@ -14846,7 +14818,7 @@
     "langName": "비잔틴풍 의상",
     "object": "의복",
     "attribute": "옷 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260212113409688.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091327512.webp"
   },
   {
     "displayName": "gothic",
@@ -14979,21 +14951,21 @@
     "langName": "당풍",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260212121530666.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126085947739.webp"
   },
   {
     "displayName": "hanfu,song style outfits,<lora:hanfuSong_v31:0.7>",
     "langName": "송풍",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260212121746787.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126085955725.webp"
   },
   {
     "displayName": "hanfu,ming style outfits,<lora:hanfuMing_v31:0.7>",
     "langName": "명풍",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260212122002935.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090002386.webp"
   },
   {
     "displayName": "orange upper shan",
@@ -15010,25 +14982,25 @@
     "preview": "https://img.aishort.top/imgprompt/20260928200431683.webp"
   },
   {
-    "displayName": "white chest po skirt",
-    "langName": "흰색 포치마",
+    "displayName": "white chest-high gored skirt",
+    "langName": "가슴 높이에 묶는 흰색 폭치마",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260317071440831.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126085958959.webp"
   },
   {
     "displayName": "red chest pleated skirt",
-    "langName": "가슴 길이 플리츠 스커트",
+    "langName": "가슴 높이에 묶는 빨간 주름치마",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260212123059075.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090028365.webp"
   },
   {
     "displayName": "green waistband",
-    "langName": "녹색 레이스",
+    "langName": "녹색 허리띠",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260213104707325.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126084512995.webp"
   },
   {
     "displayName": "white pibo",
@@ -15056,7 +15028,7 @@
     "langName": "세미 쉬어 화이트 플리츠 스커트",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260212124218502.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126085951656.webp"
   },
   {
     "displayName": "green floral songmo",
@@ -15077,56 +15049,56 @@
     "langName": "마면치마(마미엔)",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260212124500986.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090006306.webp"
   },
   {
     "displayName": "round collar",
     "langName": "크루넥",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260212124716561.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090056951.webp"
   },
   {
     "displayName": "standing collar",
     "langName": "스탠드 칼라",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260928173438690.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090033281.webp"
   },
   {
     "displayName": "square collar",
     "langName": "사각형 칼라",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260928173448488.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090106261.webp"
   },
   {
-    "displayName": "overlapping collar",
-    "langName": "겹깃",
+    "displayName": "yunjian cloud collar",
+    "langName": "윈젠 구름무늬 어깨깃",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260928200451869.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090101763.webp"
   },
   {
     "displayName": "embroidery",
     "langName": "자수",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260225101959426.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090010646.webp"
   },
   {
     "displayName": "woven gold",
     "langName": "금박 직조",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260212125226637.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090023272.webp"
   },
   {
-    "displayName": "makeup flower",
-    "langName": "메이크업 꽃",
+    "displayName": "zhuanghua polychrome silk brocade",
+    "langName": "좡화 다색 비단 직물",
     "object": "의복",
     "attribute": "고풍",
-    "preview": "https://img.aishort.top/imgprompt/20260212125646370.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090016610.webp"
   },
   {
     "displayName": "bufu",
@@ -15322,7 +15294,7 @@
     "langName": "사제의 옷",
     "object": "의복",
     "attribute": "정장",
-    "preview": "https://img.aishort.top/imgprompt/20260212133738802.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091304126.webp"
   },
   {
     "displayName": "domineering",
@@ -16603,7 +16575,7 @@
     "langName": "갓포우기 (일본식 앞치마)",
     "object": "의복",
     "attribute": "상의",
-    "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091255721.webp"
   },
   {
     "displayName": "detached sleeves",
@@ -17471,7 +17443,7 @@
     "langName": "흰색 넥타이",
     "object": "의복",
     "attribute": "네크라인",
-    "preview": "https://img.aishort.top/imgprompt/20260213085746475.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173954434.webp"
   },
   {
     "displayName": "bowtie",
@@ -17730,7 +17702,7 @@
     "langName": "플레드 네크라인",
     "object": "의복",
     "attribute": "네크라인",
-    "preview": "https://img.aishort.top/imgprompt/20260213113334291.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211918587.webp"
   },
   {
     "displayName": "diagonal-striped_neckwear",
@@ -17863,7 +17835,7 @@
     "langName": "다이아몬드 스카프",
     "object": "의복",
     "attribute": "스카프",
-    "preview": "https://img.aishort.top/imgprompt/20260213113743333.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050326865.webp"
   },
   {
     "displayName": "beige_scarf",
@@ -17919,7 +17891,7 @@
     "langName": "팔 스카프",
     "object": "의복",
     "attribute": "스카프",
-    "preview": "https://img.aishort.top/imgprompt/20260928200914226.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050327222.webp"
   },
   {
     "displayName": "scarf_on_head",
@@ -17989,7 +17961,7 @@
     "langName": "허리 앞치마",
     "object": "의복",
     "attribute": "허리",
-    "preview": "https://img.aishort.top/imgprompt/20260213114946767.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050327659.webp"
   },
   {
     "displayName": "maid_apron",
@@ -18017,7 +17989,7 @@
     "langName": "허리 옷",
     "object": "의복",
     "attribute": "허리",
-    "preview": "https://img.aishort.top/imgprompt/20260213115240005.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050328206.webp"
   },
   {
     "displayName": "jacket_around_waist",
@@ -18115,7 +18087,7 @@
     "langName": "헬멧",
     "object": "의복",
     "attribute": "갑옷",
-    "preview": "https://img.aishort.top/imgprompt/20260213115535005.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091149298.webp"
   },
   {
     "displayName": "kabuto",
@@ -18157,7 +18129,7 @@
     "langName": "허리 갑옷 (폴드)",
     "object": "의복",
     "attribute": "갑옷",
-    "preview": "https://img.aishort.top/imgprompt/20260928173528167.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091155963.webp"
   },
   {
     "displayName": "greaves",
@@ -18178,7 +18150,7 @@
     "langName": "장갑화",
     "object": "의복",
     "attribute": "갑옷",
-    "preview": "https://img.aishort.top/imgprompt/20260213115933940.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091304450.webp"
   },
   {
     "displayName": "dress",
@@ -18661,7 +18633,7 @@
     "langName": "치마 자락을 잡아라",
     "object": "의복",
     "attribute": "치마",
-    "preview": "https://img.aishort.top/imgprompt/20260213132657290.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175821474.webp"
   },
   {
     "displayName": "dress_tug",
@@ -18885,7 +18857,7 @@
     "langName": "하카마 바지",
     "object": "의복",
     "attribute": "바지",
-    "preview": "https://img.aishort.top/imgprompt/20260213134600275.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091540095.webp"
   },
   {
     "displayName": "harem_pants",
@@ -19168,6 +19140,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260213142519445.webp"
   },
   {
+    "displayName": "single_kneehigh",
+    "langName": "한쪽 오버니삭스",
+    "object": "의복",
+    "attribute": "양말",
+    "preview": "https://img.aishort.top/imgprompt/20260928173817207.webp"
+  },
+  {
     "displayName": "bare_legs",
     "langName": "맨다리",
     "object": "의복",
@@ -19424,7 +19403,7 @@
     "langName": "타비 (발가락 양말)",
     "object": "의복",
     "attribute": "양말",
-    "preview": "https://img.aishort.top/imgprompt/20260928174848509.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091309740.webp"
   },
   {
     "displayName": "ankle_socks",
@@ -19459,7 +19438,7 @@
     "langName": "레그웨어 컷아웃",
     "object": "의복",
     "attribute": "양말",
-    "preview": "https://img.aishort.top/imgprompt/20260213144241934.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161824696.webp"
   },
   {
     "displayName": "leg_garter",
@@ -19774,7 +19753,7 @@
     "langName": "더블 세로 스트라이프",
     "object": "의복",
     "attribute": "장식",
-    "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050328737.webp"
   },
   {
     "displayName": "halter_top",
@@ -19819,13 +19798,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260225090618230.webp"
   },
   {
-    "displayName": "single_kneehigh",
-    "langName": "한쪽 오버니삭스",
-    "object": "의복",
-    "attribute": "장식",
-    "preview": "https://img.aishort.top/imgprompt/20260928173817207.webp"
-  },
-  {
     "displayName": "single_vertical_stripe",
     "langName": "한쪽 세로 스트라이프",
     "object": "의복",
@@ -19851,7 +19823,14 @@
     "langName": "O-링이 있는 의류",
     "object": "의복",
     "attribute": "장식",
-    "preview": "https://img.aishort.top/imgprompt/20260213151511780.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050329375.webp"
+  },
+  {
+    "displayName": "leg_belt",
+    "langName": "다리 스트랩",
+    "object": "의복",
+    "attribute": "장식",
+    "preview": "https://img.aishort.top/imgprompt/20260928185618936.webp"
   },
   {
     "displayName": "o-ring_top",
@@ -19886,7 +19865,7 @@
     "langName": "옷 끈",
     "object": "의복",
     "attribute": "장식",
-    "preview": "https://img.aishort.top/imgprompt/20260213151820136.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050329959.webp"
   },
   {
     "displayName": "full-length_zipper",
@@ -19894,6 +19873,13 @@
     "object": "의복",
     "attribute": "장식",
     "preview": "https://img.aishort.top/imgprompt/20260213151833174.webp"
+  },
+  {
+    "displayName": "zipper_pull_tab",
+    "langName": "지퍼 당김 탭",
+    "object": "의복",
+    "attribute": "장식",
+    "preview": "https://img.aishort.top/imgprompt/20261125211920953.webp"
   },
   {
     "displayName": "gathers",
@@ -20005,91 +19991,91 @@
     "langName": "동물 무늬",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152202525.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162904512.webp"
   },
   {
     "displayName": "cat_print",
     "langName": "고양이 발자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152215430.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162904986.webp"
   },
   {
     "displayName": "bear_print",
     "langName": "곰 발자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152228436.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162905481.webp"
   },
   {
     "displayName": "bird_print",
     "langName": "새 발자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152241567.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161827019.webp"
   },
   {
     "displayName": "bunny_print",
     "langName": "토끼 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152254424.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162905976.webp"
   },
   {
     "displayName": "cow_print",
     "langName": "소의 발자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152307330.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161826540.webp"
   },
   {
     "displayName": "dragon_print",
     "langName": "드래곤 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152320471.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162906436.webp"
   },
   {
     "displayName": "fish_print",
     "langName": "물고기 무늬",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152333619.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161830624.webp"
   },
   {
     "displayName": "frog_print",
     "langName": "개구리 발자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152346813.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162906928.webp"
   },
   {
     "displayName": "shark_print",
     "langName": "상어 발자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152359711.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162907382.webp"
   },
   {
     "displayName": "snake_print",
     "langName": "뱀 패턴",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152415185.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162907887.webp"
   },
   {
     "displayName": "zebra_print",
     "langName": "얼룩말 무늬",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152428298.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162908366.webp"
   },
   {
     "displayName": "tiger_print",
     "langName": "호랑이 줄무늬",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152441366.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162908821.webp"
   },
   {
     "displayName": "leopard_print",
@@ -20103,112 +20089,112 @@
     "langName": "재규어 무늬",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152507588.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162909298.webp"
   },
   {
     "displayName": "bat_print",
     "langName": "박쥐 날개 무늬",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152521321.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162909805.webp"
   },
   {
     "displayName": "aardwolf_print",
     "langName": "아르드울프 발자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152534337.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162910305.webp"
   },
   {
     "displayName": "african_wild_dog_print",
     "langName": "아프리카 야생 개 발자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152547913.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162910798.webp"
   },
   {
     "displayName": "cheetah_print",
     "langName": "치타 발자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152601013.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162911324.webp"
   },
   {
     "displayName": "dog_print",
     "langName": "개 발자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152816742.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162911826.webp"
   },
   {
     "displayName": "fox_print",
     "langName": "여우 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152829626.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161828045.webp"
   },
   {
     "displayName": "giraffe_print",
     "langName": "기린 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152842177.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161833706.webp"
   },
   {
     "displayName": "panda_print",
     "langName": "팬더 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152855089.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162912321.webp"
   },
   {
     "displayName": "sand_cat_print",
     "langName": "모래고양이 발자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152907952.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162912808.webp"
   },
   {
     "displayName": "whale_print",
     "langName": "고래 발자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152920714.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162913277.webp"
   },
   {
     "displayName": "white_tiger_print",
     "langName": "화이트 타이거 패턴",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152933750.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162913774.webp"
   },
   {
     "displayName": "goldfish_print",
     "langName": "금붕어 무늬",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152946698.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161832199.webp"
   },
   {
     "displayName": "wing_print",
     "langName": "날개 무늬",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213152959587.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162914238.webp"
   },
   {
     "displayName": "spider_web_print",
     "langName": "거미줄 무늬",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153013273.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162914703.webp"
   },
   {
     "displayName": "butterfly_print",
     "langName": "나비 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153026296.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161830120.webp"
   },
   {
     "displayName": "floral_print",
@@ -20222,70 +20208,70 @@
     "langName": "잎자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153053047.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162915178.webp"
   },
   {
     "displayName": "clover_print",
     "langName": "클로버 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153105539.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161829116.webp"
   },
   {
     "displayName": "maple_leaf_print",
     "langName": "단풍잎 무늬",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153118530.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162915757.webp"
   },
   {
     "displayName": "rose_print",
     "langName": "장미 무늬",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153131694.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161831660.webp"
   },
   {
     "displayName": "strawberry_print",
     "langName": "딸기 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153144543.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162916272.webp"
   },
   {
     "displayName": "cherry_print",
     "langName": "체리 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153157132.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161827541.webp"
   },
   {
     "displayName": "bamboo_print",
     "langName": "대나무 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153209854.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161831160.webp"
   },
   {
     "displayName": "carrot_print",
     "langName": "당근 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153222346.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162916707.webp"
   },
   {
     "displayName": "hibiscus_print",
     "langName": "히비스커스 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153235607.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162917172.webp"
   },
   {
     "displayName": "jack-o'-lantern_print",
     "langName": "잭오랜턴 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153249416.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162917652.webp"
   },
   {
     "displayName": "petal_print",
@@ -20299,56 +20285,56 @@
     "langName": "해바라기 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153315350.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161832696.webp"
   },
   {
     "displayName": "watermelon_print",
     "langName": "수박 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153328644.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162918147.webp"
   },
   {
     "displayName": "sky_print",
     "langName": "하늘 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153341432.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162918602.webp"
   },
   {
     "displayName": "cloud_print",
     "langName": "클라우드 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153354843.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162919131.webp"
   },
   {
     "displayName": "lightning_bolt_print",
     "langName": "번개 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153611416.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162919632.webp"
   },
   {
     "displayName": "rainbow_print",
     "langName": "레인보우 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153624309.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162920103.webp"
   },
   {
     "displayName": "snowflake_print",
     "langName": "눈송이 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153637092.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162920568.webp"
   },
   {
     "displayName": "starry_sky_print",
     "langName": "별이 빛나는 하늘 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153650267.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162921043.webp"
   },
   {
     "displayName": "crescent_print",
@@ -20362,7 +20348,7 @@
     "langName": "별 모양 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153716858.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162921529.webp"
   },
   {
     "displayName": "star_(symbol)",
@@ -20376,14 +20362,14 @@
     "langName": "달 무늬",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153743255.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162922061.webp"
   },
   {
     "displayName": "sun_print",
     "langName": "선 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153756474.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162922566.webp"
   },
   {
     "displayName": "character_print",
@@ -20397,49 +20383,49 @@
     "langName": "옷에 적힌 단어",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153822706.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162923036.webp"
   },
   {
     "displayName": "anchor_print",
     "langName": "앵커 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153837813.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162923544.webp"
   },
   {
     "displayName": "cherry_blossom_print",
     "langName": "벚꽃 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213153850429.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162924000.webp"
   },
   {
     "displayName": "musical_note_print",
     "langName": "음표 인쇄",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154106018.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161826047.webp"
   },
   {
     "displayName": "triangle_print",
     "langName": "삼각형 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154118571.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161825522.webp"
   },
   {
     "displayName": "arrow_print",
     "langName": "화살표 인쇄",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154333725.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162924502.webp"
   },
   {
     "displayName": "wave_print",
     "langName": "물결 무늬",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154346819.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162925022.webp"
   },
   {
     "displayName": "peace_symbol",
@@ -20453,14 +20439,14 @@
     "langName": "하트 패턴 | 하트 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154614668.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162925557.webp"
   },
   {
     "displayName": "flame_print",
     "langName": "화염 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154627746.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162926056.webp"
   },
   {
     "displayName": "hitodama_print",
@@ -20474,42 +20460,42 @@
     "langName": "발자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154654622.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162926514.webp"
   },
   {
     "displayName": "skeleton_print",
     "langName": "해골 무늬",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154707300.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161833217.webp"
   },
   {
     "displayName": "skull_print",
     "langName": "두개골 자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154720879.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162926987.webp"
   },
   {
     "displayName": "sparkle_print",
     "langName": "반짝이는 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154734596.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162927482.webp"
   },
   {
     "displayName": "yin_yang_print",
     "langName": "음양인쇄",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154747695.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162928012.webp"
   },
   {
     "displayName": "cross_print",
     "langName": "교차 요소 패턴",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154800629.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162928508.webp"
   },
   {
     "displayName": "camoflage",
@@ -20523,42 +20509,42 @@
     "langName": "깃발 인쇄",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154826754.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162929003.webp"
   },
   {
     "displayName": "bone_print",
     "langName": "뼈 자국",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154839578.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161829637.webp"
   },
   {
     "displayName": "ghost_print",
     "langName": "유령 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154852492.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162929505.webp"
   },
   {
     "displayName": "mushroom_print",
     "langName": "버섯 프린트",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154905276.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161828581.webp"
   },
   {
     "displayName": "onigiri_print",
     "langName": "밥공기 인쇄",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154918144.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162929972.webp"
   },
   {
     "displayName": "cat_ear_cutout",
     "langName": "고양이 귀 모양의 움푹 들어간 디자인",
     "object": "의복",
     "attribute": "무늬",
-    "preview": "https://img.aishort.top/imgprompt/20260213154930457.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162930432.webp"
   },
   {
     "displayName": "barefoot",
@@ -20750,6 +20736,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260928174535108.webp"
   },
   {
+    "displayName": "ankle_strap",
+    "langName": "발목 스트랩",
+    "object": "의복",
+    "attribute": "신발",
+    "preview": "https://img.aishort.top/imgprompt/20260211184447933.webp"
+  },
+  {
     "displayName": "mismatched_footwear",
     "langName": "짝이 다른 신발",
     "object": "의복",
@@ -20775,7 +20768,7 @@
     "langName": "샌들을 벗다",
     "object": "의복",
     "attribute": "신발",
-    "preview": "https://img.aishort.top/imgprompt/20260213164304925.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162706874.webp"
   },
   {
     "displayName": "shoe_soles",
@@ -20925,13 +20918,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260213172417479.webp"
   },
   {
-    "displayName": "anklet",
-    "langName": "발찌",
-    "object": "의복",
-    "attribute": "부츠",
-    "preview": "https://img.aishort.top/imgprompt/20260213173037758.webp"
-  },
-  {
     "displayName": "rubber_boots",
     "langName": "고무장화",
     "object": "의복",
@@ -21013,7 +20999,7 @@
     "langName": "싱글 슬리브",
     "object": "의복",
     "attribute": "소매",
-    "preview": "https://img.aishort.top/imgprompt/20260928201215340.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211918960.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
@@ -21041,7 +21027,7 @@
     "langName": "퍼피 반팔",
     "object": "의복",
     "attribute": "소매",
-    "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211919158.webp"
   },
   {
     "displayName": "frilled_sleeves",
@@ -21104,14 +21090,14 @@
     "langName": "찢어진 소매",
     "object": "의복",
     "attribute": "소매",
-    "preview": "https://img.aishort.top/imgprompt/20260928201237224.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211919404.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "손가락보다 긴 소매",
     "object": "의복",
     "attribute": "소매",
-    "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211919844.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
@@ -21160,7 +21146,7 @@
     "langName": "소매를 걷어올렸다",
     "object": "의복",
     "attribute": "소매",
-    "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211920207.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
@@ -21202,7 +21188,7 @@
     "langName": "리브 소매",
     "object": "의복",
     "attribute": "소매",
-    "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161821632.webp"
   },
   {
     "displayName": "single_detached_sleeve",
@@ -22371,7 +22357,7 @@
     "langName": "머리 핀",
     "object": "장신구",
     "attribute": "헤어 액세서리",
-    "preview": "https://img.aishort.top/imgprompt/20260213093703586.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091614214.webp"
   },
   {
     "displayName": "hood",
@@ -22801,13 +22787,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260928184807322.webp"
   },
   {
-    "displayName": "hatching_(texture)",
-    "langName": "해칭 텍스처",
-    "object": "장신구",
-    "attribute": "모자",
-    "preview": "https://img.aishort.top/imgprompt/20260928165239901.webp"
-  },
-  {
     "displayName": "hatsune_miku_(cosplay)",
     "langName": "하츠네 미쿠로 들어가다",
     "object": "장신구",
@@ -22816,7 +22795,7 @@
   },
   {
     "displayName": "porkpie_hat",
-    "langName": "도교 모자",
+    "langName": "포크파이 모자",
     "object": "장신구",
     "attribute": "모자",
     "preview": "https://img.aishort.top/imgprompt/20260213224356623.webp"
@@ -23239,7 +23218,7 @@
     "langName": "알약 스타일 귀걸이",
     "object": "장신구",
     "attribute": "귀걸이",
-    "preview": "https://img.aishort.top/imgprompt/20260213235417049.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161823118.webp"
   },
   {
     "displayName": "single_earring",
@@ -23470,7 +23449,7 @@
     "langName": "팔꿈치 장갑",
     "object": "장신구",
     "attribute": "장갑",
-    "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161823899.webp"
   },
   {
     "displayName": "bridal_gauntlets",
@@ -23800,6 +23779,13 @@
     "object": "장신구",
     "attribute": "주얼리",
     "preview": "https://img.aishort.top/imgprompt/20260214011111983.webp"
+  },
+  {
+    "displayName": "anklet",
+    "langName": "발찌",
+    "object": "장신구",
+    "attribute": "주얼리",
+    "preview": "https://img.aishort.top/imgprompt/20260213173037758.webp"
   },
   {
     "displayName": "choker",
@@ -24415,7 +24401,7 @@
     "langName": "솔로 포커스",
     "object": "사진",
     "attribute": "렌즈 초점",
-    "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162325613.webp"
   },
   {
     "displayName": "xx_focus",
@@ -24933,7 +24919,7 @@
     "langName": "플래시 사진",
     "object": "사진",
     "attribute": "카메라 설정",
-    "preview": "https://img.aishort.top/imgprompt/20260214044503923.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161822700.webp"
   },
   {
     "displayName": "Exposure",
@@ -25269,7 +25255,7 @@
     "langName": "8 진수",
     "object": "사진",
     "attribute": "디지털 시스템",
-    "preview": "https://img.aishort.top/imgprompt/20260928205745135.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162326590.webp"
   },
   {
     "displayName": "Nonary",
@@ -25290,7 +25276,7 @@
     "langName": "16 진법",
     "object": "사진",
     "attribute": "디지털 시스템",
-    "preview": "https://img.aishort.top/imgprompt/20260224191018464.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162326331.webp"
   },
   {
     "displayName": "depth of field",
@@ -25495,7 +25481,7 @@
     "object": "사진",
     "attribute": "고급 카메라 워크",
     "description": "여러 카메라 움직임(예: 달리 + 팬)을 결합하여 더 복잡한 장면이나 감정을 표현합니다.",
-    "preview": "https://img.aishort.top/imgprompt/20260928205526329.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175821976.webp"
   },
   {
     "displayName": "Follow Shot",
@@ -25725,7 +25711,7 @@
     "langName": "백라이트",
     "object": "빛과 그림자 효과",
     "attribute": "광원",
-    "preview": "https://img.aishort.top/imgprompt/20260224195751634.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173955507.webp"
   },
   {
     "displayName": "Soft Lighting",
@@ -25746,7 +25732,7 @@
     "langName": "탑 라이트",
     "object": "빛과 그림자 효과",
     "attribute": "빛의 종류",
-    "preview": "https://img.aishort.top/imgprompt/20260224195833635.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173954993.webp"
   },
   {
     "displayName": "Side Lighting",
@@ -25767,7 +25753,7 @@
     "langName": "림 라이트",
     "object": "빛과 그림자 효과",
     "attribute": "빛의 종류",
-    "preview": "https://img.aishort.top/imgprompt/20260224200123793.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211920512.webp"
   },
   {
     "displayName": "silhouette",
@@ -25879,14 +25865,14 @@
     "langName": "렘브란트 조명",
     "object": "빛과 그림자 효과",
     "attribute": "조명 효과",
-    "preview": "https://img.aishort.top/imgprompt/20260928204721877.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211920729.webp"
   },
   {
     "displayName": "Split Lighting",
     "langName": "스플릿 조명",
     "object": "빛과 그림자 효과",
     "attribute": "조명 효과",
-    "preview": "https://img.aishort.top/imgprompt/20260224200521669.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161822381.webp"
   },
   {
     "displayName": "Beautiful Lighting",
@@ -25907,7 +25893,7 @@
     "langName": "글로벌 조명",
     "object": "빛과 그림자 효과",
     "attribute": "조명 효과",
-    "preview": "https://img.aishort.top/imgprompt/20260224200605690.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211921411.webp"
   },
   {
     "displayName": "Lumen Global Illumination",
@@ -25921,7 +25907,7 @@
     "langName": "스크린 공간 전역 조명",
     "object": "빛과 그림자 효과",
     "attribute": "조명 효과",
-    "preview": "https://img.aishort.top/imgprompt/20260224200634881.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211921557.webp"
   },
   {
     "displayName": "Ray Tracing Global Illumination",
@@ -26054,7 +26040,7 @@
     "langName": "야간 조명",
     "object": "빛과 그림자 효과",
     "attribute": "조명",
-    "preview": "https://img.aishort.top/imgprompt/20260224203113075.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173954169.webp"
   },
   {
     "displayName": "Christmas Lights",
@@ -26866,7 +26852,7 @@
     "langName": "복숭아색",
     "object": "색감",
     "attribute": "밝은 톤",
-    "preview": "https://img.aishort.top/imgprompt/20260224220801995.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162708494.webp"
   },
   {
     "displayName": "papayawhip",
@@ -26992,7 +26978,7 @@
     "langName": "올리브갈색",
     "object": "색감",
     "attribute": "어두운 톤",
-    "preview": "https://img.aishort.top/imgprompt/20260224221226675.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162707993.webp"
   },
   {
     "displayName": "olive",
@@ -27475,7 +27461,7 @@
     "langName": "짙은 오키드",
     "object": "색감",
     "attribute": "스펙트럼 색상",
-    "preview": "https://img.aishort.top/imgprompt/20260224222932858.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162708249.webp"
   },
   {
     "displayName": "darkviolet",
@@ -27531,7 +27517,14 @@
     "langName": "차가운 색상",
     "object": "색감",
     "attribute": "색상 팔레트",
-    "preview": "https://img.aishort.top/imgprompt/20260224223133968.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921812.webp"
+  },
+  {
+    "displayName": "gradient",
+    "langName": "그라데이션",
+    "object": "색감",
+    "attribute": "색상 팔레트",
+    "preview": "https://img.aishort.top/imgprompt/20260211175505744.webp"
   },
   {
     "displayName": "Colorful",
@@ -27622,7 +27615,7 @@
     "langName": "분할 보색",
     "object": "색감",
     "attribute": "색상 팔레트",
-    "preview": "https://img.aishort.top/imgprompt/20260928203231605.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161822110.webp"
   },
   {
     "displayName": "Supplementary-Colors",
@@ -27678,14 +27671,14 @@
     "langName": "라이트 모드",
     "object": "색감",
     "attribute": "색상 팔레트",
-    "preview": "https://img.aishort.top/imgprompt/20260928180332309.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161825249.webp"
   },
   {
     "displayName": "Dark Mode",
     "langName": "다크 모드",
     "object": "색감",
     "attribute": "색상 팔레트",
-    "preview": "https://img.aishort.top/imgprompt/20260224223724577.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161824977.webp"
   },
   {
     "displayName": "Tones of Black",
@@ -27713,7 +27706,7 @@
     "langName": "연한 파란색 전경",
     "object": "색감",
     "attribute": "색상 팔레트",
-    "preview": "https://img.aishort.top/imgprompt/20260224223821644.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921970.webp"
   },
   {
     "displayName": "Light Blue",
@@ -27861,14 +27854,14 @@
     "langName": "EGA",
     "object": "색감",
     "attribute": "모니터 색상 팔레트",
-    "preview": "https://img.aishort.top/imgprompt/20260224224332009.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922342.webp"
   },
   {
     "displayName": "CGA",
     "langName": "CGA",
     "object": "색감",
     "attribute": "모니터 색상 팔레트",
-    "preview": "https://img.aishort.top/imgprompt/20260224224347905.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922245.webp"
   },
   {
     "displayName": "HDR",
@@ -27882,7 +27875,7 @@
     "langName": "아타리 그래픽",
     "object": "색감",
     "attribute": "모니터 색상 팔레트",
-    "preview": "https://img.aishort.top/imgprompt/20260224224415318.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162709012.webp"
   },
   {
     "displayName": "IIGS Graphics",
@@ -27917,7 +27910,7 @@
     "langName": "DCI-P3",
     "object": "색감",
     "attribute": "모니터 색상 팔레트",
-    "preview": "https://img.aishort.top/imgprompt/20260224224532778.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922547.webp"
   },
   {
     "displayName": "HSV",
@@ -27931,7 +27924,7 @@
     "langName": "색상, 채도, 밝기",
     "object": "색감",
     "attribute": "모니터 색상 팔레트",
-    "preview": "https://img.aishort.top/imgprompt/20260224224601439.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162708737.webp"
   },
   {
     "displayName": "HCL",
@@ -27945,7 +27938,7 @@
     "langName": "YCbCr",
     "object": "색감",
     "attribute": "모니터 색상 팔레트",
-    "preview": "https://img.aishort.top/imgprompt/20260224224629664.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922449.webp"
   },
   {
     "displayName": "YPbPr",
@@ -28435,7 +28428,7 @@
     "langName": "원고지",
     "object": "소재",
     "attribute": "나무와 종이",
-    "preview": "https://img.aishort.top/imgprompt/20260224230547793.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091309268.webp"
   },
   {
     "displayName": "Wrapping Paper",
@@ -28463,7 +28456,7 @@
     "langName": "중세 양피지",
     "object": "소재",
     "attribute": "나무와 종이",
-    "preview": "https://img.aishort.top/imgprompt/20260224230643607.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091313550.webp"
   },
   {
     "displayName": "Toilet Paper",
@@ -29625,7 +29618,7 @@
     "langName": "폴리이미드",
     "object": "소재",
     "attribute": "플라스틱/폼필름",
-    "preview": "https://img.aishort.top/imgprompt/20260224234924114.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162325974.webp"
   },
   {
     "displayName": "Styrofoam",
@@ -30220,7 +30213,7 @@
     "langName": "인디고 밀크 버섯",
     "object": "소재",
     "attribute": "균류",
-    "preview": "https://img.aishort.top/imgprompt/20260225001006384.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161824244.webp"
   },
   {
     "displayName": "Latticed-Stinkhorn",
@@ -30787,7 +30780,7 @@
     "langName": "뫼비우스의 띠",
     "object": "형태|공간",
     "attribute": "물체",
-    "preview": "https://img.aishort.top/imgprompt/20260928183946311.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822525.webp"
   },
   {
     "displayName": "Hexaflexagon",
@@ -30934,7 +30927,7 @@
     "langName": "2 차원의",
     "object": "형태|공간",
     "attribute": "멀티버스",
-    "preview": "https://img.aishort.top/imgprompt/20260928183752205.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162327376.webp"
   },
   {
     "displayName": "2D",
@@ -31179,7 +31172,7 @@
     "langName": "꼭지점",
     "object": "형태|공간",
     "attribute": "특성",
-    "preview": "https://img.aishort.top/imgprompt/20260225004319879.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822705.webp"
   },
   {
     "displayName": "Edge",
@@ -31277,7 +31270,7 @@
     "langName": "준규칙",
     "object": "형태|공간",
     "attribute": "특성",
-    "preview": "https://img.aishort.top/imgprompt/20260225004630788.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822614.webp"
   },
   {
     "displayName": "Isogonal",
@@ -31438,7 +31431,7 @@
     "langName": "병풍 그림",
     "object": "이미지 유형",
     "attribute": "그림",
-    "preview": "https://img.aishort.top/imgprompt/20260225005424337.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091317354.webp"
   },
   {
     "displayName": "Canvas",
@@ -31679,6 +31672,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260928204228249.webp"
   },
   {
+    "displayName": "hatching_(texture)",
+    "langName": "해칭 텍스처",
+    "object": "이미지 유형",
+    "attribute": "손그림",
+    "preview": "https://img.aishort.top/imgprompt/20261125175821724.webp"
+  },
+  {
     "displayName": "Stipple",
     "langName": "점묘주의",
     "object": "이미지 유형",
@@ -31907,7 +31907,7 @@
     "langName": "텍스트",
     "object": "이미지 유형",
     "attribute": "텍스트",
-    "preview": "https://img.aishort.top/imgprompt/20260225010926601.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921357.webp"
   },
   {
     "displayName": "Typeface",
@@ -31921,7 +31921,7 @@
     "langName": "폰트",
     "object": "이미지 유형",
     "attribute": "텍스트",
-    "preview": "https://img.aishort.top/imgprompt/20260225010954580.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921647.webp"
   },
   {
     "displayName": "Says",
@@ -31942,7 +31942,7 @@
     "langName": "자소",
     "object": "이미지 유형",
     "attribute": "텍스트",
-    "preview": "https://img.aishort.top/imgprompt/20260928181935781.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175821087.webp"
   },
   {
     "displayName": "Written Letters",
@@ -31956,7 +31956,7 @@
     "langName": "단어",
     "object": "이미지 유형",
     "attribute": "텍스트",
-    "preview": "https://img.aishort.top/imgprompt/20260225011100157.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921168.webp"
   },
   {
     "displayName": "Lexemes",
@@ -32481,7 +32481,7 @@
     "langName": "구석기 시대 토기",
     "object": "이미지 유형",
     "attribute": "도자기와 유리",
-    "preview": "https://img.aishort.top/imgprompt/20260225013447730.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091320736.webp"
   },
   {
     "displayName": "Neolithic Pottery",
@@ -32768,7 +32768,7 @@
     "langName": "고전주의",
     "object": "아트 스타일",
     "attribute": "역사적 예술 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260225014412038.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091432189.webp"
   },
   {
     "displayName": "((neoclassicism))",
@@ -32782,14 +32782,14 @@
     "langName": "낭만주의",
     "object": "아트 스타일",
     "attribute": "역사적 예술 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260225014444040.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091325561.webp"
   },
   {
     "displayName": "Gothic art",
     "langName": "고딕 예술",
     "object": "아트 스타일",
     "attribute": "역사적 예술 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260225014456290.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091437862.webp"
   },
   {
     "displayName": "Baroque",
@@ -32803,7 +32803,7 @@
     "langName": "전라파",
     "object": "아트 스타일",
     "attribute": "역사적 예술 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260225014520971.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091330077.webp"
   },
   {
     "displayName": "renaissance art",
@@ -32824,7 +32824,7 @@
     "langName": "학문주의",
     "object": "아트 스타일",
     "attribute": "역사적 예술 스타일",
-    "preview": "https://img.aishort.top/imgprompt/20260225014558266.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091442191.webp"
   },
   {
     "displayName": "ancient greek art",
@@ -33188,7 +33188,7 @@
     "langName": "자포니즘",
     "object": "아트 스타일",
     "attribute": "아시아 미술",
-    "preview": "https://img.aishort.top/imgprompt/20260225015855411.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091528439.webp"
   },
   {
     "displayName": "Japanese manga style",
@@ -33902,21 +33902,21 @@
     "langName": "앤티앨리어싱",
     "object": "후처리",
     "attribute": "앤티앨리어싱",
-    "preview": "https://img.aishort.top/imgprompt/20260225021947817.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822875.webp"
   },
   {
     "displayName": "FXAA",
     "langName": "FXAA",
     "object": "후처리",
     "attribute": "앤티앨리어싱",
-    "preview": "https://img.aishort.top/imgprompt/20260225022000268.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175823197.webp"
   },
   {
     "displayName": "TXAA",
     "langName": "티엑스에이",
     "object": "후처리",
     "attribute": "앤티앨리어싱",
-    "preview": "https://img.aishort.top/imgprompt/20260225022012163.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175823291.webp"
   },
   {
     "displayName": "RTX",
@@ -33930,14 +33930,14 @@
     "langName": "SSAO",
     "object": "후처리",
     "attribute": "앤티앨리어싱",
-    "preview": "https://img.aishort.top/imgprompt/20260225022035948.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822414.webp"
   },
   {
     "displayName": "De-Noise",
     "langName": "소음 감소",
     "object": "후처리",
     "attribute": "앤티앨리어싱",
-    "preview": "https://img.aishort.top/imgprompt/20260225022047839.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162326849.webp"
   },
   {
     "displayName": "Shaders",
@@ -33958,7 +33958,7 @@
     "langName": "GLSL 셰이더",
     "object": "후처리",
     "attribute": "쉐이더",
-    "preview": "https://img.aishort.top/imgprompt/20260225022123054.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175823074.webp"
   },
   {
     "displayName": "Post Processing",
@@ -34021,7 +34021,7 @@
     "langName": "스캔 라인",
     "object": "후처리",
     "attribute": "이미지 처리",
-    "preview": "https://img.aishort.top/imgprompt/20260225022321420.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822135.webp"
   },
   {
     "displayName": "Posterization",
@@ -34042,7 +34042,7 @@
     "langName": "소벨 연산자",
     "object": "후처리",
     "attribute": "이미지 처리",
-    "preview": "https://img.aishort.top/imgprompt/20260928183402271.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822965.webp"
   },
   {
     "displayName": "Edge Detection",
@@ -34182,7 +34182,7 @@
     "langName": "부식",
     "object": "후처리",
     "attribute": "이미지 처리",
-    "preview": "https://img.aishort.top/imgprompt/20260928183428913.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822788.webp"
   },
   {
     "displayName": "Dirty",
@@ -35021,7 +35021,7 @@
     "object": "쇼케이스",
     "attribute": "포스터",
     "description": "by @RainHuangapp (https://x.com/RainHuangapp)",
-    "preview": "https://img.aishort.top/imgprompt/20260424151508747.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091619485.webp"
   },
   {
     "displayName": "帮我制作辣椒炒肉这道菜的详细制作流程图,真实风格,适用于小红书图文比例",
@@ -35037,7 +35037,7 @@
     "object": "쇼케이스",
     "attribute": "포스터",
     "description": "by @A9Quant (https://x.com/A9Quant)",
-    "preview": "https://img.aishort.top/imgprompt/20260424151523525.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091532879.webp"
   },
   {
     "displayName": "A wooden bookshelf consisting of three shelves: On the top shelf,there should be one book,on the second shelf,there should be three books,and on the bottom shelf,there should be seven books.",

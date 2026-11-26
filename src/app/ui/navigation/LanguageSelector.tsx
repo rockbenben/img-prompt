@@ -113,7 +113,14 @@ export function LanguageSelector() {
   // isMobile —— Grid.useBreakpoint() 在 SSR 返回 {}，用它顶栏每次加载都会抖一下。
   // isMobile 只保留面板形态（Drawer / Dropdown）的选择，那要点开才可见。
   const trigger = (
-    <Button className="lang-btn" type="text" icon={<TranslationOutlined />} aria-label={t("language")} onClick={isMobile ? () => setLangOpen(true) : undefined}>
+    <Button
+      className="lang-btn"
+      type="text"
+      icon={<TranslationOutlined aria-hidden="true" />}
+      aria-label={`${currentLanguage} · ${t("language")}`}
+      aria-expanded={langOpen}
+      aria-haspopup={isMobile ? "dialog" : undefined}
+      onClick={isMobile ? () => setLangOpen(true) : undefined}>
       {currentLanguage}
     </Button>
   );

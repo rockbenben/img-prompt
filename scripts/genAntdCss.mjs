@@ -1,0 +1,130 @@
+import assert from "node:assert/strict";
+import { existsSync, globSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs";
+import { join } from "node:path";
+import { fileURLToPath } from "node:url";
+import { createElement } from "react";
+import * as antd from "antd";
+import { extractStyle } from "@ant-design/static-style-extract";
+import postcss from "postcss";
+import ts from "typescript";
+import { antdThemeFor, ANTD_CSS_VAR_KEY } from "../src/app/antdTheme.mjs";
+
+// 提取器 2.1 的预览仍渲染 Input.Group。只在提取阶段用 Space.Compact 替代。
+const extractionAntd = { ...antd, Input: { ...antd.Input, Group: antd.Space.Compact } };
+
+const appDir = fileURLToPath(new URL("../src/app/", import.meta.url));
+const output = fileURLToPath(new URL("../src/app/antd.generated.css", import.meta.url));
+const nonComponents = new Set(["ConfigProvider", "Grid", "theme", "version"]);
+const requiredFamilies = {
+  Button: ["btn"],
+  Collapse: ["collapse"],
+  Drawer: ["drawer", "drawer-rtl"],
+  Dropdown: ["dropdown"],
+  FloatButton: ["float-btn"],
+  Image: ["image", "image-preview"],
+  Input: ["input", "input-textarea"],
+  Menu: ["menu"],
+  Radio: ["radio-button"],
+  Row: ["row"],
+  Segmented: ["segmented"],
+  Tooltip: ["tooltip"],
+  message: ["message"],
+  notification: ["notification"],
+};
+
+function collectComponents() {
+  // App.useApp() 暴露的消息和通知没有各自的导入。
+  const components = new Set(["message", "notification"]);
+  for (const file of globSync("**/*.{ts,tsx,js,jsx,mjs}", {
+    cwd: appDir,
+    exclude: (name) => /(?:^|[\\/])__tests__(?:[\\/]|$)/.test(name),
+  })) {
+    const source = ts.createSourceFile(file, readFileSync(join(appDir, file), "utf8"), ts.ScriptTarget.Latest);
+    const inputImports = new Set();
+    for (const statement of source.statements) {
+      if (!ts.isImportDeclaration(statement) || statement.moduleSpecifier.text !== "antd") continue;
+      const clause = statement.importClause;
+      if (!clause || clause.isTypeOnly || !clause.namedBindings || !ts.isNamedImports(clause.namedBindings)) continue;
+      for (const specifier of clause.namedBindings.elements) {
+        const name = (specifier.propertyName ?? specifier.name).text;
+        if (specifier.isTypeOnly) continue;
+        if (!nonComponents.has(name)) components.add(name);
+        if (name === "Input") inputImports.add(specifier.name.text);
+      }
+    }
+    if (inputImports.size) {
+      function checkInputGroup(node) {
+        if (ts.isPropertyAccessExpression(node) && ts.isIdentifier(node.expression) && inputImports.has(node.expression.text)) {
+          assert(node.name.text !== "Group", `${file} uses Input.Group. Use Space.Compact so its styles are extracted.`);
+        }
+        ts.forEachChild(node, checkInputGroup);
+      }
+      ts.forEachChild(source, checkInputGroup);
+    }
+  }
+  return [...components].sort();
+}
+
+function extractTheme(components, isDark) {
+  const root = postcss.parse(extractStyle({
+    includes: components,
+    antdInstance: extractionAntd,
+    customTheme: (children) => createElement(antd.ConfigProvider, {
+      theme: antdThemeFor(isDark),
+    }, children),
+  }));
+  const variables = [];
+
+  root.walkRules((rule) => {
+    // 提取器预览中的 React 作用域 ID 只在当前渲染树有效。
+    if (rule.selectors.every((selector) => selector.includes(".css-var-")) || rule.selector === ".data-ant-cssinjs-cache-path") {
+      rule.remove();
+    } else if (rule.selector.includes(`.${ANTD_CSS_VAR_KEY}`)) {
+      assert(rule.selectors.every((selector) => selector.includes(`.${ANTD_CSS_VAR_KEY}`)), `Mixed antd variable scopes: ${rule.selector}`);
+      assert(rule.parent === root, `Unexpected nested antd variable rule: ${rule.selector}`);
+      variables.push(rule.remove());
+    } else {
+      assert(!rule.selector.includes(".css-var-"), `Unresolved antd variable scope: ${rule.selector}`);
+    }
+  });
+
+  assert(variables.some((rule) => (
+    rule.selectors.includes(`.${ANTD_CSS_VAR_KEY}`) && rule.nodes.some((node) => node.prop === "--ant-color-primary")
+  )), "Missing global antd theme variables. Check that antd and the extractor share one cssinjs instance.");
+  return { rules: root.toString(), variables };
+}
+
+function scopeVariables(rules, scope) {
+  return rules.map((rule) => rule.clone({ selector: rule.selectors.map((selector) => `${scope} ${selector}`).join(",") }).toString()).join("\n");
+}
+
+const components = collectComponents();
+const light = extractTheme(components, false);
+const dark = extractTheme(components, true);
+assert(light.rules === dark.rules, "antd component rules differ between light and dark themes");
+
+for (const component of components) {
+  for (const family of requiredFamilies[component] ?? []) {
+    assert(light.rules.includes(`.ant-${family}`), `Missing .ant-${family} styles. Check extraction and cssinjs dependency resolution.`);
+  }
+}
+
+// next-themes 在 hydration 前设置 html.dark，同一作用域也覆盖 portal 弹层。
+const css = [
+  "/* Generated by scripts/genAntdCss.mjs */",
+  light.rules,
+  scopeVariables(light.variables, "html"),
+  scopeVariables(dark.variables, "html.dark"),
+  "",
+].join("\n");
+
+if (!existsSync(output) || readFileSync(output, "utf8") !== css) {
+  const temporary = `${output}.${process.pid}.tmp`;
+  try {
+    writeFileSync(temporary, css);
+    renameSync(temporary, output);
+  } finally {
+    rmSync(temporary, { force: true });
+  }
+}
+console.log(`[antd-css] ${components.length} components, ${(Buffer.byteLength(css) / 1024).toFixed(0)} KiB`);

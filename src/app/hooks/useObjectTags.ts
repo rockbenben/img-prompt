@@ -53,8 +53,8 @@ export function useObjectTags(
   }
 
   useEffect(() => {
-    // 已缓存——渲染期的同步读取已经返回了，不必再抓
-    if (tagCache.has(key)) return;
+    // 即使全量索引在渲染和 effect 之间填好了缓存，也要把结果交给 state。
+    // fetchChunk 会直接返回缓存或在途请求。
     let canceled = false;
     fetchChunk(locale, objectIndex)
       .then((data) => {

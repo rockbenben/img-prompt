@@ -1,5 +1,5 @@
 import { FC, ReactNode } from "react";
-import { Input, Button, Flex, Tooltip } from "antd";
+import { Input, Button, Tooltip } from "antd";
 import { CopyOutlined } from "@ant-design/icons";
 
 interface TemplateAction {
@@ -22,6 +22,7 @@ interface PromptInputProps {
   onClear: () => void;
   templateActions?: TemplateAction[];
   negativeAction?: TemplateAction;
+  suggestionsSlot?: ReactNode;
   t: (key: string) => string;
 }
 
@@ -36,6 +37,7 @@ export const PromptInput: FC<PromptInputProps> = ({
   onClear,
   templateActions = [],
   negativeAction,
+  suggestionsSlot,
   t,
 }) => {
   const actionButton = (action: TemplateAction, opts?: { ghost?: boolean; extraIcon?: ReactNode }) => {
@@ -43,7 +45,7 @@ export const PromptInput: FC<PromptInputProps> = ({
       <Button
         key={action.key}
         size="small"
-        className={opts?.ghost ? "pp-ghost" : undefined}
+        className={opts?.ghost ? "pp-preset-btn pp-ghost" : "pp-preset-btn"}
         icon={action.icon ?? opts?.extraIcon}
         onClick={action.onClick}
         aria-label={action.ariaLabel}>
@@ -71,26 +73,30 @@ export const PromptInput: FC<PromptInputProps> = ({
         onFocus={onFocus}
         onCompositionStart={onCompositionStart}
         onCompositionEnd={onCompositionEnd}
-        autoSize={{ minRows: 5, maxRows: 14 }}
+        autoSize={{ minRows: 4, maxRows: 10 }}
         spellCheck={false}
-        // 空态是这里最大的一块面积，原来什么都不说；告诉用户两条路都能走
         placeholder={t("placeholder-prompt")}
         aria-label={t("prompt")}
       />
 
-      {/* 模板插入/随机颜色 = 白色药丸；负面词/清空 = 安静 ghost（与设计稿层级一致） */}
-      <Flex wrap gap={7} style={{ marginTop: 10 }}>
-        {templateActions.map((action) => actionButton(action))}
-        {negativeAction && actionButton(negativeAction, { ghost: true, extraIcon: <CopyOutlined /> })}
-        <Button size="small" className="pp-ghost" onClick={onClear}>
+      {suggestionsSlot}
+
+      <div className="pp-presets">
+        <span className="pp-presets-label">{t("quickPresets")}</span>
+        <div className="pp-presets-list">
+          {templateActions.map((action) => actionButton(action))}
+          {negativeAction && actionButton(negativeAction, { ghost: true, extraIcon: <CopyOutlined /> })}
+        </div>
+      </div>
+
+      <div className="pp-cta-row">
+        <Button type="primary" className="pp-cta-copy" onClick={onCopy} icon={<CopyOutlined />}>
+          {t("button-copy")}
+        </Button>
+        <Button className="pp-ghost" disabled={!value.trim()} onClick={onClear}>
           {t("button-clear")}
         </Button>
-      </Flex>
-
-      {/* 主 CTA：复制 —— 整宽蛋黄按钮 */}
-      <Button block type="primary" onClick={onCopy} style={{ marginTop: 12 }} icon={<CopyOutlined />}>
-        {t("button-copy")}
-      </Button>
+      </div>
     </>
   );
 };

@@ -12,10 +12,11 @@ export interface ScanEntry {
   ln: string;
 }
 
-interface UseFullTagsDataResult {
+export interface UseFullTagsDataResult {
   scanEntries: ScanEntry[] | null;
   findTagData: (name: string) => TagItem;
-  ensureLoaded: () => void;
+  ensureLoaded: (immediate?: boolean) => void;
+  status: "idle" | "loading" | "ready" | "error";
 }
 
 function indexTags(tags: TagItem[]) {
@@ -32,9 +33,8 @@ function indexTags(tags: TagItem[]) {
 
 // objectCount = 分块总数（每个 object 一块，由 sliceData.js 保证）。
 // 必须由调用方从 bootstrap.objects 传入，写死常量会在数据加长后静默漏掉尾块。
-// 全量拉取（~900KB raw / 语言）不抢跑：推迟到浏览器空闲（3s 兜底），
-// 并用 2 并发队列逐个取，避免一次并行 15 个请求挤掉用户正在触发的分类抓取。
-// 触发点有两个（见 usePromptLogic）：点进提示词框，或挑下第一个标签。
+// 全量拉取（~900KB raw / 语言）默认推迟到浏览器空闲（3s 兜底），并用 2 并发队列逐个取；
+// 用户聚焦全局搜索框时传 immediate=true 立即启动，不白等 idle。
 const scheduleIdle = (cb: () => void) => {
   if (typeof window.requestIdleCallback === "function") {
     window.requestIdleCallback(cb, { timeout: 3000 });
@@ -45,53 +45,76 @@ const scheduleIdle = (cb: () => void) => {
 
 export function useFullTagsData(locale: string, firstChunk: TagItem[], objectCount: number, customTags: TagItem[]): UseFullTagsDataResult {
   const [builtInIndex, setBuiltInIndex] = useState<ReturnType<typeof indexTags> | null>(null);
-  const firstChunkIndex = useMemo(() => indexTags(firstChunk).exact, [firstChunk]);
+  const [status, setStatus] = useState<UseFullTagsDataResult["status"]>("idle");
+  const firstChunkIndex = useMemo(() => indexTags(firstChunk), [firstChunk]);
   const customIndex = useMemo(() => indexTags(customTags), [customTags]);
-  // 本地词库独立更新，导入后可立即搜索，也不会被较晚完成的网络请求覆盖。
+  // 本地词库与首屏词条即时可搜，全量分块就绪后自动切到全库索引。
   const scanEntries = useMemo(() => {
     if (builtInIndex) return [...builtInIndex.entries, ...customIndex.entries];
-    return customIndex.entries.length ? customIndex.entries : null;
-  }, [builtInIndex, customIndex]);
-  const loadingRef = useRef(false);
+    if (firstChunkIndex.entries.length || customIndex.entries.length) {
+      return [...firstChunkIndex.entries, ...customIndex.entries];
+    }
+    return null;
+  }, [builtInIndex, firstChunkIndex, customIndex]);
+  const startedRef = useRef(false);
+  const loadedRef = useRef(false);
+  const idleScheduledRef = useRef(false);
 
-  const ensureLoaded = useCallback(() => {
-    if (loadingRef.current) return;
-    loadingRef.current = true;
-    scheduleIdle(() => {
-      // 0..n-1 全走共享 fetchChunk：index 0 通常已被 useObjectTags 拉全（截断
-      // bootstrap 时代）或在途（去重命中 inflight），这里零额外网络。
-      const queue = Array.from({ length: Math.max(0, objectCount) }, (_, i) => i);
-      const results = new Map<number, TagItem[]>();
-      const worker = async (): Promise<void> => {
-        for (;;) {
-          const i = queue.shift();
-          if (i === undefined) return;
-          results.set(i, await fetchChunk(locale, i));
-        }
-      };
-      Promise.all([worker(), worker()])
-        .then(() => {
-          const merged: TagItem[] = [];
-          for (const i of Array.from(results.keys()).sort((a, b) => a - b)) {
-            for (const t of results.get(i)!) merged.push(t);
-          }
-          setBuiltInIndex(indexTags(merged));
-        })
-        .catch((err) => {
-          console.warn("[useFullTagsData] failed", err);
-          loadingRef.current = false; // 允许重试
-        });
+  const runFetch = useCallback(() => {
+    if (startedRef.current || loadedRef.current) return;
+    startedRef.current = true;
+    setStatus("loading");
+    // 0..n-1 全走共享 fetchChunk：index 0 通常已被 useObjectTags 拉全或在途，这里零额外网络。
+    const queue = Array.from({ length: Math.max(0, objectCount) }, (_, i) => i);
+    const results = new Map<number, TagItem[]>();
+    const worker = async (): Promise<void> => {
+      for (;;) {
+        const i = queue.shift();
+        if (i === undefined) return;
+        results.set(i, await fetchChunk(locale, i));
+      }
+    };
+    // 等两个工作队列都结束再开放重试，避免上一次尚未结束的队列与重试重叠。
+    void Promise.allSettled([worker(), worker()]).then((outcomes) => {
+      const failure = outcomes.find((result) => result.status === "rejected");
+      if (failure) {
+        console.warn("[useFullTagsData] failed", failure.reason);
+        startedRef.current = false; // 允许重试
+        setStatus("error");
+        return;
+      }
+      const merged = Array.from({ length: objectCount }, (_, i) => results.get(i) ?? []).flat();
+      loadedRef.current = true;
+      setBuiltInIndex(indexTags(merged));
+      setStatus("ready");
     });
   }, [locale, objectCount]);
+
+  const ensureLoaded = useCallback(
+    (immediate = false) => {
+      if (loadedRef.current || startedRef.current) return;
+      if (immediate) {
+        runFetch();
+        return;
+      }
+      if (idleScheduledRef.current) return;
+      idleScheduledRef.current = true;
+      scheduleIdle(() => {
+        idleScheduledRef.current = false;
+        runFetch();
+      });
+    },
+    [runFetch],
+  );
 
   const findTagData = useCallback(
     (name: string): TagItem => {
       const normalized = normalizeString(name);
-      const builtInExact = builtInIndex?.exact ?? firstChunkIndex;
+      const builtInExact = builtInIndex?.exact ?? firstChunkIndex.exact;
       return customIndex.exact.get(normalized) ?? builtInExact.get(normalized) ?? EMPTY_TAG;
     },
     [builtInIndex, customIndex, firstChunkIndex],
   );
 
-  return { scanEntries, findTagData, ensureLoaded };
+  return { scanEntries, findTagData, ensureLoaded, status };
 }

@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, memo } from "react";
+import React, { useState, useSyncExternalStore, memo } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Layout, Menu, Space, Button, Dropdown, Drawer, Flex } from "antd";
@@ -10,11 +10,51 @@ import { useAppMenu } from "@/app/components/projects";
 import { useMounted } from "@/app/hooks/useMounted";
 import { SOCIAL_LINKS } from "./config";
 import { LanguageSelector } from "./LanguageSelector";
+import { ToolsDropdown } from "./ToolsDropdown";
 
 const { Header } = Layout;
 
 // 图标样式
 const iconStyle = { fontSize: 18 };
+
+// 与 globals.css 中直达链接的显示断点一致。
+const WIDE_NAV_QUERY = "(min-width: 1240px)";
+const FEATURED_TOOLS = new Set(["aishort", "tools"]);
+
+function subscribeToWideNav(onChange: () => void) {
+  const query = window.matchMedia(WIDE_NAV_QUERY);
+  query.addEventListener("change", onChange);
+  return () => query.removeEventListener("change", onChange);
+}
+
+function DesktopNav({
+  items, currentKey, label,
+}: { items: ReturnType<typeof useAppMenu>; currentKey: string; label: string }) {
+  const wideNav = useSyncExternalStore(subscribeToWideNav, () => window.matchMedia(WIDE_NAV_QUERY).matches, () => false);
+
+  return (
+    <nav className="pp-nav" aria-label={label}>
+      {items.map((item) => {
+        if (!("children" in item) || !item.children) {
+          return <span className="pp-nav-link" data-current={item.key === currentKey || undefined} key={item.key}>{item.label}</span>;
+        }
+
+        const featured = item.children.filter((tool) => FEATURED_TOOLS.has(tool.key));
+        const dropdownItems = wideNav ? item.children.filter((tool) => !FEATURED_TOOLS.has(tool.key)) : item.children;
+        return (
+          <React.Fragment key={item.key}>
+            {featured.map((tool) => (
+              <span className="pp-nav-link pp-nav-featured" key={tool.key}>
+                {React.cloneElement(tool.label, undefined, tool.label.props.children, <span className="pp-ext" aria-hidden="true">↗</span>)}
+              </span>
+            ))}
+            <ToolsDropdown label={item.label} items={dropdownItems} />
+          </React.Fragment>
+        );
+      })}
+    </nav>
+  );
+}
 
 export function Navigation() {
   const menuItems = useAppMenu();
@@ -56,16 +96,11 @@ export function Navigation() {
   const currentMenuKey = pathSegments[1] ?? "home";
 
   // 主题切换图标：SSR 和 hydration 前显示 MoonOutlined，挂载后显示正确图标
-  const themeIcon = mounted && resolvedTheme === "light" ? <SunOutlined style={iconStyle} /> : <MoonOutlined style={iconStyle} />;
+  const themeIcon = mounted && resolvedTheme === "dark" ? <SunOutlined style={iconStyle} /> : <MoonOutlined style={iconStyle} />;
 
   return (
-    // 实底条通栏。底色/边框走 inline：写进 CSS 会被 antd 同权重、后注入的样式
-    // 静默盖掉（详见 globals.css 顶栏一节）。内容【不再】收进 1280 栏——姊妹仓
-    // 实测封顶列会饿死长语言的菜单（德语 6 个顶级项要 855px、俄语 1166px，
-    // 1280 栏只分到 886px，右边空着一千像素、菜单却折进「⋯」）。
-    // 导航的职责是把去处显示出来，这一条排在观感对齐前面。
-    <Header style={{ padding: 0, background: "var(--pp-card)", borderBottom: "2px solid var(--pp-line)", height: 48, lineHeight: "48px" }}>
-      <Flex className="pp-topbar" justify="space-between" align="center" style={{ paddingInline: "clamp(16px, 4vw, 24px)" }}>
+    <Header className="pp-site-header" data-compact-nav={menuItems.length <= 3 || undefined}>
+      <Flex className="pp-topbar" justify="space-between" align="center">
         <Flex align="center" className="pp-nav-left" style={{ flex: 1, minWidth: 0 }}>
           {/* 汉堡/横排的取舍交给 CSS 媒体查询（.pp-nav 一节），不走 JS 断点 */}
           <Button
@@ -77,18 +112,16 @@ export function Navigation() {
             aria-haspopup="true"
             aria-expanded={drawerOpen}
           />
-          <Link href={`/${locale}`} className="pp-wordmark">
-            <span className="pp-blob" aria-hidden="true" />
+          <Link href={`/${locale}`} className="pp-wordmark" aria-current={currentMenuKey === "home" ? "page" : undefined}>
+            <span className="pp-brand-mark" aria-hidden="true" />
             IMGPrompt
           </Link>
-          {/* 装不下时的兜底（min-width + 横滚）在 globals.css 的 `.pp-nav` 上，别删 */}
-          <nav className="pp-nav" aria-label={t("primary")}>
-            <Menu selectedKeys={[currentMenuKey]} mode="horizontal" items={menuItems} style={{ flex: 1, minWidth: 0, border: "none", background: "transparent" }} />
-          </nav>
+          <DesktopNav key={pathname} items={menuItems} currentKey={currentMenuKey} label={t("primary")} />
         </Flex>
         {/* 抽屉按需渲染，未打开时不挂载 rc-drawer / Menu 节点 */}
         {drawerOpen && (
         <Drawer
+          title={t("primary")}
           placement={drawerSide}
           open={drawerOpen}
           onClose={() => setDrawerOpen(false)}
@@ -98,7 +131,7 @@ export function Navigation() {
           <nav aria-label={t("primary")}>
             {/* onClick 只为外部链接兜底（点外链不改 pathname，路由派生接不住）；
                 内部链接此刻已被 pathname 派生关掉，这里再 set false 是无操作 */}
-            <Menu selectedKeys={[currentMenuKey]} mode="inline" items={menuItems} style={{ border: "none" }} onClick={() => setDrawerOpen(false)} />
+            <Menu selectedKeys={[currentMenuKey]} defaultOpenKeys={["otherTools"]} mode="inline" items={menuItems} style={{ border: "none" }} onClick={() => setDrawerOpen(false)} />
           </nav>
         </Drawer>
         )}
@@ -149,9 +182,7 @@ export function Navigation() {
           </Dropdown>
 
           {/* 窄屏隐藏（见 globals.css）：页脚已有同一入口，让位给主导航 */}
-          <a href={SOCIAL_LINKS.github} target="_blank" rel="noopener noreferrer" className="pp-nav-github">
-            <Button type="text" icon={<GithubOutlined style={iconStyle} />} aria-label={t("github")} />
-          </a>
+          <Button href={SOCIAL_LINKS.github} target="_blank" rel="noopener noreferrer" className="pp-nav-github" type="text" icon={<GithubOutlined style={iconStyle} />} aria-label={t("github")} />
 
           <Button type="text" icon={themeIcon} onClick={handleThemeToggle} aria-label={t("theme")} />
         </Space>

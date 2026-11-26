@@ -1,42 +1,22 @@
 "use client";
-import { useState, useMemo, useCallback, useEffect, useRef, FC } from "react";
-import { Row, Col, Flex, Segmented, Spin, Button } from "antd";
+import { useState, useMemo, useCallback, useEffect, useId, useRef, FC } from "react";
+import { Flex, Segmented, Spin, Button, Input } from "antd";
+import { SearchOutlined, AppstoreOutlined, UnorderedListOutlined } from "@ant-design/icons";
 
 import bundledCustomTags from "@/app/data/prompt-custom.json";
 
 import CategoryRadio from "@/app/components/CategoryRadio";
 import LocalTagLibrary from "@/app/components/LocalTagLibrary";
 import TagSection from "@/app/components/TagSection";
-import SelectedTagsSection from "@/app/components/SelectedTagsSection";
 import ResultSection from "@/app/components/ResultSection";
 import { TagItem } from "@/app/components/types";
+import { useFullTagsData } from "@/app/hooks/useFullTagsData";
 import { LEGACY_LIBRARY_ID, useLocalTagLibrary } from "@/app/hooks/useLocalTagLibrary";
 import { useLocalStorage } from "@/app/hooks/useLocalStorage";
 import { useObjectTags } from "@/app/hooks/useObjectTags";
+import { normalizeString } from "@/app/utils/normalizeString";
 
 import { useLocale, useTranslations } from "next-intl";
-
-interface SectionTitleProps {
-  index: number;
-  title: React.ReactNode;
-  gloss: string;
-}
-
-// 托盘头：编号徽章 + 标题 + 英文小注。小注复刻标签的「母语 + 英文」骨架，
-// 只在非英文界面成立 —— en 下会退化成 "Subject SUBJECT"，看着像出错。
-const SectionTitle: FC<SectionTitleProps & { showGloss: boolean }> = ({ index, title, gloss, showGloss }) => (
-  <Flex align="center" gap={10}>
-    <span aria-hidden="true" className={`pp-badge pp-badge-${index}`}>
-      {index}
-    </span>
-    <span className="pp-sec-title">{title}</span>
-    {showGloss && (
-      <span className="pp-sec-gloss" aria-hidden="true">
-        {gloss}
-      </span>
-    )}
-  </Flex>
-);
 
 interface HomeClientProps {
   objects: string[];
@@ -63,6 +43,7 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
   const { library, libraryReady } = useLocalTagLibrary();
   const libraryId = library?.id ?? null;
   const customLabel = t("customTags");
+
   const customTags = useMemo(() => {
     const entries = new Map<string, TagItem>();
     for (const tag of bundledCustomTags as TagItem[]) {
@@ -80,6 +61,7 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
     }
     return Array.from(entries.values());
   }, [builtInAttributes, builtInObjects, customLabel, library]);
+
   const attributesByObject = useMemo(() => {
     const groups = new Map(builtInObjects.map((object) => [object, new Set(builtInAttributes[object])]));
     for (const tag of customTags) {
@@ -91,14 +73,16 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
   }, [builtInAttributes, builtInObjects, customTags]);
   const objects = useMemo(() => Array.from(attributesByObject.keys()), [attributesByObject]);
 
-  const showGloss = locale !== "en";
-
   const [chosenObject, setActiveObject] = useState<string>(() => objects[0] ?? "");
   const activeObject = objects.includes(chosenObject) ? chosenObject : objects[0] ?? "";
   const builtInObjectIndex = builtInObjects.indexOf(activeObject);
 
   // 仅当前 object 的 tags（按需 fetch）
   const { tags: objectTags, status, retry: retryTags } = useObjectTags(locale, Math.max(0, builtInObjectIndex), firstChunk, firstChunkTotal);
+
+  // 全局搜索与联想词共享同一份全量索引
+  const fullTags = useFullTagsData(locale, firstChunk, builtInObjects.length, customTags);
+  const { scanEntries, ensureLoaded, status: fullTagsStatus } = fullTags;
 
   const attributes = attributesByObject.get(activeObject) ?? [];
 
@@ -109,12 +93,13 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
   if (libraryReady && selectedTags.some((tag) => tag.localLibraryId && tag.localLibraryId !== libraryId)) {
     setSelectedTags(selectedTags.filter((tag) => !tag.localLibraryId || tag.localLibraryId === libraryId));
   }
-  const [useColorBlocks, setUseColorBlocks] = useLocalStorage<boolean>("useColorBlocks", true);
 
-  // 已选标签的会话级持久化（站内往返指南页、误刷新不丢编辑现场）在
-  // usePromptLogic 里读写：那里同时管着提示词草稿，两份存档必须一起恢复，
-  // 拆到两个组件就会出现「谁先恢复」的顺序依赖（子组件 effect 更早跑，
-  // 父组件的恢复会把它覆盖，手写的草稿因此在刷新后第一次点标签时消失）。
+  const [viewMode, setViewMode] = useLocalStorage<"compact" | "visual">("tagViewMode", "visual");
+  const [searchQuery, setSearchQuery] = useState("");
+  const categoryGroupId = useId();
+  const explorerControlsRef = useRef<HTMLDivElement>(null);
+  const trimmedQuery = searchQuery.trim();
+  const isSearching = trimmedQuery.length > 0;
 
   // React 19 "adjust state on dep change": object 切换重置 attribute
   const [previousActiveObject, setPreviousActiveObject] = useState(activeObject);
@@ -124,9 +109,6 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
   }
 
   // URL state on init: read from hash (#object=..&attribute=..) or legacy ?object=..&attribute=..
-  // 哈希值是分类索引（locale 无关：同一索引在 18 语言里指向同一分类，
-  // 链接跨语言可移植、CJK 不再百分号编码成乱码）；旧链接里的本地化名字
-  // 与 ?object= 查询参数走名字匹配继续兼容。
   const urlInitDoneRef = useRef(false);
   const [urlInitDone, setUrlInitDone] = useState(false);
   useEffect(() => {
@@ -150,9 +132,6 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
     setUrlInitDone(true);
   }, [libraryReady, objects, attributesByObject]);
 
-  // 同 tab 内 hash 变化（把分享链接粘进已打开页面的地址栏 = 浏览器仅做
-  // hash 跳转不重载）：init 只跑一次接不住，这里补上。分类点击走
-  // replaceState 不触发 hashchange，不会自循环。
   useEffect(() => {
     const onHashChange = () => {
       const hashParams = new URLSearchParams(window.location.hash.replace(/^#/, ""));
@@ -171,40 +150,55 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
   useEffect(() => {
     if (!urlInitDone || typeof window === "undefined") return;
     const url = new URL(window.location.href);
-    // Drop any legacy query params that the canonical doesn't include.
     url.searchParams.delete("object");
     url.searchParams.delete("attribute");
     const hashParams = new URLSearchParams();
     const objIdx = objects.indexOf(activeObject);
     const attrIdx = (attributesByObject.get(activeObject) ?? []).indexOf(activeAttribute);
-    // 默认落点（首个 object + 首个 attribute）= 无 hash 时的状态，不写 hash，
-    // 保持打开时地址栏干净；任一维非默认才写。object 必须同写——读取端缺
-    // object 参数时不会单独恢复 attribute（resolveCategoryParam(null) 返回 null）。
     if (objIdx > 0 || attrIdx > 0) {
       hashParams.set("object", String(Math.max(0, objIdx)));
       hashParams.set("attribute", String(Math.max(0, attrIdx)));
     }
     url.hash = hashParams.toString() ? `#${hashParams.toString()}` : "";
-    // 守卫：URL 未变则不写。避免启动时冗余 history 写入；也确保桌面版(app 分支)语言恢复的
-    // router.replace 不被此处 replaceState 覆盖（读到未提交的旧 locale）。
     const nextUrl = url.toString();
     if (nextUrl !== window.location.href) {
       window.history.replaceState({}, "", nextUrl);
     }
   }, [activeObject, activeAttribute, objects, attributesByObject, urlInitDone]);
 
-  const handleObjectClick = useCallback((object: string) => {
-    setActiveObject(object);
+  const scrollToTagListStart = useCallback(() => {
+    const controls = explorerControlsRef.current;
+    const explorer = controls?.parentElement;
+    if (!controls || !explorer) return;
+    const { position, insetBlockStart } = getComputedStyle(controls);
+    // 工具栏已经吸顶时，回到新列表的第一行。
+    if (position === "sticky" && explorer.getBoundingClientRect().top < parseFloat(insetBlockStart)) {
+      explorer.scrollIntoView({ block: "start" });
+    }
   }, []);
+
+  const handleObjectClick = useCallback((object: string) => {
+    scrollToTagListStart();
+    setActiveObject(object);
+    setSearchQuery("");
+  }, [scrollToTagListStart]);
 
   const handleAttributeClick = useCallback((attribute: string) => {
+    scrollToTagListStart();
     setActiveAttribute(attribute);
-  }, []);
+  }, [scrollToTagListStart]);
+
+  function updateSearchQuery(query: string) {
+    scrollToTagListStart();
+    setSearchQuery(query);
+  }
 
   function showImportedTags(firstTag: TagItem) {
+    scrollToTagListStart();
     setActiveObject(firstTag.object);
     setPreviousActiveObject(firstTag.object);
     setActiveAttribute(firstTag.attribute);
+    setSearchQuery("");
   }
 
   const handleTagClick = useCallback((tag: TagItem) => {
@@ -214,10 +208,25 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
     });
   }, []);
 
-  const selectedNameSet = useMemo(
-    () => new Set(selectedTags.map((t) => t.displayName)),
-    [selectedTags],
-  );
+  const selectedNameSet = useMemo(() => new Set(selectedTags.map((t) => t.displayName)), [selectedTags]);
+
+  const selectedCountByObject = useMemo(() => {
+    const counts = new Map<string, number>();
+    for (const tag of selectedTags) {
+      if (tag.object) counts.set(tag.object, (counts.get(tag.object) ?? 0) + 1);
+    }
+    return counts;
+  }, [selectedTags]);
+
+  const selectedCountByAttr = useMemo(() => {
+    const counts = new Map<string, number>();
+    for (const tag of selectedTags) {
+      if (tag.object === activeObject && tag.attribute) {
+        counts.set(tag.attribute, (counts.get(tag.attribute) ?? 0) + 1);
+      }
+    }
+    return counts;
+  }, [selectedTags, activeObject]);
 
   const filteredTags = useMemo(() => {
     const tags = new Map<string, TagItem>();
@@ -232,97 +241,193 @@ const HomeClient: FC<HomeClientProps> = ({ objects: builtInObjects, attributes: 
     return Array.from(tags.values());
   }, [activeAttribute, activeObject, builtInObjectIndex, customTags, objectTags]);
 
+  const searchResults = useMemo(() => {
+    const q = normalizeString(trimmedQuery);
+    if (!q) return [];
+    const pool = scanEntries ?? [];
+    const scored: { tag: TagItem; rank: number; len: number; norm: string }[] = [];
+    const seen = new Set<string>();
+
+    const pushCandidate = (tag: TagItem, dn: string, ln: string) => {
+      if (seen.has(tag.displayName)) return;
+      let rank = -1;
+      let matchedNorm = dn;
+      if (ln === q || dn === q) {
+        rank = 0;
+        matchedNorm = ln === q ? ln : dn;
+      } else if (ln.startsWith(q)) {
+        rank = 1;
+        matchedNorm = ln;
+      } else if (dn.startsWith(q)) {
+        rank = 2;
+        matchedNorm = dn;
+      } else if (ln.includes(q)) {
+        rank = 3;
+        matchedNorm = ln;
+      } else if (dn.includes(q)) {
+        rank = 4;
+        matchedNorm = dn;
+      }
+      if (rank < 0) return;
+      seen.add(tag.displayName);
+      scored.push({ tag, rank, len: matchedNorm.length, norm: matchedNorm });
+    };
+
+    for (const entry of pool) pushCandidate(entry.tag, entry.dn, entry.ln);
+    for (const tag of objectTags) pushCandidate(tag, normalizeString(tag.displayName), normalizeString(tag.langName));
+
+    scored.sort((a, b) => {
+      if (a.rank !== b.rank) return a.rank - b.rank;
+      if (a.len !== b.len) return a.len - b.len;
+      return a.norm.localeCompare(b.norm);
+    });
+
+    return scored.slice(0, 120).map((s) => s.tag);
+  }, [trimmedQuery, scanEntries, objectTags]);
+
+  const displayedTags = isSearching ? searchResults : filteredTags;
+
   return (
-    <>
-      <Row gutter={[18, 18]}>
-        {/* 右栏给到 8/7 而不是 6：6/24 在 992–1200 只有 ~230px，提示词框一行放不下
-            20 个字符，而它是本工具的产出 */}
-        <Col xs={24} lg={16} xl={17}>
-          <Flex vertical gap={16}>
-            <section className="pp-tray">
-              <div style={{ marginBottom: 13 }}>
-                <SectionTitle index={1} title={t("section1")} gloss="Subject" showGloss={showGloss} />
-              </div>
-              <CategoryRadio className="pp-cats" items={objects} value={activeObject} onChange={handleObjectClick} />
-            </section>
+    <div className="pp-workbench">
+      {/* 桌面端左侧主体导航轨 */}
+      <aside className="pp-rail" aria-label={t("section1")}>
+        <div className="pp-rail-head">
+          <span className="pp-rail-title">{t("section1")}</span>
+          <span className="pp-rail-total">{objects.length}</span>
+        </div>
+        <div className="pp-rail-list" role="radiogroup" aria-label={t("section1")}>
+          {objects.map((obj) => {
+            const active = !isSearching && obj === activeObject;
+            const count = selectedCountByObject.get(obj) ?? 0;
+            return (
+              <label key={obj} className={`pp-rail-item${active ? " is-active" : ""}`}>
+                <input type="radio" name={categoryGroupId} checked={active} className="sr-only" onChange={() => handleObjectClick(obj)} />
+                <span className="pp-rail-name">{obj}</span>
+                {count > 0 && <span className="pp-rail-badge">{count}</span>}
+              </label>
+            );
+          })}
+        </div>
+      </aside>
 
-            <section className="pp-tray">
-              <div style={{ marginBottom: 13 }}>
-                {/* 小注是标题的英文对照，不是另起一个词（曾写 "Facet"，德语用户
-                    看到的是「Kategorie FACET」） */}
-                <SectionTitle index={2} title={t("section2")} gloss="Category" showGloss={showGloss} />
-              </div>
-              <CategoryRadio className="pp-subs" items={attributes} value={activeAttribute} onChange={handleAttributeClick} />
-            </section>
+      {/* 中间选词工作区 */}
+      <section className="pp-explorer" aria-label={t("section3")}>
+        <div className="pp-explorer-controls" ref={explorerControlsRef}>
+          {/* 平板/手机端主体分类 */}
+          <div className="pp-rail-inline">
+            <CategoryRadio className="pp-cats" label={t("section1")} items={objects} value={isSearching ? "" : activeObject} counts={selectedCountByObject} onChange={handleObjectClick} />
+          </div>
 
-            <section className="pp-tray">
-              {/* wrap：320px 的长语言里「多彩 / 单色」放不进标题右边，不许换行
-                  就把整页顶出横向滚动 */}
-              <Flex wrap justify="space-between" align="center" gap={8} style={{ marginBottom: 10 }}>
-                <SectionTitle index={3} title={t("section3")} gloss="Pick your pigments" showGloss={showGloss} />
-                <Segmented
-                  size="small"
-                  value={useColorBlocks ? "multicolor" : "monochrome"}
-                  onChange={(v) => setUseColorBlocks(v === "multicolor")}
-                  options={[
-                    { label: t("tagMode-multicolor"), value: "multicolor" },
-                    { label: t("tagMode-monochrome"), value: "monochrome" },
-                  ]}
-                />
+          <div className="pp-explorer-bar">
+            <Input
+              allowClear
+              className="pp-search-input"
+              prefix={<SearchOutlined />}
+              placeholder={t("searchPlaceholder")}
+              aria-label={t("searchPlaceholder")}
+              value={searchQuery}
+              onFocus={() => ensureLoaded(true)}
+              onChange={(e) => {
+                ensureLoaded(true);
+                updateSearchQuery(e.target.value);
+              }}
+            />
+            <Segmented
+              size="small"
+              value={viewMode}
+              onChange={(v) => {
+                scrollToTagListStart();
+                setViewMode(v as "compact" | "visual");
+              }}
+              options={[
+                { value: "visual", icon: <AppstoreOutlined />, label: <span className="max-[480px]:sr-only">{t("tagView-visual")}</span> },
+                { value: "compact", icon: <UnorderedListOutlined />, label: <span className="max-[480px]:sr-only">{t("tagView-compact")}</span> },
+              ]}
+            />
+          </div>
+
+          {isSearching ? (
+            <Flex align="center" justify="space-between" gap={8} className="pp-search-meta">
+              <Flex align="center" gap={8}>
+                <span role="status">{t("searchResults", { count: searchResults.length })}</span>
+                {fullTagsStatus === "loading" && <Spin size="small" />}
               </Flex>
-              <div style={{ maxHeight: "clamp(280px, 36vh, 400px)", overflowY: "auto" }}>
-                {/* 本地词库和随构建附带的自定义条目不依赖分块请求。 */}
-                {filteredTags.length > 0 && (
-                  <TagSection tags={filteredTags} selectedNameSet={selectedNameSet} onTagClick={handleTagClick} mono={!useColorBlocks} />
-                )}
-                {/* aria-live 容器必须常驻：连着文字一起插入的话读屏一个字都不念。
-                    空态由 .pp-tag-state:empty 压成 0 高 */}
-                <div className="pp-tag-state" role="status" aria-live="polite">
-                  {tagsStatus === "loading" && (
-                    <>
-                      <Spin size="small" />
-                      <span>{t("tagsLoading")}</span>
-                    </>
-                  )}
-                  {tagsStatus === "error" && (
-                    <>
-                      <span>{t("tagsError")}</span>
-                      <Button size="small" onClick={retryTags}>
-                        {t("retry")}
-                      </Button>
-                    </>
-                  )}
-                </div>
-              </div>
-            </section>
-          </Flex>
-          {selectedTags.length > 0 && (
-            <div style={{ marginTop: 16 }}>
-              <SelectedTagsSection selectedTags={selectedTags} onTagClick={handleTagClick} />
+              <Button type="link" size="small" onClick={() => updateSearchQuery("")}>
+                {t("clearSearch")}
+              </Button>
+            </Flex>
+          ) : (
+            <div className="pp-cat-bar">
+              <CategoryRadio className="pp-subs" label={t("section2")} items={attributes} value={activeAttribute} counts={selectedCountByAttr} onChange={handleAttributeClick} />
             </div>
           )}
-        </Col>
-        <Col xs={24} lg={8} xl={7}>
-          <ResultSection
-            selectedTags={selectedTags}
-            setSelectedTags={setSelectedTags}
-            firstChunk={firstChunk}
-            objectCount={builtInObjects.length}
-            customTags={customTags}
-            libraryId={libraryId}
-            libraryReady={libraryReady}
-          >
-            <LocalTagLibrary
-              hasLibrary={!!library}
-              ready={libraryReady}
-              objects={builtInObjects}
-              attributes={builtInAttributes}
-              onImported={showImportedTags}
+        </div>
+
+        <div className="pp-tag-stage" onFocus={(event) => {
+          const controls = explorerControlsRef.current;
+          if (!controls || !event.target.matches(":focus-visible") || getComputedStyle(controls).position !== "sticky") return;
+          // 用键盘往回选词时，避免焦点停在工具栏后面。
+          const overlap = controls.getBoundingClientRect().bottom + 6 - event.target.getBoundingClientRect().top;
+          if (overlap > 0) window.scrollBy(0, -overlap);
+        }}>
+          {displayedTags.length > 0 && (
+            <TagSection
+              tags={displayedTags}
+              selectedNameSet={selectedNameSet}
+              onTagClick={handleTagClick}
+              viewMode={viewMode}
+              showPath={isSearching}
             />
-          </ResultSection>
-        </Col>
-      </Row>
-    </>
+          )}
+          {isSearching && searchResults.length === 0 && fullTagsStatus === "ready" && (
+            <div className="pp-search-empty">
+              <span>{t("searchEmpty")}</span>
+              <Button size="small" onClick={() => updateSearchQuery("")}>
+                {t("clearSearch")}
+              </Button>
+            </div>
+          )}
+          {/* aria-live 容器必须常驻：空态由 .pp-tag-state:empty 压成 0 高 */}
+          <div className="pp-tag-state" role="status" aria-live="polite">
+            {!isSearching && tagsStatus === "loading" && (
+              <>
+                <Spin size="small" />
+                <span>{t("tagsLoading")}</span>
+              </>
+            )}
+            {(isSearching ? fullTagsStatus === "error" : tagsStatus === "error") && (
+              <>
+                <span>{t("tagsError")}</span>
+                <Button size="small" onClick={isSearching ? () => ensureLoaded(true) : retryTags}>
+                  {t("retry")}
+                </Button>
+              </>
+            )}
+          </div>
+        </div>
+      </section>
+
+      {/* 右侧提示词组装台 */}
+      <div className="pp-workbench-side">
+        <ResultSection
+          selectedTags={selectedTags}
+          setSelectedTags={setSelectedTags}
+          onRemoveTag={handleTagClick}
+          fullTags={fullTags}
+          customTags={customTags}
+          libraryId={libraryId}
+          libraryReady={libraryReady}
+          hasLibrary={!!library}>
+          <LocalTagLibrary
+            hasLibrary={!!library}
+            ready={libraryReady}
+            objects={builtInObjects}
+            attributes={builtInAttributes}
+            onImported={showImportedTags}
+          />
+        </ResultSection>
+      </div>
+    </div>
   );
 };
 

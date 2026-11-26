@@ -6,13 +6,12 @@
     "ogDescription": "Nhấp thẻ song ngữ để soạn prompt AI cho Midjourney, FLUX, Nano Banana, Veo, Kling. Miễn phí, cục bộ, mã nguồn mở."
   },
   "ToolPage": {
+    "backToTop": "Về đầu trang",
     "section1": "Chủ đề",
     "section2": "Danh mục",
     "section3": "Thẻ",
     "currentSelection": "Đã chọn",
     "fallback-other": "Khác",
-    "tagMode-multicolor": "Nhiều màu",
-    "tagMode-monochrome": "Đơn sắc",
     "tagsLoading": "Đang tải thẻ…",
     "tagsError": "Không tải được thẻ",
     "retry": "Thử lại",
@@ -25,7 +24,16 @@
       "invalid": "Chọn tệp JSON thư viện thẻ hợp lệ.",
       "tooLarge": "Chọn tệp JSON có dung lượng tối đa 2 MB.",
       "storageError": "Không thể lưu thư viện trên thiết bị này."
-    }
+    },
+    "searchPlaceholder": "Tìm trong hơn 5.000 thẻ…",
+    "searchResults": "{count} thẻ phù hợp",
+    "searchEmpty": "Không tìm thấy thẻ phù hợp",
+    "clearSearch": "Xóa tìm kiếm",
+    "tagView-compact": "Thẻ",
+    "tagView-visual": "Thẻ ảnh",
+    "previewImage": "Xem trước ảnh",
+    "selectedEmpty": "Chọn thẻ để ghép prompt hoặc nhập trực tiếp ở trên",
+    "viewPrompt": "Xem prompt"
   },
   "ResultSection": {
     "tooltip-light": "Chèn prompt ánh sáng chân dung (ánh sáng điện ảnh, tia hoàng hôn, v.v.)",
@@ -56,7 +64,9 @@
     "placeholder-prompt": "Chọn thẻ để ghép tự động, hoặc tự nhập prompt của bạn",
     "placeholder-translate": "vd. chú mèo lúc hoàng hôn",
     "autoTranslate": "Bật dịch tự động",
-    "translationPrivacy": "Dịch tự động mặc định tắt. Nhấn Dịch hoặc bật dịch tự động sẽ gửi văn bản đến Google, Microsoft Edge, Youdao hoặc MyMemory."
+    "translationPrivacy": "Dịch tự động mặc định tắt. Nhấn Dịch hoặc bật dịch tự động sẽ gửi văn bản đến Google, Microsoft Edge, Youdao hoặc MyMemory.",
+    "quickPresets": "Mẫu nhanh",
+    "localLibraryLabel": "Thư viện thẻ cục bộ"
   },
   "CopyToClipboard": {
     "empty": "Nội dung trống, không có gì để sao chép",
@@ -76,30 +86,30 @@
     "placeholder": "Vui lòng để lại tin nhắn, không cần đăng nhập (nhập email của bạn để nhận thông báo trả lời)"
   },
   "Home": {
-    "h1": "IMGPrompt · Chọn prompt như chọn <hl>màu vẽ</hl>",
-    "tagline": "5000+ thẻ song ngữ · prompt ảnh/video AI chuyên nghiệp trong vài giây · Midjourney / FLUX / GPT-Image / Veo / Kling"
+    "h1": "IMGPrompt · Tạo prompt AI trực quan bằng <hl>hình ảnh</hl>",
+    "tagline": "5.000+ thẻ song ngữ kèm ảnh · Midjourney / FLUX / GPT-Image / Veo / Kling"
   },
   "FAQ": {
-    "title": "Câu hỏi thường gặp",
+    "title": "Câu hỏi về trình soạn prompt AI",
     "q1": {
-      "question": "IMGPrompt là gì? Hỗ trợ những mô hình AI nào?",
-      "answer": "IMGPrompt là trình biên soạn prompt cho các mô hình text-to-image, giúp bạn soạn prompt tiếng Anh qua các thẻ trực quan với nhãn song ngữ. Hỗ trợ chính thức Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo và Kling (ảnh và video); prompt tạo ra cũng hoạt động với Stable Diffusion, DALL·E và bất kỳ mô hình nào chấp nhận cú pháp tương thích."
+      "question": "IMGPrompt là gì và có thể dùng để viết prompt tạo ảnh không?",
+      "answer": "IMGPrompt là trình soạn prompt miễn phí cho ảnh và video. Tìm và chọn thẻ hình song ngữ, chỉnh sửa văn bản tiếng Anh rồi dán vào Midjourney, FLUX, GPT Image hoặc công cụ tạo ảnh khác."
     },
     "q2": {
-      "question": "Có miễn phí không? Có cần đăng ký không? Dữ liệu có bị tải lên?",
-      "answer": "Hoàn toàn miễn phí, không cần đăng ký hay đăng nhập. Việc ghép prompt được xử lý cục bộ trong trình duyệt, không có cơ sở dữ liệu phía máy chủ; chỉ khi bạn dùng tính năng dịch, văn bản đó mới được gửi tới dịch vụ dịch của bên thứ ba. Dự án mã nguồn mở trên GitHub — bạn có thể kiểm tra mã hoặc tự triển khai."
+      "question": "IMGPrompt có miễn phí không và prompt có được gửi đi không?",
+      "answer": "Trình soạn thảo web miễn phí và không cần tài khoản. Việc chỉnh sửa và nhập thư viện diễn ra trong trình duyệt. Dịch tự động mặc định tắt. Cả hai chế độ dịch đều gửi văn bản cần dịch đến dịch vụ bên thứ ba."
     },
     "q7": {
-      "question": "IMGPrompt khác PromptHero, Lexica, PromptBase như thế nào?",
-      "answer": "IMGPrompt là công cụ dựng prompt bằng một cú nhấp, không phải công cụ tìm kiếm prompt. PromptHero, Lexica, PromptBase cho bạn duyệt hoặc mua prompt của người khác; IMGPrompt cho bạn tự dựng prompt bằng cách nhấp thẻ song ngữ trực quan. Dịch tự động mặc định tắt. Nhấn Dịch hoặc bật dịch tự động sẽ gửi văn bản đến Google, Microsoft Edge, Youdao hoặc MyMemory."
+      "question": "Có thể nhập thư viện thẻ riêng không?",
+      "answer": "Có. Mở thư viện thẻ cục bộ ở cuối trình soạn thảo và nhập tệp JSON tối đa 2 MB. Thẻ xuất hiện trong danh mục, kết quả tìm kiếm và gợi ý. Trình duyệt lưu thư viện."
     },
     "q8": {
-      "question": "IMGPrompt có hỗ trợ các mô hình video AI như Veo, Kling, Runway không?",
-      "answer": "Có. IMGPrompt tạo prompt cho các mô hình video bao gồm Google Veo, Kling, Seedance, Runway, Hailuo, bên cạnh các mô hình ảnh. Hầu hết các trang prompt chỉ tập trung vào mô hình ảnh, nên IMGPrompt là một trong số ít công cụ miễn phí bắt kịp làn sóng tạo video AI mới."
+      "question": "Có thể viết prompt video cho Veo, Kling hoặc Runway không?",
+      "answer": "Có. Mô tả cảnh mở đầu, hành động của chủ thể và chuyển động máy quay. Dán prompt vào công cụ tạo video rồi chỉnh tham số theo mô hình bạn dùng."
     },
     "q9": {
-      "question": "Tôi có thể dùng IMGPrompt mà không biết tiếng Anh không?",
-      "answer": "Có. Giao diện có sẵn ở 18 ngôn ngữ, và mỗi thẻ hiển thị cả tiếng Anh và ngôn ngữ địa phương của bạn. Bạn nhấp thẻ bằng ngôn ngữ của mình; IMGPrompt ghép prompt bằng tiếng Anh (thứ mà các mô hình AI ảnh và video thực sự cần). Nút 'Dịch' cũng chuyển bất kỳ câu nào trong ngôn ngữ của bạn thành prompt tiếng Anh chỉ với một cú nhấp."
+      "question": "Có thể viết prompt khi không biết tiếng Anh không?",
+      "answer": "Có. Tìm và chọn thẻ song ngữ bằng ngôn ngữ giao diện. Trình soạn thảo sẽ chèn nội dung tiếng Anh. Dùng chức năng dịch để thêm một đoạn mô tả đầy đủ bằng tiếng Anh."
     }
   },
   "Schema": {

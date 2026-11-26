@@ -3,9 +3,9 @@
   "version": "3.1.1",
   "license": "MIT",
   "scripts": {
-    "predev": "node scripts/sliceData.js",
+    "predev": "node scripts/genAntdCss.mjs && node scripts/sliceData.js",
     "dev": "next dev",
-    "prebuild": "node scripts/sliceData.js",
+    "prebuild": "node scripts/genAntdCss.mjs && node scripts/sliceData.js",
     "build": "next build",
     "postbuild": "node scripts/flattenRscSegments.js",
     "build:lang": "node scripts/buildWithLang.js",
@@ -14,26 +14,31 @@
     "outdated": "npx --yes npm-check-updates"
   },
   "dependencies": {
-    "@ant-design/nextjs-registry": "^1.3.0",
+    "@ant-design/icons": "^6",
     "antd": "^6",
-    "next": "16.4.5",
-    "next-intl": "^4",
+    "next": "16.4.6",
+    "next-intl": "^4.16.2",
     "next-themes": "^0.4.6",
     "react": "19.3.1",
     "react-dom": "19.3.1"
   },
   "devDependencies": {
+    "@ant-design/static-style-extract": "^2.1.0",
     "@tailwindcss/postcss": "^4",
-    "@types/node": "^24",
-    "@types/react": "^19",
+    "@types/node": "^24.19.4",
+    "@types/react": "^19.3.3",
     "@types/react-dom": "^19",
     "babel-plugin-react-compiler": "^1.0.0",
     "eslint": "^9",
-    "eslint-config-next": "16.4.5",
+    "eslint-config-next": "16.4.6",
+    "postcss": "^8.5.33",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^6.0.3"
   },
   "engines": {
-    "node": ">=20.9.0"
+    "node": ">=24"
+  },
+  "resolutions": {
+    "**/@ant-design/cssinjs": "~2.1.2"
   }
 }

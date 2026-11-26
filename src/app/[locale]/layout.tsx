@@ -1,24 +1,24 @@
 import React from "react";
 import type { Viewport } from "next";
-import { Bricolage_Grotesque, IBM_Plex_Mono } from "next/font/google";
+import { Plus_Jakarta_Sans, IBM_Plex_Mono } from "next/font/google";
+import "@/app/antd.generated.css";
 import "@/app/globals.css";
 import { Navigation } from "@/app/ui/navigation";
 import { setRequestLocale, getTranslations, getMessages } from "next-intl/server";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
-import { AntdRegistry } from "@ant-design/nextjs-registry";
 import ThemesProvider from "@/app/ThemesProvider";
 import {
   SITE_URL, SITE_NAME, AUTHOR, REPO_URL,
   ogLocale, bcp47,
 } from "@/app/lib/seo";
 
-// Pigment Lab 展示字体：latin 标签/标题用 Bricolage，提示词文本用 Plex Mono；
+// Studio Calm 字体：Plus Jakarta Sans 配 IBM Plex Mono；
 // CJK 回退系统字体（变量在 globals.css 的 --pp-font-* 中消费）
-const displayFont = Bricolage_Grotesque({
+const displayFont = Plus_Jakarta_Sans({
   subsets: ["latin"],
-  weight: ["500", "700", "800"],
+  weight: ["500", "600", "700"],
   variable: "--font-display",
   display: "swap",
 });
@@ -83,15 +83,15 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       description: ogDescription,
       images: ["/og-image.png"],
     },
-    icons: { icon: "/icon.png", apple: "/apple-icon.png" },
+    icons: {
+      icon: { url: "/icon.png", sizes: "96x96", type: "image/png" },
+      apple: { url: "/apple-icon.png", sizes: "180x180", type: "image/png" },
+    },
   };
 }
 
 export const viewport: Viewport = {
-  themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#ffffff" },
-    { media: "(prefers-color-scheme: dark)", color: "#141414" },
-  ],
+  themeColor: "#f6f7f9",
 };
 
 export function generateStaticParams() {
@@ -123,31 +123,26 @@ export default async function LocaleLayout({ children, params }: Props) {
   return (
     <html lang={bcp47(locale)} dir={direction} className={`${displayFont.variable} ${monoFont.variable}`} suppressHydrationWarning>
       <body>
-        <AntdRegistry>
-          <NextIntlClientProvider messages={clientMessages}>
-            <ThemesProvider>
-              {/* 跳转链接指向可聚焦的主要内容。 */}
-              <a href="#pp-main" className="pp-skip">
-                {tNav("skipToPrompt")}
-              </a>
-              <Navigation />
-              <main id="pp-main" tabIndex={-1} style={{ maxWidth: 1280, width: "100%", marginTop: 8, marginInline: "auto", paddingInline: "clamp(16px, 4vw, 24px)", paddingBlock: 16 }}>{children}</main>
-              {/* 页脚只留 GitHub 入口 + 签名（本仓库无指南/反馈路由）。这个 GitHub
-                  链接不是装饰：globals.css 在 ≤520px 隐藏顶栏的 GitHub 图标，
-                  正是因为页脚有同一入口。 */}
-              <footer className="pp-footer">
+        <NextIntlClientProvider messages={clientMessages}>
+          <ThemesProvider zeroRuntime>
+            {/* 跳转链接指向可聚焦的主要内容。 */}
+            <a href="#pp-main" className="pp-skip">
+              {tNav("skipToPrompt")}
+            </a>
+            <Navigation />
+            <main id="pp-main" className="pp-site-main" tabIndex={-1}>{children}</main>
+            <footer className="pp-footer">
+              <div className="pp-footer-inner">
                 <div className="pp-footer-links">
-                  <a href={REPO_URL} target="_blank" rel="noopener noreferrer">
-                    GitHub
-                  </a>
+                  <a href={REPO_URL} target="_blank" rel="noopener noreferrer">GitHub</a>
                 </div>
                 <div className="pp-footer-sig">
                   <b className="pp-footer-mark">IMGPROMPT</b> · {tFooter("signature")}
                 </div>
-              </footer>
-            </ThemesProvider>
-          </NextIntlClientProvider>
-        </AntdRegistry>
+              </div>
+            </footer>
+          </ThemesProvider>
+        </NextIntlClientProvider>
       </body>
     </html>
   );

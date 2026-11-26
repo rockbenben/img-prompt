@@ -6,13 +6,12 @@
     "ogDescription": "Klik tag dwibahasa untuk menyusun prompt AI untuk Midjourney, FLUX, Nano Banana, Veo, Kling. Gratis, lokal, open source."
   },
   "ToolPage": {
+    "backToTop": "Kembali ke atas",
     "section1": "Subjek",
     "section2": "Kategori",
     "section3": "Tag",
     "currentSelection": "Dipilih",
     "fallback-other": "Lainnya",
-    "tagMode-multicolor": "Beragam Warna",
-    "tagMode-monochrome": "Satu Warna",
     "tagsLoading": "Memuat tag…",
     "tagsError": "Tag gagal dimuat",
     "retry": "Coba lagi",
@@ -25,7 +24,16 @@
       "invalid": "Pilih file JSON pustaka tag yang valid.",
       "tooLarge": "Pilih file JSON berukuran maksimal 2 MB.",
       "storageError": "Pustaka tidak dapat disimpan di perangkat ini."
-    }
+    },
+    "searchPlaceholder": "Cari 5.000+ tag…",
+    "searchResults": "{count} tag cocok",
+    "searchEmpty": "Tidak ada tag yang cocok",
+    "clearSearch": "Hapus pencarian",
+    "tagView-compact": "Tag",
+    "tagView-visual": "Visual",
+    "previewImage": "Pratinjau gambar",
+    "selectedEmpty": "Pilih tag untuk menyusun prompt, atau ketik di atas",
+    "viewPrompt": "Lihat prompt"
   },
   "ResultSection": {
     "tooltip-light": "Sisipkan prompt pencahayaan potret (pencahayaan film, sinar senja, dll.)",
@@ -56,7 +64,9 @@
     "placeholder-prompt": "Pilih tag untuk menyusunnya, atau ketik prompt Anda sendiri",
     "placeholder-translate": "mis. kucing saat matahari terbenam",
     "autoTranslate": "Aktifkan terjemahan otomatis",
-    "translationPrivacy": "Terjemahan otomatis dinonaktifkan secara default. Mengeklik Terjemahkan atau mengaktifkannya mengirim teks ke Google, Microsoft Edge, Youdao atau MyMemory."
+    "translationPrivacy": "Terjemahan otomatis dinonaktifkan secara default. Mengeklik Terjemahkan atau mengaktifkannya mengirim teks ke Google, Microsoft Edge, Youdao atau MyMemory.",
+    "quickPresets": "Preset cepat",
+    "localLibraryLabel": "Pustaka tag lokal"
   },
   "CopyToClipboard": {
     "empty": "Konten kosong, tidak ada yang bisa disalin",
@@ -76,30 +86,30 @@
     "placeholder": "Silakan tinggalkan pesan, tidak perlu login (masukkan email Anda untuk menerima pemberitahuan balasan)"
   },
   "Home": {
-    "h1": "IMGPrompt · Pilih prompt seperti memilih <hl>cat warna</hl>",
-    "tagline": "5000+ tag dwibahasa · prompt gambar/video AI profesional dalam hitungan detik · Midjourney / FLUX / GPT-Image / Veo / Kling"
+    "h1": "IMGPrompt · Susun prompt AI secara <hl>visual</hl>",
+    "tagline": "5.000+ tag dwibahasa bergambar · Midjourney / FLUX / GPT-Image / Veo / Kling"
   },
   "FAQ": {
-    "title": "Pertanyaan yang sering diajukan",
+    "title": "Tanya jawab tentang editor prompt AI",
     "q1": {
-      "question": "Apa itu IMGPrompt? Model seni AI mana saja yang didukung?",
-      "answer": "IMGPrompt adalah editor prompt untuk model text-to-image yang membantu menyusun prompt Inggris melalui tag visual berlabel dwibahasa. Secara resmi mendukung Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, dan Kling (gambar dan video); prompt yang dihasilkan juga berfungsi pada Stable Diffusion, DALL·E, dan model apa pun yang menerima sintaks kompatibel."
+      "question": "Apa itu IMGPrompt dan bagaimana cara membuat prompt gambar?",
+      "answer": "IMGPrompt adalah editor gratis untuk prompt gambar dan video. Cari dan pilih kartu dwibahasa, edit teks bahasa Inggrisnya, lalu salin ke Midjourney, FLUX, GPT Image, atau alat pembuat gambar lain."
     },
     "q2": {
-      "question": "Gratiskah? Apakah perlu mendaftar? Apakah data diunggah?",
-      "answer": "Sepenuhnya gratis, tanpa perlu mendaftar atau login. Penyusunan prompt diproses secara lokal di browser tanpa database server; hanya saat Anda memakai fitur terjemahan, teks itu dikirim ke layanan terjemahan pihak ketiga. Proyek ini open source di GitHub — Anda bisa mengaudit kode atau hosting sendiri."
+      "question": "Apakah IMGPrompt gratis dan apakah prompt dikirim ke pihak lain?",
+      "answer": "Editor web bisa digunakan gratis tanpa akun. Pengeditan dan impor dilakukan di peramban. Terjemahan otomatis nonaktif secara bawaan. Kedua mode terjemahan mengirim teks yang akan diterjemahkan ke layanan pihak ketiga."
     },
     "q7": {
-      "question": "Bagaimana IMGPrompt berbeda dari PromptHero, Lexica, atau PromptBase?",
-      "answer": "IMGPrompt adalah penyusun prompt 'klik-untuk-buat', bukan mesin pencari prompt. PromptHero, Lexica, dan PromptBase memungkinkan Anda menelusuri atau membeli prompt orang lain; IMGPrompt memungkinkan Anda menyusun prompt sendiri dengan mengklik tag visual dwibahasa. Terjemahan otomatis dinonaktifkan secara default. Mengeklik Terjemahkan atau mengaktifkannya mengirim teks ke Google, Microsoft Edge, Youdao atau MyMemory."
+      "question": "Bisakah saya mengimpor pustaka tag sendiri?",
+      "answer": "Bisa. Buka pustaka tag lokal di bagian bawah editor dan impor JSON berukuran hingga 2 MB. Tag muncul di kategori, pencarian, dan saran. Pustaka disimpan di peramban."
     },
     "q8": {
-      "question": "Apakah IMGPrompt mendukung model video AI seperti Veo, Kling, dan Runway?",
-      "answer": "Ya. IMGPrompt membuat prompt untuk model video termasuk Google Veo, Kling, Seedance, Runway, dan Hailuo, di samping model gambar. Sebagian besar situs prompt hanya fokus pada model gambar, jadi IMGPrompt adalah salah satu dari sedikit alat gratis yang mencakup gelombang baru generasi video AI."
+      "question": "Bisakah saya menulis prompt video untuk Veo, Kling, atau Runway?",
+      "answer": "Bisa. Jelaskan adegan pembuka, aksi subjek, dan gerak kamera. Tempel prompt ke pembuat video dan sesuaikan parameternya dengan model yang dipakai."
     },
     "q9": {
-      "question": "Bisakah saya menggunakan IMGPrompt tanpa bisa bahasa Inggris?",
-      "answer": "Ya. UI tersedia dalam 18 bahasa, dan setiap tag menampilkan baik bahasa Inggris maupun bahasa lokal Anda. Anda mengklik tag dalam bahasa Anda; IMGPrompt menyusun prompt dalam bahasa Inggris (yang sebenarnya dibutuhkan oleh model AI gambar dan video). Tombol 'Terjemahkan' juga mengubah kalimat apa pun dalam bahasa Anda menjadi prompt bahasa Inggris dengan satu klik."
+      "question": "Bisakah saya menulis prompt tanpa bisa bahasa Inggris?",
+      "answer": "Bisa. Cari dan pilih tag dwibahasa dalam bahasa antarmuka. Editor menyisipkan teks bahasa Inggrisnya. Gunakan fitur terjemahan untuk menambahkan deskripsi utuh dalam bahasa Inggris."
     }
   },
   "Schema": {

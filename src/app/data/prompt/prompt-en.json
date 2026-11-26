@@ -558,7 +558,7 @@
     "langName": "Japanese maid",
     "object": "Character",
     "attribute": "Identity",
-    "preview": "https://img.aishort.top/imgprompt/20260209051112828.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091109332.webp"
   },
   {
     "displayName": "yaoi",
@@ -685,6 +685,13 @@
     "object": "Character",
     "attribute": "Anime",
     "preview": "https://img.aishort.top/imgprompt/20260209051338305.webp"
+  },
+  {
+    "displayName": "k/da_(league_of_legends)",
+    "langName": "K/DA (League of Legends)",
+    "object": "Character",
+    "attribute": "Anime",
+    "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
   },
   {
     "displayName": "magical_girl",
@@ -1174,7 +1181,7 @@
     "langName": "dark skin",
     "object": "Character",
     "attribute": "Skin",
-    "preview": "https://img.aishort.top/imgprompt/20260210193448392.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125160109491.webp"
   },
   {
     "displayName": "white_marble_glowing_skin",
@@ -2462,7 +2469,7 @@
     "langName": "dog ears",
     "object": "Character",
     "attribute": "Ear",
-    "preview": "https://img.aishort.top/imgprompt/20260211140539891.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162324015.webp"
   },
   {
     "displayName": "coyote_ears",
@@ -2483,14 +2490,14 @@
     "langName": "mouse ears",
     "object": "Character",
     "attribute": "Ear",
-    "preview": "https://img.aishort.top/imgprompt/20260211140618000.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173955736.webp"
   },
   {
     "displayName": "squirrel_ears",
     "langName": "squirrel ears",
     "object": "Character",
     "attribute": "Ear",
-    "preview": "https://img.aishort.top/imgprompt/20260211140630342.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162324839.webp"
   },
   {
     "displayName": "raccoon_ears",
@@ -2511,7 +2518,7 @@
     "langName": "panda ears",
     "object": "Character",
     "attribute": "Ear",
-    "preview": "https://img.aishort.top/imgprompt/20260211140708077.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162324403.webp"
   },
   {
     "displayName": "lion_ears",
@@ -2729,6 +2736,13 @@
     "object": "Character",
     "attribute": "Eye",
     "preview": "https://img.aishort.top/imgprompt/20260211141356627.webp"
+  },
+  {
+    "displayName": "eyeball",
+    "langName": "stare",
+    "object": "Character",
+    "attribute": "Eye",
+    "preview": "https://img.aishort.top/imgprompt/20260211175041807.webp"
   },
   {
     "displayName": "glistening_eyes",
@@ -3449,7 +3463,7 @@
     "langName": "bright eyes",
     "object": "Character",
     "attribute": "Eye Expression",
-    "preview": "https://img.aishort.top/imgprompt/20260211143656521.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173955218.webp"
   },
   {
     "displayName": "glowing_eyes",
@@ -3484,14 +3498,14 @@
     "langName": "empty eyes",
     "object": "Character",
     "attribute": "Eye Expression",
-    "preview": "https://img.aishort.top/imgprompt/20260211143758170.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175821265.webp"
   },
   {
     "displayName": "solid_eyes",
     "langName": "solid eyes",
     "object": "Character",
     "attribute": "Eye Expression",
-    "preview": "https://img.aishort.top/imgprompt/20260211143810525.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211913129.webp"
   },
   {
     "displayName": "sharp_eyes",
@@ -3505,7 +3519,7 @@
     "langName": "slanted eyes",
     "object": "Character",
     "attribute": "Eye Expression",
-    "preview": "https://img.aishort.top/imgprompt/20260211143835871.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211913654.webp"
   },
   {
     "displayName": "wink",
@@ -4110,6 +4124,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260211145729295.webp"
   },
   {
+    "displayName": "sharp_fingernails",
+    "langName": "sharp fingernails",
+    "object": "Character",
+    "attribute": "Nail",
+    "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
+  },
+  {
     "displayName": "nail",
     "langName": "Fingernails",
     "object": "Character",
@@ -4436,7 +4457,7 @@
     "langName": "mini wings",
     "object": "Character",
     "attribute": "Wing",
-    "preview": "https://img.aishort.top/imgprompt/20260211150708765.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173954730.webp"
   },
   {
     "displayName": "multicolored_wings",
@@ -4520,7 +4541,7 @@
     "langName": "duotone background",
     "object": "Environment",
     "attribute": "Background",
-    "preview": "https://img.aishort.top/imgprompt/20260211150936747.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922134.webp"
   },
   {
     "displayName": "multicolored_background",
@@ -5605,7 +5626,7 @@
     "langName": "Altostratus clouds",
     "object": "Environment",
     "attribute": "Cloud",
-    "preview": "https://img.aishort.top/imgprompt/20260211154517625.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161821354.webp"
   },
   {
     "displayName": "altostratus_opacus",
@@ -5843,7 +5864,7 @@
     "langName": "gohei",
     "object": "Environment",
     "attribute": "Outdoor",
-    "preview": "https://img.aishort.top/imgprompt/20260317125003286.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091313251.webp"
   },
   {
     "displayName": "temple",
@@ -6273,15 +6294,15 @@
     "preview": "https://img.aishort.top/imgprompt/20260211160551027.webp"
   },
   {
-    "displayName": "greco-roman architectur",
-    "langName": "Western Roman Architecture",
+    "displayName": "greco-roman architecture",
+    "langName": "Greco-Roman architecture",
     "object": "Environment",
     "attribute": "Outdoor",
     "preview": "https://img.aishort.top/imgprompt/20260211160604356.webp"
   },
   {
-    "displayName": "in the romanesque architecture streets",
-    "langName": "Roman streets",
+    "displayName": "street with Romanesque architecture",
+    "langName": "Street with Romanesque architecture",
     "object": "Environment",
     "attribute": "Outdoor",
     "preview": "https://img.aishort.top/imgprompt/20260211160617842.webp"
@@ -6378,25 +6399,11 @@
     "preview": "https://img.aishort.top/imgprompt/20260211160941350.webp"
   },
   {
-    "displayName": "chinese_style_loft",
-    "langName": "Chinese style loft",
+    "displayName": "architectural turret",
+    "langName": "Architectural turret",
     "object": "Environment",
     "attribute": "Outdoor",
-    "preview": "https://img.aishort.top/imgprompt/20260928203748176.webp"
-  },
-  {
-    "displayName": "traditional_chinese_room",
-    "langName": "Traditional Chinese style room",
-    "object": "Environment",
-    "attribute": "Outdoor",
-    "preview": "https://img.aishort.top/imgprompt/20260928203800477.webp"
-  },
-  {
-    "displayName": "turret",
-    "langName": "tower",
-    "object": "Environment",
-    "attribute": "Outdoor",
-    "preview": "https://img.aishort.top/imgprompt/20260211161021082.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091447286.webp"
   },
   {
     "displayName": "tower",
@@ -6732,7 +6739,21 @@
     "langName": "palace",
     "object": "Environment",
     "attribute": "Indoor",
-    "preview": "https://img.aishort.top/imgprompt/20260211162027180.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091113495.webp"
+  },
+  {
+    "displayName": "chinese_style_loft",
+    "langName": "Chinese style loft",
+    "object": "Environment",
+    "attribute": "Indoor",
+    "preview": "https://img.aishort.top/imgprompt/20260928203748176.webp"
+  },
+  {
+    "displayName": "traditional_chinese_room",
+    "langName": "Traditional Chinese style room",
+    "object": "Environment",
+    "attribute": "Indoor",
+    "preview": "https://img.aishort.top/imgprompt/20260928203800477.webp"
   },
   {
     "displayName": "bed",
@@ -7663,7 +7684,7 @@
     "langName": "round fan",
     "object": "Thing",
     "attribute": "Other Items",
-    "preview": "https://img.aishort.top/imgprompt/20260211164840551.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091536844.webp"
   },
   {
     "displayName": "Cage",
@@ -7831,7 +7852,7 @@
     "langName": "Chibi Inset",
     "object": "Thing",
     "attribute": "Other Items",
-    "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162327643.webp"
   },
   {
     "displayName": "damaged",
@@ -7964,7 +7985,7 @@
     "langName": "Saber",
     "object": "Thing",
     "attribute": "Arms",
-    "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091117893.webp"
   },
   {
     "displayName": "dagger",
@@ -9693,7 +9714,7 @@
     "langName": "Character’s perspective looking downward↘",
     "object": "Action",
     "attribute": "Look",
-    "preview": "https://img.aishort.top/imgprompt/20260211175003043.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211914077.webp"
   },
   {
     "displayName": "looking_up",
@@ -9708,13 +9729,6 @@
     "object": "Action",
     "attribute": "Look",
     "preview": "https://img.aishort.top/imgprompt/20260211175028772.webp"
-  },
-  {
-    "displayName": "eyeball",
-    "langName": "stare",
-    "object": "Action",
-    "attribute": "Look",
-    "preview": "https://img.aishort.top/imgprompt/20260211175041807.webp"
   },
   {
     "displayName": "looking_to_the_side",
@@ -9742,14 +9756,14 @@
     "langName": "Looking to the future",
     "object": "Action",
     "attribute": "Look",
-    "preview": "https://img.aishort.top/imgprompt/20260211175132546.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211914519.webp"
   },
   {
     "displayName": "sideways_glance",
     "langName": "glance slightly to the side",
     "object": "Action",
     "attribute": "Look",
-    "preview": "https://img.aishort.top/imgprompt/20260211175145263.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211914924.webp"
   },
   {
     "displayName": "head_tilt",
@@ -9855,13 +9869,6 @@
     "object": "Action",
     "attribute": "Look",
     "preview": "https://img.aishort.top/imgprompt/20260928173151946.webp"
-  },
-  {
-    "displayName": "gradient",
-    "langName": "gradient",
-    "object": "Action",
-    "attribute": "Look",
-    "preview": "https://img.aishort.top/imgprompt/20260211175505744.webp"
   },
   {
     "displayName": "stare at me",
@@ -9990,13 +9997,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260928170307207.webp"
   },
   {
-    "displayName": "sharp_fingernails",
-    "langName": "sharp fingernails",
-    "object": "Action",
-    "attribute": "Arm Poses",
-    "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
-  },
-  {
     "displayName": "spread_fingers",
     "langName": "spread your fingers",
     "object": "Action",
@@ -10015,7 +10015,7 @@
     "langName": "Finger than W",
     "object": "Action",
     "attribute": "Arm Poses",
-    "preview": "https://img.aishort.top/imgprompt/20260928170326088.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162328098.webp"
   },
   {
     "displayName": "bound_arms",
@@ -10064,7 +10064,7 @@
     "langName": "Pull arms back",
     "object": "Action",
     "attribute": "Arm Poses",
-    "preview": "https://img.aishort.top/imgprompt/20260928185216850.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211915279.webp"
   },
   {
     "displayName": "hugging_own_legs",
@@ -10316,7 +10316,7 @@
     "langName": "Paw Pose",
     "object": "Action",
     "attribute": "Hand Signals",
-    "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162325252.webp"
   },
   {
     "displayName": "finger_gun",
@@ -10365,7 +10365,7 @@
     "langName": "fox shadow puppet",
     "object": "Action",
     "attribute": "Hand Signals",
-    "preview": "https://img.aishort.top/imgprompt/20260211181016614.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211915478.webp"
   },
   {
     "displayName": "double_fox_shadow_puppet",
@@ -10379,7 +10379,7 @@
     "langName": "biting fingers",
     "object": "Action",
     "attribute": "Hand Signals",
-    "preview": "https://img.aishort.top/imgprompt/20260211181041581.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211915701.webp"
   },
   {
     "displayName": "finger_in_mouth",
@@ -11016,7 +11016,7 @@
     "langName": "Put your hands on your belly",
     "object": "Action",
     "attribute": "Hugs & Grabs",
-    "preview": "https://img.aishort.top/imgprompt/20260211183050952.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050324324.webp"
   },
   {
     "displayName": "hands_on_own_thighs",
@@ -11128,7 +11128,7 @@
     "langName": "Holding on to the tie",
     "object": "Action",
     "attribute": "Hugs & Grabs",
-    "preview": "https://img.aishort.top/imgprompt/20260211183430733.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050324749.webp"
   },
   {
     "displayName": "neckwear_grab",
@@ -11142,7 +11142,7 @@
     "langName": "Grabbing a pillow",
     "object": "Action",
     "attribute": "Hugs & Grabs",
-    "preview": "https://img.aishort.top/imgprompt/20260211183459740.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050324964.webp"
   },
   {
     "displayName": "sheet_grab",
@@ -11310,7 +11310,7 @@
     "langName": "Put your hands on your belly",
     "object": "Action",
     "attribute": "Hugs & Grabs",
-    "preview": "https://img.aishort.top/imgprompt/20260212075648271.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050325289.webp"
   },
   {
     "displayName": "hand_on_shoulder",
@@ -11373,7 +11373,7 @@
     "langName": "legs apart",
     "object": "Action",
     "attribute": "Leg Actions",
-    "preview": "https://img.aishort.top/imgprompt/20260211184203044.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050325498.webp"
   },
   {
     "displayName": "knees_to_chest",
@@ -11415,7 +11415,7 @@
     "langName": "Curtsy",
     "object": "Action",
     "attribute": "Leg Actions",
-    "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050325678.webp"
   },
   {
     "displayName": "tiptoes",
@@ -11443,7 +11443,7 @@
     "langName": "One leg is not in the picture",
     "object": "Action",
     "attribute": "Leg Actions",
-    "preview": "https://img.aishort.top/imgprompt/20260928172729001.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050325865.webp"
   },
   {
     "displayName": "all_fours",
@@ -11458,13 +11458,6 @@
     "object": "Action",
     "attribute": "Leg Actions",
     "preview": "https://img.aishort.top/imgprompt/20260928172748532.webp"
-  },
-  {
-    "displayName": "ankle_strap",
-    "langName": "ankle silk ring",
-    "object": "Action",
-    "attribute": "Leg Actions",
-    "preview": "https://img.aishort.top/imgprompt/20260211184447933.webp"
   },
   {
     "displayName": "ankle_wrap",
@@ -11544,13 +11537,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260211184704562.webp"
   },
   {
-    "displayName": "k/da_(league_of_legends)",
-    "langName": "K/DA (League of Legends)",
-    "object": "Action",
-    "attribute": "Leg Actions",
-    "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
-  },
-  {
     "displayName": "knee_up",
     "langName": "Push up your knees",
     "object": "Action",
@@ -11579,13 +11565,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260211184806590.webp"
   },
   {
-    "displayName": "leg_belt",
-    "langName": "Leg straps",
-    "object": "Action",
-    "attribute": "Leg Actions",
-    "preview": "https://img.aishort.top/imgprompt/20260928185618936.webp"
-  },
-  {
     "displayName": "leg_hair",
     "langName": "Leg hair",
     "object": "Action",
@@ -11611,7 +11590,7 @@
     "langName": "Lift your legs above your head",
     "object": "Action",
     "attribute": "Leg Actions",
-    "preview": "https://img.aishort.top/imgprompt/20260224190101888.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162707679.webp"
   },
   {
     "displayName": "lowleg",
@@ -11639,7 +11618,7 @@
     "langName": "No legs drawn",
     "object": "Action",
     "attribute": "Leg Actions",
-    "preview": "https://img.aishort.top/imgprompt/20260928172843942.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050326138.webp"
   },
   {
     "displayName": "no_legwear",
@@ -11667,7 +11646,7 @@
     "langName": "pigeon-toed",
     "object": "Action",
     "attribute": "Leg Actions",
-    "preview": "https://img.aishort.top/imgprompt/20260928172903124.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050326307.webp"
   },
   {
     "displayName": "soaking_feet",
@@ -11681,7 +11660,7 @@
     "langName": "spread legs",
     "object": "Action",
     "attribute": "Leg Actions",
-    "preview": "https://img.aishort.top/imgprompt/20260211185113618.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050326598.webp"
   },
   {
     "displayName": "squatting",
@@ -12916,13 +12895,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260211192832498.webp"
   },
   {
-    "displayName": "zipper_pull_tab",
-    "langName": "Zipper pull tab",
-    "object": "Action",
-    "attribute": "Adjusting Clothes",
-    "preview": "https://img.aishort.top/imgprompt/20260211192845162.webp"
-  },
-  {
     "displayName": "pulled_by_self",
     "langName": "Pull down your clothes",
     "object": "Action",
@@ -12941,7 +12913,7 @@
     "langName": "Skirt formed into a basket",
     "object": "Action",
     "attribute": "Adjusting Clothes",
-    "preview": "https://img.aishort.top/imgprompt/20260317125432845.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211916057.webp"
   },
   {
     "displayName": "cheek_pull",
@@ -13095,7 +13067,7 @@
     "langName": "sitting backwards",
     "object": "Action",
     "attribute": "Special Poses",
-    "preview": "https://img.aishort.top/imgprompt/20260211193524331.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161823584.webp"
   },
   {
     "displayName": "sitting_in_tree",
@@ -13830,7 +13802,7 @@
     "langName": "crazy laugh",
     "object": "Expression",
     "attribute": "Laugh",
-    "preview": "https://img.aishort.top/imgprompt/20260211200005529.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211916395.webp"
   },
   {
     "displayName": "kind_smile",
@@ -13851,7 +13823,7 @@
     "langName": "happy tears",
     "object": "Expression",
     "attribute": "Laugh",
-    "preview": "https://img.aishort.top/imgprompt/20260211200103253.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211916802.webp"
   },
   {
     "displayName": "sad",
@@ -13886,7 +13858,7 @@
     "langName": "shed tears",
     "object": "Expression",
     "attribute": "Cry",
-    "preview": "https://img.aishort.top/imgprompt/20260211200350163.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211917151.webp"
   },
   {
     "displayName": "lacrimation",
@@ -13907,7 +13879,7 @@
     "langName": "teardrop",
     "object": "Expression",
     "attribute": "Cry",
-    "preview": "https://img.aishort.top/imgprompt/20260212083443138.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211917530.webp"
   },
   {
     "displayName": "tearing_up",
@@ -14202,7 +14174,7 @@
     "langName": "sleepy",
     "object": "Expression",
     "attribute": "Other expressions",
-    "preview": "https://img.aishort.top/imgprompt/20260212090526279.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211917910.webp"
   },
   {
     "displayName": "surprised",
@@ -14356,7 +14328,7 @@
     "langName": "Jekyll and Hyde",
     "object": "Expression",
     "attribute": "Other expressions",
-    "preview": "https://img.aishort.top/imgprompt/20260212094243164.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211918242.webp"
   },
   {
     "displayName": "exhausted",
@@ -14685,7 +14657,7 @@
     "langName": "Taoist robe",
     "object": "Apparel",
     "attribute": "Clothing Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212104604081.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091255712.webp"
   },
   {
     "displayName": "japanese_clothes",
@@ -14696,17 +14668,17 @@
   },
   {
     "displayName": "enmaided",
-    "langName": "woman wearing kimono",
+    "langName": "Dressed as a maid",
     "object": "Apparel",
     "attribute": "Clothing Style",
-    "preview": "https://img.aishort.top/imgprompt/20260928173617045.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091121483.webp"
   },
   {
     "displayName": "hanten_clothes",
     "langName": "Hanten (Japanese Coat)",
     "object": "Apparel",
     "attribute": "Clothing Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091129755.webp"
   },
   {
     "displayName": "kimono",
@@ -14720,14 +14692,14 @@
     "langName": "Furisode (Kimono)",
     "object": "Apparel",
     "attribute": "Clothing Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091136154.webp"
   },
   {
     "displayName": "sleeveless_kimono",
     "langName": "sleeveless kimono",
     "object": "Apparel",
     "attribute": "Clothing Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212105129459.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162707335.webp"
   },
   {
     "displayName": "short_kimono",
@@ -14745,7 +14717,7 @@
   },
   {
     "displayName": "uchikake",
-    "langName": "Uchikake / Shiromuku",
+    "langName": "Uchikake wedding overrobe",
     "object": "Apparel",
     "attribute": "Clothing Style",
     "preview": "https://img.aishort.top/imgprompt/20260928173627665.webp"
@@ -14773,24 +14745,24 @@
   },
   {
     "displayName": "pelvic_curtain",
-    "langName": "The front hem of cheongsam clothing",
+    "langName": "Hanging waist panel",
     "object": "Apparel",
     "attribute": "Clothing Style",
-    "preview": "https://img.aishort.top/imgprompt/20260928173647730.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091143323.webp"
   },
   {
     "displayName": "ainu_clothes",
     "langName": "Ainu clothing",
     "object": "Apparel",
     "attribute": "Clothing Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212111343945.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091316711.webp"
   },
   {
     "displayName": "korean_clothes",
-    "langName": "Korean clothing",
+    "langName": "Traditional Korean clothing",
     "object": "Apparel",
     "attribute": "Clothing Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212111357320.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091320153.webp"
   },
   {
     "displayName": "hanbok",
@@ -14815,10 +14787,10 @@
   },
   {
     "displayName": "german_clothes",
-    "langName": "german clothing",
+    "langName": "Traditional German clothing",
     "object": "Apparel",
     "attribute": "Clothing Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212112504716.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091323775.webp"
   },
   {
     "displayName": "indian_style",
@@ -14846,7 +14818,7 @@
     "langName": "byzantine style",
     "object": "Apparel",
     "attribute": "Clothing Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212113409688.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091327512.webp"
   },
   {
     "displayName": "gothic",
@@ -14979,56 +14951,56 @@
     "langName": "Tang Feng",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212121530666.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126085947739.webp"
   },
   {
     "displayName": "hanfu,song style outfits,<lora:hanfuSong_v31:0.7>",
     "langName": "Song Feng",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212121746787.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126085955725.webp"
   },
   {
     "displayName": "hanfu,ming style outfits,<lora:hanfuMing_v31:0.7>",
     "langName": "Mingfeng",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212122002935.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090002386.webp"
   },
   {
     "displayName": "orange upper shan",
-    "langName": "Orange Uesugi",
+    "langName": "Orange hanfu top",
     "object": "Apparel",
     "attribute": "Ancient Style",
     "preview": "https://img.aishort.top/imgprompt/20260928173348932.webp"
   },
   {
     "displayName": "pink long upper shan",
-    "langName": "pink cedar",
+    "langName": "Pink long hanfu top",
     "object": "Apparel",
     "attribute": "Ancient Style",
     "preview": "https://img.aishort.top/imgprompt/20260928200431683.webp"
   },
   {
-    "displayName": "white chest po skirt",
-    "langName": "busty skirt",
+    "displayName": "white chest-high gored skirt",
+    "langName": "White gored skirt tied at the chest",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260317071440831.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126085958959.webp"
   },
   {
     "displayName": "red chest pleated skirt",
-    "langName": "Chest-length pleated skirt",
+    "langName": "Red pleated skirt tied at the chest",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212123059075.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090028365.webp"
   },
   {
     "displayName": "green waistband",
-    "langName": "green lace",
+    "langName": "Green waist sash",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260213104707325.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126084512995.webp"
   },
   {
     "displayName": "white pibo",
@@ -15039,14 +15011,14 @@
   },
   {
     "displayName": "purple short shan",
-    "langName": "purple short fir",
+    "langName": "Purple short hanfu top",
     "object": "Apparel",
     "attribute": "Ancient Style",
     "preview": "https://img.aishort.top/imgprompt/20260928173409163.webp"
   },
   {
     "displayName": "light green long shan",
-    "langName": "light green cedar",
+    "langName": "Light green long hanfu top",
     "object": "Apparel",
     "attribute": "Ancient Style",
     "preview": "https://img.aishort.top/imgprompt/20260928173419695.webp"
@@ -15056,7 +15028,7 @@
     "langName": "Semi-sheer white pleated skirt",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212124218502.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126085951656.webp"
   },
   {
     "displayName": "green floral songmo",
@@ -15077,56 +15049,56 @@
     "langName": "horse face skirt",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212124500986.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090006306.webp"
   },
   {
     "displayName": "round collar",
     "langName": "crew neck",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212124716561.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090056951.webp"
   },
   {
     "displayName": "standing collar",
     "langName": "Stand collar",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260928173438690.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090033281.webp"
   },
   {
     "displayName": "square collar",
     "langName": "square collar",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260928173448488.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090106261.webp"
   },
   {
-    "displayName": "overlapping collar",
-    "langName": "cloud shoulder",
+    "displayName": "yunjian cloud collar",
+    "langName": "Yunjian cloud collar",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260928200451869.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090101763.webp"
   },
   {
     "displayName": "embroidery",
     "langName": "embroidery",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260225101959426.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090010646.webp"
   },
   {
     "displayName": "woven gold",
     "langName": "woven gold",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212125226637.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090023272.webp"
   },
   {
-    "displayName": "makeup flower",
-    "langName": "makeup flowers",
+    "displayName": "zhuanghua polychrome silk brocade",
+    "langName": "Zhuanghua polychrome silk brocade",
     "object": "Apparel",
     "attribute": "Ancient Style",
-    "preview": "https://img.aishort.top/imgprompt/20260212125646370.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090016610.webp"
   },
   {
     "displayName": "bufu",
@@ -15322,7 +15294,7 @@
     "langName": "priestly robes",
     "object": "Apparel",
     "attribute": "Formal Wear",
-    "preview": "https://img.aishort.top/imgprompt/20260212133738802.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091304126.webp"
   },
   {
     "displayName": "domineering",
@@ -16600,10 +16572,10 @@
   },
   {
     "displayName": "kappougi",
-    "langName": "Kappougi (Japanese Apron)",
+    "langName": "Kappogi cooking smock",
     "object": "Apparel",
     "attribute": "Top",
-    "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091255721.webp"
   },
   {
     "displayName": "detached sleeves",
@@ -17471,7 +17443,7 @@
     "langName": "white tie",
     "object": "Apparel",
     "attribute": "Neckline",
-    "preview": "https://img.aishort.top/imgprompt/20260213085746475.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173954434.webp"
   },
   {
     "displayName": "bowtie",
@@ -17730,7 +17702,7 @@
     "langName": "plaid neckline",
     "object": "Apparel",
     "attribute": "Neckline",
-    "preview": "https://img.aishort.top/imgprompt/20260213113334291.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211918587.webp"
   },
   {
     "displayName": "diagonal-striped_neckwear",
@@ -17863,7 +17835,7 @@
     "langName": "diamond scarf",
     "object": "Apparel",
     "attribute": "Scarf",
-    "preview": "https://img.aishort.top/imgprompt/20260213113743333.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050326865.webp"
   },
   {
     "displayName": "beige_scarf",
@@ -17919,7 +17891,7 @@
     "langName": "arm scarf",
     "object": "Apparel",
     "attribute": "Scarf",
-    "preview": "https://img.aishort.top/imgprompt/20260928200914226.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050327222.webp"
   },
   {
     "displayName": "scarf_on_head",
@@ -17989,7 +17961,7 @@
     "langName": "waist apron",
     "object": "Apparel",
     "attribute": "Waist",
-    "preview": "https://img.aishort.top/imgprompt/20260213114946767.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050327659.webp"
   },
   {
     "displayName": "maid_apron",
@@ -18017,7 +17989,7 @@
     "langName": "waist clothes",
     "object": "Apparel",
     "attribute": "Waist",
-    "preview": "https://img.aishort.top/imgprompt/20260213115240005.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050328206.webp"
   },
   {
     "displayName": "jacket_around_waist",
@@ -18115,7 +18087,7 @@
     "langName": "helmet",
     "object": "Apparel",
     "attribute": "Armor",
-    "preview": "https://img.aishort.top/imgprompt/20260213115535005.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091149298.webp"
   },
   {
     "displayName": "kabuto",
@@ -18157,7 +18129,7 @@
     "langName": "Faulds (Waist Armor)",
     "object": "Apparel",
     "attribute": "Armor",
-    "preview": "https://img.aishort.top/imgprompt/20260928173528167.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091155963.webp"
   },
   {
     "displayName": "greaves",
@@ -18178,7 +18150,7 @@
     "langName": "armored boots",
     "object": "Apparel",
     "attribute": "Armor",
-    "preview": "https://img.aishort.top/imgprompt/20260213115933940.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091304450.webp"
   },
   {
     "displayName": "dress",
@@ -18661,7 +18633,7 @@
     "langName": "Pulling skirt | Holding skirt down",
     "object": "Apparel",
     "attribute": "Skirt",
-    "preview": "https://img.aishort.top/imgprompt/20260213132657290.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175821474.webp"
   },
   {
     "displayName": "dress_tug",
@@ -18885,7 +18857,7 @@
     "langName": "hakama pants",
     "object": "Apparel",
     "attribute": "Pants",
-    "preview": "https://img.aishort.top/imgprompt/20260213134600275.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091540095.webp"
   },
   {
     "displayName": "harem_pants",
@@ -19168,6 +19140,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260213142519445.webp"
   },
   {
+    "displayName": "single_kneehigh",
+    "langName": "Single Kneehigh Sock",
+    "object": "Apparel",
+    "attribute": "Sock",
+    "preview": "https://img.aishort.top/imgprompt/20260928173817207.webp"
+  },
+  {
     "displayName": "bare_legs",
     "langName": "bare legs",
     "object": "Apparel",
@@ -19424,7 +19403,7 @@
     "langName": "Tabi (Split-toe Socks)",
     "object": "Apparel",
     "attribute": "Sock",
-    "preview": "https://img.aishort.top/imgprompt/20260928174848509.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091309740.webp"
   },
   {
     "displayName": "ankle_socks",
@@ -19459,7 +19438,7 @@
     "langName": "leg cutout",
     "object": "Apparel",
     "attribute": "Sock",
-    "preview": "https://img.aishort.top/imgprompt/20260213144241934.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161824696.webp"
   },
   {
     "displayName": "leg_garter",
@@ -19774,7 +19753,7 @@
     "langName": "Double Vertical Stripes",
     "object": "Apparel",
     "attribute": "Decoration",
-    "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050328737.webp"
   },
   {
     "displayName": "halter_top",
@@ -19799,7 +19778,7 @@
   },
   {
     "displayName": "nontraditional_miko",
-    "langName": "Modified Japanese clothing",
+    "langName": "Modified shrine maiden attire",
     "object": "Apparel",
     "attribute": "Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260213151336542.webp"
@@ -19817,13 +19796,6 @@
     "object": "Apparel",
     "attribute": "Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260225090618230.webp"
-  },
-  {
-    "displayName": "single_kneehigh",
-    "langName": "Single Kneehigh Sock",
-    "object": "Apparel",
-    "attribute": "Decoration",
-    "preview": "https://img.aishort.top/imgprompt/20260928173817207.webp"
   },
   {
     "displayName": "single_vertical_stripe",
@@ -19851,7 +19823,14 @@
     "langName": "Clothing with O-rings",
     "object": "Apparel",
     "attribute": "Decoration",
-    "preview": "https://img.aishort.top/imgprompt/20260213151511780.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050329375.webp"
+  },
+  {
+    "displayName": "leg_belt",
+    "langName": "Leg straps",
+    "object": "Apparel",
+    "attribute": "Decoration",
+    "preview": "https://img.aishort.top/imgprompt/20260928185618936.webp"
   },
   {
     "displayName": "o-ring_top",
@@ -19886,7 +19865,7 @@
     "langName": "Clothes drawstrings",
     "object": "Apparel",
     "attribute": "Decoration",
-    "preview": "https://img.aishort.top/imgprompt/20260213151820136.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050329959.webp"
   },
   {
     "displayName": "full-length_zipper",
@@ -19894,6 +19873,13 @@
     "object": "Apparel",
     "attribute": "Decoration",
     "preview": "https://img.aishort.top/imgprompt/20260213151833174.webp"
+  },
+  {
+    "displayName": "zipper_pull_tab",
+    "langName": "Zipper pull tab",
+    "object": "Apparel",
+    "attribute": "Decoration",
+    "preview": "https://img.aishort.top/imgprompt/20261125211920953.webp"
   },
   {
     "displayName": "gathers",
@@ -20005,91 +19991,91 @@
     "langName": "animal print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152202525.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162904512.webp"
   },
   {
     "displayName": "cat_print",
     "langName": "cat print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152215430.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162904986.webp"
   },
   {
     "displayName": "bear_print",
     "langName": "bear print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152228436.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162905481.webp"
   },
   {
     "displayName": "bird_print",
     "langName": "bird print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152241567.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161827019.webp"
   },
   {
     "displayName": "bunny_print",
     "langName": "bunny print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152254424.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162905976.webp"
   },
   {
     "displayName": "cow_print",
     "langName": "cow print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152307330.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161826540.webp"
   },
   {
     "displayName": "dragon_print",
     "langName": "dragon print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152320471.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162906436.webp"
   },
   {
     "displayName": "fish_print",
     "langName": "fish print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152333619.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161830624.webp"
   },
   {
     "displayName": "frog_print",
     "langName": "frog print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152346813.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162906928.webp"
   },
   {
     "displayName": "shark_print",
     "langName": "shark print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152359711.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162907382.webp"
   },
   {
     "displayName": "snake_print",
     "langName": "snake pattern",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152415185.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162907887.webp"
   },
   {
     "displayName": "zebra_print",
     "langName": "zebra print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152428298.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162908366.webp"
   },
   {
     "displayName": "tiger_print",
     "langName": "Tiger stripes",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152441366.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162908821.webp"
   },
   {
     "displayName": "leopard_print",
@@ -20103,112 +20089,112 @@
     "langName": "leopard print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152507588.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162909298.webp"
   },
   {
     "displayName": "bat_print",
     "langName": "bat print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152521321.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162909805.webp"
   },
   {
     "displayName": "aardwolf_print",
     "langName": "coyote print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152534337.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162910305.webp"
   },
   {
     "displayName": "african_wild_dog_print",
     "langName": "African wild dog print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152547913.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162910798.webp"
   },
   {
     "displayName": "cheetah_print",
     "langName": "Cheetah print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152601013.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162911324.webp"
   },
   {
     "displayName": "dog_print",
     "langName": "dog print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152816742.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162911826.webp"
   },
   {
     "displayName": "fox_print",
     "langName": "fox print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152829626.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161828045.webp"
   },
   {
     "displayName": "giraffe_print",
     "langName": "giraffe print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152842177.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161833706.webp"
   },
   {
     "displayName": "panda_print",
     "langName": "panda print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152855089.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162912321.webp"
   },
   {
     "displayName": "sand_cat_print",
     "langName": "sand cat print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152907952.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162912808.webp"
   },
   {
     "displayName": "whale_print",
     "langName": "whale print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152920714.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162913277.webp"
   },
   {
     "displayName": "white_tiger_print",
     "langName": "white tiger pattern",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152933750.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162913774.webp"
   },
   {
     "displayName": "goldfish_print",
     "langName": "goldfish print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152946698.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161832199.webp"
   },
   {
     "displayName": "wing_print",
     "langName": "wing print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213152959587.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162914238.webp"
   },
   {
     "displayName": "spider_web_print",
     "langName": "spider veins",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153013273.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162914703.webp"
   },
   {
     "displayName": "butterfly_print",
     "langName": "butterfly print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153026296.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161830120.webp"
   },
   {
     "displayName": "floral_print",
@@ -20222,70 +20208,70 @@
     "langName": "leaf print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153053047.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162915178.webp"
   },
   {
     "displayName": "clover_print",
     "langName": "clover print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153105539.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161829116.webp"
   },
   {
     "displayName": "maple_leaf_print",
     "langName": "maple leaf print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153118530.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162915757.webp"
   },
   {
     "displayName": "rose_print",
     "langName": "rose print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153131694.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161831660.webp"
   },
   {
     "displayName": "strawberry_print",
     "langName": "strawberry print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153144543.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162916272.webp"
   },
   {
     "displayName": "cherry_print",
     "langName": "cherry print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153157132.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161827541.webp"
   },
   {
     "displayName": "bamboo_print",
     "langName": "bamboo print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153209854.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161831160.webp"
   },
   {
     "displayName": "carrot_print",
     "langName": "carrot print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153222346.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162916707.webp"
   },
   {
     "displayName": "hibiscus_print",
     "langName": "hibiscus print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153235607.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162917172.webp"
   },
   {
     "displayName": "jack-o'-lantern_print",
     "langName": "jack o'lantern print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153249416.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162917652.webp"
   },
   {
     "displayName": "petal_print",
@@ -20299,56 +20285,56 @@
     "langName": "sunflower print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153315350.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161832696.webp"
   },
   {
     "displayName": "watermelon_print",
     "langName": "watermelon print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153328644.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162918147.webp"
   },
   {
     "displayName": "sky_print",
     "langName": "sky print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153341432.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162918602.webp"
   },
   {
     "displayName": "cloud_print",
     "langName": "cloud print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153354843.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162919131.webp"
   },
   {
     "displayName": "lightning_bolt_print",
     "langName": "Lightning print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153611416.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162919632.webp"
   },
   {
     "displayName": "rainbow_print",
     "langName": "rainbow print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153624309.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162920103.webp"
   },
   {
     "displayName": "snowflake_print",
     "langName": "snowflake print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153637092.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162920568.webp"
   },
   {
     "displayName": "starry_sky_print",
     "langName": "starry sky print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153650267.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162921043.webp"
   },
   {
     "displayName": "crescent_print",
@@ -20362,7 +20348,7 @@
     "langName": "star print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153716858.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162921529.webp"
   },
   {
     "displayName": "star_(symbol)",
@@ -20376,14 +20362,14 @@
     "langName": "moon print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153743255.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162922061.webp"
   },
   {
     "displayName": "sun_print",
     "langName": "sun print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153756474.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162922566.webp"
   },
   {
     "displayName": "character_print",
@@ -20397,49 +20383,49 @@
     "langName": "words on clothes",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153822706.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162923036.webp"
   },
   {
     "displayName": "anchor_print",
     "langName": "anchor print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153837813.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162923544.webp"
   },
   {
     "displayName": "cherry_blossom_print",
     "langName": "cherry blossom print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213153850429.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162924000.webp"
   },
   {
     "displayName": "musical_note_print",
     "langName": "musical note print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154106018.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161826047.webp"
   },
   {
     "displayName": "triangle_print",
     "langName": "triangle print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154118571.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161825522.webp"
   },
   {
     "displayName": "arrow_print",
     "langName": "arrow print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154333725.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162924502.webp"
   },
   {
     "displayName": "wave_print",
     "langName": "wave print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154346819.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162925022.webp"
   },
   {
     "displayName": "peace_symbol",
@@ -20453,14 +20439,14 @@
     "langName": "heart pattern | heart print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154614668.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162925557.webp"
   },
   {
     "displayName": "flame_print",
     "langName": "flame print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154627746.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162926056.webp"
   },
   {
     "displayName": "hitodama_print",
@@ -20474,42 +20460,42 @@
     "langName": "paw print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154654622.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162926514.webp"
   },
   {
     "displayName": "skeleton_print",
     "langName": "skeleton print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154707300.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161833217.webp"
   },
   {
     "displayName": "skull_print",
     "langName": "skull print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154720879.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162926987.webp"
   },
   {
     "displayName": "sparkle_print",
     "langName": "sparkling print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154734596.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162927482.webp"
   },
   {
     "displayName": "yin_yang_print",
     "langName": "Yin Yang printing",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154747695.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162928012.webp"
   },
   {
     "displayName": "cross_print",
     "langName": "Cross element pattern",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154800629.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162928508.webp"
   },
   {
     "displayName": "camoflage",
@@ -20523,42 +20509,42 @@
     "langName": "flag print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154826754.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162929003.webp"
   },
   {
     "displayName": "bone_print",
     "langName": "bone print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154839578.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161829637.webp"
   },
   {
     "displayName": "ghost_print",
     "langName": "ghost print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154852492.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162929505.webp"
   },
   {
     "displayName": "mushroom_print",
     "langName": "Mushroom print",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154905276.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161828581.webp"
   },
   {
     "displayName": "onigiri_print",
     "langName": "rice ball printing",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154918144.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162929972.webp"
   },
   {
     "displayName": "cat_ear_cutout",
     "langName": "Cat ear-shaped hollow design",
     "object": "Apparel",
     "attribute": "Pattern",
-    "preview": "https://img.aishort.top/imgprompt/20260213154930457.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162930432.webp"
   },
   {
     "displayName": "barefoot",
@@ -20750,6 +20736,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260928174535108.webp"
   },
   {
+    "displayName": "ankle_strap",
+    "langName": "ankle silk ring",
+    "object": "Apparel",
+    "attribute": "Shoe",
+    "preview": "https://img.aishort.top/imgprompt/20260211184447933.webp"
+  },
+  {
     "displayName": "mismatched_footwear",
     "langName": "mismatched footwear",
     "object": "Apparel",
@@ -20775,7 +20768,7 @@
     "langName": "take off sandals",
     "object": "Apparel",
     "attribute": "Shoe",
-    "preview": "https://img.aishort.top/imgprompt/20260213164304925.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162706874.webp"
   },
   {
     "displayName": "shoe_soles",
@@ -20925,13 +20918,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260213172417479.webp"
   },
   {
-    "displayName": "anklet",
-    "langName": "Anklet",
-    "object": "Apparel",
-    "attribute": "Boots",
-    "preview": "https://img.aishort.top/imgprompt/20260213173037758.webp"
-  },
-  {
     "displayName": "rubber_boots",
     "langName": "rubber boots",
     "object": "Apparel",
@@ -21013,7 +20999,7 @@
     "langName": "single sleeve",
     "object": "Apparel",
     "attribute": "Sleeves",
-    "preview": "https://img.aishort.top/imgprompt/20260928201215340.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211918960.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
@@ -21041,7 +21027,7 @@
     "langName": "puffy short sleeves",
     "object": "Apparel",
     "attribute": "Sleeves",
-    "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211919158.webp"
   },
   {
     "displayName": "frilled_sleeves",
@@ -21104,14 +21090,14 @@
     "langName": "torn sleeves",
     "object": "Apparel",
     "attribute": "Sleeves",
-    "preview": "https://img.aishort.top/imgprompt/20260928201237224.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211919404.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "Sleeves longer than fingers",
     "object": "Apparel",
     "attribute": "Sleeves",
-    "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211919844.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
@@ -21160,7 +21146,7 @@
     "langName": "sleeves rolled up",
     "object": "Apparel",
     "attribute": "Sleeves",
-    "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211920207.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
@@ -21202,7 +21188,7 @@
     "langName": "ribbed sleeves",
     "object": "Apparel",
     "attribute": "Sleeves",
-    "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161821632.webp"
   },
   {
     "displayName": "single_detached_sleeve",
@@ -22371,7 +22357,7 @@
     "langName": "hairpin",
     "object": "Accessories",
     "attribute": "Hair Accessories",
-    "preview": "https://img.aishort.top/imgprompt/20260213093703586.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091614214.webp"
   },
   {
     "displayName": "hood",
@@ -22801,13 +22787,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260928184807322.webp"
   },
   {
-    "displayName": "hatching_(texture)",
-    "langName": "Cross-hatching Texture",
-    "object": "Accessories",
-    "attribute": "Hat",
-    "preview": "https://img.aishort.top/imgprompt/20260928165239901.webp"
-  },
-  {
     "displayName": "hatsune_miku_(cosplay)",
     "langName": "cos into Hatsune Miku",
     "object": "Accessories",
@@ -22816,7 +22795,7 @@
   },
   {
     "displayName": "porkpie_hat",
-    "langName": "Taoist hat",
+    "langName": "Pork pie hat",
     "object": "Accessories",
     "attribute": "Hat",
     "preview": "https://img.aishort.top/imgprompt/20260213224356623.webp"
@@ -23239,7 +23218,7 @@
     "langName": "pill style earrings",
     "object": "Accessories",
     "attribute": "Earring",
-    "preview": "https://img.aishort.top/imgprompt/20260213235417049.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161823118.webp"
   },
   {
     "displayName": "single_earring",
@@ -23470,7 +23449,7 @@
     "langName": "Elbow-length Gloves",
     "object": "Accessories",
     "attribute": "Gloves",
-    "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161823899.webp"
   },
   {
     "displayName": "bridal_gauntlets",
@@ -23800,6 +23779,13 @@
     "object": "Accessories",
     "attribute": "Jewelry",
     "preview": "https://img.aishort.top/imgprompt/20260214011111983.webp"
+  },
+  {
+    "displayName": "anklet",
+    "langName": "Anklet",
+    "object": "Accessories",
+    "attribute": "Jewelry",
+    "preview": "https://img.aishort.top/imgprompt/20260213173037758.webp"
   },
   {
     "displayName": "choker",
@@ -24415,7 +24401,7 @@
     "langName": "Solo Focus",
     "object": "Photography",
     "attribute": "Lens focus",
-    "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162325613.webp"
   },
   {
     "displayName": "xx_focus",
@@ -24933,7 +24919,7 @@
     "langName": "Flash photography",
     "object": "Photography",
     "attribute": "Camera settings",
-    "preview": "https://img.aishort.top/imgprompt/20260214044503923.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161822700.webp"
   },
   {
     "displayName": "Exposure",
@@ -25269,7 +25255,7 @@
     "langName": "Octal",
     "object": "Photography",
     "attribute": "Digital system",
-    "preview": "https://img.aishort.top/imgprompt/20260928205745135.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162326590.webp"
   },
   {
     "displayName": "Nonary",
@@ -25290,7 +25276,7 @@
     "langName": "hexadecimal",
     "object": "Photography",
     "attribute": "Digital system",
-    "preview": "https://img.aishort.top/imgprompt/20260224191018464.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162326331.webp"
   },
   {
     "displayName": "depth of field",
@@ -25495,7 +25481,7 @@
     "object": "Photography",
     "attribute": "Advanced Camera Moves",
     "description": "Combines multiple camera movements (e.g., dolly + pan) to express more complex scenes or emotions.",
-    "preview": "https://img.aishort.top/imgprompt/20260928205526329.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175821976.webp"
   },
   {
     "displayName": "Follow Shot",
@@ -25725,7 +25711,7 @@
     "langName": "backlight",
     "object": "Light and shadow effects",
     "attribute": "Light source",
-    "preview": "https://img.aishort.top/imgprompt/20260224195751634.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173955507.webp"
   },
   {
     "displayName": "Soft Lighting",
@@ -25746,7 +25732,7 @@
     "langName": "Top Lighting",
     "object": "Light and shadow effects",
     "attribute": "Light Type",
-    "preview": "https://img.aishort.top/imgprompt/20260224195833635.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173954993.webp"
   },
   {
     "displayName": "Side Lighting",
@@ -25767,7 +25753,7 @@
     "langName": "Rim Light",
     "object": "Light and shadow effects",
     "attribute": "Light Type",
-    "preview": "https://img.aishort.top/imgprompt/20260224200123793.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211920512.webp"
   },
   {
     "displayName": "silhouette",
@@ -25879,14 +25865,14 @@
     "langName": "Rembrandt lighting",
     "object": "Light and shadow effects",
     "attribute": "Lighting effects",
-    "preview": "https://img.aishort.top/imgprompt/20260928204721877.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211920729.webp"
   },
   {
     "displayName": "Split Lighting",
     "langName": "Split lighting",
     "object": "Light and shadow effects",
     "attribute": "Lighting effects",
-    "preview": "https://img.aishort.top/imgprompt/20260224200521669.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161822381.webp"
   },
   {
     "displayName": "Beautiful Lighting",
@@ -25907,7 +25893,7 @@
     "langName": "global illumination",
     "object": "Light and shadow effects",
     "attribute": "Lighting effects",
-    "preview": "https://img.aishort.top/imgprompt/20260224200605690.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211921411.webp"
   },
   {
     "displayName": "Lumen Global Illumination",
@@ -25921,7 +25907,7 @@
     "langName": "screen space global illumination",
     "object": "Light and shadow effects",
     "attribute": "Lighting effects",
-    "preview": "https://img.aishort.top/imgprompt/20260224200634881.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211921557.webp"
   },
   {
     "displayName": "Ray Tracing Global Illumination",
@@ -26054,7 +26040,7 @@
     "langName": "night light",
     "object": "Light and shadow effects",
     "attribute": "Lighting",
-    "preview": "https://img.aishort.top/imgprompt/20260224203113075.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173954169.webp"
   },
   {
     "displayName": "Christmas Lights",
@@ -26866,7 +26852,7 @@
     "langName": "peachpuff",
     "object": "Color & Atmosphere",
     "attribute": "Light Tones",
-    "preview": "https://img.aishort.top/imgprompt/20260224220801995.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162708494.webp"
   },
   {
     "displayName": "papayawhip",
@@ -26992,7 +26978,7 @@
     "langName": "olive drab",
     "object": "Color & Atmosphere",
     "attribute": "Dark Tones",
-    "preview": "https://img.aishort.top/imgprompt/20260224221226675.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162707993.webp"
   },
   {
     "displayName": "olive",
@@ -27475,7 +27461,7 @@
     "langName": "dark orchid",
     "object": "Color & Atmosphere",
     "attribute": "Spectral Colors",
-    "preview": "https://img.aishort.top/imgprompt/20260224222932858.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162708249.webp"
   },
   {
     "displayName": "darkviolet",
@@ -27531,7 +27517,14 @@
     "langName": "cool colors",
     "object": "Color & Atmosphere",
     "attribute": "Color palette",
-    "preview": "https://img.aishort.top/imgprompt/20260224223133968.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921812.webp"
+  },
+  {
+    "displayName": "gradient",
+    "langName": "gradient",
+    "object": "Color & Atmosphere",
+    "attribute": "Color palette",
+    "preview": "https://img.aishort.top/imgprompt/20260211175505744.webp"
   },
   {
     "displayName": "Colorful",
@@ -27622,7 +27615,7 @@
     "langName": "split complementary colors",
     "object": "Color & Atmosphere",
     "attribute": "Color palette",
-    "preview": "https://img.aishort.top/imgprompt/20260928203231605.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161822110.webp"
   },
   {
     "displayName": "Supplementary-Colors",
@@ -27678,14 +27671,14 @@
     "langName": "light mode",
     "object": "Color & Atmosphere",
     "attribute": "Color palette",
-    "preview": "https://img.aishort.top/imgprompt/20260928180332309.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161825249.webp"
   },
   {
     "displayName": "Dark Mode",
     "langName": "dark mode",
     "object": "Color & Atmosphere",
     "attribute": "Color palette",
-    "preview": "https://img.aishort.top/imgprompt/20260224223724577.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161824977.webp"
   },
   {
     "displayName": "Tones of Black",
@@ -27713,7 +27706,7 @@
     "langName": "light blue foreground",
     "object": "Color & Atmosphere",
     "attribute": "Color palette",
-    "preview": "https://img.aishort.top/imgprompt/20260224223821644.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921970.webp"
   },
   {
     "displayName": "Light Blue",
@@ -27861,14 +27854,14 @@
     "langName": "EGA",
     "object": "Color & Atmosphere",
     "attribute": "Monitor color palette",
-    "preview": "https://img.aishort.top/imgprompt/20260224224332009.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922342.webp"
   },
   {
     "displayName": "CGA",
     "langName": "CGA",
     "object": "Color & Atmosphere",
     "attribute": "Monitor color palette",
-    "preview": "https://img.aishort.top/imgprompt/20260224224347905.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922245.webp"
   },
   {
     "displayName": "HDR",
@@ -27882,7 +27875,7 @@
     "langName": "atari graphics",
     "object": "Color & Atmosphere",
     "attribute": "Monitor color palette",
-    "preview": "https://img.aishort.top/imgprompt/20260224224415318.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162709012.webp"
   },
   {
     "displayName": "IIGS Graphics",
@@ -27917,7 +27910,7 @@
     "langName": "DCI-P3",
     "object": "Color & Atmosphere",
     "attribute": "Monitor color palette",
-    "preview": "https://img.aishort.top/imgprompt/20260224224532778.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922547.webp"
   },
   {
     "displayName": "HSV",
@@ -27931,7 +27924,7 @@
     "langName": "Hue, Saturation, Lightness",
     "object": "Color & Atmosphere",
     "attribute": "Monitor color palette",
-    "preview": "https://img.aishort.top/imgprompt/20260224224601439.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162708737.webp"
   },
   {
     "displayName": "HCL",
@@ -27945,7 +27938,7 @@
     "langName": "YCbCr",
     "object": "Color & Atmosphere",
     "attribute": "Monitor color palette",
-    "preview": "https://img.aishort.top/imgprompt/20260224224629664.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922449.webp"
   },
   {
     "displayName": "YPbPr",
@@ -28435,7 +28428,7 @@
     "langName": "manuscript paper",
     "object": "Material",
     "attribute": "Wood and paper",
-    "preview": "https://img.aishort.top/imgprompt/20260224230547793.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091309268.webp"
   },
   {
     "displayName": "Wrapping Paper",
@@ -28463,7 +28456,7 @@
     "langName": "medieval parchment",
     "object": "Material",
     "attribute": "Wood and paper",
-    "preview": "https://img.aishort.top/imgprompt/20260224230643607.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091313550.webp"
   },
   {
     "displayName": "Toilet Paper",
@@ -29625,7 +29618,7 @@
     "langName": "polyimide",
     "object": "Material",
     "attribute": "Plastic/foam film",
-    "preview": "https://img.aishort.top/imgprompt/20260224234924114.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162325974.webp"
   },
   {
     "displayName": "Styrofoam",
@@ -30220,7 +30213,7 @@
     "langName": "Indigo Milk Mushroom",
     "object": "Material",
     "attribute": "Fungi",
-    "preview": "https://img.aishort.top/imgprompt/20260225001006384.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161824244.webp"
   },
   {
     "displayName": "Latticed-Stinkhorn",
@@ -30787,7 +30780,7 @@
     "langName": "Möbius strip",
     "object": "Shape & Space",
     "attribute": "Object",
-    "preview": "https://img.aishort.top/imgprompt/20260928183946311.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822525.webp"
   },
   {
     "displayName": "Hexaflexagon",
@@ -30934,7 +30927,7 @@
     "langName": "two-dimensional",
     "object": "Shape & Space",
     "attribute": "Multiverse",
-    "preview": "https://img.aishort.top/imgprompt/20260928183752205.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162327376.webp"
   },
   {
     "displayName": "2D",
@@ -31179,7 +31172,7 @@
     "langName": "vertex",
     "object": "Shape & Space",
     "attribute": "Characteristic",
-    "preview": "https://img.aishort.top/imgprompt/20260225004319879.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822705.webp"
   },
   {
     "displayName": "Edge",
@@ -31277,7 +31270,7 @@
     "langName": "quasi-rules",
     "object": "Shape & Space",
     "attribute": "Characteristic",
-    "preview": "https://img.aishort.top/imgprompt/20260225004630788.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822614.webp"
   },
   {
     "displayName": "Isogonal",
@@ -31438,7 +31431,7 @@
     "langName": "scroll painting",
     "object": "Image type",
     "attribute": "Painting",
-    "preview": "https://img.aishort.top/imgprompt/20260225005424337.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091317354.webp"
   },
   {
     "displayName": "Canvas",
@@ -31679,6 +31672,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260928204228249.webp"
   },
   {
+    "displayName": "hatching_(texture)",
+    "langName": "Cross-hatching Texture",
+    "object": "Image type",
+    "attribute": "Hand drawn",
+    "preview": "https://img.aishort.top/imgprompt/20261125175821724.webp"
+  },
+  {
     "displayName": "Stipple",
     "langName": "Stipple",
     "object": "Image type",
@@ -31907,7 +31907,7 @@
     "langName": "text",
     "object": "Image type",
     "attribute": "Text",
-    "preview": "https://img.aishort.top/imgprompt/20260225010926601.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921357.webp"
   },
   {
     "displayName": "Typeface",
@@ -31921,7 +31921,7 @@
     "langName": "font",
     "object": "Image type",
     "attribute": "Text",
-    "preview": "https://img.aishort.top/imgprompt/20260225010954580.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921647.webp"
   },
   {
     "displayName": "Says",
@@ -31942,7 +31942,7 @@
     "langName": "grapheme",
     "object": "Image type",
     "attribute": "Text",
-    "preview": "https://img.aishort.top/imgprompt/20260928181935781.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175821087.webp"
   },
   {
     "displayName": "Written Letters",
@@ -31956,7 +31956,7 @@
     "langName": "word",
     "object": "Image type",
     "attribute": "Text",
-    "preview": "https://img.aishort.top/imgprompt/20260225011100157.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921168.webp"
   },
   {
     "displayName": "Lexemes",
@@ -32481,7 +32481,7 @@
     "langName": "Paleolithic pottery",
     "object": "Image type",
     "attribute": "Pottery and glass",
-    "preview": "https://img.aishort.top/imgprompt/20260225013447730.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091320736.webp"
   },
   {
     "displayName": "Neolithic Pottery",
@@ -32768,7 +32768,7 @@
     "langName": "classicism",
     "object": "Art style",
     "attribute": "Historical art style",
-    "preview": "https://img.aishort.top/imgprompt/20260225014412038.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091432189.webp"
   },
   {
     "displayName": "((neoclassicism))",
@@ -32782,14 +32782,14 @@
     "langName": "romanticism",
     "object": "Art style",
     "attribute": "Historical art style",
-    "preview": "https://img.aishort.top/imgprompt/20260225014444040.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091325561.webp"
   },
   {
     "displayName": "Gothic art",
     "langName": "gothic art",
     "object": "Art style",
     "attribute": "Historical art style",
-    "preview": "https://img.aishort.top/imgprompt/20260225014456290.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091437862.webp"
   },
   {
     "displayName": "Baroque",
@@ -32803,7 +32803,7 @@
     "langName": "Pre-Raphaelite",
     "object": "Art style",
     "attribute": "Historical art style",
-    "preview": "https://img.aishort.top/imgprompt/20260225014520971.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091330077.webp"
   },
   {
     "displayName": "renaissance art",
@@ -32824,7 +32824,7 @@
     "langName": "academicism",
     "object": "Art style",
     "attribute": "Historical art style",
-    "preview": "https://img.aishort.top/imgprompt/20260225014558266.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091442191.webp"
   },
   {
     "displayName": "ancient greek art",
@@ -33185,10 +33185,10 @@
   },
   {
     "displayName": "Japonism",
-    "langName": "Japanese style",
+    "langName": "Japonisme",
     "object": "Art style",
     "attribute": "Asian art",
-    "preview": "https://img.aishort.top/imgprompt/20260225015855411.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091528439.webp"
   },
   {
     "displayName": "Japanese manga style",
@@ -33902,21 +33902,21 @@
     "langName": "Anti-aliasing",
     "object": "Post processing",
     "attribute": "Anti-aliasing",
-    "preview": "https://img.aishort.top/imgprompt/20260225021947817.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822875.webp"
   },
   {
     "displayName": "FXAA",
     "langName": "FXAA",
     "object": "Post processing",
     "attribute": "Anti-aliasing",
-    "preview": "https://img.aishort.top/imgprompt/20260225022000268.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175823197.webp"
   },
   {
     "displayName": "TXAA",
     "langName": "TxAA",
     "object": "Post processing",
     "attribute": "Anti-aliasing",
-    "preview": "https://img.aishort.top/imgprompt/20260225022012163.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175823291.webp"
   },
   {
     "displayName": "RTX",
@@ -33930,14 +33930,14 @@
     "langName": "SSAO",
     "object": "Post processing",
     "attribute": "Anti-aliasing",
-    "preview": "https://img.aishort.top/imgprompt/20260225022035948.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822414.webp"
   },
   {
     "displayName": "De-Noise",
     "langName": "Noise reduction",
     "object": "Post processing",
     "attribute": "Anti-aliasing",
-    "preview": "https://img.aishort.top/imgprompt/20260225022047839.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162326849.webp"
   },
   {
     "displayName": "Shaders",
@@ -33958,7 +33958,7 @@
     "langName": "GLSL shaders",
     "object": "Post processing",
     "attribute": "Shader",
-    "preview": "https://img.aishort.top/imgprompt/20260225022123054.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175823074.webp"
   },
   {
     "displayName": "Post Processing",
@@ -34021,7 +34021,7 @@
     "langName": "scan line",
     "object": "Post processing",
     "attribute": "Image processing",
-    "preview": "https://img.aishort.top/imgprompt/20260225022321420.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822135.webp"
   },
   {
     "displayName": "Posterization",
@@ -34042,7 +34042,7 @@
     "langName": "Sobel operator",
     "object": "Post processing",
     "attribute": "Image processing",
-    "preview": "https://img.aishort.top/imgprompt/20260928183402271.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822965.webp"
   },
   {
     "displayName": "Edge Detection",
@@ -34182,7 +34182,7 @@
     "langName": "erosion",
     "object": "Post processing",
     "attribute": "Image processing",
-    "preview": "https://img.aishort.top/imgprompt/20260928183428913.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822788.webp"
   },
   {
     "displayName": "Dirty",
@@ -35021,7 +35021,7 @@
     "object": "Showcase",
     "attribute": "Poster",
     "description": "by @RainHuangapp (https://x.com/RainHuangapp)",
-    "preview": "https://img.aishort.top/imgprompt/20260424151508747.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091619485.webp"
   },
   {
     "displayName": "帮我制作辣椒炒肉这道菜的详细制作流程图,真实风格,适用于小红书图文比例",
@@ -35037,7 +35037,7 @@
     "object": "Showcase",
     "attribute": "Poster",
     "description": "by @A9Quant (https://x.com/A9Quant)",
-    "preview": "https://img.aishort.top/imgprompt/20260424151523525.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091532879.webp"
   },
   {
     "displayName": "A wooden bookshelf consisting of three shelves: On the top shelf,there should be one book,on the second shelf,there should be three books,and on the bottom shelf,there should be seven books.",

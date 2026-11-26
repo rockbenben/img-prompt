@@ -48,5 +48,5 @@ export const SOCIAL_LINKS = {
   github: "https://github.com/rockbenben/img-prompt",
   discord: "https://discord.gg/PZTQfJ4GjX",
   telegram: "https://t.me/aishort_top",
-  qq: "https://qm.qq.com/q/uWsUSnyivm",
+  qq: "https://qm.qq.com/q/xBIoofc52w",
 } as const;

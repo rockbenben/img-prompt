@@ -6,13 +6,12 @@
     "ogDescription": "Clicca i tag bilingui per comporre prompt IA per Midjourney, FLUX, Nano Banana, Veo, Kling. Gratis, locale, open source."
   },
   "ToolPage": {
+    "backToTop": "Torna in alto",
     "section1": "Soggetto",
     "section2": "Categoria",
     "section3": "Tag",
     "currentSelection": "Selezionato",
     "fallback-other": "Altri",
-    "tagMode-multicolor": "Multicolore",
-    "tagMode-monochrome": "Monocromo",
     "tagsLoading": "Caricamento tag…",
     "tagsError": "I tag non si sono caricati",
     "retry": "Riprova",
@@ -25,7 +24,16 @@
       "invalid": "Seleziona un file JSON valido per la raccolta di tag.",
       "tooLarge": "Seleziona un file JSON di massimo 2 MB.",
       "storageError": "Impossibile salvare la raccolta su questo dispositivo."
-    }
+    },
+    "searchPlaceholder": "Cerca tra oltre 5.000 tag…",
+    "searchResults": "{count} tag corrispondenti",
+    "searchEmpty": "Nessun tag corrispondente trovato",
+    "clearSearch": "Cancella ricerca",
+    "tagView-compact": "Tag",
+    "tagView-visual": "Visuale",
+    "previewImage": "Anteprima immagine",
+    "selectedEmpty": "Seleziona i tag per comporre il prompt o scrivi sopra",
+    "viewPrompt": "Vedi prompt"
   },
   "ResultSection": {
     "tooltip-light": "Inserisci prompt di illuminazione per ritratti (luce cinematografica, raggi crepuscolari, ecc.)",
@@ -56,7 +64,9 @@
     "placeholder-prompt": "Scegli i tag per comporlo, oppure scrivi il tuo prompt",
     "placeholder-translate": "es. un gatto al tramonto",
     "autoTranslate": "Attiva la traduzione automatica",
-    "translationPrivacy": "La traduzione automatica è disattivata per impostazione predefinita. Premendo Traduci o attivandola, il testo viene inviato a Google, Microsoft Edge, Youdao o MyMemory."
+    "translationPrivacy": "La traduzione automatica è disattivata per impostazione predefinita. Premendo Traduci o attivandola, il testo viene inviato a Google, Microsoft Edge, Youdao o MyMemory.",
+    "quickPresets": "Preset rapidi",
+    "localLibraryLabel": "Libreria tag locale"
   },
   "CopyToClipboard": {
     "empty": "Il contenuto è vuoto, niente da copiare",
@@ -76,30 +86,30 @@
     "placeholder": "Lascia un messaggio, non è necessario effettuare l'accesso (inserisci la tua email per ricevere le notifiche di risposta)"
   },
   "Home": {
-    "h1": "IMGPrompt · Scegli i prompt come i <hl>colori</hl>",
-    "tagline": "5000+ tag bilingui · prompt immagine/video IA in pochi secondi · Midjourney / FLUX / GPT-Image / Veo / Kling"
+    "h1": "IMGPrompt · Crea prompt IA in modo <hl>visivo</hl>",
+    "tagline": "5.000+ tag visivi bilingui · Midjourney / FLUX / GPT-Image / Veo / Kling"
   },
   "FAQ": {
-    "title": "Domande frequenti",
+    "title": "Domande sull’editor di prompt per l’IA",
     "q1": {
-      "question": "Che cos'è IMGPrompt? Quali modelli di arte IA supporta?",
-      "answer": "IMGPrompt è un editor di prompt per modelli text-to-image che ti aiuta a comporre prompt in inglese con tag visivi ed etichette bilingui. Supporta ufficialmente Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo e Kling (immagini e video); i prompt generati funzionano anche con Stable Diffusion, DALL·E e qualsiasi modello che accetti una sintassi compatibile."
+      "question": "Che cos’è IMGPrompt e come si usa per scrivere prompt per immagini?",
+      "answer": "IMGPrompt è un editor gratuito di prompt per immagini e video. Cerca e scegli tag visivi bilingui, modifica il testo in inglese e copialo in Midjourney, FLUX, GPT Image o in un altro generatore."
     },
     "q2": {
-      "question": "È gratuito? È necessario registrarsi? I miei dati vengono caricati?",
-      "answer": "Completamente gratuito, senza registrazione né login. La composizione dei prompt è elaborata localmente nel browser, senza database; solo usando la funzione di traduzione quel testo viene inviato a servizi di traduzione di terze parti. Il progetto è open source su GitHub: puoi verificare il codice o ospitarlo autonomamente."
+      "question": "IMGPrompt è gratuito? Il testo viene inviato a servizi esterni?",
+      "answer": "L’editor web è gratuito e non richiede un account. Modifica e importazione avvengono nel browser. La traduzione automatica è disattivata all’avvio. Entrambe le modalità di traduzione inviano a un servizio esterno il testo da tradurre."
     },
     "q7": {
-      "question": "Cosa distingue IMGPrompt da PromptHero, Lexica o PromptBase?",
-      "answer": "IMGPrompt è un compositore di prompt a clic, non un motore di ricerca di prompt. PromptHero, Lexica e PromptBase ti permettono di sfogliare o comprare prompt altrui; IMGPrompt ti permette di comporre il tuo cliccando tag visivi bilingui. La traduzione automatica è disattivata per impostazione predefinita. Premendo Traduci o attivandola, il testo viene inviato a Google, Microsoft Edge, Youdao o MyMemory."
+      "question": "Posso importare una libreria personale di tag?",
+      "answer": "Sì. Apri la libreria locale in fondo all’editor e importa un file JSON fino a 2 MB. I tag appaiono nelle categorie, nei risultati di ricerca e nei suggerimenti. Il browser conserva la libreria."
     },
     "q8": {
-      "question": "IMGPrompt supporta modelli video IA come Veo, Kling e Runway?",
-      "answer": "Sì. IMGPrompt genera prompt per modelli video tra cui Google Veo, Kling, Seedance, Runway e Hailuo, oltre ai modelli immagine. La maggior parte dei siti di prompt si concentra solo su modelli immagine, quindi IMGPrompt è uno dei pochi strumenti gratuiti che copre la nuova ondata di generazione video IA."
+      "question": "Posso scrivere prompt video per Veo, Kling o Runway?",
+      "answer": "Sì. Descrivi l’inquadratura iniziale, l’azione e il movimento della camera. Incolla il testo nel generatore e adatta i parametri al modello."
     },
     "q9": {
-      "question": "Posso usare IMGPrompt senza parlare inglese?",
-      "answer": "Sì. L'interfaccia è disponibile in 18 lingue, e ogni tag mostra sia l'inglese che la tua lingua locale. Clicchi sui tag nella tua lingua; IMGPrompt assembla il prompt in inglese (che è ciò di cui i modelli IA di immagini e video hanno effettivamente bisogno). Il pulsante Traduci converte anche qualsiasi frase nella tua lingua in prompt inglese con un clic."
+      "question": "Posso scrivere prompt senza conoscere l’inglese?",
+      "answer": "Sì. Cerca e seleziona tag bilingui nella lingua dell’interfaccia. L’editor inserisce il testo in inglese. Usa la funzione di traduzione per aggiungere una descrizione completa in inglese."
     }
   },
   "Schema": {

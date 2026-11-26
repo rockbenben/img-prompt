@@ -27,8 +27,8 @@ You know the look you are after — you just don't know that models call it `Tyn
 | **Target models** | GPT-Image-2 · Nano Banana · Midjourney · FLUX · Seedance · Veo · Kling — also compatible with Stable Diffusion and DALL·E syntax |
 | **Languages** | 18, with the interface and the tag library both fully translated ([direct links below](#open-the-app-in-your-language)). Arabic renders right-to-left |
 | **Run it in** | Any modern browser, nothing to install · Windows (exe / msi) · macOS (Intel + Apple Silicon) · Linux (deb / AppImage / rpm) |
-| **Your data** | There is no backend — your selection lives in the URL and in your own browser, and never reaches a server of ours |
-| **Built-in translation** | Google · Microsoft Edge · Youdao · MyMemory, tried in that order until one answers |
+| **Your data** | There is no backend — the category is in the shareable URL and drafts and imported libraries stay in the browser |
+| **Built-in translation** | Multiple providers, including Google, Microsoft Edge, Youdao and MyMemory |
 
 ## Quick start
 
@@ -36,16 +36,16 @@ You know the look you are after — you just don't know that models call it `Tyn
 2. Pick a **subject** (①) → pick a **category** (②) → click the **tags** you want (③).
 3. The English prompt assembles in the right-hand panel as you click. Hit **Copy** and paste it into your AI tool.
 
-The filter you are viewing is written into the URL (`?object=Character&attribute=Basic`), so a bookmark or a shared link drops the next person on exactly the same view.
+Copy the address to share the built-in subject and category. Use **Copy** in the editor to share the prompt text.
 
 ## Features
 
-- **5,040 bilingual tags** across 16 subjects and 212 categories — lighting, composition, lenses, camera moves, art styles, materials, wardrobe — organised by hand, not scraped into one flat list.
-- **A preview image on nearly every tag.** Hover to see what a style actually looks like; click it for a lightbox with zoom, rotate and download.
-- **Type in any language and see the English.** The translate box works on free text, debounced 1.5s, and suggests curated tags that match what you typed.
-- **Prompt housekeeping** — duplicate cleanup, one-tap negative-prompt template, inline lighting/quality snippets, random colour swap.
-- **Multicolor or monochrome tags** — multicolor paints the grid in blocks of eight from a six-colour cycle, so your eye keeps its place in a long list. Plus light / dark / system theme; both choices persist and sync across tabs.
-- **Open data.** The tag library is plain JSON in `src/app/data/prompt/prompt-<locale>.json` — fork it, extend it, ship your own.
+- **Browse or search 5,000+ bilingual tags.** Search English or the current interface language. Switch between **Visual** cards and the compact **Tags** view. Open a card’s preview to inspect the larger image.
+- **Edit the prompt directly.** Complete the last entry from suggestions, append lighting or quality presets, copy negative terms, and undo a clear. Refreshing the same tab restores your draft.
+- **Import a private tag library.** Open **Local tag library** in the prompt panel to import a JSON file up to 2 MB. Tags appear in categories, search, and suggestions. Removing the library removes its selected tags from the prompt. [JSON format and example](https://prompt.newzone.top/en/guide/data)
+- **Translate when needed.** Expand **Translate & insert** to append an English translation. In other interface languages, automatic translation is available as an opt-in.
+- **Use the editor on a phone.** After selecting a tag, the mobile bar lets you copy the prompt or jump to the editor.
+- **Bundle your own data.** The multilingual library is plain JSON in `src/app/data/prompt/prompt-<locale>.json`.
 
 ## Open the app in your language
 
@@ -54,7 +54,7 @@ The filter you are viewing is written into the URL (`?object=Character&attribute
 ## Limitations
 
 - **The translate box is the one thing that leaves your browser.** What you type there is sent to free public endpoints, using no API key of yours. They rate-limit, and MyMemory refuses anything over 500 bytes — the app falls through the provider list, but a long paragraph can still come back untranslated.
-- **Tag preview images are served from a CDN.** The tag data itself ships with the app, but the hover previews need a network connection, including in the desktop build.
+- **Tag preview images are served from a CDN.** The tag data itself ships with the app, but the built-in preview images need a network connection, including in the desktop build.
 
 ## Self-host
 

@@ -6,13 +6,12 @@
     "ogDescription": "Klicke zweisprachige Tags, um Profi-Prompts für Midjourney, FLUX, Nano Banana, Veo, Kling zu bauen. Kostenlos, lokal, Open Source."
   },
   "ToolPage": {
+    "backToTop": "Nach oben",
     "section1": "Thema",
     "section2": "Kategorie",
     "section3": "Tags",
     "currentSelection": "Ausgewählt",
     "fallback-other": "Sonstiges",
-    "tagMode-multicolor": "Mehrfarbig",
-    "tagMode-monochrome": "Einfarbig",
     "tagsLoading": "Tags werden geladen…",
     "tagsError": "Tags konnten nicht geladen werden",
     "retry": "Erneut versuchen",
@@ -25,7 +24,16 @@
       "invalid": "Wähle eine gültige JSON-Datei für die Tagsammlung.",
       "tooLarge": "Wähle eine JSON-Datei mit höchstens 2 MB.",
       "storageError": "Die Sammlung konnte auf diesem Gerät nicht gespeichert werden."
-    }
+    },
+    "searchPlaceholder": "Über 5.000 Tags durchsuchen…",
+    "searchResults": "{count} passende Tags",
+    "searchEmpty": "Keine passenden Tags gefunden",
+    "clearSearch": "Suche zurücksetzen",
+    "tagView-compact": "Tags",
+    "tagView-visual": "Karten",
+    "previewImage": "Bildvorschau",
+    "selectedEmpty": "Tags auswählen oder direkt oben eingeben",
+    "viewPrompt": "Prompt ansehen"
   },
   "ResultSection": {
     "tooltip-light": "Porträt-Beleuchtungs-Prompts einfügen (Filmbeleuchtung, Dämmerung usw.)",
@@ -56,7 +64,9 @@
     "placeholder-prompt": "Tags auswählen oder eigenen Prompt hier eintippen",
     "placeholder-translate": "z. B. eine Katze im Sonnenuntergang",
     "autoTranslate": "Automatische Übersetzung aktivieren",
-    "translationPrivacy": "Die automatische Übersetzung ist standardmäßig aus. Übersetzen oder das Aktivieren der automatischen Übersetzung sendet den Text an Google, Microsoft Edge, Youdao oder MyMemory."
+    "translationPrivacy": "Die automatische Übersetzung ist standardmäßig aus. Übersetzen oder das Aktivieren der automatischen Übersetzung sendet den Text an Google, Microsoft Edge, Youdao oder MyMemory.",
+    "quickPresets": "Schnellvorlagen",
+    "localLibraryLabel": "Lokale Tag-Bibliothek"
   },
   "CopyToClipboard": {
     "empty": "Der Inhalt ist leer, nichts zu kopieren",
@@ -76,30 +86,30 @@
     "placeholder": "Bitte hinterlassen Sie eine Nachricht, kein Login erforderlich (geben Sie Ihre E-Mail-Adresse ein, um Antwortbenachrichtigungen zu erhalten)"
   },
   "Home": {
-    "h1": "IMGPrompt · Prompts wählen wie <hl>Farben</hl>",
-    "tagline": "5000+ zweisprachige Tags · professionelle KI-Bild/Video-Prompts in Sekunden · Midjourney / FLUX / GPT-Image / Veo / Kling"
+    "h1": "IMGPrompt · KI-Prompts <hl>visuell</hl> zusammenstellen",
+    "tagline": "5.000+ visuelle zweisprachige Tags · Midjourney / FLUX / GPT-Image / Veo / Kling"
   },
   "FAQ": {
-    "title": "Häufig gestellte Fragen",
+    "title": "Häufige Fragen zum KI-Prompt-Editor",
     "q1": {
-      "question": "Was ist IMGPrompt? Welche KI-Kunstmodelle werden unterstützt?",
-      "answer": "IMGPrompt ist ein Prompt-Editor für Text-zu-Bild-Modelle und hilft Ihnen, englische Prompts über visuelle, zweisprachig beschriftete Tags zusammenzusetzen. Offiziell unterstützt werden Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo und Kling (Bild und Video); die erzeugten Prompts funktionieren auch mit Stable Diffusion, DALL·E und jedem Modell, das eine kompatible Syntax akzeptiert."
+      "question": "Was ist IMGPrompt und wie schreibe ich damit Bildprompts?",
+      "answer": "IMGPrompt ist ein kostenloser Editor für Bild- und Videoprompts. Suche zweisprachige Bildkarten, wähle Tags und bearbeite den englischen Prompt. Kopiere ihn dann etwa zu Midjourney, FLUX oder GPT Image."
     },
     "q2": {
-      "question": "Ist es kostenlos? Muss ich mich anmelden? Werden meine Daten hochgeladen?",
-      "answer": "Völlig kostenlos, keine Registrierung oder Anmeldung. Die Prompt-Zusammenstellung wird lokal im Browser verarbeitet, ohne Backend-Datenbank; nur bei Nutzung der Übersetzungsfunktion wird dieser Text an Übersetzungsdienste von Drittanbietern gesendet. Das Projekt ist auf GitHub Open Source — Code prüfen oder selbst hosten ist möglich."
+      "question": "Ist IMGPrompt kostenlos und werden Prompts übertragen?",
+      "answer": "Der Webeditor ist kostenlos und braucht kein Konto. Bearbeitung und Bibliotheksimport laufen im Browser. Automatische Übersetzung ist standardmäßig aus. In beiden Übersetzungsmodi geht der zu übersetzende Text an einen externen Dienst."
     },
     "q7": {
-      "question": "Wie unterscheidet sich IMGPrompt von PromptHero, Lexica oder PromptBase?",
-      "answer": "IMGPrompt ist ein Click-to-Build-Prompt-Composer, keine Prompt-Suchmaschine. PromptHero, Lexica und PromptBase ermöglichen das Durchsuchen oder Kaufen fremder Prompts; mit IMGPrompt bauen Sie Ihren eigenen Prompt durch Anklicken zweisprachiger visueller Tags. Die automatische Übersetzung ist standardmäßig aus. Übersetzen oder das Aktivieren der automatischen Übersetzung sendet den Text an Google, Microsoft Edge, Youdao oder MyMemory."
+      "question": "Kann ich meine eigene Tag-Bibliothek importieren?",
+      "answer": "Ja. Öffne unten im Editor die lokale Tag-Bibliothek und importiere eine JSON-Datei mit bis zu 2 MB. Tags erscheinen in ihren Kategorien, in der Suche und in Vorschlägen. Die Bibliothek bleibt im Browser."
     },
     "q8": {
-      "question": "Unterstützt IMGPrompt KI-Videomodelle wie Veo, Kling und Runway?",
-      "answer": "Ja. IMGPrompt erstellt Prompts für Videomodelle wie Google Veo, Kling, Seedance, Runway und Hailuo, zusätzlich zu Bildmodellen. Die meisten Prompt-Seiten konzentrieren sich nur auf Bildmodelle, daher ist IMGPrompt eines der wenigen kostenlosen Tools, die auch die neue Welle der KI-Videogenerierung abdeckt."
+      "question": "Kann ich Videoprompts für Veo, Kling oder Runway schreiben?",
+      "answer": "Ja. Beschreibe die Eröffnung, die Handlung und die Kamerabewegung. Füge den Prompt in deinen Videogenerator ein und passe die Parameter an das Modell an."
     },
     "q9": {
-      "question": "Kann ich IMGPrompt ohne Englischkenntnisse nutzen?",
-      "answer": "Ja. Die UI ist in 18 Sprachen verfügbar, und jeder Tag zeigt sowohl Englisch als auch Ihre Landessprache. Sie klicken in Ihrer Sprache; IMGPrompt baut den Prompt auf Englisch zusammen (was KI-Bild- und Videomodelle tatsächlich brauchen). Der Übersetzen-Button wandelt auch jeden Satz in Ihrer Sprache mit einem Klick in einen englischen Prompt um."
+      "question": "Kann ich Prompts ohne Englischkenntnisse schreiben?",
+      "answer": "Ja. Suche und wähle zweisprachige Tags in der Oberflächensprache. Der Editor fügt die englischen Begriffe ein. Vollständige Beschreibungen kannst du mit der Übersetzungsfunktion auf Englisch hinzufügen."
     }
   },
   "Schema": {

@@ -6,13 +6,12 @@
     "ogDescription": "Click bilingual tags to build pro AI image and video prompts — Midjourney, FLUX, Nano Banana, Veo, Kling. Free, local, no login."
   },
   "ToolPage": {
+    "backToTop": "Back to top",
     "section1": "Subject",
     "section2": "Category",
     "section3": "Tags",
     "currentSelection": "Selected",
     "fallback-other": "Other",
-    "tagMode-multicolor": "Multicolor",
-    "tagMode-monochrome": "Monochrome",
     "tagsLoading": "Loading tags…",
     "tagsError": "Tags didn't load",
     "retry": "Try again",
@@ -25,7 +24,16 @@
       "invalid": "Choose a valid tag library JSON file.",
       "tooLarge": "Choose a JSON file of 2 MB or less.",
       "storageError": "Could not save the library on this device."
-    }
+    },
+    "searchPlaceholder": "Search 5,000+ tags…",
+    "searchResults": "{count} matching tags",
+    "searchEmpty": "No matching tags found",
+    "clearSearch": "Clear search",
+    "tagView-compact": "Tags",
+    "tagView-visual": "Visual",
+    "previewImage": "Preview image",
+    "selectedEmpty": "Pick tags to build your prompt, or type directly above",
+    "viewPrompt": "View prompt"
   },
   "ResultSection": {
     "tooltip-light": "Insert portrait lighting prompts (film lighting, twilight rays, etc.)",
@@ -56,7 +64,9 @@
     "placeholder-prompt": "Pick tags to build it, or type your own prompt",
     "placeholder-translate": "e.g. a cat at sunset",
     "autoTranslate": "Enable automatic translation",
-    "translationPrivacy": "Automatic translation is off by default. Clicking Translate or enabling automatic translation sends the text to Google, Microsoft Edge, Youdao or MyMemory."
+    "translationPrivacy": "Automatic translation is off by default. Clicking Translate or enabling automatic translation sends the text to Google, Microsoft Edge, Youdao or MyMemory.",
+    "quickPresets": "Quick presets",
+    "localLibraryLabel": "Local tag library"
   },
   "CopyToClipboard": {
     "empty": "Content is empty, nothing to copy",
@@ -76,30 +86,30 @@
     "placeholder": "Please leave a message, no login required (enter your email to receive reply notifications)"
   },
   "Home": {
-    "h1": "IMGPrompt · Pick prompts like <hl>pigments</hl>",
-    "tagline": "5000+ bilingual tags · pro AI image/video prompts in seconds · Midjourney / FLUX / GPT-Image / Veo / Kling"
+    "h1": "IMGPrompt · Build AI prompts <hl>visually</hl>",
+    "tagline": "5,000+ visual bilingual tags · Midjourney / FLUX / GPT-Image / Veo / Kling"
   },
   "FAQ": {
-    "title": "Frequently Asked Questions",
+    "title": "AI prompt editor FAQ",
     "q1": {
-      "question": "What is IMGPrompt? Which AI art models does it support?",
-      "answer": "IMGPrompt is a prompt editor for text-to-image models that helps you compose English prompts through visual tags with bilingual labels. It officially supports Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, and Kling for image and video; the generated prompts also work with Stable Diffusion, DALL·E, and any model that accepts compatible syntax."
+      "question": "What is IMGPrompt, and can I use it to write AI image prompts?",
+      "answer": "IMGPrompt is a free editor for image and video prompts. Search bilingual visual tags, select the ones you want, and edit the English prompt before copying it to Midjourney, FLUX, GPT Image, or another image generator."
     },
     "q2": {
-      "question": "Is it free? Do I need to sign up? Is my data uploaded?",
-      "answer": "Completely free, no signup or login. All prompt composing and input are processed locally in your browser with no backend database; only when you use the translation feature is that text sent to third-party translation services. The project is open source on GitHub, so you can audit the code or self-host."
+      "question": "Is IMGPrompt free, and are prompts sent anywhere?",
+      "answer": "The web editor is free and requires no account. Prompt editing and tag library imports run in your browser. Automatic translation is off by default. Using either translation mode sends the text being translated to a third-party translation service."
     },
     "q7": {
-      "question": "How is IMGPrompt different from PromptHero, Lexica, or PromptBase?",
-      "answer": "IMGPrompt is a click-to-build prompt composer, not a prompt search engine. PromptHero, Lexica, and PromptBase let you browse or buy other people's prompts; IMGPrompt lets you compose your own by clicking bilingual visual tags. Automatic translation is off by default. Clicking Translate or enabling automatic translation sends the text to Google, Microsoft Edge, Youdao or MyMemory."
+      "question": "Can I import my own prompt tag library?",
+      "answer": "Yes. Open Local tag library at the bottom of the editor and import a JSON file up to 2 MB. Your tags appear in their categories, search results, and suggestions. The library is stored in your browser."
     },
     "q8": {
-      "question": "Does IMGPrompt support AI video models like Veo, Kling, and Runway?",
-      "answer": "Yes. IMGPrompt builds prompts for video models including Google Veo, Kling, Seedance, Runway, and Hailuo, alongside image models. Most prompt sites focus on image models only, so IMGPrompt is one of the few free tools that covers the new wave of AI video generation."
+      "question": "Can I write video prompts for Veo, Kling, or Runway?",
+      "answer": "Yes. Describe the opening shot, the subject’s action, and the camera movement. Paste the result into your video generator and adjust the parameters for the model you use."
     },
     "q9": {
-      "question": "Can I use IMGPrompt without speaking English?",
-      "answer": "Yes. The UI is available in 18 languages, and every tag shows both English and your local-language label. You click tags in your language; IMGPrompt assembles the prompt in English (which AI image and video models actually need). The Translate button also converts any sentence in your language into an English prompt in one click."
+      "question": "Can I write a prompt without knowing English?",
+      "answer": "Yes. Search and select bilingual tags in the interface language, and the editor inserts their English text. For a full description, open Translate & insert to translate it into English and append it to the prompt."
     }
   },
   "Schema": {

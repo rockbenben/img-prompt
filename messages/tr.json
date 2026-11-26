@@ -6,13 +6,12 @@
     "ogDescription": "İki dilli etiketleri tıklayarak Midjourney, FLUX, Nano Banana, Veo, Kling için AI prompt oluştur. Ücretsiz, yerel, açık kaynak."
   },
   "ToolPage": {
+    "backToTop": "Yukarı dön",
     "section1": "Konu",
     "section2": "Kategori",
     "section3": "Etiketler",
     "currentSelection": "Seçili",
     "fallback-other": "Diğer",
-    "tagMode-multicolor": "Çok Renkli",
-    "tagMode-monochrome": "Tek Renkli",
     "tagsLoading": "Etiketler yükleniyor…",
     "tagsError": "Etiketler yüklenemedi",
     "retry": "Yeniden dene",
@@ -25,7 +24,16 @@
       "invalid": "Geçerli bir etiket arşivi JSON dosyası seçin.",
       "tooLarge": "En fazla 2 MB boyutunda bir JSON dosyası seçin.",
       "storageError": "Arşiv bu cihaza kaydedilemedi."
-    }
+    },
+    "searchPlaceholder": "5.000+ etiket içinde ara…",
+    "searchResults": "{count} eşleşen etiket",
+    "searchEmpty": "Eşleşen etiket bulunamadı",
+    "clearSearch": "Aramayı temizle",
+    "tagView-compact": "Etiketler",
+    "tagView-visual": "Görsel",
+    "previewImage": "Görseli önizle",
+    "selectedEmpty": "İstem oluşturmak için etiket seçin veya yukarıya yazın",
+    "viewPrompt": "İstemi gör"
   },
   "ResultSection": {
     "tooltip-light": "Portre aydınlatma promptları ekle (film ışığı, alacakaranlık vb.)",
@@ -56,7 +64,9 @@
     "placeholder-prompt": "Etiket seçin, prompt kendiliğinden oluşsun; ya da kendiniz yazın",
     "placeholder-translate": "örn. gün batımında bir kedi",
     "autoTranslate": "Otomatik çeviriyi aç",
-    "translationPrivacy": "Otomatik çeviri varsayılan olarak kapalıdır. Çevir düğmesine basmak veya otomatik çeviriyi açmak metni Google, Microsoft Edge, Youdao veya MyMemory hizmetine gönderir."
+    "translationPrivacy": "Otomatik çeviri varsayılan olarak kapalıdır. Çevir düğmesine basmak veya otomatik çeviriyi açmak metni Google, Microsoft Edge, Youdao veya MyMemory hizmetine gönderir.",
+    "quickPresets": "Hızlı şablonlar",
+    "localLibraryLabel": "Yerel etiket kitaplığı"
   },
   "CopyToClipboard": {
     "empty": "İçerik boş, kopyalanacak bir şey yok",
@@ -76,30 +86,30 @@
     "placeholder": "Lütfen bir mesaj bırakın, giriş yapmanıza gerek yok (cevap bildirimleri almak için e-postanızı girin)"
   },
   "Home": {
-    "h1": "IMGPrompt · Prompt seçmek, <hl>boya</hl> seçmek gibi",
-    "tagline": "5000+ çift dilli etiket · saniyeler içinde profesyonel AI görsel/video promptları · Midjourney / FLUX / GPT-Image / Veo / Kling"
+    "h1": "IMGPrompt · Yapay zeka istemlerini <hl>görsel</hl> olarak oluşturun",
+    "tagline": "5.000+ görselli iki dilli etiket · Midjourney / FLUX / GPT-Image / Veo / Kling"
   },
   "FAQ": {
-    "title": "Sıkça sorulan sorular",
+    "title": "Yapay zekâ istem düzenleyicisi hakkında sorular",
     "q1": {
-      "question": "IMGPrompt nedir? Hangi AI sanat modellerini destekler?",
-      "answer": "IMGPrompt, yazıdan görüntüye üretim modelleri için bir prompt düzenleyicidir; iki dilli görsel etiketler sayesinde İngilizce promptları hızlıca kurmanıza yardımcı olur. Resmi olarak Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo ve Kling desteklenir (görüntü ve video); üretilen promptlar Stable Diffusion, DALL·E ve uyumlu söz dizimini kabul eden herhangi bir modelde de çalışır."
+      "question": "IMGPrompt nedir ve görsel istemleri nasıl hazırlanır?",
+      "answer": "IMGPrompt görsel ve video istemleri için ücretsiz bir düzenleyicidir. İki dilli görsel kartları arayıp seçin, İngilizce metni düzenleyin ve Midjourney, FLUX, GPT Image veya başka bir görsel üreticiye yapıştırın."
     },
     "q2": {
-      "question": "Ücretsiz mi? Kayıt olmam gerekir mi? Verilerim yüklenir mi?",
-      "answer": "Tamamen ücretsiz, kayıt veya giriş gerekmez. Prompt birleştirme tarayıcınızda yerel olarak işlenir, sunucu veritabanı yoktur; yalnızca çeviri özelliğini kullandığınızda o metin üçüncü taraf çeviri hizmetlerine gönderilir. Proje GitHub'da açık kaynaktır — kodu inceleyebilir veya kendiniz barındırabilirsiniz."
+      "question": "IMGPrompt ücretsiz mi ve istemler dışarıya gönderiliyor mu?",
+      "answer": "Web düzenleyicisi ücretsizdir ve hesap gerektirmez. Düzenleme ve içe aktarma tarayıcıda yürütülür. Otomatik çeviri başlangıçta kapalıdır. Her iki çeviri modu da çevrilecek metni üçüncü taraf bir hizmete gönderir."
     },
     "q7": {
-      "question": "IMGPrompt'ı PromptHero, Lexica veya PromptBase'den ayıran nedir?",
-      "answer": "IMGPrompt bir 'tıkla-oluştur' prompt düzenleyicisidir, bir prompt arama motoru değildir. PromptHero, Lexica ve PromptBase başkalarının promptlarını taramanıza veya satın almanıza izin verir; IMGPrompt iki dilli görsel etiketleri tıklayarak kendi promptunuzu oluşturmanızı sağlar. Otomatik çeviri varsayılan olarak kapalıdır. Çevir düğmesine basmak veya otomatik çeviriyi açmak metni Google, Microsoft Edge, Youdao veya MyMemory hizmetine gönderir."
+      "question": "Kendi etiket kütüphanemi içe aktarabilir miyim?",
+      "answer": "Evet. Düzenleyicinin altında yerel etiket kütüphanesini açıp en fazla 2 MB boyutunda bir JSON dosyası seçin. Etiketler kategorilerde, aramada ve önerilerde görünür. Kütüphane tarayıcıda saklanır."
     },
     "q8": {
-      "question": "IMGPrompt, Veo, Kling, Runway gibi AI video modellerini destekler mi?",
-      "answer": "Evet. IMGPrompt görüntü modellerinin yanı sıra Google Veo, Kling, Seedance, Runway, Hailuo gibi video modelleri için de prompt oluşturur. Çoğu prompt sitesi yalnızca görüntü modellerine odaklanır, bu yüzden IMGPrompt yeni AI video üretim dalgasını kapsayan birkaç ücretsiz araçtan biridir."
+      "question": "Veo, Kling veya Runway için video istemi yazabilir miyim?",
+      "answer": "Evet. Açılış karesini, konunun eylemini ve kamera hareketini tanımlayın. İstemi video üreticisine yapıştırın ve parametreleri kullandığınız modele göre ayarlayın."
     },
     "q9": {
-      "question": "İngilizce bilmeden IMGPrompt'ı kullanabilir miyim?",
-      "answer": "Evet. Arayüz 18 dilde mevcuttur ve her etiket hem İngilizce hem yerel dilinizdeki etiketi gösterir. Kendi dilinizde etiketleri tıklarsınız; IMGPrompt promptu İngilizce olarak birleştirir (AI görüntü ve video modellerinin gerçekten ihtiyaç duyduğu dil). 'Çevir' düğmesi ayrıca dilinizdeki herhangi bir cümleyi tek tıkla İngilizce prompta dönüştürür."
+      "question": "İngilizce bilmeden istem yazabilir miyim?",
+      "answer": "Evet. Arayüz dilinde iki dilli etiketleri arayıp seçtiğinizde düzenleyici İngilizce karşılığını ekler. Tam bir açıklamayı İngilizce eklemek için çeviriyi kullanın."
     }
   },
   "Schema": {

@@ -74,12 +74,16 @@ export default function LocalTagLibrary({ hasLibrary, ready, objects, attributes
   }
 
   return (
-    <Flex wrap align="center" gap={8}>
+    <Flex wrap align="center" gap={8} className="pp-lib-row">
       <input ref={fileInput} type="file" accept=".json,application/json" hidden onChange={importLibrary} />
       <Button size="small" disabled={!ready} loading={reading} onClick={hasLibrary ? clearLibrary : chooseFile}>
         {t(hasLibrary ? "clear" : "import")}
       </Button>
-      <span role="status">{feedback ? t(feedback) : null}</span>
+      {feedback && (
+        <span className="pp-lib-status" role="status">
+          {t(feedback)}
+        </span>
+      )}
     </Flex>
   );
 }

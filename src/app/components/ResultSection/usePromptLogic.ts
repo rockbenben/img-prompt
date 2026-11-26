@@ -1,11 +1,11 @@
-import { useState, useEffect, useMemo, useRef, useCallback, createElement } from "react";
+import { useState, useEffect, useMemo, useRef, useCallback, createElement, type Dispatch, type SetStateAction } from "react";
 import { App, Button } from "antd";
 import { useLocale, useTranslations } from "next-intl";
 import { TagItem } from "../types";
 import { normalizeString } from "@/app/utils/normalizeString";
 import { translateText } from "@/app/utils/translateAPI";
 import { colorArray } from "@/app/data/constants";
-import { useFullTagsData } from "@/app/hooks/useFullTagsData";
+import { type UseFullTagsDataResult } from "@/app/hooks/useFullTagsData";
 import { LEGACY_LIBRARY_ID } from "@/app/hooks/useLocalTagLibrary";
 
 const normalizeForTranslation = (text: string) => text.trim().replace(/[,，]\s*$/, "");
@@ -75,20 +75,19 @@ const splitPreservingSelected = (text: string, prevByName: Map<string, TagItem>)
 
 interface UsePromptLogicProps {
   selectedTags: TagItem[];
-  setSelectedTags: (tags: TagItem[]) => void;
-  firstChunk: TagItem[];
-  objectCount: number;
+  setSelectedTags: Dispatch<SetStateAction<TagItem[]>>;
+  fullTags: Pick<UseFullTagsDataResult, "scanEntries" | "findTagData" | "ensureLoaded">;
   customTags: TagItem[];
   libraryId: string | null;
   libraryReady: boolean;
 }
 
-export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, objectCount, customTags, libraryId, libraryReady }: UsePromptLogicProps) {
+export function usePromptLogic({ selectedTags, setSelectedTags, fullTags, customTags, libraryId, libraryReady }: UsePromptLogicProps) {
   const { message, notification } = App.useApp();
   const t = useTranslations("ResultSection");
   const locale = useLocale();
 
-  const { scanEntries, findTagData, ensureLoaded } = useFullTagsData(locale, firstChunk, objectCount, customTags);
+  const { scanEntries, findTagData, ensureLoaded } = fullTags;
   // 每次进入编辑器都由用户主动授权自动外发。
   const [autoTranslate, setAutoTranslate] = useState(false);
 
@@ -103,13 +102,12 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
   const draftStoreKey = `imgprompt-prompt-draft:${locale}`;
   const draftKeyRef = useRef<string | null>(null);
   const isComposingRef = useRef(false);
-  const [translatedText, setTranslatedText] = useState("");
+  const [translation, setTranslation] = useState<{ source: string; text: string } | null>(null);
   // Auto-translation (debounced effect) and manual translation (bottom input) own
   // separate flags — sharing one made effect cleanup able to stomp the manual flow.
   const [isAutoTranslating, setIsAutoTranslating] = useState(false);
   const [isManualTranslating, setIsManualTranslating] = useState(false);
-  const [suggestedTags, setSuggestedTags] = useState<TagItem[]>([]);
-  const [exactMatchTag, setExactMatchTag] = useState<TagItem | null>(null);
+  const [suggestions, setSuggestions] = useState<{ query: string; tags: TagItem[]; exact: TagItem | null } | null>(null);
   const [inputText, setInputText] = useState("");
   // Keyed by locale so a stale translation isn't reused after a locale switch
   const lastTranslatedSource = useRef("");
@@ -149,9 +147,11 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
     if (selectedTags.length > 0) ensureLoaded();
   }, [selectedTags.length, ensureLoaded]);
 
-  // 空文本与 en 直通在渲染期派生，不进异步链（也避免 effect 内同步 setState）；
-  // translatedText 状态只承载异步翻译结果
-  const displayTranslation = !normalizeForTranslation(displayedText) ? "" : locale === "en" ? displayedText : translatedText;
+  // 提示词变动后立即隐藏旧译文和旧推荐，避免防抖期间选中上一段的结果。
+  const translationSource = normalizeForTranslation(displayedText);
+  const displayTranslation = locale === "en" ? displayedText : translation?.source === `${locale}:${translationSource}` ? translation.text : "";
+  const suggestionQuery = normalizeString(displayedText.split(", ").at(-1)?.trim() ?? "");
+  const currentSuggestions = suggestions?.query === suggestionQuery ? suggestions : null;
 
   // Translation: debounced 1500ms, depends on displayedText + locale
   useEffect(() => {
@@ -169,7 +169,7 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
         setIsAutoTranslating(true);
         const translated = await translateText(displayedText, locale, aborter.signal);
         if (canceled) return;
-        setTranslatedText(translated);
+        setTranslation({ source: sourceKey, text: translated });
         lastTranslatedSource.current = sourceKey;
       } catch (error) {
         if (canceled) return;
@@ -177,7 +177,7 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
         // 失败清空了显示文本，last 必须一并重置——否则回退到上次成功的
         // 文本时 sourceKey 命中旧值直接 return，面板永久空白
         lastTranslatedSource.current = "";
-        setTranslatedText("");
+        setTranslation(null);
       } finally {
         if (!canceled) setIsAutoTranslating(false);
       }
@@ -192,16 +192,10 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
     };
   }, [displayedText, locale, autoTranslate]);
 
-  // Recommendation: debounced 150ms, depends on displayedText + fullTags
   useEffect(() => {
+    if (!suggestionQuery || !scanEntries) return;
     const timer = setTimeout(() => {
-      const lastTagName = normalizeString(displayedText.split(", ").pop()?.trim() || "");
-      if (!lastTagName || !scanEntries) {
-        // Empty input, or full data not loaded yet (will retrigger when scanEntries arrives)
-        setSuggestedTags([]);
-        setExactMatchTag(null);
-        return;
-      }
+      const lastTagName = suggestionQuery;
 
       // 全量扫描（~5000 条 × 防抖 150ms；归一化已预计算，纯 includes 扫描毫秒级，
       // 实测前台输入到推荐出现 ~177ms 里防抖占大头）。曾用首两字符分桶加速，
@@ -243,11 +237,10 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
           merged.push(tag);
         }
       }
-      setExactMatchTag(exact);
-      setSuggestedTags(merged.slice(0, 10));
+      setSuggestions({ query: suggestionQuery, tags: merged.slice(0, 10), exact });
     }, 150);
     return () => clearTimeout(timer);
-  }, [displayedText, scanEntries]);
+  }, [suggestionQuery, scanEntries]);
 
   // Handlers — draft text is the editing buffer
 
@@ -454,7 +447,11 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
         {
           size: "small",
           onClick: () => {
-            setSelectedTags(previous);
+            setSelectedTags((current) => {
+              const restored = new Map(previous.map((tag) => [commitKey(tag.displayName), tag]));
+              for (const tag of current) restored.set(commitKey(tag.displayName), tag);
+              return Array.from(restored.values());
+            });
             notification.destroy(key);
           },
         },
@@ -532,8 +529,8 @@ export function usePromptLogic({ selectedTags, setSelectedTags, firstChunk, obje
     autoTranslate,
     setAutoTranslate,
     isManualTranslating,
-    suggestedTags,
-    exactMatchTag,
+    suggestedTags: currentSuggestions?.tags ?? [],
+    exactMatchTag: currentSuggestions?.exact ?? null,
     setIsComposing,
     handleResultTextChange,
     handleBlur,

@@ -6,13 +6,12 @@
     "ogDescription": "이중 언어 태그를 클릭해 Midjourney·FLUX·Nano Banana·Veo·Kling용 AI 이미지/영상 프롬프트 생성. 무료, 로컬, 오픈소스."
   },
   "ToolPage": {
+    "backToTop": "맨 위로",
     "section1": "주제",
     "section2": "카테고리",
     "section3": "태그",
     "currentSelection": "선택됨",
     "fallback-other": "기타",
-    "tagMode-multicolor": "컬러",
-    "tagMode-monochrome": "단색",
     "tagsLoading": "태그 불러오는 중…",
     "tagsError": "태그를 불러오지 못했습니다",
     "retry": "다시 시도",
@@ -25,7 +24,16 @@
       "invalid": "올바른 형식의 태그 사전 JSON 파일을 선택하세요.",
       "tooLarge": "2 MB 이하의 JSON 파일을 선택하세요.",
       "storageError": "이 기기에 사전을 저장할 수 없습니다."
-    }
+    },
+    "searchPlaceholder": "5,000개 이상의 태그 검색…",
+    "searchResults": "일치하는 태그 {count}개",
+    "searchEmpty": "일치하는 태그가 없습니다",
+    "clearSearch": "검색 지우기",
+    "tagView-compact": "태그",
+    "tagView-visual": "비주얼",
+    "previewImage": "이미지 미리보기",
+    "selectedEmpty": "태그를 선택하거나 위 입력란에 직접 입력하세요",
+    "viewPrompt": "프롬프트 보기"
   },
   "ResultSection": {
     "tooltip-light": "인물 조명 프롬프트 삽입 (시네마틱 조명, 황혼 광선 등)",
@@ -56,7 +64,9 @@
     "placeholder-prompt": "태그를 고르면 자동으로 완성됩니다. 직접 입력해도 됩니다",
     "placeholder-translate": "예: 노을 속의 고양이",
     "autoTranslate": "자동 번역 켜기",
-    "translationPrivacy": "자동 번역은 기본적으로 꺼져 있습니다. 번역을 누르거나 자동 번역을 켜면 텍스트가 Google, Microsoft Edge, Youdao 또는 MyMemory로 전송됩니다."
+    "translationPrivacy": "자동 번역은 기본적으로 꺼져 있습니다. 번역을 누르거나 자동 번역을 켜면 텍스트가 Google, Microsoft Edge, Youdao 또는 MyMemory로 전송됩니다.",
+    "quickPresets": "빠른 프리셋",
+    "localLibraryLabel": "로컬 태그 라이브러리"
   },
   "CopyToClipboard": {
     "empty": "내용이 비어 있습니다. 복사할 것이 없습니다.",
@@ -76,30 +86,30 @@
     "placeholder": "메시지를 남겨주세요. 로그인이 필요하지 않습니다. (답변 알림을 받으려면 이메일을 입력하세요)"
   },
   "Home": {
-    "h1": "IMGPrompt · <hl>물감</hl>을 고르듯, 프롬프트를 고르다",
-    "tagline": "5000+ 이중 언어 태그 · 몇 초 만에 전문가급 AI 이미지/영상 프롬프트 완성 · Midjourney / FLUX / GPT-Image / Veo / Kling"
+    "h1": "IMGPrompt · 보고 <hl>고르는</hl> AI 프롬프트 빌더",
+    "tagline": "5,000+ 이미지 이중언어 태그 · Midjourney / FLUX / GPT-Image / Veo / Kling"
   },
   "FAQ": {
-    "title": "자주 묻는 질문",
+    "title": "AI 프롬프트 편집기 자주 묻는 질문",
     "q1": {
-      "question": "IMGPrompt란 무엇이며 어떤 AI 아트 모델을 지원하나요?",
-      "answer": "IMGPrompt는 텍스트-이미지 모델을 위한 프롬프트 편집기로, 영어와 사용자 언어가 함께 표시되는 시각적 태그를 통해 영어 프롬프트를 빠르게 조합할 수 있습니다. 공식 지원은 Nano Banana, GPT-image-2, Midjourney, FLUX, Seedance, Veo, Kling(이미지·동영상)이며, 생성된 프롬프트는 Stable Diffusion, DALL·E, 기타 호환 문법을 수용하는 모델에서도 동작합니다."
+      "question": "IMGPrompt란 무엇이며 이미지 프롬프트를 만들 수 있나요?",
+      "answer": "IMGPrompt는 이미지와 동영상용 무료 프롬프트 편집기입니다. 이중 언어 이미지 카드를 검색해 선택하고 영어 문구를 편집한 뒤 Midjourney, FLUX, GPT Image 등 이미지 생성 도구에 붙여넣으세요."
     },
     "q2": {
-      "question": "무료인가요? 가입이 필요한가요? 데이터가 업로드되나요?",
-      "answer": "완전 무료이며 가입이나 로그인이 필요 없습니다. 프롬프트 조합과 입력은 모두 브라우저에서 로컬로 처리되고 백엔드 데이터베이스도 없습니다. 번역 기능을 사용할 때만 해당 텍스트가 제3자 번역 서비스로 전송됩니다. 프로젝트는 GitHub에 오픈소스로 공개되어 있어 코드 감사나 자체 호스팅이 가능합니다."
+      "question": "IMGPrompt는 무료인가요? 프롬프트가 외부로 전송되나요?",
+      "answer": "웹 편집기는 무료이며 계정이 필요 없습니다. 편집과 가져오기는 브라우저에서 처리됩니다. 자동 번역은 기본적으로 꺼져 있습니다. 두 번역 방식 모두 번역할 텍스트를 외부 서비스로 전송합니다."
     },
     "q7": {
-      "question": "IMGPrompt는 PromptHero, Lexica, PromptBase와 어떻게 다른가요?",
-      "answer": "IMGPrompt는 '클릭으로 만드는' 도구이지 프롬프트 검색 엔진이 아닙니다. PromptHero, Lexica, PromptBase는 다른 사람이 쓴 프롬프트를 검색하거나 구매하는 서비스이고, IMGPrompt는 이중 언어 시각 태그를 클릭해 자신만의 프롬프트를 구성합니다. 자동 번역은 기본적으로 꺼져 있습니다. 번역을 누르거나 자동 번역을 켜면 텍스트가 Google, Microsoft Edge, Youdao 또는 MyMemory로 전송됩니다."
+      "question": "나만의 태그 라이브러리를 가져올 수 있나요?",
+      "answer": "네. 편집기 아래의 로컬 태그 라이브러리를 열고 2 MB 이하의 JSON 파일을 가져오세요. 태그는 분류와 검색 결과, 추천에 나타납니다. 라이브러리는 브라우저에 저장됩니다."
     },
     "q8": {
-      "question": "IMGPrompt는 Veo, Kling, Runway 같은 AI 영상 모델을 지원하나요?",
-      "answer": "네. IMGPrompt는 Midjourney, FLUX, Nano Banana 같은 이미지 모델뿐 아니라 Google Veo, Kling, Seedance, Runway, Hailuo 같은 영상 모델용 프롬프트도 생성합니다. 대부분의 프롬프트 사이트는 이미지 모델만 지원하므로, IMGPrompt는 새로운 AI 영상 생성을 지원하는 몇 안 되는 무료 도구입니다."
+      "question": "Veo, Kling, Runway용 동영상 프롬프트를 작성할 수 있나요?",
+      "answer": "네. 첫 장면, 피사체의 행동, 카메라 움직임을 묘사하세요. 동영상 생성 도구에 붙여넣고 모델에 맞게 매개변수를 조정하세요."
     },
     "q9": {
-      "question": "영어를 못해도 IMGPrompt를 사용할 수 있나요?",
-      "answer": "네. UI는 18개 언어로 제공되며, 모든 태그가 영어와 모국어 라벨을 함께 표시합니다. 모국어로 태그를 클릭하면 IMGPrompt가 영어(AI 이미지·영상 모델이 실제로 필요로 하는 언어)로 프롬프트를 조합합니다. '번역' 버튼으로 모국어 문장을 한 번에 영어 프롬프트로 바꿀 수도 있습니다."
+      "question": "영어를 몰라도 프롬프트를 쓸 수 있나요?",
+      "answer": "네. 화면 언어로 이중 언어 태그를 찾아 선택하면 해당 영어 문구가 삽입됩니다. 전체 문장을 추가하려면 번역 기능을 사용하세요."
     }
   },
   "Schema": {

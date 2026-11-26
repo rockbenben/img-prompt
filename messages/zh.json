@@ -6,13 +6,12 @@
     "ogDescription": "点选双语标签，秒出 Midjourney、FLUX、Nano Banana、Veo、Kling 等 AI 图像/视频提示词。免费、本地、无需登录。"
   },
   "ToolPage": {
+    "backToTop": "返回顶部",
     "section1": "主体",
     "section2": "类别",
     "section3": "标签",
     "currentSelection": "已选",
     "fallback-other": "其他",
-    "tagMode-multicolor": "多彩",
-    "tagMode-monochrome": "单色",
     "tagsLoading": "正在载入标签…",
     "tagsError": "标签没能载入",
     "retry": "重试",
@@ -25,7 +24,16 @@
       "invalid": "请选择格式正确的词库 JSON 文件。",
       "tooLarge": "请选择不超过 2 MB 的 JSON 文件。",
       "storageError": "无法在此设备上保存词库。"
-    }
+    },
+    "searchPlaceholder": "搜索 5000+ 中英文标签…",
+    "searchResults": "找到 {count} 个匹配标签",
+    "searchEmpty": "没有找到匹配的标签",
+    "clearSearch": "清除搜索",
+    "tagView-compact": "标签",
+    "tagView-visual": "图卡",
+    "previewImage": "查看大图",
+    "selectedEmpty": "点击左侧标签组合，或直接在上方输入",
+    "viewPrompt": "查看提示词"
   },
   "ResultSection": {
     "tooltip-light": "插入人像布光提示词（电影光效、暮光光束等）",
@@ -56,7 +64,9 @@
     "placeholder-prompt": "点标签自动拼好，也可以直接在这里写",
     "placeholder-translate": "例：夕阳下的猫",
     "autoTranslate": "开启自动译文",
-    "translationPrivacy": "自动译文默认关闭。点击翻译或开启自动译文后，待译文本会发送给 Google、微软 Edge、有道或 MyMemory。"
+    "translationPrivacy": "自动译文默认关闭。点击翻译或开启自动译文后，待译文本会发送给 Google、微软 Edge、有道或 MyMemory。",
+    "quickPresets": "快捷增强",
+    "localLibraryLabel": "本地词库"
   },
   "CopyToClipboard": {
     "empty": "内容为空，无需复制",
@@ -76,30 +86,30 @@
     "placeholder": "请留言，无需登录（填写邮箱可获得回复提醒）"
   },
   "Home": {
-    "h1": "IMGPrompt · 像挑<hl>颜料</hl>一样，挑提示词",
-    "tagline": "5000+ 中英双语标签 · 秒出专业级 AI 图像/视频提示词 · Midjourney / FLUX / GPT-Image / Veo / Kling"
+    "h1": "IMGPrompt · 看图<hl>点选</hl>，组合 AI 提示词",
+    "tagline": "5000+ 带图双语标签 · 适配 Midjourney / FLUX / GPT-Image / Veo / Kling"
   },
   "FAQ": {
-    "title": "常见问题",
+    "title": "AI 提示词编辑器常见问题",
     "q1": {
-      "question": "IMGPrompt 是什么？支持哪些 AI 绘画模型？",
-      "answer": "IMGPrompt 是一款专为文生图模型打造的提示词编辑器，通过可视化的标签和中英双语显示帮助你快速组合出英文提示词。官方适配 Nano Banana、GPT-image-2、Midjourney、FLUX、Seedance、Veo、Kling 等主流图像/视频模型；生成的 prompt 也兼容 Stable Diffusion、DALL·E 以及其他接受兼容语法的模型。"
+      "question": "IMGPrompt 是什么？可以用来写 AI 绘图提示词吗？",
+      "answer": "IMGPrompt 是免费的图像和视频提示词编辑器。你可以搜索双语图卡、点选标签并编辑英文提示词，再复制到 Midjourney、FLUX、GPT Image 或其他图像生成工具。"
     },
     "q2": {
-      "question": "需要登录或付费吗？数据会上传到服务器吗？",
-      "answer": "完全免费，无需注册或登录。所有提示词组合和输入内容都在浏览器本地处理，不依赖后端数据库；仅当你使用翻译功能时，待译文本会发送给第三方翻译接口。项目在 GitHub 开源，可自行审计代码或自部署。"
+      "question": "IMGPrompt 免费吗？提示词会上传吗？",
+      "answer": "网页编辑器免费，无需登录。提示词编辑和词库导入在浏览器本地处理。自动译文默认关闭。点击翻译或开启自动译文会把待译文字发给第三方翻译服务。"
     },
     "q7": {
-      "question": "IMGPrompt 跟 PromptHero、Lexica、PromptBase 有什么区别？",
-      "answer": "IMGPrompt 是「点选构建」工具，不是 prompt 搜索引擎。 PromptHero、Lexica、PromptBase 让你浏览或购买别人写好的 prompt；IMGPrompt 让你通过点击中英双语标签自己组合。 自动译文默认关闭。点击翻译或开启自动译文后，待译文本会发送给 Google、微软 Edge、有道或 MyMemory。"
+      "question": "可以导入自己的提示词词库吗？",
+      "answer": "可以。在编辑器底部展开「本地词库」，导入不超过 2 MB 的 JSON 文件。导入的标签会出现在相应分类、搜索结果和联想词里，词库保存在当前浏览器。"
     },
     "q8": {
-      "question": "IMGPrompt 支持 AI 视频模型 Veo、Kling、Runway 吗？",
-      "answer": "支持。IMGPrompt 不仅适配 Midjourney、FLUX、Nano Banana 等图像模型，也支持 Google Veo、Kling、Seedance、Runway、Hailuo 等视频模型。多数同类站点只覆盖图像模型，IMGPrompt 是少数同时免费支持新一代 AI 视频生成的工具之一。"
+      "question": "可以为 Veo、Kling 或 Runway 写视频提示词吗？",
+      "answer": "可以。先描述起始画面，再写主体动作和镜头运动。把写好的提示词复制到视频生成工具，并按所用模型的要求调整参数。"
     },
     "q9": {
-      "question": "不会英文也能用 IMGPrompt 吗？",
-      "answer": "可以。界面共 18 种语言，每个标签同时显示英文和你的母语标签。用母语点选，IMGPrompt 自动用英文（AI 图像和视频模型实际需要的语言）组合 prompt。「翻译」按钮还能一键把母语句子转成英文 prompt。"
+      "question": "不会英文也能写提示词吗？",
+      "answer": "可以用当前界面语言搜索和点选双语标签，编辑器会插入对应的英文。已有完整描述时，展开「翻译并插入」，即可把描述翻成英文并加入提示词。"
     }
   },
   "Schema": {

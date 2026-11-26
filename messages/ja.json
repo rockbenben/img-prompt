@@ -6,13 +6,12 @@
     "ogDescription": "二言語タグをクリックして Midjourney・FLUX・Nano Banana・Veo・Kling 向けのAI画像・動画プロンプトを瞬時に作成。完全無料・ローカル動作。"
   },
   "ToolPage": {
+    "backToTop": "ページの先頭へ",
     "section1": "被写体",
     "section2": "カテゴリ",
     "section3": "タグ",
     "currentSelection": "選択済み",
     "fallback-other": "その他",
-    "tagMode-multicolor": "カラー",
-    "tagMode-monochrome": "モノクロ",
     "tagsLoading": "タグを読み込み中…",
     "tagsError": "タグを読み込めませんでした",
     "retry": "再試行",
@@ -25,7 +24,16 @@
       "invalid": "正しい形式のタグ辞書 JSON ファイルを選択してください。",
       "tooLarge": "2 MB 以下の JSON ファイルを選択してください。",
       "storageError": "この端末に辞書を保存できませんでした。"
-    }
+    },
+    "searchPlaceholder": "5,000以上のタグを検索…",
+    "searchResults": "{count} 件の一致するタグ",
+    "searchEmpty": "一致するタグが見つかりません",
+    "clearSearch": "検索をクリア",
+    "tagView-compact": "タグ",
+    "tagView-visual": "カード",
+    "previewImage": "画像を拡大表示",
+    "selectedEmpty": "タグをクリックして組み立てるか、上に直接入力してください",
+    "viewPrompt": "プロンプトを見る"
   },
   "ResultSection": {
     "tooltip-light": "ポートレート・ライティングのプロンプトを挿入（フィルム・ライティング、夕暮れの光など）",
@@ -56,7 +64,9 @@
     "placeholder-prompt": "タグを選ぶと自動で組み上がります。直接入力もできます",
     "placeholder-translate": "例：夕日の中の猫",
     "autoTranslate": "自動翻訳を有効にする",
-    "translationPrivacy": "自動翻訳は初期設定でオフです。翻訳ボタンを押すか自動翻訳を有効にすると、テキストが Google、Microsoft Edge、Youdao または MyMemory に送信されます。"
+    "translationPrivacy": "自動翻訳は初期設定でオフです。翻訳ボタンを押すか自動翻訳を有効にすると、テキストが Google、Microsoft Edge、Youdao または MyMemory に送信されます。",
+    "quickPresets": "クイックプリセット",
+    "localLibraryLabel": "ローカルタグ辞書"
   },
   "CopyToClipboard": {
     "empty": "内容が空のため、コピーするものがありません",
@@ -76,30 +86,30 @@
     "placeholder": "メッセージを残してください。ログインは必要ありません（返信通知を受け取るにはメールアドレスを入力してください）"
   },
   "Home": {
-    "h1": "IMGPrompt · <hl>絵の具</hl>を選ぶように、プロンプトを選ぶ",
-    "tagline": "5000+ のバイリンガルタグ · AI画像/動画プロンプトを数秒で · Midjourney / FLUX / GPT-Image / Veo / Kling"
+    "h1": "IMGPrompt · 見て<hl>選ぶ</hl> AI プロンプト構築",
+    "tagline": "5,000以上の画像付き二言語タグ · Midjourney / FLUX / GPT-Image / Veo / Kling"
   },
   "FAQ": {
-    "title": "よくある質問",
+    "title": "AIプロンプト編集に関するよくある質問",
     "q1": {
-      "question": "IMGPrompt は何ですか？どの AI 画像モデルに対応していますか？",
-      "answer": "IMGPrompt はテキストから画像を生成するモデル向けのプロンプトエディタで、英語と自国語を併記した視覚的なタグによって英語プロンプトを素早く組み立てられます。公式対応は Nano Banana、GPT-image-2、Midjourney、FLUX、Seedance、Veo、Kling（画像・動画）で、生成されたプロンプトは Stable Diffusion、DALL·E、その他互換文法を受け入れる任意のモデルでも使えます。"
+      "question": "IMGPromptとは何ですか？画像生成用のプロンプトを作れますか？",
+      "answer": "IMGPromptは画像・動画向けの無料プロンプトエディターです。バイリンガルの画像カードを検索して選び、英文を編集してMidjourney、FLUX、GPT Imageなどの画像生成ツールに貼り付けられます。"
     },
     "q2": {
-      "question": "無料ですか？サインアップは必要ですか？データはアップロードされますか？",
-      "answer": "完全無料で、登録もログインも不要です。プロンプトの組み立てと入力はすべてブラウザ内で処理され、バックエンドのデータベースもありません。翻訳機能を使うときだけ、対象テキストがサードパーティの翻訳サービスに送信されます。プロジェクトは GitHub でオープンソース公開されており、コードの監査やセルフホストも可能です。"
+      "question": "IMGPromptは無料ですか？プロンプトは送信されますか？",
+      "answer": "ウェブ版は無料で、アカウントは不要です。編集や読み込みはブラウザー内で行われます。自動翻訳は既定で無効です。どちらの翻訳方法でも翻訳対象のテキストを外部サービスに送信します。"
     },
     "q7": {
-      "question": "IMGPromptは PromptHero、Lexica、PromptBase と何が違いますか？",
-      "answer": "IMGPromptは「クリックして組み立てる」ツールであり、プロンプト検索エンジンではありません。 PromptHero、Lexica、PromptBaseが他人の書いたプロンプトを閲覧・購入するサービスであるのに対し、IMGPromptは二言語のビジュアルタグをクリックして自分で組み立てます。 自動翻訳は初期設定でオフです。翻訳ボタンを押すか自動翻訳を有効にすると、テキストが Google、Microsoft Edge、Youdao または MyMemory に送信されます。"
+      "question": "自分のタグライブラリを読み込めますか？",
+      "answer": "はい。編集欄の下部でローカルタグライブラリを開き、2 MB以下のJSONファイルを読み込みます。タグはカテゴリ、検索結果、候補に表示されます。ライブラリはブラウザー内に保存されます。"
     },
     "q8": {
-      "question": "IMGPromptはVeo、Kling、RunwayなどのAI動画モデルに対応していますか？",
-      "answer": "対応しています。Midjourney、FLUX、Nano Bananaなどの画像モデルに加え、Google Veo、Kling、Seedance、Runway、HailuoなどのAI動画モデル向けのプロンプトも生成できます。多くのプロンプトサイトは画像モデルのみ対応で、IMGPromptは新世代のAI動画生成にも対応する数少ない無料ツールです。"
+      "question": "Veo、Kling、Runway向けの動画プロンプトを作れますか？",
+      "answer": "はい。最初のカット、被写体の動き、カメラワークを書きます。動画生成ツールに貼り付け、モデルに合わせてパラメーターを調整してください。"
     },
     "q9": {
-      "question": "英語ができなくてもIMGPromptを使えますか？",
-      "answer": "使えます。UIは18言語、各タグは英語と母国語の両方が表示されます。母国語でタグをクリックすると、IMGPromptが英語（AI画像・動画モデルが必要とする言語）でプロンプトを組み立てます。「翻訳」ボタンで母国語の文章を英語プロンプトに一発変換することもできます。"
+      "question": "英語が分からなくてもプロンプトを作れますか？",
+      "answer": "はい。画面の言語でバイリンガルのタグを検索して選ぶと、対応する英語が挿入されます。文章全体を追加する場合は翻訳機能を使えます。"
     }
   },
   "Schema": {

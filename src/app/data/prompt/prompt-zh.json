@@ -558,7 +558,7 @@
     "langName": "和风女仆",
     "object": "人物",
     "attribute": "身份",
-    "preview": "https://img.aishort.top/imgprompt/20260209051112828.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091109332.webp"
   },
   {
     "displayName": "yaoi",
@@ -685,6 +685,13 @@
     "object": "人物",
     "attribute": "二次元",
     "preview": "https://img.aishort.top/imgprompt/20260209051338305.webp"
+  },
+  {
+    "displayName": "k/da_(league_of_legends)",
+    "langName": "K/DA 偶像女团（LOL）",
+    "object": "人物",
+    "attribute": "二次元",
+    "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
   },
   {
     "displayName": "magical_girl",
@@ -1174,7 +1181,7 @@
     "langName": "黑皮肤",
     "object": "人物",
     "attribute": "皮肤",
-    "preview": "https://img.aishort.top/imgprompt/20260210193448392.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125160109491.webp"
   },
   {
     "displayName": "white_marble_glowing_skin",
@@ -2462,7 +2469,7 @@
     "langName": "狗耳朵",
     "object": "人物",
     "attribute": "耳朵",
-    "preview": "https://img.aishort.top/imgprompt/20260211140539891.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162324015.webp"
   },
   {
     "displayName": "coyote_ears",
@@ -2483,14 +2490,14 @@
     "langName": "老鼠耳朵",
     "object": "人物",
     "attribute": "耳朵",
-    "preview": "https://img.aishort.top/imgprompt/20260211140618000.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173955736.webp"
   },
   {
     "displayName": "squirrel_ears",
     "langName": "松鼠耳朵",
     "object": "人物",
     "attribute": "耳朵",
-    "preview": "https://img.aishort.top/imgprompt/20260211140630342.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162324839.webp"
   },
   {
     "displayName": "raccoon_ears",
@@ -2511,7 +2518,7 @@
     "langName": "熊猫耳朵",
     "object": "人物",
     "attribute": "耳朵",
-    "preview": "https://img.aishort.top/imgprompt/20260211140708077.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162324403.webp"
   },
   {
     "displayName": "lion_ears",
@@ -2729,6 +2736,13 @@
     "object": "人物",
     "attribute": "眼睛",
     "preview": "https://img.aishort.top/imgprompt/20260211141356627.webp"
+  },
+  {
+    "displayName": "eyeball",
+    "langName": "盯着看",
+    "object": "人物",
+    "attribute": "眼睛",
+    "preview": "https://img.aishort.top/imgprompt/20260211175041807.webp"
   },
   {
     "displayName": "glistening_eyes",
@@ -3449,7 +3463,7 @@
     "langName": "明亮的眼睛",
     "object": "人物",
     "attribute": "眼神",
-    "preview": "https://img.aishort.top/imgprompt/20260211143656521.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173955218.webp"
   },
   {
     "displayName": "glowing_eyes",
@@ -3484,14 +3498,14 @@
     "langName": "空洞的眼睛",
     "object": "人物",
     "attribute": "眼神",
-    "preview": "https://img.aishort.top/imgprompt/20260211143758170.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175821265.webp"
   },
   {
     "displayName": "solid_eyes",
     "langName": "单色眼睛",
     "object": "人物",
     "attribute": "眼神",
-    "preview": "https://img.aishort.top/imgprompt/20260211143810525.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211913129.webp"
   },
   {
     "displayName": "sharp_eyes",
@@ -3505,7 +3519,7 @@
     "langName": "上挑的眼睛",
     "object": "人物",
     "attribute": "眼神",
-    "preview": "https://img.aishort.top/imgprompt/20260211143835871.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211913654.webp"
   },
   {
     "displayName": "wink",
@@ -4110,6 +4124,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260211145729295.webp"
   },
   {
+    "displayName": "sharp_fingernails",
+    "langName": "锐利的手指甲",
+    "object": "人物",
+    "attribute": "指甲",
+    "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
+  },
+  {
     "displayName": "nail",
     "langName": "指甲",
     "object": "人物",
@@ -4436,7 +4457,7 @@
     "langName": "迷你翅膀",
     "object": "人物",
     "attribute": "翅膀",
-    "preview": "https://img.aishort.top/imgprompt/20260211150708765.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173954730.webp"
   },
   {
     "displayName": "multicolored_wings",
@@ -4520,7 +4541,7 @@
     "langName": "双色调背景",
     "object": "环境",
     "attribute": "背景",
-    "preview": "https://img.aishort.top/imgprompt/20260211150936747.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922134.webp"
   },
   {
     "displayName": "multicolored_background",
@@ -5605,7 +5626,7 @@
     "langName": "透光高层云",
     "object": "环境",
     "attribute": "云",
-    "preview": "https://img.aishort.top/imgprompt/20260211154517625.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161821354.webp"
   },
   {
     "displayName": "altostratus_opacus",
@@ -5843,7 +5864,7 @@
     "langName": "御币",
     "object": "环境",
     "attribute": "室外",
-    "preview": "https://img.aishort.top/imgprompt/20260317125003286.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091313251.webp"
   },
   {
     "displayName": "temple",
@@ -6273,15 +6294,15 @@
     "preview": "https://img.aishort.top/imgprompt/20260211160551027.webp"
   },
   {
-    "displayName": "greco-roman architectur",
+    "displayName": "greco-roman architecture",
     "langName": "希腊罗马式建筑",
     "object": "环境",
     "attribute": "室外",
     "preview": "https://img.aishort.top/imgprompt/20260211160604356.webp"
   },
   {
-    "displayName": "in the romanesque architecture streets",
-    "langName": "罗马街道",
+    "displayName": "street with Romanesque architecture",
+    "langName": "罗曼式建筑街道",
     "object": "环境",
     "attribute": "室外",
     "preview": "https://img.aishort.top/imgprompt/20260211160617842.webp"
@@ -6378,25 +6399,11 @@
     "preview": "https://img.aishort.top/imgprompt/20260211160941350.webp"
   },
   {
-    "displayName": "chinese_style_loft",
-    "langName": "中式阁楼",
+    "displayName": "architectural turret",
+    "langName": "建筑角塔",
     "object": "环境",
     "attribute": "室外",
-    "preview": "https://img.aishort.top/imgprompt/20260928203748176.webp"
-  },
-  {
-    "displayName": "traditional_chinese_room",
-    "langName": "传统中式客房",
-    "object": "环境",
-    "attribute": "室外",
-    "preview": "https://img.aishort.top/imgprompt/20260928203800477.webp"
-  },
-  {
-    "displayName": "turret",
-    "langName": "塔楼",
-    "object": "环境",
-    "attribute": "室外",
-    "preview": "https://img.aishort.top/imgprompt/20260211161021082.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091447286.webp"
   },
   {
     "displayName": "tower",
@@ -6732,7 +6739,21 @@
     "langName": "宫殿",
     "object": "环境",
     "attribute": "室内",
-    "preview": "https://img.aishort.top/imgprompt/20260211162027180.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091113495.webp"
+  },
+  {
+    "displayName": "chinese_style_loft",
+    "langName": "中式阁楼",
+    "object": "环境",
+    "attribute": "室内",
+    "preview": "https://img.aishort.top/imgprompt/20260928203748176.webp"
+  },
+  {
+    "displayName": "traditional_chinese_room",
+    "langName": "传统中式客房",
+    "object": "环境",
+    "attribute": "室内",
+    "preview": "https://img.aishort.top/imgprompt/20260928203800477.webp"
   },
   {
     "displayName": "bed",
@@ -7663,7 +7684,7 @@
     "langName": "团扇",
     "object": "物品",
     "attribute": "其它物品",
-    "preview": "https://img.aishort.top/imgprompt/20260211164840551.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091536844.webp"
   },
   {
     "displayName": "Cage",
@@ -7831,7 +7852,7 @@
     "langName": "Q版画中画 / 迷你角色插图",
     "object": "物品",
     "attribute": "其它物品",
-    "preview": "https://img.aishort.top/imgprompt/20260211165341977.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162327643.webp"
   },
   {
     "displayName": "damaged",
@@ -7964,7 +7985,7 @@
     "langName": "军刀 / 佩剑",
     "object": "物品",
     "attribute": "武器",
-    "preview": "https://img.aishort.top/imgprompt/20260211165743163.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091117893.webp"
   },
   {
     "displayName": "dagger",
@@ -9693,7 +9714,7 @@
     "langName": "人物视角向下看↘",
     "object": "动作",
     "attribute": "眼神表情",
-    "preview": "https://img.aishort.top/imgprompt/20260211175003043.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211914077.webp"
   },
   {
     "displayName": "looking_up",
@@ -9708,13 +9729,6 @@
     "object": "动作",
     "attribute": "眼神表情",
     "preview": "https://img.aishort.top/imgprompt/20260211175028772.webp"
-  },
-  {
-    "displayName": "eyeball",
-    "langName": "盯着看",
-    "object": "动作",
-    "attribute": "眼神表情",
-    "preview": "https://img.aishort.top/imgprompt/20260211175041807.webp"
   },
   {
     "displayName": "looking_to_the_side",
@@ -9742,14 +9756,14 @@
     "langName": "目视前方",
     "object": "动作",
     "attribute": "眼神表情",
-    "preview": "https://img.aishort.top/imgprompt/20260211175132546.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211914519.webp"
   },
   {
     "displayName": "sideways_glance",
     "langName": "轻轻向侧面瞥",
     "object": "动作",
     "attribute": "眼神表情",
-    "preview": "https://img.aishort.top/imgprompt/20260211175145263.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211914924.webp"
   },
   {
     "displayName": "head_tilt",
@@ -9855,13 +9869,6 @@
     "object": "动作",
     "attribute": "眼神表情",
     "preview": "https://img.aishort.top/imgprompt/20260928173151946.webp"
-  },
-  {
-    "displayName": "gradient",
-    "langName": "渐变",
-    "object": "动作",
-    "attribute": "眼神表情",
-    "preview": "https://img.aishort.top/imgprompt/20260211175505744.webp"
   },
   {
     "displayName": "stare at me",
@@ -9990,13 +9997,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260928170307207.webp"
   },
   {
-    "displayName": "sharp_fingernails",
-    "langName": "锐利的手指甲",
-    "object": "动作",
-    "attribute": "手臂动作",
-    "preview": "https://img.aishort.top/imgprompt/20260211175903502.webp"
-  },
-  {
     "displayName": "spread_fingers",
     "langName": "张开手指",
     "object": "动作",
@@ -10015,7 +10015,7 @@
     "langName": "手指比W",
     "object": "动作",
     "attribute": "手臂动作",
-    "preview": "https://img.aishort.top/imgprompt/20260928170326088.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162328098.webp"
   },
   {
     "displayName": "bound_arms",
@@ -10064,7 +10064,7 @@
     "langName": "手臂往后拉",
     "object": "动作",
     "attribute": "手臂动作",
-    "preview": "https://img.aishort.top/imgprompt/20260928185216850.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211915279.webp"
   },
   {
     "displayName": "hugging_own_legs",
@@ -10316,7 +10316,7 @@
     "langName": "猫爪手势 / 招财猫手势",
     "object": "动作",
     "attribute": "手势表达",
-    "preview": "https://img.aishort.top/imgprompt/20260211180850322.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162325252.webp"
   },
   {
     "displayName": "finger_gun",
@@ -10365,7 +10365,7 @@
     "langName": "狐狸影偶",
     "object": "动作",
     "attribute": "手势表达",
-    "preview": "https://img.aishort.top/imgprompt/20260211181016614.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211915478.webp"
   },
   {
     "displayName": "double_fox_shadow_puppet",
@@ -10379,7 +10379,7 @@
     "langName": "咬手指",
     "object": "动作",
     "attribute": "手势表达",
-    "preview": "https://img.aishort.top/imgprompt/20260211181041581.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211915701.webp"
   },
   {
     "displayName": "finger_in_mouth",
@@ -11016,7 +11016,7 @@
     "langName": "双手放在自己的肚子上",
     "object": "动作",
     "attribute": "拥抱抓握",
-    "preview": "https://img.aishort.top/imgprompt/20260211183050952.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050324324.webp"
   },
   {
     "displayName": "hands_on_own_thighs",
@@ -11128,7 +11128,7 @@
     "langName": "抓着领带",
     "object": "动作",
     "attribute": "拥抱抓握",
-    "preview": "https://img.aishort.top/imgprompt/20260211183430733.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050324749.webp"
   },
   {
     "displayName": "neckwear_grab",
@@ -11142,7 +11142,7 @@
     "langName": "抓着枕头",
     "object": "动作",
     "attribute": "拥抱抓握",
-    "preview": "https://img.aishort.top/imgprompt/20260211183459740.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050324964.webp"
   },
   {
     "displayName": "sheet_grab",
@@ -11310,7 +11310,7 @@
     "langName": "把手放在自己的肚子上",
     "object": "动作",
     "attribute": "拥抱抓握",
-    "preview": "https://img.aishort.top/imgprompt/20260212075648271.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050325289.webp"
   },
   {
     "displayName": "hand_on_shoulder",
@@ -11373,7 +11373,7 @@
     "langName": "两腿分开",
     "object": "动作",
     "attribute": "腿脚动作",
-    "preview": "https://img.aishort.top/imgprompt/20260211184203044.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050325498.webp"
   },
   {
     "displayName": "knees_to_chest",
@@ -11415,7 +11415,7 @@
     "langName": "屈膝礼",
     "object": "动作",
     "attribute": "腿脚动作",
-    "preview": "https://img.aishort.top/imgprompt/20260211184319738.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050325678.webp"
   },
   {
     "displayName": "tiptoes",
@@ -11443,7 +11443,7 @@
     "langName": "单脚不在图内",
     "object": "动作",
     "attribute": "腿脚动作",
-    "preview": "https://img.aishort.top/imgprompt/20260928172729001.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050325865.webp"
   },
   {
     "displayName": "all_fours",
@@ -11458,13 +11458,6 @@
     "object": "动作",
     "attribute": "腿脚动作",
     "preview": "https://img.aishort.top/imgprompt/20260928172748532.webp"
-  },
-  {
-    "displayName": "ankle_strap",
-    "langName": "脚踝丝环",
-    "object": "动作",
-    "attribute": "腿脚动作",
-    "preview": "https://img.aishort.top/imgprompt/20260211184447933.webp"
   },
   {
     "displayName": "ankle_wrap",
@@ -11544,13 +11537,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260211184704562.webp"
   },
   {
-    "displayName": "k/da_(league_of_legends)",
-    "langName": "K/DA 偶像女团（LOL）",
-    "object": "动作",
-    "attribute": "腿脚动作",
-    "preview": "https://img.aishort.top/imgprompt/20260212080235797.webp"
-  },
-  {
     "displayName": "knee_up",
     "langName": "顶起膝盖",
     "object": "动作",
@@ -11579,13 +11565,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260211184806590.webp"
   },
   {
-    "displayName": "leg_belt",
-    "langName": "腿部系着带子",
-    "object": "动作",
-    "attribute": "腿脚动作",
-    "preview": "https://img.aishort.top/imgprompt/20260928185618936.webp"
-  },
-  {
     "displayName": "leg_hair",
     "langName": "腿毛",
     "object": "动作",
@@ -11611,7 +11590,7 @@
     "langName": "双腿抬过头",
     "object": "动作",
     "attribute": "腿脚动作",
-    "preview": "https://img.aishort.top/imgprompt/20260224190101888.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162707679.webp"
   },
   {
     "displayName": "lowleg",
@@ -11639,7 +11618,7 @@
     "langName": "没画出腿",
     "object": "动作",
     "attribute": "腿脚动作",
-    "preview": "https://img.aishort.top/imgprompt/20260928172843942.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050326138.webp"
   },
   {
     "displayName": "no_legwear",
@@ -11667,7 +11646,7 @@
     "langName": "内八字腿",
     "object": "动作",
     "attribute": "腿脚动作",
-    "preview": "https://img.aishort.top/imgprompt/20260928172903124.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050326307.webp"
   },
   {
     "displayName": "soaking_feet",
@@ -11681,7 +11660,7 @@
     "langName": "张开双腿",
     "object": "动作",
     "attribute": "腿脚动作",
-    "preview": "https://img.aishort.top/imgprompt/20260211185113618.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050326598.webp"
   },
   {
     "displayName": "squatting",
@@ -12916,13 +12895,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260211192832498.webp"
   },
   {
-    "displayName": "zipper_pull_tab",
-    "langName": "拉链的拉片",
-    "object": "动作",
-    "attribute": "服装整理",
-    "preview": "https://img.aishort.top/imgprompt/20260211192845162.webp"
-  },
-  {
     "displayName": "pulled_by_self",
     "langName": "拉下自己的衣物",
     "object": "动作",
@@ -12941,7 +12913,7 @@
     "langName": "掀裙成篮",
     "object": "动作",
     "attribute": "服装整理",
-    "preview": "https://img.aishort.top/imgprompt/20260317125432845.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211916057.webp"
   },
   {
     "displayName": "cheek_pull",
@@ -13095,7 +13067,7 @@
     "langName": "向后坐",
     "object": "动作",
     "attribute": "特殊动作",
-    "preview": "https://img.aishort.top/imgprompt/20260211193524331.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161823584.webp"
   },
   {
     "displayName": "sitting_in_tree",
@@ -13830,7 +13802,7 @@
     "langName": "疯狂的笑",
     "object": "表情",
     "attribute": "笑",
-    "preview": "https://img.aishort.top/imgprompt/20260211200005529.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211916395.webp"
   },
   {
     "displayName": "kind_smile",
@@ -13851,7 +13823,7 @@
     "langName": "开心的眼泪",
     "object": "表情",
     "attribute": "笑",
-    "preview": "https://img.aishort.top/imgprompt/20260211200103253.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211916802.webp"
   },
   {
     "displayName": "sad",
@@ -13886,7 +13858,7 @@
     "langName": "流泪",
     "object": "表情",
     "attribute": "哭",
-    "preview": "https://img.aishort.top/imgprompt/20260211200350163.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211917151.webp"
   },
   {
     "displayName": "lacrimation",
@@ -13907,7 +13879,7 @@
     "langName": "泪珠",
     "object": "表情",
     "attribute": "哭",
-    "preview": "https://img.aishort.top/imgprompt/20260212083443138.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211917530.webp"
   },
   {
     "displayName": "tearing_up",
@@ -14202,7 +14174,7 @@
     "langName": "困乏的",
     "object": "表情",
     "attribute": "其他表情",
-    "preview": "https://img.aishort.top/imgprompt/20260212090526279.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211917910.webp"
   },
   {
     "displayName": "surprised",
@@ -14356,7 +14328,7 @@
     "langName": "化身博士",
     "object": "表情",
     "attribute": "其他表情",
-    "preview": "https://img.aishort.top/imgprompt/20260212094243164.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211918242.webp"
   },
   {
     "displayName": "exhausted",
@@ -14685,7 +14657,7 @@
     "langName": "道袍",
     "object": "服饰",
     "attribute": "服饰风格",
-    "preview": "https://img.aishort.top/imgprompt/20260212104604081.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091255712.webp"
   },
   {
     "displayName": "japanese_clothes",
@@ -14696,17 +14668,17 @@
   },
   {
     "displayName": "enmaided",
-    "langName": "穿着和服的女性",
+    "langName": "扮成女仆",
     "object": "服饰",
     "attribute": "服饰风格",
-    "preview": "https://img.aishort.top/imgprompt/20260928173617045.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091121483.webp"
   },
   {
     "displayName": "hanten_clothes",
     "langName": "半缠 / 袢缠（日式冬装）",
     "object": "服饰",
     "attribute": "服饰风格",
-    "preview": "https://img.aishort.top/imgprompt/20260212105049429.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091129755.webp"
   },
   {
     "displayName": "kimono",
@@ -14720,14 +14692,14 @@
     "langName": "振袖（长袖和服）",
     "object": "服饰",
     "attribute": "服饰风格",
-    "preview": "https://img.aishort.top/imgprompt/20260212105116515.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091136154.webp"
   },
   {
     "displayName": "sleeveless_kimono",
     "langName": "无袖和服",
     "object": "服饰",
     "attribute": "服饰风格",
-    "preview": "https://img.aishort.top/imgprompt/20260212105129459.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162707335.webp"
   },
   {
     "displayName": "short_kimono",
@@ -14745,7 +14717,7 @@
   },
   {
     "displayName": "uchikake",
-    "langName": "打褂 / 白无垢（日式嫁衣）",
+    "langName": "打褂（日式婚礼外袍）",
     "object": "服饰",
     "attribute": "服饰风格",
     "preview": "https://img.aishort.top/imgprompt/20260928173627665.webp"
@@ -14773,24 +14745,24 @@
   },
   {
     "displayName": "pelvic_curtain",
-    "langName": "旗袍类衣物的前摆",
+    "langName": "腰间垂挂的布片",
     "object": "服饰",
     "attribute": "服饰风格",
-    "preview": "https://img.aishort.top/imgprompt/20260928173647730.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091143323.webp"
   },
   {
     "displayName": "ainu_clothes",
     "langName": "阿伊努人的服饰",
     "object": "服饰",
     "attribute": "服饰风格",
-    "preview": "https://img.aishort.top/imgprompt/20260212111343945.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091316711.webp"
   },
   {
     "displayName": "korean_clothes",
-    "langName": "朝鲜服饰",
+    "langName": "朝鲜半岛传统服饰",
     "object": "服饰",
     "attribute": "服饰风格",
-    "preview": "https://img.aishort.top/imgprompt/20260212111357320.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091320153.webp"
   },
   {
     "displayName": "hanbok",
@@ -14815,10 +14787,10 @@
   },
   {
     "displayName": "german_clothes",
-    "langName": "德国服饰",
+    "langName": "德式传统服饰",
     "object": "服饰",
     "attribute": "服饰风格",
-    "preview": "https://img.aishort.top/imgprompt/20260212112504716.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091323775.webp"
   },
   {
     "displayName": "indian_style",
@@ -14846,7 +14818,7 @@
     "langName": "拜占庭风格",
     "object": "服饰",
     "attribute": "服饰风格",
-    "preview": "https://img.aishort.top/imgprompt/20260212113409688.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091327512.webp"
   },
   {
     "displayName": "gothic",
@@ -14979,21 +14951,21 @@
     "langName": "唐风",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260212121530666.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126085947739.webp"
   },
   {
     "displayName": "hanfu,song style outfits,<lora:hanfuSong_v31:0.7>",
     "langName": "宋风",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260212121746787.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126085955725.webp"
   },
   {
     "displayName": "hanfu,ming style outfits,<lora:hanfuMing_v31:0.7>",
     "langName": "明风",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260212122002935.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090002386.webp"
   },
   {
     "displayName": "orange upper shan",
@@ -15010,25 +14982,25 @@
     "preview": "https://img.aishort.top/imgprompt/20260928200431683.webp"
   },
   {
-    "displayName": "white chest po skirt",
+    "displayName": "white chest-high gored skirt",
     "langName": "齐胸破裙",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260317071440831.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126085958959.webp"
   },
   {
     "displayName": "red chest pleated skirt",
     "langName": "齐胸褶裙",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260212123059075.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090028365.webp"
   },
   {
     "displayName": "green waistband",
     "langName": "绿色系带",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260213104707325.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126084512995.webp"
   },
   {
     "displayName": "white pibo",
@@ -15056,7 +15028,7 @@
     "langName": "半透白百褶裙",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260212124218502.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126085951656.webp"
   },
   {
     "displayName": "green floral songmo",
@@ -15077,56 +15049,56 @@
     "langName": "马面裙",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260212124500986.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090006306.webp"
   },
   {
     "displayName": "round collar",
     "langName": "圆领",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260212124716561.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090056951.webp"
   },
   {
     "displayName": "standing collar",
     "langName": "立领",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260928173438690.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090033281.webp"
   },
   {
     "displayName": "square collar",
     "langName": "方领",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260928173448488.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090106261.webp"
   },
   {
-    "displayName": "overlapping collar",
+    "displayName": "yunjian cloud collar",
     "langName": "云肩",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260928200451869.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090101763.webp"
   },
   {
     "displayName": "embroidery",
     "langName": "刺绣",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260225101959426.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090010646.webp"
   },
   {
     "displayName": "woven gold",
     "langName": "织金",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260212125226637.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090023272.webp"
   },
   {
-    "displayName": "makeup flower",
+    "displayName": "zhuanghua polychrome silk brocade",
     "langName": "妆花",
     "object": "服饰",
     "attribute": "古风",
-    "preview": "https://img.aishort.top/imgprompt/20260212125646370.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126090016610.webp"
   },
   {
     "displayName": "bufu",
@@ -15322,7 +15294,7 @@
     "langName": "神职长袍",
     "object": "服饰",
     "attribute": "正装",
-    "preview": "https://img.aishort.top/imgprompt/20260212133738802.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091304126.webp"
   },
   {
     "displayName": "domineering",
@@ -16603,7 +16575,7 @@
     "langName": "割烹着（日式料理围裙）",
     "object": "服饰",
     "attribute": "上衣",
-    "preview": "https://img.aishort.top/imgprompt/20260213065332620.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091255721.webp"
   },
   {
     "displayName": "detached sleeves",
@@ -17471,7 +17443,7 @@
     "langName": "白色领带",
     "object": "服饰",
     "attribute": "领口",
-    "preview": "https://img.aishort.top/imgprompt/20260213085746475.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173954434.webp"
   },
   {
     "displayName": "bowtie",
@@ -17730,7 +17702,7 @@
     "langName": "格子领口",
     "object": "服饰",
     "attribute": "领口",
-    "preview": "https://img.aishort.top/imgprompt/20260213113334291.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211918587.webp"
   },
   {
     "displayName": "diagonal-striped_neckwear",
@@ -17863,7 +17835,7 @@
     "langName": "菱形围巾",
     "object": "服饰",
     "attribute": "围巾",
-    "preview": "https://img.aishort.top/imgprompt/20260213113743333.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050326865.webp"
   },
   {
     "displayName": "beige_scarf",
@@ -17919,7 +17891,7 @@
     "langName": "手臂围巾",
     "object": "服饰",
     "attribute": "围巾",
-    "preview": "https://img.aishort.top/imgprompt/20260928200914226.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050327222.webp"
   },
   {
     "displayName": "scarf_on_head",
@@ -17989,7 +17961,7 @@
     "langName": "腰围裙",
     "object": "服饰",
     "attribute": "腰部",
-    "preview": "https://img.aishort.top/imgprompt/20260213114946767.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050327659.webp"
   },
   {
     "displayName": "maid_apron",
@@ -18017,7 +17989,7 @@
     "langName": "腰间衣服",
     "object": "服饰",
     "attribute": "腰部",
-    "preview": "https://img.aishort.top/imgprompt/20260213115240005.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050328206.webp"
   },
   {
     "displayName": "jacket_around_waist",
@@ -18098,7 +18070,7 @@
   },
   {
     "displayName": "kusazuri",
-    "langName": "草摺 / 腹当（日系裙甲）",
+    "langName": "草摺（日式裙甲）",
     "object": "服饰",
     "attribute": "盔甲",
     "preview": "https://img.aishort.top/imgprompt/20260928173507617.webp"
@@ -18115,7 +18087,7 @@
     "langName": "头盔",
     "object": "服饰",
     "attribute": "盔甲",
-    "preview": "https://img.aishort.top/imgprompt/20260213115535005.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091149298.webp"
   },
   {
     "displayName": "kabuto",
@@ -18157,7 +18129,7 @@
     "langName": "腹甲 / 裙甲（腰甲）",
     "object": "服饰",
     "attribute": "盔甲",
-    "preview": "https://img.aishort.top/imgprompt/20260928173528167.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091155963.webp"
   },
   {
     "displayName": "greaves",
@@ -18178,7 +18150,7 @@
     "langName": "装甲靴",
     "object": "服饰",
     "attribute": "盔甲",
-    "preview": "https://img.aishort.top/imgprompt/20260213115933940.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091304450.webp"
   },
   {
     "displayName": "dress",
@@ -18661,7 +18633,7 @@
     "langName": "扯住裙摆|按住裙摆",
     "object": "服饰",
     "attribute": "裙子",
-    "preview": "https://img.aishort.top/imgprompt/20260213132657290.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175821474.webp"
   },
   {
     "displayName": "dress_tug",
@@ -18885,7 +18857,7 @@
     "langName": "袴裤",
     "object": "服饰",
     "attribute": "裤子",
-    "preview": "https://img.aishort.top/imgprompt/20260213134600275.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091540095.webp"
   },
   {
     "displayName": "harem_pants",
@@ -19168,6 +19140,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260213142519445.webp"
   },
   {
+    "displayName": "single_kneehigh",
+    "langName": "单侧过膝袜",
+    "object": "服饰",
+    "attribute": "袜子",
+    "preview": "https://img.aishort.top/imgprompt/20260928173817207.webp"
+  },
+  {
     "displayName": "bare_legs",
     "langName": "裸腿",
     "object": "服饰",
@@ -19424,7 +19403,7 @@
     "langName": "足袋（日式分趾袜）",
     "object": "服饰",
     "attribute": "袜子",
-    "preview": "https://img.aishort.top/imgprompt/20260928174848509.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091309740.webp"
   },
   {
     "displayName": "ankle_socks",
@@ -19459,7 +19438,7 @@
     "langName": "袜子有开口",
     "object": "服饰",
     "attribute": "袜子",
-    "preview": "https://img.aishort.top/imgprompt/20260213144241934.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161824696.webp"
   },
   {
     "displayName": "leg_garter",
@@ -19774,7 +19753,7 @@
     "langName": "双竖条纹",
     "object": "服饰",
     "attribute": "装饰",
-    "preview": "https://img.aishort.top/imgprompt/20260213151245222.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050328737.webp"
   },
   {
     "displayName": "halter_top",
@@ -19799,7 +19778,7 @@
   },
   {
     "displayName": "nontraditional_miko",
-    "langName": "改款过的日本服饰",
+    "langName": "改款巫女服",
     "object": "服饰",
     "attribute": "装饰",
     "preview": "https://img.aishort.top/imgprompt/20260213151336542.webp"
@@ -19817,13 +19796,6 @@
     "object": "服饰",
     "attribute": "装饰",
     "preview": "https://img.aishort.top/imgprompt/20260225090618230.webp"
-  },
-  {
-    "displayName": "single_kneehigh",
-    "langName": "单侧过膝袜",
-    "object": "服饰",
-    "attribute": "装饰",
-    "preview": "https://img.aishort.top/imgprompt/20260928173817207.webp"
   },
   {
     "displayName": "single_vertical_stripe",
@@ -19851,7 +19823,14 @@
     "langName": "带O型环的衣物",
     "object": "服饰",
     "attribute": "装饰",
-    "preview": "https://img.aishort.top/imgprompt/20260213151511780.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050329375.webp"
+  },
+  {
+    "displayName": "leg_belt",
+    "langName": "腿部系着带子",
+    "object": "服饰",
+    "attribute": "装饰",
+    "preview": "https://img.aishort.top/imgprompt/20260928185618936.webp"
   },
   {
     "displayName": "o-ring_top",
@@ -19886,7 +19865,7 @@
     "langName": "衣服的抽绳",
     "object": "服饰",
     "attribute": "装饰",
-    "preview": "https://img.aishort.top/imgprompt/20260213151820136.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126050329959.webp"
   },
   {
     "displayName": "full-length_zipper",
@@ -19894,6 +19873,13 @@
     "object": "服饰",
     "attribute": "装饰",
     "preview": "https://img.aishort.top/imgprompt/20260213151833174.webp"
+  },
+  {
+    "displayName": "zipper_pull_tab",
+    "langName": "拉链的拉片",
+    "object": "服饰",
+    "attribute": "装饰",
+    "preview": "https://img.aishort.top/imgprompt/20261125211920953.webp"
   },
   {
     "displayName": "gathers",
@@ -20005,91 +19991,91 @@
     "langName": "动物印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152202525.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162904512.webp"
   },
   {
     "displayName": "cat_print",
     "langName": "猫咪印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152215430.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162904986.webp"
   },
   {
     "displayName": "bear_print",
     "langName": "熊印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152228436.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162905481.webp"
   },
   {
     "displayName": "bird_print",
     "langName": "鸟印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152241567.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161827019.webp"
   },
   {
     "displayName": "bunny_print",
     "langName": "兔子印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152254424.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162905976.webp"
   },
   {
     "displayName": "cow_print",
     "langName": "奶牛印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152307330.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161826540.webp"
   },
   {
     "displayName": "dragon_print",
     "langName": "龙印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152320471.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162906436.webp"
   },
   {
     "displayName": "fish_print",
     "langName": "鱼印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152333619.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161830624.webp"
   },
   {
     "displayName": "frog_print",
     "langName": "青蛙印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152346813.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162906928.webp"
   },
   {
     "displayName": "shark_print",
     "langName": "鲨鱼印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152359711.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162907382.webp"
   },
   {
     "displayName": "snake_print",
     "langName": "蛇纹",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152415185.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162907887.webp"
   },
   {
     "displayName": "zebra_print",
     "langName": "斑马印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152428298.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162908366.webp"
   },
   {
     "displayName": "tiger_print",
     "langName": "虎纹",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152441366.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162908821.webp"
   },
   {
     "displayName": "leopard_print",
@@ -20103,112 +20089,112 @@
     "langName": "美洲豹印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152507588.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162909298.webp"
   },
   {
     "displayName": "bat_print",
     "langName": "蝙蝠印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152521321.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162909805.webp"
   },
   {
     "displayName": "aardwolf_print",
     "langName": "土狼印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152534337.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162910305.webp"
   },
   {
     "displayName": "african_wild_dog_print",
     "langName": "非洲野狗印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152547913.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162910798.webp"
   },
   {
     "displayName": "cheetah_print",
     "langName": "猎豹印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152601013.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162911324.webp"
   },
   {
     "displayName": "dog_print",
     "langName": "狗印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152816742.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162911826.webp"
   },
   {
     "displayName": "fox_print",
     "langName": "狐狸印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152829626.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161828045.webp"
   },
   {
     "displayName": "giraffe_print",
     "langName": "长颈鹿印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152842177.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161833706.webp"
   },
   {
     "displayName": "panda_print",
     "langName": "熊猫印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152855089.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162912321.webp"
   },
   {
     "displayName": "sand_cat_print",
     "langName": "沙猫印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152907952.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162912808.webp"
   },
   {
     "displayName": "whale_print",
     "langName": "鲸鱼印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152920714.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162913277.webp"
   },
   {
     "displayName": "white_tiger_print",
     "langName": "白虎纹",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152933750.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162913774.webp"
   },
   {
     "displayName": "goldfish_print",
     "langName": "金鱼印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152946698.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161832199.webp"
   },
   {
     "displayName": "wing_print",
     "langName": "翼印",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213152959587.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162914238.webp"
   },
   {
     "displayName": "spider_web_print",
     "langName": "蛛网纹",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153013273.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162914703.webp"
   },
   {
     "displayName": "butterfly_print",
     "langName": "蝴蝶印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153026296.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161830120.webp"
   },
   {
     "displayName": "floral_print",
@@ -20222,70 +20208,70 @@
     "langName": "叶印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153053047.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162915178.webp"
   },
   {
     "displayName": "clover_print",
     "langName": "三叶草印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153105539.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161829116.webp"
   },
   {
     "displayName": "maple_leaf_print",
     "langName": "枫叶印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153118530.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162915757.webp"
   },
   {
     "displayName": "rose_print",
     "langName": "玫瑰印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153131694.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161831660.webp"
   },
   {
     "displayName": "strawberry_print",
     "langName": "草莓印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153144543.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162916272.webp"
   },
   {
     "displayName": "cherry_print",
     "langName": "樱桃印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153157132.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161827541.webp"
   },
   {
     "displayName": "bamboo_print",
     "langName": "竹印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153209854.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161831160.webp"
   },
   {
     "displayName": "carrot_print",
     "langName": "胡萝卜印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153222346.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162916707.webp"
   },
   {
     "displayName": "hibiscus_print",
     "langName": "芙蓉印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153235607.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162917172.webp"
   },
   {
     "displayName": "jack-o'-lantern_print",
     "langName": "南瓜灯印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153249416.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162917652.webp"
   },
   {
     "displayName": "petal_print",
@@ -20299,56 +20285,56 @@
     "langName": "向日葵印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153315350.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161832696.webp"
   },
   {
     "displayName": "watermelon_print",
     "langName": "西瓜印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153328644.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162918147.webp"
   },
   {
     "displayName": "sky_print",
     "langName": "天空印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153341432.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162918602.webp"
   },
   {
     "displayName": "cloud_print",
     "langName": "云印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153354843.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162919131.webp"
   },
   {
     "displayName": "lightning_bolt_print",
     "langName": "闪电印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153611416.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162919632.webp"
   },
   {
     "displayName": "rainbow_print",
     "langName": "彩虹印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153624309.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162920103.webp"
   },
   {
     "displayName": "snowflake_print",
     "langName": "雪花印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153637092.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162920568.webp"
   },
   {
     "displayName": "starry_sky_print",
     "langName": "星空印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153650267.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162921043.webp"
   },
   {
     "displayName": "crescent_print",
@@ -20362,7 +20348,7 @@
     "langName": "星形印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153716858.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162921529.webp"
   },
   {
     "displayName": "star_(symbol)",
@@ -20376,14 +20362,14 @@
     "langName": "月亮印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153743255.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162922061.webp"
   },
   {
     "displayName": "sun_print",
     "langName": "太阳印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153756474.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162922566.webp"
   },
   {
     "displayName": "character_print",
@@ -20397,49 +20383,49 @@
     "langName": "衣服上的字",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153822706.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162923036.webp"
   },
   {
     "displayName": "anchor_print",
     "langName": "锚印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153837813.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162923544.webp"
   },
   {
     "displayName": "cherry_blossom_print",
     "langName": "樱花印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213153850429.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162924000.webp"
   },
   {
     "displayName": "musical_note_print",
     "langName": "音符印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154106018.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161826047.webp"
   },
   {
     "displayName": "triangle_print",
     "langName": "三角印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154118571.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161825522.webp"
   },
   {
     "displayName": "arrow_print",
     "langName": "箭头印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154333725.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162924502.webp"
   },
   {
     "displayName": "wave_print",
     "langName": "波浪纹",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154346819.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162925022.webp"
   },
   {
     "displayName": "peace_symbol",
@@ -20453,14 +20439,14 @@
     "langName": "心形图案|心形印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154614668.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162925557.webp"
   },
   {
     "displayName": "flame_print",
     "langName": "火焰印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154627746.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162926056.webp"
   },
   {
     "displayName": "hitodama_print",
@@ -20474,42 +20460,42 @@
     "langName": "爪印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154654622.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162926514.webp"
   },
   {
     "displayName": "skeleton_print",
     "langName": "骨架印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154707300.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161833217.webp"
   },
   {
     "displayName": "skull_print",
     "langName": "骷髅头印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154720879.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162926987.webp"
   },
   {
     "displayName": "sparkle_print",
     "langName": "闪闪发光的印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154734596.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162927482.webp"
   },
   {
     "displayName": "yin_yang_print",
     "langName": "阴阳印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154747695.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162928012.webp"
   },
   {
     "displayName": "cross_print",
     "langName": "十字架元素图案",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154800629.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162928508.webp"
   },
   {
     "displayName": "camoflage",
@@ -20523,42 +20509,42 @@
     "langName": "旗帜印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154826754.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162929003.webp"
   },
   {
     "displayName": "bone_print",
     "langName": "骨印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154839578.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161829637.webp"
   },
   {
     "displayName": "ghost_print",
     "langName": "幽灵印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154852492.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162929505.webp"
   },
   {
     "displayName": "mushroom_print",
     "langName": "蘑菇印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154905276.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161828581.webp"
   },
   {
     "displayName": "onigiri_print",
     "langName": "饭团印花",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154918144.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162929972.webp"
   },
   {
     "displayName": "cat_ear_cutout",
     "langName": "猫耳造型的镂空设计",
     "object": "服饰",
     "attribute": "花纹",
-    "preview": "https://img.aishort.top/imgprompt/20260213154930457.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162930432.webp"
   },
   {
     "displayName": "barefoot",
@@ -20750,6 +20736,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260928174535108.webp"
   },
   {
+    "displayName": "ankle_strap",
+    "langName": "脚踝丝环",
+    "object": "服饰",
+    "attribute": "鞋子",
+    "preview": "https://img.aishort.top/imgprompt/20260211184447933.webp"
+  },
+  {
     "displayName": "mismatched_footwear",
     "langName": "左右不同的鞋",
     "object": "服饰",
@@ -20775,7 +20768,7 @@
     "langName": "脱下凉鞋",
     "object": "服饰",
     "attribute": "鞋子",
-    "preview": "https://img.aishort.top/imgprompt/20260213164304925.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162706874.webp"
   },
   {
     "displayName": "shoe_soles",
@@ -20925,13 +20918,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260213172417479.webp"
   },
   {
-    "displayName": "anklet",
-    "langName": "脚链",
-    "object": "服饰",
-    "attribute": "靴子",
-    "preview": "https://img.aishort.top/imgprompt/20260213173037758.webp"
-  },
-  {
     "displayName": "rubber_boots",
     "langName": "胶靴",
     "object": "服饰",
@@ -21013,7 +20999,7 @@
     "langName": "单袖",
     "object": "服饰",
     "attribute": "袖子",
-    "preview": "https://img.aishort.top/imgprompt/20260928201215340.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211918960.webp"
   },
   {
     "displayName": "asymmetrical_sleeves",
@@ -21041,7 +21027,7 @@
     "langName": "蓬蓬短袖",
     "object": "服饰",
     "attribute": "袖子",
-    "preview": "https://img.aishort.top/imgprompt/20260213174518348.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211919158.webp"
   },
   {
     "displayName": "frilled_sleeves",
@@ -21104,14 +21090,14 @@
     "langName": "撕裂的袖子",
     "object": "服饰",
     "attribute": "袖子",
-    "preview": "https://img.aishort.top/imgprompt/20260928201237224.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211919404.webp"
   },
   {
     "displayName": "sleeves_past_fingers",
     "langName": "袖子长过手指",
     "object": "服饰",
     "attribute": "袖子",
-    "preview": "https://img.aishort.top/imgprompt/20260213175340402.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211919844.webp"
   },
   {
     "displayName": "sleeves_past_wrists",
@@ -21160,7 +21146,7 @@
     "langName": "袖子卷起",
     "object": "服饰",
     "attribute": "袖子",
-    "preview": "https://img.aishort.top/imgprompt/20260213175714155.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211920207.webp"
   },
   {
     "displayName": "sleeves_rolled_up",
@@ -21202,7 +21188,7 @@
     "langName": "棱纹袖子",
     "object": "服饰",
     "attribute": "袖子",
-    "preview": "https://img.aishort.top/imgprompt/20260213180640375.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161821632.webp"
   },
   {
     "displayName": "single_detached_sleeve",
@@ -22371,7 +22357,7 @@
     "langName": "簪子",
     "object": "饰品",
     "attribute": "发饰",
-    "preview": "https://img.aishort.top/imgprompt/20260213093703586.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091614214.webp"
   },
   {
     "displayName": "hood",
@@ -22801,13 +22787,6 @@
     "preview": "https://img.aishort.top/imgprompt/20260928184807322.webp"
   },
   {
-    "displayName": "hatching_(texture)",
-    "langName": "排线阴影 / 影线纹理",
-    "object": "饰品",
-    "attribute": "帽子",
-    "preview": "https://img.aishort.top/imgprompt/20260928165239901.webp"
-  },
-  {
     "displayName": "hatsune_miku_(cosplay)",
     "langName": "cos成初音未来",
     "object": "饰品",
@@ -22816,7 +22795,7 @@
   },
   {
     "displayName": "porkpie_hat",
-    "langName": "道士帽",
+    "langName": "平顶窄檐帽（Pork Pie）",
     "object": "饰品",
     "attribute": "帽子",
     "preview": "https://img.aishort.top/imgprompt/20260213224356623.webp"
@@ -23239,7 +23218,7 @@
     "langName": "药丸样式的耳环",
     "object": "饰品",
     "attribute": "耳饰",
-    "preview": "https://img.aishort.top/imgprompt/20260213235417049.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161823118.webp"
   },
   {
     "displayName": "single_earring",
@@ -23470,7 +23449,7 @@
     "langName": "长款过肘手套",
     "object": "饰品",
     "attribute": "手套",
-    "preview": "https://img.aishort.top/imgprompt/20260214002215553.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161823899.webp"
   },
   {
     "displayName": "bridal_gauntlets",
@@ -23800,6 +23779,13 @@
     "object": "饰品",
     "attribute": "首饰",
     "preview": "https://img.aishort.top/imgprompt/20260214011111983.webp"
+  },
+  {
+    "displayName": "anklet",
+    "langName": "脚链",
+    "object": "饰品",
+    "attribute": "首饰",
+    "preview": "https://img.aishort.top/imgprompt/20260213173037758.webp"
   },
   {
     "displayName": "choker",
@@ -24415,7 +24401,7 @@
     "langName": "单人主体聚焦",
     "object": "摄影",
     "attribute": "镜头聚焦",
-    "preview": "https://img.aishort.top/imgprompt/20260214034010842.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162325613.webp"
   },
   {
     "displayName": "xx_focus",
@@ -24933,7 +24919,7 @@
     "langName": "闪光灯拍摄",
     "object": "摄影",
     "attribute": "相机设置",
-    "preview": "https://img.aishort.top/imgprompt/20260214044503923.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161822700.webp"
   },
   {
     "displayName": "Exposure",
@@ -25269,7 +25255,7 @@
     "langName": "八进制",
     "object": "摄影",
     "attribute": "数字系统",
-    "preview": "https://img.aishort.top/imgprompt/20260928205745135.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162326590.webp"
   },
   {
     "displayName": "Nonary",
@@ -25290,7 +25276,7 @@
     "langName": "十六进制",
     "object": "摄影",
     "attribute": "数字系统",
-    "preview": "https://img.aishort.top/imgprompt/20260224191018464.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162326331.webp"
   },
   {
     "displayName": "depth of field",
@@ -25495,7 +25481,7 @@
     "object": "摄影",
     "attribute": "高级运镜",
     "description": "结合多种运镜方式（如推进+侧移），表现更复杂的场景或情绪。",
-    "preview": "https://img.aishort.top/imgprompt/20260928205526329.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175821976.webp"
   },
   {
     "displayName": "Follow Shot",
@@ -25725,7 +25711,7 @@
     "langName": "背光",
     "object": "光影效果",
     "attribute": "光源",
-    "preview": "https://img.aishort.top/imgprompt/20260224195751634.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173955507.webp"
   },
   {
     "displayName": "Soft Lighting",
@@ -25746,7 +25732,7 @@
     "langName": "顶光",
     "object": "光影效果",
     "attribute": "光线类型",
-    "preview": "https://img.aishort.top/imgprompt/20260224195833635.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173954993.webp"
   },
   {
     "displayName": "Side Lighting",
@@ -25767,7 +25753,7 @@
     "langName": "边缘光/轮廓光",
     "object": "光影效果",
     "attribute": "光线类型",
-    "preview": "https://img.aishort.top/imgprompt/20260224200123793.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211920512.webp"
   },
   {
     "displayName": "silhouette",
@@ -25879,14 +25865,14 @@
     "langName": "伦勃朗灯光",
     "object": "光影效果",
     "attribute": "光照效果",
-    "preview": "https://img.aishort.top/imgprompt/20260928204721877.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211920729.webp"
   },
   {
     "displayName": "Split Lighting",
     "langName": "分体照明",
     "object": "光影效果",
     "attribute": "光照效果",
-    "preview": "https://img.aishort.top/imgprompt/20260224200521669.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161822381.webp"
   },
   {
     "displayName": "Beautiful Lighting",
@@ -25907,7 +25893,7 @@
     "langName": "全局光照",
     "object": "光影效果",
     "attribute": "光照效果",
-    "preview": "https://img.aishort.top/imgprompt/20260224200605690.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211921411.webp"
   },
   {
     "displayName": "Lumen Global Illumination",
@@ -25921,7 +25907,7 @@
     "langName": "屏幕空间全局光照",
     "object": "光影效果",
     "attribute": "光照效果",
-    "preview": "https://img.aishort.top/imgprompt/20260224200634881.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125211921557.webp"
   },
   {
     "displayName": "Ray Tracing Global Illumination",
@@ -26054,7 +26040,7 @@
     "langName": "小夜灯",
     "object": "光影效果",
     "attribute": "灯光",
-    "preview": "https://img.aishort.top/imgprompt/20260224203113075.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125173954169.webp"
   },
   {
     "displayName": "Christmas Lights",
@@ -26866,7 +26852,7 @@
     "langName": "蜜桃",
     "object": "色彩氛围",
     "attribute": "浅色调",
-    "preview": "https://img.aishort.top/imgprompt/20260224220801995.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162708494.webp"
   },
   {
     "displayName": "papayawhip",
@@ -26992,7 +26978,7 @@
     "langName": "橄榄褐",
     "object": "色彩氛围",
     "attribute": "深色调",
-    "preview": "https://img.aishort.top/imgprompt/20260224221226675.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162707993.webp"
   },
   {
     "displayName": "olive",
@@ -27475,7 +27461,7 @@
     "langName": "深兰花紫",
     "object": "色彩氛围",
     "attribute": "光谱色系",
-    "preview": "https://img.aishort.top/imgprompt/20260224222932858.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162708249.webp"
   },
   {
     "displayName": "darkviolet",
@@ -27531,7 +27517,14 @@
     "langName": "冷色调",
     "object": "色彩氛围",
     "attribute": "彩色调色板",
-    "preview": "https://img.aishort.top/imgprompt/20260224223133968.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921812.webp"
+  },
+  {
+    "displayName": "gradient",
+    "langName": "渐变",
+    "object": "色彩氛围",
+    "attribute": "彩色调色板",
+    "preview": "https://img.aishort.top/imgprompt/20260211175505744.webp"
   },
   {
     "displayName": "Colorful",
@@ -27622,7 +27615,7 @@
     "langName": "分裂互补色",
     "object": "色彩氛围",
     "attribute": "彩色调色板",
-    "preview": "https://img.aishort.top/imgprompt/20260928203231605.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161822110.webp"
   },
   {
     "displayName": "Supplementary-Colors",
@@ -27678,14 +27671,14 @@
     "langName": "浅色模式",
     "object": "色彩氛围",
     "attribute": "彩色调色板",
-    "preview": "https://img.aishort.top/imgprompt/20260928180332309.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161825249.webp"
   },
   {
     "displayName": "Dark Mode",
     "langName": "深色模式",
     "object": "色彩氛围",
     "attribute": "彩色调色板",
-    "preview": "https://img.aishort.top/imgprompt/20260224223724577.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161824977.webp"
   },
   {
     "displayName": "Tones of Black",
@@ -27713,7 +27706,7 @@
     "langName": "浅蓝色前景",
     "object": "色彩氛围",
     "attribute": "彩色调色板",
-    "preview": "https://img.aishort.top/imgprompt/20260224223821644.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921970.webp"
   },
   {
     "displayName": "Light Blue",
@@ -27861,14 +27854,14 @@
     "langName": "EGA",
     "object": "色彩氛围",
     "attribute": "显示器调色板",
-    "preview": "https://img.aishort.top/imgprompt/20260224224332009.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922342.webp"
   },
   {
     "displayName": "CGA",
     "langName": "CGA",
     "object": "色彩氛围",
     "attribute": "显示器调色板",
-    "preview": "https://img.aishort.top/imgprompt/20260224224347905.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922245.webp"
   },
   {
     "displayName": "HDR",
@@ -27882,7 +27875,7 @@
     "langName": "雅达利图形",
     "object": "色彩氛围",
     "attribute": "显示器调色板",
-    "preview": "https://img.aishort.top/imgprompt/20260224224415318.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162709012.webp"
   },
   {
     "displayName": "IIGS Graphics",
@@ -27917,7 +27910,7 @@
     "langName": "DCI-P3",
     "object": "色彩氛围",
     "attribute": "显示器调色板",
-    "preview": "https://img.aishort.top/imgprompt/20260224224532778.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922547.webp"
   },
   {
     "displayName": "HSV",
@@ -27931,7 +27924,7 @@
     "langName": "色相、饱和度、亮度",
     "object": "色彩氛围",
     "attribute": "显示器调色板",
-    "preview": "https://img.aishort.top/imgprompt/20260224224601439.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162708737.webp"
   },
   {
     "displayName": "HCL",
@@ -27945,7 +27938,7 @@
     "langName": "YCbCr",
     "object": "色彩氛围",
     "attribute": "显示器调色板",
-    "preview": "https://img.aishort.top/imgprompt/20260224224629664.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174922449.webp"
   },
   {
     "displayName": "YPbPr",
@@ -28435,7 +28428,7 @@
     "langName": "手稿纸",
     "object": "素材",
     "attribute": "木材和纸张",
-    "preview": "https://img.aishort.top/imgprompt/20260224230547793.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091309268.webp"
   },
   {
     "displayName": "Wrapping Paper",
@@ -28463,7 +28456,7 @@
     "langName": "中世纪的羊皮纸",
     "object": "素材",
     "attribute": "木材和纸张",
-    "preview": "https://img.aishort.top/imgprompt/20260224230643607.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091313550.webp"
   },
   {
     "displayName": "Toilet Paper",
@@ -29625,7 +29618,7 @@
     "langName": "聚酰亚胺",
     "object": "素材",
     "attribute": "塑料/泡沫膜",
-    "preview": "https://img.aishort.top/imgprompt/20260224234924114.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162325974.webp"
   },
   {
     "displayName": "Styrofoam",
@@ -30220,7 +30213,7 @@
     "langName": "靛青乳菇",
     "object": "素材",
     "attribute": "菌类",
-    "preview": "https://img.aishort.top/imgprompt/20260225001006384.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125161824244.webp"
   },
   {
     "displayName": "Latticed-Stinkhorn",
@@ -30787,7 +30780,7 @@
     "langName": "莫比乌斯环",
     "object": "形状|空间",
     "attribute": "物体",
-    "preview": "https://img.aishort.top/imgprompt/20260928183946311.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822525.webp"
   },
   {
     "displayName": "Hexaflexagon",
@@ -30934,7 +30927,7 @@
     "langName": "二维",
     "object": "形状|空间",
     "attribute": "多元宇宙",
-    "preview": "https://img.aishort.top/imgprompt/20260928183752205.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162327376.webp"
   },
   {
     "displayName": "2D",
@@ -31179,7 +31172,7 @@
     "langName": "顶点",
     "object": "形状|空间",
     "attribute": "特性",
-    "preview": "https://img.aishort.top/imgprompt/20260225004319879.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822705.webp"
   },
   {
     "displayName": "Edge",
@@ -31277,7 +31270,7 @@
     "langName": "拟规则",
     "object": "形状|空间",
     "attribute": "特性",
-    "preview": "https://img.aishort.top/imgprompt/20260225004630788.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822614.webp"
   },
   {
     "displayName": "Isogonal",
@@ -31438,7 +31431,7 @@
     "langName": "卷轴画",
     "object": "图像种类",
     "attribute": "绘画",
-    "preview": "https://img.aishort.top/imgprompt/20260225005424337.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091317354.webp"
   },
   {
     "displayName": "Canvas",
@@ -31679,6 +31672,13 @@
     "preview": "https://img.aishort.top/imgprompt/20260928204228249.webp"
   },
   {
+    "displayName": "hatching_(texture)",
+    "langName": "排线阴影 / 影线纹理",
+    "object": "图像种类",
+    "attribute": "手绘",
+    "preview": "https://img.aishort.top/imgprompt/20261125175821724.webp"
+  },
+  {
     "displayName": "Stipple",
     "langName": "点画法",
     "object": "图像种类",
@@ -31907,7 +31907,7 @@
     "langName": "文本",
     "object": "图像种类",
     "attribute": "文本",
-    "preview": "https://img.aishort.top/imgprompt/20260225010926601.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921357.webp"
   },
   {
     "displayName": "Typeface",
@@ -31921,7 +31921,7 @@
     "langName": "字体",
     "object": "图像种类",
     "attribute": "文本",
-    "preview": "https://img.aishort.top/imgprompt/20260225010954580.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921647.webp"
   },
   {
     "displayName": "Says",
@@ -31942,7 +31942,7 @@
     "langName": "字素",
     "object": "图像种类",
     "attribute": "文本",
-    "preview": "https://img.aishort.top/imgprompt/20260928181935781.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175821087.webp"
   },
   {
     "displayName": "Written Letters",
@@ -31956,7 +31956,7 @@
     "langName": "单词",
     "object": "图像种类",
     "attribute": "文本",
-    "preview": "https://img.aishort.top/imgprompt/20260225011100157.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125174921168.webp"
   },
   {
     "displayName": "Lexemes",
@@ -32481,7 +32481,7 @@
     "langName": "旧石器时代的陶器",
     "object": "图像种类",
     "attribute": "陶器和玻璃",
-    "preview": "https://img.aishort.top/imgprompt/20260225013447730.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091320736.webp"
   },
   {
     "displayName": "Neolithic Pottery",
@@ -32768,7 +32768,7 @@
     "langName": "古典主义",
     "object": "艺术风格",
     "attribute": "历史艺术风格",
-    "preview": "https://img.aishort.top/imgprompt/20260225014412038.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091432189.webp"
   },
   {
     "displayName": "((neoclassicism))",
@@ -32782,14 +32782,14 @@
     "langName": "浪漫主义",
     "object": "艺术风格",
     "attribute": "历史艺术风格",
-    "preview": "https://img.aishort.top/imgprompt/20260225014444040.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091325561.webp"
   },
   {
     "displayName": "Gothic art",
     "langName": "哥特式艺术",
     "object": "艺术风格",
     "attribute": "历史艺术风格",
-    "preview": "https://img.aishort.top/imgprompt/20260225014456290.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091437862.webp"
   },
   {
     "displayName": "Baroque",
@@ -32803,7 +32803,7 @@
     "langName": "拉斐尔前派",
     "object": "艺术风格",
     "attribute": "历史艺术风格",
-    "preview": "https://img.aishort.top/imgprompt/20260225014520971.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091330077.webp"
   },
   {
     "displayName": "renaissance art",
@@ -32824,7 +32824,7 @@
     "langName": "学院主义",
     "object": "艺术风格",
     "attribute": "历史艺术风格",
-    "preview": "https://img.aishort.top/imgprompt/20260225014558266.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091442191.webp"
   },
   {
     "displayName": "ancient greek art",
@@ -33185,10 +33185,10 @@
   },
   {
     "displayName": "Japonism",
-    "langName": "日式风格",
+    "langName": "日本主义（西方艺术中的日本影响）",
     "object": "艺术风格",
     "attribute": "亚洲艺术",
-    "preview": "https://img.aishort.top/imgprompt/20260225015855411.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091528439.webp"
   },
   {
     "displayName": "Japanese manga style",
@@ -33902,21 +33902,21 @@
     "langName": "抗锯齿",
     "object": "后期处理",
     "attribute": "抗锯齿",
-    "preview": "https://img.aishort.top/imgprompt/20260225021947817.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822875.webp"
   },
   {
     "displayName": "FXAA",
     "langName": "FXAA",
     "object": "后期处理",
     "attribute": "抗锯齿",
-    "preview": "https://img.aishort.top/imgprompt/20260225022000268.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175823197.webp"
   },
   {
     "displayName": "TXAA",
     "langName": "TXAA",
     "object": "后期处理",
     "attribute": "抗锯齿",
-    "preview": "https://img.aishort.top/imgprompt/20260225022012163.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175823291.webp"
   },
   {
     "displayName": "RTX",
@@ -33930,14 +33930,14 @@
     "langName": "SSAO",
     "object": "后期处理",
     "attribute": "抗锯齿",
-    "preview": "https://img.aishort.top/imgprompt/20260225022035948.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822414.webp"
   },
   {
     "displayName": "De-Noise",
     "langName": "降噪",
     "object": "后期处理",
     "attribute": "抗锯齿",
-    "preview": "https://img.aishort.top/imgprompt/20260225022047839.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125162326849.webp"
   },
   {
     "displayName": "Shaders",
@@ -33958,7 +33958,7 @@
     "langName": "GLSL 着色器",
     "object": "后期处理",
     "attribute": "着色器",
-    "preview": "https://img.aishort.top/imgprompt/20260225022123054.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175823074.webp"
   },
   {
     "displayName": "Post Processing",
@@ -34021,7 +34021,7 @@
     "langName": "扫描线",
     "object": "后期处理",
     "attribute": "图像处理",
-    "preview": "https://img.aishort.top/imgprompt/20260225022321420.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822135.webp"
   },
   {
     "displayName": "Posterization",
@@ -34042,7 +34042,7 @@
     "langName": "Sobel 算子",
     "object": "后期处理",
     "attribute": "图像处理",
-    "preview": "https://img.aishort.top/imgprompt/20260928183402271.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822965.webp"
   },
   {
     "displayName": "Edge Detection",
@@ -34182,7 +34182,7 @@
     "langName": "侵蚀",
     "object": "后期处理",
     "attribute": "图像处理",
-    "preview": "https://img.aishort.top/imgprompt/20260928183428913.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261125175822788.webp"
   },
   {
     "displayName": "Dirty",
@@ -35021,7 +35021,7 @@
     "displayName": "用可爱的风格讲述中国远征军的历史故事\n用波普风格讲述金刚经",
     "langName": "可爱中国远征军故事板",
     "description": "by @RainHuangapp (https://x.com/RainHuangapp)",
-    "preview": "https://img.aishort.top/imgprompt/20260424151508747.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091619485.webp"
   },
   {
     "object": "成品范例",
@@ -35037,7 +35037,7 @@
     "displayName": "请围绕【主题】自动生成一张顶级概念海报 / 信息图式电影海报。\n\n唯一输入变量只有:\n【主题】:__中国历史上的皇帝排名_         \n\n要求 AI 根据这个主题,自动推导并统一设计以下全部视觉系统,不需要我额外指定:\n- 核心主体(可以自动判断更适合人物、产品、建筑、器物、符号、场景或抽象意象)\n- 底部支撑结构\n- 上方悬浮符号或精神象征\n- 场景包裹元素\n- 隐喻系统\n- 色彩层级\n- 材质对比\n- 光影逻辑\n- 标题、副标题、辅助文案\n- 品牌感与高级感表达方式\n\n最终画面必须是:\n一张震撼、精密、统一、电影级、超高细节、可用于高端印刷的概念主视觉海报。\n\n【总风格】\n超写实 3D 商业 CGI 渲染,融合电影级布光、奢侈品视觉语言、未来感概念设计与史诗级构图。画面必须具有“唯一主视觉核心”,不能杂乱,不能像拼贴,不能像普通电商海报。\n\n【自动推导规则】\nAI 必须依据【主题】自动决定最合适的:\n1. 核心视觉隐喻\n2. 主体类型与姿态\n3. 支撑结构形式\n4. 悬浮元素形式\n5. 场景外壳与空间氛围\n6. 主色、辅色、强调色\n7. 材质组合\n8. 文字气质与版式风格\n\n例如:\n- 如果主题偏权力、秩序、资本、统治,则自动偏向王座、冠冕、机械、神殿、红幕、金属、权力结构\n- 如果主题偏科技、AI、芯片、未来,则自动偏向机械结构、能量核心、光束、深色金属、全息感\n- 如果主题偏奢侈品、高定、稀缺、收藏,则自动偏向珠宝、镜面材质、黑金体系、展台、博物馆式布光\n- 如果主题偏人物、IP、角色,则自动以人物为主视觉核心,并自动匹配对应世界观与象征系统\n- 如果主题偏城市、文明、史诗、命运,则自动转化为宏大叙事型空间结构与仪式感场景\n\n【构图规则】\n- 绝对高级感\n- 强烈中心秩序,整体统一\n- 允许中轴对称或接近中轴的史诗级构图\n- 视觉重力明确,从上到下形成清晰的层级落点\n- 边缘负空间干净、克制、有呼吸感\n- 不允许无意义装饰,不允许风格污染,不允许多个系统互相打架\n\n【视觉质量】\n- 超高细节\n- 体积光清晰\n- 材质真实\n- 反射、折射、阴影、雾气、景深自然\n- 每个元素都像经过工业级视觉总监审美控制\n- 整体达到高端品牌 campaign key visual / luxury invitation poster / conceptual editorial poster 水准\n\n【排版系统】\n- 整体为 90% 视觉,10% 文字\n- AI 根据【主题】自动生成最匹配的主标题和副标题\n- 标题必须简洁、锋利、有气势\n- 文案分布在安全负空间内,不压主体\n- 若主题适合中文,则优先生成中文标题;若主题更适合英文,则自动生成英文标题;也可中英结合,但必须统一高级\n- 文字必须尽量少而准,不要堆字\n\n【署名要求】\n在画面底部角落自然加入作者署名:\n@a9quant\n署名要小,但清晰、精致、高级,不喧宾夺主,像顶级视觉作品中的正式作者落款。\n\n【输出要求】\n输出为单张统一构图海报。\n自动根据【主题】完成全部视觉决策。\n画面必须具备史诗感、秩序感、控制力、仪式感、商业完成度。\n最大细节密度,超清,电影级,印刷级,高端成片质感。",
     "langName": "电影感资讯图概念海报",
     "description": "by @A9Quant (https://x.com/A9Quant)",
-    "preview": "https://img.aishort.top/imgprompt/20260424151523525.webp"
+    "preview": "https://img.aishort.top/imgprompt/20261126091532879.webp"
   },
   {
     "object": "成品范例",

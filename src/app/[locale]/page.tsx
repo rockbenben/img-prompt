@@ -1,6 +1,7 @@
 import { Suspense } from "react";
 import { setRequestLocale } from "next-intl/server";
 import HomeClient from "./HomeClient";
+import BackToTop from "@/app/components/BackToTop";
 import HeroHeader from "@/app/components/HeroHeader";
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
@@ -21,6 +22,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
           firstChunkTotal={bootstrap.firstChunkTotal ?? bootstrap.firstChunk.length}
         />
       </Suspense>
+      <BackToTop />
     </>
   );
 }
