@@ -1,6 +1,6 @@
 {
   "name": "img-prompt",
-  "version": "3.1.1",
+  "version": "3.2.0",
   "license": "MIT",
   "scripts": {
     "predev": "node scripts/genAntdCss.mjs && node scripts/sliceData.js",
