@@ -1,78 +1,244 @@
-name: 🐳 Build and Push Docker Image
+name: Build and publish Docker images
 
 on:
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/docker.yml'
+      - '.dockerignore'
+      - 'Dockerfile'
+      - 'nginx.conf'
+      - 'package.json'
+      - 'yarn.lock'
+      - 'next.config.*'
+      - 'postcss.config.*'
+      - 'tsconfig.json'
+      - 'messages/**'
+      - 'public/**'
+      - 'scripts/**'
+      - 'src/**'
+  release:
+    types: [published]
   workflow_dispatch:
-    branches:
-      - main
 
 permissions:
   contents: read
-  packages: write # 用内置 GITHUB_TOKEN 推送 GHCR 所必需，否则 403
+  packages: write
 
-env:
-  IMAGE_NAME: img-prompt
+concurrency:
+  group: ${{ github.event_name == 'push' && 'docker-verify-main' || 'docker-publish-img-prompt' }}
+  cancel-in-progress: ${{ github.event_name == 'push' }}
 
 jobs:
-  docker-deploy:
-    name: Build and Push Docker Image
+  docker:
+    if: >-
+      github.event_name == 'push' ||
+      (github.repository == 'rockbenben/img-prompt' &&
+        ((github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main') ||
+          (github.event_name == 'release' && !github.event.release.prerelease &&
+            startsWith(github.event.release.tag_name, 'v'))))
     runs-on: ubuntu-latest
     steps:
-      - name: 🚚 Get latest code
-        uses: actions/checkout@v7
-        with:
-          fetch-depth: 0
-
-      - name: Extract version from package.json
-        id: get_version
+      - name: Resolve the public source and release version
+        id: source
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
         run: |
-          VERSION=$(jq -r '.version' package.json)
-          echo "VERSION=$VERSION" >> $GITHUB_ENV
+          set -euo pipefail
+          if [[ "$GITHUB_EVENT_NAME" == push ]]; then
+            echo "ref=$GITHUB_SHA" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
 
-      - name: Set up QEMU
-        uses: docker/setup-qemu-action@v4
+          latest=$(gh api "repos/$GITHUB_REPOSITORY/releases/latest" --jq .tag_name)
+          tag=${RELEASE_TAG:-$latest}
+          if [[ "$tag" != "$latest" ]]; then
+            echo "::notice::$tag is no longer the latest Release. Skipping image publishing."
+            exit 0
+          fi
+          case "$tag" in
+            v*) version=${tag#v} ;;
+            app-v*) version=${tag#app-v} ;; # Legacy Releases can still be republished from main.
+            *) version='' ;;
+          esac
+          if [[ ! "$version" =~ ^(0|[1-9][0-9]*)\.(0|[1-9][0-9]*)\.(0|[1-9][0-9]*)$ ]]; then
+            echo "::error::Expected a stable Release tag of the form vMAJOR.MINOR.PATCH."
+            exit 1
+          fi
+          if [[ "$GITHUB_EVENT_NAME" == release ]]; then
+            ref=$GITHUB_SHA
+          else
+            ref="refs/tags/$tag"
+          fi
+          {
+            echo "ref=$ref"
+            echo "tag=$tag"
+            echo "version=$version"
+          } >> "$GITHUB_OUTPUT"
 
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v4
+      - uses: actions/checkout@v7
+        if: steps.source.outputs.ref != ''
+        with:
+          ref: ${{ steps.source.outputs.ref }}
+          persist-credentials: false
 
-      - name: 🔑 Log in to Docker Hub
-        uses: docker/login-action@v4
+      - name: Verify the release commit belongs to public main
+        if: steps.source.outputs.version != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          revision=$(git rev-parse HEAD)
+          status=$(gh api "repos/$GITHUB_REPOSITORY/compare/$revision...main" --jq .status)
+          if [[ "$status" != identical && "$status" != ahead ]]; then
+            echo "::error::Release commit $revision is not part of public main."
+            exit 1
+          fi
+          echo "REVISION=$revision" >> "$GITHUB_ENV"
+
+      - uses: docker/setup-qemu-action@v4
+        if: steps.source.outputs.ref != ''
+        with:
+          platforms: arm64
+
+      - uses: docker/setup-buildx-action@v4
+        if: steps.source.outputs.ref != ''
+
+      - uses: docker/build-push-action@v7
+        name: Build the amd64 verification image
+        if: steps.source.outputs.ref != ''
+        with:
+          context: .
+          platforms: linux/amd64
+          load: true
+          tags: imgprompt-verify:amd64
+          cache-from: type=gha,scope=img-prompt
+
+      - uses: docker/build-push-action@v7
+        name: Build the arm64 verification image
+        if: steps.source.outputs.ref != ''
+        with:
+          context: .
+          platforms: linux/arm64
+          load: true
+          tags: imgprompt-verify:arm64
+          cache-from: type=gha,scope=img-prompt
+          cache-to: type=gha,scope=img-prompt,mode=max,ignore-error=true
+
+      - name: Check both containers
+        if: steps.source.outputs.ref != ''
+        run: |
+          set -euo pipefail
+          for arch in amd64 arm64; do
+            container=$(docker run -d --platform "linux/$arch" -p 127.0.0.1::5666 "imgprompt-verify:$arch")
+            trap 'docker logs "$container"; docker rm -f "$container"' EXIT
+            address=$(docker port "$container" 5666/tcp)
+            curl -fsS --retry 15 --retry-connrefused --retry-delay 1 "http://$address/" > /dev/null
+            for locale in en ar; do
+              curl -fsS "http://$address/$locale" > "$RUNNER_TEMP/imgprompt-smoke.html"
+              grep -q 'id="pp-main"' "$RUNNER_TEMP/imgprompt-smoke.html"
+            done
+            curl -fsS "http://$address/data/prompt-chunks/en/0.json" | jq -e 'type == "array" and length > 0' > /dev/null
+            docker rm -f "$container"
+            trap - EXIT
+          done
+
+      - uses: docker/login-action@v4
+        if: steps.source.outputs.version != ''
         with:
           username: ${{ vars.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
-      - name: 🔐 Login to GitHub Container Registry
-        uses: docker/login-action@v4
+      - uses: docker/login-action@v4
+        if: steps.source.outputs.version != ''
         with:
           registry: ghcr.io
           username: ${{ github.actor }}
-          password: ${{ secrets.GITHUB_TOKEN }} # 如果不是推送到本仓库的容器仓库，则需要使用 ${{ secrets.GHCR_PAT }}
+          password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 🏷️ Extract metadata (tags, labels) for Docker
-        id: meta
-        uses: docker/metadata-action@v6
+      - name: Check the release and existing registry tags
+        if: steps.source.outputs.version != ''
+        id: publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.source.outputs.tag }}
+          VERSION: ${{ steps.source.outputs.version }}
+          HUB_IMAGE: docker.io/${{ vars.DOCKERHUB_USERNAME }}/img-prompt
+          GHCR_IMAGE: ghcr.io/${{ github.repository }}
+        run: |
+          set -euo pipefail
+          if [[ $(gh api "repos/$GITHUB_REPOSITORY/releases/latest" --jq .tag_name) != "$TAG" ]]; then
+            echo "::notice::$TAG was superseded while building. Skipping image publishing."
+            exit 0
+          fi
+          for image in "$HUB_IMAGE" "$GHCR_IMAGE"; do
+            for tag in "$VERSION" "${VERSION%.*}" "${VERSION%%.*}" latest; do
+              ref="$image:$tag"
+              if config=$(docker buildx imagetools inspect "$ref" --format '{{json .Image}}' 2>&1); then
+                published_version=$(jq -er '.["linux/amd64"].config.Labels["org.opencontainers.image.version"]' <<< "$config")
+                if [[ "$tag" == "$VERSION" || "$published_version" == "$VERSION" ]]; then
+                  jq -e --arg revision "$REVISION" --arg version "$VERSION" '
+                    [."linux/amd64", ."linux/arm64"] | all(
+                      .config.Labels["org.opencontainers.image.revision"] == $revision and
+                      .config.Labels["org.opencontainers.image.version"] == $version
+                    )' <<< "$config" > /dev/null || {
+                      echo "::error::$ref already points to a different revision."
+                      exit 1
+                    }
+                elif [[ $(printf '%s\n' "${published_version%%-*}" "$VERSION" | sort -V | tail -1) != "$VERSION" ]]; then
+                  echo "::error::$ref already points to newer version $published_version."
+                  exit 1
+                fi
+              elif [[ "$config" != *"$ref: not found"* && "$config" != *"${ref#docker.io/}: not found"* ]]; then
+                echo "$config" >&2
+                exit 1
+              fi
+            done
+          done
+          echo "ready=true" >> "$GITHUB_OUTPUT"
+
+      - uses: docker/metadata-action@v6
+        id: metadata
+        if: steps.publish.outputs.ready == 'true'
         with:
           images: |
-            ${{ vars.DOCKERHUB_USERNAME }}/${{ env.IMAGE_NAME }}
-            ghcr.io/${{ github.repository_owner }}/${{ env.IMAGE_NAME }}
-          # value= 让 semver tag 取 package.json 版本号而非 git tag，
-          # 这样手动触发（workflow_dispatch，无 tag）也能得到版本号 + latest
+            ${{ vars.DOCKERHUB_USERNAME }}/img-prompt
+            ghcr.io/${{ github.repository }}
           tags: |
-            type=semver,pattern={{version}},value=${{ env.VERSION }}
-            type=semver,pattern={{major}}.{{minor}},value=${{ env.VERSION }}
-            type=semver,pattern={{major}},value=${{ env.VERSION }}
+            type=semver,pattern={{version}},value=${{ steps.source.outputs.version }}
+            type=semver,pattern={{major}}.{{minor}},value=${{ steps.source.outputs.version }}
+            type=semver,pattern={{major}},value=${{ steps.source.outputs.version }}
             type=raw,value=latest
+          labels: |
+            org.opencontainers.image.revision=${{ env.REVISION }}
 
-      # Build and push Docker image to both Docker Hub and GHCR
-      - name: Build and push Docker image
-        uses: docker/build-push-action@v7
+      - uses: docker/build-push-action@v7
+        id: image
+        name: Publish the stable release to Docker Hub and GHCR
+        if: steps.publish.outputs.ready == 'true'
         with:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: ${{ steps.meta.outputs.tags }}
-          labels: ${{ steps.meta.outputs.labels }}
-          cache-from: type=gha
-          cache-to: type=gha,mode=max
+          tags: ${{ steps.metadata.outputs.tags }}
+          labels: ${{ steps.metadata.outputs.labels }}
+
+      - name: Verify the published manifest in both registries
+        if: steps.publish.outputs.ready == 'true'
+        env:
+          DIGEST: ${{ steps.image.outputs.digest }}
+          VERSION: ${{ steps.source.outputs.version }}
+          HUB_IMAGE: docker.io/${{ vars.DOCKERHUB_USERNAME }}/img-prompt
+          GHCR_IMAGE: ghcr.io/${{ github.repository }}
+        run: |
+          set -euo pipefail
+          for image in "$HUB_IMAGE" "$GHCR_IMAGE"; do
+            for tag in "$VERSION" "${VERSION%.*}" "${VERSION%%.*}" latest; do
+              digest=$(docker buildx imagetools inspect "$image:$tag" --format '{{json .Manifest}}' | jq -er .digest)
+              [[ "$digest" == "$DIGEST" ]] || {
+                echo "::error::$image:$tag points to $digest instead of $DIGEST."
+                exit 1
+              }
+            done
+          done

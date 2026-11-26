@@ -4,9 +4,18 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - AGENTS.md
+      - README.md
+      - RELEASE.md
+      - LICENSE
 
 permissions:
   contents: write
+
+concurrency:
+  group: web-artifact-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   web-deploy:
@@ -17,17 +26,20 @@ jobs:
     steps:
       - name: 🚚 Get latest code
         uses: actions/checkout@v7
-        with:
-          # 获取所有标记和分支的所有历史记录（updatetime 必须，否则每次都会变化）
-          fetch-depth: 0
-          # 如果你文档需要 Git 子模块，取消注释下一行
-          # submodules: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v7
         with:
           node-version: 24
           cache: yarn
+
+      - name: Cache Next.js compiler
+        uses: actions/cache@v6
+        with:
+          path: .next/cache
+          key: next-${{ runner.os }}-node24-${{ hashFiles('yarn.lock') }}-${{ hashFiles('src/**', 'messages/**', 'public/**', 'next.config.*', 'tsconfig.json', 'postcss.config.*') }}
+          restore-keys: |
+            next-${{ runner.os }}-node24-${{ hashFiles('yarn.lock') }}-
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
